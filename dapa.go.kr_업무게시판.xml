@@ -4,7 +4,25 @@
 		<title>방위사업청 업무게시판</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3042&amp;bbsSeq=462</link>
 		<description>방위사업청 업무게시판</description>
-		<lastBuildDate>Wed, 25 Feb 2026 21:00:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2026 07:12:14 GMT</lastBuildDate>
+		<item>
+			<title>체계지원분석시스템 PSA개발체계 v.1.0.28버전 소프트웨어 배포</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58251&amp;menuSeq=3042&amp;bbsSeq=462</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58251&amp;menuSeq=3042&amp;bbsSeq=462</guid>
+			<category>통합체계지원</category>
+			<author>박귀태</author>
+			<pubDate>Tue, 03 Mar 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div><div>체계지원분석시스템 PSA개발체계 v.1.0.28버전 소프트웨어 배포합니다.</div></div>]]></description>
+		</item>
+		<item>
+			<title>국방통합원가시스템 사용자 교육자료</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58238&amp;menuSeq=3042&amp;bbsSeq=462</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58238&amp;menuSeq=3042&amp;bbsSeq=462</guid>
+			<category>방산업체지원</category>
+			<author>장대훈</author>
+			<pubDate>Thu, 26 Feb 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div><div>국방통합원가시스템 사용자 교육자료</div><br></div>]]></description>
+		</item>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.27버전 소프트웨어 배포</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58173&amp;menuSeq=3042&amp;bbsSeq=462</link>
@@ -76,24 +94,6 @@
 			<author>박정은</author>
 			<pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div><br></div><div><div>체계지원분석시스템 PSA개발체계 v.1.0.24버전 소프트웨어입니다.</div><br></div>]]></description>
-		</item>
-		<item>
-			<title>체계지원분석시스템 PSA개발체계 v.1.0.23버전 소프트웨어 배포</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=57764&amp;menuSeq=3042&amp;bbsSeq=462</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=57764&amp;menuSeq=3042&amp;bbsSeq=462</guid>
-			<category>통합체계지원</category>
-			<author>박정은</author>
-			<pubDate>Fri, 14 Nov 2025 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><br></div><div><div>체계지원분석시스템 PSA개발체계 v.1.0.23버전 소프트웨어입니다.</div><br></div>]]></description>
-		</item>
-		<item>
-			<title>체계지원분석시스템 PSA개발체계 v.1.0.22버전 소프트웨어 배포</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=21568&amp;menuSeq=3042&amp;bbsSeq=462</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=21568&amp;menuSeq=3042&amp;bbsSeq=462</guid>
-			<category>통합체계지원</category>
-			<author>박정은</author>
-			<pubDate>Tue, 12 Aug 2025 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><br></div><div><div>체계지원분석시스템 PSA개발체계 v.1.0.22버전 소프트웨어입니다.</div><br></div>]]></description>
 		</item>
 	</channel>
 </rss>
