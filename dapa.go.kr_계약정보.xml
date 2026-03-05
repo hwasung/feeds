@@ -4,7 +4,16 @@
 		<title>방위사업청 계약정보</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3049&amp;bbsSeq=244</link>
 		<description>방위사업청 계약정보</description>
-		<lastBuildDate>Wed, 04 Mar 2026 23:00:17 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Mar 2026 00:00:18 GMT</lastBuildDate>
+		<item>
+			<title>방산원가관리체계 인증업체 현황(&apos;26년 3월)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58256&amp;menuSeq=3049&amp;bbsSeq=244</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58256&amp;menuSeq=3049&amp;bbsSeq=244</guid>
+			<category></category>
+			<author>최경신</author>
+			<pubDate>Tue, 03 Mar 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div><div>방산원가관리체계 인증업체 현황 목록 입니다.</div><br></div>]]></description>
+		</item>
 		<item>
 			<title>2026년 1월 국방 목록화 처리 현황</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58171&amp;menuSeq=3049&amp;bbsSeq=244</link>
@@ -85,15 +94,6 @@
 			<author>박상선</author>
 			<pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div>기준일 :&nbsp;2026년 1월 현재</div><div><br></div><div>방산원가관리체계 인증업체 현황 목록 입니다.</div>]]></description>
-		</item>
-		<item>
-			<title>방위사업청 예규 1013호 방산원가관리체계 인증제도 운영지침 개정발령(2025.12.8)</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58162&amp;menuSeq=3049&amp;bbsSeq=244</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58162&amp;menuSeq=3049&amp;bbsSeq=244</guid>
-			<category></category>
-			<author>박상선</author>
-			<pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><div>방위사업청 예규 1013호 방산원가관리체계 인증제도 운영지침 개정발령(2025.12.8)</div><br></div>]]></description>
 		</item>
 	</channel>
 </rss>
