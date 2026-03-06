@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Thu, 05 Mar 2026 22:00:10 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Mar 2026 22:00:11 GMT</lastBuildDate>
+		<item>
+			<title>AI 기본법 톺아보기: AI 기본법 시행, 기업이 알아야 할 핵심 내용과 대응 전략</title>
+			<link>https://www.skax.co.kr/insight/trend/3666/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3666/</guid>
+			<pubDate>Fri, 06 Mar 2026 08:16:52 GMT</pubDate>
+			<description><![CDATA[2026년 시행된 AI 기본법의 핵심 규제인 투명성 확보 의무, 생성형 AI 결과물 표시, 딥페이크 표시 규정을 중심으로 기업이 지금 준비해야 할 대응 전략과 AI 거버넌스 구축 방향을 설명합니다.]]></description>
+		</item>
 		<item>
 			<title>산업별 R&amp;D AI 전략: 반도체부터 제약·바이오까지, 각 산업에 최적화된 AI 적용 로드맵</title>
 			<link>https://www.skax.co.kr/insight/trend/3664/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3638/</guid>
 			<pubDate>Fri, 30 Jan 2026 07:38:13 GMT</pubDate>
 			<description><![CDATA[2026년 로드맵과 함께 SK AX가 에이전틱 AI 시장을 선도하는 전략을 공개합니다.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] 한국형 녹색분류체계가 바꾸는 기업의 의사결정 방식 | 1월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3632/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3632/</guid>
-			<pubDate>Thu, 22 Jan 2026 08:18:21 GMT</pubDate>
-			<description><![CDATA[본 리포트는 K-Taxonomy를 중심으로 녹색금융 환경에서 기업의 투자·ESG 의사결정이 어떻게 변화하는지를 살펴봅니다.]]></description>
 		</item>
 	</channel>
 </rss>
