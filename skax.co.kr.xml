@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Fri, 06 Mar 2026 22:00:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 22:00:08 GMT</lastBuildDate>
+		<item>
+			<title>OpenClaw 보안 사태 리뷰: ‘행동하는 AI’가 만든 엔터프라이즈 보안의 새로운 위협</title>
+			<link>https://www.skax.co.kr/insight/trend/3668/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3668/</guid>
+			<pubDate>Tue, 10 Mar 2026 02:38:15 GMT</pubDate>
+			<description><![CDATA[GitHub에서 급성장한 AI 에이전트 OpenClaw의 보안 취약점과 공급망 공격 사례를 통해, 기업이 AI 에이전트 도입 시 고려해야 할 보안 리스크와 제로 트러스트 기반 AI 보안 전략을 설명합니다.]]></description>
+		</item>
 		<item>
 			<title>AI 기본법 톺아보기: AI 기본법 시행, 기업이 알아야 할 핵심 내용과 대응 전략</title>
 			<link>https://www.skax.co.kr/insight/trend/3666/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3640/</guid>
 			<pubDate>Wed, 04 Feb 2026 06:01:36 GMT</pubDate>
 			<description><![CDATA[2026년 글로벌 물류 산업은 AI를 통해 이러한 복잡성을 해결하고, 동시에 환경 지속가능성이라는 새로운 과제도 함께 달성하고 있습니다.]]></description>
-		</item>
-		<item>
-			<title>제조 산업을 위한 Vertical AI 전략: SK AX 에이전틱 AI 포트폴리오</title>
-			<link>https://www.skax.co.kr/insight/trend/3638/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3638/</guid>
-			<pubDate>Fri, 30 Jan 2026 07:38:13 GMT</pubDate>
-			<description><![CDATA[2026년 로드맵과 함께 SK AX가 에이전틱 AI 시장을 선도하는 전략을 공개합니다.]]></description>
 		</item>
 	</channel>
 </rss>
