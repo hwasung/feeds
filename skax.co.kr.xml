@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 11 Mar 2026 22:00:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 12 Mar 2026 22:00:06 GMT</lastBuildDate>
+		<item>
+			<title>Claude Cowork와 버티컬 AI 플러그인이 만드는 엔터프라이즈 AI의 새 지형</title>
+			<link>https://www.skax.co.kr/insight/trend/3672/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3672/</guid>
+			<pubDate>Thu, 12 Mar 2026 00:31:10 GMT</pubDate>
+			<description><![CDATA[Claude Cowork와 버티컬 플러그인 시스템이 촉발한 엔터프라이즈 AI 에이전트 시대의 변화와 SaaS 산업에 미치는 영향, 그리고 기업이 준비해야 할 AI 거버넌스와 통합 전략을 분석합니다.]]></description>
+		</item>
 		<item>
 			<title>Catena-X Dataspace 기반 DPP 대응 전략: EU 디지털 제품 여권 시대, 제조기업의 실행 해법</title>
 			<link>https://www.skax.co.kr/insight/trend/3670/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3644/</guid>
 			<pubDate>Thu, 19 Feb 2026 05:53:38 GMT</pubDate>
 			<description><![CDATA[R&amp;D AI의 성공을 위해서는 연구자를 대체하는 자동화가 아닌, Human-in-the-loop 기반의 Researcher-Centric 전략으로 설계하고, Expert Feedback Loop와 Explainable AI를 통해 신뢰성을 확보하는 것이 핵심입니다.]]></description>
-		</item>
-		<item>
-			<title>AI 에이전트가 재편하는 금융 생태계: 금융 산업의 A2A 경제 전환</title>
-			<link>https://www.skax.co.kr/insight/trend/3642/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3642/</guid>
-			<pubDate>Fri, 06 Feb 2026 02:31:22 GMT</pubDate>
-			<description><![CDATA[고객이 더 이상 은행 앱이 아니라 ChatGPT, Claude 같은 AI 어시스턴트를 통해 금융 서비스에 접근하고, AI 에이전트들이 여러 금융사의 서비스를 조합하여 최적 솔루션을 제공하며, 데이터 연결성과 API 상호운용성이 새로운 경쟁력이 되고 있습니다.]]></description>
 		</item>
 	</channel>
 </rss>
