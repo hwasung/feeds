@@ -4,7 +4,7 @@
 		<title>방위사업청 사업정보</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3049&amp;bbsSeq=362</link>
 		<description>방위사업청 사업정보</description>
-		<lastBuildDate>Mon, 16 Mar 2026 07:00:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Mar 2026 03:00:58 GMT</lastBuildDate>
 		<item>
 			<title>한국형 합동전술데이터링크체계(JTDLS) 완성형 체계개발 사업추진 현황</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58304&amp;menuSeq=3049&amp;bbsSeq=362</link>
@@ -13,6 +13,15 @@
 			<author>김건우</author>
 			<pubDate>Mon, 16 Mar 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div><div>한국형 합동전술데이터링크체계(JTDLS) 완성형 체계개발 사업추진 현황</div><br></div>]]></description>
+		</item>
+		<item>
+			<title>전자전 사업 현황(&apos;26.3월)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58307&amp;menuSeq=3049&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58307&amp;menuSeq=3049&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>권덕열</author>
+			<pubDate>Mon, 16 Mar 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div>전자전 사업 관련 현황입니다.</div><div><br></div><br>]]></description>
 		</item>
 		<item>
 			<title>포병대대 사격지휘체계 성능개량(BTCS A2) 사업추진 현황</title>
@@ -85,15 +94,6 @@
 			<author>문민기</author>
 			<pubDate>Mon, 09 Feb 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div><div>'26. 2월 기준 해상작전헬기 2차 사업 추진현황 입니다.</div></div>]]></description>
-		</item>
-		<item>
-			<title>해상초계기-Ⅱ 사업 추진현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58145&amp;menuSeq=3049&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58145&amp;menuSeq=3049&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>문민기</author>
-			<pubDate>Mon, 09 Feb 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><div>'26.&nbsp;2월 기준 해상초계기-II 사업 추진현황 입니다.</div></div>]]></description>
 		</item>
 	</channel>
 </rss>
