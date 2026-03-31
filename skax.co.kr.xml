@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Fri, 27 Mar 2026 22:00:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 31 Mar 2026 22:00:15 GMT</lastBuildDate>
+		<item>
+			<title>K-Taxonomy 대응, 진짜 문제는 IT 인프라에 있다</title>
+			<link>https://www.skax.co.kr/insight/trend/3692/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3692/</guid>
+			<pubDate>Tue, 31 Mar 2026 06:27:11 GMT</pubDate>
+			<description><![CDATA[K-Taxonomy 대응의 핵심은 ESG 정책이 아닌 데이터 관리 체계입니다. 활동 단위 ESG 데이터 통합과 녹색금융 대응 전략을 사례를 통해 정리합니다.]]></description>
+		</item>
 		<item>
 			<title>산업안전 SHE 플랫폼으로 혁신하는 AI 시대 예방적 안전 경영</title>
 			<link>https://www.skax.co.kr/insight/trend/3690/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3664/</guid>
 			<pubDate>Wed, 04 Mar 2026 08:17:09 GMT</pubDate>
 			<description><![CDATA[반도체부터 제약·바이오까지 산업별 데이터 구조와 연구 방식에 따라 달라지는 R&amp;D AI 전략을 분석하고, PoC에서 전사 확산까지 이어지는 실행 로드맵과 SK AX의 산업별 R&amp;D AI 오퍼링을 설명합니다.]]></description>
-		</item>
-		<item>
-			<title>SK AX의 물성예측 AI를 통한 반도체·배터리 신소재 개발 경쟁력 확보 사례</title>
-			<link>https://www.skax.co.kr/insight/trend/3662/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3662/</guid>
-			<pubDate>Wed, 04 Mar 2026 00:28:06 GMT</pubDate>
-			<description><![CDATA[SK AX의 물성예측 AI(AIPS)는 화학 구조 기반 AI 모델을 통해 소재 합성 전 물성을 예측하여 유망 후보만 선별하고, 반도체와 배터리 신소재 개발의 비용·시간을 크게 줄이는 R&amp;D 혁신 사례를 소개합니다.]]></description>
 		</item>
 	</channel>
 </rss>
