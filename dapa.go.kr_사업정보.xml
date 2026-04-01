@@ -4,7 +4,7 @@
 		<title>방위사업청 사업정보</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3049&amp;bbsSeq=362</link>
 		<description>방위사업청 사업정보</description>
-		<lastBuildDate>Tue, 31 Mar 2026 02:00:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 01 Apr 2026 00:00:39 GMT</lastBuildDate>
 		<item>
 			<title>해안정찰용무인항공기 사업 추진일정(2026.03.)</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58361&amp;menuSeq=3049&amp;bbsSeq=362</link>
@@ -13,6 +13,33 @@
 			<author>이경호</author>
 			<pubDate>Tue, 31 Mar 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div>해안정찰용무인항공기 사업 추진일정</div>]]></description>
+		</item>
+		<item>
+			<title>TICN 양산 사업 현황</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58364&amp;menuSeq=3049&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58364&amp;menuSeq=3049&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>이상윤</author>
+			<pubDate>Mon, 30 Mar 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div>TICN 양산 사업 현황입니다.</div>]]></description>
+		</item>
+		<item>
+			<title>TMMR 양산 사업 현황</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58362&amp;menuSeq=3049&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58362&amp;menuSeq=3049&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>이상윤</author>
+			<pubDate>Mon, 30 Mar 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<table><tbody><tr><td><div><div>TMMR 양산 사업 현황입니다.</div></div></td></tr></tbody></table>]]></description>
+		</item>
+		<item>
+			<title>초소형위성체계 사업현황 (2026.3월 기준)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58363&amp;menuSeq=3049&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58363&amp;menuSeq=3049&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>이장근</author>
+			<pubDate>Fri, 27 Mar 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div>초소형위성체계 사업현황입니다.<br></div>]]></description>
 		</item>
 		<item>
 			<title>해상작전헬기 2차 사업 추진현황</title>
@@ -65,33 +92,6 @@
 			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58293&amp;menuSeq=3049&amp;bbsSeq=362</guid>
 			<category></category>
 			<author>오상열</author>
-			<pubDate>Thu, 12 Mar 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[]]></description>
-		</item>
-		<item>
-			<title>대대급이하전투지휘체계</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58297&amp;menuSeq=3049&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58297&amp;menuSeq=3049&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>이용은</author>
-			<pubDate>Thu, 12 Mar 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[]]></description>
-		</item>
-		<item>
-			<title>연합지휘통제체계(AKJCCS) 성능개량 사업추진 현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58296&amp;menuSeq=3049&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58296&amp;menuSeq=3049&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>김숙헌</author>
-			<pubDate>Thu, 12 Mar 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><div>연합지휘통제체계(AKJCCS) 성능개량 사업추진 현황(26.3.12기준)</div><br></div>]]></description>
-		</item>
-		<item>
-			<title>사이버전장관리체계 사업추진현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58294&amp;menuSeq=3049&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58294&amp;menuSeq=3049&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>육종민</author>
 			<pubDate>Thu, 12 Mar 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[]]></description>
 		</item>
