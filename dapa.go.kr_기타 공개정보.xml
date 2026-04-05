@@ -4,7 +4,16 @@
 		<title>방위사업청 기타 공개정보</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3049&amp;bbsSeq=246</link>
 		<description>방위사업청 기타 공개정보</description>
-		<lastBuildDate>Thu, 02 Apr 2026 03:00:42 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 05 Apr 2026 23:00:44 GMT</lastBuildDate>
+		<item>
+			<title>절충교역 유망목록</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58397&amp;menuSeq=3049&amp;bbsSeq=246</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58397&amp;menuSeq=3049&amp;bbsSeq=246</guid>
+			<category></category>
+			<author>옥대철</author>
+			<pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div>절충교역 업무에 참고하십시오.</div>]]></description>
+		</item>
 		<item>
 			<title>국방반도체인공지능과 업무추진 계획</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58356&amp;menuSeq=3049&amp;bbsSeq=246</link>
@@ -85,15 +94,6 @@
 			<author>나철원</author>
 			<pubDate>Wed, 11 Feb 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div>o 통합 연계 고도화 발주예정 사업현황 목록입니다.</div>]]></description>
-		</item>
-		<item>
-			<title>방위사업청 부서별 영문명칭</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58150&amp;menuSeq=3049&amp;bbsSeq=246</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58150&amp;menuSeq=3049&amp;bbsSeq=246</guid>
-			<category></category>
-			<author>김준호</author>
-			<pubDate>Mon, 09 Feb 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div>2026.1.1. 기준 방위사업청 부서별 영문명칭입니다.</div>]]></description>
 		</item>
 	</channel>
 </rss> 
