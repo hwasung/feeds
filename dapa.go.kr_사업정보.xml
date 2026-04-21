@@ -4,7 +4,34 @@
 		<title>방위사업청 사업정보</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3802&amp;bbsSeq=362</link>
 		<description>방위사업청 사업정보</description>
-		<lastBuildDate>Tue, 21 Apr 2026 00:02:27 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Apr 2026 05:02:30 GMT</lastBuildDate>
+		<item>
+			<title>근거리정찰드론 사업개요 및 추진현황(최신화)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58472&amp;menuSeq=3802&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58472&amp;menuSeq=3802&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>장은슬</author>
+			<pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div><div>근거리정찰드론 사업개요 및 추진현황(최신화)입니다.</div><br></div>]]></description>
+		</item>
+		<item>
+			<title>특수작전용정찰무인항공기 사업개요 및 추진현황(최신화)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58474&amp;menuSeq=3802&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58474&amp;menuSeq=3802&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>장은슬</author>
+			<pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div><div>특수작전용정찰무인항공기 사업개요 및 추진현황(최신화)입니다.</div><div><br></div><br></div>]]></description>
+		</item>
+		<item>
+			<title>함탑재정찰용/서북도서용무인항공기 사업개요 및 추진현황(최신화)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58473&amp;menuSeq=3802&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58473&amp;menuSeq=3802&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>장은슬</author>
+			<pubDate>Mon, 20 Apr 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div><div>함탑재정찰용/서북도서용무인항공기 사업개요 및 추진현황(최신화)입니다.</div><br></div>]]></description>
+		</item>
 		<item>
 			<title>해상작전헬기 2차 사업 추진현황</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58469&amp;menuSeq=3802&amp;bbsSeq=362</link>
@@ -68,32 +95,5 @@
 			<pubDate>Mon, 30 Mar 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div>TICN 양산 사업 현황입니다.</div>]]></description>
 		</item>
-		<item>
-			<title>초소형위성체계 사업현황 (2026.3월 기준)</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58363&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58363&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>이장근</author>
-			<pubDate>Fri, 27 Mar 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div>초소형위성체계 사업현황입니다.<br></div>]]></description>
-		</item>
-		<item>
-			<title>소총사격무인항공기 추진현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58470&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58470&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>한주경</author>
-			<pubDate>Thu, 26 Mar 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><br></div><div>공격드론사업(소총사격무인항공기) 추진현황입니다.&nbsp;</div>]]></description>
-		</item>
-		<item>
-			<title>해상작전헬기 2차 사업 추진현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58334&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58334&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>문민기</author>
-			<pubDate>Tue, 24 Mar 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><div>'26. 3월 기준 해상작전헬기 2차 사업 추진현황 입니다.</div></div>]]></description>
-		</item>
 	</channel>
-</rss>
+</rss> 
