@@ -1,0 +1,278 @@
+{
+	"GlobalSettings": {
+		"DefaultUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+		"GlobalTimeout": 30
+	},
+	"Sites": [
+		{
+			"SiteName": "방위사업청 공지사항",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=443&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&bbsSeq=443",
+			"UpdateInterval": 60,
+			"FeedName": "dapa.go.kr_공지사항.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3031&bbsSeq=443&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 보도자료",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=326&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3069&bbsSeq=326",
+			"UpdateInterval": 60,
+			"FeedName": "dapa.go.kr_보도자료.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3069&bbsSeq=326&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 언론보도설명",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=309&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3070&bbsSeq=309",
+			"UpdateInterval": 60,
+			"FeedName": "dapa.go.kr_언론보도설명.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3070&bbsSeq=309&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 업무게시판",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=462&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3042&bbsSeq=462",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_업무게시판.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3042&bbsSeq=462&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 주요정책정보",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=243&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3784&bbsSeq=243",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_주요정책정보.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3784&bbsSeq=243&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 사업정보",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=362&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3802&bbsSeq=362",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_사업정보.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3802&bbsSeq=362&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 계약정보",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=244&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3829&bbsSeq=244",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_계약정보.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3829&bbsSeq=244&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 행정감시 관련정보",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=245&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3838&bbsSeq=245",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_행정감시관련정보.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3838&bbsSeq=245&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 기타 공개정보",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=246&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3847&bbsSeq=246",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_기타공개정보.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3847&bbsSeq=246&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 중점관리대상사업목록",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=363&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3236&bbsSeq=363",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_중점관리대상사업목록.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3236&bbsSeq=363&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		},
+		{
+			"SiteName": "방위사업청 방위산업통계",
+			"DataType": "JSON",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=761&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3054&bbsSeq=761",
+			"UpdateInterval": 1440,
+			"FeedName": "dapa.go.kr_방위산업통계.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"RootPath": "$[*]",
+				"Title": "docTitle",
+				"LinkUrl": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?menuSeq=3054&bbsSeq=761&docSeq=${docSeq}",
+				"Author": "rgtrNm",
+				"Date": "pstgBgngYmd",
+				"DateFormat": "yyyy-MM-dd",
+				"Description": "docCn"
+			}
+		}
+		{
+			"SiteName": "방위사업청 공지사항",
+			"DataType": "HTML",
+			"HttpMethod": "GET",
+			"RequestUrl": "https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=443&rownum=5",
+			"ChannelLink": "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&bbsSeq=443",
+			"UpdateInterval": 60,
+			"FeedName": "dapa.go.kr_공지사항.xml",
+			"Headers": {
+				"Referer": "https://www.dapa.go.kr/"
+			},
+			"ParserConfig": {
+				"ItemSelector": "//div[@class='article-item']",
+				"TitleSelector": ".//h2/a",
+				"LinkSelector": ".//h2/a/@href",
+				"DateSelector": ".//span[@class='date']",
+				"DateFormat": "yyyy-MM-dd",
+				"BaseUrl": "https://tech-news-a.com",
+				"TitleCleanRegex": "\\[광고\\]|\\[단독\\]"
+			}
+		},
+		{
+			"SiteName": "공지사항 API",
+			"DataType": "JSON",
+			"HttpMethod": "POST",
+			"RequestUrl": "https://api.site-b.com/getNotice",
+			"ChannelLink": "https://site-b.com/notice",
+			"UpdateInterval": 180,
+			"LocalPath": "C:\\RPA\\Feeds\\notice_b.xml",
+			"GitHubPath": "feeds/notice_b.xml",
+			"Payload": "{ \"category\": \"all\", \"page\": 1 }",
+			"ParserConfig": {
+				"RootPath": "$.data.list[*]",
+				"TitleField": "title",
+				"LinkField": "url",
+				"DateField": "regDate",
+				"DateFormat": "yyyy.MM.dd HH:mm:ss"
+			}
+		}
+	]
+}
