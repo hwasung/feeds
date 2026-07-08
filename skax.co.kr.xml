@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Mon, 06 Jul 2026 22:00:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jul 2026 22:00:21 GMT</lastBuildDate>
+		<item>
+			<title>AI 인재 육성의 새로운 기준, AXgenticWire AI Talent Lab</title>
+			<link>https://www.skax.co.kr/insight/trend/3782/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3782/</guid>
+			<pubDate>Wed, 08 Jul 2026 06:27:38 GMT</pubDate>
+			<description><![CDATA[SK AX의 AXgenticWire AI Talent Lab은 AI Literacy 인증부터 비개발자 대상 AI Bootcamp Vibe, 개발자 대상 AI Bootcamp까지 구성원의 역할에 맞춘 AI 교육을 제공합니다. AI 기반 자동 평가와 맞춤형 피드백으로 에이전틱 AI 시대에 필요한 실무 역량을 체계적으로 키울 수 있습니다.]]></description>
+		</item>
 		<item>
 			<title>IMAGINE AX 2026 리뷰: AI를 쓰는 기업에서, AI가 일하는 기업으로</title>
 			<link>https://www.skax.co.kr/insight/trend/3780/</link>
@@ -82,12 +89,5 @@
 			<pubDate>Tue, 02 Jun 2026 01:07:51 GMT</pubDate>
 			<description><![CDATA[GPT-5.5는 에이전트 기반 설계를 통해 복잡한 업무를 스스로 계획하고 실행하는 AI로 진화했습니다. 모델 성능 경쟁을 넘어 하네스 엔지니어링과 AI 활용 환경 설계가 새로운 경쟁력으로 부상하고 있습니다.]]></description>
 		</item>
-		<item>
-			<title>AI 도입의 토대가 되는 ERP, S/4HANA 전환이 곧 AI 전략인 이유</title>
-			<link>https://www.skax.co.kr/insight/trend/3750/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3750/</guid>
-			<pubDate>Fri, 29 May 2026 05:19:56 GMT</pubDate>
-			<description><![CDATA[AI 성과가 전사로 확산되지 않는 이유는 ERP 구조에 있습니다. S/4HANA 전환과 AI Native ERP 전략을 통해 데이터 표준화, 온톨로지, Clean Core 기반의 AI 운영 체계를 구축하는 방법을 확인해보세요.]]></description>
-		</item>
 	</channel>
-</rss> 
+</rss>
