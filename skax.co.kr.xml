@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Tue, 14 Jul 2026 22:00:07 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jul 2026 22:00:22 GMT</lastBuildDate>
+		<item>
+			<title>AI 에이전트 시대 필수 용어 총정리: MCP·RAG·A2A 등 생소한 용어 쉽게 알아보기</title>
+			<link>https://www.skax.co.kr/insight/trend/3786/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3786/</guid>
+			<pubDate>Thu, 16 Jul 2026 07:49:52 GMT</pubDate>
+			<description><![CDATA[AI 에이전트 시대를 이해하려면 MCP, A2A, RAG, 오케스트레이션, 가드레일, 휴먼인더루프 등 핵심 개념을 먼저 알아야 합니다. AI 에이전트가 안전하게 협업하고 업무를 수행하는 구조를 쉽고 직관적으로 정리한 가이드입니다.]]></description>
+		</item>
 		<item>
 			<title>코드를 짜던 개발자가 AI를 설계하는 아키텍트로, Claude Code·Antigravity·Codex가 바꾼 에이전틱 개발 환경</title>
 			<link>https://www.skax.co.kr/insight/trend/3784/</link>
@@ -82,12 +89,5 @@
 			<pubDate>Tue, 09 Jun 2026 01:46:35 GMT</pubDate>
 			<description><![CDATA[Google TurboQuant는 AI 모델의 메모리 사용량을 획기적으로 줄이면서도 성능 저하 없이 추론 효율을 높이는 기술입니다. 온디바이스 AI와 프라이빗 AI 환경의 현실화를 앞당기며, 의료·금융 등 규제 산업에서도 고성능 AI 활용 가능성을 넓히고 있습니다.]]></description>
 		</item>
-		<item>
-			<title>AI가 직접 컴퓨터를 조작한다: Computer Use의 현재와 생산성 가능성</title>
-			<link>https://www.skax.co.kr/insight/trend/3758/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3758/</guid>
-			<pubDate>Mon, 08 Jun 2026 07:16:52 GMT</pubDate>
-			<description><![CDATA[AI Computer Use는 답변 생성에 머물던 AI를 넘어 컴퓨터를 직접 조작하며 업무를 수행하는 단계로 진화하고 있습니다. Claude의 Computer Use와 Dispatch 기능, OpenClaw 사례를 통해 AI 비서의 현실화와 기업 생산성 혁신 가능성을 확인할 수 있습니다.]]></description>
-		</item>
 	</channel>
-</rss> 
+</rss>
