@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 22 Jul 2026 22:00:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jul 2026 22:00:08 GMT</lastBuildDate>
+		<item>
+			<title>라이프스타일 브랜드 C사 글로벌 플랫폼 구축 사례</title>
+			<link>https://www.skax.co.kr/case-study/story/3616/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/case-study/story/3616/</guid>
+			<pubDate>Thu, 23 Jul 2026 00:53:33 GMT</pubDate>
+			<description><![CDATA[설계부터 코딩까지, AI가 수행하는 전공정 SW 엔지니어링]]></description>
+		</item>
 		<item>
 			<title>[리포트 다운로드] 평가에서 증명으로: AI는 공급망 실사를 어떻게 바꾸고 있는가 | 7월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3802/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3770/</guid>
 			<pubDate>Thu, 18 Jun 2026 05:35:16 GMT</pubDate>
 			<description><![CDATA[AI는 취약점 탐지와 보안 검증 영역까지 역할을 확대하며 사이버보안의 판도를 바꾸고 있습니다. Project Glasswing 사례를 중심으로 AI 기반 취약점 탐지의 영향과 소프트웨어 공급망 보안, DevSecOps, 보안 PMO 중심의 새로운 기업 보안 전략을 제시합니다.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] AI 기반 Operation Improvement: 제조 운영효율화의 새로운 방식 | 6월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3768/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3768/</guid>
-			<pubDate>Thu, 18 Jun 2026 05:22:08 GMT</pubDate>
-			<description><![CDATA[제조 운영효율화는 설비 투자 중심에서 데이터와 AI 기반의 지속적 개선 체계로 진화하고 있습니다. AI를 활용한 Top Loss 분석, Value Chain별 개선 기회 발굴, AI Value Tracking 기반 성과 관리 방안을 살펴봅니다.]]></description>
 		</item>
 	</channel>
 </rss>
