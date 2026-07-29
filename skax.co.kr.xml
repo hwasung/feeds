@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Thu, 23 Jul 2026 22:00:08 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jul 2026 22:00:22 GMT</lastBuildDate>
+		<item>
+			<title>Anthropic의 Mythos와 Fable 접근 중단 사례로 본 통제 가능한 AI의 중요성</title>
+			<link>https://www.skax.co.kr/insight/trend/3804/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3804/</guid>
+			<pubDate>Wed, 29 Jul 2026 06:56:51 GMT</pubDate>
+			<description><![CDATA[Anthropic의 Mythos와 Fable 사례는 강력한 AI일수록 안전한 통제 체계가 선행되어야 함을 보여줍니다. AI 거버넌스와 통제 가능한 AI 에이전트 운영 환경의 중요성을 살펴봅니다.]]></description>
+		</item>
 		<item>
 			<title>라이프스타일 브랜드 C사 글로벌 플랫폼 구축 사례</title>
 			<link>https://www.skax.co.kr/case-study/story/3616/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3778/</guid>
 			<pubDate>Mon, 22 Jun 2026 05:09:02 GMT</pubDate>
 			<description><![CDATA[SK AX는 AWS Summit Seoul 2026에서 'Rewire Your Enterprise for the Agentic Era'를 주제로 Agentic AI 기반 기업 혁신 전략을 선보였습니다. AXgenticWire, NPO, AI MSP, GPUaaS 플랫폼을 통해 업무 자동화부터 AI 인프라 운영까지 기업의 실질적인 AI 전환 방안을 제시했습니다.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] AI가 취약점을 찾는 시대, 기업 보안 전략도 바뀌어야 한다 | 6월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3770/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3770/</guid>
-			<pubDate>Thu, 18 Jun 2026 05:35:16 GMT</pubDate>
-			<description><![CDATA[AI는 취약점 탐지와 보안 검증 영역까지 역할을 확대하며 사이버보안의 판도를 바꾸고 있습니다. Project Glasswing 사례를 중심으로 AI 기반 취약점 탐지의 영향과 소프트웨어 공급망 보안, DevSecOps, 보안 PMO 중심의 새로운 기업 보안 전략을 제시합니다.]]></description>
 		</item>
 	</channel>
 </rss>
