@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 29 Jul 2026 22:00:22 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jul 2026 22:00:23 GMT</lastBuildDate>
+		<item>
+			<title>스마트폰 속 AI 비서부터 기업 AX까지: 성패를 가르는 AI Workspace</title>
+			<link>https://www.skax.co.kr/insight/trend/3806/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3806/</guid>
+			<pubDate>Thu, 30 Jul 2026 08:35:58 GMT</pubDate>
+			<description><![CDATA[스마트폰 속 AI 비서가 사용자의 맥락을 이해하고 스스로 업무를 처리하는 시대가 열리고 있습니다. 개인의 AI 경험을 가능하게 한 Private AI Workspace의 원리는 기업에도 그대로 적용됩니다. 기업 AX의 성패를 가르는 Enterprise AI Workspace의 필요성과 SK AX의 AXgenticWire가 제시하는 새로운 AI 업무 환경을 살펴봅니다.]]></description>
+		</item>
 		<item>
 			<title>Anthropic의 Mythos와 Fable 접근 중단 사례로 본 통제 가능한 AI의 중요성</title>
 			<link>https://www.skax.co.kr/insight/trend/3804/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3780/</guid>
 			<pubDate>Fri, 03 Jul 2026 01:03:04 GMT</pubDate>
 			<description><![CDATA[IMAGINE AX 2026에서 SK AX는 Agentic Enterprise 시대를 위한 실행 전략을 공개했습니다. AXgenticWire Core를 중심으로 AI 에이전트 기반 업무 혁신, Enterprise Last Mile, 사람 중심의 변화관리까지 기업 AX의 새로운 방향을 제시했습니다.]]></description>
-		</item>
-		<item>
-			<title>AWS Summit Seoul 2026 리뷰: SK AX가 제시한 Agentic AI 전환의 실행 전략</title>
-			<link>https://www.skax.co.kr/insight/trend/3778/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3778/</guid>
-			<pubDate>Mon, 22 Jun 2026 05:09:02 GMT</pubDate>
-			<description><![CDATA[SK AX는 AWS Summit Seoul 2026에서 'Rewire Your Enterprise for the Agentic Era'를 주제로 Agentic AI 기반 기업 혁신 전략을 선보였습니다. AXgenticWire, NPO, AI MSP, GPUaaS 플랫폼을 통해 업무 자동화부터 AI 인프라 운영까지 기업의 실질적인 AI 전환 방안을 제시했습니다.]]></description>
 		</item>
 	</channel>
 </rss>
