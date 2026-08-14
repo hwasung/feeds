@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Thu, 13 Aug 2026 22:00:13 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Aug 2026 22:00:07 GMT</lastBuildDate>
+		<item>
+			<title>AXgenticWire Compliance, AI와 판례 데이터로 완성하는 표시광고 리스크 관리</title>
+			<link>https://www.skax.co.kr/insight/trend/3816/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3816/</guid>
+			<pubDate>Fri, 14 Aug 2026 02:24:32 GMT</pubDate>
+			<description><![CDATA[40개 이상의 법령·지침과 3,400건 이상의 심결례·판례를 기반으로 표시광고 리스크를 AI가 사전에 탐지합니다. AXgenticWire Compliance는 위험 문구 추출부터 위반 유형 분류, 유사 판례 분석, 개선안 제시까지 지원하며, 법무·컴플라이언스 검토의 속도와 일관성을 높입니다.]]></description>
+		</item>
 		<item>
 			<title>2028년 ESG 공시 의무화 대응: 보고서가 아닌 데이터 체계로 준비하는 로드맵</title>
 			<link>https://www.skax.co.kr/insight/trend/3814/</link>
@@ -82,12 +89,5 @@
 			<pubDate>Wed, 22 Jul 2026 04:53:15 GMT</pubDate>
 			<description><![CDATA[AI 시대 영업은 기술이 아닌 고객의 비즈니스 가치를 설계하는 역할로 진화하고 있습니다. AI 시대의 가치 제안(Value Proposition), Account Value Architect의 역할 변화와 글로벌 AI-Powered 영업 사례를 7월 MI리포트에서 확인해 보세요.]]></description>
 		</item>
-		<item>
-			<title>AI 에이전트 시대 필수 용어 총정리: MCP·RAG·A2A 등 생소한 용어 쉽게 알아보기</title>
-			<link>https://www.skax.co.kr/insight/trend/3786/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3786/</guid>
-			<pubDate>Thu, 16 Jul 2026 07:49:52 GMT</pubDate>
-			<description><![CDATA[AI 에이전트 시대를 이해하려면 MCP, A2A, RAG, 오케스트레이션, 가드레일, 휴먼인더루프 등 핵심 개념을 먼저 알아야 합니다. AI 에이전트가 안전하게 협업하고 업무를 수행하는 구조를 쉽고 직관적으로 정리한 가이드입니다.]]></description>
-		</item>
 	</channel>
-</rss> 
+</rss>
