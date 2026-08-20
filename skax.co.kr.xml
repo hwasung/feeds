@@ -4,7 +4,35 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Fri, 14 Aug 2026 22:00:07 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Aug 2026 22:00:06 GMT</lastBuildDate>
+		<item>
+			<title>[리포트 다운로드] OT 취약점 증대와 제조 산업 생태계의 사이버 안전성 | 8월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3832/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3832/</guid>
+			<pubDate>Thu, 20 Aug 2026 05:16:02 GMT</pubDate>
+			<description><![CDATA[제조 산업을 겨냥한 OT 사이버 위협이 증가하면서 개별 기업을 넘어 산업 생태계 차원의 보안 거버넌스가 중요해지고 있습니다. 본 리포트에서는 최신 OT 위협 동향과 제조업 침해사고 증가 추이를 분석하고, ISA/IEC 62443과 NIST CSF 2.0을 기반으로 자산 가시성 확보부터 위험 기반 우선순위화, 단계적 이행까지 3단계 OT 보안 대응 로드맵을 제시합니다.]]></description>
+		</item>
+		<item>
+			<title>[리포트 다운로드] 글로벌 통신사 사례로 본 차세대 BSS 테스트 자동화 전략 | 8월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3830/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3830/</guid>
+			<pubDate>Thu, 20 Aug 2026 04:57:38 GMT</pubDate>
+			<description><![CDATA[차세대 BSS 전환에서 테스트 자동화는 단순한 반복 업무 효율화를 넘어 안정적인 서비스 오픈과 품질을 좌우하는 핵심 요소입니다. 이번 8월 MI리포트에서는 AT&amp;T와 Verizon의 BSS 테스트 자동화 사례를 바탕으로 UI 중심 테스트에서 API·데이터 중심 자동화로의 변화를 살펴보고, AI 기반 시나리오 생성부터 테스트 데이터, 병렬 실행, 회귀 테스트까지 차세대 BSS 테스트 전략과 SKT의 단계별 도입 방향을 제시합니다.]]></description>
+		</item>
+		<item>
+			<title>[리포트 다운로드] AI DC 핵심 요소와 추진 전략 | 8월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3828/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3828/</guid>
+			<pubDate>Thu, 20 Aug 2026 04:27:17 GMT</pubDate>
+			<description><![CDATA[AI DC의 경쟁력은 얼마나 많은 GPU를 보유했느냐가 아니라 AI Workload를 얼마나 안정적이고 경제적으로 생산할 수 있느냐에 달려 있습니다. 이번 8월 MI리포트에서는 Out-Rack과 In-Rack을 중심으로 AI DC의 핵심 설계 요소를 살펴보고, GPU·네트워크·스토리지·전력·냉각·운영 소프트웨어를 아우르는 AI 인프라 운영 전략과 기업의 단계별 AI Factory 추진 방안을 제시합니다.]]></description>
+		</item>
+		<item>
+			<title>[리포트 다운로드] ERP AI PI Framework: AI-Native ERP 구현을 위한 새로운 PI 접근법 | 8월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3826/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3826/</guid>
+			<pubDate>Thu, 20 Aug 2026 04:11:26 GMT</pubDate>
+			<description><![CDATA[AI 기능을 ERP에 추가하는 것만으로 AI-Native ERP가 완성되지는 않습니다. ERP AI PI는 프로세스·데이터·시스템·조직·거버넌스를 함께 재설계해 AI가 업무 안에서 판단·추천·자동화·모니터링을 수행할 수 있는 AI-Ready Process를 만드는 새로운 PI 접근법입니다. 이번 8월 MI리포트에서는 ERP AI PI의 개념부터 5개 Layer 기반 실행 프레임워크, AI 혁신과제·AI 서비스·AI Agent 설계 방법, AI-Native ERP 전환을 위한 전략적 기반까지 자세히 살펴봅니다.]]></description>
+		</item>
 		<item>
 			<title>AXgenticWire Compliance, AI와 판례 데이터로 완성하는 표시광고 리스크 관리</title>
 			<link>https://www.skax.co.kr/insight/trend/3816/</link>
@@ -61,33 +89,5 @@
 			<pubDate>Thu, 23 Jul 2026 00:53:33 GMT</pubDate>
 			<description><![CDATA[설계부터 코딩까지, AI가 수행하는 전공정 SW 엔지니어링]]></description>
 		</item>
-		<item>
-			<title>[리포트 다운로드] 평가에서 증명으로: AI는 공급망 실사를 어떻게 바꾸고 있는가 | 7월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3802/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3802/</guid>
-			<pubDate>Wed, 22 Jul 2026 05:34:24 GMT</pubDate>
-			<description><![CDATA[AI는 공급망 실사를 평가 중심에서 증거 기반의 지속 관리 체계로 전환하고 있습니다. CSDDD 대응을 위한 AI 공급망 실사 전략과 글로벌 기업 사례, 한국 기업의 준비 방향을 7월 MI리포트에서 확인해 보세요.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] 제조업의 눈, Vision AI의 원리와 산업 적용 성과 분석 | 7월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3800/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3800/</guid>
-			<pubDate>Wed, 22 Jul 2026 05:21:35 GMT</pubDate>
-			<description><![CDATA[Vision AI는 제조업의 검사 자동화를 넘어 공정을 스스로 보정하는 핵심 인지 기술로 진화하고 있습니다. Vision AI의 원리와 산업별 적용 사례, 성공 조건 및 ROI 관리 전략을 7월 MI리포트에서 확인해 보세요.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] AI 시대의 호스피탈리티 산업 마케팅 전략 | 7월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3798/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3798/</guid>
-			<pubDate>Wed, 22 Jul 2026 05:08:25 GMT</pubDate>
-			<description><![CDATA[AI는 호스피탈리티 산업의 고객 경험과 마케팅 운영 방식을 새롭게 정의하고 있습니다. AI 호스피탈리티 마케팅의 핵심 트렌드와 글로벌 호텔 기업 사례, AI Concierge·Dynamic Pricing·초개인화 전략을 7월 MI리포트에서 확인해 보세요.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] AI 시대의 가치 제안: Sales 역할 변화와 AI-Powered 사례 | 7월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3796/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3796/</guid>
-			<pubDate>Wed, 22 Jul 2026 04:53:15 GMT</pubDate>
-			<description><![CDATA[AI 시대 영업은 기술이 아닌 고객의 비즈니스 가치를 설계하는 역할로 진화하고 있습니다. AI 시대의 가치 제안(Value Proposition), Account Value Architect의 역할 변화와 글로벌 AI-Powered 영업 사례를 7월 MI리포트에서 확인해 보세요.]]></description>
-		</item>
 	</channel>
-</rss>
+</rss> 
