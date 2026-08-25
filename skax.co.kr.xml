@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Fri, 21 Aug 2026 22:00:20 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2026 22:00:05 GMT</lastBuildDate>
+		<item>
+			<title>AXgenticWire Core, 데이터를 에이전트의 지식으로 완성하는 AI 플랫폼</title>
+			<link>https://www.skax.co.kr/insight/trend/3836/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3836/</guid>
+			<pubDate>Tue, 25 Aug 2026 02:11:02 GMT</pubDate>
+			<description><![CDATA[데이터를 연결하는 것만으로는 AI 전환이 완성되지 않습니다. 흩어진 기업 데이터에 비즈니스 맥락을 입히고, 자연어만으로 업무 Agent를 만들어 안전하게 운영하려면 무엇이 필요할까요?]]></description>
+		</item>
 		<item>
 			<title>AXgenticWire Talent AX, 모두의 일하는 방식을 바꾸는 AI Native HR 시스템</title>
 			<link>https://www.skax.co.kr/insight/trend/3834/</link>
@@ -82,12 +89,5 @@
 			<pubDate>Thu, 30 Jul 2026 08:35:58 GMT</pubDate>
 			<description><![CDATA[스마트폰 속 AI 비서가 사용자의 맥락을 이해하고 스스로 업무를 처리하는 시대가 열리고 있습니다. 개인의 AI 경험을 가능하게 한 Private AI Workspace의 원리는 기업에도 그대로 적용됩니다. 기업 AX의 성패를 가르는 Enterprise AI Workspace의 필요성과 SK AX의 AXgenticWire가 제시하는 새로운 AI 업무 환경을 살펴봅니다.]]></description>
 		</item>
-		<item>
-			<title>Anthropic의 Mythos와 Fable 접근 중단 사례로 본 통제 가능한 AI의 중요성</title>
-			<link>https://www.skax.co.kr/insight/trend/3804/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3804/</guid>
-			<pubDate>Wed, 29 Jul 2026 06:56:51 GMT</pubDate>
-			<description><![CDATA[Anthropic의 Mythos와 Fable 사례는 강력한 AI일수록 안전한 통제 체계가 선행되어야 함을 보여줍니다. AI 거버넌스와 통제 가능한 AI 에이전트 운영 환경의 중요성을 살펴봅니다.]]></description>
-		</item>
 	</channel>
-</rss> 
+</rss>
