@@ -4,7 +4,16 @@
 		<title>방위사업청 사업정보</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3802&amp;bbsSeq=362</link>
 		<description>방위사업청 사업정보</description>
-		<lastBuildDate>Fri, 21 Aug 2026 05:00:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2026 06:00:02 GMT</lastBuildDate>
+		<item>
+			<title>초소형위성체계 사업현황</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59058&amp;menuSeq=3802&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59058&amp;menuSeq=3802&amp;bbsSeq=362</guid>
+			<category></category>
+			<author>이장근</author>
+			<pubDate>Fri, 21 Aug 2026 09:00:00 GMT</pubDate>
+			<description><![CDATA[<div>초소형위성체계 사업현황 입니다.&nbsp;</div>]]></description>
+		</item>
 		<item>
 			<title>30mm 복합대공화기 사업내역서</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59046&amp;menuSeq=3802&amp;bbsSeq=362</link>
@@ -86,14 +95,5 @@
 			<pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
 			<description><![CDATA[<div><div>군집드론(Block-Ⅰ) R&amp;D 사업 추진현황 입니다.</div><br></div>]]></description>
 		</item>
-		<item>
-			<title>특수작전용대형기동헬기 사업 추진 현황(’26년 7월)</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58915&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58915&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<category></category>
-			<author>김지원</author>
-			<pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
-			<description><![CDATA[<div><div>특수작전용대형기동헬기 사업 추진 현황(’26년 7월)</div><br></div>]]></description>
-		</item>
 	</channel>
-</rss>
+</rss> 
