@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Tue, 25 Aug 2026 22:00:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Aug 2026 22:00:24 GMT</lastBuildDate>
+		<item>
+			<title>AXgenticWire Proposal, AI와 함께 완성하는 제안서 작성 혁신</title>
+			<link>https://www.skax.co.kr/insight/trend/3838/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3838/</guid>
+			<pubDate>Wed, 26 Aug 2026 02:25:43 GMT</pubDate>
+			<description><![CDATA[300억 원 규모 제안 한 건에 30일과 4억 5천만 원이 들던 시대는 끝났습니다. RFP 등록 한 번으로 전략부터 초안, 품질검토, PT 준비까지 이어지는 4단계 제안 프로세스는 어떻게 가능해졌을까요?]]></description>
+		</item>
 		<item>
 			<title>AXgenticWire Core, 데이터를 에이전트의 지식으로 완성하는 AI 플랫폼</title>
 			<link>https://www.skax.co.kr/insight/trend/3836/</link>
@@ -82,12 +89,5 @@
 			<pubDate>Tue, 04 Aug 2026 05:16:49 GMT</pubDate>
 			<description><![CDATA[기업은 더 이상 하나의 AI만 선택하지 않습니다. Gemini Enterprise, ChatGPT Enterprise, Claude Enterprise, M365 Copilot을 업무 목적에 맞게 활용하는 멀티 AI 전략이 중요해지고 있습니다. SK AX의 AXgenticWire Enterprise AI는 여러 Enterprise AI를 하나의 환경에서 안전하게 운영하고 AI 전략부터 구축, AI Agent 개발, 통합 관리까지 지원하는 기업용 AI 서비스입니다.]]></description>
 		</item>
-		<item>
-			<title>스마트폰 속 AI 비서부터 기업 AX까지: 성패를 가르는 AI Workspace</title>
-			<link>https://www.skax.co.kr/insight/trend/3806/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3806/</guid>
-			<pubDate>Thu, 30 Jul 2026 08:35:58 GMT</pubDate>
-			<description><![CDATA[스마트폰 속 AI 비서가 사용자의 맥락을 이해하고 스스로 업무를 처리하는 시대가 열리고 있습니다. 개인의 AI 경험을 가능하게 한 Private AI Workspace의 원리는 기업에도 그대로 적용됩니다. 기업 AX의 성패를 가르는 Enterprise AI Workspace의 필요성과 SK AX의 AXgenticWire가 제시하는 새로운 AI 업무 환경을 살펴봅니다.]]></description>
-		</item>
 	</channel>
-</rss>
+</rss> 
