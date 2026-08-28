@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 26 Aug 2026 22:00:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Aug 2026 22:00:10 GMT</lastBuildDate>
+		<item>
+			<title>루프 엔지니어링: 하네스를 넘어 AI가 스스로 반복하며 일하는 구조</title>
+			<link>https://www.skax.co.kr/insight/trend/3840/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3840/</guid>
+			<pubDate>Fri, 28 Aug 2026 06:19:27 GMT</pubDate>
+			<description><![CDATA[이제 AI를 잘 쓰는 일은 좋은 프롬프트를 쓰는 일이 아니라, AI가 스스로 일감을 찾고 검증하며 반복하도록 구조를 설계하는 일이 되었습니다. 프롬프트에서 하네스를 지나 루프로 향하는 이 흐름에서, 제대로 도는 루프는 무엇으로 이루어질까요?]]></description>
+		</item>
 		<item>
 			<title>AXgenticWire Proposal, AI와 함께 완성하는 제안서 작성 혁신</title>
 			<link>https://www.skax.co.kr/insight/trend/3838/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3810/</guid>
 			<pubDate>Thu, 06 Aug 2026 07:06:51 GMT</pubDate>
 			<description><![CDATA[AWS AI Competency는 실제 고객 구축 사례를 기반으로 AI 전문성을 검증하는 AWS의 인증 제도입니다. SK AX는 Generative AI와 Agentic AI Consulting Services를 모두 획득하며 Amazon Bedrock AgentCore 기반의 엔터프라이즈 AI 구축 및 Agentic AI 구현 역량을 입증했습니다.]]></description>
-		</item>
-		<item>
-			<title>Gemini·ChatGPT·Claude·M365 Copilot을 하나의 서비스로, AXgenticWire Enterprise AI</title>
-			<link>https://www.skax.co.kr/insight/trend/3808/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3808/</guid>
-			<pubDate>Tue, 04 Aug 2026 05:16:49 GMT</pubDate>
-			<description><![CDATA[기업은 더 이상 하나의 AI만 선택하지 않습니다. Gemini Enterprise, ChatGPT Enterprise, Claude Enterprise, M365 Copilot을 업무 목적에 맞게 활용하는 멀티 AI 전략이 중요해지고 있습니다. SK AX의 AXgenticWire Enterprise AI는 여러 Enterprise AI를 하나의 환경에서 안전하게 운영하고 AI 전략부터 구축, AI Agent 개발, 통합 관리까지 지원하는 기업용 AI 서비스입니다.]]></description>
 		</item>
 	</channel>
 </rss> 
