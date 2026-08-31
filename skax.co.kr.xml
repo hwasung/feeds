@@ -4,7 +4,21 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Fri, 28 Aug 2026 22:00:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 31 Aug 2026 22:00:16 GMT</lastBuildDate>
+		<item>
+			<title>에이전틱 AI가 바꾸는 마이그레이션: 클라우드 이전 계획, 몇 달에서 몇 시간으로</title>
+			<link>https://www.skax.co.kr/insight/trend/3844/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3844/</guid>
+			<pubDate>Mon, 31 Aug 2026 07:25:41 GMT</pubDate>
+			<description><![CDATA[클라우드 마이그레이션의 병목은 실제 서버 이전보다 환경 조사와 의존 관계 분석, 이전 순서 수립 같은 사전 준비에 있습니다. AWS Transform은 에이전틱 AI를 활용해 온프레미스 환경을 분석하고 마이그레이션 웨이브와 네트워크 구성을 생성하며, 계획 수립부터 실제 이전까지 연결합니다. SK AX와 함께 에이전틱 AI 기반 클라우드 전환 전략을 살펴봅니다.]]></description>
+		</item>
+		<item>
+			<title>AI 도입부터 확장까지, 기업이 알아야 할 AI 인프라</title>
+			<link>https://www.skax.co.kr/insight/trend/3842/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3842/</guid>
+			<pubDate>Mon, 31 Aug 2026 06:58:22 GMT</pubDate>
+			<description><![CDATA[AI 프로젝트의 일정과 예산이 어긋나는 지점은 모델이 아니라 그 모델을 돌릴 인프라인 경우가 많습니다. 컴퓨팅 선택부터 네트워크·스토리지, 클러스터 확장, 관리형 플랫폼, 보안과 비용 효율까지, 기업이 AI 도입 전에 반드시 짚어야 할 일곱 가지는 무엇일까요?]]></description>
+		</item>
 		<item>
 			<title>루프 엔지니어링: 하네스를 넘어 AI가 스스로 반복하며 일하는 구조</title>
 			<link>https://www.skax.co.kr/insight/trend/3840/</link>
@@ -74,20 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3814/</guid>
 			<pubDate>Thu, 13 Aug 2026 08:39:14 GMT</pubDate>
 			<description><![CDATA[2028년부터 연결자산총액 10조원 이상 코스피 상장사를 대상으로 ESG 공시가 의무화됩니다. KSSB 기준과 연결 공시, 내부통제, 감사증적, Scope 3까지 확대되는 요구에 대응하기 위해서는 보고서 작성이 아닌 ESG 데이터와 프로세스를 상시 관리하는 체계가 필요합니다. SK AX가 제안하는 진단부터 플랫폼 구축까지의 ESG 공시 대응 로드맵을 확인해 보세요.]]></description>
-		</item>
-		<item>
-			<title>한미전선 ERP Agentic AI 구축 사례</title>
-			<link>https://www.skax.co.kr/case-study/story/3618/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/case-study/story/3618/</guid>
-			<pubDate>Mon, 10 Aug 2026 08:12:20 GMT</pubDate>
-			<description><![CDATA[AWS Native 서비스로 만든 자연어 ERP 분석 환경]]></description>
-		</item>
-		<item>
-			<title>AWS AI Competency를 통해 검증된 SK AX의 에이전틱 AI 구축 역량</title>
-			<link>https://www.skax.co.kr/insight/trend/3810/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3810/</guid>
-			<pubDate>Thu, 06 Aug 2026 07:06:51 GMT</pubDate>
-			<description><![CDATA[AWS AI Competency는 실제 고객 구축 사례를 기반으로 AI 전문성을 검증하는 AWS의 인증 제도입니다. SK AX는 Generative AI와 Agentic AI Consulting Services를 모두 획득하며 Amazon Bedrock AgentCore 기반의 엔터프라이즈 AI 구축 및 Agentic AI 구현 역량을 입증했습니다.]]></description>
 		</item>
 	</channel>
 </rss> 
