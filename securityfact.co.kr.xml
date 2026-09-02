@@ -1,1 +1,554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kcustom="http://base.google.com/cns/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>시큐리티팩트</title>
+<link>https://www.securityfact.co.kr</link>
+<description>시큐리티팩트 – 육해공/해병 국방전문가의 심층분석 안보 매체</description>
+<atom:updated>2026-09-02T07:13:21+09:00</atom:updated>
+<atom:published>2026-09-02T07:13:21+09:00</atom:published>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<guid>7883</guid>
+<title><![CDATA[美 에스토 헬스, 환자 954만명 개인정보 유출… 의료 데이터 관리업체 해킹]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7883</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7883</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7883" rel="related"/>
+<description><![CDATA[
+   
+      
+      미국 의료 데이터 관리업체 에스토 헬스 데이터 유출. 그림=이미지크리에이터
+   
+
+&amp;#038;nbsp;
+[시큐리티팩트=최미옥 기자] 미국 의료 데이터 관리업체 에스토 헬스(Aesto Health)에서 발생한 데이터 유출로 950만명 이상의 환자 개인정보가 영향을 받은 것으로 확인됐다. 에스토 헬스를 운영하는 에스토 LLC는 미국 보건복지부(HHS)에 제출한 자료에서 이번 사고로 총 954만683명의 개인정보가 유출됐다고 밝혔다.
+
+   
+
+1일(현지시각) 블리핑컴퓨터 보도에 따르면, 에스토 헬스는 지난 6월 24일 자사 웹사이트를 통해 자사 아마존웹서비스(AWS) 인프라 일부가 외부 공격을 받았다고 처음 공개했다.
+
+   
+
+침입은 지난해 12월 발생한 것으로 파악됐다. 회사는 외부 전문가의 포렌식 조사와 내부 문서 검토를 거쳐 올해 5월 26일 환자 정보가 승인되지 않은 행위자에게 접근되거나 확보됐을 가능성을 확인했다고 설명했다. 회사는 침입 시점을 2025년 12월 2일부터 18일 사이로 특정했다.
+
+   
+
+유출 가능성이 있는 정보에는 이름과 생년월일을 비롯해 의료정보, 운전면허증 번호, 금융계좌번호, 건강보험 정보, 개인 납세자 식별번호, 기타 정부 발급 식별번호, 사회보장번호 등이 포함됐다.
+
+   
+
+이번 사고로 영향을 받은 의료기관은 매체에 따라 집계에 차이가 있다. HIPAA Journal은 29개 의료기관이 간접적인 영향을 받은 것으로 전했으며, 일부 외신은 최소 24곳으로 집계했다. 피해 기관에는 빌리지MD(VillageMD), 에버사이드 헬스(Everside Health·현재 마라톤 헬스(Marathon Health)로 브랜드 통합), M마라나 헬스(Marana Health), 투게더 우먼스 헬스(Together Women&amp;#039;s Health) 등이 포함된 것으로 알려졌다.
+
+   
+
+에스토 헬스는 지난 8월 21일부터 피해 가능성이 있는 개인들에게 관련 내용을 통지하고 있다. 피해자에게는 미국의 신용정보회사 익스피리언(Experian)을 통한 24개월간의 신원 도용 방지 및 신용 모니터링 서비스도 제공된다. 현재까지 이번 공격을 자신들의 소행이라고 공개적으로 주장한 해킹 조직은 확인되지 않았다.
+해킹당한 에스토 헬스는 어떤 회사인가
+에스토 헬스는 일반 소비자에게 의료서비스를 제공하는 병원이나 보험사가 아니다. 미국 앨라배마주 버밍엄에 기반을 둔 의료기술 업체로, 의료기관의 전자건강기록(EHR) 시스템 교체나 의료기관 인수·통합 과정에서 환자 데이터의 이전과 보관, 접근을 지원한다. 의료기관이 시스템을 바꾸더라도 기존 환자 기록을 보존하고 필요할 때 접근할 수 있도록 지원하는 것이 핵심 사업이다. 이 과정에서 여러 의료기관의 환자 데이터가 Aesto Health의 시스템에 저장될 수 있다.
+
+   
+
+이번 사고에서 주목되는 부분도 이 같은 사업 구조다. 에스토 헬스로부터 직접 진료를 받은 환자가 아니더라도 고객 의료기관의 데이터를 관리하는 과정에서 개인정보가 회사 시스템에 저장될 수 있기 때문이다.
+
+   
+
+특히 이번처럼 한 의료 데이터 관리업체의 시스템이 침해되면 여러 의료기관의 환자 정보가 동시에 영향을 받을 수 있다. 의료기관 자체뿐 아니라 환자 데이터를 이전·보관하는 외부 IT 업체까지 보안 관리 범위를 넓혀야 한다는 점을 보여주는 사례다.
+
+   
+
+]]></description>
+<content:encoded><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://securityfact.co.kr/data/tmp/2609/20260902070835_qubvlyns.jpg" alt="미국 의료 데이터 관리업체 에스토 헬스 데이터 유출. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">미국 의료 데이터 관리업체 에스토 헬스 데이터 유출. 그림=이미지크리에이터</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 미국 의료 데이터 관리업체 에스토 헬스(Aesto Health)에서 발생한 데이터 유출로 950만명 이상의 환자 개인정보가 영향을 받은 것으로 확인됐다. 에스토 헬스를 운영하는 에스토 LLC는 미국 보건복지부(HHS)에 제출한 자료에서 이번 사고로 총 954만683명의 개인정보가 유출됐다고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>1일(현지시각) 블리핑컴퓨터 보도에 따르면, 에스토 헬스는 지난 6월 24일 자사 웹사이트를 통해 자사 아마존웹서비스(AWS) 인프라 일부가 외부 공격을 받았다고 처음 공개했다.</p>
+<p>
+   <br />
+</p>
+<p>침입은 지난해 12월 발생한 것으로 파악됐다. 회사는 외부 전문가의 포렌식 조사와 내부 문서 검토를 거쳐 올해 5월 26일 환자 정보가 승인되지 않은 행위자에게 접근되거나 확보됐을 가능성을 확인했다고 설명했다. 회사는 침입 시점을 2025년 12월 2일부터 18일 사이로 특정했다.</p>
+<p>
+   <br />
+</p>
+<p>유출 가능성이 있는 정보에는 이름과 생년월일을 비롯해 의료정보, 운전면허증 번호, 금융계좌번호, 건강보험 정보, 개인 납세자 식별번호, 기타 정부 발급 식별번호, 사회보장번호 등이 포함됐다.</p>
+<p>
+   <br />
+</p>
+<p>이번 사고로 영향을 받은 의료기관은 매체에 따라 집계에 차이가 있다. HIPAA Journal은 29개 의료기관이 간접적인 영향을 받은 것으로 전했으며, 일부 외신은 최소 24곳으로 집계했다. 피해 기관에는 빌리지MD(VillageMD), 에버사이드 헬스(Everside Health·현재 마라톤 헬스(Marathon Health)로 브랜드 통합), M마라나 헬스(Marana Health), 투게더 우먼스 헬스(Together Women's Health) 등이 포함된 것으로 알려졌다.</p>
+<p>
+   <br />
+</p>
+<p>에스토 헬스는 지난 8월 21일부터 피해 가능성이 있는 개인들에게 관련 내용을 통지하고 있다. 피해자에게는 미국의 신용정보회사 익스피리언(Experian)을 통한 24개월간의 신원 도용 방지 및 신용 모니터링 서비스도 제공된다. 현재까지 이번 공격을 자신들의 소행이라고 공개적으로 주장한 해킹 조직은 확인되지 않았다.</p>
+<h3>해킹당한 에스토 헬스는 어떤 회사인가</h3>
+<p>에스토 헬스는 일반 소비자에게 의료서비스를 제공하는 병원이나 보험사가 아니다. 미국 앨라배마주 버밍엄에 기반을 둔 의료기술 업체로, 의료기관의 전자건강기록(EHR) 시스템 교체나 의료기관 인수·통합 과정에서 환자 데이터의 이전과 보관, 접근을 지원한다. 의료기관이 시스템을 바꾸더라도 기존 환자 기록을 보존하고 필요할 때 접근할 수 있도록 지원하는 것이 핵심 사업이다. 이 과정에서 여러 의료기관의 환자 데이터가 Aesto Health의 시스템에 저장될 수 있다.</p>
+<p>
+   <br />
+</p>
+<p>이번 사고에서 주목되는 부분도 이 같은 사업 구조다. 에스토 헬스로부터 직접 진료를 받은 환자가 아니더라도 고객 의료기관의 데이터를 관리하는 과정에서 개인정보가 회사 시스템에 저장될 수 있기 때문이다.</p>
+<p>
+   <br />
+</p>
+<p>특히 이번처럼 한 의료 데이터 관리업체의 시스템이 침해되면 여러 의료기관의 환자 정보가 동시에 영향을 받을 수 있다. 의료기관 자체뿐 아니라 환자 데이터를 이전·보관하는 외부 IT 업체까지 보안 관리 범위를 넓혀야 한다는 점을 보여주는 사례다.</p>
+<p>
+   <br />
+</p>
+]]></content:encoded>
+
+<atom:category label="시큐리티" term="20171121074254_1125"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-09-02T07:13:21+09:00</atom:updated>
+<atom:published>2026-09-02T07:13:21+09:00</atom:published>
+</item><item>
+<guid>7882</guid>
+<title><![CDATA[대만, 美 쉴드AI 무인항공기 V-BAT 280대 도입 추진… 11억 달러 규모]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7882</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7882</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7882" rel="related"/>
+<description><![CDATA[
+   
+      쉴드AI(Shield AI)의 수직이착륙형 무인항공기(VTOL) V-BAT. 출처=미해군
+      
+   
+&amp;#038;nbsp;
+[시큐리티팩트=최미옥 기자] 대만 해군이 미국 방산기업 쉴드AI(Shield AI)의 수직이착륙형 무인항공기(VTOL) V-BAT 280대 도입을 추진한다. 대만 자유시보에 따르면, 대만 해군은 2026년부터 2029년까지 4년간 360억658만1000 대만달러(약 11억3500만 달러, 약 1조5600억 원)를 투입해 V-BAT를 확보할 계획이다.
+
+이번 사업에는 V-BAT 280대와 제어시스템 140대, 수송차량 82대가 포함된다. 대만 해군은 수상전투부대와 연안전투부대 등에 무인기를 배치해 해상 감시와 정찰, 표적 탐지 능력을 높일 계획이다. 공개된 조달 계획을 보면 2026년 40대를 시작으로 2027년 110대, 2028년 64대, 2029년 66대를 순차적으로 확보한다. 제어시스템은 V-BAT 2대당 1대꼴로 배정된다.
+
+V-BAT는 활주로 없이 수직으로 이착륙할 수 있는 것이 특징이다. 쉴드AI에 따르면 최대이륙중량은 75kg이며 최대 탑재량은 18.1kg, 최대 체공 시간은 12시간 이상이다. 착륙에 필요한 공간도 4.6m×4.6m로 비교적 작다. EO/IR(전자광학·적외선) 장비를 비롯해 다양한 임무 장비를 탑재할 수 있으며, 쉴드AI의 자율비행 시스템인 ‘Hivemind’를 적용한다. 쉴드AI는 V-BAT가 GPS 신호가 제한되거나 통신이 방해되는 환경에서도 임무를 수행할 수 있다고 설명하고 있다.
+
+대만 해군이 V-BAT를 도입하는 배경에도 이런 운용 환경이 자리 잡고 있다. 대만 해군은 공개 예산에서 작전 초기 중국군의 공격으로 지휘·통제·통신 체계가 마비되는 상황에 대비해 해역 감시와 정찰 능력의 복원력을 높여야 한다고 설명했다. GPS 교란에 대응할 수 있는 무인기를 활용해 복잡한 전자전 환경에서도 해상 상황을 파악한다는 구상이다.
+
+V-BAT는 우크라이나 전장에서 전자전 환경에 투입된 사례도 있다. 쉴드AI는 V-BAT가 러시아군 방공체계 등을 탐지하고 표적 정보를 제공한 운용 사례를 공개해 왔다.
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+
+   
+      알바트로스 II 무인 항공기. 출처=NCSIST
+      
+   
+&amp;#038;nbsp;
+알바트로스 II도 함께 확보… 무인전력 분산 운용
+대만 해군은 V-BAT와 별도로 자국산 무인항공기 NCSIST 알바트로스 II 32대도 확보할 계획이다. 관련 사업에는 관제소 8대와 수송차량 48대가 포함되며 사업비는 약 167억8974만 대만달러(약 7200억 원)다. V-BAT 사업과 알바트로스 II 사업을 합치면 대만 해군은 2026년부터 2029년까지 모두 312대의 무인항공기를 확보하게 된다.&amp;#038;nbsp;
+&amp;#038;nbsp;
+V-BAT는 장시간 체공과 다양한 임무 장비를 활용한 해상 정찰에, 알바트로스 II는 별도의 감시·정찰 임무에 활용될 것으로 보인다. 대만은 해군 무인항공기뿐 아니라 소형 정찰·공격 드론과 USV(무인수상정) 등으로 무인전력을 확대하고 있다. 여러 종류의 무인체계를 함께 확보해 중국군의 공격에 대비하고, 전력을 한 곳에 집중하지 않는 방식이다.
+
+대만 입법원은 8월 27일 향후 6년간 2400억 대만달러(약 10조 원)를 투입하는 무인체계 관련 법안을 통과시켰다. 매년 400억 대만달러(1조7300억 원)씩 본예산에 편성하는 내용으로, 기존 정부의 2100억 대만달러(약 9조 원) 특별예산안 대신 산업 육성과 국방조달을 함께 지원하는 방식이다. 다만 입법원 통과 이후에도 행정원장 부서와 총통 공포 절차가 남아 있다.
+중형급 무인기와 대량의 소형 드론 체계 함께 운용
+대만이 추진하는 무인전력 확대는 크게 두 방향으로 나뉜다. V-BAT처럼 장시간 비행하며 넓은 지역을 감시하는 고성능 무인기와, 대량 생산이 가능한 소형 드론·공격용 무인체계를 함께 운용하는 방식이다.
+
+V-BAT 280대는 전체 무인전력에서 차지하는 숫자는 많지 않지만 역할은 다르다. 장시간 체공과 센서 운용 능력을 바탕으로 해상에서 중국군의 움직임을 감시하고 표적 정보를 제공하는 정찰 플랫폼으로 활용할 수 있다. 대만 해군이 V-BAT를 실제로 여러 수상전투부대와 연안전투부대에 분산 배치하면 해상 감시망의 범위도 넓어질 것으로 예상된다. 대형 함정과 해안 레이더에만 의존하지 않고 무인기를 곳곳에 배치해 감시 수단을 늘리는 방식이다.
+
+이번 V-BAT 사업은 대만이 무인전력을 단순히 ‘많이 확보하는 것’에서 나아가 장시간 정찰이 가능한 중형급 무인기와 대량의 소형 무인체계를 함께 운용하는 방향으로 전력을 확대하고 있음을 보여준다.
+
+]]></description>
+<content:encoded><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260902050531_botslaae.jpg" alt="쉴드AI(Shield AI)의 수직이착륙형 무인항공기(VTOL) V-BAT. 출처=미해군.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">쉴드AI(Shield AI)의 수직이착륙형 무인항공기(VTOL) V-BAT. 출처=미해군</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 대만 해군이 미국 방산기업 쉴드AI(Shield AI)의 수직이착륙형 무인항공기(VTOL) V-BAT 280대 도입을 추진한다. 대만 자유시보에 따르면, 대만 해군은 2026년부터 2029년까지 4년간 360억658만1000 대만달러(약 11억3500만 달러, 약 1조5600억 원)를 투입해 V-BAT를 확보할 계획이다.</p>
+<p><br /></p>
+<p>이번 사업에는 V-BAT 280대와 제어시스템 140대, 수송차량 82대가 포함된다. 대만 해군은 수상전투부대와 연안전투부대 등에 무인기를 배치해 해상 감시와 정찰, 표적 탐지 능력을 높일 계획이다. 공개된 조달 계획을 보면 2026년 40대를 시작으로 2027년 110대, 2028년 64대, 2029년 66대를 순차적으로 확보한다. 제어시스템은 V-BAT 2대당 1대꼴로 배정된다.</p>
+<p><br /></p>
+<p>V-BAT는 활주로 없이 수직으로 이착륙할 수 있는 것이 특징이다. 쉴드AI에 따르면 최대이륙중량은 75kg이며 최대 탑재량은 18.1kg, 최대 체공 시간은 12시간 이상이다. 착륙에 필요한 공간도 4.6m×4.6m로 비교적 작다. EO/IR(전자광학·적외선) 장비를 비롯해 다양한 임무 장비를 탑재할 수 있으며, 쉴드AI의 자율비행 시스템인 ‘Hivemind’를 적용한다. 쉴드AI는 V-BAT가 GPS 신호가 제한되거나 통신이 방해되는 환경에서도 임무를 수행할 수 있다고 설명하고 있다.</p>
+<p><br /></p>
+<p>대만 해군이 V-BAT를 도입하는 배경에도 이런 운용 환경이 자리 잡고 있다. 대만 해군은 공개 예산에서 작전 초기 중국군의 공격으로 지휘·통제·통신 체계가 마비되는 상황에 대비해 해역 감시와 정찰 능력의 복원력을 높여야 한다고 설명했다. GPS 교란에 대응할 수 있는 무인기를 활용해 복잡한 전자전 환경에서도 해상 상황을 파악한다는 구상이다.</p>
+<p><br /></p>
+<p>V-BAT는 우크라이나 전장에서 전자전 환경에 투입된 사례도 있다. 쉴드AI는 V-BAT가 러시아군 방공체계 등을 탐지하고 표적 정보를 제공한 운용 사례를 공개해 왔다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260902050634_fimlrvor.jpg" alt="알바트로스 II 무인 항공기. 출처=NCSIST.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">알바트로스 II 무인 항공기. 출처=NCSIST</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>알바트로스 II도 함께 확보… 무인전력 분산 운용</h3>
+<p>대만 해군은 V-BAT와 별도로 자국산 무인항공기 NCSIST 알바트로스 II 32대도 확보할 계획이다. 관련 사업에는 관제소 8대와 수송차량 48대가 포함되며 사업비는 약 167억8974만 대만달러(약 7200억 원)다. V-BAT 사업과 알바트로스 II 사업을 합치면 대만 해군은 2026년부터 2029년까지 모두 312대의 무인항공기를 확보하게 된다.&nbsp;</p>
+<p>&nbsp;</p>
+<p>V-BAT는 장시간 체공과 다양한 임무 장비를 활용한 해상 정찰에, 알바트로스 II는 별도의 감시·정찰 임무에 활용될 것으로 보인다. 대만은 해군 무인항공기뿐 아니라 소형 정찰·공격 드론과 USV(무인수상정) 등으로 무인전력을 확대하고 있다. 여러 종류의 무인체계를 함께 확보해 중국군의 공격에 대비하고, 전력을 한 곳에 집중하지 않는 방식이다.</p>
+<p><br /></p>
+<p>대만 입법원은 8월 27일 향후 6년간 2400억 대만달러(약 10조 원)를 투입하는 무인체계 관련 법안을 통과시켰다. 매년 400억 대만달러(1조7300억 원)씩 본예산에 편성하는 내용으로, 기존 정부의 2100억 대만달러(약 9조 원) 특별예산안 대신 산업 육성과 국방조달을 함께 지원하는 방식이다. 다만 입법원 통과 이후에도 행정원장 부서와 총통 공포 절차가 남아 있다.</p>
+<h3>중형급 무인기와 대량의 소형 드론 체계 함께 운용</h3>
+<p>대만이 추진하는 무인전력 확대는 크게 두 방향으로 나뉜다. V-BAT처럼 장시간 비행하며 넓은 지역을 감시하는 고성능 무인기와, 대량 생산이 가능한 소형 드론·공격용 무인체계를 함께 운용하는 방식이다.</p>
+<p><br /></p>
+<p>V-BAT 280대는 전체 무인전력에서 차지하는 숫자는 많지 않지만 역할은 다르다. 장시간 체공과 센서 운용 능력을 바탕으로 해상에서 중국군의 움직임을 감시하고 표적 정보를 제공하는 정찰 플랫폼으로 활용할 수 있다. 대만 해군이 V-BAT를 실제로 여러 수상전투부대와 연안전투부대에 분산 배치하면 해상 감시망의 범위도 넓어질 것으로 예상된다. 대형 함정과 해안 레이더에만 의존하지 않고 무인기를 곳곳에 배치해 감시 수단을 늘리는 방식이다.</p>
+<p><br /></p>
+<p>이번 V-BAT 사업은 대만이 무인전력을 단순히 ‘많이 확보하는 것’에서 나아가 장시간 정찰이 가능한 중형급 무인기와 대량의 소형 무인체계를 함께 운용하는 방향으로 전력을 확대하고 있음을 보여준다.</p>
+<p><br /></p>
+]]></content:encoded>
+
+<atom:category label="방산기업" term="20140925141337_5787"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-09-02T05:14:42+09:00</atom:updated>
+<atom:published>2026-09-02T05:12:50+09:00</atom:published>
+</item><item>
+<guid>7880</guid>
+<title><![CDATA[[SF 인사이트] 러 극초음속 미사일 ‘지르콘’의 실체… 핵심 뇌엔 미 반도체, 비행 원리는 순항 아닌 ‘준탄도’]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7880</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7880</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7880" rel="related"/>
+<description><![CDATA[
+
+   
+      관련 이미지=GUR/TWZ 그래픽
+      
+   
+&amp;#038;nbsp;
+
+[시큐리티팩트 = 강지현 기자] 러시아가 ‘지구상에서 가장 치명적인 극초음속 살상무기’이자 게임체인저로 자랑해 온 3M22 ‘지르콘(Zircon)’ 미사일에 미국산 첨단 전자 부품이 대거 탑재된 사실이 확인됐다. 서방의 엄격한 수출 통제 속에서도 첨단 무기 체계의 핵심 뇌 역할을 하는 반도체 공급망이 지속해서 작동하고 있음을 보여준다. 한편 지르콘이 공기흡입식 엔진을 사용하는 진짜 극초음속 순항미사일이 아니라 고체연료 기반의 준탄도미사일일 가능성이 높다는 기술적 증거도 대거 드러났다.
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+
+   
+      우크라이나 국방정보국(GUR)이 지르콘 잔해에서 발견되었다고 밝힌 알테라(Altera)사의 Cyclone II 프로그래머블 반도체(FPGA) 소자./사진 출처=GUR
+      
+   
+&amp;#038;nbsp;
+미국산 반도체로 작동하는 러 최첨단 무기… 70개 기업 연계된 거대 공급망
+우크라이나 국방정보국(GUR)이 최근 공개한 3M22 지르콘 미사일의 정밀 분석 데이터에 따르면 격추 및 수거된 미사일 잔해에서 미국 반도체 기업들의 고성능 부품이 잇따라 포착됐다.
+
+대표적으로 미사일의 목표물 추적 및 정밀 유도를 담당하는 3B222 활성 레이더 탐색기 체계에서 미국 퀄보(Qorvo) 산하 트리퀀트 세미컨덕터(TriQuint Semiconductor)의 &amp;#039;TGA2704&amp;#039; 증폭기가 확인됐다. 또한 미사일 비행 제어 및 궤도 계산을 담당하는 바게트-83(Baget-83) 온보드 디지털 컴퓨터에서는 미국 인텔(Intel) 산하 알테라(Altera)의 &amp;#039;Cyclone II(EP2C5T144I8N)&amp;#039; 필드 프로그래머블 게이트 어레이(FPGA) 반도체가 탑재된 것으로 밝혀졌다.
+
+해당 기업들이 러시아 국방 산업에 직접 부품을 공급한 것으로 볼 수는 없으나 제3국이나 암시장 공급망을 통해 러시아 무기 공장으로 지속 흘러 들어간 것으로 분석된다. 이는 서방의 대러 제재에도 불구하고 핵심 반도체 유통 경로 차단에 심각한 구멍이 있음을 보여준다.
+
+GUR 분석 보고서에 따르면 지르콘 미사일의 개발 및 생산 체계는 주계약자인 NPO 마시노스트로예니야(NPO Mashinostroyeniya)를 중심으로 70여 개 기업과 84명의 주요 인력이 유기적으로 연결된 거대한 산업 네트워크를 이루고 있다. 레이더 탐색기는 NPP 라다 MMS, 온보드 컴퓨터는 KB 코룬드-M, 고체연료 로켓 모터는 NPO 이스크라가 각각 제작을 전담하고 있다.
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+
+   
+      2022년 바렌츠해에서 러시아 해군 호위함이 지르콘 극초음속 순항미사일을 발사하는 모습이라고 러시아 국방부가 공개한 영상 캡처./사진 출처=러시아 국방부/AP
+      
+   
+&amp;#038;nbsp;
+베일 벗은 3M22 지르콘의 제원과 내부 체계
+우크라이나 정보당국의 정밀 분석을 통해 그동안 베일에 싸여 있던 3M22 지르콘 미사일의 구체적인 물리적 제원과 하드웨어 구성도 한층 명확해졌다.
+
+지르콘은 전장 약 26피트(약 7.9m), 동체 직경 약 2.2피트(약 67cm) 규모로 제작되었다. 탄두 중량은 약 265파운드(약 120kg) 수준인 것으로 집계됐다. 비행 속도는 최고 마하 8에서 마하 9에 도달하고 지속적인 순항 고정 속도는 마하 6.8 수준을 유지한다. 비행 고도는 약 19~25마일(약 30~40km)의 고고도 영역을 활용하는 것으로 파악됐다.
+
+내부의 핵심 시스템으로는 정밀 유도를 위한 3B222 활성 레이더 탐색기와 비행 제어용 Baget-83 온보드 컴퓨터 그리고 NPO 이스크라가 제조한 3L2211 고체연료 로켓 모터가 중추적인 역할을 담당한다.
+
+운용 플랫폼의 경우 초기에는 해군 수상함 및 잠수함 발사 체계로 개발되었으나 최근에는 개량형 K-300P 바스티온(Bastion) 지대함 이동식 발사대(TEL)를 통해 지상에서도 전술적으로 발사되고 있는 것으로 확인됐다.
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+
+   
+      NPO 이스크라(NPO Iskra)가 제조한 3L2211 고체연료 로켓 모터의 잔해로 보고된 파편./사진 출처=GUR
+      
+   
+&amp;#038;nbsp;
+‘극초음속 순항미사일’ 아닌 ‘준탄도미사일’?… 3가지 핵심 근거
+이번 분석에서 또 하나 주목할 점은 지르콘이 러시아가 대외적으로 홍보해 온 ‘극초음속 순항미사일(Hypersonic Cruise Missile)’이 아닐 수도 있다는 기술적 판단이다. 당초 러시아는 지르콘이 대기 중 산소를 흡입해 작동하는 스크램제트(Scramjet) 엔진 기반의 순항미사일이라고 설명해 왔다. 그러나 더 워 존(The War Zone) 등 방산 기술 전문 매체들은 회수된 잔해 구조 분석을 토대로 지르콘이 스크램제트 순항 무기보다는 고체연료 기반의 준탄도(Quasi-ballistic)/부스트 글라이드(Boost-Glide) 미사일에 가깝다는 3가지 근거를 제시했다.
+
+첫째 스크램제트 엔진 작동에 필수적인 공기 흡입구(Air Intake)의 부재다. 공기흡입식 스크램제트 엔진을 탑재한 순항미사일은 대기 중 산소를 도입하기 위해 개방형 흡입구가 반드시 배치되어야 한다. 그러나 지르콘의 미사일 외형이나 관련 특허 도면 그리고 회수된 잔해 어디에서도 이러한 공기 흡입 구조가 전혀 관찰되지 않았다.
+
+둘째 2단계 고체연료 로켓 모터의 채택이다. 수거된 잔해 중 2단 추진체 구조물을 정밀 분석한 결과 공기흡입식 엔진 대신 1단 발사 부스터와 2단 추진체 모두 &amp;#039;고체연료 로켓 모터&amp;#039;를 사용하는 2단 로켓 체계임이 입증됐다.
+
+셋째 가변적인 비행 속도 프로필이다. 전 구간 일정한 순항 속도를 유지하는 일반적인 순항미사일과 달리 지르콘은 로켓 추진력을 바탕으로 고고도까지 급상승한 후 마하 5.5에서 마하 7.5 사이를 오가며 종말 단계에서 가속과 감속 그리고 공기역학적 기동을 복합적으로 수행하는 비행 양상을 보인다.
+
+이러한 비행 특성은 러시아의 공대지 미사일인 &amp;#039;킨잘(Kinzhal)&amp;#039;과 유사한 방식이다. 로켓 동력으로 고고도까지 상승한 뒤 탄도 궤적을 그리면서 공기역학적 기동(스킵 글라이드)을 결합해 하강하는 메커니즘이다. 비록 지속 순항 방식의 엔진을 갖추지 못했더라도 극초음속 속도 도달이 가능하다. 궤도 예측이 어려워 방공망에 심각한 위협이 된다. 한편 이러한 비행 특성은 우크라이나 군이 패트리어트(PAC-3) 방공 체계로 지르콘을 요격할 수 있었던 기술적 배경을 설명해 준다.
+
+하지만 지르콘 미사일은 순항미사일이라는 명칭에도 불구하고 극초음속 속도와 기동성을 갖춘 강력한 무기임에는 변함이 없다. 그러나 서방 전자 부품에 대한 의존성과 생산 체계의 구체적 실체가 명확히 드러남에 따라 향후 서방 국가들의 대러 수출 통제 집행과 우크라이나의 방공 전략 수립에 중요한 전환점이 될 것으로 전망된다.
+]]></description>
+<content:encoded><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260901235652_ydgmmpzl.jpg" alt="20260902 Zircon-Ukraine-missile.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">관련 이미지=GUR/TWZ 그래픽</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트 = 강지현 기자] 러시아가 ‘지구상에서 가장 치명적인 극초음속 살상무기’이자 게임체인저로 자랑해 온 3M22 ‘지르콘(Zircon)’ 미사일에 미국산 첨단 전자 부품이 대거 탑재된 사실이 확인됐다. 서방의 엄격한 수출 통제 속에서도 첨단 무기 체계의 핵심 뇌 역할을 하는 반도체 공급망이 지속해서 작동하고 있음을 보여준다. 한편 지르콘이 공기흡입식 엔진을 사용하는 진짜 극초음속 순항미사일이 아니라 고체연료 기반의 준탄도미사일일 가능성이 높다는 기술적 증거도 대거 드러났다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2026/08/Altera.png?strip=all&amp;quality=85" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">우크라이나 국방정보국(GUR)이 지르콘 잔해에서 발견되었다고 밝힌 알테라(Altera)사의 Cyclone II 프로그래머블 반도체(FPGA) 소자./사진 출처=GUR</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>미국산 반도체로 작동하는 러 최첨단 무기… 70개 기업 연계된 거대 공급망</h3>
+<p>우크라이나 국방정보국(GUR)이 최근 공개한 3M22 지르콘 미사일의 정밀 분석 데이터에 따르면 격추 및 수거된 미사일 잔해에서 미국 반도체 기업들의 고성능 부품이 잇따라 포착됐다.</p>
+<p><br /></p>
+<p>대표적으로 미사일의 목표물 추적 및 정밀 유도를 담당하는 3B222 활성 레이더 탐색기 체계에서 미국 퀄보(Qorvo) 산하 트리퀀트 세미컨덕터(TriQuint Semiconductor)의 'TGA2704' 증폭기가 확인됐다. 또한 미사일 비행 제어 및 궤도 계산을 담당하는 바게트-83(Baget-83) 온보드 디지털 컴퓨터에서는 미국 인텔(Intel) 산하 알테라(Altera)의 'Cyclone II(EP2C5T144I8N)' 필드 프로그래머블 게이트 어레이(FPGA) 반도체가 탑재된 것으로 밝혀졌다.</p>
+<p><br /></p>
+<p>해당 기업들이 러시아 국방 산업에 직접 부품을 공급한 것으로 볼 수는 없으나 제3국이나 암시장 공급망을 통해 러시아 무기 공장으로 지속 흘러 들어간 것으로 분석된다. 이는 서방의 대러 제재에도 불구하고 핵심 반도체 유통 경로 차단에 심각한 구멍이 있음을 보여준다.</p>
+<p><br /></p>
+<p>GUR 분석 보고서에 따르면 지르콘 미사일의 개발 및 생산 체계는 주계약자인 NPO 마시노스트로예니야(NPO Mashinostroyeniya)를 중심으로 70여 개 기업과 84명의 주요 인력이 유기적으로 연결된 거대한 산업 네트워크를 이루고 있다. 레이더 탐색기는 NPP 라다 MMS, 온보드 컴퓨터는 KB 코룬드-M, 고체연료 로켓 모터는 NPO 이스크라가 각각 제작을 전담하고 있다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://media.cnn.com/api/v1/images/stellar/prod/ap23004575724831.jpg?c=original&amp;q=w_860,c_fill" alt="In this image taken from video released by Russian Defense Ministry in 2022, a Zircon hypersonic cruise missile is launched by a Russian navy frigate from the Barents Sea." style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2022년 바렌츠해에서 러시아 해군 호위함이 지르콘 극초음속 순항미사일을 발사하는 모습이라고 러시아 국방부가 공개한 영상 캡처./사진 출처=러시아 국방부/AP</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>베일 벗은 3M22 지르콘의 제원과 내부 체계</h3>
+<p>우크라이나 정보당국의 정밀 분석을 통해 그동안 베일에 싸여 있던 3M22 지르콘 미사일의 구체적인 물리적 제원과 하드웨어 구성도 한층 명확해졌다.</p>
+<p><br /></p>
+<p>지르콘은 전장 약 26피트(약 7.9m), 동체 직경 약 2.2피트(약 67cm) 규모로 제작되었다. 탄두 중량은 약 265파운드(약 120kg) 수준인 것으로 집계됐다. 비행 속도는 최고 마하 8에서 마하 9에 도달하고 지속적인 순항 고정 속도는 마하 6.8 수준을 유지한다. 비행 고도는 약 19~25마일(약 30~40km)의 고고도 영역을 활용하는 것으로 파악됐다.</p>
+<p><br /></p>
+<p>내부의 핵심 시스템으로는 정밀 유도를 위한 3B222 활성 레이더 탐색기와 비행 제어용 Baget-83 온보드 컴퓨터 그리고 NPO 이스크라가 제조한 3L2211 고체연료 로켓 모터가 중추적인 역할을 담당한다.</p>
+<p><br /></p>
+<p>운용 플랫폼의 경우 초기에는 해군 수상함 및 잠수함 발사 체계로 개발되었으나 최근에는 개량형 K-300P 바스티온(Bastion) 지대함 이동식 발사대(TEL)를 통해 지상에서도 전술적으로 발사되고 있는 것으로 확인됐다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2026/08/engine.png?strip=all&amp;quality=85&amp;%3Bw=1024" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">NPO 이스크라(NPO Iskra)가 제조한 3L2211 고체연료 로켓 모터의 잔해로 보고된 파편./사진 출처=GUR</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>‘극초음속 순항미사일’ 아닌 ‘준탄도미사일’?… 3가지 핵심 근거</h3>
+<p>이번 분석에서 또 하나 주목할 점은 지르콘이 러시아가 대외적으로 홍보해 온 ‘극초음속 순항미사일(Hypersonic Cruise Missile)’이 아닐 수도 있다는 기술적 판단이다. 당초 러시아는 지르콘이 대기 중 산소를 흡입해 작동하는 스크램제트(Scramjet) 엔진 기반의 순항미사일이라고 설명해 왔다. 그러나 더 워 존(The War Zone) 등 방산 기술 전문 매체들은 회수된 잔해 구조 분석을 토대로 지르콘이 스크램제트 순항 무기보다는 고체연료 기반의 준탄도(Quasi-ballistic)/부스트 글라이드(Boost-Glide) 미사일에 가깝다는 3가지 근거를 제시했다.</p>
+<p><br /></p>
+<p>첫째 스크램제트 엔진 작동에 필수적인 공기 흡입구(Air Intake)의 부재다. 공기흡입식 스크램제트 엔진을 탑재한 순항미사일은 대기 중 산소를 도입하기 위해 개방형 흡입구가 반드시 배치되어야 한다. 그러나 지르콘의 미사일 외형이나 관련 특허 도면 그리고 회수된 잔해 어디에서도 이러한 공기 흡입 구조가 전혀 관찰되지 않았다.</p>
+<p><br /></p>
+<p>둘째 2단계 고체연료 로켓 모터의 채택이다. 수거된 잔해 중 2단 추진체 구조물을 정밀 분석한 결과 공기흡입식 엔진 대신 1단 발사 부스터와 2단 추진체 모두 '고체연료 로켓 모터'를 사용하는 2단 로켓 체계임이 입증됐다.</p>
+<p><br /></p>
+<p>셋째 가변적인 비행 속도 프로필이다. 전 구간 일정한 순항 속도를 유지하는 일반적인 순항미사일과 달리 지르콘은 로켓 추진력을 바탕으로 고고도까지 급상승한 후 마하 5.5에서 마하 7.5 사이를 오가며 종말 단계에서 가속과 감속 그리고 공기역학적 기동을 복합적으로 수행하는 비행 양상을 보인다.</p>
+<p><br /></p>
+<p>이러한 비행 특성은 러시아의 공대지 미사일인 '킨잘(Kinzhal)'과 유사한 방식이다. 로켓 동력으로 고고도까지 상승한 뒤 탄도 궤적을 그리면서 공기역학적 기동(스킵 글라이드)을 결합해 하강하는 메커니즘이다. 비록 지속 순항 방식의 엔진을 갖추지 못했더라도 극초음속 속도 도달이 가능하다. 궤도 예측이 어려워 방공망에 심각한 위협이 된다. 한편 이러한 비행 특성은 우크라이나 군이 패트리어트(PAC-3) 방공 체계로 지르콘을 요격할 수 있었던 기술적 배경을 설명해 준다.</p>
+<p><br /></p>
+<p>하지만 지르콘 미사일은 순항미사일이라는 명칭에도 불구하고 극초음속 속도와 기동성을 갖춘 강력한 무기임에는 변함이 없다. 그러나 서방 전자 부품에 대한 의존성과 생산 체계의 구체적 실체가 명확히 드러남에 따라 향후 서방 국가들의 대러 수출 통제 집행과 우크라이나의 방공 전략 수립에 중요한 전환점이 될 것으로 전망된다.</p>
+]]></content:encoded>
+
+<atom:category label="무기체계" term="20250407120846_2514"/>
+<author>sbtm2epdl@gmail.com 강지현 기자</author>
+<atom:updated>2026-09-02T00:54:32+09:00</atom:updated>
+<atom:published>2026-09-02T00:12:12+09:00</atom:published>
+</item><item>
+<guid>7881</guid>
+<title><![CDATA[인도, 미사일 기술 민간 전면 개방… 장기전 대비 생산 대형화 박차]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7881</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7881</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7881" rel="related"/>
+<description><![CDATA[
+
+   
+      2026년 1월 26일 인도 뉴델리에서 열린 공화국의 날 퍼레이드 중 인도 지대공 미사일들이 이동하고 있다./사진=Anadolu 게티이미지
+      
+   
+&amp;#038;nbsp;
+
+
+[시큐리티팩트 = 강태임 기자] 인도가 미사일 생산 역량을 대폭 끌어올리기 위해 국영 기관이 전유해 온 모든 재래식 미사일 기술을 민간 기업에 전면 개방하기로 결정했다. 우크라이나 및 중동 분쟁을 통해 입증된 장기전 속 탄약·미사일 재고 고갈 문제에 대응해 국방 산업 기반을 민간으로 대폭 확장하려는 행보다.
+
+인도 국방부와 인도 현지 언론 등에 따르면 라즈나트 싱(Rajnath Singh) 인도 국방장관은 최근 국방연구개발기구(DRDO)가 보유한 재래식 미사일 시스템 기술을 국내 민간 방산 기업에 이전하는 정책안을 최종 승인했다.
+
+인도 국방부는 공식 성명을 통해 이번 조치를 "인도 방위산업의 역사적 이정표"라고 정의하며 "작전 능력을 대폭 향상하고 수입 의존도를 낮추는 한편 인도 민간 산업계의 우수한 생산·개발 역량을 활용해 첨단 무기 체계를 조기에 확충하겠다"고 밝혔다.
+
+이번 발표 직후 인도 현지 주요 언론들은 이번 정책의 실효성과 산업 파급력을 다각도로 조명했다.
+
+비즈니스 스탠다드(Business Standard)는 인도 정부가 민간에 이전할 구체적인 미사일 라인업과 수주 메커니즘에 주목했다. 이 언론사 보도에 따르면 민간 기업이 DRDO의 개발·생산 파트너(DcPP)로 참여하는 경쟁 입찰 구조가 본격 도입될 예정이다. 장거리 순항미사일(LRLACM), 단거리 탄도미사일 프라레이(Pralay), 공대공 미사일 아스트라(Astra) 및 각종 지대공 방공 미사일 등 재래식 미사일 전반이 기술 이전 대상에 포함된다.
+
+힌두스탄 타임스(Hindustan Times)는 이번 정책이 지난 60여 년간 인도 국영 미사일 제조업체(BDL 등)가 유지해 온 독점 공급 체제를 해체하는 이정표가 될 것이라고 진단했다. 특히 민간 자본과 우수한 제조 역량의 투입이 그동안 국영 기업 중심 체제에서 발생했던 생산 병목 현상을 해결하고 탄약·미사일 비축량을 극대화할 핵심 열쇠가 될 것이라고 강조했다.
+
+더 뉴 인디안 익스프레스(The New Indian Express)는 이번 기술 이전이 핵탄두 탑재가 가능한 전략 미사일(아그니, K-시리즈 등)을 제외한 재래식 미사일에 한정되어 적용된다는 점을 집중 조명했다. 이는 국가 안보용 핵심 전략 무기의 보안은 엄격히 유지하면서도 실전에 다량 소모되는 재래식 탄약의 생산성만 극대화하려는 인도 정부의 실용적 조치로 평가받는다.
+
+미국의 국방 전문 매체 디펜스 뉴스(Defense News) 등 해외 언론은 이번 결정이 인접국과의 분쟁 및 최근 글로벌 군사 충돌에서 얻은 직접적인 교훈에서 비롯되었다고 진단했다.
+
+특히 우크라이나 전쟁에서 미국산 패트리어트(PAC-3) 요격 미사일이 조기 고갈되어 방공망에 부담을 준 사례나 중동 분쟁 장기화로 미군조차 탄약 재고 관리에 어려움을 겪은 점이 인도의 방산 정책 전환을 앞당겼다는 분석이다.
+
+인도 안보 전문가인 마노지 조시(Manoj Joshi) 관측자연구재단(ORF) 수석 연구원은 디펜스 뉴스에 "작년에 발생했던 파키스탄과의 4일간의 국경 분쟁이 만약 장기화되었다면 인도 역시 심각한 미사일 재고 부족에 직면했을 것"이라며 "민간 부문의 참여를 통한 공급망 다변화는 글로벌 국방 시장에서 대부분의 선진국이 걸어가는 필수적인 길"이라고 짚었다.
+
+수십 년간 국영 기관 주도로 운영되던 인도의 방위산업은 최근 무인기(드론) 제조 및 5세대 전투기(AMCA) 개발 사업에 민간 기업을 동참시키는 등 빠르게 개방되고 있다. 이번 재래식 미사일 기술의 민간 전면 이전 승인으로 인도의 국방 자립화 및 방산 생산 속도는 한층 격상될 전망이다.
+]]></description>
+<content:encoded><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260902004520_swvnfdxw.jpg" alt="20260902 인도 미사일 민간 이전.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 1월 26일 인도 뉴델리에서 열린 공화국의 날 퍼레이드 중 인도 지대공 미사일들이 이동하고 있다./사진=Anadolu 게티이미지</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p><br /></p>
+<p>[시큐리티팩트 = 강태임 기자] 인도가 미사일 생산 역량을 대폭 끌어올리기 위해 국영 기관이 전유해 온 모든 재래식 미사일 기술을 민간 기업에 전면 개방하기로 결정했다. 우크라이나 및 중동 분쟁을 통해 입증된 장기전 속 탄약·미사일 재고 고갈 문제에 대응해 국방 산업 기반을 민간으로 대폭 확장하려는 행보다.</p>
+<p><br /></p>
+<p>인도 국방부와 인도 현지 언론 등에 따르면 라즈나트 싱(Rajnath Singh) 인도 국방장관은 최근 국방연구개발기구(DRDO)가 보유한 재래식 미사일 시스템 기술을 국내 민간 방산 기업에 이전하는 정책안을 최종 승인했다.</p>
+<p><br /></p>
+<p>인도 국방부는 공식 성명을 통해 이번 조치를 "인도 방위산업의 역사적 이정표"라고 정의하며 "작전 능력을 대폭 향상하고 수입 의존도를 낮추는 한편 인도 민간 산업계의 우수한 생산·개발 역량을 활용해 첨단 무기 체계를 조기에 확충하겠다"고 밝혔다.</p>
+<p><br /></p>
+<p>이번 발표 직후 인도 현지 주요 언론들은 이번 정책의 실효성과 산업 파급력을 다각도로 조명했다.</p>
+<p><br /></p>
+<p>비즈니스 스탠다드(Business Standard)는 인도 정부가 민간에 이전할 구체적인 미사일 라인업과 수주 메커니즘에 주목했다. 이 언론사 보도에 따르면 민간 기업이 DRDO의 개발·생산 파트너(DcPP)로 참여하는 경쟁 입찰 구조가 본격 도입될 예정이다. 장거리 순항미사일(LRLACM), 단거리 탄도미사일 프라레이(Pralay), 공대공 미사일 아스트라(Astra) 및 각종 지대공 방공 미사일 등 재래식 미사일 전반이 기술 이전 대상에 포함된다.</p>
+<p><br /></p>
+<p>힌두스탄 타임스(Hindustan Times)는 이번 정책이 지난 60여 년간 인도 국영 미사일 제조업체(BDL 등)가 유지해 온 독점 공급 체제를 해체하는 이정표가 될 것이라고 진단했다. 특히 민간 자본과 우수한 제조 역량의 투입이 그동안 국영 기업 중심 체제에서 발생했던 생산 병목 현상을 해결하고 탄약·미사일 비축량을 극대화할 핵심 열쇠가 될 것이라고 강조했다.</p>
+<p><br /></p>
+<p>더 뉴 인디안 익스프레스(The New Indian Express)는 이번 기술 이전이 핵탄두 탑재가 가능한 전략 미사일(아그니, K-시리즈 등)을 제외한 재래식 미사일에 한정되어 적용된다는 점을 집중 조명했다. 이는 국가 안보용 핵심 전략 무기의 보안은 엄격히 유지하면서도 실전에 다량 소모되는 재래식 탄약의 생산성만 극대화하려는 인도 정부의 실용적 조치로 평가받는다.</p>
+<p><br /></p>
+<p>미국의 국방 전문 매체 디펜스 뉴스(Defense News) 등 해외 언론은 이번 결정이 인접국과의 분쟁 및 최근 글로벌 군사 충돌에서 얻은 직접적인 교훈에서 비롯되었다고 진단했다.</p>
+<p><br /></p>
+<p>특히 우크라이나 전쟁에서 미국산 패트리어트(PAC-3) 요격 미사일이 조기 고갈되어 방공망에 부담을 준 사례나 중동 분쟁 장기화로 미군조차 탄약 재고 관리에 어려움을 겪은 점이 인도의 방산 정책 전환을 앞당겼다는 분석이다.</p>
+<p><br /></p>
+<p>인도 안보 전문가인 마노지 조시(Manoj Joshi) 관측자연구재단(ORF) 수석 연구원은 디펜스 뉴스에 "작년에 발생했던 파키스탄과의 4일간의 국경 분쟁이 만약 장기화되었다면 인도 역시 심각한 미사일 재고 부족에 직면했을 것"이라며 "민간 부문의 참여를 통한 공급망 다변화는 글로벌 국방 시장에서 대부분의 선진국이 걸어가는 필수적인 길"이라고 짚었다.</p>
+<p><br /></p>
+<p>수십 년간 국영 기관 주도로 운영되던 인도의 방위산업은 최근 무인기(드론) 제조 및 5세대 전투기(AMCA) 개발 사업에 민간 기업을 동참시키는 등 빠르게 개방되고 있다. 이번 재래식 미사일 기술의 민간 전면 이전 승인으로 인도의 국방 자립화 및 방산 생산 속도는 한층 격상될 전망이다.</p>
+]]></content:encoded>
+
+<atom:category label="국방안보" term="20140925141441_2377"/>
+<author>sfinfo365@gmail.com 강태임 기자</author>
+<atom:updated>2026-09-02T00:47:58+09:00</atom:updated>
+<atom:published>2026-09-02T00:47:24+09:00</atom:published>
+</item><item>
+<guid>7879</guid>
+<title><![CDATA[스웨덴, 프랑스 나발 그룹과 40억 달러 규모 '룰레오급' 호위함 4척 계약…2030년 인도]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7879</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7879</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7879" rel="related"/>
+<description><![CDATA[
+   
+      2026년 8월 31일 스웨덴 스톡홀름의 한 전투함에 탑승해 있는 울프 크리스테르손 스웨덴 총리(왼쪽)와 에마뉘엘 마크롱 프랑스 대통령./사진=TT 뉴스 에이전시·로이터
+      
+   
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+[시큐리티팩트=강태임 기자] NATO의 32번째 정식 회원국인 스웨덴이 프랑스 방산기업 나발 그룹(Naval Group)과 40억 달러(약 5조 3000억 원) 규모의 신형 호위함 도입 계약을 공식 체결하고 해군력 강화를 위한 대형 프로젝트를 본격화했다.
+
+1일 로이터 통신과 군사 전문 매체 나발뉴스(Naval News) 등에 따르면 에마뉘엘 마크롱 프랑스 대통령과 울프 크리스테르손 스웨덴 총리는 월요일(8월 31일) 스톡홀름에서 양국 정상 회담을 갖고 나발 그룹의 호위함 4척을 도입하는 대형 방산 계약에 최종 서명했다.
+
+이번 계약으로 건조될 신형 함정은 &amp;#039;룰레오급(Luleå-class)&amp;#039;으로 명명되었다. 스웨덴 해군 역사상 가장 큰 전투함정으로 기록될 전망이다. 1번함은 오는 2030년 스웨덴 해군에 인도될 예정이다.
+
+스웨덴이 추진하는 룰레오급 사업은 단순히 해외 함정을 들여오는 단선적 구매에 그치지 않는다. 프랑스의 첨단 함정 플랫폼과 스웨덴의 독자적인 방산 기술력이 결합하는 &amp;#039;기술·산업적 하이브리드 협력&amp;#039; 구조로 추진되는 것이 핵심이다.
+&amp;#038;nbsp;
+
+
+   
+      프랑스 최신 FDI 호위함/사진=나발 그룹 제공
+      
+   
+&amp;#038;nbsp;
+룰레오급의 기본 선체 설계 및 플랫폼은 프랑스 해군의 최신형 4400톤급 중형 호위함인 FDI(Frégate de Défense et d&amp;#039;Intervention)를 기반으로 한다. FDI는 탈레스(Thales)사의 4면 고정형 AESA 레이더 &amp;#039;씨 파이어(Sea Fire)&amp;#039;와 차세대 디지털 데이터 센터를 내장해 강력한 동시 다표적 추적 및 요격 능력을 자랑하는 최첨단 스텔스 호위함이다.
+
+   
+      &amp;#038;nbsp;
+      
+   
+개발국인 프랑스는 총 5척의 FDI를 주문해 1번함 &amp;#039;아밀카르 로나르(Amiral Ronarc&amp;#039;h)&amp;#039;함을 실전 배치하고 2030년까지 전량 전력화를 추진 중이다. 또한 첫 해외 수출국인 그리스 역시 총 3척(키몬급)을 계약해 1번함 &amp;#039;키몬&amp;#039;함을 인도받아 동지중해에 배치하는 등 유럽 시장에서 차세대 표준 함정으로 입지를 넓혀가고 있다.
+&amp;#038;nbsp;
+&amp;#038;nbsp;
+
+   
+      그리스 FDI급 1번함 &amp;#039;키몬함&amp;#039; 운항 모습/출처=그리스 해군
+      
+   
+&amp;#038;nbsp;
+스웨덴의 룰레오급은 이러한 검증된 FDI 플랫폼에 자국 대표 방산기업 사브(Saab)의 첨단 기술을 대거 이식한다. 함정의 두뇌인 함정전투지휘체계(CMS)로 사브의 9LV 전투체계를 탑재해 스웨덴군 및 NATO 연합 C4I 네트워크와의 완벽한 상호운용성을 확보하게 된다.
+
+센서 및 무장 체계 역시 사브의 지라프(Giraffe) 1X 다기능 레이더와 BAE 시스템즈 보포스 57mm/40mm 함포, 사브의 RBS15 차세대 대함미사일, 토페드 47(Torped 47) 경어뢰 등 스웨덴 자국산 무기체계가 대거 통합 탑재된다.
+
+대공 방어망 역시 대폭 강화된다. 탄도미사일 및 정밀유도무기 요격 능력을 갖춘 아스터(Aster 30) 및 CAMM-ER 대공미사일 체계를 결합한다. 이로써 스웨덴 해군은 기존 대비 방공 작전 능력을 약 3배 이상 끌어올릴 것으로 기대하고 있다.
+
+2022년 러시아의 우크라이나 침공 이후 오랜 중립국 지위를 포기하고 NATO에 전격 가입한 스웨덴은 미 트럼프 행정부 출범 이후 가속화된 &amp;#039;유럽 안보 자립화&amp;#039; 기조에 맞춰 발트해 및 북유럽 해역에서의 독자적 억제력 확보에 박차를 가하고 있다.
+
+마크롱 프랑스 대통령은 서명식에서 "프랑스와 스웨덴은 EU와 NATO 틀 안에서 &amp;#039;유럽의 안보 주권&amp;#039;이 어떻게 공동으로 구축되는지 실증해 보였다"며 "이번 스웨덴의 룰레오급 주문은 유럽인 스스로 안보에 더 큰 책임을 지고 NATO의 유럽 방어 축을 공고히 하는 중요한 이정표가 될 것"이라고 강조했다.
+]]></description>
+<content:encoded><![CDATA[<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.defensenews.com/resizer/v2/LHW2TOIOV5EETJC2OFX4UN76Z4.JPG?auth=907b39da3a43bca864b376c65c68242d96174ab0eeb2a0161d11efa798426bab&amp;width=8256&amp;height=5504" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:justify;">2026년 8월 31일 스웨덴 스톡홀름의 한 전투함에 탑승해 있는 울프 크리스테르손 스웨덴 총리(왼쪽)와 에마뉘엘 마크롱 프랑스 대통령./사진=TT 뉴스 에이전시·로이터</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=강태임 기자] NATO의 32번째 정식 회원국인 스웨덴이 프랑스 방산기업 나발 그룹(Naval Group)과 40억 달러(약 5조 3000억 원) 규모의 신형 호위함 도입 계약을 공식 체결하고 해군력 강화를 위한 대형 프로젝트를 본격화했다.</p>
+<p><br /></p>
+<p>1일 로이터 통신과 군사 전문 매체 나발뉴스(Naval News) 등에 따르면 에마뉘엘 마크롱 프랑스 대통령과 울프 크리스테르손 스웨덴 총리는 월요일(8월 31일) 스톡홀름에서 양국 정상 회담을 갖고 나발 그룹의 호위함 4척을 도입하는 대형 방산 계약에 최종 서명했다.</p>
+<p><br /></p>
+<p>이번 계약으로 건조될 신형 함정은 '룰레오급(Luleå-class)'으로 명명되었다. 스웨덴 해군 역사상 가장 큰 전투함정으로 기록될 전망이다. 1번함은 오는 2030년 스웨덴 해군에 인도될 예정이다.</p>
+<p><br /></p>
+<p>스웨덴이 추진하는 룰레오급 사업은 단순히 해외 함정을 들여오는 단선적 구매에 그치지 않는다. 프랑스의 첨단 함정 플랫폼과 스웨덴의 독자적인 방산 기술력이 결합하는 '기술·산업적 하이브리드 협력' 구조로 추진되는 것이 핵심이다.</p>
+<p>&nbsp;</p>
+<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260901142046_kvfrqeku.jpg" alt="20260901 프랑스 호위함.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">프랑스 최신 FDI 호위함/사진=나발 그룹 제공</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>룰레오급의 기본 선체 설계 및 플랫폼은 프랑스 해군의 최신형 4400톤급 중형 호위함인 FDI(Frégate de Défense et d'Intervention)를 기반으로 한다. FDI는 탈레스(Thales)사의 4면 고정형 AESA 레이더 '씨 파이어(Sea Fire)'와 차세대 디지털 데이터 센터를 내장해 강력한 동시 다표적 추적 및 요격 능력을 자랑하는 최첨단 스텔스 호위함이다.</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 883px;">
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;"><span style="color: #000000; font-size: 16px;">&nbsp;</span></figcaption>
+      </figure>
+   </div>
+<p>개발국인 프랑스는 총 5척의 FDI를 주문해 1번함 '아밀카르 로나르(Amiral Ronarc'h)'함을 실전 배치하고 2030년까지 전량 전력화를 추진 중이다. 또한 첫 해외 수출국인 그리스 역시 총 3척(키몬급)을 계약해 1번함 '키몬'함을 인도받아 동지중해에 배치하는 등 유럽 시장에서 차세대 표준 함정으로 입지를 넓혀가고 있다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://meta-defense.fr/wp-content/uploads/2024/07/fregate-FDi-grece.webp" alt="그리스 해군 FDI 호위함" style="color: #999999; width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">그리스 FDI급 1번함 '키몬함' 운항 모습/출처=그리스 해군</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>스웨덴의 룰레오급은 이러한 검증된 FDI 플랫폼에 자국 대표 방산기업 사브(Saab)의 첨단 기술을 대거 이식한다. 함정의 두뇌인 함정전투지휘체계(CMS)로 사브의 9LV 전투체계를 탑재해 스웨덴군 및 NATO 연합 C4I 네트워크와의 완벽한 상호운용성을 확보하게 된다.</p>
+<p><br /></p>
+<p>센서 및 무장 체계 역시 사브의 지라프(Giraffe) 1X 다기능 레이더와 BAE 시스템즈 보포스 57mm/40mm 함포, 사브의 RBS15 차세대 대함미사일, 토페드 47(Torped 47) 경어뢰 등 스웨덴 자국산 무기체계가 대거 통합 탑재된다.</p>
+<p><br /></p>
+<p>대공 방어망 역시 대폭 강화된다. 탄도미사일 및 정밀유도무기 요격 능력을 갖춘 아스터(Aster 30) 및 CAMM-ER 대공미사일 체계를 결합한다. 이로써 스웨덴 해군은 기존 대비 방공 작전 능력을 약 3배 이상 끌어올릴 것으로 기대하고 있다.</p>
+<p><br /></p>
+<p>2022년 러시아의 우크라이나 침공 이후 오랜 중립국 지위를 포기하고 NATO에 전격 가입한 스웨덴은 미 트럼프 행정부 출범 이후 가속화된 '유럽 안보 자립화' 기조에 맞춰 발트해 및 북유럽 해역에서의 독자적 억제력 확보에 박차를 가하고 있다.</p>
+<p><br /></p>
+<p>마크롱 프랑스 대통령은 서명식에서 "프랑스와 스웨덴은 EU와 NATO 틀 안에서 '유럽의 안보 주권'이 어떻게 공동으로 구축되는지 실증해 보였다"며 "이번 스웨덴의 룰레오급 주문은 유럽인 스스로 안보에 더 큰 책임을 지고 NATO의 유럽 방어 축을 공고히 하는 중요한 이정표가 될 것"이라고 강조했다.</p>
+]]></content:encoded>
+
+<atom:category label="방산기업" term="20140925141337_5787"/>
+<author>sfinfo365@gmail.com 강태임 기자</author>
+<atom:updated>2026-09-01T14:24:14+09:00</atom:updated>
+<atom:published>2026-09-01T14:23:29+09:00</atom:published>
+</item></channel>
+</rss>
