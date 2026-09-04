@@ -3,8 +3,8 @@
 <title>시큐리티팩트</title>
 <link>https://www.securityfact.co.kr</link>
 <description>시큐리티팩트 – 육해공/해병 국방전문가의 심층분석 안보 매체</description>
-<atom:updated>2026-09-03T15:16:27+09:00</atom:updated>
-<atom:published>2026-09-03T15:16:27+09:00</atom:published>
+<atom:updated>2026-09-04T10:17:32+09:00</atom:updated>
+<atom:published>2026-09-04T10:17:32+09:00</atom:published>
 
 
 
@@ -56,6 +56,49 @@
 
 
 <item>
+<guid>7890</guid>
+<title><![CDATA[미 국방장관 운전면허증도 털렸다… 다크웹에 1억5300만 건 유출 의혹]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7890</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7890</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7890" rel="related"/>
+
+<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260904101531_iwfclrfe.jpg" alt="그림=제미나이.jpg" style="width: 720px; height: 483px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">그림=제미나이</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 미국과 캐나다 운전면허증 1억5300만 건 이상이 다크웹에서 거래된 정황이 드러났다. BleepingComputer는 3일(현지시각) 브라이언 크렙스의 보도를 인용해 피트 헤그세스 미 국방장관의 운전면허증이 해당 데이터에 포함됐다고 전했다. 미 연방수사국(FBI)은 대규모 개인정보 유출 가능성을 놓고 수사에 착수했다.</p>
+<p><br /></p>
+<p>사건의 중심에는 ‘Nexus’라는 다크웹 신원정보 거래 서비스가 있다. Nexus는 러시아 사이버범죄 포럼 ‘Exploit’에 미국과 캐나다의 운전면허증 이미지 1억5300만 건 이상을 보유하고 있다고 주장했다.</p>
+<p><br /></p>
+<p>Nexus가 내놓은 자료는 운전면허증에 그치지 않았다. 1000만 건 이상의 신분증과 300만 건 이상의 여행서류·국제 신분증, 약 57만9000건의 의료 관련 카드도 보유하고 있다고 주장했다.</p>
+<p><br /></p>
+<p>크렙스는 Nexus에서 자신의 버지니아주 운전면허증을 발견했다. 다른 이용자들의 실제 운전면허증도 확인했다. 일부 자료에서는 신분증을 실제로 사용한 시점과 이미지에 기록된 시간이 맞아떨어지는 사례도 나왔다. 단순히 오래된 개인정보를 모아놓은 데이터베이스가 아니라 최근 생성된 자료가 포함됐을 가능성이 제기되는 이유다.</p>
+<p><br /></p>
+<p>이번 사건의 파장은 헤그세스 국방장관의 운전면허증이 데이터에 포함됐다는 크렙스의 보도로 더욱 커졌다. 크렙스는 FBI 관계자의 운전면허증도 데이터베이스에서 발견됐다고 전했다. 다만 헤그세스의 운전면허증 포함 여부는 현재까지 독립적으로 확인된 사실로 단정하기 어렵다. 크렙스의 취재 결과를 바탕으로 한 보도이며, 다른 매체들도 해당 내용을 자체적으로 확인하지 못했다고 밝혔다.</p>
+<p><br /></p>
+<p>미 국방부 측도 관련 보도를 인지하고 있으며 내용을 검토하고 있다는 입장인 것으로 전해졌다. 따라서 현재 단계에서는 헤그세스의 면허증이 실제 유출됐다고 단정하기보다, 다크웹에 올라온 자료에 포함됐다는 보도가 나온 것으로 보는 것이 정확하다.</p>
+<p><br /></p>
+<p>FBI 뉴올리언스 지부는 이번 사건에 대한 조사에 들어갔다. FBI는 다크웹에서 판매된 신분증 자료의 출처와 유통 경로 등을 살펴보고 있다. 다만 실제 유출이 발생한 시스템과 전체 피해 규모는 아직 확정되지 않았다.</p>
+<p><br /></p>
+<p>또 하나 주의할 부분은 1억5300만 건이라는 숫자다. 이는 Nexus가 내세운 데이터 규모다. 실제 피해자 수를 의미하는 것은 아니다. 중복 자료나 여러 차례 촬영된 동일인의 신분증 이미지가 포함됐을 가능성도 있다.</p>
+<p><br /></p>
+<p>조사 과정에서 주목받는 업체는 미국 루이지애나주에 기반을 둔 신원확인 업체 IDScan.net이다. 크렙스는 여러 운전면허증 이미지의 촬영 시점과 실제 신분증 사용 기록을 비교했다. 그 결과 일부 자료가 IDScan.net의 신원확인 서비스를 통해 처리된 것으로 보인다는 정황을 제시했다. 일반적인 앞·뒷면 이미지뿐 아니라 적외선과 자외선 이미지까지 포함된 점도 근거로 제시됐다.</p>
+<p><br /></p>
+<p>IDScan.net이 이번 데이터의 유출원이라고 확정된 것은 아니다. Reuters 역시 데이터의 정확한 출처를 확인하지 못했다고 보도했다. IDScan.net 역시 관련 상황을 조사하고 있으며, 실제 무단 접근이 있었는지와 피해 범위를 확인하는 단계에 있다.</p>
+<p><br /></p>
+<p>IDScan.net을 둘러싼 의혹이 주목받는 이유는 처리하는 신원정보의 양 때문이다. 회사의 신원확인 기술은 운전면허증과 신분증, 여권 등의 정보를 디지털 방식으로 확인하는 데 사용된다. Krebs의 조사에서는 이런 시스템을 거쳐 처리된 것으로 보이는 자료가 Nexus에서 발견됐다.</p>
+<p><br /></p>
+<p>현재까지 확인된 정황만으로 IDScan.net의 시스템이 해킹됐다고 단정할 수는 없다. FBI 조사와 회사 자체 조사가 진행 중인 만큼 실제 침해 경로는 추가 확인이 필요하다.</p>
+<p><br /></p>
+]]></description>
+
+<atom:category label="시큐리티" term="20171121074254_1125"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-09-04T10:19:03+09:00</atom:updated>
+<atom:published>2026-09-04T10:17:32+09:00</atom:published>
+</item><item>
 <guid>7889</guid>
 <title><![CDATA[경질된 우크라이나 국방부 장관, 미 팔란티어 카프 CEO와 방산 스타트업 설립]]></title>
 <link>https://www.securityfact.co.kr/news/view.php?no=7889</link>
@@ -716,48 +759,5 @@
 <author>sbtm2epdl@gmail.com 강지현 기자</author>
 <atom:updated>2026-09-02T00:54:32+09:00</atom:updated>
 <atom:published>2026-09-02T00:12:12+09:00</atom:published>
-</item><item>
-<guid>7881</guid>
-<title><![CDATA[인도, 미사일 기술 민간 전면 개방… 장기전 대비 생산 대형화 박차]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7881</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7881</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7881" rel="related"/>
-
-<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260902004520_swvnfdxw.jpg" alt="20260902 인도 미사일 민간 이전.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 1월 26일 인도 뉴델리에서 열린 공화국의 날 퍼레이드 중 인도 지대공 미사일들이 이동하고 있다./사진=Anadolu 게티이미지</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>[시큐리티팩트 = 강태임 기자] 인도가 미사일 생산 역량을 대폭 끌어올리기 위해 국영 기관이 전유해 온 모든 재래식 미사일 기술을 민간 기업에 전면 개방하기로 결정했다. 우크라이나 및 중동 분쟁을 통해 입증된 장기전 속 탄약·미사일 재고 고갈 문제에 대응해 국방 산업 기반을 민간으로 대폭 확장하려는 행보다.</p>
-<p><br /></p>
-<p>인도 국방부와 인도 현지 언론 등에 따르면 라즈나트 싱(Rajnath Singh) 인도 국방장관은 최근 국방연구개발기구(DRDO)가 보유한 재래식 미사일 시스템 기술을 국내 민간 방산 기업에 이전하는 정책안을 최종 승인했다.</p>
-<p><br /></p>
-<p>인도 국방부는 공식 성명을 통해 이번 조치를 "인도 방위산업의 역사적 이정표"라고 정의하며 "작전 능력을 대폭 향상하고 수입 의존도를 낮추는 한편 인도 민간 산업계의 우수한 생산·개발 역량을 활용해 첨단 무기 체계를 조기에 확충하겠다"고 밝혔다.</p>
-<p><br /></p>
-<p>이번 발표 직후 인도 현지 주요 언론들은 이번 정책의 실효성과 산업 파급력을 다각도로 조명했다.</p>
-<p><br /></p>
-<p>비즈니스 스탠다드(Business Standard)는 인도 정부가 민간에 이전할 구체적인 미사일 라인업과 수주 메커니즘에 주목했다. 이 언론사 보도에 따르면 민간 기업이 DRDO의 개발·생산 파트너(DcPP)로 참여하는 경쟁 입찰 구조가 본격 도입될 예정이다. 장거리 순항미사일(LRLACM), 단거리 탄도미사일 프라레이(Pralay), 공대공 미사일 아스트라(Astra) 및 각종 지대공 방공 미사일 등 재래식 미사일 전반이 기술 이전 대상에 포함된다.</p>
-<p><br /></p>
-<p>힌두스탄 타임스(Hindustan Times)는 이번 정책이 지난 60여 년간 인도 국영 미사일 제조업체(BDL 등)가 유지해 온 독점 공급 체제를 해체하는 이정표가 될 것이라고 진단했다. 특히 민간 자본과 우수한 제조 역량의 투입이 그동안 국영 기업 중심 체제에서 발생했던 생산 병목 현상을 해결하고 탄약·미사일 비축량을 극대화할 핵심 열쇠가 될 것이라고 강조했다.</p>
-<p><br /></p>
-<p>더 뉴 인디안 익스프레스(The New Indian Express)는 이번 기술 이전이 핵탄두 탑재가 가능한 전략 미사일(아그니, K-시리즈 등)을 제외한 재래식 미사일에 한정되어 적용된다는 점을 집중 조명했다. 이는 국가 안보용 핵심 전략 무기의 보안은 엄격히 유지하면서도 실전에 다량 소모되는 재래식 탄약의 생산성만 극대화하려는 인도 정부의 실용적 조치로 평가받는다.</p>
-<p><br /></p>
-<p>미국의 국방 전문 매체 디펜스 뉴스(Defense News) 등 해외 언론은 이번 결정이 인접국과의 분쟁 및 최근 글로벌 군사 충돌에서 얻은 직접적인 교훈에서 비롯되었다고 진단했다.</p>
-<p><br /></p>
-<p>특히 우크라이나 전쟁에서 미국산 패트리어트(PAC-3) 요격 미사일이 조기 고갈되어 방공망에 부담을 준 사례나 중동 분쟁 장기화로 미군조차 탄약 재고 관리에 어려움을 겪은 점이 인도의 방산 정책 전환을 앞당겼다는 분석이다.</p>
-<p><br /></p>
-<p>인도 안보 전문가인 마노지 조시(Manoj Joshi) 관측자연구재단(ORF) 수석 연구원은 디펜스 뉴스에 "작년에 발생했던 파키스탄과의 4일간의 국경 분쟁이 만약 장기화되었다면 인도 역시 심각한 미사일 재고 부족에 직면했을 것"이라며 "민간 부문의 참여를 통한 공급망 다변화는 글로벌 국방 시장에서 대부분의 선진국이 걸어가는 필수적인 길"이라고 짚었다.</p>
-<p><br /></p>
-<p>수십 년간 국영 기관 주도로 운영되던 인도의 방위산업은 최근 무인기(드론) 제조 및 5세대 전투기(AMCA) 개발 사업에 민간 기업을 동참시키는 등 빠르게 개방되고 있다. 이번 재래식 미사일 기술의 민간 전면 이전 승인으로 인도의 국방 자립화 및 방산 생산 속도는 한층 격상될 전망이다.</p>
-]]></description>
-
-<atom:category label="국방안보" term="20140925141441_2377"/>
-<author>sfinfo365@gmail.com 강태임 기자</author>
-<atom:updated>2026-09-02T00:47:58+09:00</atom:updated>
-<atom:published>2026-09-02T00:47:24+09:00</atom:published>
 </item></channel>
 </rss>
