@@ -1,781 +1,670 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kcustom="http://base.google.com/cns/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kcustom="http://base.google.com/cns/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>시큐리티팩트</title>
 <link>https://www.securityfact.co.kr</link>
 <description>시큐리티팩트 – 육해공/해병 국방전문가의 심층분석 안보 매체</description>
-<atom:updated>2026-09-04T12:55:41+09:00</atom:updated>
-<atom:published>2026-09-04T12:55:41+09:00</atom:published>
+<atom:updated>2026-09-10T10:21:30+09:00</atom:updated>
+<atom:published>2026-09-10T10:21:30+09:00</atom:published>
 <item>
-<guid>7885</guid>
-<title><![CDATA[[사이버 전쟁 리포트⑥] 병원이 아니었다… 미 의료업계, 공급망 타고 뚫렸다]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7885</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7885</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7885" rel="related"/>
+<guid>7854</guid>
+<title><![CDATA['글로벌 의료기기' 보스턴 사이언티픽, 사이버 공격에 주문·배송 중단]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7854</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7854</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7854" rel="related"/>
 
 <description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260903103631_snopzdmc.jpg" alt="병원 밖의 새로운 사이버 공격 표적. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">병원 밖의 새로운 사이버 공격 표적. 그림=이미지크리에이터</figcaption>
+      <img src="https://securityfact.co.kr/data/tmp/2608/20260827152152_tusogzox.jpg" alt="보스턴 사이언티픽.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">보스턴 사이언티픽</figcaption>
    </figure>
-   </div>
+</div>
 <p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 지난 8월 25일, 미국 대형 의료 유통업체 맥케슨(McKesson)은 정보시스템에 대한 사이버보안 사고를 발견했다. 사흘 뒤인 28일 SEC 공시를 통해 특정 타사 애플리케이션에 대한 무단 접근과 데이터 반출을 확인했다고 밝혔다.&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 글로벌 의료기기 업체 보스턴 사이언티픽이 사이버 공격을 받아 글로벌 사업 운영에 차질이 발생했다. 고객 주문 처리와 제품 배송 시스템도 영향을 받았다.</p>
 <p>
    <br />
 </p>
-<p>비슷한 시기 의료 데이터 관리업체 에스토 헬스(Aesto Health)에서는 954만명이 넘는 개인정보가 영향을 받았고, 의료기기 제조업체 보스턴 사이언티픽(Boston Scientific)은 사이버 공격으로 글로벌 운영에 차질을 빚었다.&nbsp;</p>
+<p>27일(현지시각) 더레코드 보도에 따르면, 보스턴 사이언티픽은 사이버 보안 사건을 확인했다고 밝혔다. 회사는 같은 내용을 미국 증권거래위원회(SEC)에도 신고했다.</p>
 <p>
    <br />
 </p>
-<p>의료 IT 업체 케어클라우드(CareCloud)는 지난 3월 발생한 사고의 피해 규모가 당초 알려진 34만5000명에서 375만명대로 열 배 넘게 늘었다는 사실이 뒤늦게 확인됐다.&nbsp;</p>
+<p>회사에 따르면 이번 사건으로 일부 정보기술(IT) 시스템과 업무용 애플리케이션에 대한 접근이 제한됐다. 고객 주문을 처리하고 제품을 출하하는 기능도 영향을 받았다.</p>
 <p>
    <br />
 </p>
-<p>공격 대상은 병원 내부에만 머물지 않았다. 의약품을 유통하는 업체, 환자 데이터를 관리하는 업체, 의료기기를 만드는 업체까지 잇따라 공격을 받았다. 한 주 사이 벌어진 이 네 건의 사고만으로도 영향을 받은 사람은 1000만명을 훌쩍 넘는다.</p>
-<h3>전화 한 통에서 시작… 클라우드까지 파고들었다</h3>
-<p>맥케슨 공격의 배후를 자처한 것은 데이터 갈취 전문 해킹조직 샤이니헌터스(ShinyHunters)다. 이 조직은 자체 유출 사이트에 맥케슨 시스템에서 약 2억8400만건의 기록을 확보했다고 주장하며 5500만달러(약 786억 원)의 몸값을 요구했다고 밝힌 것으로 알려졌다. 다만 이는 해커 측 주장이다.&nbsp;</p>
+<p>보스턴 사이언티픽은 사고를 확인한 직후 대응 절차를 가동했다. 외부 사이버 보안 전문가를 투입해 공격을 조사하고 시스템 복구 작업을 진행하고 있다. 회사 측은 랜섬웨어 공격인지 여부에 대해서는 밝히지 않았다. 시스템 전체가 언제 복구될지도 아직 정해지지 않았다. 재무에 미칠 영향 역시 현재 조사 중이다.</p>
+<h3>심혈관 제품과 내시경·비뇨기과·신경혈관 의료기기 개발</h3>
+<p>보스턴 사이언티픽은 미국 매사추세츠주 말버러에 본사를 둔 의료기기 기업이다. 심장박동기와 스텐트 등 심혈관 제품을 비롯해 내시경, 비뇨기과, 신경혈관 분야 의료기기를 개발하고 생산한다.</p>
 <p>
    <br />
 </p>
-<p>2억8400만건은 데이터베이스 행(row) 단위 수치로, 2억8400만명의 환자 정보가 유출됐다는 뜻은 아니다. 확인된 사실과 해커 측 주장을 구분해서 봐야 한다는 게 보안업계의 공통된 지적이다.&nbsp;</p>
+<p>2025년 매출은 200억7400만 달러(약 27조7000억 원)였다. 올해 2분기 순매출은 54억4200만 달러(약 7조5000억 원)를 기록했다. 직원 수는 약 5만9000명이다. 미국을 비롯해 유럽과 아시아 등 여러 지역에서 연구개발과 생산, 판매 사업을 벌이고 있다.</p>
 <p>
    <br />
 </p>
-<p>샤이니헌터스는 초기 침투 단계에서 직원을 대상으로 비싱(전화를 이용한 사회공학적 사기 기법)을 사용해 기업들이 로그인 인증에 널리 쓰는 계정관리 서비스인 오케이타(Okta) 계정을 탈취했고, 이를 발판으로 세일즈포스(Salesforce)와 스노우플레이크(Snowflake) 시스템에 접근했다고 주장한 것으로 전해졌다.&nbsp;</p>
+<p>생산시설도 한 국가에 집중돼 있지 않다. 미국과 푸에르토리코, 아일랜드, 코스타리카, 말레이시아, 중국, 브라질 등에 제조 거점을 운영하고 있다.</p>
 <p>
    <br />
 </p>
-<p>맥케슨은 사고 이후 네트워크상 추가적인 무단 활동은 발견되지 않고 있으며 고객 서비스와 제품 배송도 정상적으로 이뤄지고 있다고 밝혔지만, 일부 고객사는 간헐적인 서비스 저하를 겪을 수 있다고 안내했다.</p>
-<p>
-   <br />
-</p>
-<p>에스토 헬스와 케어클라우드의 침입 경로는 조금 다르다. 두 회사 모두 아마존웹서비스(AWS, 클라우드 서버를 빌려 쓰는 클라우드 컴퓨팅 서비스)에 구축된 인프라를 통해 공격자가 접근했다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>에스토 헬스는 지난해 12월 2일부터 18일 사이 침입이 발생했지만, 실제 개인정보 유출 가능성이 확인된 것은 올해 5월 26일이었다. 회사는 6월 26일부터 관련 의료기관 고객사에 통지를 시작했고, 8월 21일에는 피해 기관 명단을 추가로 갱신했다. 보스턴 사이언티픽 사고는 공격 주체와 침투 경로가 아직 공개되지 않았으며, 회사는 크라우드스트라이크(CrowdStrike) 등 외부 전문가와 함께 조사를 진행 중이라고 밝혔다.</p>
+<p>이번 사고가 단순한 사내 전산 장애로 끝날지 관심이 쏠리는 이유다. 주문을 받고 제품을 출하하는 시스템이 멈추면 생산과 물류 일정에도 영향을 줄 수 있다.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260903103744_zwoemwoa.jpg" alt="환자 개인정보 대규모 유출. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">환자 개인정보 대규모 유출. 그림=이미지크리에이터</figcaption>
+      <img src="https://securityfact.co.kr/data/tmp/2608/20260827152301_ligtdqsf.jpg" alt="작업 중인 보스턴 사이언티픽 직원들.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">작업 중인 보스턴 사이언티픽 직원들</figcaption>
    </figure>
-   </div>
+</div>
 <p>&nbsp;</p>
-<h3>954만명 정보부터 업무 중단까지… 피해 양상도 제각각</h3>
-<p>피해는 데이터 하나에 그치지 않는다. 에스토 헬스 사고로는 이름과 생년월일, 진료기록, 운전면허증 번호, 금융계좌번호, 건강보험 정보, 사회보장번호까지 폭넓은 개인정보 954만683명분이 영향을 받았다.&nbsp;</p>
+<h3>네트워크 장애, 의료기기 공급 차질 가능성</h3>
+<p>현재 회사가 확인한 직접적인 영향은 주문 처리와 제품 출하다. 보스턴 사이언티픽은 네트워크 장애로 글로벌 운영에 차질이 발생했다고 설명했다. 외부 보안업체까지 투입해 복구에 나선 것도 이 때문이다.</p>
 <p>
    <br />
 </p>
-<p>이 여파는 빌리지MD(VillageMD), 마라톤 헬스(Marathon Health), 마라나 헬스(Marana Health), 투게더 우먼스 헬스(Together Women's Health) 등 29개 의료기관으로 번졌다고 HIPAA 저널 등이 전했다.&nbsp;</p>
+<p>다만 병원이나 의료기관에 실제로 제품 공급이 끊겼는지, 어느 정도의 물량이 영향을 받았는지는 공개되지 않았다. 환자 치료에 사용되는 의료기기 공급에 문제가 발생했다는 발표도 아직 없다. TechCrunch 역시 회사가 고객이나 환자에 대한 영향 여부에 답변하지 않았다고 전했다.</p>
 <p>
    <br />
 </p>
-<p>케어클라우드 사고 역시 처음 알려진 34만5000명에서 375만6469명으로 피해 규모가 열 배 넘게 불어났다. 회사는 지난 3월 16일 전자의무기록 환경 일부에 일시적 장애가 발생했다고 발표했지만, 이후 조사에서 아마존웹서비스 환경에 대한 무단 접근이 확인되면서 사회보장번호와 신분증 번호, 신용·직불카드 정보, 건강보험 정보까지 유출됐을 가능성이 드러났다. 처음 발표한 피해 규모가 다섯 달 만에 열 배 넘게 불어난 셈이다.</p>
+<p>복구 속도가 관건이다. CNBC가 접촉한 투자자들은 시스템 복구에 수주가 걸릴 수 있다는 설명을 들었다고 전했다. 시장에서는 경쟁 의료기기 업체인 스트라이커의 과거 사례를 근거로 약 3주 정도의 복구 기간을 거론하고 있다. 이는 회사가 공식적으로 제시한 일정은 아니다.</p>
+<h3>메드트로닉·스트라이커도 공격… 의료기기 업계 비상</h3>
+<p>의료기기 업계의 사이버 공격은 이번이 처음이 아니다. 메드트로닉은 지난 4월 발생한 사이버 침해와 관련해 최근 380만 명 이상에게 개인정보 유출 사실을 통보했다. 노출된 정보에는 성명과 생년월일, 건강 관련 정보 등이 포함된 것으로 알려졌다.</p>
 <p>
    <br />
 </p>
-<p>보스턴 사이언티픽은 개인정보 유출보다 운영 마비가 먼저 문제였다. 일부 온프레미스 시스템과 업무 애플리케이션에 접근하지 못하면서 글로벌 운영에 차질이 생겼고, 고객 주문 처리와 제품 배송까지 지연됐다. 회사는 클라우드 시스템은 영향을 받지 않았고, 자사 네트워크에 연결되지 않은 의료기기에는 영향이 없다고 밝혔다.&nbsp;</p>
+<p>스트라이커도 올해 초 사이버 공격을 받아 시스템 복구에 수주가 걸렸다. 이 사건은 이후 미 연방 검찰이 이란과 연계된 해커들의 소행으로 지목했다.</p>
 <p>
    <br />
 </p>
-<p>IBM의 2026년 데이터 유출 비용 보고서에 따르면 의료 분야 평균 유출 비용은 664만달러(약 94억 원)로, 2025년 742만달러보다는 낮아졌지만 13년 연속 전체 업종 가운데 가장 높은 수준을 유지했다.</p>
-<h3>한 업체가 뚫리면 수백만명이 위험하다</h3>
-<p>이번 사고에서 눈에 띄는 대목은 공격 대상이다. 병원 자체보다 병원과 연결된 업체들이 잇따라 표적이 됐다. 의약품을 유통하는 맥케슨, 환자 데이터를 관리하는 에스토 헬스와 케어클라우드, 의료기기를 만드는 보스턴 사이언티픽까지, 의료 생태계를 구성하는 여러 고리가 동시에 흔들렸다.&nbsp;</p>
+<p>의료기기 업체의 전산 장애는 일반 기업과 파장이 다를 수 있다. 주문과 생산, 출하가 차례로 영향을 받으면 병원에 공급되는 제품에도 문제가 생길 수 있어서다.</p>
 <p>
    <br />
 </p>
-<p>미국 보건복지부(HHS) 산하 시민권실(OCR) 자료를 보면 6월 9일 기준 올해 신고된 대형 유출 189건 가운데 173건이 해킹·IT 사고였고, 피해자는 1900만명을 넘어섰다. 2019년 절반에도 못 미치던 해킹발 유출 비중은 최근 80%를 웃도는 수준까지 높아졌다.&nbsp;</p>
+<p>보스턴 사이언티픽은 한국에서도 사업을 운영하고 있다. SEC에 제출된 자회사 목록에는 Boston Scientific Korea Co., Ltd.와 Boston Scientific Korea Holding Co., Ltd.가 포함돼 있다.</p>
 <p>
    <br />
 </p>
-<p>상반기 10대 유출 사고 가운데 일곱 건은 의료기관의 외부 비즈니스 어소시에이트나 벤더 시스템과 관련돼 있었다는 집계도 있다.</p>
+<p>이번 공격이 주문 처리와 제품 출하 시스템에 영향을 준 만큼 국내 사업에도 차질이 있는지 관심이 커지고 있다. 그러나 현재까지 한국 법인의 시스템이 공격받았거나 국내 고객 정보가 유출됐다는 발표는 없다. 국내 병원에 대한 제품 배송 차질도 확인되지 않았다.</p>
 <p>
    <br />
 </p>
-<p>&nbsp;2024년 청구·결제 인프라 업체 체인지 헬스케어(Change Healthcare)가 랜섬웨어 공격을 받아 미국 전역 병원과 약국의 수납, 처방 업무가 동시에 마비됐던 사고 이후 드러난 의료 공급망의 취약성이 지금도 되풀이되고 있다는 지적이 나오는 이유다.</p>
-<p>
-   <br />
-</p>
-<p>문제는 한 업체의 사고가 그 업체에서 끝나지 않는다는 데 있다. 전자의무기록(EHR, 환자 진료 정보를 디지털로 기록하는 시스템)과 청구, 수익관리 소프트웨어를 여러 병원이 공유하는 구조에서는 벤더 하나가 뚫리면 그 아래 걸린 수십 개 의료기관과 수백만 환자가 동시에 피해를 입는다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>병원이 자체 보안을 아무리 강화해도 외부 애플리케이션과 서비스형 소프트웨어(SaaS, 설치 없이 인터넷으로 빌려 쓰는 소프트웨어), 클라우드 협력업체까지 관리 범위를 넓히지 않으면 소용이 없다는 지적이 나오는 배경이다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260903103856_rohaqtft.jpg" alt="의료 공급망 사이버 공격 확산. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">의료 공급망 사이버 공격 확산. 그림=이미지크리에이터</figcaption>
-   </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>해커들이 병원 밖을 보는 이유</h3>
-<p>보안업계는 의료 분야가 앞으로도 최우선 표적으로 남을 것으로 보고 있다. 사회보장번호와 진료기록, 보험 정보가 한꺼번에 담긴 의료 데이터는 암시장에서 금융정보보다 값을 더 쳐준다는 평가가 많고, 응급실과 처방 시스템이 멈추면 병원이 몸값을 지불할 수밖에 없다는 계산이 랜섬웨어(시스템을 잠그거나 데이터를 암호화한 뒤 몸값을 요구하는 악성코드) 조직들의 표적 선정에 반영되고 있다는 분석이다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>보스턴 사이언티픽처럼 생명 유지 장치와 연결된 의료기기 제조사가 표적이 될 경우 생산과 공급에 차질이 생길 수 있다는 우려도 나온다. 다만 이번 사고에서 회사는 네트워크에 연결되지 않은 기기에는 영향이 없다고 선을 그었고, 피해가 특정 기기의 생산 지연으로 이어졌다는 근거는 아직 확인되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>한 곳을 뚫어 여러 의료기관에 접근할 수 있다면 공격 효율은 크게 높아진다. 맥케슨처럼 4만개가 넘는 기업과 기관을 고객으로 둔 업체가 뚫리면, 병원 수백 곳을 개별적으로 공격하는 것보다 훨씬 적은 비용으로 훨씬 큰 피해를 낼 수 있다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>개별 병원이 보안 투자를 늘리는 사이, 공격자의 관심은 이미 그 주변 벤더로 옮겨간 것으로 보인다. 업계에서는 벤더 보안 심사와 접근 권한 최소화, 그리고 오케이타 같은 인증 서비스에 대한 다중 인증 강화가 시급하다는 목소리가 커지고 있다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>실제로 맥케슨과 다른 업체들에서 반복된 비싱과 오케이타 계정 탈취 수법은, 기술적 취약점보다 사람을 노리는 공격이 여전히 가장 효과적인 침투 경로임을 보여준다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>규제 당국의 대응도 관건이다. HHS 시민권실은 유출 규모가 클수록 조사와 제재 가능성이 높아진다는 원칙을 유지하고 있지만, 벤더가 여러 병원과 계약을 맺고 있는 구조에서는 책임 소재를 가리는 데만 수개월이 걸리는 경우가 많아 실효성 있는 제재로 이어지기까지 시차가 크다는 지적도 나온다.</p>
-<p>&nbsp;</p>
 ]]></description>
 
 <atom:category label="시큐리티" term="20171121074254_1125"/>
 <author>sc.minugi@gmail.com 최미옥 기자</author>
-<atom:updated>2026-09-03T10:42:19+09:00</atom:updated>
-<atom:published>2026-09-03T10:41:01+09:00</atom:published>
+<atom:updated>2026-08-27T15:27:18+09:00</atom:updated>
+<atom:published>2026-08-27T15:27:18+09:00</atom:published>
 </item>
 <item>
-<guid>7886</guid>
-<title><![CDATA[[SF 이슈] 삼성SDS, 미국서 ‘RX ART 2026’ 결집…IT서비스 주요 기업 ‘로봇 대전환’ 주도권 경쟁]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7886</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7886</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7886" rel="related"/>
+<guid>7855</guid>
+<title><![CDATA[영국 3개 공항 사이버 공격… 870만명 고객정보 노출]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7855</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7855</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7855" rel="related"/>
 
-<description><![CDATA[<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://image.samsungsds.com/kr/news/__icsFiles/afieldfile/2026/09/03/1_1.jpeg?queryString=20260903091425" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">삼성SDS가 미국에서 RX ART(Robotics Transformation Advancing Robotics Together) 2026’을 개최했다./사진=삼성SDS</figcaption>
-      </figure>
-   </div>
+<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://securityfact.co.kr/data/tmp/2608/20260828090143_srccunow.jpg" alt="영국 공항 3곳이 사이버 공격을 받은 상황을 표현한 이미지. 그림=제미나이.jpg" style="width: 720px; height: 483px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">영국 공항 3곳이 사이버 공격을 받은 상황을 표현한 이미지. 그림=제미나이</figcaption>
+   </figure>
+</div>
 <p>&nbsp;</p>
-<p><br /></p>
-<p>[시큐리티팩트=강지현 기자] 디지털 전환(DX)과 인공지능 전환(AX)을 넘어 현실 세계의 물리적 로봇을 지능화하는 ‘로봇 대전환(RX·Robotics Transformation)’이 IT 서비스 업계의 차세대 핵심 먹거리로 부상하고 있다.</p>
-<p><br /></p>
-<p>3일 삼성SDS는 지난 8월 31일부터 9월 1일까지(현지시간) 미국 캘리포니아주 마운틴뷰에서 삼성 주요 관계사 및 글로벌 로봇 기업들과 함께 ‘RX ART(Robotics Transformation Advancing Robotics Together) 2026’을 개최했다고 밝혔다.</p>
-<p>&nbsp;</p>
-<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260903103744_itpsehfw.jpg" alt="20260903 피지컬AI.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">KAIST가 구축한 피지컬AI 기반의 100% 무인공장 플랫폼 '카이로스'의 실증 현장./사진=과학기술정보통신부</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>현실 물리 세계와 AI의 결합… RX(로봇 대전환)와 피지컬 AI란?</h3>
-<p>'피지컬 AI(Physical AI)'는 모니터 속 화면이나 텍스트를 처리하는 기존 디지털 AI 수준을 넘어 센서와 카메라를 통해 현실의 물리적 공간을 인식·판단하고 로봇 팔이나 바퀴 등 하드웨어를 직접 제어해 물리적 작업을 수행하는 차세대 AI 기술이다.</p>
-<p><br /></p>
-<p>이 피지컬 AI 기술을 제조, 물류, 조선, 건설 등 복잡하고 비정형화된 산업 현장에 적용해 기존 생산 공정과 서비스 체계를 로봇 중심 자율 체계로 혁신하는 과정을 'RX(Robotics Transformation·로봇 대전환)'라 부른다.</p>
-<p><br /></p>
-<p>글로벌 시장조사기관 및 업계에 따르면 피지컬 AI와 결합된 AI 로보틱스 시장은 현재 20억~30억 달러 수준에서 오는 2035년까지 약 2000억 달러(한화 약 270조~300조 원) 규모로 10년 내 100배 가까이 폭발적으로 성장할 것으로 전망된다. 연평균 성장률(CAGR) 또한 20%를 웃도는 가파른 상승세를 기록하고 있다.</p>
-<p><br /></p>
-<h3>삼성SDS, ‘RX ART 2026’서 관계사 현장 맞춤형 로봇 검증 완료</h3>
-<p>삼성SDS가 주최한 ‘RX ART 2026’은 삼성 관계사의 실제 산업 현장 과제(Use Case)를 기반으로 글로벌 피지컬 AI 기업들과 손잡고 로봇의 현장 적용 가능성을 정밀 검증한 자리였다.</p>
-<p><br /></p>
-<p>이번 행사에는 삼성전기, 세메스, 삼성중공업, 삼성E&amp;A, 삼성디스플레이 등 각 분야 주요 관계사의 로봇 담당 임원들이 대거 결집했다.</p>
-<p><br /></p>
-<p>삼성SDS는 전략적 투자를 단행한 미국 풀스택 피지컬 AI 기업 월든 로보틱스(Walden Robotics)의 범용 로봇을 활용해 삼성전기와 세메스 제조 현장의 부품 핸들링 및 소모품 교체 작업을 성공적으로 구현했다. 또한 조선·플랜트 현장의 비정형 야외 작업을 위해 로보포스(RoboForce)사의 고중량 피지컬 AI 로봇 노동(Robo-Labor) 기술을 적용하여 실외 자동화 가능성을 확인했다.</p>
-<p><br /></p>
-<p>디스플레이 제조 등 고도의 정밀성이 요구되는 공정에는 로봇 스타트업 G사의 정밀 조작(Dexterous Manipulation) AI 기술을 접목해 복잡한 수작업 자동화를 입증했다.&nbsp;</p>
-<p><br /></p>
-<p>삼성SDS 안대중 디지털팩토리담당(부사장)은 "글로벌 피지컬 AI 로봇 기업과의 전략적 협력을 지속 확대해 삼성 관계사의 제조 RX 추진을 적극 지원하겠다"고 강조했다.</p>
-<p><br /></p>
-<h3>LG CNS·SK C&amp;C·현대오토에버·포스코DX… IT 주요 기업 RX 주도권 레이스 격화</h3>
-<p>삼성SDS뿐만 아니라 국내 주요 IT 서비스 및 AX 기업들 역시 각사의 독자적인 방산·제조·물류 노하우와 피지컬 AI 플랫폼을 앞세워 RX 시장을 맹렬히 공략하고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://cdn.bizwatch.co.kr/news/photo/2026/06/23/cfde22164f5858e56dee26d2ac2aab39.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">LG CNS '피지컬웍스 포지'로 학습 마친 이족보행, 사족보행, 휠 타입, 자율주행로봇(AMR) 등 4종 로봇이 '피지컬웍스 바통'을 기반으로 물류 현장에서 자율협업하며 작업을 수행하고 있다. /사진=LG CNS</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>LG CNS는 자체 피지컬 AI 플랫폼인 ‘피지컬웍스(PhysicalWorks)’와 로봇 제어 솔루션 ‘바통’을 바탕으로 제조·물류 현장의 완전 자율화에 속도를 내고 있다. 시각·언어·행동 모델을 통합한 VLA(Vision-Language-Action) 기술을 적용해 로봇의 현장 투입 기간을 획기적으로 단축시켰다. 최근에는 주거 단지 자율 순찰용 사족보행 로봇 등 서비스 영역으로도 피지컬 AI 적용을 확산하는 추세다.</p>
-<p><br /></p>
-<p>SK C&amp;C는 최근 '제조RX 풀스택 서비스'를 전면에 내세우며 반도체 및 첨단 제조 현장을 타깃으로 한 자율 공장 구축에 속도를 내고 있다. 디지털 트윈과 피지컬 AI 기술을 융합해 이기종 로봇의 통합 제어 및 관제 시스템을 제공한다. 한편 SK텔레콤과 SK하이닉스 등 그룹 주요 멤버사와 합심해 국내외 피지컬 AI 스타트업 생태계 조성을 주도하고 있다.</p>
-<p><br /></p>
-<p>현대오토에버는 현대차그룹의 SDV(소프트웨어 중심 자동차) 및 로보틱스 비전에 맞춰 그룹 내 제조 공장의 스마트 팩토리화와 피지컬 AI 내재화를 적극 추진 중이다. 이를 위해 글로벌 로봇 계열사인 보스턴 다이내믹스의 휴머노이드 로봇 등과 유기적으로 연동되는 차세대 소프트웨어 플랫폼 개발에 역량을 집중하고 있다.</p>
-<p><br /></p>
-<p>포스코DX 역시 철강 및 중공업 현장의 특수성을 반영한 ‘AI 네이티브 컴퍼니’ 대전환을 선언했다. 가상 공간에서 물리 환경을 동일하게 구현하는 디지털 트윈 기술을 활용해 45톤급 고중량 후판 크레인의 자율 제어 및 설비 로봇화를 실현하는 등 정밀 물리 제어 기반의 피지컬 AI 솔루션을 고도화하고 있다.</p>
-<p><br /></p>
-<p>IT 서비스 업계 관계자는 "기존의 ERP나 데이터 분석 중심의 IT 서비스 시장이 포화 상태에 이른 상황에서 물리 현장을 직접 움직이는 피지컬 AI와 RX 솔루션이야말로 향후 10년을 좌우할 핵심 미래 먹거리"라며 "글로벌 테크 기업들과의 M&amp;A 및 전략적 제휴를 통한 기술 확보전이 더욱 치열해질 것"이라고 분석했다.</p>
+<p>[시큐리티팩트=최미옥 기자] 영국 맨체스터 공항 그룹(MAG)이 운영하는 맨체스터와 런던 스탠스테드, 이스트미들랜즈 공항이 사이버 공격을 받았다. 약 870만명의 고객 정보가 공격자에게 접근된 것으로 파악됐다.</p>
+<p>
+   <br />
+</p>
+<p>MAG에 따르면 공격 대상이 된 정보는 공항 주차와 라운지, 패스트트랙 예약, 공항 내 와이파이 가입 과정에서 수집된 데이터다. 이메일 주소와 전화번호, 차량 등록번호, 우편번호 등이 포함됐다.</p>
+<p>
+   <br />
+</p>
+<p>다만 대부분의 고객은 이메일 주소만 노출된 것으로 확인됐다. 와이파이 가입 과정에서 수집된 이메일 주소가 전체 피해 규모의 상당 부분을 차지했다.</p>
+<p>
+   <br />
+</p>
+<p>은행 계좌나 결제 정보는 이번 공격으로 유출되지 않았다. 해당 정보가 공격받은 시스템에 저장돼 있지 않았기 때문이다. 항공기 운항이나 공항 업무에도 차질은 없었다. 승객 안전과 항공 보안 역시 영향을 받지 않았다고 MAG는 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>회사는 추가 피해를 막기 위해 온라인 예약 관리 서비스인 'Manage My Booking'의 접속을 한때 차단했다. 기존 예약에는 영향이 없었고, 예약 변경이나 취소가 필요한 고객은 고객서비스를 이용하도록 안내했다.</p>
+<p>
+   <br />
+</p>
+<p>MAG는 공격을 인지한 뒤 즉시 위험을 차단했다. 외부 사이버보안 전문가를 투입해 대응하고 있으며 관련 당국에도 사건을 알렸다.</p>
+<p>
+   <br />
+</p>
+<p>공격자들은 금전을 요구한 것으로 전해졌다. MAG는 요구한 금액을 지급하지 않았다. 정보위원회(ICO)는 공격 그룹과 금액 등 구체적인 내용은 공개하지 않도록 MAG에 요청한 것으로 알려졌다.</p>
+<p>
+   <br />
+</p>
+<p>피해 고객들에게는 피싱이나 사칭 메시지에 대한 주의도 당부됐다. 런던 스탠스테드 공항은 이메일이나 전화, 문자메시지로 결제 또는 은행 정보를 요구하는 연락에는 응하지 말라고 안내했다.</p>
+<p>
+   <br />
+</p>
+<p>이번 공격으로 영향을 받은 3개 공항은 지난해 약 5400만명의 승객을 처리했다. 여름 휴가철 여행객이 몰리는 시기에 대규모 고객정보 침해가 발생하면서 추가 피해에 대한 우려도 나오고 있다.</p>
+<p>
+   <br />
+</p>
+<p>MAG는 고객들에게 이번 사건으로 불편과 우려를 끼친 데 대해 사과했다.</p>
 ]]></description>
 
-<atom:category label="뉴테크" term="20250407121910_3900"/>
-<author>sbtm2epdl@gmail.com 강지현 기자</author>
-<atom:updated>2026-09-03T10:44:02+09:00</atom:updated>
-<atom:published>2026-09-03T10:41:36+09:00</atom:published>
+<atom:category label="시큐리티" term="20171121074254_1125"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-08-28T09:03:30+09:00</atom:updated>
+<atom:published>2026-08-28T09:03:30+09:00</atom:published>
 </item>
 <item>
-<guid>7887</guid>
-<title><![CDATA[정부, 사이버 보안 특화 AI 사업자로 ‘네이버클라우드 컨소시엄’ 최종 선정]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7887</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7887</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7887" rel="related"/>
+<guid>7856</guid>
+<title><![CDATA[[SF 포커스] 정부, 2030년까지 5.1조 투입… 국방 경계·탄약 운반에 휴머노이드·무인체계 전격 투입]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7856</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7856</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7856" rel="related"/>
 
 <description><![CDATA[<p>
    <br />
 </p>
-<p style="text-align: center;">
-   <img src="https://www.securityfact.co.kr/data/tmp/2609/20260903110158_stccfblm.png" alt="20260903 네이버클라우드_로고_0827.png" style="width: 640px; height: 361px;" />
-</p>
-<p style="text-align: left;">[시큐리티팩트=강태임 기자] 과학기술정보통신부가 국가 사이버 안보 역량을 강화하기 위한 ‘사이버 보안 특화 AI 파운데이션 모델 개발’ 프로젝트의 최종 사업자로 네이버클라우드 컨소시엄을 선정했다고 3일 발표했다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">이번 사업은 정부의 핵심 국정과제인 ‘세계에서 가장 AI 잘 쓰는 나라 구현’과 ‘AI 시대를 지탱하는 견고한 디지털 보안안전 체계 구축’을 이행하기 위한 핵심 프로젝트다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<h3 style="text-align: left; ">SKT 물리치고 최종 낙점… GPU B200 256장 파격 지원</h3>
-<p style="text-align: left; ">과기정통부와 정보통신산업진흥원(NIPA)은 이번 공모에 참여한 2개 컨소시엄(네이버클라우드, SK텔레콤)을 대상으로 인공지능 및 사이버 보안 분야 외부 전문가 평가위원단의 발표평가를 진행했다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">평가단은 각 컨소시엄이 제출한 사업계획서와 발표 내용을 바탕으로 ▲기술력 및 개발 경험 ▲개발 전략·기술 및 개발 목표의 우수성·실현 가능성 ▲시장성 및 파급효과 등을 종합적으로 검증했다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">평가 결과 네이버클라우드 컨소시엄은 대규모 산·학·연 협력 체계를 안정적으로 구축하고 복수의 에이전트와 하네스 구성을 포함한 개발 전략 및 목표에서 높은 점수를 받아 최종 사업 수행기관으로 결정됐다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">선정된 네이버클라우드 컨소시엄에는 오는 9월부터 10개월간 최신 고성능 AI 반도체인 엔비디아 'GPU B200' 총 256장이 지원된다. 지원 방식은 우선 5개월간 컴퓨팅 자원을 제공한 뒤 중간평가 결과에 따라 잔여 5개월분을 추가 지원하는 구조다. 과기정통부는 9월 중 협약을 체결하고 실무협의체를 구성해 본격적인 보안 특화 모델 개발에 착수할 예정이다.</p>
-<p style="text-align: left; ">&nbsp;</p>
-<p style="text-align: left; ">&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <p style="text-align: center;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHXKhA5Ap45rtu_tsGWuueI983XYpdAB2LRb-3hocHkLW15ogRu4kPMRU&amp;s=10" alt="네이버클라우드-LG CNS 사이버보안 AI 구축, AI로 생성" style="color: #999999; width: 640px; height: 400px;" />
-   </p>
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;">
-      <figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em;">출처=네이버클라우드 페이스북 채널</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3 style="text-align: left;">네이버클라우드-LG CNS 중심 33개 산·학·연 ‘풀스택’ 역량 결집</h3>
-<p style="text-align: left; ">이번 프로젝트에서 네이버클라우드는 LG CNS와 손을 잡고 원자력, 금융 등 최고 수준의 보안 규제가 적용되는 영역에서 축적해 온 ‘폐쇄망·온프레미스’ 거대언어모델(LLM) 배포·운영 노하우를 접목한다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">외부망과 완전히 격리된 환경에서 자체 생성형 AI를 구동해 온 실전 경험과 함께 대국민 서비스를 방어하며 쌓은 관제 기술, 공공 클라우드 보안인증(CSAP) 기반의 데이터 암호화 노하우를 총동원해 현장에 즉시 투입 가능한 '소버린 보안 AI'를 구현한다는 방침이다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">공동 수행기관인 LG CNS 역시 레드팀, 블루팀, AI 보안팀 등 사이버 보안 전 영역을 아우르는 전문 조직과 다양한 산업군의 AX(AI 전환) 사업 경험을 제공한다. 여기에 LG유플러스 등 그룹사의 통신 네트워크 특화 데이터를 학습에 활용해 모델 성능을 극대화할 계획이다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">이번 컨소시엄에는 두 대기업 외에도 공격·탐지 기술을 보유한 보안 전문 기업, 취약점 및 AI 안전성을 연구하는 주요 대학, 국가급 위협 데이터 및 제3자 검증을 담당하는 연구·공공기관 등 총 33개 산·학·연 기관이 결합해 AI 보안 모델 개발 전 주기를 자체 완료할 수 있는 인프라를 갖췄다.</p>
-<p style="text-align: left; ">
-   <br />
-</p>
-<p style="text-align: left; ">김유원 네이버클라우드 대표는 "사이버 위협이 AI를 활용해 한층 고도화되는 만큼 방어 체계 역시 독자적인 AI 기술로 내재화하는 것이 국가 안보의 핵심"이라며 "실전 보안 역량을 바탕으로 국내 사이버 위협 환경을 가장 잘 이해하는 '소버린 보안AI'를 개발해 국가 안보 역량을 한 단계 격상시킬 것"이라고 밝혔다.</p>
-]]></description>
-
-<atom:category label="시큐리티" term="20171121074254_1125"/>
-<author>sfinfo365@gmail.com 강태임 기자</author>
-<atom:updated>2026-09-03T11:08:36+09:00</atom:updated>
-<atom:published>2026-09-03T11:06:18+09:00</atom:published>
-</item>
-<item>
-<guid>7888</guid>
-<title><![CDATA[에어로바이런먼트, 美 육군에 4억6400만 달러 레이저 무기 공급]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7888</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7888</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7888" rel="related"/>
-
-<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260903114310_bkrwsefz.jpg" alt="고에너지 레이저 무기 시스템의 3세대 제품 LOCUST X3. 출처=에어로바이런먼트.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">고에너지 레이저 무기 시스템의 3세대 제품 LOCUST X3. 출처=에어로바이런먼트</figcaption>
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2608/20260828103716_zcnxycbe.jpg" alt="20260828 DMZ 로봇근무.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">DMZ에서 한국군 병사가 보스턴 다이내믹스의 스팟(Spot), 레인보우로보틱스 본체 기반에 현대로템의 무기·센서를 탑재한 RB-01K 그리고 사륜구동 모빌리티 모베드(MobED)가 경계근무를 돌고 있다/사진=제미나이</figcaption>
    </figure>
 </div>
 <p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 미국 방산기업 에어로바이런먼트(AeroVironment)가 미 육군에 대드론용 레이저 무기를 공급한다.</p>
 <p>
    <br />
 </p>
-<p>에어로바이런먼트는 2일(현지시각) 미 육군 화력사업국(PAE Fires)으로부터 4억6480만 달러(6약 6300억 원) 규모의 E-HEL(Enduring-High Energy Laser) 프로그램 계약을 따냈다고 밝혔다. 계약 방식은 기타거래계약(OTA)이다.</p>
+<p>[시큐리티팩트=강태임 기자] 정부가 급격한 병력 자원 감소 위기에 대응하고 안보 및 산업 현장의 첨단화를 이루기 위해 오는 2030년까지 총 5조 1천억 원 규모의 재정을 투입한다. 특히 국방 분야에는 휴머노이드 로봇과 정찰 드론, 자율주행 무인 차량을 전격 배치해 24시간 무인 경계체계 및 고위험 임무 자동화를 실증할 방침이다.</p>
 <p>
    <br />
 </p>
-<p>이번 사업에 투입되는 무기는 LOCUST X3다. 에어로바이런먼트는 앞으로 수년에 걸쳐 수십 대를 공급하고, 시스템 운용 지원과 교육도 맡는다. LOCUST X3는 레이저를 이용해 드론을 무력화하는 지향성에너지 무기체계다. 이번 사업의 대응 대상은 그룹 1~3급 무인항공기(UAS)다.</p>
-<p>
-   <br />
-</p>
-<p>미 육군은 소형 드론부터 중형 무인항공기까지 전장에서 사용되는 무인체계가 빠르게 늘면서 대드론 전력 확보에 속도를 내고 있다. E-HEL 역시 이 같은 전장 환경을 고려한 사업이다. LOCUST X3의 기반이 된 기술은 이미 미 육군 사업에서 시험됐다.</p>
-<p>
-   <br />
-</p>
-<p>에어로바이런먼트는 그동안 AMP-HEL(다목적 고에너지 레이저)과 PHEL(팔레트형 고에너지 레이저) 사업에 LOCUST 계열 기술을 적용해왔다.</p>
-<p>
-   <br />
-</p>
-<p>AMP-HEL은 차량에 레이저와 레이더, 지휘통제 기능 등을 결합한 이동형 대드론 체계다. 에어로바이런먼트는 사업 과정에서 이동형 레이저 시제품을 제작해 육군에 납품했고, 시험과 운용 훈련도 진행했다. 이번 E-HEL 계약에서는 여기서 한 단계 더 나아가 실제 배치용 시스템을 생산한다.</p>
-<p>
-   <br />
-</p>
-<p>LOCUST X3는 에어로바이런먼트가 20~35kW 이상으로 출력을 확장할 수 있도록 개발한 모듈형 지향성에너지 시스템이다. 이번 계약 발표에서는 30kW급 시스템으로 소개됐다. 센서에서 들어오는 표적 정보를 처리하고 추적할 수 있으며, 고정형과 이동형 플랫폼에 모두 통합할 수 있다.</p>
-<p>
-   <br />
-</p>
-<p>육군은 E-HEL을 합동경량전술차량(JLTV) 등에 탑재할 예정이다. 팔레트 적재형 구성도 마련한다. 보병분대차량(ISV)에 적용하는 방안도 검토하고 있다. 에어로바이런먼트는 이번 계약을 미국 최초의 지향성에너지 시스템 생산 계약이라고 설명했다.</p>
+<p>기획예산처는 27일 서울 예금보험공사에서 제2차 재정운용전략협의회를 개최하고 이 같은 내용이 담긴 ▲8대 핵심분야 피지컬 AI 실증 추진방안 ▲휴머노이드 생태계 육성방안 ▲신성장 분야 혁신기업 육성방안 ▲전 부처 중소기업 지원사업 효율화 방안 등 4개 안건을 논의·확정했다고 밝혔다.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260903114910_ibyfozor.jpg" alt="보병 휴대용 대전차 자폭 드론 스위치블레이드 600. 출처=에어로바이런먼트.jpg" style="width: 720px; height: 605px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">보병 휴대용 대전차 자폭 드론 스위치블레이드 600. 출처=에어로바이런먼트</figcaption>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2608/20260828103118_pkigywcw.jpg" alt="20260828 현대로템 로봇개.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">현대로템의 전투용 다족보행로봇(왼쪽)과 다목적 무인지상차량(UGV) HR-셰르파가 함께 임무를 수행하는 시범을 보이고 있다./사진=현대로템</figcaption>
    </figure>
 </div>
 <p>&nbsp;</p>
-<h3>스위치블레이드 만든 회사가 레이저 무기까지</h3>
-<p>에어로바이런먼트라는 이름이 국내에서 가장 많이 알려진 계기는 스위치블레이드(Switchblade)다. 스위치블레이드는 발사한 뒤 일정 시간 공중에 머물면서 표적을 찾고 공격하는 보병 휴대용 대전차 자폭 드론(체공형 무기)이다. 이 가운데 스위치블레이드 600은 장거리 정밀타격을 맡는 대형 모델이다.&nbsp;&nbsp;</p>
+<h3>국방·자율제조 등 8대 분야 ‘피지컬 AI’ 실증… 국방 경계에 휴머노이드·드론 연동</h3>
+<p>정부는 자율제조, 국방, 중소제조, 농업, 건설, 물류, 항만, 돌봄 등 8대 핵심 분야의 피지컬 AI 실증을 위해 2030년까지 민간·지방비 매칭을 포함해 총 4조 원(재정 2조 8000억 원)을 투입한다.</p>
 <p>
    <br />
 </p>
-<p>미 육군은 올해 2월 스위치블레이드 600 Block 2와 스위치블레이드 300 Block 20 등을 포함해 1억8600만 달러 규모의 공급 주문을 냈다. 8월에는 스위치블레이드 600을 대상으로 5100만 달러 규모의 추가 주문도 나왔다.&nbsp;</p>
+<p>특히 심각한 병력 자원 부족 문제에 직면한 국방 분야는 위험도가 높거나 비전투 임무부터 우선적으로 무인화 전환을 추진한다. 포병부대의 험지 탄약 운반 임무는 자율주행 무인 차량으로 자동화되며 야간 및 취약지역 경계근무에는 휴머노이드 로봇과 정찰 드론을 연동한 ‘24시간 무인 경계체계’를 구축해 실증에 나선다. 폭발물 및 위험 의료폐기물 취급 분야에도 밀폐형 자율이동로봇이 도입된다.</p>
 <p>
    <br />
 </p>
-<p>정찰용 무인항공기도 에어로바이런먼트의 주력 제품이다. Raven과 Puma 등이 대표적이다.</p>
+<p>과기정통부와 산업부가 개발한 국산 기술을 국방 등 실제 현장에 즉시 적용함으로써 국내 시장이 해외 플랫폼의 시험장으로 전락하는 것을 방지하고 군 수요기업과 국내 AI·로봇·부품 기업 간 컨소시엄을 통해 신속한 매출 창출과 군 전력화 레퍼런스 확보를 동시에 지원할 계획이다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+   <img src="https://img.hankyung.com/photo/202608/AA.45470901.4.jpg" alt="휴머노이드·피지컬 AI에 4년간 5조 투자" style="width: 100%; height: auto;" />
+</p>
+<h3>2030년까지 휴머노이드 2.3조 투입… 정부가 1080대 직접 구매해 마중물</h3>
+<p>휴머노이드 생태계 자체를 키우기 위한 투자도 대대적으로 이뤄진다. 정부는 2030년까지 재정 2조 3000억 원(민간 매칭 포함 2조 7000억 원)을 투입해 현재 45% 수준인 핵심부품 국산화율을 80%까지 끌어올리고 10대 업종별 특화 휴머노이드 양산 체제를 구축한다.</p>
 <p>
    <br />
 </p>
-<p>최근에는 사업 영역이 대드론과 지향성에너지 분야로 넓어지고 있다. 공격용 드론을 만드는 데서 끝나는 것이 아니라, 적이 띄운 드론을 찾아내고 대응하는 장비까지 제품군에 넣고 있는 것이다. 이번 E-HEL 계약은 그 변화를 보여주는 사례다.</p>
-<h3>드론을 만들던 업체, 드론을 잡는 무기로 확장</h3>
-<p>에어로바이런먼트의 사업을 보면 방향이 뚜렷하다. 스위치블레이드는 공격용이고, LOCUST는 대드론 방어용이다. 한쪽에서는 무인체계를 공격 수단으로 활용하고, 다른 한쪽에서는 같은 무인체계를 막는 장비를 만든다.</p>
+<p>정부가 직접 첫 수요처가 되는 마중물 역할도 자처한다. 국산 휴머노이드를 2027년 250대, 2030년까지 총 1080대를 사들여 대학과 국책연구기관 등에 보급하고 실천 연구과제를 부과한다. 4족 보행 로봇 등 비(非)휴머노이드까지 포함하면 정부의 전체 로봇 구매 규모는 2030년까지 약 5000대로 확대된다.</p>
 <p>
    <br />
 </p>
-<p>레이저 무기는 드론 대응 시장에서 특히 관심을 받고 있다. 전력만 공급되면 반복해서 사용할 수 있어 요격탄을 계속 소모하는 기존 방식과 다른 운용이 가능하기 때문이다.</p>
+<p>기술적으로는 로봇의 두뇌·몸체·반도체를 잇는 휴머노이드 운영체제(OS)를 2031년까지 국산화해 풀스택(Full-Stack) 기술을 완성한다. 제조·피지컬 AI 데이터는 범정부 통합 라이브러리에 수집해 클린룸 방식으로 국내 기업의 AI 모델 학습에 안전하게 제공할 예정이다.</p>
 <p>
    <br />
 </p>
-<p>물론 레이저만으로 모든 드론을 막을 수 있는 것은 아니다. 기상과 시야, 전력 공급 같은 조건에 영향을 받고, 표적과의 거리나 교전 상황에 따라 다른 요격수단이 필요할 수 있다. 그럼에도 대량으로 투입되는 드론에 대응해야 하는 군 입장에서는 레이저가 새로운 선택지다.</p>
+<h3>‘한국형 인큐텔(IQT)’ 신설 및 중소기업 지원사업 4조 원 절감 재투자</h3>
+<p>신안보·제약바이오·기후테크·K-소비재 등 4대 신성장 분야에서는 매년 300개 혁신기업을 발굴해 최장 5년간 최대 100억 원+α를 집중 지원한다.</p>
 <p>
    <br />
 </p>
-<p>에어로바이런먼트는 이 시장을 겨냥해 생산시설도 늘리고 있다. 회사는 올해 3월 뉴멕시코주 앨버커키 생산시설에 3000만 달러 이상을 투자하겠다고 발표했다. 이곳에서는 레이저 시스템과 정밀광학, 추적기술 등을 생산한다.</p>
+<p>특히 신안보 분야는 미국 CIA의 벤처투자기관을 본뜬 ‘한국형 인큐텔(IQT)’을 신설한다. 이를 통해 정부가 안보 핵심기술 기업에 직접 투자하는 한편 군 부대와 국방 데이터를 테스트베드로 제공하게 된다. 군 획득 제도 역시 공모형 및 애자일(Agile) 방식으로 전환해 민간의 첨단기술이 신속하게 전력화될 수 있도록 물꼬를 튼다.</p>
 <p>
    <br />
 </p>
-<p>결국 이번 계약은 에어로바이런먼트의 사업 방향을 한눈에 보여준다. 스위치블레이드로 대표되는 무인체계에 정찰과 대드론, 레이저 무기를 더하면서 무인전장 분야에서 사업 영역을 넓히고 있다. 4억6480만 달러 규모의 E-HEL 계약은 그 가운데 레이저 사업이 처음으로 대규모 양산 단계에 들어서는 거래다.</p>
+<p>아울러 22개 부처의 중복·영세 중소기업 지원사업 232개를 정비해 절감한 약 4조 원의 예산은 국방 AI 및 피지컬 AI 등 성과가 검증된 신성장 랜드마크 사업에 전액 재투자된다.</p>
 <p>
    <br />
 </p>
-]]></description>
-
-<atom:category label="방산기업" term="20140925141337_5787"/>
-<author>sc.minugi@gmail.com 최미옥 기자</author>
-<atom:updated>2026-09-03T11:52:12+09:00</atom:updated>
-<atom:published>2026-09-03T11:52:12+09:00</atom:published>
-</item>
-<item>
-<guid>7889</guid>
-<title><![CDATA[경질된 우크라이나 국방부 장관, 미 팔란티어 카프 CEO와 방산 스타트업 설립]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7889</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7889</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7889" rel="related"/>
-
-<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260903150420_elymowrl.jpg" alt="20260903 페드로우-카프.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미하일 페드로 우크라이나 국방부 장관(왼쪽)과 알렉스 카프 팔란티어 CEO가 20202년 6월 키이우에서 회담 후 악수하고 있다./출처=페드로우 엑스(X) 계정서</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p>[시큐리티팩트=강지현 기자] 미하일로 페도로우(Mykhailo Fedorov) 전 우크라이나 국방부 장관이 미국 빅데이터·인공지능(AI) 기업 팔란티어(Palantir)의 알렉스 카프(Alex Karp) 최고경영자(CEO)를 첫 투자자로 확보하고 새로운 방산 스타트업을 설립한다. 전장에서 검증된 AI와 데이터 기술을 바탕으로 우크라이나의 방위력을 강화하고 우방국으로 전장 기술을 확산하겠다는 구상이다.</p>
-<p><br /></p>
-<p>2일(현지시간) 외신 및 관련 업계에 따르면 페도로우 전 장관과 카프 CEO는 공동 발표를 통해 세상을 더 안전하게 만들 차세대 방위 기술 개발을 위한 신생 방산 기업 설립 프로젝트를 공식화했다.</p>
-<p><br /></p>
-<p>페도로우 전 장관은 지난 7월 볼로디미르 젤렌스키 우크라이나 대통령에 의해 전격 해임된 이후 거취에 대한 명확한 입장을 밝히지 않아 왔다. 그러나 최근 공직 복귀 대신 대규모 방산 투자 기금 조성 및 이탈리아 국방부 자문 등 민간 영역에서의 새로운 행보를 예고한 바 있다.</p>
-<p><br /></p>
-<p>그는 보도자료를 통해 "러시아와의 전면전 기간 동안 우크라이나 현장에서 방위 기술을 직접 다루며 기술이 현대전을 어떻게 근본적으로 바꾸는지 독보적인 경험을 얻었다"며 "이 경험을 바탕으로 우크라이나를 강화하고 우방국을 도울 기술을 구축하겠다"고 강조했다.</p>
-<p><br /></p>
-<p>이번 신생 기업 설립은 팔란티어와의 깊은 협력 관계를 바탕으로 추진된다. 팔란티어의 알렉스 카프 CEO는 지난 여름 페도로우 전 장관의 해임 소식이 전해진 직후 먼저 연락을 취해 공동 사업을 제안한 것으로 알려졌다. 카프 CEO는 "우리는 지난 5년간 함께 일해왔으며 우크라이나인들이 성취해낸 기술적 성과에 깊은 감명을 받았다"며 이번 투자의 배경을 밝혔다.</p>
-<p><br /></p>
-<h3>디지털혁신부·국방부 거치며 '기술 중심 전장' 패러다임 전환 이끌어</h3>
-<p>페도로우 전 장관은 우크라이나 정부 내 대표적인 '기술 통(通)'으로 꼽힌다. 2019년 28세의 나이에 최연소 디지털혁신부 장관으로 내각에 합류한 그는 정부 전자 서비스 플랫폼인 '디야(Diia)'를 구축하며 행정 디지털화를 성공시킨 주역이다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://media.yonhapnewstv.co.kr/article/AKR/20260718/AKR20260719083448QXr_01_i.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">우크라이나 드론 공격을 받은 러시아 정유시설에서 검은 연기가 솟구치고 있다./사진=로이터 연합뉴스</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>2022년 러시아와의 전면전 개발 직후에는 그의 주도로 '드론 아미(Army of Drones)' 프로젝트와 국방 테크 클러스터 '브레이브1(Brave1)'이 출범했다. '드론 아미'는 크라우드펀딩과 민간 자원을 모아 조종사를 양성하고 전장에 수천 대의 무인기를 공급하는 국가적 드론 전력화 사업이다. '브레이브1'은 민간 스타트업의 첨단 기술을 우크라이나군에 신속히 테스트하고 배치하는 방산 기술 혁신 플랫폼이다. 이를 통해 그는 민간 드론 수급부터 정찰·공격용 드론 생산까지 국가적 역량을 집결시켰다. 실제 전장 목표물의 80% 이상을 드론으로 타격하는 성과를 거두는 등 우크라이나군을 '세계 최대의 드론 전력 보유국' 반열에 올렸다.</p>
-<p><br /></p>
-<p>국방부 장관 재임 기간에는 전장의 디지털화와 방산 행정 혁신에 더욱 속도를 냈다. 드론 영상, 레이더, 현장 제보 데이터를 레이어 형태의 대시보드로 통합해 전황을 실시간으로 파악하는 전장 관리 시스템 '델타(Delta)'의 정착을 주도했다. 미 육군 관계자들 역시 델타에 대해 "현대적 위협에 효과적인 모듈식 지휘통제(C2) 아키텍처"라고 극찬한 바 있다.</p>
-<p><br /></p>
-<p>또한 군 조달 생태계의 패러다임을 바꾼 디지털 마켓플레이스 '닷체인(DOT-Chain)'을 도입해 물품 주문부터 전선 부대 배송까지 걸리던 기간을 단 하루 수준으로 단축시켰다. 국방 조달 비용의 약 16%를 절감하는 등 고질적인 군 비리와 지연 문제를 해결하는 강력한 개혁을 이끌었다.</p>
-<p><br /></p>
-<h3>실전 AI 데이터 기반의 방산 플랫폼 구축 시도</h3>
-<p>팔란티어 역시 미 국방부의 '메이븐 스마트 시스템(Maven Smart System)' 등을 통해 전장 데이터 융합 기술을 제공해왔다. 2022년 이후 우크라이나 정부 기관 6곳 이상에 자사 인프라를 공급해왔다. 올해 초에는 페도로우 전 장관과 협력해 실제 전투 데이터를 기반으로 샤헤드 드론 대응 AI 모델 등을 학습시키는 '브레이브1 데이터룸(Brave1 Dataroom)'을 구축하기도 했다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://defensescoop.com/wp-content/uploads/sites/8/2026/04/9532591-e1776287353512.jpg?w=1012" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">한 미군 병사가 메이븐 스마트 시스템을 살펴보고 있다./출처=미 육군</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>업계에서는 미 정부 계약 비중이 높고 기업 가치가 4400억 달러(약 600조 9700억 원)에 달하는 팔란티어와 드론·AI 기반 현대전 혁신을 현장에서 직접 지휘했던 페도로우 전 장관의 결합이 글로벌 방산 기술 생태계에 상당한 파급력을 불러일으킬 것으로 보고 있다.</p>
-<p><br /></p>
-<p>페도로우 전 장관은 국제적인 방산 프로젝트 추진 속에서도 "나의 최우선 순위는 항상 우크라이나가 될 것"이라며 우크라이나 방위 산업 생태계와의 연결고리를 지속하겠다는 뜻을 명확히 했다.</p>
-]]></description>
-
-<atom:category label="방산기업" term="20140925141337_5787"/>
-<author>sbtm2epdl@gmail.com 강지현 기자</author>
-<atom:updated>2026-09-03T15:17:08+09:00</atom:updated>
-<atom:published>2026-09-03T15:16:27+09:00</atom:published>
-</item>
-<item>
-<guid>7890</guid>
-<title><![CDATA[미 국방장관 운전면허증도 털렸다… 다크웹에 1억5300만 건 유출 의혹]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7890</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7890</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7890" rel="related"/>
-
-<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260904101531_iwfclrfe.jpg" alt="그림=제미나이.jpg" style="width: 720px; height: 483px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">그림=제미나이</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 미국과 캐나다 운전면허증 1억5300만 건 이상이 다크웹에서 거래된 정황이 드러났다. BleepingComputer는 3일(현지시각) 브라이언 크렙스의 보도를 인용해 피트 헤그세스 미 국방장관의 운전면허증이 해당 데이터에 포함됐다고 전했다. 미 연방수사국(FBI)은 대규모 개인정보 유출 가능성을 놓고 수사에 착수했다.</p>
-<p><br /></p>
-<p>사건의 중심에는 ‘Nexus’라는 다크웹 신원정보 거래 서비스가 있다. Nexus는 러시아 사이버범죄 포럼 ‘Exploit’에 미국과 캐나다의 운전면허증 이미지 1억5300만 건 이상을 보유하고 있다고 주장했다.</p>
-<p><br /></p>
-<p>Nexus가 내놓은 자료는 운전면허증에 그치지 않았다. 1000만 건 이상의 신분증과 300만 건 이상의 여행서류·국제 신분증, 약 57만9000건의 의료 관련 카드도 보유하고 있다고 주장했다.</p>
-<p><br /></p>
-<p>크렙스는 Nexus에서 자신의 버지니아주 운전면허증을 발견했다. 다른 이용자들의 실제 운전면허증도 확인했다. 일부 자료에서는 신분증을 실제로 사용한 시점과 이미지에 기록된 시간이 맞아떨어지는 사례도 나왔다. 단순히 오래된 개인정보를 모아놓은 데이터베이스가 아니라 최근 생성된 자료가 포함됐을 가능성이 제기되는 이유다.</p>
-<p><br /></p>
-<p>이번 사건의 파장은 헤그세스 국방장관의 운전면허증이 데이터에 포함됐다는 크렙스의 보도로 더욱 커졌다. 크렙스는 FBI 관계자의 운전면허증도 데이터베이스에서 발견됐다고 전했다. 다만 헤그세스의 운전면허증 포함 여부는 현재까지 독립적으로 확인된 사실로 단정하기 어렵다. 크렙스의 취재 결과를 바탕으로 한 보도이며, 다른 매체들도 해당 내용을 자체적으로 확인하지 못했다고 밝혔다.</p>
-<p><br /></p>
-<p>미 국방부 측도 관련 보도를 인지하고 있으며 내용을 검토하고 있다는 입장인 것으로 전해졌다. 따라서 현재 단계에서는 헤그세스의 면허증이 실제 유출됐다고 단정하기보다, 다크웹에 올라온 자료에 포함됐다는 보도가 나온 것으로 보는 것이 정확하다.</p>
-<p><br /></p>
-<p>FBI 뉴올리언스 지부는 이번 사건에 대한 조사에 들어갔다. FBI는 다크웹에서 판매된 신분증 자료의 출처와 유통 경로 등을 살펴보고 있다. 다만 실제 유출이 발생한 시스템과 전체 피해 규모는 아직 확정되지 않았다.</p>
-<p><br /></p>
-<p>또 하나 주의할 부분은 1억5300만 건이라는 숫자다. 이는 Nexus가 내세운 데이터 규모다. 실제 피해자 수를 의미하는 것은 아니다. 중복 자료나 여러 차례 촬영된 동일인의 신분증 이미지가 포함됐을 가능성도 있다.</p>
-<p><br /></p>
-<p>조사 과정에서 주목받는 업체는 미국 루이지애나주에 기반을 둔 신원확인 업체 IDScan.net이다. 크렙스는 여러 운전면허증 이미지의 촬영 시점과 실제 신분증 사용 기록을 비교했다. 그 결과 일부 자료가 IDScan.net의 신원확인 서비스를 통해 처리된 것으로 보인다는 정황을 제시했다. 일반적인 앞·뒷면 이미지뿐 아니라 적외선과 자외선 이미지까지 포함된 점도 근거로 제시됐다.</p>
-<p><br /></p>
-<p>IDScan.net이 이번 데이터의 유출원이라고 확정된 것은 아니다. Reuters 역시 데이터의 정확한 출처를 확인하지 못했다고 보도했다. IDScan.net 역시 관련 상황을 조사하고 있으며, 실제 무단 접근이 있었는지와 피해 범위를 확인하는 단계에 있다.</p>
-<p><br /></p>
-<p>IDScan.net을 둘러싼 의혹이 주목받는 이유는 처리하는 신원정보의 양 때문이다. 회사의 신원확인 기술은 운전면허증과 신분증, 여권 등의 정보를 디지털 방식으로 확인하는 데 사용된다. Krebs의 조사에서는 이런 시스템을 거쳐 처리된 것으로 보이는 자료가 Nexus에서 발견됐다.</p>
-<p><br /></p>
-<p>현재까지 확인된 정황만으로 IDScan.net의 시스템이 해킹됐다고 단정할 수는 없다. FBI 조사와 회사 자체 조사가 진행 중인 만큼 실제 침해 경로는 추가 확인이 필요하다.</p>
-<p><br /></p>
-]]></description>
-
-<atom:category label="시큐리티" term="20171121074254_1125"/>
-<author>sc.minugi@gmail.com 최미옥 기자</author>
-<atom:updated>2026-09-04T10:19:03+09:00</atom:updated>
-<atom:published>2026-09-04T10:17:32+09:00</atom:published>
-</item>
-<item>
-<guid>7891</guid>
-<title><![CDATA[[SF 인사이트] 미국, 호위함 해외 도입 검토... 한·일·튀르키예 3국 호위함 대상說]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7891</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7891</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7891" rel="related"/>
-
-<description><![CDATA[<p data-path-to-node="0"><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260904105752_kelyqyxh.jpg" alt="20260904 트럼프 행정 서명.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">도널드 트럼프 미 대통령이 2026년 8월 6일 행정명령에 서명하고 있다./사진=미 백악관</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">[시큐리티팩트=강지현 기자] 미 해군이 자국 조선업의 심각한 건조 지연과 전력 공백을 메우기 위해 우방국의 현대식 호위함을 직접 도입하거나 건조를 위탁하는 파격적인 방안을 검토 중인 것으로 확인됐다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">미 해군 전문 매체 'USNI 뉴스'와 군사 전문 매체 '더워존(TWZ)' 등 외신 보도에 따르면 미 해군은 도널드 트럼프 행정부의 '미 해군 및 미국 조선 산업 기반 재건' 행정명령에 따라 해외 설계 호위함 도입 가능성을 조사하는 연구를 진행하고 있다. 이번 검토 대상에는 한국, 일본, 튀르키예 등 3개국의 최신형 호위함이 유력 후보군으로 이름을 올린 것으로 전해졌다.</p>
-<p data-path-to-node="0">&nbsp;</p>
-<p data-path-to-node="0"><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260904104915_ntygyvqa.jpg" alt="20260904 미 호위함.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미국의 과거 주력 호위함 '올리버 해저드 페리급' 함/사진=미 해군</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>왜 호위함인가?</h3>
-<p data-path-to-node="0">미 해군이 이처럼 해외로 눈을 돌려 호위함 확보에 사활을 거는 이유는 구조적인 전력 공백과 더불어 대형함 중심 운용에 따른 과부하를 해소하기 위해서다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">미 해군은 2015년 올리버 해저드 페리급 호위함을 모두 퇴역시킨 이후 사실상 호위함 체급을 운용하지 않았다. 이를 연안전투함(LCS)으로 대체하려 했으나 기계적 결함과 성능 미달로 실패했다. 이어 추진한 차세대 호위함 '콘스텔레이션급' 사업 역시 끊임없는 설계 변경과 공정 지연 끝에 사업이 좌초되는 파국을 맞았다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">현재 미 해군은 미 해안경비대의 대형순찰함(NSC) 기반 FF(X) 신형 호위함 사업을 추진 중이다. 초기에 건조될 함정들은 수직발사대(VLS) 등 핵심 무장이 결여되어 실전 유용성에 의문이 제기되는 실정이다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">결국 미 해군의 주력인 알레이 버크급 구축함들이 저위험 해역 통상 파동이나 단순 호위 임무에까지 무리하게 투입되면서 함정 과부하와 정비 정체가 한계에 다다랐다. 분쟁 가능성이 낮은 수역을 전담하고 고가치 자산을 호위할 '가성비 높은' 중형 수상전투함 즉 호위함의 조기 확보가 절실해진 배경이다.</p>
-<p data-path-to-node="0"><br /></p>
-<h3>한·일·튀르키예 3국 최신 호위함의 상세 제원과 특징</h3>
-<p data-path-to-node="0">외신들이 밝힌 미 해군의 검토 대상 함정은 한국의 '충남급', 일본의 '모가미급', 튀르키예의 '이스탄불급'이다. 세 함정 모두 뛰어난 다목적 성능을 갖췄지만 제원과 기술적 지향점에서는 명확한 차이를 보인다.</p>
-<p data-path-to-node="0">&nbsp;</p>
-<p data-path-to-node="0">&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2026/09/ROKS-Chungnam.jpg?strip=all&amp;quality=85&amp;w=1024" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">대한민국 해군의 충남급 호위함/사진=현대중공업</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p data-path-to-node="0">대한민국 해군의 최신예 함정인 충남급(FFX-III)은 전장 129m, 선폭 14.8m, 만재 배수량 약 4300톤 규모의 다목적 호위함이다. 디젤 엔진과 전기 모터, 가스터빈을 조합한 복합 전기 추진 방식(CODLOG)을 채택해 정숙성이 뛰어날 뿐만 아니라 연료 효율을 높이고 정비 요구 조건을 크게 줄였다. 충남급의 가장 큰 기술적 특징은 함정 상부에 위치한 거대한 통합 마스트다. 이 마스트에는 4면 고정형 AESA 레이더가 장착되어 대공·대함 표적에 대한 360도 전방위 탐지 및 추적 능력을 극대화했다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">무장 측면에서는 16셀의 한국형 수직발사체계(K-VLS)를 갖추어 국산 해궁 단거리 지대공 미사일과 해성 대함 크루즈 미사일, 홍상어 장거리 대잠 어뢰 등을 유연하게 운용한다. 함포로는 함교 전방에 5인치 주포 1구를 탑재했다. 7연장 30mm 가틀링포 기반의 국산 근접방어무기체계(CIWS-II)와 3연장 어뢰 발사관 2기를 장착했다. 함미에는 헬리콥터 1대를 운용할 수 있는 비행갑판과 격납고도 구비했다. 선도함은 HD현대중공업이 건조해 2024년 인도했으며 SK오션플랜트와 한화오션이 후속함을 맡고 있다. 한화오션이 미국 필리 조선소를 인수하고 오스탈 USA 인수를 추진하는 등 미국 현지 생산 인프라 확보에 가장 앞서 있다는 점도 강점으로 꼽힌다.</p>
-<p data-path-to-node="0">&nbsp;</p>
-<p data-path-to-node="0">&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2025/08/mogami-frigates.jpg?strip=all&amp;quality=85&amp;w=1024" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미 해상자위대의 모가미급 호위함/사진=일본 해상자위대</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p data-path-to-node="0">일본 해상자위대의 모가미급(30FFM)은 스텔스 성능과 자동화 시스템을 극대화한 독특한 설계로 주목받는다. 기본형 기준으로 전장 133m, 선폭 16.3m, 만재 배수량 약 5500톤에 달한다. 복합 디젤·가스터빈(CODAG) 추진 체계를 갖춰 평시 높은 연료 효율과 전투 시 고속 순항 능력을 동시에 제공한다. 모가미급의 외형적 특징은 평평하고 매끄러운 스텔스 경사 설계와 원통형 통합 마스트인 'UNICORN(NORA-50)'이다. 내부에는 원형 스크린으로 주변 상황을 입체적으로 시각화하는 첨단 미래형 전투정보실(CIC)을 배치했다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">기본 무장으로는 17식 함대함 미사일 4연장 발사기 2기와 RIM-116 미사일을 사용하는 씨람(SeaRAM) 근접방어체계, 5인치 주포를 장착했다. 당초 Mk 41 수직발사대(VLS)는 후기 개수로 계획되었으나 7번함 '니요도'함부터 16셀의 Mk 41 VLS가 기본 탑재되어 일본산 A-SAM이나 4발씩 장재가 가능한 발전형 씨스패로(ESSM) 미사일을 운용할 수 있게 되었다. 모가미급은 대잠·대공전 외에도 무인 잠수정(UUV)과 무인 수상정(USV)을 함미 램프로 투입해 기뢰를 탐지·부설하는 기뢰전 기능까지 통합되어 있다. 최근 일본 미쓰비시중공업(MHI)은 전장 142m, 배수량 6200톤급으로 대형화하고 VLS를 32셀로 늘린 개량형을 선보였다. 이는 호주 해군의 차기 호위함(SEA 3000) 사업 수주로 이어져 해외 생산 라인의 검증을 마쳤다.</p>
-<p data-path-to-node="0">&nbsp;</p>
-<p data-path-to-node="0">&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.usni.org/sites/default/files/styles/hero_image/public/CFW-PRO-10-24%201%20Hero.jpg?itok=DQd3-RZL" alt="The frigate Istanbul, pictured on Turkish Armed Forces Day on 30 August 2024." style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">튀르키예 이스탄불급 호위함/사진=미 해군연구소</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p data-path-to-node="0">튀르키예의 이스탄불급(I급)은 군함 건조 프로젝트인 밀젬(MİLGEM) 사업으로 개발된 다목적 호위함이다. 기존에 미국으로부터 도입했던 올리버 해저드 페리급의 개량 사업(GENESIS) 노하우를 접목해 완성됐다. 전장 약 113.5m, 선폭 14.4m, 만재 배수량 약 3000톤으로 검토 대상 함정 중 가장 컴팩트한 체구를 가졌다. 모가미급과 마찬가지로 CODAG 추진 방식을 사용하며 상부 마스트에 회전형 AESA 레이더를 탑재해 전방위 감시 능력을 확보했다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">작은 체구에도 불구하고 이스탄불급의 무장 밀도는 매우 높다. 선도함 TCG 이스탄불함은 튀르키예가 자체 개발한 MiDLAS 수직발사대 16셀을 탑재해 히사르 단·중거리 대공 미사일을 운용한다. 갑판에는 4연장 발사기 4기를 통해 총 16발의 아트마자 대함 미사일을 장착한다. 최근 해상 시험을 치르고 있는 2번함 '이즈미르'함에는 셀 길이가 길어진 신형 MiDLAS VLS가 탑재되어 씨페르 중거리 대공 미사일과 게즈긴 대지 크루즈 미사일 등 대형 무장까지 발사할 수 있게 개량됐다. 이 외에도 76mm 함포, 35mm 쌍열 포를 장착한 괴크데니즈(Gokdeniz) CIWS, 25mm 원격사격통제체계(RWS) 2기, 어뢰 발사관을 구비했고 함미에는 시호크 헬기 운용 공간을 마련했다. 튀르키예는 총 8척을 자국 조선소들에서 나누어 건조 중이다. 지난해 인도네시아에 2척의 수출 계약을 성사시켰다.</p>
-<p data-path-to-node="0"><br /></p>
-<h3>걸림돌은 없는가?</h3>
-<p data-path-to-node="0">해외 함정 도입 구상이 장밋빛 미래만 갖고 있는 것은 아니다. 가장 큰 장애물은 미 의회의 거센 법적·정치적 반발이다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">미국 현행법상 해외에서 건조된 군함을 도입하려면 대통령의 '국가안보 면제 조항(National Security Waiver)' 발급이 필수적이다. 하지만 미 의회는 자국 조선 산업 유출과 일자리 감소를 이유로 이를 강력히 제지하고 있다. 상원에서 논의 중인 2027 회계연도 국방권한법(NDAA) 초안에는 해당 면제 권한 자체를 박탈하는 내용이 포함되었다. 하원 군사위원회 역시 해외 건조 군함에 대한 예산 집행을 전면 금지하는 조항을 추진 중이다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">트럼프 행정부는 초기 물량 1~2척만 해외에서 건조하고 이후 기술 이전 및 현지 투자를 통해 미국 조선소에서 후속 건조하는 이른바 '핀란드 모델(Finland Model)'을 제시하며 의회 설득에 나섰지만 법안 통과까지는 진통이 예상된다.</p>
-<p data-path-to-node="0"><br /></p>
-<h3>그럼에도 해외 위탁 건조로 갈 수밖에 없는 이유</h3>
-<p data-path-to-node="0">그러나 의회의 반대에도 불구하고 전문가들은 결국 미 해군이 해외 조선업체에 대한 의존을 피할 수 없을 것으로 보고 있다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">무엇보다 중국과의 해군력 격차가 치명적인 수준으로 벌어지고 있기 때문이다. 미 해군정보국(ONI)에 따르면 중국의 조선 역량은 미국의 수백 배에 달한다. 중국 해군 함정 수가 가파르게 늘어나는 동안 미국 조선소들은 숙련공 부족과 시설 노후화로 신조함 납기조차 맞추지 못하는 실정이다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">미국 내 조선소의 건조 지연 난맥상이 단기간에 해결되기 어렵다는 점과 과거 콘스텔레이션급 사업처럼 설계 개조를 과도하게 요구하다 사업을 망친 전례가 있다는 점을 감안하면 검증된 해외 원형 설계를 최소한의 수정만 거쳐 해외 조선소 또는 해외 기업이 확보한 미 현지 거점 조선소에서 신속히 찍어내는 것이 가장 현실적인 대안이다.</p>
-<p data-path-to-node="0"><br /></p>
-<p data-path-to-node="0">결국 급박한 대중국 견제 요구와 미국 조선업의 건조 능력 한계라는 두 가지 엄혹한 현실 앞에서 미 해군의 '해외 설계 도입 및 건조 위탁'은 선택이 아닌 생존을 위한 필수 수순이 될 전망이다.</p>
-]]></description>
-
-<atom:category label="무기체계" term="20250407120846_2514"/>
-<author>sbtm2epdl@gmail.com 강지현 기자</author>
-<atom:updated>2026-09-04T11:14:29+09:00</atom:updated>
-<atom:published>2026-09-04T11:13:54+09:00</atom:published>
-</item>
-<item>
-<guid>7892</guid>
-<title><![CDATA[LG의 미래 배팅, '마곡 AI 밸리'서 펼쳐지는 열흘간의 기술 서밋]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7892</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7892</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7892" rel="related"/>
-
-<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260904115138_cpveypun.jpg" alt="20260904 LG.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">6만 여명이 다녀간 지난해 'LG 스파크' 행사/사진=LG 그룹</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>[시큐리티팩트=강태임 기자] LG그룹이 AI 전환(AX)과 차세대 기술 주도권을 확보하기 위해 글로벌 빅테크 및 그룹 연구 역량을 한곳에 모은 대규모 기술 서밋을 개최한다. 단순한 성과 전시에 그치지 않고 로봇·반도체·초거대 AI 등 그룹의 사운을 건 기술 생태계를 외부에 대거 공개하며 미래 시장 선점에 속도를 내는 모습이다.</p>
-<p><br /></p>
-<p>LG는 7일부터 열흘간 서울 마곡 LG사이언스파크에서 ‘LG 스파크(SPARK) 2026’을 열고 그룹 전반의 AI 혁신 성과와 향후 R&amp;D 로드맵을 발표한다고 4일 밝혔다.</p>
-<p><br /></p>
-<p>LG 스파크는 구광모 ㈜LG 대표(회장) 취임 이후 계열사 간 기술 시너지를 창출하기 위해 기획된 연구개발 모임에 뿌리를 두고 있다. 2023년 기술과 문화예술이 결합된 현재의 종합 혁신 플랫폼으로 전면 개편된 이후 매년 수만 명의 인파가 찾는 그룹 최대 행사로 자리 잡았다.</p>
-<p><br /></p>
-<p>특히 지난해 열린 행사에는 사상 최대 규모인 6만여 명의 관람객 및 관계자가 몰리며 큰 주목을 받았다. 당시 LG는 계열사별 핵심 R&amp;D 성과를 대대적으로 공개함은 물론 개발자 간 교류와 지역 사회 참여형 프로그램을 대폭 확대해 기업 내부 성과 발표회를 넘어 산학연을 아우르는 대표적 기술 축제로 체질 개선에 성공했다는 평가를 받았다.</p>
-<p><br /></p>
-<p>올해 행사는 '실질적인 AI 성과 창출과 확산'에 초점이 맞춰졌다. 열흘간 진행되는 일정은 R&amp;D 기술을 선보이는 '테크페어', 산업 현장의 AI 적용 사례를 공유하는 'AX페어', 독자 AI 모델 중심의 'AI 토크콘서트', 글로벌 개발자 간 소통의 장인 'AI 데브콘', 그리고 지역 사회와 호흡하는 '컬처위크' 등 5개 트랙으로 밀도 높게 구성됐다.</p>
-<p><br /></p>
-<p>이번 행사에서 가장 눈에 띄는 대목은 그룹 차원의 시너지를 노린 'One LG' 연합 전선이다. 피지컬 AI 분야에서는 가정용 로봇과 지능형 가전이 결합한 자율 제어 생태계를 선보인다. AI 데이터센터(AIDC) 파트에서는 차세대 반도체 패키징용 하이브리드 본딩 및 방열 신소재 등 핵심 부품 기술을 정면으로 내세웠다. 아울러 AI, 바이오, 클린테크 등 구 회장이 찍은 3대 미래 사업(ABC) 영역에서도 30여 건에 달하는 첨단 과제들이 공개된다.</p>
-<p><br /></p>
-<p>글로벌 기술 생태계와의 접점도 크게 늘렸다. 엔비디아, 구글, 아마존, 마이크로소프트 등 글로벌 AI 시장을 주도하는 빅테크 인사들이 대거 참여해 LG 연구진과 기술 트렌드를 논의한다. 이와 함께 그룹의 자체 초거대 AI인 ‘엑사원(EXAONE)’을 기반으로 실제 사업화 가능한 서비스를 개발하는 프롬프톤 경진대회도 현장에서 펼쳐진다.</p>
-<p><br /></p>
-<p>정수헌 LG사이언스파크 대표는 "LG사이언스파크는 업계 AI 발전을 선도하는 연구원들이 모이고 위닝테크(경쟁우위기술)와 One LG를 통해 LG의 미래 혁신을 만들어가는 공간"이라며 "AI 기술과 문화가 함께하는 'LG 스파크'를 통해 고객의 삶에 크게 기여하는 혁신적인 제품과 서비스의 탄생을 위해 노력할 것"이라고 강조했다.</p>
-<p><br /></p>
-<p>여의도 면적의 3분의 1에 달하는 마곡 LG사이언스파크는 2만 5천여 명의 상주 연구원이 집결한 국내 최대 규모의 융복합 R&amp;D 거점이다. LG는 이번 행사를 계기로 마곡을 단순 연구 공간을 넘어 글로벌 AI 인재와 기술이 교류하는 거점 기지로 완전히 고도화한다는 구상이다.</p>
+<p>박홍근 기획예산처 장관은 회의를 통해 "이번 협의회는 내년도 예산안 발표를 앞두고 '대체불가 초격차 산업 강국으로 도약'하기 위한 투자방안을 논의하는 자리"라며 "제시된 위원들의 의견을 반영해 부처들이 긴밀히 협력하고 기업이 각자의 역량을 최대한 발휘해 성과를 도출하도록 적극 지원하겠다"고 밝혔다.</p>
 ]]></description>
 
 <atom:category label="뉴테크" term="20250407121910_3900"/>
 <author>sfinfo365@gmail.com 강태임 기자</author>
-<atom:updated>2026-09-04T11:53:11+09:00</atom:updated>
-<atom:published>2026-09-04T11:52:35+09:00</atom:published>
+<atom:updated>2026-08-28T10:47:36+09:00</atom:updated>
+<atom:published>2026-08-28T10:47:36+09:00</atom:published>
 </item>
 <item>
-<guid>7893</guid>
-<title><![CDATA[[SF 포커스] 미 디펜스 뉴스 선정 "100대 방산기업"… 역대급 안보 예산 속 '생산 병목'이 판가름할 방산 지형]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7893</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7893</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7893" rel="related"/>
+<guid>7857</guid>
+<title><![CDATA['모두의 AI' 사업자에 SKT·카카오·KT 선정… 정부, 연내 대국민 서비스 개시]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7857</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7857</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7857" rel="related"/>
+
+<description><![CDATA[<p>
+   <br />
+</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2608/20260828110935_ydpdbatx.jpg" alt="20260828 모두의 AI.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">배경훈 부총리 겸 과학기술정보통신부 장관이 지난 3일 오전 전남광주 광산구 국립광주과학관에서 열린 모두의 AI 성장사다리 프로젝트 출범식에 참석하고 있다./사진=연합뉴스</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>[시큐리티팩트=강지현 기자] 정부가 외산 인공지능(AI) 플랫폼 독주에 대응해 전 국민이 일상에서 안전하게 활용할 수 있는 국가 차원의 AI 생태계 구축을 본격화한다. 과학기술정보통신부는 대국민 AI 서비스 프로젝트인 '모두의 AI' 공모 평가 결과 SK텔레콤·카카오·KT 3개 컨소시엄을 최종 사업 수행기관으로 선정했다고 28일 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>이번 프로젝트는 '세계에서 AI를 가장 잘 쓰는 나라 구현'이라는 국정과제의 일환으로 추진되었다. 과기정통부는 공모에 참여한 6개 컨소시엄을 대상으로 AI 모델·서비스 경쟁력과 GPU 인프라 운영 계획 등 기술 적합성(서면평가)을 비롯해 이용자 확보 전략, 서비스 품질·안전성, 생태계 기여도(발표평가)를 종합 심사해 최종 3개사를 확정했다.</p>
+<p>
+   <br />
+</p>
+<p>선정된 사업자들에게는 올해 최신 고성능 AI 반도체인 엔비디아 GPU 'B200' 512장이 지원된다. 2027년부터는 정부 예산을 통해 전 국민 대상 서비스 제공에 필요한 인프라 및 운용 비용이 지원될 예정이다.</p>
+<p>
+   <br />
+</p>
+<h3>SKT 컨소시엄, "전화·문자로 누구나 이용하는 실행형 AI 에이전트"</h3>
+<p>SK텔레콤 컨소시엄은 'A.X K2', 'Solar Open 2', 'Motif 3', 'K-EXAONE 2.0' 등 검증된 국내외 대표 파운데이션 모델을 기반으로 단순 정보 제공을 넘어 계획 수립부터 실행, 결과 확인까지 완수하는 '실행형 AI 서비스'를 구현한다.</p>
+<p>
+   <br />
+</p>
+<p>특히 스마트폰 앱 조작이 낯선 디지털 취약계층과 어르신을 배려해 별도 설치 없이 전화·문자로도 이용 가능한 환경을 구축한다. 공식 API가 없는 매장이나 관공서도 AI가 검색 후 전화 대행으로 연결하는 에이전트 기능을 탑재한다. 굿닥·신한카드·한국세무사회전산법인 등과 협력해 건강·금융·행정 등 생활 밀착형 특화 서비스를 제공한다.</p>
+<p>
+   <br />
+</p>
+<h3>카카오 컨소시엄, "국민 메신저 기반의 AI 에이전트 마켓플레이스"</h3>
+<p>카카오 컨소시엄은 자체 개발 모델인 'Kanana'를 비롯해 'EXAONE', 'K-EXAONE 2.0' 등 초거대 AI 모델을 탑재하여 국민 메신저 플랫폼의 압도적인 접근성을 바탕으로 범용 챗봇과 AI 에이전트를 하나로 묶는다. LG유플러스와 연내 범용 전화 AI 서비스 라이트(Lite) 버전을 먼저 선보일 계획이다.</p>
+<p>
+   <br />
+</p>
+<p>아울러 'PlayMCP·AI 에이전트 마켓플레이스'를 연계해 국내 유망 AI 스타트업들이 특화 에이전트를 직접 제작·유통할 수 있는 오픈 생태계를 구축한다. 루닛, 서울대병원, 자비스앤빌런즈 등과 손잡고 시니어케어 및 세무·의료 분야 특화 서비스도 결합한다.</p>
+<p>
+   <br />
+</p>
+<h3>KT 컨소시엄, "포털·쇼핑·통신 채널 융합한 통합 대화 생태계"</h3>
+<p>KT 컨소시엄은 자체 대형언어모델인 'Mi:dm K Pro 2.5'와 'Solar Pro 4', 'Motif 3' 기술을 결합해 하나의 대화 흐름 안에서 정보 탐색부터 공공·특화 서비스 실행까지 한 번에 처리하는 서비스를 개발한다.</p>
+<p>
+   <br />
+</p>
+<p>다음(Daum) 포털을 비롯해 다나와, 무신사, 직방 등 파트너 채널과 KT 통신·미디어(IPTV) 인프라 전반에 AI 진입점을 배치해 국민이 어떤 채널을 이용하든 자연스럽게 AI 챗봇으로 연결되도록 지원한다. 교육(EBS), 부동산, 금융(BC카드) 등 생활밀착 영역의 특화 에이전트도 함께 구축된다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://ypzxxdrj8709.edge.naverncp.com/data2/content/image/2026/08/28/.cache/512/20260828580042.jpg" alt="image" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">배경훈 부총리 겸 과학기술정보통신부 장관./사진=연합뉴스</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>과기정통부는 오는 9월 중 3개 사업자와 최종 협약을 체결하고 베타 서비스를 거쳐 연내 '모두의 AI'를 정식 출시할 방침이다.</p>
+<p>
+   <br />
+</p>
+<p>배경훈 과기정통부 부총리 겸 장관은 "선정된 기업들과 즉시 실무협의체를 구성하고 관계부처 협의를 통해 공공데이터 연계 및 접근성 제고를 추진할 것"이라며 "'모두의 AI'가 대한민국을 대표하는 AI 서비스이자 소버린 AI 생태계의 핵심 축으로 자리매김할 수 있도록 지원을 아끼지 않겠다"고 밝혔다.</p>
+]]></description>
+
+<atom:category label="뉴테크" term="20250407121910_3900"/>
+<author>sbtm2epdl@gmail.com 강지현 기자</author>
+<atom:updated>2026-08-28T11:12:03+09:00</atom:updated>
+<atom:published>2026-08-28T11:11:03+09:00</atom:published>
+</item>
+<item>
+<guid>7858</guid>
+<title><![CDATA[한미일, 다음달 7~11일 제주 공해상서 '프리덤 에지' 실시]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7858</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7858</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7858" rel="related"/>
 
 <description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260904123425_dccaoqbi.jpg" alt="20260904 BAE시스템즈.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026 영국 판버러 국제에어쇼 BAE 시스템스 부스에서 유로파이터 모형을 둘러보는 관람객들./사진 출처 = Getty Images</figcaption>
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2608/20260828114007_rrkwppdp.jpg" alt="20260828 프리덤 에지 훈련.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2024년 6월28일 제주 남방 공해상(동중국해)에서 열린 한·미·일 첫 다영역 훈련 ‘프리덤 에지’에 참가한 미 항공모함 시어도어 루스벨트함에서 발진하는 슈퍼호넷 모습./사진=미 해군</figcaption>
       </figure>
    </div>
 <p>&nbsp;</p>
 <p><br /></p>
-<p>[시큐리티팩트=강지현 기자] 전 세계적 군비 증액 기조와 지정학적 위기 속에서 글로벌 방산 기업들이 역대 최고 수준의 실적 호황을 누리고 있다. 그러나 예산 부족을 호소하던 과거와 달리 이제는 폭증하는 주문을 제때 건조·제조해내지 못하는 '생산 병목 현상'이 글로벌 방위산업의 성패를 가르는 핵심 변수로 부상했다.</p>
+<p>[시큐리티팩트=강태임 기자] 한미일 3국이 오는 9월 7일부터 11일까지 제주 동·남방 공해상에서 다영역 합동훈련인 ‘2026 프리덤 에지(Freedom's Edge)’를 실시한다.</p>
 <p><br /></p>
-<p>미국의 저명한 군사 전문 매체 '디펜스 뉴스(Defense News)'가 발표한 '2025 글로벌 100대 방산기업(Top 100)' 집계 결과에 따르면 상위 100개 방산 기업의 2025년도 연간 방산 매출 총액은 전년도 6290억 달러에서 11.3% 증가한 7000억 달러(약 930조 원)를 돌파하며 역대 최고치를 경신했다.</p>
+<p>합동참모본부는 28일 "이번 훈련은 북한의 핵·미사일 위협에 대응하고 지역의 평화와 안정을 수호하기 위해 한미일 3국이 연례적으로 시행하는 방어적 성격의 훈련"이라며 이같이 발표했다.</p>
 <p><br /></p>
-<p>이번 발표는 러시아-우크라이나 전쟁 장기화와 대서양 양안의 국방비 대폭 인상이 방산업계 전체의 외형 성장을 이끌었음을 명확히 보여준다. 하지만 한편으로는 폭증한 수요에 비례해 생산 인프라와 공급망 한계가 표면화되면서 향후 방산 시장의 주도권은 단순한 '수주 잔고'가 아닌 '실제 인도 능력 및 공급망 실행력'에 의해 재편될 것임을 경고하고 있다.</p>
+<p>한미일 안보 협력 강화를 위해 한반도 근해에서 펼쳐지는 프리덤 에지는 앞서 2024년 6월과 11월 그리고 지난해 9월 등 세 차례 진행된 바 있다. 이번 훈련은 지난해 9월 15∼19일 진행된 3차 훈련 이후 약 1년 만에 실시되는 것이다.</p>
 <p><br /></p>
-<h3>미 방산 거두의 독주 속 유럽·아시아 기업의 가파른 추격</h3>
-<p>100대 기업 최상위권은 여전히 미국 빅4 방산 거두들이 견고하게 독식했다. 록히드 마틴이 연간 방산 매출 721억 달러로 1위를 고수한 가운데 RTX(460억 달러), 제너럴 다이내믹스(394억 달러), 노스롭 그루먼(370억 달러)이 2~4위를 차지했다. 미국은 2025년 예산조정법을 통해 기존 9000억 달러 규모의 정규 국방예산 외에도 1560억 달러의 조달 예산을 추가 투입하며 자국 방산 생태계에 강력한 동력을 제공하고 있다.</p>
+<p>한미일은 2023년 캠프 데이비드 3국 정상회의에서 정례 다영역 훈련 실시에 합의한 뒤 이듬해 6월 3국 국방장관 회담에서 프리덤 에지 시행을 공식 발표했다.</p>
 <p><br /></p>
-<p>그러나 비(非)미국권 기업들의 추격세 역시 매섭다. 영국 BAE 시스템스는 360억 달러의 매출을 올리며 미 보잉(357억 달러)을 제치고 5위에 올라섰다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>앞서 진행된 프리덤 에지 일환으로는 해상 미사일 방어, 공중 및 방공 훈련, 대잠수함작전, 대해적 훈련, 사이버 방어 등의 고도화된 작전이 전개됐다. 이번에도 예년과 유사한 수준과 내용으로 다영역 공동훈련이 이뤄질 것으로 전해졌다.</p>
+<p><br /></p>
+<p>특히 이번 훈련은 미국이 북한과의 대화 재개를 추진하며 이달 한미 연합연습인 '을지 자유의 방패(UFS)'를 대폭 축소 시행한 직후 열린다는 점에서 주목받는다. 한미 연합연습 규모는 줄었으나 3자 다영역 훈련인 프리덤 에지를 예정대로 추진함으로써 한미일 안보 협력 체계에 대한 확고한 의지를 보여주는 행보로 풀이된다.</p>
+<p><br /></p>
+<p>클로이 모건 미 태평양사령부(PACOM) 대변인(소령)은 지난 26일 연합뉴스에 "올해 프리덤 에지 훈련 (정례) 이행을 준비하고 있다"며 "(훈련이) 계속해서 우리의 공통 가치를 공고히 하고 상호운용성을 증진하며 태평양 전역에서 평화와 안정을 보장하기 위한 우리의 국방 협력 관계를 더욱 강화할 것"이라고 밝혔다.</p>
+<p><br /></p>
+<p>한국군 합참은 '북한의 핵·미사일 위협 대응'이라는 방어적 성격을 재차 강조했으나 미 태평양사령부 측 멘트 등에서 알 수 있듯 미 측은 프리덤 에지를 비롯한 3국 안보 협력의 무게축을 대중국 견제 및 태평양 역내 안정에 싣고 있다는 해석도 나온다.</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.defensenews.com/resizer/v2/4MALT6V3YBHLNC6TJHXNM27BKA.jpg?auth=6bcf67afce49fbcf43ecb802f2384b683dc9d99e34f1ba695924569e8e255a65&amp;width=5000&amp;height=3333" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">독일 베체 공장에서 F-35 스텔스 전투기 동체 생산 라인 가동을 앞두고 F-35 모형 옆에 선 아르민 파페르거 라인메탈 회장. /사진 출처 = Getty Images</figcaption>
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://img3.yna.co.kr/etc/inner/KR/2026/08/20/AKR20260820188000071_01_i_P4.jpg" alt="미 중부사령부가 엑스에 올린 워싱턴함 사진" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">일본을 떠나 중동 지역에서 작전 중인 핵추진 항공모함 'USS 조지 워싱텀함'/사진=미 중부사령부 엑스(X) 연합뉴스</figcaption>
       </figure>
    </div>
 <p>&nbsp;</p>
-<p>특히 눈에 띄는 대목은 유럽 및 아시아 대표 방산기업들의 거침없는 상승세다. 재무장에 박차를 가하는 독일의 라인메탈은 탄약 및 지상장비 수요 폭증에 힘입어 전년도 18위에서 15위(매출 112억 달러)로 도약을 이뤄냈다. 튀르키예의 아셀산(40위)과 로켓산(64위), 국영 군수 재편을 가속화하는 폴란드 PGZ(41위), 자국 내 무기 자체 조달 역량을 급격히 키운 우크라이나의 우크로보론프롬(36위) 등도 뚜렷한 순위 상승을 기록했다.</p>
-<p><br /></p>
-<h3>K-방산 빅4 완벽 안착… 육·해·공·유도무기 고른 전력 과시</h3>
-<p>대한민국 방산 기업들 역시 지상, 유도무기, 항공 등 전 분야에서 고른 성과를 내며 2년 연속 글로벌 Top 100 진영에 대거 안착했다.</p>
-<p><br /></p>
-<p>국내 기업 중 가장 앞서나간 한화그룹(한화에어로스페이스·한화오션·한화시스템 등)은 방산 매출 104억 3763만 달러(약 14조 3000억 원)를 기록, 전년도 22위에서 16위로 6계단 상승하며 글로벌 ‘Top 15’ 진입을 눈앞에 뒀다. 폴란드향 K9 자주포와 다련장 로켓 ‘천무’의 차질 없는 인도, 호주 ‘레드백’ 장갑차 사업의 본격적인 매출 인식 등 지상 무기체계의 대형 수출건들이 실적을 강력하게 견인했다. 여기에 한화오션 인수 이후 특수선 부문의 시너지가 본격화되면서 함정 신조뿐만 아니라 미 해군 함정 MRO(정비·보수·분해점검) 사업 진출 등 해양 전력 분야의 영토 확장 성과가 더해진 결과다.</p>
-<p><br /></p>
-<p>LIG D&amp;A(구 넥스원)는 2025년도 방산 매출 약 30억 2923만 달러(약 4조 1500억 원)를 기록해 전년 대비 1계단 상승한 52위에 올랐다. 중동 지역을 중심으로 한 ‘천궁-II’ 중거리 지대공 유도무기체계 수출 계약이 본격적인 매출로 인식되기 시작했고 함정용 방어 유도무기 및 L-SAM 등 다층 미사일 방어체계 전반의 기술 경쟁력이 실적을 견인했다.</p>
-<p><br /></p>
-<p>지상 전력의 핵심인 현대로템은 61위(매출 약 24억 6000만 달러)로 전년(67위) 대비 6계단 상승했다. 폴란드향 K2 전차의 안정적인 인도와 더불어 차세대 장갑차, 수소 기반 지무인 무기체계 등 포트폴리오 다변화가 결실을 맺었다.</p>
-<p><br /></p>
-<p>한국항공우주산업(KAI)은 74위(매출 약 18억 6000만 달러)에 이름을 올렸다. FA-50 경공격기 수출 물량의 순차적 인도와 KF-21 양산 체제 본격 진입, 기체 구조물 공급 및 항공 MRO 사업이 균형을 이루며 글로벌 항공우주 공급망 내 입지를 공고히 했다.</p>
-<p><br /></p>
-<p>반면 HD현대(HD현대중공업) 등 일부 특수선 특화 조선사들은 이번 명단에서 제외됐다. 이는 기술력 한계가 아닌 민간 상선 비중이 압도적으로 높은 그룹 매출 구조와 방산 부문 매출만을 별도로 정밀 집계해 반영하는 평가 매체 특유의 산정 기준에 따른 결과다.</p>
-<p><br /></p>
-<h3>방공망 및 해양 전력 수요 급증… 공급망 체인 확장의 과제</h3>
-<p>영역별로는 방공 미사일 및 요격체계 그리고 함정 건조 포트폴리오를 보유한 기업들의 성장세가 두드러졌다. 우크라이나 전선에서 입증된 포탄 및 미사일 소모전은 NATO 회원국 전체의 방공망 재구축 요구로 이어졌다. 이에 따라 이스라엘의 엘빗(21위), IAI(27위), 라파엘(30위) 및 독일 디에르(58위) 등 대미사일 방어 기술을 보유한 기업들의 가치가 급상승했다.</p>
-<p><br /></p>
-<p>해양 함정 부문도 막대한 자본이 집적되는 특수를 누리고 있다. 미 해군의 함대 재건 계획에 따라 헌팅턴 잉걸스(13위)와 제너럴 다이내믹스, 한국의 한화오션 등 조선 포트폴리오를 갖춘 업체들의 수주 잔고는 이미 2030년대 이후까지 가득 찬 상태다.</p>
-<p><br /></p>
-<p>문제는 제조 역량이다. 전문가들은 미 정부와 유럽 각국이 방산에 쏟아붓는 자금의 규모가 이미 자국 산업계가 흡수할 수 있는 수준을 초과했다고 지적한다. 숙련공 부족과 원자재 공급망 정체는 신조 함정 및 고급 무기체계의 납기 지연을 초래하고 있다. 일부 유럽 국가에서는 자동차나 철도 차량 공장 부지를 드론 및 방공 장비 생산 라인으로 전환하는 파격적인 제조 재편까지 시도되고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.defensenews.com/resizer/v2/4RWLAIVQSREAVIMKFNVBX46U6A.jpg?auth=7ce6c137494be68c84557b1d8894254d27388dc2547b28b3933c08d8fb6ff8aa&amp;width=5503&amp;height=3669" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">키이우 드니프로강에서 기동 점검 중인 우크라이나의 '씨베이비(Sea Baby)' 무인수상정(USV). /사진 출처 = Bloomberg Getty Images</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>와일드카드 '골든 돔'과 향후 전망: "수요가 아닌 '실행력'이 차별화 요소"</h3>
-<p>향후 글로벌 방산 시장의 최대 변수이자 와일드카드로 꼽히는 것은 트럼프 행정부가 추진하는 차세대 대공·대미사일 방어망 구상인 '골든 돔(Golden Dome)' 프로젝트다. 우주 및 지상 인프라를 연동해 미 본토를 완벽히 방어하겠다는 이 초대형 프로젝트는 수천억 달러 규모의 예산이 수반될 것으로 전망되어 글로벌 방산기업들의 초미의 관심사로 떠올랐다.</p>
-<p><br /></p>
-<p>마크 캔시안 CSIS 시니어 자문위원은 "현재 방산 시장은 기존 유산(legacy) 무기 구매와 신기술 도입을 동시에 추진할 수 있을 만큼 자금이 풍부한 상태"라면서도 통과된 예산이 실제 기업 재무제표와 전력화로 이어지기까지는 엄정한 실행과 감독이 필수적이라고 분석했다.</p>
-<p><br /></p>
-<p>결국 글로벌 방산 호황이라는 거대한 노다지 속에서 승자를 가릴 핵심 지표는 단순한 '수주액'이 아닌 '생산 파이프라인의 완성도'가 될 것으로 보인다. 프라이스워터하우스쿠퍼스(PwC)의 스콧 톰슨 애널리스트가 지적했듯 "수요가 제약 요소가 아닌 시장에서는 오직 '실행력'만이 기업의 경쟁력을 차별화하는 유일한 요소"가 되고 있다.</p>
+<p>한편 직전 3차 프리덤 에지와 마찬가지로 이번 훈련에도 미 해군의 핵심 전력인 항공모함은 참여하지 않을 가능성이 제기되고 있다. 현재 미국 도널드 트럼프 행정부는 이란 전쟁 장기화 여파로 최근 일본 주둔 핵추진 항공모함인 조지 워싱턴함을 중동 전역으로 차출한 상태다. 이에 따라 조지워싱턴함의 전력 이탈에 따른 동북아시아 지역의 안보 공백 우려도 일각에서 불거지고 있다.</p>
 ]]></description>
 
-<atom:category label="방산기업" term="20140925141337_5787"/>
-<author>sbtm2epdl@gmail.com 강지현 기자</author>
-<atom:updated>2026-09-04T12:41:54+09:00</atom:updated>
-<atom:published>2026-09-04T12:40:57+09:00</atom:published>
+<atom:category label="밀리터리" term="20250407121048_4964"/>
+<author>sfinfo365@gmail.com 강태임 기자</author>
+<atom:updated>2026-08-28T11:46:44+09:00</atom:updated>
+<atom:published>2026-08-28T11:45:41+09:00</atom:published>
 </item>
 <item>
-<guid>7894</guid>
-<title><![CDATA[[SF 인사이트] 무기 수입국 인도의 변신… 라팔·자벨린·수송기까지 '현지 생산']]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7894</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7894</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7894" rel="related"/>
+<guid>7859</guid>
+<title><![CDATA[롤스로이스, 美 인디애나 방산 시설에 10억 달러 투자]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7859</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7859</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7859" rel="related"/>
 
 <description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260904124754_txbmetqg.jpg" alt="대전차 미사일 제블린. 출처=록히드마틴.jpg" style="width: 720px; height: 485px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">대전차 미사일 제블린. 출처=록히드마틴</figcaption>
+   <div class="cheditor-caption-wrapper" style="text-align: center;">
+      <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+         <img src="https://securityfact.co.kr/data/tmp/2608/20260828122626_iuwtrmsw.jpg" alt="출처=롤스로이스.jpg" style="width: 720px; height: 408px;" />
+         <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:justify;">출처=롤스로이스</figcaption>
       </figure>
    </div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 인도가 해외 무기를 들여오는 방식이 달라지고 있다. 완제품을 사오는 데 그치지 않고 현지 생산과 부품 조달, 기술 협력, 정비·생산시설 구축까지 계약에 포함시키는 사례가 늘고 있다. 최근 미국산 대전차 미사일 '자벨린'의 인도 현지 생산 논의가 대표적이다.</p>
-<p><br /></p>
-<p>인도 방산업체 타타 어드밴스드 시스템즈(TASL)는 자벨린 합작법인(JJV)과 인도 내 자벨린 생산을 위한 양해각서를 체결했다. JJV에는 록히드마틴과 RTX 계열 레이시온이 참여하고 있다. 양측은 인도에 자벨린 최종 조립·통합 시설을 구축하는 방안을 검토하고, 현지 부품 생산도 추진하기로 했다.</p>
-<p><br /></p>
-<p>우선은 미국에서 핵심 부품을 생산해 인도로 보내고, 현지에서 최종 조립하는 방식이 거론된다. 록히드마틴의 앨라배마주 트로이 공장에서 생산되는 서브어셈블리 키트와 레이시온의 애리조나주 투손에서 생산되는 유도전자장비 등이 인도로 공급되는 구조다.</p>
-<p><br /></p>
-<p>인도가 원하는 것은 단순한 무기 공급이 아니다. 대규모 무기 구매를 계기로 자국 업체가 생산 과정에 참여하고, 시간이 지나면서 현지 부품과 공급망까지 확대하는 구조를 만들겠다는 것이다.</p>
-<h3>수십조 원 사업에도 '인도 생산' 요구</h3>
-<p>이 같은 움직임은 자벨린 한 건에 그치지 않는다. 인도가 추진하는 차세대 전투기와 군용 수송기 사업에서도 현지 생산이 주요 조건으로 떠오르고 있다. 대표적인 사업이 114대 규모의 다쏘 라팔 전투기 도입이다. 프랑스가 제시한 사업 규모는 약 3조2500억 루피로, 우리 돈으로 약 45조5000억 원에 이른다. 달러 기준으로는 약 335억5000만 달러 규모다.</p>
-<p><br /></p>
-<p>프랑스 측 제안에는 18대를 프랑스에서 완제품으로 공급하고 나머지 96대를 인도에서 조립·생산하는 방안이 포함된 것으로 전해졌다. 다만 라팔의 인도 생산 대수와 현지화 비중은 보도에 따라 차이가 있어 세부 조건은 협상 과정에서 달라질 가능성이 있다.</p>
-<p><br /></p>
-<p>인도에서 생산되는 라팔에 자국산 무기와 데이터링크를 통합하는 방안도 제안에 포함된 것으로 알려졌다. 단순히 전투기를 조립하는 데 그치지 않고 인도산 장비를 결합할 수 있는 생산·통합 역량을 확보하려는 것이다.</p>
-<p><br /></p>
-<p>엔진 분야 역시 현지화 대상이다. 라팔에 탑재되는 M88 엔진과 관련해 인도 하이데라바드에 정비·창정비(MRO) 시설을 구축하는 방안이 제안에 포함된 것으로 알려졌다. 전투기 조립공장뿐 아니라 부품과 엔진 정비까지 인도에서 처리할 수 있는 기반을 확보하려는 구상이다.</p>
-<p>&nbsp;</p>
-<p>군용 수송기 사업도 같은 방향이다.</p>
-<p><br /></p>
-<p>인도는 노후한 러시아산 An-32 수송기를 대체하기 위해 중형 수송기 60대를 도입하는 MTA 사업을 추진하고 있다. 사업 규모는 약 1조 루피로, 약 103억2400만 달러(약 14조 원)에 달한다.&nbsp;</p>
-<p><br /></p>
-<p>현재 경쟁 구도에서는 록히드마틴의 C-130J와 브라일 엠브라에르의 C-390이 주요 후보로 거론되고 있으며, 에어버스 A400M도 공식 후보로 제안요청서(RFP)에 포함됐다. 인도가 요구하는 수송 능력은 18~30t급이다.</p>
-<p><br /></p>
-<p>사업에서는 초기 완제품을 들여온 뒤 인도에서 생산하는 방식이 제시됐다. 60대 가운데 12대를 완제품으로 공급하고 48대를 인도에서 생산하는 방안과 함께 현지 생산 비중을 단계적으로 높이는 조건이 거론되고 있다. 구체적인 현지화 조건은 기종별 제안과 협상에 따라 달라질 수 있지만, 인도 업체의 생산 참여가 중요한 경쟁 요소가 될 가능성이 크다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260904124916_hyzvfltr.jpg" alt="라팔 전투기. 출처=다쏘.jpg" style="width: 720px; height: 405px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">라팔 전투기. 출처=다쏘</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>자벨린에서 로켓·소형무기까지 '인도 생산' 넓어진다</h3>
-<p>현지 생산 움직임은 대형 무기체계에만 집중되지 않는다. 인도 업체들은 해외 방산기업과 손잡고 로켓과 소형무기, 대드론 체계 등으로 생산 영역을 넓히고 있다.</p>
-<p><br /></p>
-<p>바라트 포지(Bharat Forge)의 자회사인 칼리아니 스트래티직 시스템즈(Kalyani Strategic Systems Ltd·KSSL)는 프랑스 방산기업 FN 에르스탈(FN Herstal)과 소형무기와 통합 무기체계, 대드론(C-UAS) 분야에서 생산 및 기술 협력을 추진한다. 양측은 인도에 전용 생산 거점을 구축하는 방안을 검토하고 있으며, 장기적인 전략적 제휴나 합작법인 설립 가능성도 논의하고 있다.</p>
-<p><br /></p>
-<p>KSSL은 프랑스 방산기업 탈레스와도 70mm 로켓의 인도 생산을 추진한다. 비유도 로켓뿐 아니라 레이저 유도형 로켓까지 현지에서 생산하는 것이 목표다. 탈레스가 기술을 제공하고 KSSL이 생산과 시스템 통합, 시험 등을 맡는 구조다.&nbsp;</p>
-<p><br /></p>
-<p>첫 완제품 로켓은 2027년 초 생산을 목표로 하고 있다. 생산이 본격화되면 인도는 해외에서 완제품 로켓을 들여오는 방식에서 벗어나 자체 생산과 공급망을 확보할 수 있게 된다. 해당 로켓은 육상과 해상, 항공 플랫폼 등에 활용할 수 있으며 대드론 임무에도 적용할 수 있다.</p>
-<p><br /></p>
-<p>자벨린 사업도 같은 흐름에 놓여 있다. 이번 합의가 인도에서 자벨린 전체를 독자적으로 생산한다는 의미는 아니다. 미국에서 공급되는 핵심 부품과 기술을 기반으로 인도에서 최종 조립·통합을 시작하고, 이후 현지 부품 생산으로 범위를 확대하는 단계적 접근에 가깝다.</p>
-<h3>타타·KSSL·마힌드라, 해외 방산기업과 연결</h3>
-<p>인도의 현지 생산 전략이 힘을 얻는 데는 현지 방산업체들의 역할이 커지고 있다. 외국 업체가 인도에 생산시설을 만드는 것만으로는 현지화 효과를 충분히 얻기 어렵다. 인도 업체가 생산과 정비, 시험, 시스템 통합에 참여해야 장기적으로 자국 방산산업에 남는 것이 많기 때문이다.</p>
-<p><br /></p>
-<p>타타 계열사는 이미 C-130J 사업에서 글로벌 공급망에 참여하고 있다. C-130J의 수직 꼬리날개 조립품 등을 생산해 공급해온 경험도 있다. 에어버스의 C295 사업에서도 타타와 협력이 이뤄지고 있다. 군용 수송기 생산과 관련한 인도 내 경험이 쌓이고 있는 셈이다.</p>
-<p><br /></p>
-<p>C-390을 제안한 엠브라에르는 마힌드라와 협력해 인도 내 생산과 정비 기반을 확대하는 방안을 추진하고 있다. MTA 사업에서 어떤 기종이 최종 선정되더라도 인도 업체의 생산 참여 여부가 중요한 변수로 작용할 가능성이 크다.</p>
-<p><br /></p>
-<p>KSSL도 단순 생산업체에서 역할을 넓히고 있다. 해외 방산기업이 보유한 기술을 인도 내 생산능력과 연결하고, 무기체계 통합과 시험까지 맡는 방식이다.&nbsp;</p>
-<p><br /></p>
-<p>이런 움직임을 종합하면 인도가 원하는 것은 특정 무기의 '인도산' 표시만은 아니다. 완제품 조립에서 부품 생산으로, 다시 정비와 통합·시험으로 영역을 넓히면서 방산 공급망의 상당 부분을 자국 안에 구축하려는 전략에 가깝다.</p>
-<p><br /></p>
-<p><br /></p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260904125136_slgvvzxg.jpg" alt="C-390 수송기. 출처=엠브라에르.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">C-390 수송기. 출처=엠브라에르</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>무기를 팔려면 '인도에서 함께 만드는' 시장</h3>
-<p>인도는 여전히 세계 최대 수준의 무기 수입국 가운데 하나다. 모든 무기를 자체 개발·생산하는 체제로 단기간에 전환하기는 어렵다. 대신 막대한 구매력을 활용해 해외 방산기업에 현지 생산과 기술 협력을 요구하고 있다. 라팔 114대 사업처럼 수십조 원 규모의 대형 전투기 사업에서부터 자벨린과 70mm 로켓, 소형무기까지 현지 생산의 범위가 넓어지는 것도 같은 이유다. 무기를 수입하면서 동시에 생산기반을 확보하는 방식이다.</p>
-<p><br /></p>
-<p>해외 방산기업 입장에서도 인도 시장을 포기하기 어렵다. 인도가 대규모 무기 구매를 추진하는 만큼 현지 생산과 기술 협력 요구에 맞춰야 시장 접근성을 높일 수 있다. 인도 업체와 생산·정비 분야에서 협력하면 현지 공급망을 활용할 수 있다는 점도 장점이다. 장기적으로는 인도를 주변국 수출을 위한 생산 거점으로 활용할 가능성도 있다.</p>
-<p><br /></p>
-<p>인도 방산시장의 경쟁 방식이 달라지고 있다. 이제 해외 업체가 인도에 무기를 판매하려면 완제품의 가격과 성능만 제시해서는 부족하다. 어디서 생산할 것인지, 어떤 부품을 현지에서 만들 것인지, 인도 업체가 생산과 정비 과정에서 어떤 역할을 맡을 것인지까지 제시해야 하는 시장이 되고 있다.</p>
-<p><br /></p>
-<p>무기를 사는 나라에서 무기를 함께 만드는 나라로. 인도의 방산 조달 전략이 바뀌면서 글로벌 방산기업들도 인도 시장을 바라보는 방식부터 바꾸고 있다.</p>
-<p><br /></p>
+   <p>&nbsp;</p>
+</div>
+<p>[시큐리티팩트=최미옥 기자] 영국 롤스로이스가 미국 인디애나주 인디애나폴리스의 방산 엔진 생산·시험 시설에 10억 달러(약 1조3700억 원)를 투자해 대규모 현대화 사업을 완료했다. 미국 내 방위산업 생산 기반을 확대하고 주요 미군 항공 프로그램에 필요한 엔진 생산·시험 능력을 강화하기 위한 투자다.</p>
+<p>
+   <br />
+</p>
+<p>28일(현지시각) 유럽의 군사전문매체 디펜스뉴스에 따르면, 이번 사업은 2021년 완료된 6억 달러(약 8200억원) 규모의 제조·조립시설 현대화와 4억 달러(약 5500억원) 규모의 엔진 시험시설 구축으로 구성됐다. 롤스로이스의 미국 내 단일 투자 프로젝트 가운데 최대 규모다.</p>
+<p>
+   <br />
+</p>
+<p>인디애나폴리스 캠퍼스에는 첨단 제조시설과 새로운 지상 엔진 시험시설이 들어섰다. 인디애나주 웨스트 라파예트에는 별도의 고도 시험시설도 구축됐다.</p>
+<p>
+   <br />
+</p>
+<p>인디애나폴리스 사업장은 미 공군의 B-52 전략폭격기와 미 육군의 차세대 다목적 헬기 사업인 MV-75 샤이엔(FLRAA)용 미래 엔진 개발을 지원한다. 미 해병대 V-22 오스프리와 미 해군 MQ-25A 스팅레이, 미 공군 C-130J 수송기에 탑재되는 엔진도 이곳에서 생산·시험한다.</p>
+<p>
+   <br />
+</p>
+<p>롤스로이스 방위사업 부문 사장이자 북미법인 회장·CEO인 아담 리들은 이번 투자가 미국 국가안보와 롤스로이스의 장기적인 생산 기반을 강화하기 위한 것이라고 밝혔다. 회사는 현대화된 시설을 기반으로 미군이 필요로 하는 엔진을 안정적으로 공급할 수 있는 생산 역량을 확보했다는 입장이다.</p>
+<p>
+   <br />
+</p>
+<p>인디애나폴리스 사업장에는 전미자동차노조(UAW) 소속 직원을 포함해 약 3500명이 근무하고 있다. 롤스로이스는 이 사업장이 인디애나주 내 공급망 일자리에도 기여하고 있다고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>롤스로이스는 인디애나폴리스 사업장이 세계에서 가장 많은 롤스로이스 제품을 생산하는 시설이라고 설명했다. 특히 군용 항공기 엔진 분야에서 미국 방위산업 공급망의 핵심 생산 거점으로 역할을 확대하고 있다.</p>
+<p>
+   <br />
+</p>
+<p>롤스로이스는 지난 10년간 미국 내 시설에 15억 달러(약 2조억 원) 이상을 투자했다. 2024년에는 미국 사업을 통해 미국 경제에 62억 달러(약 8조5300억 원)를 기여했으며, 26개 주에서 사업을 운영하고 있다고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>인디애나폴리스 캠퍼스에는 퍼듀대학교와 협력해 운영하는 첨단 추진기술 연구기관 리버티웍스(LibertyWorks)도 있다. 롤스로이스와 퍼듀대학교는 2022년 10년간 7500만 달러(약 1000억 원) 규모의 협력 계약을 체결했다. 이는 이번 10억 달러 시설 투자와는 별도의 협력 사업이다.</p>
+<p>
+   <br />
+</p>
 ]]></description>
 
 <atom:category label="방산기업" term="20140925141337_5787"/>
 <author>sc.minugi@gmail.com 최미옥 기자</author>
-<atom:updated>2026-09-04T12:57:20+09:00</atom:updated>
-<atom:published>2026-09-04T12:55:41+09:00</atom:published>
+<atom:updated>2026-08-28T12:28:07+09:00</atom:updated>
+<atom:published>2026-08-28T12:28:07+09:00</atom:published>
+</item>
+<item>
+<guid>7860</guid>
+<title><![CDATA[日 방위성, 3D 프린터로 찍어내는 요격 드론 'Terra B1' 양산 승인]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7860</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7860</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7860" rel="related"/>
+
+<description><![CDATA[<p>
+   <br />
+</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2608/20260828123124_qoilkigf.jpg" alt="20260828 테라드론.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">토쿠시게 토루 테라드론 대표(CEO)가 2026년 3월 31일 우크라이나 키이우에서 테라드론과 우크라이나 기업 '어메이징 드론스'가 공동 개최한 기자회견에서 발언하고 있다./사진=게티이미지 Global Images Ukraine</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>[시큐리티팩트=강지현 기자] 일본 방위성이 첨단 3D 프린팅 기술을 활용해 요격용 드론을 대량 생산하는 방산 조달 계약을 체결했다. 자폭 드론의 위협이 급증하는 가운데 전통적인 방산 제조 방식을 벗어나 생산 속도와 유연성을 극대화하려는 행보로 풀이된다.</p>
+<p>
+   <br />
+</p>
+<p>27일(현지시간) 일본 언론 및 글로벌 방산 매체들에 따르면 일본 방위장비청(ATLA)은 최근 자국 산업용 드론 기업 테라드론(Terra Drone)과 로켓 발사형 요격 드론 '테라(Terra) B1'의 대량 생산 및 조달 계약을 공식 체결했다.</p>
+<p>&nbsp;</p>
+<p>테라 B1은 급증하는 무인기 및 자폭 드론 위협에 대응해 고속 반응성과 적응성을 극대화한 일본 국산 요격 드론이다. 전용 로켓 발사대를 통한 즉각 출격 체계를 갖춰 적 드론 포착 시 반응 시간을 대폭 줄였으며 샤헤드급 자폭 드론과 대레이더 자폭 무기를 타깃으로 고속 접근 후 무력화하는 전용 요격 알고리즘을 탑재했다.</p>
+<p>
+   <br />
+</p>
+<p>또한 핵심 부품과 몸체 대부분을 3D 프린팅으로 출력하도록 설계해 별도의 설비 개조 없이 도면과 프로그램 수정만으로 기술 업데이트와 현장 요구사항을 기체에 즉각 반영할 수 있다. 이는 우크라이나 실전에서 검증된 ‘테라 A1’의 수직 요격 메커니즘과 알고리즘을 기반으로, 일본 내 해상 및 육상 운용 환경에 맞춰 고도화한 기술적 결실이다.</p>
+<p>&nbsp;</p>
+<p>이번 계약은 지난달 일본 해상자위대와의 실증 시연을 거쳐 최종 성사됐다. 테라 B1은 올해 초 우크라이나 전장에 투입되어 검증을 마친 '테라 A1'의 일본 국내 생산용 개량형이다. 일본 방위성은 지난 5월 샤헤드(Shahed) 계열의 자폭 드론과 IAI 하피(Harpy) 등 대레이더 자폭 무기를 신속히 요격할 수 있는 드론 도입 입찰을 진행한 바 있다.</p>
+<p>
+   <br />
+</p>
+<h3>입찰에서 양산까지 단 3개월… 3D 프린팅이 바꾼 방산 조달 속도</h3>
+<p>특히 이번 조달 과정은 일본 방위당국의 기존 행정과 비교해 이례적으로 신속하게 진행됐다. 통상 1~2년이 소요되던 입찰 및 검증 절차가 입찰 공고 발표 후 불과 3개월 만에 최종 양산 계약으로 이어졌다.</p>
+<p>
+   <br />
+</p>
+<p>이 같은 속도전의 핵심에는 '3D 프린팅' 기술이 있다. 3D 프린터를 활용해 설계 및 시제품 제작 단계를 대폭 단축함으로써 빠르게 변화하는 전장 환경과 드론 기술 발전에 즉각 대응할 수 있는 기반을 마련한 것이다. 테라 B1은 최신 요격 기술이나 센서가 업데이트될 때마다 생산 라인을 대대적으로 개조할 필요 없이 소프트웨어와 3D 출력 도면 수정만으로 빠르게 적응형 개량 모델을 생산할 수 있다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://storage.united24media.com/thumbs/1014x676/d/2c/(x0-y724-w1152-h768)-fb5008aee098e547db5c48ba56c1f2cd.jpg" alt="Terra B1 interceptor drone." style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">로켓 발사형 요격 드론 '테라(Terra) B1'/사진=테라드론</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>공급망 타격 우려 지운 '분산형 3D 프린팅 팜' 체계 도입</h3>
+<p>테라드론 측은 적의 정밀 타격으로 제조 시설이 파괴되더라도 공급망 전체가 마비되지 않도록 '분산 생산 모델'을 적용할 방침이다. 생산 거점을 여러 지역으로 분산시키고 향후 각 지역의 거점 '3D 프린팅 팜(Farm)'으로 생산을 확장해 전시에도 끊김 없는 요격 드론 공급 체계를 유지한다는 구상이다.</p>
+<p>
+   <br />
+</p>
+<p>도쿠시게 토루 테라드론 대표(CEO)는 디펜스뉴스와의 인터뷰에서 "3D 프린팅은 단순히 제조 원가를 낮추는 기술이 아니라 일본의 방산 제조업을 훨씬 더 빠르고 유연하며 복원력 높은 생산 모델로 전환할 수 있는 잠재력을 지니고 있다"고 강조했다.</p>
+<p>
+   <br />
+</p>
+<p>우크라이나 전장에서 입증된 3D 프린팅 기반의 현장 맞춤형 분산 생산 체계가 동북아 방산 지형에 도입됨에 따라 향후 드론 및 자율 무기 체계의 보안·제조 생태계에도 큰 변화가 예상된다.</p>
+]]></description>
+
+<atom:category label="방산기업" term="20140925141337_5787"/>
+<author>sbtm2epdl@gmail.com 강지현 기자</author>
+<atom:updated>2026-08-28T12:36:22+09:00</atom:updated>
+<atom:published>2026-08-28T12:32:38+09:00</atom:published>
+</item>
+<item>
+<guid>7861</guid>
+<title><![CDATA[그리스, 이스라엘산 36억 달러 방공망 도입… '아킬레스 방패' 구축]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7861</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7861</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7861" rel="related"/>
+
+<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2608/20260831063556_azayslhs.jpg" alt="단거리 이동식 대공 방어 시스템 스파이더(SPYDER). 출처=라파엘.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">단거리 이동식 대공 방어 시스템 스파이더(SPYDER). 출처=라파엘</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 그리스가 이스라엘산 방공체계를 대거 도입해 36억 달러(약 4조9700억 원) 규모의 통합 방공망 '아킬레스 방패(Achilles Shield)'를 구축한다고 30일(현지시각) 외신이 보도했다. 미사일과 드론, 항공기 등 다양한 공중 위협에 대응하기 위한 다층 방공망이다.</p>
+<p>
+   <br />
+</p>
+<p>그리스와 이스라엘은 31일 텔아비브에서 관련 협정에 서명할 예정이다. 그리스 국방부 산하 국방획득·군비총국(GDDIA)과 이스라엘 국방부 국제방산협력국(SIBAT)이 계약을 체결하고 이스라엘 방산업체들도 사업에 참여한다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>아킬레스 방패는 그리스가 기존 방공전력과 이스라엘제 요격체계를 하나의 지휘·통제망으로 묶는 사업이다. 그리스 정부는 지난 7월 23일 사업을 승인했으며, 계약 발효 후 약 35개월에 걸쳐 단계적으로 구축할 계획이다.</p>
+<p>
+   <br />
+</p>
+<p>이스라엘 라파엘 첨단방위시스템은 단거리 방공체계 스파이더(SPYDER)와 중장거리 로켓·탄도미사일 요격체계 다윗의 슬링(David's Sling)을 공급한다. 이스라엘항공우주산업(IAI)은 항공기와 미사일 등에 대응하는 바라크 MX를 맡는다.</p>
+<p>
+   <br />
+</p>
+<p>그리스가 이미 운용하고 있는 패트리어트 미사일 포대도 통합 방공망에 연결된다. 각 체계를 별도로 운용하는 대신 센서와 지휘·통제체계를 연결해 표적 정보를 공유하고 위협에 맞는 요격 수단을 선택하는 방식이다.</p>
+<p>
+   <br />
+</p>
+<p>인공지능 기반 소프트웨어도 적용된다. 여러 센서가 수집한 정보를 분석해 접근하는 표적을 식별·분류하고 적절한 대응 수단을 추천한다. 저가 드론에 고가의 요격미사일이나 전투기를 투입하는 상황을 줄이는 것도 목표다.</p>
+<p>
+   <br />
+</p>
+<p>그리스 방산업체의 참여 비중도 최소 25%로 정해졌다. 약 12개 그리스 기업이 사업에 참여하며, 현지 업체가 맡는 사업 규모는 7억 유로 이상으로 알려졌다. 그리스 측이 방공망을 운용하는 소프트웨어에 대한 통제권을 확보하고 소스코드에 접근할 수 있도록 하는 방안도 협상 과정에서 다뤄졌다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>이번 계약은 약 3년간의 협상을 거쳐 성사 단계에 들어섰다. 예정대로 계약이 체결되면 이스라엘 방산 수출 사상 최대 규모가 된다. 기존 최대 기록은 2023년 독일이 이스라엘항공우주산업으로부터 도입한 애로우 3 미사일방어체계로, 계약 규모는 약 35억 달러였다.</p>
+<p>
+   <br />
+</p>
+<p>그리스는 이번 사업을 통해 기존 방공망을 이스라엘제 체계와 연결하고 방어 영역을 넓힌다. SPYDER와 바라크 MX, 다윗의 슬링에 패트리어트까지 결합하면서 단거리 드론부터 항공기와 장거리 미사일까지 단계적으로 대응할 수 있는 방공망을 갖추게 된다.</p>
+<p>
+   <br />
+</p>
+<p>그리스는 장기적인 군 현대화 계획의 일환으로 방공전력도 재편하고 있다. 터키와의 긴장이 이어지는 가운데 이스라엘 방산업체와의 협력을 확대하면서 영공 방어능력 강화에 나서는 모습이다.</p>
+<p>
+   <br />
+</p>
+]]></description>
+
+<atom:category label="방산기업" term="20140925141337_5787"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-08-31T06:38:15+09:00</atom:updated>
+<atom:published>2026-08-31T06:38:15+09:00</atom:published>
+</item>
+<item>
+<guid>7862</guid>
+<title><![CDATA[문민 장관 1년 만에 '4성 장군' 카드…李 정부, '연합사 부사령관 출신' 강신철 지명]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7862</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7862</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7862" rel="related"/>
+
+<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2608/20260831113426_kqlosetq.jpg" alt="20260831 강신철 장관 후보자.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2023년 11월 2일 한미연합군사령부 제31대 부사령관 강신철 대장 취임 환영 행사 모습/사진-한미연합군사령부 연합뉴스</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p><br /></p>
+<p>[시큐리티팩트=강태임 기자] 이재명 대통령이 30일 차기 국방부 장관 후보자로 강신철 전 한미연합군사령부 부사령관(주 사우디아라비아 대사)을 지명했다.</p>
+<p><br /></p>
+<p>5선 의원 출신 안규백 장관을 통해 64년 만에 첫 '문민 국방장관' 시대를 열었던 이재명 정부가 출범 1년 1개월여 만에 다시 정통 엘리트 4성 장군 출신으로 국방 수장을 교체한 것이다.</p>
+<p><br /></p>
+<p>이번 인사는 표면적으로는 문민통제 기조의 후퇴로 보일 수 있으나 본질적으로는 산적한 국방 개혁 과제를 '정면 돌파'하고 전시작전통제권(전작권) 전환이라는 동맹 핵심 현안을 흔들림 없이 이끌어가기 위한 전략적 포석으로 풀이된다.</p>
+<p><br /></p>
+<h3>'전력·작전·동맹' 겸비한 4성 장군…군심(軍心) 수습 및 개혁 동력 확보</h3>
+<p>강신철 후보자(육사 46기)는 육군본부, 합동참모본부, 한미연합사, 청와대를 두루 거친 군내 대표적인 작전 및 전략 기획 전문가다. 합참 전략기획부장, 국가안보실 안보·국방전략비서관, 합참 작전본부장 등 전력 구축과 작전 운용의 핵심 보직을 연이어 거쳤다.</p>
+<p><br /></p>
+<p>특히 강 후보자의 발탁 배경에는 최근 거센 정쟁과 예비역 단체의 반발에 부딪힌 국방 개혁 과제를 군 내부 사정에 정통한 '육사 출신 4성 장군'을 통해 정면 승부하겠다는 임명권자의 의지가 반영됐다.</p>
+<p><br /></p>
+<p>안규백 장관 재임 기간 추진되어 온 육·해·공군 사관학교 통합안은 육사 총동창회를 비롯한 예비역 그룹의 강력한 반발에 직면해 왔다. 여기에 야권의 정치적 공세까지 더해지며 동력이 약화한 바 있다. 군내 신망이 두터운 강 후보자가 등판함에 따라 군 내부 동요를 안정시키고 사관학교 통합 등 미래전 대비 구조 개혁의 동력을 다시 확보할 수 있을 것으로 전망된다.</p>
+<p><br /></p>
+<p>또한 강 후보자가 윤석열 정부 시기 연합사 부사령관을 지냈음에도 12·3 비상계엄 사태 당시 연루되지 않은 점이 확인되어 현 정부의 헌법 존중 기조와 정치적 중립성 요구를 충족한 점도 주요 인선 요인으로 꼽힌다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 883px;"><img src="https://imgnews.pstatic.net/image/001/2026/08/30/AKR20260830040200504_01_i_P4_20260830162817247.jpg?type=w860" alt="지난해 3월 제이비어 브런슨 현 주한미군사령관이 엑스(X·옛 트위터)에 올린 강신철 후보자(당시 연합사 부사령관)와의 사진. [브런슨 사령관 트위터 캡쳐]" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">지난해 3월 제이비어 브런슨 현 주한미군사령관이 엑스(X)에 올린 강신철 후보자(당시 연합사 부사령관)와의 모습/사진=브런슨 사령관 엑스 캡쳐 연합뉴스]</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>브런슨 사령관과의 '신뢰 자산'…전작권 전환 속도전 유지</h3>
+<p>이번 인사의 가장 중요한 관전 포인트는 한미동맹 현안 특히 전작권 전환의 속도감 있는 추진이다.</p>
+<p><br /></p>
+<p>강 후보자는 연합사 부사령관 재임 당시 제이비어 브런슨 현 주한미군사령관 겸 연합사령관과 상호 깊은 신뢰를 쌓으며 호흡을 맞춘 경험이 있다. 브런슨 사령관은 지난해 9월 강 후보자의 이임 당시 SNS를 통해 "강 장군의 리더십은 연합 대비태세를 실질적으로 강화했다"며 전우애와 존경을 표한 바 있다.</p>
+<p><br /></p>
+<p>올해 11월 개최 예정인 한미안보협의회의(SCM)를 앞두고 연합 작전구조 및 동맹 현안에 정통한 인사를 국방 수장에 배치한 것은 전작권 전환 논의에서 주도권을 쥐고 속도를 늦추지 않겠다는 확실한 시그널이다. 미 측과의 원활한 소통을 바탕으로 한국군의 미래연합군사령부 주도 능력 평가(FOC/FMC) 등 자주국방 역량 강화를 가속화하겠다는 의도로 읽힌다.</p>
+<p><br /></p>
+<p>강훈식 대통령 비서실장은 브리핑을 통해 "강 후보자는 굳건한 한미동맹을 바탕으로 미래전을 대비한 자주국방 역량을 강화하고 사관학교 통합 등 국방 혁신의 새로운 길을 과감하고 속도감 있게 열어갈 적임자"라고 강조했다.</p>
+<p><br /></p>
+<p>강 후보자가 국회 인사청문회를 통과해 임명되면 이재명 정부의 국방 정책은 '문민화의 상징성'에서 '실용적 개혁 완수 및 전작권 전환 가속화'라는 실질적 과제로 무게중심을 완전히 이동할 것으로 보인다.</p>
+]]></description>
+
+<atom:category label="밀리터리" term="20250407121048_4964"/>
+<author>sfinfo365@gmail.com 강태임 기자</author>
+<atom:updated>2026-08-31T11:39:33+09:00</atom:updated>
+<atom:published>2026-08-31T11:38:31+09:00</atom:published>
+</item>
+<item>
+<guid>7863</guid>
+<title><![CDATA["독립 논객인 줄 알았는데 펜타곤 민간 직원?"…美 국방부, '보수 인플루언서' 고용 여론전 논란]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7863</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7863</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7863" rel="related"/>
+
+<description><![CDATA[<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://gdb.voanews.com/d7b77f2c-a3ff-4ba7-40c1-08de54e55770_w1023_r1_s.png" alt="피트 헤그세스 전쟁부 장관이 31일 펜타곤에서 기자 회견을 하고 있다." style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">피트 헤그세스 미국 국방부(전쟁부) 장관 연설 모습/사진= 미 전쟁부</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>[시큐리티팩트=강지현 기자] 피트 헤그세스 미국 국방부(전쟁부) 장관을 공개 지지해 온 보수 성향 군사 인플루언서들이 실제로는 미 국방부 민간 직원으로 채용돼 여론 조성과 군 내부 사상 검증 업무에 동원됐다는 파문이 일고 있다.</p>
+<p>
+   <br />
+</p>
+<p>31일 중앙일보가 미국 워싱턴포스트(WP) 보도를 인용한 바에 따르면, 미 국방부는 수십만 명의 팔로워를 보유한 독립 논객 출신 인사들을 민간 직원(.civ) 신분으로 비밀리에 기용해 장관 정책을 정당화하고 미군 교육기관의 이념 편향성을 조사하는 태스크포스(TF)에 투입했다.</p>
+<p>
+   <br />
+</p>
+<h3>'독립 논객' 신분 숨기고 펜타곤 옹호…비밀 '여론 부대' 운용 논란</h3>
+<p>WP가 국방부 내부 기록과 복수의 소식통을 인용해 적시한 인물은 퇴역 공군 대령 로브 매니스, 퇴역 육군 대령 커트 슐릭터, 퇴역 육군 대령이자 변호사인 토머스 앤더슨 등 3명이다. 이들의 소셜미디어(X·옛 트위터) 팔로워는 슐릭터 약 62만 명, 앤더슨 32만여 명, 매니스 13만여 명에 달한다.</p>
+<p>
+   <br />
+</p>
+<p>이들은 국방부 소속이라는 신분을 밝히지 않은 채 언론 기고와 SNS 활동을 지속하며 헤그세스 장관의 정책을 적극 옹호해 왔다. 매니스는 보수 매체 기고를 통해 장관 정책에 반대하는 직업공무원들을 '불충한 관료'로 규정하며 해고를 주장했다. 슐릭터 역시 헤그세스 장관의 행보를 치하하는 영상을 공유하며 외곽 지원사격에 나섰다.</p>
+<p>
+   <br />
+</p>
+<p>트럼프 행정부는 '역대 가장 투명한 국방부'를 표방해 왔다. 하지만 정작 이들의 구체적인 담당 업무와 급여, 고용 기간 등은 일절 공개하지 않고 있어 세금으로 비밀 여론 부대를 운용한 것 아니냐는 비판에 직면했다.</p>
+<p>
+   <br />
+</p>
+<h3>군사대학 찾아 교수·학생 면담…'Woke주의' 사상 검증 동원</h3>
+<p>더 큰 문제는 이들이 정부의 정식 조사 업무 특히 군 내부 이념을 점검하는 이른바 '사상 검증' 조치에 직접 관여했다는 점이다.</p>
+<p>
+   <br />
+</p>
+<p>이들은 지난 5월 펜실베이니아주 칼라일의 육군전쟁대학을 방문해 학생 및 교수진과 면담을 진행했다. 헤그세스 장관이 출범시킨 TF 자격으로 국가전쟁대학, 육·해·공군 전쟁대학 등 고등군사교육기관 내에 인종·성별·성소수자 문제 등 진보적 흐름을 뜻하는 '워크(Woke)주의'가 침투했는지 90일간 점검하는 업무였다.</p>
+<p>
+   <br />
+</p>
+<p>조사 과정에서 이들은 헤그세스 장관과 댄 케인 합참의장의 업무 수행 평가까지 질문했으며 군 장교의 의회 소통법을 다룬 강의계획서에 문제를 제기하기도 했다. 면담에 응한 일부 학생들은 답변 내용에 따른 불이익을 우려해 솔직한 의견 개진을 망설였던 것으로 전해졌다.</p>
+<p>
+   <br />
+</p>
+<h3>'해치법' 위반 논란과 언론 통제 지적까지&nbsp;</h3>
+<p>이번 파문은 미 국방부가 최근 추진해 온 언론 통제 기조와 맞물려 논란을 더하고 있다. 헤그세스 장관은 취임 이후 국방부 미승인 정보 취취제 제한 서약을 거부한 주요 언론사 기자들의 출입증을 회수하고 우파 매체와 보수 인플루언서 중심의 새 출입기자단을 구성한 바 있다. 비판적 언론을 배제한 자리에 관제 인플루언서를 채워 넣어 공적 담론을 정권 입맛에 맞게 재편하려 했다는 지적이 나온다.</p>
+<p>
+   <br />
+</p>
+<p>미 정치권과 법조계 일각에서는 연방 예산으로 신분을 숨긴 채 정파적 여론전을 편 행위가 연방 공무원의 정치 활동을 엄격히 제한하는 '해치법(Hatch Act)'을 위반했을 가능성도 제기하고 있다. 공군 출신의 애덤 킨징어 전 공화당 하원의원은 WP에 "국민 세금으로 인플루언서를 고용해 당파적 메시지를 유포한 행위"라며 "정부를 대신해 편향된 정보를 퍼뜨리는 계정 중 특별정부직원이 얼마나 더 존재하는지 알 수 없다"고 강력히 비판했다.</p>
+<p>
+   <br />
+</p>
+]]></description>
+
+<atom:category label="밀리터리" term="20250407121048_4964"/>
+<author>sbtm2epdl@gmail.com 강지현 기자</author>
+<atom:updated>2026-08-31T12:29:22+09:00</atom:updated>
+<atom:published>2026-08-31T12:29:22+09:00</atom:published>
 </item>
 	</channel>
 </rss>
