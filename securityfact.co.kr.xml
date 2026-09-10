@@ -4,8 +4,100 @@
 <title>시큐리티팩트</title>
 <link>https://www.securityfact.co.kr</link>
 <description>시큐리티팩트 – 육해공/해병 국방전문가의 심층분석 안보 매체</description>
-<atom:updated>2026-09-10T17:29:51+09:00</atom:updated>
-<atom:published>2026-09-10T17:29:51+09:00</atom:published>
+<atom:updated>2026-09-11T00:40:46+09:00</atom:updated>
+<atom:published>2026-09-11T00:40:46+09:00</atom:published>
+<item>
+<guid>7915</guid>
+<title><![CDATA[[SF 포커스] 펜타곤 ‘AI 슈퍼 앱’ 메이븐, 군수·예산까지 삼킨다]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7915</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7915</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7915" rel="related"/>
+
+<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260911003740_tlawwewx.jpg" alt="20260910 MSS.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 2월 20일 버지니아주 알링턴에서 한 주방위군 군인이 메이븐 스마트 시스템(MSS)의 인터페이스를 살피고 있다./사진=미 육군</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트=강태임 기자] 미 국방부(펜타곤)가 인공지능(AI) 기반 지휘통제 플랫폼인 ‘메이븐 스마트 시스템(MSS)’의 적용 범위를 군수, 전력 준비태세, 공급망, 예산에 이르기까지 국방 경영 및 작전 전반으로 대대적으로 확장하고 있다. 단순한 전술 표적화 도구를 넘어 펜타곤 전체를 관통하는 핵심 ‘슈퍼 앱(Everything App)’으로 체질 개선에 나선 것이다.</p>
+<p><br /></p>
+<p>9일(현지시간) 미 군사전문매체 디펜스원(Defense One)에 따르면 카메론 스탠리 미 국방부 최고디지털·인공지능책임자(CDAO)는 워싱턴 D.C.에서 열린 ‘빌링턴 사이버보안 서밋’에 참석해 “MSS가 기존 미군 인력이 데이터 분석에 사용하던 6~10개의 서로 다른 IT 시스템을 이미 성공적으로 대체했다”고 밝혔다.</p>
+<p><br /></p>
+<p>스탠리 CDAO는 이번 통합의 궁극적 목표로 ‘통합 데이터 사슬(Golden Thread)’ 개념을 제시했다. 최전방 센서에서 수집된 정보가 상급 부대로 집계·시각화되고 이를 바탕으로 최종 지휘관이 의사결정을 내려 작전을 실행하기까지의 전 과정을 하나의 일관된 데이터 사슬로 연결하겠다는 구상이다.</p>
+<p><br /></p>
+<h3>정보·작전 연계에서 ‘국방 경영 전반’으로… 횡적 통합 가속화</h3>
+<p>원래 MSS는 정보(Intel)와 작전(Ops) 기능을 실시간으로 연결해 표적화 속도를 극대화하는 용도로 개발됐다. 실제 최근 대(對)이란 작전 초기 당시 MSS는 수천 개에 달하는 표적을 번개 같은 속도로 선별하고 타격을 지원하며 강력한 전술적 유용성을 입증한 바 있다.</p>
+<p><br /></p>
+<p>그러나 국방부는 이 과정에서 단기적 표적 수집을 넘어 ‘90일 단위의 탄약 재고 및 수급 예측’을 포함한 종합적인 작전 지원 체계의 필요성을 절감했다. 이에 따라 CDAO는 부서 간 장벽을 허무는 ‘횡적 통합(Horizontal Integration)’ 작업에 착수했다. 부대별 전력 배치와 준비태세, 글로벌 공급망 교란 위험, 예산 집행 데이터 그리고 복잡한 작전 환경을 가상 검증하는 모델링·시뮬레이션(M&amp;S) 기능까지 MSS 단일 플랫폼 안으로 끌어들이고 있는 것이다.</p>
+<p><br /></p>
+<p>지휘통제 시스템의 속도감 역시 대폭 개선됐다. 과거 지휘관들이 정찰위성 영상을 받아보기까지 수시간을 대기해야 했다면 현재는 AI가 위성 이미지 내 표적을 자동 식별·검출한 결과물까지 포함해 단 몇 분 만에 지휘관 화면에 뿌려진다. 스탠리 CDAO는 “결국 군사 AI의 본질은 데이터에 기반해 더 나은 결정을 더 빠르게 내리는 것”이라고 강조했다.</p>
+<p><br /></p>
+<h3>민간 첨단 AI 및 상용 모델 적극 도입… 조달 체계도 개혁</h3>
+<p>펜타곤의 이 같은 변화는 민간의 거대언어모델(LLM)과 혁신적 조달 제도가 뒷받침하고 있다. 미 국방부의 대표 AI 포털인 ‘GenAI.mil’은 기존 구글의 제미나이(Gemini) 외에도 최근 오픈AI(OpenAI)와 xAI의 최신 프론티어 AI 모델들을 국방 보안 네트워크 내부로 전격 도입했다. 민간의 최첨단 기술을 군 전용 환경에서 안전하게 구동하는 구조다.</p>
+<p><br /></p>
+<p>조달 방식도 과거의 경직성을 탈피해 ‘상용 기술 우선(Commercial-First)’ 기조로 전환하고 있다. 수개월이 소요되던 전통적인 제안요청서(RFI/RFP) 절차 대신 국방 디지털 마켓플레이스인 ‘트레이드윈즈(Tradewinds)’와 기타거래권한(OTA)을 적극 활용하고 있다. 이를 통해 기업 선정을 단 수일 만에 끝내는 체계를 구축했으며 계약서 작성 및 임시 운용승인(ATO) 절차에도 AI 챗봇 및 자동화 시범 프로그램을 투입해 병목 현상을 해소하고 있다.</p>
+<p><br /></p>
+<p>아울러 미 국방부는 핵심 인프라를 직접 소유 및 개발하는 방식 대신 민간의 SaaS(서비스형 소프트웨어) 및 PaaS(서비스형 플랫폼) 모델을 수용해 라이선스 계약 기반으로 빠르게 기능을 업데이트하는 방식을 택했다. 상용 모델 위에 군의 고유 데이터를 결합해 맞춤형 AI 모델을 정교화하겠다는 전략이다.</p>
+<p><br /></p>
+<h3>파이브 아이즈·동맹국에 기술 전파… “기존 방식 고수가 가장 위험”</h3>
+<p>미 국방부는 이러한 AI 지휘통제 노하우를 파이브 아이즈(Five Eyes: 미국, 영국, 캐나다, 호주, 뉴질랜드)를 비롯해 일부 NATO 및 아시아 주요 동맹국들과 공유하며 연합 작전 능력을 강화하고 있다. 동맹국들이 겪을 수 있는 시행착오를 줄이고 플랫폼의 상호운용성을 극대화하기 위해서다.</p>
+<p><br /></p>
+<p>스탠리 CDAO는 “모든 국방 영역으로의 AI 확산은 국방부의 의지와 무관하게 일어날 수밖에 없는 불가피한 흐름”이라며 군이 재래식 절차의 디지털 전환을 서둘러야 한다고 지적했다.</p>
+<p><br /></p>
+<p>그는 끝으로 “우리가 과거에 해왔던 방식을 그대로 고수하는 것이 결코 위험을 줄이는 길이 아니다”라며 “오히려 과거의 방식을 답습하는 것이야말로 군 안보에 있어서 가장 위험한 행동”이라고 경고했다.</p>
+]]></description>
+
+<atom:category label="뉴테크" term="20250407121910_3900"/>
+<author>sfinfo365@gmail.com 강태임 기자</author>
+<atom:updated>2026-09-11T00:41:00+09:00</atom:updated>
+<pubDate>2026-09-11T00:40:46+09:00</pubDate>
+</item>
+<item>
+<guid>7914</guid>
+<title><![CDATA[안두릴, 폴란드에 F-35·아파치용 'AI 드론' 제안…유럽 CCA 시장 선점 나서]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7914</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7914</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7914" rel="related"/>
+
+<description><![CDATA[<p data-path-to-node="0"><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260910235535_vhzemaol.jpg" alt="20260910 안두릴.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">안두릴이 2026년 9월 9일 폴란드 킬체에서 열린 MSPO 방산전시회에서 PGZ와 협력하여 개발한 바라쿠다 순항미사일 모델을 전시하고 있다./사진=디펜스뉴스</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">[시큐리티팩트=강태임 기자] 미국의 신흥 방산·IT 기업 안두릴 인더스트리(Anduril Industries)가 폴란드 방산 시장 공략에 속도를 내고 있다. F-35 스텔스 전투기와 AH-64E 아파치 공격헬기를 대량 도입하는 폴란드군을 겨냥해 '유·무인 복합체계(MUM-T)'용 자율 무인기를 전격 제안했다.</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">9일(현지시간) 미국 방산 전문매체 디펜스뉴스(Defense News)에 따르면 안두릴은 폴란드 킬체에서 열린 'MSPO 2026' 방산전시회에서 폴란드 국영 방산그룹 PGZ와의 '바라쿠다-500M(Barracuda-500M)' 순항미사일 현지 생산 협력과 더불어 자율전투기 '퓨리(Fury)' 및 자율공격 무인 헬기 '썬더(Thunder)'의 폴란드 공급을 추진 중이라고 보도했다.</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">안두릴이 제안한 퓨리와 썬더는 모두 첨단 인공지능(AI)을 기반으로 조종사의 개입을 최소화하면서 독자적 또는 유인기와 협동 작전을 수행하는 협업전투기(CCA) 플랫폼이다.</p>
+<p data-path-to-node="0">&nbsp;</p>
+<p data-path-to-node="0">&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2607/20260728171402_rhtqbqlq.jpg" alt="'퓨리' 무인전투기 모형. 출처=안두릴.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">자율전투기 '퓨리(Fury)' /사진=안두릴</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p data-path-to-node="0">특히 미 공군의 CCA 정식 사업 기종으로 선정된 바 있는 '퓨리'는 폴란드 공군이 순차적으로 도입 중인 32대의 F-35A 스텔스 전투기와 연동되는 '로열 윙맨(Loyal Wingman)' 역할을 맡게 된다. 고위험 지역에 먼저 침투해 정찰·교란·타격 임무를 수행함으로써 유인기 조종사의 생존성을 극대화하는 방식이다.</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">함께 제안된 '썬더'는 지난 7월 영국 판버러 에어쇼에서 최초 공개된 플랫폼으로 AH-64E 아파치 공격헬기와의 유·무인 복합 작전에 최적화됐다.</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">브라이언 모란(Brian Moran) 안두릴 유럽 담당 부사장은 디펜스뉴스와의 인터뷰에서 "96대의 아파치 헬기를 도입하는 폴란드 입장에서 썬더는 확실한 전력 증강자(Force Multiplier)"라며 "대규모 아파치 전력을 운용하기 위해 수많은 조종사를 양성해야 하는 폴란드군의 훈련 및 작전 부담을 크게 줄여줄 것"이라고 강조했다.</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">폴란드는 오는 2028년부터 96대의 AH-64E 아파치 헬기를 순차적으로 인도받을 예정이다. 도입이 완료되면 폴란드는 미 본토를 제외하고 세계 최대 규모의 아파치 운용국으로 올라서게 된다.</p>
+<p data-path-to-node="0"><br /></p>
+<p data-path-to-node="0">방산업계 관계자는 "폴란드가 F-35와 아파치 등 미군의 핵심 첨단 전력을 대량 도입함에 따라 이들과 완벽히 연동되는 무인 전력 확보가 필수 과제로 떠올랐다"며 "안두릴이 PGZ와의 현지 생산 협력을 고리로 폴란드를 유럽 내 첫 CCA 운용국으로 만들려는 것은 매우 공격적인 마케팅 전략"이라고 평가했다.</p>
+]]></description>
+
+<atom:category label="방산기업" term="20140925141337_5787"/>
+<author>sfinfo365@gmail.com 강태임 기자</author>
+<atom:updated>2026-09-11T00:04:46+09:00</atom:updated>
+<pubDate>2026-09-10T23:58:20+09:00</pubDate>
+</item>
 <item>
 <guid>7913</guid>
 <title><![CDATA[우크라이나, 개전 후 최장거리 드론 타격…러시아 북극 가스 핵심시설 ‘쿵’]]></title>
@@ -591,120 +683,6 @@
 <author>sbtm2epdl@gmail.com 강지현 기자</author>
 <atom:updated>2026-09-08T16:31:04+09:00</atom:updated>
 <pubDate>2026-09-08T16:30:25+09:00</pubDate>
-</item>
-<item>
-<guid>7904</guid>
-<title><![CDATA[삼성SDS, 오픈AI와 보안 협업 강화… 국내 최초 'Daybreak' 파트너십 참여]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7904</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7904</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7904" rel="related"/>
-
-<description><![CDATA[<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://cdn.asiaa.co.kr/news/photo/202609/261532_283448_843.jpg" alt="8일 코엑스 컨벤션센터에서 진행된 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026’에서 이준희 삼성SDS 대표이사(사장)가 기조연설을 하고 있다. [사진=삼성SDS]" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">8일 코엑스 컨벤션센터에서 진행된 엔터프라이즈 AX 콘퍼런스 '리얼 서밋 2026’에서 이준희 삼성SDS 대표이사(사장)가 기조연설을 하고 있다./사진=삼성SDS</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">&nbsp;</div>
-<p>[시큐리티팩트=강태임 기자] 삼성SDS가 글로벌 AI 선도 기업인 오픈AI와 사이버보안 분야 핵심 협력을 체결했다. 인공지능 전환(AX) 및 피지컬 AI(RX) 시장 공략에도 속도를 낸다.</p>
-<p><br /></p>
-<p>이준희 삼성SDS 대표는 8일 서울 코엑스 컨벤션센터에서 열린 ‘리얼 서밋 2026’ 기조연설을 통해 AI 도입을 넘어 기업의 업무 방식과 비즈니스 구조 자체를 재설계하는 AX 시장 본격 공략을 선언했다.</p>
-<p><br /></p>
-<h3>오픈AI와 ‘Daybreak’ 보안 파트너십 체결… 글로벌 보안 거점 확보</h3>
-<p>삼성SDS의 이번 AX 전략에서 가장 눈에 띄는 대목은 오픈AI와의 보안 협업 강화다. 삼성SDS는 국내 기업 최초이자 글로벌 시장에서도 주목받는 파트너로서 오픈AI의 보안 특화 파일럿 프로그램인 ‘Daybreak Partner Program(데이브레이크 파트너 프로그램)’에 참여했다.</p>
-<p><br /></p>
-<p>글로벌 대표 보안 및 IT 서비스 파트너사들과 함께 구성되는 오픈AI의 'Daybreak' 생태계는 시스코(Cisco), 팔로알토 네트워크(Palo Alto Networks), 크라우드스트라이크(CrowdStrike) 등 세계적인 보안 선도 기업들이 참여하는 프레임워크다. 전 세계 2000여 개 승인 기관 및 기업이 이 생태계를 기반으로 AI 방어 체계를 구축하는 가운데 삼성SDS가 국내 기업 중 최초로 이 글로벌 보안 네트워크에 합류했다.</p>
-<p><br /></p>
-<p>‘Daybreak’ 프로그램은 오픈AI의 최신 프론티어 AI 모델을 활용해 사이버보안 영역의 취약점을 선제적으로 탐지·검증한다. 이를 통해 최적의 대응 방안을 제시하는 데 초점을 맞춘다.</p>
-<p>&nbsp;</p>
-<p>한편 앤트로픽의 사이버 보안 이니셔티브인 '프로젝트 글래스윙' 참여와 관련해 이 대표는 "앤트로픽과 많은 논의를 해오고 있다"면서도 "미국 정부 차원에서 여러 가지를 검토하고 있어 그 문제들이 하나씩 해결되면 참여할 수 있을 것"이라고 말했다.</p>
-<p><br /></p>
-<p>삼성SDS는 지난해부터 제공해 온 기업용 ‘챗GPT 엔터프라이즈’ 컨설팅·서비스 역량에 더해 이번 보안 협력을 바탕으로 AI 도입 시 기업들이 가장 우려하는 보안 위협을 원천 차단한다는 구상이다. 보안 안정성을 갖춘 프론티어 AI 모델을 현장 개발 엔지니어(FDE, Field Development Engineer)를 통해 고객사의 실제 시스템에 밀착 적용할 계획이다.</p>
-<p><br /></p>
-<p>이준희 대표는 "프론티어 모델의 강력한 성능을 기업이 실제 사용할 수 있는 서비스로 연결하는 것이 무엇보다 중요하다"며 "FDE가 고객 현장에서 직접 이를 적용하고 궁극적으로 기업의 실질적인 AX 성과로 이어지도록 만들겠다"고 밝혔다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://img4.yna.co.kr/photo/yna/YH/2026/09/08/PYH2026090808690001300_P4.jpg" alt="삼성SDS, '다차원(Multi-Dimensional) AI 풀스택' 전략 발표" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">기존 연설 중인 이준희 대표/사진=연합뉴스</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>‘다차원 AI 풀스택’ 기반 AX 시장 공략… 클라이언트 제로 및 7대 핵심 요소 제시</h3>
-<p>삼성SDS는 보안을 기반으로 한 AI 인프라·플랫폼·솔루션에 컨설팅과 산업 전문성을 결합한 ‘다차원(Multi-Dimensional) AI 풀스택’을 전면에 내세웠다.</p>
-<p><br /></p>
-<p>이 대표는 기업의 88%가 AI를 도입했음에도 이익 창출로 이어진 비율은 6%에 불과하다는 맥킨지 조사 결과를 인용하며 성공적인 AX를 위한 7대 핵심 요소로 ▲프로세스 재설계 ▲AI 레디 데이터 ▲AI 에이전트 운영(Agent Ops) ▲AI 거버넌스 ▲AI 보안 ▲AI 조직 ▲인재와 문화를 제시했다.</p>
-<p><br /></p>
-<p>이를 실행에 옮기기 위해 자사 업무에 AI를 먼저 적용해 검증하는 ‘클라이언트 제로(Client Zero)’ 전략을 추진 중이다. 개발·구매·품질·경영지원 등 7대 핵심 업무에서 검증된 효과를 바탕으로 현장 투입용 FDE 인력을 연말까지 200명 규모로 양성한다.</p>
-<p><br /></p>
-<p>또한 앤트로픽과도 전략적 파트너십을 체결해 기업용 AX 공동 PoC를 추진한다. 오는 10월에는 목표 제시 시 스스로 업무를 수행하는 AI 에이전트 ‘브리티웍스 코워크’를 선보일 예정이다.</p>
-<p><br /></p>
-<h3>제조 현장 혁신 ‘RX’로 확장… 2027년 ‘로봇 오케스트레이션 플랫폼’ 선보인다</h3>
-<p>삼성SDS의 AX 전략은 디지털 환경을 넘어 실제 물리적 공간을 혁신하는 피지컬 AI 및 로봇 전환(RX, Robotics Transformation) 영역으로 확대된다.</p>
-<p><br /></p>
-<p>25년간 축적한 제조 분야 경험과 430여 개 제조 고객 기반 데이터를 활용해 반도체, 2차전지, 자동차 등 다양한 현장에서 로봇 중심의 제조 자동화를 검증하고 있다. 레인보우로보틱스, 월든로보틱스, 에이아이로봇 등 10개 기업이 참여하는 ‘Team REX’ 생태계를 구축해 협력을 강화한다.</p>
-<p><br /></p>
-<p>특히 2027년부터는 생산설비와 서로 다른 제조사의 로봇을 단일 소프트웨어로 제어·운영하는 ‘로봇 오케스트레이션 플랫폼’을 본격 선보여 디지털 AX부터 제조 현장의 RX까지 전 영역을 아우르는 비즈니스 성과 창출에 나설 방침이다.</p>
-]]></description>
-
-<atom:category label="시큐리티" term="20171121074254_1125"/>
-<author>sfinfo365@gmail.com 강태임 기자</author>
-<atom:updated>2026-09-08T12:23:05+09:00</atom:updated>
-<pubDate>2026-09-08T12:22:18+09:00</pubDate>
-</item>
-<item>
-<guid>7903</guid>
-<title><![CDATA[현대로템, 현지 임무장비 탑재한 ‘폴란드형 K2 전차’ 최초 공개… MSPO서 K-방산 위상 입증]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7903</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7903</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7903" rel="related"/>
-
-<description><![CDATA[<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.hyundai-rotem.co.kr/image/2026/9/20260908083657003444.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">8일(현지시간)부터 11일까지 폴란드 키엘체(Kielce)에서 열리는 ‘제34회 폴란드 국제방산전시회(MSPO)’ 현대로템 전시관 전경/사진=현대로템</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p>[시큐리티팩트=강지현 기자] 현대로템이 폴란드 현지화 전략의 결실인 ‘폴란드형 K2 전차(K2PL)’와 현지산 임무장비를 결합한 전차를 세계 무대에 최초로 선보이며 동유럽 방산 시장 공략에 박차를 가한다.</p>
-<p><br /></p>
-<p>현대로템은 폴란드 키엘체(Kielce)에서 열리는 ‘제34회 폴란드 국제방산전시회(MSPO 2026)’에 참가해 폴란드 맞춤형 방산 기술력과 현지 협력 성과를 대대적으로 홍보한다고 8일 밝혔다.</p>
-<p><br /></p>
-<h3>동유럽 최대 방산 축제 MSPO… K-방산 기업 총출동</h3>
-<p>1993년 시작되어 올해로 34회를 맞이한 MSPO는 영국의 DSEI, 프랑스의 Eurosatory와 함께 유럽 3대 방산전시회이자 동유럽 최대 규모의 국제방산전시회로 꼽힌다. 지난해 기준 전 세계 35개국 811개 업체가 참가했다. 유럽 안보 위기 속에서 동유럽 국가들의 전력 증강 및 무기 도입 타당성을 검토하는 핵심 무대로 평가받는다.</p>
-<p><br /></p>
-<p>8일(현지시간)부터 11일까지 열리는 이번 MSPO 2026 행사에는 현대로템을 비롯해 한화에어로스페이스, LIG D&amp;A, 한국항공우주산업(KAI), 풍산 등 대한민국 대표 방산 기업들이 대거 참가했다. 국내 기업들은 차세대 지상 무기체계부터 유·무인 복합체계(MUM-T), 정밀 타격 무기, 항공 전력에 이르기까지 K-방산의 기술력을 다채롭게 선보이며 유럽 시장 지배력 확대에 나섰다. 5년 연속 MSPO에 참가하는 현대로템은 국내 참가기업 중 최대 규모의 전시 부스를 운영하며 K-방산의 리더십을 드러냈다.</p>
-<p><br /></p>
-<h3>K2PL·교량전차·무인차량… 폴란드 맞춤형 라인업 현지 최초 공개</h3>
-<p>현대로템은 폴란드형 전차 라인업의 기술력을 직접 확인할 수 있는 'K2PL존'을 마련했다. 이곳에는 폴란드 현지 요구사항에 맞게 개조·개발된 K2PL 전차를 비롯해 교량전차, 구난전차, 개척전차 등 계열전차 군이 전면 배치된다. K2PL 전차는 대전차 유도미사일과 드론 위협에 대응하는 능동방호장치(APS), 드론 재머, 원격사격통제체계(RCWS) 등 최첨단 방어 시스템이 대거 적용될 예정이다.</p>
-<p><br /></p>
-<p>특히 이번 전시회에서는 폴란드 현지 방산업체 미란다(Miranda)의 'MCS(Mobile Camouflage System) 위장막'을 탑재한 K2 전차가 최초로 공개된다. MCS 위장막은 기동 및 전투 중에도 착용한 채 작전을 수행할 수 있는 시스템으로 야간투시장비 및 열상감시장비 등 전차가 다양한 센서에 노출될 위험을 크게 낮춰준다. MCS 위장막은 현대로템이 현재 폴란드 군에 인도 중인 K2 전차(K2GF MBT)에 실물로 적용되어 전시된다.</p>
-<p><br /></p>
-<p>현지 방산업체 오브럼(Obrum)과 공동 개발 중인 폴란드형 교량전차 모형도 처음 실물을 드러낸다. 이 교량전차에는 폴란드 현지 전장 환경과 하천 지형에 최적화된 고성능 교량 임무장비가 장착된다.</p>
-<p><br /></p>
-<p>이외에도 다목적 무인차량 'HR-셰르파(HR-SHERPA)'에 현지 방산업체 ZMT의 원격무장장치를 탑재한 모형과 대드론 다층방호체계(C-UAS) 무인포탑을 탑재한 30t급 차륜형장갑차도 선보이며 미래형 지상 무기체계 기술력을 과시했다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.hyundai-rotem.co.kr/image/2023/3/000014/1_8.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2023년 3월 31일(현지시간) 폴란드에서 진행된 폴란드형 K2 전차 생산ㆍ납품 사업을 진행하기 위한 컨소시엄 이행합의서 체결식에서 조현기(사진 왼쪽부터) 방위사업청 기반전력사업본부장, 안경수 현대로템 디펜스솔루션사업본부장(전무), 세바스찬 흐바웩 PGZ 회장, 마리우시 브와슈차크 폴란드 부총리 겸 국방부 장관이 기념촬영을 하고 있다./사진=현대로템</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>현대로템의 폴란드 잔여 물량 계약 가속화… '현지 생산' 본궤도</h3>
-<p>현대로템의 폴란드 진출은 단순한 무기 수출을 넘어 현지 방산 생태계와의 깊은 협력 구조로 진화하고 있다.</p>
-<p><br /></p>
-<p>앞서 현대로템은 2022년 폴란드 군비청과 K2 전차 1000대 공급에 대한 기본계약을 체결한 바 있다. 이 중 180대에 대한 1차 이행계약(약 4조 5000억 원 규모)을 맺고 순조롭게 인도 과정을 진행해 왔다. 이어 2차 이행계약 타결을 위한 협상을 지속 진행하며 폴란드 현지 생산 기반 조성을 가속화하고 있다.</p>
-<p><br /></p>
-<p>특히 현대로템은 지난 4월 폴란드 국영 방산그룹 PGZ 산하의 방산업체 부마르 와벤디(BUMAR-ŁABĘDY)와 K2PL 및 구난전차의 현지 생산·정비 협력을 위한 계약을 체결했다. 이를 통해 폴란드 현지 공장에서 K2PL 전차를 양산하고 정비할 수 있는 체계를 갖추는 등 중장기적인 기술 이전 및 방산 협력 모델을 확립했다.</p>
-<p><br /></p>
-<p>현대로템 관계자는 "폴란드형 K2 전차는 양국 방산 협력사들의 기술력이 총집약된 상징적인 결과물로 양국 방산 생태계 발전에 중요한 역할을 수행할 것"이라며 "폴란드의 안보 파트너로서 현지 생산을 차질 없이 이행해 동유럽의 평화 유지와 방산 협력 강화에 기여하겠다"고 강조했다.</p>
-]]></description>
-
-<atom:category label="방산기업" term="20140925141337_5787"/>
-<author>sbtm2epdl@gmail.com 강지현 기자</author>
-<atom:updated>2026-09-08T11:39:03+09:00</atom:updated>
-<pubDate>2026-09-08T11:38:13+09:00</pubDate>
 </item>
 	</channel>
 </rss>
