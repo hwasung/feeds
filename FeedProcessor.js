@@ -1,90 +1,150 @@
+// ============================================================================
+// 1. XML & DOM Utility
+// ============================================================================
 const Xml = {
 	escape: str => {
 		if (!str) return "";
+		const entityMap = { '<': '&lt;', '>': '&gt;', "'": '&apos;', '"': '&quot;' };
 		return String(str)
-			.replace(/&(?!([a-zA-Z]+|#\d+|#[xX][0-9a-fA-F]+);)/g, "&amp;") // 뒤에 유효한 XML 엔티티(이름/10진수/16진수)가 오지 않는 단독 '&'만 &amp;로 치환
-			.replace(/[<>'"]/g, c => ({ '<': '&lt;', '>': '&gt;', '\'': '&apos;', '"': '&quot;' }[c]));
+			.replace(/&(?!([a-zA-Z]+|#\d+|#[xX][0-9a-fA-F]+);)/g, "&amp;")
+			.replace(/[<>'"]/g, c => entityMap[c]);
 	},
-	safeCdata: str => (str || "").replace(/]]>/g, "]]]]><![CDATA[>"),
-	wrapCdata: function (str) { return `<![CDATA[${this.safeCdata(str)}]]>`; },
-	getItems: xml => (xml || "").match(/<item\b[\s\S]*?<\/item>/gi) || [],
 
-	getItemKey: function (itemXml) {
+	safeCdata: (str = "") => str.replaceAll("]]>", "]]]]><![CDATA[>"),
+	wrapCdata: str => `<![CDATA[${Xml.safeCdata(str)}]]>`,
+
+	getItems: (xml = "") => xml.match(/<item\b[\s\S]*?<\/item>/gi) || [],
+
+	getItemKey: itemXml => {
 		const m = itemXml.match(/<(?:guid|link)[^>]*>([\s\S]*?)<\/(?:guid|link)>/i);
 		if (!m) return "";
 		const map = { "&amp;": "&", "&lt;": "<", "&gt;": ">", "&quot;": '"', "&apos;": "'" };
 		return m[1].replace(/&(?:amp|lt|gt|quot|apos);/g, c => map[c] || c).trim();
 	},
 
-	getSecondaryId: function (itemXml) {
-		const key = this.getItemKey(itemXml);
-		const m = key.match(/[?&](?:id|no|seq|docSeq|article(?:No)?|idx|wr_id)=(\d+)/i) || key.match(/\/(\d+)(?:\.[a-z]+)?(?:\?|$)/i);
+	getSecondaryId: itemXml => {
+		const key = Xml.getItemKey(itemXml);
+		const m = key.match(/[?&](?:id|no|seq|docSeq|article(?:No)?|idx|wr_id)=(\d+)/i) 
+		       || key.match(/\/(\d+)(?:\.[a-z]+)?(?:\?|$)/i);
 		return m ? parseInt(m[1], 10) : 0;
 	},
 
-	sanitizeTags: function (itemXml, stripHeavy = false) {
+	sanitizeTags: (itemXml, stripHeavy = false) => {
 		let res = itemXml;
 		if (!/<pubDate\b/i.test(res)) {
-			res = res.replace(/<(?:atom:)?published\b[^>]*>/gi, "<pubDate>").replace(/<\/(?:atom:)?published>/gi, "</pubDate>");
+			res = res.replace(/<(?:atom:)?published\b[^>]*>/gi, "<pubDate>")
+			         .replace(/<\/(?:atom:)?published>/gi, "</pubDate>");
 		}
 		if (/<content:encoded\b/i.test(res)) {
 			res = res.replace(/<description\b[\s\S]*?<\/description>/gi, "")
-					 .replace(/<content:encoded\b[^>]*>/gi, "<description>")
-					 .replace(/<\/content:encoded>/gi, "</description>");
+			         .replace(/<content:encoded\b[^>]*>/gi, "<description>")
+			         .replace(/<\/content:encoded>/gi, "</description>");
 		}
 		if (stripHeavy) {
 			res = res.replace(/<(?:script|style|iframe|figure|picture)[^>]*>[\s\S]*?<\/(?:script|style|iframe|figure|picture)>/gi, "")
-					 .replace(/<img[^>]*>/gi, "");
+			         .replace(/<img[^>]*>/gi, "");
 		}
 		return res;
+	},
+
+	// 모든 <item> 태그의 시작 부분에 탭 2개(\t\t) 들여쓰기를 보장하여 채널에 주입
+	injectItemsToChannel: (baseXml, items) => {
+		const itemsArray = Array.isArray(items) ? items : [items];
+		const formattedItems = itemsArray
+			.map(block => block.trim())
+			.filter(Boolean)
+			.map(block => block.startsWith("<item") ? `\t\t${block}` : block)
+			.join("\n");
+
+		const cleanBase = (baseXml || "")
+			.replace(/^[ \t]*<item\b[\s\S]*?<\/item>\r?\n?/gim, "")
+			.replace(/(\r?\n\s*){2,}/g, "\n")
+			.trim();
+
+		return /<\/channel>/i.test(cleanBase)
+			? cleanBase.replace(/<\/channel>/i, `${formattedItems}\n\t</channel>`)
+			: `${cleanBase}\n${formattedItems}`;
 	}
 };
 
+// ============================================================================
+// 2. Date & Time Utility
+// ============================================================================
 const DateUtil = {
 	toRfc822: dateStr => {
 		if (!dateStr) return new Date().toUTCString();
-		const d = new Date(dateStr.includes("T") || dateStr.includes("+") ? dateStr : `${dateStr.trim()}T09:00:00Z`);
+		const formatted = dateStr.includes("T") || dateStr.includes("+") ? dateStr : `${dateStr.trim()}T09:00:00Z`;
+		const d = new Date(formatted);
 		return isNaN(d.getTime()) ? new Date().toUTCString() : d.toUTCString();
 	},
+
 	getTimestamp: target => {
-		const str = typeof target === "string" ? (target.match(/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i) || [])[1] : target?.pubDate;
+		const str = typeof target === "string" 
+			? (target.match(/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/i)?.[1] ?? target)
+			: target?.pubDate;
 		const t = Date.parse((str || "").trim());
 		return isNaN(t) ? 0 : t;
+	},
+
+	formatNow: () => {
+		const now = new Date();
+		const pad = n => String(n).padStart(2, "0");
+		return `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}`;
 	}
 };
 
+// ============================================================================
+// 3. String & Field Parser
+// ============================================================================
 const Parser = {
-	getDotVal: (obj, path) => path.split('.').reduce((acc, part) => acc && acc[part], obj) || "",
-	extract: function (node, pattern, type, docCtx) {
+	getDotVal: (obj, path) => path.split('.').reduce((acc, part) => acc?.[part], obj) ?? "",
+
+	resolveUrl: (url, base) => {
+		if (!url || !base) return url || "";
+		try {
+			return new URL(url, base).href;
+		} catch {
+			return `${base.replace(/\/+$/, "")}/${url.replace(/^\/+/, "")}`;
+		}
+	},
+
+	extract: (node, pattern, type, docCtx) => {
 		if (!pattern) return "";
 		if (type === "json") {
 			const clean = pattern.replace(/^`|`$/g, "");
-			return clean.includes("${") ? clean.replace(/\$\{([^}]+)\}/g, (_, p) => this.getDotVal(node, p.trim())) : this.getDotVal(node, clean);
+			return clean.includes("${") 
+				? clean.replace(/\$\{([^}]+)\}/g, (_, p) => Parser.getDotVal(node, p.trim())) 
+				: Parser.getDotVal(node, clean);
 		}
 		if (type === "xpath") {
-			try { return (docCtx || node.ownerDocument || node).evaluate(pattern, node, null, XPathResult.STRING_TYPE, null).stringValue.trim(); }
-			catch (e) { return ""; }
+			try {
+				const ctx = docCtx || node.ownerDocument || node;
+				return ctx.evaluate(pattern, node, null, XPathResult.STRING_TYPE, null).stringValue.trim();
+			} catch {
+				return "";
+			}
 		}
 		if (type === "regex") {
 			const m = node.match(new RegExp(pattern, "i"));
-			return m ? (m[1] || "").trim() : "";
+			return (m?.[1] ?? "").trim();
 		}
 		return "";
 	}
 };
 
+// ============================================================================
+// 4. GitHub Utility
+// ============================================================================
 const GitHub = {
-	b64Encode: (str) => btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (_, p1) => String.fromCharCode(parseInt(p1, 16)))),
-	b64Decode: (str) => decodeURIComponent(Array.prototype.map.call(atob(str), c => "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2)).join("")),
-	getCommitMessage: function () {
-		const now = new Date();
-		const pad = n => (n < 10 ? "0" : "") + n;
-		return `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}`;
-	}
+	b64Encode: str => btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (_, p1) => String.fromCharCode(parseInt(p1, 16)))),
+	b64Decode: str => decodeURIComponent([...atob(str)].map(c => `%${c.charCodeAt(0).toString(16).padStart(2, "0")}`).join("")),
+	getCommitMessage: () => DateUtil.formatNow()
 };
 
+// ============================================================================
+// 5. Site Rules & Registry
+// ============================================================================
 const Sites = {
-	// 1. 방위사업청 게시판 맵핑
 	dapaBoards: {
 		"443": { menuSeq: "3031", title: "공지사항" },
 		"326": { menuSeq: "3069", title: "보도자료" },
@@ -100,8 +160,8 @@ const Sites = {
 	},
 
 	createDapaConfig: function (bbsSeq) {
-		bbsSeq = String(bbsSeq).trim();
-		const b = this.dapaBoards[bbsSeq];
+		bbsSeq = String(bbsSeq || "443").trim();
+		const b = this.dapaBoards[bbsSeq] || { menuSeq: "3031", title: "공지사항" };
 		return {
 			feedName: `dapa.go.kr_${b.title}`,
 			dataUrl: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
@@ -122,7 +182,7 @@ const Sites = {
 					it.description = FeedProcessor.cleanHtml(it.description, /<\/p><p\b[^>]*>\s*<br\/?>\s*<\/p><p\b/.test(it.description));
 					return it;
 				})
-				.filter(it => it.title.length > 0),
+				.filter(it => Boolean(it.title?.trim())),
 			testCases: {
 				url: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
 				method: "GET"
@@ -130,7 +190,6 @@ const Sites = {
 		};
 	},
 
-	// 2. 등록된 개별 사이트 정의 (정적/독립 사이트)
 	definitions: {
 		"ddaily": {
 			feedName: "ddaily.co.kr",
@@ -144,23 +203,20 @@ const Sites = {
 				pubDate: "publish_date",
 				description: "body_text"
 			},
-			excludeCategories: new Set(["게임", "경제", "공연/전시","금융", "방송", "생활경제", "증권", "통신*방송"]),
+			excludeCategories: new Set(["게임", "경제", "공연/전시", "금융", "방송", "생활경제", "증권", "통신*방송"]),
 			postProcess: function (items) {
 				return items
-					.filter(it => !this.excludeCategories.has(it?._raw.category_name?.trim() || ""))
+					.filter(it => !this.excludeCategories.has(it?._raw?.category_name?.trim() || ""))
 					.map(it => {
 						const raw = it._raw || {};
 
-						// A. 작성자 파싱
 						try {
 							const bylines = typeof raw.by_line_list === "string" ? JSON.parse(raw.by_line_list) : raw.by_line_list;
 							if (Array.isArray(bylines)) it.author = bylines.map(v => v.ca_writer_byline).filter(Boolean).join(", ");
-						} catch (e) {}
+						} catch {}
 
-						// B. 카테고리 매핑
 						it.category = raw.category_name || "";
 
-						// C. 대표 이미지 및 figure 조립
 						let figureHtml = "";
 						try {
 							const photos = typeof raw.rep_photo === "string" ? JSON.parse(raw.rep_photo) : raw.rep_photo;
@@ -171,18 +227,16 @@ const Sites = {
 									return `<figure><img src="https://www.ddaily.co.kr/photos/${v.path}/${filename}"/>${caption}</figure>`;
 								}).join("");
 							}
-						} catch (e) {}
+						} catch {}
 
-						// D. 본문 개행 및 결합
 						const body = (raw.body_text || "").trim().replace(/\n/g, "<br/>");
 						it.description = figureHtml ? `${figureHtml}<br/>\n${body}` : body;
 
-						// E. 타임존 보정 (+09:00)
 						if (it.pubDate && !it.pubDate.includes("+") && !it.pubDate.includes("Z")) {
 							it.pubDate = `${it.pubDate.trim()}+09:00`;
 						}
 						return it;
-				    })
+					})
 					.filter(it => it.title && it.link);
 			},
 			testCases: {
@@ -194,7 +248,6 @@ const Sites = {
 		}
 	},
 
-	// 3. 사이트 ID 해석기
 	resolve: function (siteId, params) {
 		if (!siteId) return null;
 		if (siteId.startsWith("dapa")) {
@@ -205,18 +258,19 @@ const Sites = {
 	}
 };
 
+// ============================================================================
+// 6. Core Feed Processor
+// ============================================================================
 const FeedProcessor = {
 	cleanHtml: (html, pToDiv = false) => (html || "").replace(/<\/?([a-zA-Z0-9]+)(?:\s+[^>]*)?>/gi, (m, tag) => {
 		tag = tag.toLowerCase();
 		const closing = m.startsWith("</");
 		if (tag === "a") return closing ? "</a>" : `<a href="${(m.match(/\bhref=(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i) || [])[1] || "#"}">`;
 		if (pToDiv && tag === "p") return closing ? "</div>" : "<div>";
-		if (tag === "br") return "<br/>"
-		if (tag === "span" || tag === "script" || tag === "style") return "";
+		if (tag === "br") return "<br/>";
+		if (["span", "script", "style"].includes(tag)) return "";
 		return closing ? `</${tag}>` : `<${tag}>`;
 	}).trim(),
-
-	resolveUrl: (url, base) => (url && !url.startsWith("http")) ? `${base.replace(/\/+$/, "")}/${url.replace(/^\/+/, "")}` : url,
 
 	sortDesc: list => list.sort((a, b) => (b.timestamp - a.timestamp) || (b.secondaryId - a.secondaryId)),
 
@@ -231,12 +285,15 @@ ${xmlItems}
 \t</channel>
 </rss>`,
 
-	getFeedName: function (siteId, params) {
-		const config = Sites.resolve(siteId, params);
-		return config?.feedName || siteId;
+	itemToXml: it => {
+		const authorTag = it.author ? `\n\t\t\t<author>${Xml.escape(it.author)}</author>` : "";
+		const categoryTag = it.category ? `\n\t\t\t<category>${Xml.escape(it.category)}</category>` : "";
+		return `<item>\n\t\t\t<title>${Xml.escape(it.title)}</title>\n\t\t\t<link>${Xml.escape(it.link)}</link>\n\t\t\t<guid isPermaLink="true">${Xml.escape(it.link)}</guid>${authorTag}${categoryTag}\n\t\t\t<pubDate>${DateUtil.toRfc822(it.pubDate)}</pubDate>\n\t\t\t<description>${Xml.wrapCdata(it.description)}</description>\n\t\t</item>`;
 	},
 
-	// 1. 소스 데이터 파싱 (원본 _raw 유지)
+	getFeedName: (siteId, params) => Sites.resolve(siteId, params)?.feedName || siteId,
+
+	// 1. 소스 데이터 파싱
 	parse: function (config, rawData) {
 		if (!rawData) return [];
 		let items = [];
@@ -247,7 +304,7 @@ ${xmlItems}
 			if (Array.isArray(list)) {
 				items = list.map(it => ({
 					title: Parser.extract(it, config.fields.title, "json"),
-					link: this.resolveUrl(Parser.extract(it, config.fields.link, "json"), config.channelLink),
+					link: Parser.resolveUrl(Parser.extract(it, config.fields.link, "json"), config.channelLink),
 					pubDate: Parser.extract(it, config.fields.pubDate, "json"),
 					description: Parser.extract(it, config.fields.description, "json"),
 					author: Parser.extract(it, config.fields.author, "json"),
@@ -255,15 +312,14 @@ ${xmlItems}
 					_raw: it
 				}));
 			}
-		} 
-		else if (config.dataType === "xpath") {
+		} else if (config.dataType === "xpath") {
 			const doc = new DOMParser().parseFromString(rawData, "text/html");
 			const nodes = doc.evaluate(config.itemPattern, doc, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
 			for (let i = 0; i < nodes.snapshotLength; i++) {
 				const node = nodes.snapshotItem(i);
 				items.push({
 					title: Parser.extract(node, config.fields.title, "xpath", doc).replace(/<[^>]+>/g, ""),
-					link: this.resolveUrl(Parser.extract(node, config.fields.link, "xpath", doc), config.channelLink),
+					link: Parser.resolveUrl(Parser.extract(node, config.fields.link, "xpath", doc), config.channelLink),
 					pubDate: Parser.extract(node, config.fields.pubDate, "xpath", doc).replace(/<[^>]+>/g, ""),
 					description: Parser.extract(node, config.fields.description, "xpath", doc),
 					author: Parser.extract(node, config.fields.author, "xpath", doc),
@@ -271,14 +327,12 @@ ${xmlItems}
 					_raw: node
 				});
 			}
-		}
-		else if (config.dataType === "regex") {
+		} else if (config.dataType === "regex") {
 			const blockRegex = new RegExp(config.itemPattern, "gi");
 			const matches = rawData.match(blockRegex) || [];
-
 			items = matches.map(block => ({
 				title: Parser.extract(block, config.fields.title, "regex").replace(/<[^>]+>/g, "").trim(),
-				link: this.resolveUrl(Parser.extract(block, config.fields.link, "regex"), config.channelLink),
+				link: Parser.resolveUrl(Parser.extract(block, config.fields.link, "regex"), config.channelLink),
 				pubDate: Parser.extract(block, config.fields.pubDate, "regex").replace(/<[^>]+>/g, "").trim(),
 				description: Parser.extract(block, config.fields.description, "regex"),
 				author: Parser.extract(block, config.fields.author, "regex").replace(/<[^>]+>/g, "").trim(),
@@ -290,7 +344,7 @@ ${xmlItems}
 		return items;
 	},
 
-	// 2. 단일 피드 생성 (신규 데이터 + 이전 피드)
+	// 2. 단일 피드 빌드
 	buildFeed: function (siteId, rawData, oldRss, params) {
 		const config = Sites.resolve(siteId, params);
 		if (!config || !rawData) return { xml: oldRss || "", isChanged: false };
@@ -313,20 +367,18 @@ ${xmlItems}
 			const key = Xml.getItemKey(xml);
 			if (key && !seenKeys.has(key)) {
 				seenKeys.add(key);
-				mergedList.push({ isRaw: false, xml: xml, key: key, timestamp: DateUtil.getTimestamp(xml), secondaryId: Xml.getSecondaryId(xml) });
+				mergedList.push({ isRaw: false, xml, key, timestamp: DateUtil.getTimestamp(xml), secondaryId: Xml.getSecondaryId(xml) });
 			}
 		});
 
 		const top10 = this.sortDesc(mergedList).slice(0, 10);
 		const isChanged = oldRawItems.slice(0, 10).map(Xml.getItemKey).join("|") !== top10.map(it => it.key).join("|");
 
+		// 신규 생성 및 기존 항목 모두 앞에 \t\t 들여쓰기 강제 보정
 		const xmlItems = top10.map(entry => {
-			if (!entry.isRaw) return entry.xml;
-			const it = entry.item;
-			const authorTag = it.author ? `\n\t\t\t<author>${Xml.escape(it.author)}</author>` : "";
-			const categoryTag = it.category ? `\n\t\t\t<category>${Xml.escape(it.category)}</category>` : "";
-
-			return `\t\t<item>\n\t\t\t<title>${Xml.escape(it.title)}</title>\n\t\t\t<link>${Xml.escape(it.link)}</link>\n\t\t\t<guid isPermaLink="true">${Xml.escape(it.link)}</guid>${authorTag}${categoryTag}\n\t\t\t<pubDate>${DateUtil.toRfc822(it.pubDate)}</pubDate>\n\t\t\t<description>${Xml.wrapCdata(it.description)}</description>\n\t\t</item>`;
+			const rawXml = entry.isRaw ? this.itemToXml(entry.item) : entry.xml;
+			const trimmed = rawXml.trim();
+			return trimmed.startsWith("<item") ? `\t\t${trimmed}` : trimmed;
 		}).join("\n");
 
 		return { xml: this.assembleXml(config.channelTitle, config.channelLink, xmlItems), isChanged };
@@ -348,12 +400,12 @@ ${xmlItems}
 			});
 		});
 
-		const topItemsXml = this.sortDesc(mergedList).slice(0, limit).map(it => it.xml).join("\n");
-		const base = (baseXml || feedXmlList?.[0] || "").replace(/<item\b[\s\S]*?<\/item>/gi, "").replace(/(\r?\n\s*){2,}/g, "\n");
-		return /<\/channel>/i.test(base) ? base.replace(/<\/channel>/i, `${topItemsXml}\n\t</channel>`) : `${base}\n${topItemsXml}`;
+		const topItems = this.sortDesc(mergedList).slice(0, limit).map(it => it.xml);
+		const base = baseXml || feedXmlList?.[0] || "";
+		return Xml.injectItemsToChannel(base, topItems);
 	},
 
-	// 4. 대용량/해외 차단 피드 경량화 최적화
+	// 4. 피드 경량화 최적화
 	optimizeFeed: function (newXml, oldXml, limit = 10) {
 		if (!newXml) return { xml: oldXml || "", isChanged: false };
 		const newRaw = Xml.getItems(newXml);
@@ -366,28 +418,23 @@ ${xmlItems}
 			const key = Xml.getItemKey(cleaned);
 			if (key && !seenKeys.has(key)) {
 				seenKeys.add(key);
-				mergedList.push({ xml: cleaned, key: key, timestamp: DateUtil.getTimestamp(cleaned), secondaryId: Xml.getSecondaryId(cleaned) });
+				mergedList.push({ xml: cleaned, key, timestamp: DateUtil.getTimestamp(cleaned), secondaryId: Xml.getSecondaryId(cleaned) });
 			}
 		});
 
 		const topItems = this.sortDesc(mergedList).slice(0, limit);
 		const isChanged = oldRaw.slice(0, limit).map(Xml.getItemKey).join("|") !== topItems.map(it => it.key).join("|");
 
-		const cleanBase = newXml.replace(/<item\b[\s\S]*?<\/item>/gi, "").replace(/(\r?\n\s*){2,}/g, "\n");
-		const bodyXml = topItems.map(it => it.xml).join("\n");
-		const finalXml = /<\/channel>/i.test(cleanBase) ? cleanBase.replace(/<\/channel>/i, `${bodyXml}\n\t</channel>`) : `${cleanBase}\n${bodyXml}`;
-
-		return { xml: finalXml, isChanged };
+		return { xml: Xml.injectItemsToChannel(newXml, topItems.map(it => it.xml)), isChanged };
 	},
 
-	// 5. GitHub 업로드용 페이로드 생성 및 동기화 검사
+	// 5. GitHub 동기화 페이로드 생성
 	prepareGithubPayload: function (newContent, httpData, httpCode) {
 		if (!newContent) return { shouldSkip: true, payload: "" };
 
 		let currentSha = "";
 		let oldContent = "";
 
-		// 기존 GitHub 파일 파싱
 		if (httpData && (!httpCode || String(httpCode) === "200")) {
 			try {
 				const resData = JSON.parse(httpData);
@@ -395,122 +442,89 @@ ${xmlItems}
 				if (resData.content) {
 					oldContent = GitHub.b64Decode(resData.content.replace(/\s/g, ""));
 				}
-			} catch (e) {}
+			} catch {}
 		}
 
 		const oldItems = Xml.getItems(oldContent);
 		const newItems = Xml.getItems(newContent);
-		const itemMap = {};
+		const itemMap = new Map();
 
-		// 1) 기존 피드 아이템 등록
-		for (let i = 0; i < oldItems.length; i++) {
-			const ok = Xml.getItemKey(oldItems[i]);
-			if (ok) itemMap[ok] = oldItems[i];
+		for (const xml of oldItems) {
+			const key = Xml.getItemKey(xml);
+			if (key) itemMap.set(key, xml);
+		}
+		for (const xml of newItems) {
+			const key = Xml.getItemKey(xml);
+			if (key) itemMap.set(key, xml);
 		}
 
-		// 2) 신규 피드 아이템 덮어쓰기
-		for (let j = 0; j < newItems.length; j++) {
-			const nk = Xml.getItemKey(newItems[j]);
-			if (nk) itemMap[nk] = newItems[j];
-		}
-
-		// 3) 최신순 정렬 (pubDate 1차, 식별자 2차)
-		const mergedList = Object.keys(itemMap).map(k => ({
-			xml: itemMap[k],
-			timestamp: DateUtil.getTimestamp(itemMap[k]),
-			secondaryId: Xml.getSecondaryId(itemMap[k])
+		const mergedList = [...itemMap.values()].map(xml => ({
+			xml,
+			timestamp: DateUtil.getTimestamp(xml),
+			secondaryId: Xml.getSecondaryId(xml)
 		}));
 
-		this.sortDesc(mergedList);
-
-		const top10 = mergedList.slice(0, 10);
-		const mergedItemsXml = top10.map(it => it.xml).join("\t\t");
-
-		// 4) 변경 여부 대조 (상위 10개 키 시퀀스 비교)
+		const top10 = this.sortDesc(mergedList).slice(0, 10);
 		const oldKeys = oldItems.slice(0, 10).map(Xml.getItemKey).join("|");
 		const newKeys = top10.map(it => Xml.getItemKey(it.xml)).join("|");
 
-		if (currentSha && oldKeys && oldKeys === newKeys) return { shouldSkip: true, payload: "" };
+		if (currentSha && oldKeys && oldKeys === newKeys) {
+			return { shouldSkip: true, payload: "" };
+		}
 
-		// 5) 최종 XML 재조립 및 페이로드 구성
 		const baseXml = newContent || oldContent;
-		const cleanXml = baseXml.replace(/<item\b[\s\S]*?<\/item>/gi, "").replace(/(\r?\n\s*){2,}/g, "\n");
-		const finalFeedXml = /<\/channel>/i.test(cleanXml)
-			? cleanXml.replace(/<\/channel>/i, mergedItemsXml + "\n\t</channel>")
-			: `${cleanXml}\n${mergedItemsXml}`;
+		const finalFeedXml = Xml.injectItemsToChannel(baseXml, top10.map(it => it.xml));
 
 		const payloadObj = {
 			message: GitHub.getCommitMessage(),
-			content: GitHub.b64Encode(finalFeedXml)
+			content: GitHub.b64Encode(finalFeedXml),
+			...(currentSha && { sha: currentSha })
 		};
 
-		if (currentSha) {
-			payloadObj.sha = currentSha;
-		}
-
-		return {
-			shouldSkip: false,
-			payload: JSON.stringify(payloadObj)
-		};
+		return { shouldSkip: false, payload: JSON.stringify(payloadObj) };
 	}
 };
 
-//const getFeedName = (siteId, params) => FeedProcessor.getFeedName(siteId, params);
-//const buildFeed = (siteId, raw, old, params) => FeedProcessor.buildFeed(siteId, raw, old, params);
+// ============================================================================
+// 7. Tasker 인터페이스 래퍼
+// ============================================================================
 const mergeFeeds = (list, base, limit) => FeedProcessor.mergeFeeds(list, base, limit);
-//const optimizeFeed = (src, old, limit) => FeedProcessor.optimizeFeed(src, old, limit);
-//const prepareGithubPayload = (content, httpData, httpCode) => FeedProcessor.prepareGithubPayload(content, httpData, httpCode);
 
 function getFeedName(siteId, params) {
-    const feed_name = FeedProcessor.getFeedName(siteId, params);
-
-    if (typeof setLocal === "function") {
-        setLocal("%feed_name", feed_name);
-    }
+	const feed_name = FeedProcessor.getFeedName(siteId, params);
+	if (typeof setLocal === "function") {
+		setLocal("%feed_name", feed_name);
+	}
+	return feed_name;
 }
 
 function optimizeFeed(new_xml, old_xml, limit = 10) {
-    const result = FeedProcessor.optimizeFeed(new_xml, old_xml, limit);
-
-    const feed_changed = result.isChanged.toString();
-    const feed_xml = result.xml;
-
-    if (typeof setLocal === "function") {
-        setLocal("%feed_changed", feed_changed);
-        setLocal("%feed_xml", feed_xml);
-        setLocal("%feed_xml_length", feed_xml.length);
-    }
+	const result = FeedProcessor.optimizeFeed(new_xml, old_xml, limit);
+	if (typeof setLocal === "function") {
+		setLocal("%feed_changed", String(result.isChanged));
+		setLocal("%feed_xml", result.xml);
+		setLocal("%feed_xml_length", String(result.xml.length));
+	}
+	return result;
 }
 
-function buildFeed(siteId, http_data, old_xml, params = {}) {
-    const raw = (typeof http_data !== "undefined") ? http_data : "";
-    const old = (typeof old_xml !== "undefined") ? old_xml : "";
-
-    const result = FeedProcessor.buildFeed(siteId, raw, old, params);
-    const feed_changed = result.isChanged.toString();
-    const feed_xml = result.xml;
-
-    if (typeof setLocal === "function") {
-        setLocal("%feed_changed", feed_changed);
-        setLocal("%feed_xml", feed_xml);
-        setLocal("%feed_xml_length", feed_xml.length);
-    }
+function buildFeed(siteId, http_data = "", old_xml = "", params = {}) {
+	const result = FeedProcessor.buildFeed(siteId, http_data, old_xml, params);
+	if (typeof setLocal === "function") {
+		setLocal("%feed_changed", String(result.isChanged));
+		setLocal("%feed_xml", result.xml);
+		setLocal("%feed_xml_length", String(result.xml.length));
+	}
+	return result;
 }
 
-function prepareGithubPayload(content, http_data, http_response_code) {
-    content = (typeof content !== "undefined") ? content : "";
-    http_data = (typeof http_data !== "undefined") ? http_data : "";
-    http_response_code = (typeof http_response_code !== "undefined") ? String(http_response_code) : "";
-
-    const res = FeedProcessor.prepareGithubPayload(content, http_data, http_response_code);
-
-    const should_skip = res.shouldSkip.toString();
-    const gh_payload = res.payload;
-
-    if (typeof setLocal === "function") {
-        setLocal("%should_skip", should_skip);
-        setLocal("%gh_payload", gh_payload);
-    }
+function prepareGithubPayload(content = "", http_data = "", http_response_code = "") {
+	const result = FeedProcessor.prepareGithubPayload(content, http_data, String(http_response_code));
+	if (typeof setLocal === "function") {
+		setLocal("%should_skip", String(result.shouldSkip));
+		setLocal("%gh_payload", result.payload);
+	}
+	return result;
 }
 
 let main = function() {
