@@ -4,8 +4,57 @@
 <title>시큐리티팩트</title>
 <link>https://www.securityfact.co.kr</link>
 <description>시큐리티팩트 – 육해공/해병 국방전문가의 심층분석 안보 매체</description>
-<atom:updated>2026-09-14T14:25:31+09:00</atom:updated>
-<atom:published>2026-09-14T14:25:31+09:00</atom:published>
+<atom:updated>2026-09-14T18:39:06+09:00</atom:updated>
+<atom:published>2026-09-14T18:39:06+09:00</atom:published>
+<item>
+<guid>7925</guid>
+<title><![CDATA[러시아, 저가 제트추진 드론·순항미사일 우크라이나 전장에 투입]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7925</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7925</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7925" rel="related"/>
+
+<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 러시아가 제트엔진을 장착한 신형 공격드론 ‘게란-5(Geran-5)’와 저가형 순항미사일 ‘반데롤(Banderol)’을 우크라이나 전장에 투입하며 장거리 타격 수단을 확대하고 있다.</p>
+<p>
+   <br />
+</p>
+<p>14일(현지시각) 월스트리트저널(WSJ)에 따르면 게란-5와 반데롤의 가격은 각각 약 10만 달러(약 1억3440만 원)로 추정된다. 200만 달러(약 26억8800만 원)가 넘는 미국의 토마호크 등 고성능 순항미사일과 비교하면 20분의 1 수준이다. 드론 위협 분석업체 드론섹(DroneSec)의 마이크 모닉 대표는 게란-5를 사실상 ‘저가형 순항미사일’로 평가했다.</p>
+<p>
+   <br />
+</p>
+<p>게란-5는 프로펠러를 사용하는 기존 샤헤드(Shahed) 계열과 달리 고정익 동체에 제트엔진을 탑재했다. 우크라이나 국방정보국(GUR)에 따르면 최고속도는 시속 600㎞, 탄두 중량은 90㎏이며 최대 1000㎞를 비행할 수 있다. 외형은 이란제 카라르(Karrar) 무인기와 비슷한 것으로 분석됐다. GUR은 올해 1월 초 러시아의 공습 이후 처음으로 게란-5 잔해를 확인했다.</p>
+<p>
+   <br />
+</p>
+<p>러시아는 이보다 작은 제트추진 드론 ‘게란-4’도 운용하고 있다. 길이 3.5m인 게란-4는 최고 시속 500㎞로 비행할 수 있으며, 올해 1월까지 양산 준비를 위한 시험발사를 진행한 뒤 5월부터 우크라이나 공격에 사용됐다. 시험 단계에서 실전 투입으로 이어지는 속도가 빨랐다는 평가다.</p>
+<p>
+   <br />
+</p>
+<p>게란-5와 반데롤은 저렴한 가격을 바탕으로 여러 발을 동시에 투입해 방공망을 소모시키는 포화 공격에 활용될 수 있다. 제트추진형은 기존 프로펠러형보다 속도가 빨라 탐지한 뒤 요격할 수 있는 시간이 짧다. 방어 측이 격추 가능성을 높이기 위해 한 표적에 복수의 요격체를 투입하면 비용 부담도 커진다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper" style="text-align: center;">
+   
+</div>
+<p>&nbsp;</p>
+<p>GUR이 공개한 잔해 분석 자료에는 미국산 디지털 신호처리칩과 무선 송수신기, 중국산 제트엔진과 통신용 메시 네트워크 모뎀, 독일산 반도체 등이 포함됐다. 제재와 수출통제에도 러시아가 여러 국가에서 생산된 민수용 부품을 계속 확보하고 있음을 보여주는 대목이다. 중국은 군사적으로 전용될 수 있는 기술의 수출을 통제하고 있다는 입장이다.</p>
+<p>
+   <br />
+</p>
+<p>드론섹은 게란 계열에 사용되는 중국산 제트엔진 가격을 4만5000달러(약 6000만 원) 이하로 추정했다. 북대서양조약기구(NATO·나토) 회원국들은 향후 5년간 400억 달러(약 53조7600억 원) 이상을 대드론 역량 강화에 투입할 계획이지만, 저가 공격무기와 고가 요격체계 사이의 비용 격차는 당분간 이어질 것으로 보인다.</p>
+<p>
+   <br />
+</p>
+]]></description>
+
+<atom:category label="무기체계|글로벌" term="20250407120846_2514|20250407120859_3077"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-09-14T18:39:06+09:00</atom:updated>
+<pubDate>2026-09-14T18:39:06+09:00</pubDate>
+</item>
 <item>
 <guid>7924</guid>
 <title><![CDATA[소버린월렛, 메타무이 양자내성 메인넷 하드포크 성공]]></title>
@@ -17,7 +66,7 @@
    <br />
 </p>
 <p style="text-align: center;">
-   <img src="https://www.securityfact.co.kr/data/tmp/2609/20260914142441_ezmncowy.png" alt="20260914 양자내성.png" style="width: 100%; height: auto;" />
+   
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -87,9 +136,7 @@
 
 <description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260914133832_qutxrcwf.jpg" alt="20260914 중 폭격기.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">중국 전략 폭격기 H-6N/출처=바이두</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <p><br /></p>
@@ -108,9 +155,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JL-1_2025_V-J_Parade_CNS.png/330px-JL-1_2025_V-J_Parade_CNS.png?utm_source=ko.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">중국의 공대지 탄도미사일 'JL-1(징레이-1)/출처=위키백과</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <h3>사거리 8000km 'JL-1' ALBM 결합…작전반경 1만1000km 확보</h3>
@@ -127,9 +172,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://i.insider.com/5d8bb8c5f4fc2422920df9e2?width=800&amp;format=jpeg&amp;auto=webp" alt="B 21 Stealth Bomber" style="width: 100%; height: auto;" /><br />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미국 스텔스 전략 폭격기 'B-21'/출처=노스롭 그루먼</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <h3>미·러·중 3국의 공중 발사 전략 무기 경쟁 격화</h3>
@@ -139,9 +182,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://thedefensepost.com/wp-content/uploads/2018/03/tupolev-tu-160-strategic-bomber.jpg" alt="Tupolev Tu-160 strategic bomber" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">러시아 초음속 가변익 폭격기 'Tu-160M'/출처=위키미디어</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <p>러시아는 초음속 가변익 폭격기인 Tu-160M과 고속 요격기인 MiG-31K를 핵심 플랫폼으로 삼아 지상발사 탄도미사일을 공중발사형으로 개조한 Kh-47M2 킨잘(Kinzhal)을 세계 최초로 실전 투입했다. 또한 Kh-102 핵순항미사일을 통해 독자적인 장거리 핵억지력을 지속 발휘하고 있다.</p>
@@ -169,10 +210,7 @@
    <br />
 </p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2609/20260914124821_lhlxedac.jpg" alt="20260914 해병대.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">한국, 인니, 미국 등 참가국 장병들이 지난 1일 람풍 일대에서 정글전 생존훈련을 실시하고 있다./사진=해병대 제공</figcaption>
-   </figure>
+   
    </div>
 <p>&nbsp;</p>
 <p>
@@ -190,10 +228,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://imgnews.pstatic.net/image/003/2026/09/14/NISI20260914_0021435970_web_20260914090642_20260914090840851.jpg?type=w860" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">한국, 인니, 미국 등 참가국 장병들이 지난 5일 람풍 일대에서 정글전 FTX를 하는 모습.사진=해병대 제공</figcaption>
-   </figure>
+   
    </div>
 <p>&nbsp;</p>
 <h3>정글 생존부터 실전 FTX까지…야간·극한 환경 전술 강화</h3>
@@ -205,10 +240,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://imgnews.pstatic.net/image/003/2026/09/14/NISI20260914_0021435972_web_20260914090642_20260914090836141.jpg?type=w860" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">한국, 인니, 미국 등 참가국 장병들이 지난 5일 람풍 일대에서 분대 전투에 앞서 전술토의를 실시하고 있다./사진=해병대 제공</figcaption>
-   </figure>
+   
    </div>
 <p>&nbsp;</p>
 <h3>연합참모·사이버전(CYBEREX) 첫 동시 참전…지휘소 연습(CPX) 기반 마련</h3>
@@ -221,9 +253,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/003/2026/09/14/NISI20260914_0021435965_web_20260914090529_20260914090628804.jpg?type=w860" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">지난 8월 21일 한-인니 장병들이 PMPP센터 사격장에서 근접전투(CQB) 훈련을 실시하고 있다./사진=해병대 제공</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <h3>사전 '한-인니 특수전 훈련' 연계…근접전투·고공강하 전술 교류</h3>
@@ -251,10 +281,7 @@
 <atom:link href="https://www.securityfact.co.kr/news/view.php?no=7921" rel="related"/>
 
 <description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260914065728_ixhfdgzr.jpg" alt="샘 올트먼 오픈AI 대표. 출처=연합뉴스.jpg" style="width: 720px; height: 595px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">샘 올트먼 오픈AI 대표. 출처=연합뉴스</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <p>[뉴스투데이=최미옥 기자] 글로벌 벤처 투자금이 인공지능(AI)을 비롯한 미래 산업의 소수 비상장 기업으로 빠르게 몰리고 있다. 챗GPT 개발사 오픈AI와 클로드 개발사 앤트로픽이 지금까지 유치한 지분 투자액만 합계 3020억 달러(약 405조8800억 원)에 이른다. 이는 크런치베이스(Crunchbase)가 최근 집계한 전 세계 유니콘 기업 누적 투자액의 약 19.1%에 해당한다.</p>
@@ -269,10 +296,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260914065907_mcsqmntk.jpg" alt="다리오 아모데이 앤트로픽 최고경영자(CEO). 출처=로이터 연합뉴스.jpg" style="width: 720px; height: 479px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">다리오 아모데이 앤트로픽 최고경영자(CEO). 출처=로이터 연합뉴스</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <h3>■ AI 양강, 3000억 달러 넘게 흐르다</h3>
@@ -300,10 +324,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260914065941_igrhovtw.jpg" alt="알파벳 계열인 웨이모의 자율주행차.jpg" style="width: 720px; height: 458px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">알파벳 계열인 웨이모의 자율주행차</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <h3>■ 웨이모·데이터브릭스도 200억 달러 돌파</h3>
@@ -333,10 +354,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260914070034_uwgzsppv.jpg" alt="팔머 럭키(Palmer Luckey) 안두릴 CEO.jpg" style="width: 720px; height: 552px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">팔머 럭키(Palmer Luckey) 안두릴 CEO</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <h3>■ 투자 열기 뒤에 남은 수익성 과제</h3>
@@ -368,9 +386,7 @@
 
 <description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260911152945_bdiszliv.jpg" alt="20260911 러시아 정교회.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">지난 9월 6일 시내 행렬에서 운구자들이 중세 러시아 공작 드미트리 돈스코이의 유물 상자를 들고 이동하고 있다./사진=모스크바뉴스에이전시 로이터</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <p><br /></p>
@@ -410,9 +426,7 @@
 
 <description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260911144320_zguqhtxs.jpg" alt="20260911 해상자위대 잠수함.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">일본 해상자위대 잠수함/사진=교토연합뉴스</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <p><br /></p>
@@ -429,9 +443,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://img.hankyung.com/photo/202609/01.45630520.1.jpg" alt="사진=로이터연합뉴스" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">중국 잠수함/사진=로이터연합뉴스</figcaption>
-      </figure>
+   
    </div>
 <p>&nbsp;</p>
 <p>일본이 이처럼 양자 드론 개발을 서두르는 배경에는 대만 유사시 및 남서도서 방어 과정에서 직면한 중국 잠수함 전력의 치명적인 위협이 자리 잡고 있다. 일본 방위백서에 따르면 2026년 기준 중국이 보유한 현대식 잠수함은 58척으로 해상자위대(20여 척)의 약 3배에 달한다.</p>
@@ -459,10 +471,7 @@
    <br />
 </p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2609/20260911135910_zwawngsc.jpg" alt="20260911 해사 순항훈련.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">해군사관학교 81기 사관생도 140여 명을 비롯해 승조원·지원요원·구간편승 인원 등 총 390여 명을 태우고 해군 순항훈련에 나선 4천500t급 훈련함 한산도함(ATH)./사진=해군</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <p>
@@ -496,11 +505,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 883px;">
-      <img src="https://imgnews.pstatic.net/image/001/2026/09/11/PYH2023101000140007100_P4_20260911100318201.jpg?type=w860" alt="미국 볼티모어에 입항한 한국 해군 순항훈련전단
-(볼티모어[美메릴랜드주]=연합뉴스) 김동현 특파원 = 한국 해군 순항훈련전단의 훈련함 한산도함(왼쪽)과 군수지원함 화천함이 9일(현지시간) 미국 볼티모어에 입항해 있다." style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2023년 훈련 당시 미국 볼티모어에 입항한 한국 해군 순항훈련전단 한산도함./사진=연합뉴스</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <p>하와이, 볼티모어 등 미국 내 4개 기항지에서는 6·25전쟁 참전용사와 교민을 초청해 AI(인공지능) 기술로 색채를 복원한 참전 사진전 및 함상 리셉션, 현지 봉사활동을 진행하며 한미동맹 강화에 기여한다. 미 해군 교육훈련사령부 등 주요 부대가 위치한 펜사콜라는 순항훈련 역사상 최초로 방문해 양국 해군 간 교류를 넓힌다.</p>
@@ -531,10 +536,7 @@
 <atom:link href="https://www.securityfact.co.kr/news/view.php?no=7917" rel="related"/>
 
 <description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260911081732_ypbooopi.jpg" alt="통합전투지휘체계(IBCS). 출처=노스롭 그루먼.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">통합전투지휘체계(IBCS). 출처=노스롭 그루먼</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <p>[시큐리티팩트=최미옥 기자] 미국 방산기업 노스롭 그루먼이 에스토니아와 폴란드 현지 업체를 앞세워 중부·동유럽 방산시장 공략을 확대한다. 에스토니아에서는 통합전투지휘체계(IBCS)의 유럽 내 통합·유지 기반을 마련하고, 폴란드에서는 부시마스터(Bushmaster) 기관포의 라이선스 생산과 정비·유지·보수(MRO)를 위한 계약을 체결했다.</p>
@@ -559,10 +561,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260911081834_kdnfppoh.jpg" alt="부시마스터(Bushmaster) 기관포. 출처=노스롭 그루먼.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">부시마스터(Bushmaster) 기관포. 출처=노스롭 그루먼</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <h3>폴란드 부시마스터 중구경 기관포 생산·MRO</h3>
@@ -578,10 +577,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260911081907_dptxhlvo.jpg" alt="E-2D 호크아이 공중조기경보통제기. 출처=노스롭 그루먼.jpg" style="width: 720px; height: 478px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">E-2D 호크아이 공중조기경보통제기. 출처=노스롭 그루먼</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <h3>폴란드 E-2D·레이드 헌터로 방공 범위 확대</h3>
@@ -621,10 +617,7 @@
 
 <description><![CDATA[<p style="text-align: center;">&nbsp;</p>
 <div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260911072759_zrbucvci.jpg" alt="록히드마틴의 GPS 위성.jpg" style="width: 720px; height: 720px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">록히드마틴의 GPS 위성. 출처=록히드마틴</figcaption>
-   </figure>
+   
 </div>
 <p>&nbsp;</p>
 <p>[시큐리티팩트=최미옥 기자] 록히드마틴이 미국 우주군의 차세대 위성위치확인시스템(GPS) 운용을 뒷받침할 지상체계 현대화 사업을 이어간다. 기존 시스템을 GPS IIIF 위성에 맞게 개량하고, 전파방해와 사이버 공격 속에서도 위치·항법·시각(PNT) 정보를 안정적으로 제공하는 것이 핵심이다.</p>
@@ -655,54 +648,6 @@
 <author>sc.minugi@gmail.com 최미옥 기자</author>
 <atom:updated>2026-09-11T07:30:27+09:00</atom:updated>
 <pubDate>2026-09-11T07:28:13+09:00</pubDate>
-</item>
-<item>
-<guid>7915</guid>
-<title><![CDATA[[SF 포커스] 펜타곤 ‘AI 슈퍼 앱’ 메이븐, 군수·예산까지 삼킨다]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7915</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7915</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7915" rel="related"/>
-
-<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260911003740_tlawwewx.jpg" alt="20260910 MSS.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 2월 20일 버지니아주 알링턴에서 한 주방위군 군인이 메이븐 스마트 시스템(MSS)의 인터페이스를 살피고 있다./사진=미 육군</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p>[시큐리티팩트=강태임 기자] 미 국방부(펜타곤)가 인공지능(AI) 기반 지휘통제 플랫폼인 ‘메이븐 스마트 시스템(MSS)’의 적용 범위를 군수, 전력 준비태세, 공급망, 예산에 이르기까지 국방 경영 및 작전 전반으로 대대적으로 확장하고 있다. 단순한 전술 표적화 도구를 넘어 펜타곤 전체를 관통하는 핵심 ‘슈퍼 앱(Everything App)’으로 체질 개선에 나선 것이다.</p>
-<p><br /></p>
-<p>9일(현지시간) 미 군사전문매체 디펜스원(Defense One)에 따르면 카메론 스탠리 미 국방부 최고디지털·인공지능책임자(CDAO)는 워싱턴 D.C.에서 열린 ‘빌링턴 사이버보안 서밋’에 참석해 “MSS가 기존 미군 인력이 데이터 분석에 사용하던 6~10개의 서로 다른 IT 시스템을 이미 성공적으로 대체했다”고 밝혔다.</p>
-<p><br /></p>
-<p>스탠리 CDAO는 이번 통합의 궁극적 목표로 ‘통합 데이터 사슬(Golden Thread)’ 개념을 제시했다. 최전방 센서에서 수집된 정보가 상급 부대로 집계·시각화되고 이를 바탕으로 최종 지휘관이 의사결정을 내려 작전을 실행하기까지의 전 과정을 하나의 일관된 데이터 사슬로 연결하겠다는 구상이다.</p>
-<p><br /></p>
-<h3>정보·작전 연계에서 ‘국방 경영 전반’으로… 횡적 통합 가속화</h3>
-<p>원래 MSS는 정보(Intel)와 작전(Ops) 기능을 실시간으로 연결해 표적화 속도를 극대화하는 용도로 개발됐다. 실제 최근 대(對)이란 작전 초기 당시 MSS는 수천 개에 달하는 표적을 번개 같은 속도로 선별하고 타격을 지원하며 강력한 전술적 유용성을 입증한 바 있다.</p>
-<p><br /></p>
-<p>그러나 국방부는 이 과정에서 단기적 표적 수집을 넘어 ‘90일 단위의 탄약 재고 및 수급 예측’을 포함한 종합적인 작전 지원 체계의 필요성을 절감했다. 이에 따라 CDAO는 부서 간 장벽을 허무는 ‘횡적 통합(Horizontal Integration)’ 작업에 착수했다. 부대별 전력 배치와 준비태세, 글로벌 공급망 교란 위험, 예산 집행 데이터 그리고 복잡한 작전 환경을 가상 검증하는 모델링·시뮬레이션(M&amp;S) 기능까지 MSS 단일 플랫폼 안으로 끌어들이고 있는 것이다.</p>
-<p><br /></p>
-<p>지휘통제 시스템의 속도감 역시 대폭 개선됐다. 과거 지휘관들이 정찰위성 영상을 받아보기까지 수시간을 대기해야 했다면 현재는 AI가 위성 이미지 내 표적을 자동 식별·검출한 결과물까지 포함해 단 몇 분 만에 지휘관 화면에 뿌려진다. 스탠리 CDAO는 “결국 군사 AI의 본질은 데이터에 기반해 더 나은 결정을 더 빠르게 내리는 것”이라고 강조했다.</p>
-<p><br /></p>
-<h3>민간 첨단 AI 및 상용 모델 적극 도입… 조달 체계도 개혁</h3>
-<p>펜타곤의 이 같은 변화는 민간의 거대언어모델(LLM)과 혁신적 조달 제도가 뒷받침하고 있다. 미 국방부의 대표 AI 포털인 ‘GenAI.mil’은 기존 구글의 제미나이(Gemini) 외에도 최근 오픈AI(OpenAI)와 xAI의 최신 프론티어 AI 모델들을 국방 보안 네트워크 내부로 전격 도입했다. 민간의 최첨단 기술을 군 전용 환경에서 안전하게 구동하는 구조다.</p>
-<p><br /></p>
-<p>조달 방식도 과거의 경직성을 탈피해 ‘상용 기술 우선(Commercial-First)’ 기조로 전환하고 있다. 수개월이 소요되던 전통적인 제안요청서(RFI/RFP) 절차 대신 국방 디지털 마켓플레이스인 ‘트레이드윈즈(Tradewinds)’와 기타거래권한(OTA)을 적극 활용하고 있다. 이를 통해 기업 선정을 단 수일 만에 끝내는 체계를 구축했으며 계약서 작성 및 임시 운용승인(ATO) 절차에도 AI 챗봇 및 자동화 시범 프로그램을 투입해 병목 현상을 해소하고 있다.</p>
-<p><br /></p>
-<p>아울러 미 국방부는 핵심 인프라를 직접 소유 및 개발하는 방식 대신 민간의 SaaS(서비스형 소프트웨어) 및 PaaS(서비스형 플랫폼) 모델을 수용해 라이선스 계약 기반으로 빠르게 기능을 업데이트하는 방식을 택했다. 상용 모델 위에 군의 고유 데이터를 결합해 맞춤형 AI 모델을 정교화하겠다는 전략이다.</p>
-<p><br /></p>
-<h3>파이브 아이즈·동맹국에 기술 전파… “기존 방식 고수가 가장 위험”</h3>
-<p>미 국방부는 이러한 AI 지휘통제 노하우를 파이브 아이즈(Five Eyes: 미국, 영국, 캐나다, 호주, 뉴질랜드)를 비롯해 일부 NATO 및 아시아 주요 동맹국들과 공유하며 연합 작전 능력을 강화하고 있다. 동맹국들이 겪을 수 있는 시행착오를 줄이고 플랫폼의 상호운용성을 극대화하기 위해서다.</p>
-<p><br /></p>
-<p>스탠리 CDAO는 “모든 국방 영역으로의 AI 확산은 국방부의 의지와 무관하게 일어날 수밖에 없는 불가피한 흐름”이라며 군이 재래식 절차의 디지털 전환을 서둘러야 한다고 지적했다.</p>
-<p><br /></p>
-<p>그는 끝으로 “우리가 과거에 해왔던 방식을 그대로 고수하는 것이 결코 위험을 줄이는 길이 아니다”라며 “오히려 과거의 방식을 답습하는 것이야말로 군 안보에 있어서 가장 위험한 행동”이라고 경고했다.</p>
-]]></description>
-
-<atom:category label="뉴테크" term="20250407121910_3900"/>
-<author>sfinfo365@gmail.com 강태임 기자</author>
-<atom:updated>2026-09-11T00:41:00+09:00</atom:updated>
-<pubDate>2026-09-11T00:40:46+09:00</pubDate>
 </item>
 	</channel>
 </rss>
