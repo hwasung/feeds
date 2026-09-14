@@ -67,6 +67,35 @@ https://www.g-enews.com/issuelist.php?ud=2019041402134303045&ct=g000000
 a[1]/span/text()
 a[1]/@href
 
+국민참여입법센터 (부처)행정예고
+https://opinion.lawmaking.go.kr/gcom/admpp?asndOfiNm=%EB%B0%A9%EC%9C%84%EC%82%AC%EC%97%85%EC%B2%AD
+//tr/td[@class="subject"]
+a/text()
+a/@href
+
+국민참여입법센터 (부처)입법예고
+https://opinion.lawmaking.go.kr/gcom/ogLmPp?cptOfiOrgCd=1690000
+//tr/td[@class="subject"]
+a/text()
+a/@href
+
+더구루 - K-방산
+https://theguru.co.kr/news/section.html?sec_no=108
+
+뉴스투데이 - 시큐리티팩트
+https://www.news2day.co.kr/list/23
+
+동아일보 - 윤상호 군사전문기자
+https://www.donga.com/news/search?query=%EC%9C%A4%EC%83%81%ED%98%B8%20%EA%B5%B0%EC%82%AC%EC%A0%84%EB%AC%B8%EA%B8%B0%EC%9E%90
+
+아시아경제 - 양낙규 기자
+https://www.asiae.co.kr/search/index.htm?keyword=%EC%96%91%EB%82%99%EA%B7%9C
+
+세계일보 - 국방
+https://www.segye.com/boxTemplate/newsList/box/newsList.do?dataPath=0101010700000&dataId=0101010700000&listSize=10&naviSize=10&page=null&dataType=list
+이데일리 - 김관용 기자
+https://www.edaily.co.kr/search/index?keyword=%EA%B9%80%EA%B4%80%EC%9A%A9&jname=%EA%B9%80%EA%B4%80%EC%9A%A9
+
 
 방위사업청 업무가이드북
 https://www.dapa.go.kr/dapa/pcm/pblictn/pblictnListView.do?seq=3&menuSeq=3043
@@ -108,18 +137,3 @@ https://ksp.etri.re.kr/ksp/plan-report/search
 td[3]/a/strong/text()
 td[3]/a/@href
 concat( 'https://ksp.etri.re.kr', td[4]/a/@href )
-
-
-국민참여입법센터 (부처)행정예고
-https://opinion.lawmaking.go.kr/gcom/admpp?asndOfiNm=%EB%B0%A9%EC%9C%84%EC%82%AC%EC%97%85%EC%B2%AD
-//tr/td[@class="subject"]
-a/text()
-a/@href
-
-국민참여입법센터 (부처)입법예고
-
-https://opinion.lawmaking.go.kr/gcom/ogLmPp?cptOfiOrgCd=1690000
-//tr/td[@class="subject"]
-a/text()
-a/@href
-
