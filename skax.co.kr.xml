@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 09 Sep 2026 22:00:03 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 14 Sep 2026 22:00:15 GMT</lastBuildDate>
+		<item>
+			<title>답변에서 실행으로, AI Agent의 활용도를 결정하는 업무 맥락</title>
+			<link>https://www.skax.co.kr/insight/trend/3850/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3850/</guid>
+			<pubDate>Mon, 14 Sep 2026 00:48:17 GMT</pubDate>
+			<description><![CDATA[같은 모델을 도입하고도 어떤 기업의 AI는 초안을 쓰고 이상 징후를 짚어내는데, 어떤 기업의 AI는 검색을 대신하는 데 그칩니다. 조회에 머물던 AI를 실행 주체로 끌어올리는 분기점은 모델 교체가 아니라면 과연 무엇일까요?]]></description>
+		</item>
 		<item>
 			<title>Agentic AI 시대 비용 경쟁력의 기준, 모델 규모가 아닌 AI 운영 전략</title>
 			<link>https://www.skax.co.kr/insight/trend/3848/</link>
@@ -82,12 +89,5 @@
 			<pubDate>Thu, 20 Aug 2026 04:27:17 GMT</pubDate>
 			<description><![CDATA[AI DC의 경쟁력은 얼마나 많은 GPU를 보유했느냐가 아니라 AI Workload를 얼마나 안정적이고 경제적으로 생산할 수 있느냐에 달려 있습니다. 이번 8월 MI리포트에서는 Out-Rack과 In-Rack을 중심으로 AI DC의 핵심 설계 요소를 살펴보고, GPU·네트워크·스토리지·전력·냉각·운영 소프트웨어를 아우르는 AI 인프라 운영 전략과 기업의 단계별 AI Factory 추진 방안을 제시합니다.]]></description>
 		</item>
-		<item>
-			<title>[리포트 다운로드] ERP AI PI Framework: AI-Native ERP 구현을 위한 새로운 PI 접근법 | 8월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3826/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3826/</guid>
-			<pubDate>Thu, 20 Aug 2026 04:11:26 GMT</pubDate>
-			<description><![CDATA[AI 기능을 ERP에 추가하는 것만으로 AI-Native ERP가 완성되지는 않습니다. ERP AI PI는 프로세스·데이터·시스템·조직·거버넌스를 함께 재설계해 AI가 업무 안에서 판단·추천·자동화·모니터링을 수행할 수 있는 AI-Ready Process를 만드는 새로운 PI 접근법입니다. 이번 8월 MI리포트에서는 ERP AI PI의 개념부터 5개 Layer 기반 실행 프레임워크, AI 혁신과제·AI 서비스·AI Agent 설계 방법, AI-Native ERP 전환을 위한 전략적 기반까지 자세히 살펴봅니다.]]></description>
-		</item>
 	</channel>
-</rss> 
+</rss>
