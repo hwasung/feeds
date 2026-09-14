@@ -1,0 +1,125 @@
+국방기술진흥연구소 국방과학기술조사서
+https://www.krit.re.kr/krit/bbs/gbgh_list.do?gotoMenuNo=03090200
+//ul[contains(@class, 'imgList')]/li
+img/@alt
+div/a[contains(@href, '/')]/@href
+concat( '<img src="https://www.krit.re.kr', img/@src, '" style="max-height: 300px">', '<ul><li>발행기관: 국방기술진흥연구소</li><li>발행일자: ', div/span[2]/text(), '</li></ul>' )
+
+국방기술진흥연구소 국방기술기획서
+https://www.krit.re.kr/krit/bbs/gbgs_list.do?gotoMenuNo=03090100
+//ul[contains(@class, 'imgList')]/li
+img/@alt
+div/a[contains(@href, '/')]/@href
+concat( '<img src="https://www.krit.re.kr', img/@src, '" style="max-height: 300px">', '<ul><li>발행기관: 국방기술진흥연구소</li><li>발행일자: ', div/span[2]/text(), '</li></ul>' )
+
+국방기술진흥연구소 이슈페이퍼
+https://www.krit.re.kr/krit/bbs/brief1_list.do?gotoMenuNo=03040000
+//ul[contains(@class, 'imgList')]/li
+img/@alt
+div/a[contains(@href, '/')]/@href
+concat( '<img src="https://www.krit.re.kr', img/@src, '" style="max-height: 300px">', '<ul><li>발행기관: 국방기술진흥연구소</li><li>발행일자: ', div/span[2]/text(), '</li></ul>' )
+
+국방기술진흥연구소 기타발간물
+https://www.krit.re.kr/krit/bbs/book_list.do?gotoMenuNo=03070000
+//ul[contains(@class, 'imgList')]/li
+img/@alt
+div/a[contains(@href, '/')]/@href
+concat( '<img src="https://www.krit.re.kr', img/@src, '" style="max-height: 300px">', '<ul><li>발행기관: 국방기술진흥연구소</li><li>발행일자: ', div/span[2]/text(), '</li></ul>' )
+
+국방기술진흥연구소 국방과학기술정보
+https://www.krit.re.kr/krit/bbs/publication_list.do?gotoMenuNo=03060000
+//ul[contains(@class, 'imgList')]/li
+img/@alt
+div/a[contains(@href, '/')]/@href
+concat( '<img src="https://www.krit.re.kr', img/@src, '" style="max-height: 300px">', '<ul><li>발행기관: 국방기술진흥연구소</li><li>발행일자: ', div/span[2]/text(), '</li></ul>' )
+
+국방기술진흥연구소 국방분야 전문분석지
+https://www.krit.re.kr/krit/bbs/gbby_list.do?gotoMenuNo=03090300
+//ul[contains(@class, 'imgList')]/li
+img/@alt
+div/a[contains(@href, '/')]/@href
+concat( '<img src="https://www.krit.re.kr', img/@src, '" style="max-height: 300px">', '<ul><li>발행기관: 국방기술진흥연구소</li><li>발행일자: ', div/span[2]/text(), '</li></ul>' )
+
+국방기술품질원 발간물·단행본
+https://www.dtaq.re.kr/ko/doc/report.jsp
+//tr
+td[3]/text()
+td[5]/a/@href
+concat( '<img src="https://www.dtaq.re.kr', td[2]/img/@src, '" style="max-height: 300px"/>', '<br/>발간일자: ', td[4]/text() )
+
+정책정보포털 - 최신정책동향 - 국방
+https://policy.nl.go.kr/pages/trend/newest.jsp?bbsSe=5&brmCode1=0005
+//form/ul/li
+dl/dt/a/text()
+dl/dt/a/@href
+div//img | dl/dd/ul | dl/dd/div/a[contains(@href, 'down')]
+
+한국국방연구원 발간물
+https://www.kida.re.kr/
+//div[@class='book_area']/div/ul/li/ul/li[@class='book_list']
+.//a/@title
+concat( 'https://www.kida.re.kr/', substring-after( .//a/@href, '/' ), substring-after( .//a/@href, 'javascript:' ) )
+concat( '<ul><li>저자: ', .//span[@class='name subject']/text(), '</li><li>발행일자: ', .//span[@class='day']/text(), '</li></ul>' )
+
+글로벌이코노믹
+https://www.g-enews.com/issuelist.php?ud=2019041402134303045&ct=g000000
+//a[span[normalize-space()] and starts-with(@href, 'https://www.g-enews.com/article/')]/parent::*[not(contains(concat(' ', ../@class, ' '), ' con '))]
+a[1]/span/text()
+a[1]/@href
+
+
+방위사업청 업무가이드북
+https://www.dapa.go.kr/dapa/pcm/pblictn/pblictnListView.do?seq=3&menuSeq=3043
+//li[@class="guide-item"]
+.//p/text()
+substring-before( substring-after( .//a/@href, "('" ), "')" )
+concat( '<img src="https://www.dapa.go.kr', substring-before( substring-after( div/@style, "('" ), "')" ), '">' )
+
+방위사업청 행정규칙
+https://www.dapa.go.kr/dapa/rlm/rllawd/RlmNttList.do?menuId=340
+//table[@class="list-table"]/tbody/tr
+concat( td[6]/text(), ' ', normalize-space(td//a[@title]/text()) )
+concat('https://www.dapa.go.kr/common/zipDownload.do', '?sqlId=cmm_file.fileList', '&fileGrpKey=', substring-before(substring-after(td//a[@title]/@onclick, "'"), "'") )
+concat( normalize-space(td[5]/text()), ' ', normalize-space(td[4]/text()) )
+
+국방과학연구소 제안서 공모 안내
+https://www.add.re.kr/kps/publicNtis/ntisList?menuId=MENU02201
+//table[@class='board']/tbody/tr
+td[2]/a/@title
+td[2]/a/@href
+concat(td[2]/a/@title, '<br>공고일: ', td[3]/text(), '<br>접수시작일: ', td[4]/text(), '<br>접수마감일: ', td[5]/text())
+
+국방과학연구소 제안서 공모 결과 안내
+https://www.add.re.kr/kps/publicNtis/ntisList?menuId=MENU02200
+//table[@class='board']/tbody/tr
+td[2]/a/@title
+td[2]/a/@href
+concat(td[2]/a/@title, '<br>공고일: ', td[3]/text(), '<br>접수시작일: ', td[4]/text(), '<br>접수마감일: ', td[5]/text())
+
+Blog | MakinaRocks
+https://www.makinarocks.ai/blog/
+//*[@class="post-item"]/a
+./h3/text()
+./@href
+
+ETRI 단행본/발표자료
+https://ksp.etri.re.kr/ksp/plan-report/search
+//table/tbody/tr
+td[3]/a/strong/text()
+td[3]/a/@href
+concat( 'https://ksp.etri.re.kr', td[4]/a/@href )
+
+
+국민참여입법센터 (부처)행정예고
+https://opinion.lawmaking.go.kr/gcom/admpp?asndOfiNm=%EB%B0%A9%EC%9C%84%EC%82%AC%EC%97%85%EC%B2%AD
+//tr/td[@class="subject"]
+a/text()
+a/@href
+
+국민참여입법센터 (부처)입법예고
+
+https://opinion.lawmaking.go.kr/gcom/ogLmPp?cptOfiOrgCd=1690000
+//tr/td[@class="subject"]
+a/text()
+a/@href
+
