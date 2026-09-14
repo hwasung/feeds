@@ -1,10 +1,10 @@
 const Xml = {
 	escape: str => {
-        if (!str) return "";
-        return String(str)
-            .replace(/&(?!([a-zA-Z]+|#\d+|#[xX][0-9a-fA-F]+);)/g, "&amp;") // 뒤에 유효한 XML 엔티티(이름/10진수/16진수)가 오지 않는 단독 '&'만 &amp;로 치환
-            .replace(/[<>'"]/g, c => ({ '<': '&lt;', '>': '&gt;', '\'': '&apos;', '"': '&quot;' }[c]));
-    },
+		if (!str) return "";
+		return String(str)
+			.replace(/&(?!([a-zA-Z]+|#\d+|#[xX][0-9a-fA-F]+);)/g, "&amp;") // 뒤에 유효한 XML 엔티티(이름/10진수/16진수)가 오지 않는 단독 '&'만 &amp;로 치환
+			.replace(/[<>'"]/g, c => ({ '<': '&lt;', '>': '&gt;', '\'': '&apos;', '"': '&quot;' }[c]));
+	},
 	safeCdata: str => (str || "").replace(/]]>/g, "]]]]><![CDATA[>"),
 	wrapCdata: function (str) { return `<![CDATA[${this.safeCdata(str)}]]>`; },
 	getItems: xml => (xml || "").match(/<item\b[\s\S]*?<\/item>/gi) || [],
@@ -73,6 +73,16 @@ const Parser = {
 	}
 };
 
+const GitHub = {
+	b64Encode: (str) => btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, (_, p1) => String.fromCharCode(parseInt(p1, 16)))),
+	b64Decode: (str) => decodeURIComponent(Array.prototype.map.call(atob(str), c => "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2)).join("")),
+	getCommitMessage: function () {
+		const now = new Date();
+		const pad = n => (n < 10 ? "0" : "") + n;
+		return `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}`;
+	}
+};
+
 const Sites = {
 	// 1. 방위사업청 게시판 맵핑
 	dapaBoards: {
@@ -90,11 +100,11 @@ const Sites = {
 	},
 
 	createDapaConfig: function (bbsSeq) {
-        bbsSeq = String(bbsSeq).trim();
+		bbsSeq = String(bbsSeq).trim();
 		const b = this.dapaBoards[bbsSeq];
 		return {
-            feedName: `dapa.go.kr_${b.title}`,
-            dataUrl: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
+			feedName: `dapa.go.kr_${b.title}`,
+			dataUrl: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
 			channelTitle: `방위사업청 ${b.title}`,
 			channelLink: `https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=${b.menuSeq}&bbsSeq=${bbsSeq}`,
 			dataType: "json",
@@ -108,11 +118,11 @@ const Sites = {
 				category: "ctgryNm"
 			},
 			postProcess: items => items
-                .map(it => {
-                    it.description = FeedProcessor.cleanHtml(it.description, /<\/p><p\b[^>]*>\s*<br\/?>\s*<\/p><p\b/.test(it.description));
-                    return it;
-                })
-                .filter(it => it.title.length > 0),
+				.map(it => {
+					it.description = FeedProcessor.cleanHtml(it.description, /<\/p><p\b[^>]*>\s*<br\/?>\s*<\/p><p\b/.test(it.description));
+					return it;
+				})
+				.filter(it => it.title.length > 0),
 			testCases: {
 				url: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
 				method: "GET"
@@ -123,7 +133,7 @@ const Sites = {
 	// 2. 등록된 개별 사이트 정의 (정적/독립 사이트)
 	definitions: {
 		"ddaily": {
-            feedName: "ddaily.co.kr",
+			feedName: "ddaily.co.kr",
 			channelTitle: "디지털데일리",
 			channelLink: "https://www.ddaily.co.kr/",
 			dataType: "json",
@@ -134,52 +144,52 @@ const Sites = {
 				pubDate: "publish_date",
 				description: "body_text"
 			},
-            excludeCategories: new Set(["게임", "경제","금융", "증권"]),
+			excludeCategories: new Set(["게임", "경제", "공연/전시","금융", "방송", "생활경제", "증권", "통신*방송"]),
 			postProcess: function (items) {
 				return items
-                    .filter(it => !this.excludeCategories.has(it?._raw.category_name?.trim() || ""))
-                    .map(it => {
-                        const raw = it._raw || {};
+					.filter(it => !this.excludeCategories.has(it?._raw.category_name?.trim() || ""))
+					.map(it => {
+						const raw = it._raw || {};
 
-                        // A. 작성자 파싱
-                        try {
-                            const bylines = typeof raw.by_line_list === "string" ? JSON.parse(raw.by_line_list) : raw.by_line_list;
-                            if (Array.isArray(bylines)) it.author = bylines.map(v => v.ca_writer_byline).filter(Boolean).join(", ");
-                        } catch (e) {}
+						// A. 작성자 파싱
+						try {
+							const bylines = typeof raw.by_line_list === "string" ? JSON.parse(raw.by_line_list) : raw.by_line_list;
+							if (Array.isArray(bylines)) it.author = bylines.map(v => v.ca_writer_byline).filter(Boolean).join(", ");
+						} catch (e) {}
 
-                        // B. 카테고리 매핑
-                        it.category = raw.category_name || "";
+						// B. 카테고리 매핑
+						it.category = raw.category_name || "";
 
-                        // C. 대표 이미지 및 figure 조립
-                        let figureHtml = "";
-                        try {
-                            const photos = typeof raw.rep_photo === "string" ? JSON.parse(raw.rep_photo) : raw.rep_photo;
-                            if (Array.isArray(photos)) {
-                                figureHtml = photos.map(v => {
-                                    const filename = (v.filename || "").replace(/(?=\.\w+$)/, "_l");
-                                    const caption = v.caption ? `<figcaption>${v.caption}</figcaption>` : "";
-                                    return `<figure><img src="https://www.ddaily.co.kr/photos/${v.path}/${filename}"/>${caption}</figure>`;
-                                }).join("");
-                            }
-                        } catch (e) {}
+						// C. 대표 이미지 및 figure 조립
+						let figureHtml = "";
+						try {
+							const photos = typeof raw.rep_photo === "string" ? JSON.parse(raw.rep_photo) : raw.rep_photo;
+							if (Array.isArray(photos)) {
+								figureHtml = photos.map(v => {
+									const filename = (v.filename || "").replace(/(?=\.\w+$)/, "_l");
+									const caption = v.caption ? `<figcaption>${v.caption}</figcaption>` : "";
+									return `<figure><img src="https://www.ddaily.co.kr/photos/${v.path}/${filename}"/>${caption}</figure>`;
+								}).join("");
+							}
+						} catch (e) {}
 
-                        // D. 본문 개행 및 결합
-                        const body = (raw.body_text || "").trim().replace(/\n/g, "<br/>");
-                        it.description = figureHtml ? `${figureHtml}<br/>\n${body}` : body;
+						// D. 본문 개행 및 결합
+						const body = (raw.body_text || "").trim().replace(/\n/g, "<br/>");
+						it.description = figureHtml ? `${figureHtml}<br/>\n${body}` : body;
 
-                        // E. 타임존 보정 (+09:00)
-                        if (it.pubDate && !it.pubDate.includes("+") && !it.pubDate.includes("Z")) {
-                            it.pubDate = `${it.pubDate.trim()}+09:00`;
-                        }
-                        return it;
+						// E. 타임존 보정 (+09:00)
+						if (it.pubDate && !it.pubDate.includes("+") && !it.pubDate.includes("Z")) {
+							it.pubDate = `${it.pubDate.trim()}+09:00`;
+						}
+						return it;
 				    })
-                    .filter(it => it.title && it.link);
+					.filter(it => it.title && it.link);
 			},
 			testCases: {
 				url: "https://www.ddaily.co.kr/api.php",
 				method: "POST",
-                contentType: "application/x-www-form-urlencoded",
-                body: "class=/api/getIssuePick"
+				contentType: "application/x-www-form-urlencoded",
+				body: "class=/api/getIssuePick"
 			}
 		}
 	},
@@ -201,9 +211,9 @@ const FeedProcessor = {
 		const closing = m.startsWith("</");
 		if (tag === "a") return closing ? "</a>" : `<a href="${(m.match(/\bhref=(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i) || [])[1] || "#"}">`;
 		if (pToDiv && tag === "p") return closing ? "</div>" : "<div>";
-        if (tag === "br") return "<br/>"
-        if (tag === "span" || tag === "script" || tag === "style") return "";
-        return closing ? `</${tag}>` : `<${tag}>`;
+		if (tag === "br") return "<br/>"
+		if (tag === "span" || tag === "script" || tag === "style") return "";
+		return closing ? `</${tag}>` : `<${tag}>`;
 	}).trim(),
 
 	resolveUrl: (url, base) => (url && !url.startsWith("http")) ? `${base.replace(/\/+$/, "")}/${url.replace(/^\/+/, "")}` : url,
@@ -221,64 +231,64 @@ ${xmlItems}
 \t</channel>
 </rss>`,
 
-    getFeedName: function (siteId, params) {
-        const config = Sites.resolve(siteId, params);
-        return config?.feedName || siteId;
-    },
+	getFeedName: function (siteId, params) {
+		const config = Sites.resolve(siteId, params);
+		return config?.feedName || siteId;
+	},
 
 	// 1. 소스 데이터 파싱 (원본 _raw 유지)
-    parse: function (config, rawData) {
-        if (!rawData) return [];
-        let items = [];
+	parse: function (config, rawData) {
+		if (!rawData) return [];
+		let items = [];
 
-        if (config.dataType === "json") {
-            let list = typeof rawData === "string" ? JSON.parse(rawData) : rawData;
-            if (config.rootPath) config.rootPath.split(".").forEach(p => list = list?.[p]);
-            if (Array.isArray(list)) {
-                items = list.map(it => ({
-                    title: Parser.extract(it, config.fields.title, "json"),
-                    link: this.resolveUrl(Parser.extract(it, config.fields.link, "json"), config.channelLink),
-                    pubDate: Parser.extract(it, config.fields.pubDate, "json"),
-                    description: Parser.extract(it, config.fields.description, "json"),
-                    author: Parser.extract(it, config.fields.author, "json"),
-                    category: Parser.extract(it, config.fields.category, "json"),
-                    _raw: it
-                }));
-            }
-        } 
-        else if (config.dataType === "xpath") {
-            const doc = new DOMParser().parseFromString(rawData, "text/html");
-            const nodes = doc.evaluate(config.itemPattern, doc, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
-            for (let i = 0; i < nodes.snapshotLength; i++) {
-                const node = nodes.snapshotItem(i);
-                items.push({
-                    title: Parser.extract(node, config.fields.title, "xpath", doc).replace(/<[^>]+>/g, ""),
-                    link: this.resolveUrl(Parser.extract(node, config.fields.link, "xpath", doc), config.channelLink),
-                    pubDate: Parser.extract(node, config.fields.pubDate, "xpath", doc).replace(/<[^>]+>/g, ""),
-                    description: Parser.extract(node, config.fields.description, "xpath", doc),
-                    author: Parser.extract(node, config.fields.author, "xpath", doc),
-                    category: Parser.extract(node, config.fields.category, "xpath", doc),
-                    _raw: node
-                });
-            }
-        }
-        else if (config.dataType === "regex") {
-            const blockRegex = new RegExp(config.itemPattern, "gi");
-            const matches = rawData.match(blockRegex) || [];
+		if (config.dataType === "json") {
+			let list = typeof rawData === "string" ? JSON.parse(rawData) : rawData;
+			if (config.rootPath) config.rootPath.split(".").forEach(p => list = list?.[p]);
+			if (Array.isArray(list)) {
+				items = list.map(it => ({
+					title: Parser.extract(it, config.fields.title, "json"),
+					link: this.resolveUrl(Parser.extract(it, config.fields.link, "json"), config.channelLink),
+					pubDate: Parser.extract(it, config.fields.pubDate, "json"),
+					description: Parser.extract(it, config.fields.description, "json"),
+					author: Parser.extract(it, config.fields.author, "json"),
+					category: Parser.extract(it, config.fields.category, "json"),
+					_raw: it
+				}));
+			}
+		} 
+		else if (config.dataType === "xpath") {
+			const doc = new DOMParser().parseFromString(rawData, "text/html");
+			const nodes = doc.evaluate(config.itemPattern, doc, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+			for (let i = 0; i < nodes.snapshotLength; i++) {
+				const node = nodes.snapshotItem(i);
+				items.push({
+					title: Parser.extract(node, config.fields.title, "xpath", doc).replace(/<[^>]+>/g, ""),
+					link: this.resolveUrl(Parser.extract(node, config.fields.link, "xpath", doc), config.channelLink),
+					pubDate: Parser.extract(node, config.fields.pubDate, "xpath", doc).replace(/<[^>]+>/g, ""),
+					description: Parser.extract(node, config.fields.description, "xpath", doc),
+					author: Parser.extract(node, config.fields.author, "xpath", doc),
+					category: Parser.extract(node, config.fields.category, "xpath", doc),
+					_raw: node
+				});
+			}
+		}
+		else if (config.dataType === "regex") {
+			const blockRegex = new RegExp(config.itemPattern, "gi");
+			const matches = rawData.match(blockRegex) || [];
 
-            items = matches.map(block => ({
-                title: Parser.extract(block, config.fields.title, "regex").replace(/<[^>]+>/g, "").trim(),
-                link: this.resolveUrl(Parser.extract(block, config.fields.link, "regex"), config.channelLink),
-                pubDate: Parser.extract(block, config.fields.pubDate, "regex").replace(/<[^>]+>/g, "").trim(),
-                description: Parser.extract(block, config.fields.description, "regex"),
-                author: Parser.extract(block, config.fields.author, "regex").replace(/<[^>]+>/g, "").trim(),
-                category: Parser.extract(block, config.fields.category, "regex").replace(/<[^>]+>/g, "").trim(),
-                _raw: block
-            }));
-        }
+			items = matches.map(block => ({
+				title: Parser.extract(block, config.fields.title, "regex").replace(/<[^>]+>/g, "").trim(),
+				link: this.resolveUrl(Parser.extract(block, config.fields.link, "regex"), config.channelLink),
+				pubDate: Parser.extract(block, config.fields.pubDate, "regex").replace(/<[^>]+>/g, "").trim(),
+				description: Parser.extract(block, config.fields.description, "regex"),
+				author: Parser.extract(block, config.fields.author, "regex").replace(/<[^>]+>/g, "").trim(),
+				category: Parser.extract(block, config.fields.category, "regex").replace(/<[^>]+>/g, "").trim(),
+				_raw: block
+			}));
+		}
 
-        return items;
-    },
+		return items;
+	},
 
 	// 2. 단일 피드 생성 (신규 데이터 + 이전 피드)
 	buildFeed: function (siteId, rawData, oldRss, params) {
@@ -368,44 +378,166 @@ ${xmlItems}
 		const finalXml = /<\/channel>/i.test(cleanBase) ? cleanBase.replace(/<\/channel>/i, `${bodyXml}\n\t</channel>`) : `${cleanBase}\n${bodyXml}`;
 
 		return { xml: finalXml, isChanged };
+	},
+
+	// 5. GitHub 업로드용 페이로드 생성 및 동기화 검사
+	prepareGithubPayload: function (newContent, httpData, httpCode) {
+		if (!newContent) return { shouldSkip: true, payload: "" };
+
+		let currentSha = "";
+		let oldContent = "";
+
+		// 기존 GitHub 파일 파싱
+		if (httpData && (!httpCode || String(httpCode) === "200")) {
+			try {
+				const resData = JSON.parse(httpData);
+				currentSha = resData.sha || "";
+				if (resData.content) {
+					oldContent = GitHub.b64Decode(resData.content.replace(/\s/g, ""));
+				}
+			} catch (e) {}
+		}
+
+		const oldItems = Xml.getItems(oldContent);
+		const newItems = Xml.getItems(newContent);
+		const itemMap = {};
+
+		// 1) 기존 피드 아이템 등록
+		for (let i = 0; i < oldItems.length; i++) {
+			const ok = Xml.getItemKey(oldItems[i]);
+			if (ok) itemMap[ok] = oldItems[i];
+		}
+
+		// 2) 신규 피드 아이템 덮어쓰기
+		for (let j = 0; j < newItems.length; j++) {
+			const nk = Xml.getItemKey(newItems[j]);
+			if (nk) itemMap[nk] = newItems[j];
+		}
+
+		// 3) 최신순 정렬 (pubDate 1차, 식별자 2차)
+		const mergedList = Object.keys(itemMap).map(k => ({
+			xml: itemMap[k],
+			timestamp: DateUtil.getTimestamp(itemMap[k]),
+			secondaryId: Xml.getSecondaryId(itemMap[k])
+		}));
+
+		this.sortDesc(mergedList);
+
+		const top10 = mergedList.slice(0, 10);
+		const mergedItemsXml = top10.map(it => it.xml).join("\t\t");
+
+		// 4) 변경 여부 대조 (상위 10개 키 시퀀스 비교)
+		const oldKeys = oldItems.slice(0, 10).map(Xml.getItemKey).join("|");
+		const newKeys = top10.map(it => Xml.getItemKey(it.xml)).join("|");
+
+		if (currentSha && oldKeys && oldKeys === newKeys) return { shouldSkip: true, payload: "" };
+
+		// 5) 최종 XML 재조립 및 페이로드 구성
+		const baseXml = newContent || oldContent;
+		const cleanXml = baseXml.replace(/<item\b[\s\S]*?<\/item>/gi, "").replace(/(\r?\n\s*){2,}/g, "\n");
+		const finalFeedXml = /<\/channel>/i.test(cleanXml)
+			? cleanXml.replace(/<\/channel>/i, mergedItemsXml + "\n\t</channel>")
+			: `${cleanXml}\n${mergedItemsXml}`;
+
+		const payloadObj = {
+			message: GitHub.getCommitMessage(),
+			content: GitHub.b64Encode(finalFeedXml)
+		};
+
+		if (currentSha) {
+			payloadObj.sha = currentSha;
+		}
+
+		return {
+			shouldSkip: false,
+			payload: JSON.stringify(payloadObj)
+		};
 	}
 };
 
-const buildFeed = (siteId, raw, old, params) => FeedProcessor.buildFeed(siteId, raw, old, params);
+//const getFeedName = (siteId, params) => FeedProcessor.getFeedName(siteId, params);
+//const buildFeed = (siteId, raw, old, params) => FeedProcessor.buildFeed(siteId, raw, old, params);
 const mergeFeeds = (list, base, limit) => FeedProcessor.mergeFeeds(list, base, limit);
-const optimizeFeed = (src, old, limit) => FeedProcessor.optimizeFeed(src, old, limit);
+//const optimizeFeed = (src, old, limit) => FeedProcessor.optimizeFeed(src, old, limit);
+//const prepareGithubPayload = (content, httpData, httpCode) => FeedProcessor.prepareGithubPayload(content, httpData, httpCode);
 
-function testWithFetch(siteId) {
-    const conf = Sites.resolve(siteId);
-    fetch(`https://corsproxy.io/?${encodeURIComponent(conf.testCases.url)}`)
-        .then(r => r.text())
-        .then(data => console.log("Result XML:\n", buildFeed("dapa_443", data, "").xml))
-        .catch(console.error);
+function getFeedName(siteId, params) {
+    const feed_name = FeedProcessor.getFeedName(siteId, params);
+
+    if (typeof setLocal === "function") {
+        setLocal("%feed_name", feed_name);
+    }
+}
+
+function optimizeFeed(new_xml, old_xml, limit = 10) {
+    const result = FeedProcessor.optimizeFeed(new_xml, old_xml, limit);
+
+    const feed_changed = result.isChanged.toString();
+    const feed_xml = result.xml;
+
+    if (typeof setLocal === "function") {
+        setLocal("%feed_changed", feed_changed);
+        setLocal("%feed_xml", feed_xml);
+        setLocal("%feed_xml_length", feed_xml.length);
+    }
+}
+
+function buildFeed(siteId, http_data, old_xml, params = {}) {
+    const raw = (typeof http_data !== "undefined") ? http_data : "";
+    const old = (typeof old_xml !== "undefined") ? old_xml : "";
+
+    const result = FeedProcessor.buildFeed(siteId, raw, old, params);
+    const feed_changed = result.isChanged.toString();
+    const feed_xml = result.xml;
+
+    if (typeof setLocal === "function") {
+        setLocal("%feed_changed", feed_changed);
+        setLocal("%feed_xml", feed_xml);
+        setLocal("%feed_xml_length", feed_xml.length);
+    }
+}
+
+function prepareGithubPayload(content, http_data, http_response_code) {
+    content = (typeof content !== "undefined") ? content : "";
+    http_data = (typeof http_data !== "undefined") ? http_data : "";
+    http_response_code = (typeof http_response_code !== "undefined") ? String(http_response_code) : "";
+
+    const res = FeedProcessor.prepareGithubPayload(content, http_data, http_response_code);
+
+    const should_skip = res.shouldSkip.toString();
+    const gh_payload = res.payload;
+
+    if (typeof setLocal === "function") {
+        setLocal("%should_skip", should_skip);
+        setLocal("%gh_payload", gh_payload);
+    }
 }
 
 let main = function() {
-    function tset_ddaily() {
-        const siteId = "ddaily";
-        console.clear();
-        const feedName = FeedProcessor.getFeedName(siteId);
-        console.log(feedName);
-        const http_data = JSON.stringify(http_data_obj);
-        const result = FeedProcessor.buildFeed(siteId, http_data, "", {});
-        console.log(result.isChanged);
-        console.log(result.xml);
-    }
-    function tset_dapa() {
-        const siteId = "dapa", bbsSeq = "326";
-        console.clear();
-        const feedName = FeedProcessor.getFeedName(siteId, {bbsSeq: bbsSeq});
-        console.log(feedName);
-        const http_data = JSON.stringify(http_data_obj);
-        const result = FeedProcessor.buildFeed(siteId, http_data, "", {bbsSeq: bbsSeq});
-        console.log(result.isChanged);
-        console.log(result.xml);
-    }
-    // 브라우저 Playground 테스트 러너
-    if (typeof window !== "undefined" && !window.Tasker) {
-        tset_ddaily();
-    }
+	function testWithFetch(siteId) {
+		const conf = Sites.resolve(siteId);
+		fetch(`https://corsproxy.io/?${encodeURIComponent(conf.testCases.url)}`)
+			.then(r => r.text())
+			.then(data => console.log("Result XML:\n", buildFeed("dapa_443", data, "").xml))
+			.catch(console.error);
+	}
+
+	function testWithMockData(siteId) {
+		let params = {};
+		if (siteId === "dapa") {
+			params = {bbsSeq: "326"};
+		}
+		console.clear();
+		const feedName = FeedProcessor.getFeedName(siteId, params);
+		console.log(feedName);
+		const http_data = JSON.stringify(http_data_obj);
+		const result = FeedProcessor.buildFeed(siteId, http_data, "", params);
+		console.log(result.isChanged);
+		console.log(result.xml);
+	}
+
+	// 브라우저 Playground 테스트 러너
+	if (typeof window !== "undefined" && !window.Tasker) {
+		testWithMockData("ddaily");
+	}
 }
