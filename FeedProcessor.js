@@ -1,5 +1,10 @@
 const Xml = {
-	escape: str => (str || "").replace(/[<>&'"]/g, c => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', '\'': '&apos;', '"': '&quot;' }[c])),
+	escape: str => {
+        if (!str) return "";
+        return String(str)
+            .replace(/&(?!([a-zA-Z]+|#\d+|#[xX][0-9a-fA-F]+);)/g, "&amp;") // 뒤에 유효한 XML 엔티티(이름/10진수/16진수)가 오지 않는 단독 '&'만 &amp;로 치환
+            .replace(/[<>'"]/g, c => ({ '<': '&lt;', '>': '&gt;', '\'': '&apos;', '"': '&quot;' }[c]));
+    },
 	safeCdata: str => (str || "").replace(/]]>/g, "]]]]><![CDATA[>"),
 	wrapCdata: function (str) { return `<![CDATA[${this.safeCdata(str)}]]>`; },
 	getItems: xml => (xml || "").match(/<item\b[\s\S]*?<\/item>/gi) || [],
@@ -380,7 +385,7 @@ function testWithFetch(siteId) {
 
 let main = function() {
     function tset_ddaily() {
-        const siteId = "dapa";
+        const siteId = "ddaily";
         console.clear();
         const feedName = FeedProcessor.getFeedName(siteId);
         console.log(feedName);
@@ -401,6 +406,6 @@ let main = function() {
     }
     // 브라우저 Playground 테스트 러너
     if (typeof window !== "undefined" && !window.Tasker) {
-        tset_dapa();
+        tset_ddaily();
     }
 }
