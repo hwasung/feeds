@@ -4,8 +4,70 @@
 <title>시큐리티팩트</title>
 <link>https://www.securityfact.co.kr</link>
 <description>시큐리티팩트 – 육해공/해병 국방전문가의 심층분석 안보 매체</description>
-<atom:updated>2026-09-14T18:39:06+09:00</atom:updated>
-<atom:published>2026-09-14T18:39:06+09:00</atom:published>
+<atom:updated>2026-09-15T01:31:33+09:00</atom:updated>
+<atom:published>2026-09-15T01:31:33+09:00</atom:published>
+<item>
+<guid>7926</guid>
+<title><![CDATA[보잉 상업용 위성 기술, 미 우주군 통신망으로 이어진다]]></title>
+<link>https://www.securityfact.co.kr/news/view.php?no=7926</link>
+<mobile>https://www.securityfact.co.kr/m/view.php?no=7926</mobile>
+<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7926" rel="related"/>
+
+<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 보잉이 제작한 통신위성 3기가 우주로 향하면서 글로벌 위성통신기업 SES의 차세대 중궤도 위성망 ‘O3b mPOWER’가 13기 체제를 갖췄다. 상업용 광대역 통신을 위해 개발한 소프트웨어 정의 위성 기술은 미 우주군의 군사통신 체계에도 적용되고 있다.</p>
+<p>
+   <br />
+</p>
+<p>13일(현지시각) 보잉과 SES, SatNews 발표에 따르면 O3b mPOWER 11·12·13호(F11·F12·F13)는 이날 오후 2시49분 미국 플로리다주 케이프 커내버럴 우주군 기지의 우주발사단지 40(SLC-40)에서 스페이스X(SpaceX)의 팰컨9 로켓에 실려 발사됐다.</p>
+<p>
+   <br />
+</p>
+<p>이번 발사로 기존 궤도에 배치된 10기를 포함해 SES가 계획한 초기 위성군 13기가 모두 우주에 올랐다. 다만 위성군 구축 완료가 곧바로 13기 전체의 상업 운용을 의미하는 것은 아니다. 새로 발사된 3기는 중궤도 진입을 위한 궤도 상승과 장비 점검, 초기화 작업을 거쳐야 한다. 본격적인 서비스 투입 시점은 2027년 중반으로 예상된다.</p>
+<p>
+   <br />
+</p>
+<p>SES에 따르면 기존 10기는 모빌리티와 정부기관, 기업 및 클라우드 고객에게 통신 서비스를 제공하고 있다. 크루즈선과 항공기, 이동통신망처럼 많은 데이터가 필요한 분야는 물론 지상 통신 인프라가 부족한 외딴 지역의 인터넷 연결에도 활용되고 있다.</p>
+<h3>저궤도와 정지궤도 사이를 메우다</h3>
+<p>O3b mPOWER는 지상 약 8000㎞ 상공에서 운용되는 중궤도(MEO·Medium Earth Orbit) 위성통신망이다. 수백∼수천㎞ 상공의 저궤도 위성보다 적은 수의 위성으로 넓은 지역을 담당할 수 있고, 약 3만6000㎞ 상공의 정지궤도 위성보다 통신 지연시간을 줄일 수 있다는 게 특징이다.</p>
+<p>
+   <br />
+</p>
+<p>SES는 O3b mPOWER가 접속 지점별로 수십 메가비트(Mbps)에서 수 기가비트(Gbps)급까지 통신 서비스를 제공할 수 있다고 설명했다. 13기 체제가 본격적으로 가동되면 네트워크 용량과 서비스 안정성, 장애 발생 시 대응 능력도 강화될 전망이다.</p>
+<p>
+   <br />
+</p>
+<p>새 위성에는 보잉의 702X 플랫폼과 소프트웨어 정의 페이로드가 적용됐다. 기존 통신위성이 발사 전에 서비스 지역과 용량을 상당 부분 고정하는 것과 달리, O3b mPOWER는 운용 중에도 지역별 수요 변화에 맞춰 대역폭의 이동 경로를 바꾸고 특정 지역에 빔 출력을 집중할 수 있다.</p>
+<p>
+   <br />
+</p>
+<p>이 기능은 지역별 통신 수요가 급격히 달라질 때 위성의 대역폭과 빔 출력을 필요한 지역에 다시 배분하는 데 활용될 수 있다. 보잉은 이를 통해 지상망이 부족한 지역의 학생들이 온라인 교육에 접속하고, 소규모 마을 의료시설이 원격의료 서비스를 제공하도록 지원할 수 있다고 설명했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper" style="text-align: center;">
+   
+</div>
+<p>&nbsp;</p>
+<h3>상업용 위성 설계‧생산라인, 국방 사업에 활용</h3>
+<p>보잉은 O3b mPOWER에서 검증한 기술을 군사위성통신에도 적용하고 있다. 702X 기반 소프트웨어 정의 페이로드를 군사 임무에 맞게 강화해 미 우주군의 광대역 글로벌 위성통신(WGS·Wideband Global SATCOM) 11·12호와 차세대 전략 위성통신(ESS·Evolved Strategic SATCOM) 체계에 활용하는 방식이다.</p>
+<p>
+   <br />
+</p>
+<p>상업용 위성에서 먼저 검증된 설계와 부품, 생산라인을 국방 사업에 활용하면 새로운 군사위성을 처음부터 개발할 때보다 제작 기간과 기술 위험을 줄일 수 있다. 작전 지역의 변화에 따라 통신 용량을 조정하는 기능도 군 위성통신망의 유연성과 복원력을 높이는 데 도움이 된다.</p>
+<p>
+   <br />
+</p>
+<p>보잉은 우주에서 검증되고 상업적으로 성숙한 하드웨어를 국방 프로그램에 활용하고 있으며, 기존 생산라인을 통해 군과 상업 고객 모두의 제작 일정 위험을 줄일 수 있다고 설명했다. 이번에 발사된 F11·F12·F13은 앞으로 수개월 동안 궤도 상승과 장비 점검, 초기화 작업을 거쳐 2027년 중반 상업 서비스에 들어갈 예정이다.</p>
+<p>&nbsp;</p>
+]]></description>
+
+<atom:category label="방산기업" term="20140925141337_5787"/>
+<author>sc.minugi@gmail.com 최미옥 기자</author>
+<atom:updated>2026-09-15T01:31:33+09:00</atom:updated>
+<pubDate>2026-09-15T01:31:33+09:00</pubDate>
+</item>
 <item>
 <guid>7925</guid>
 <title><![CDATA[러시아, 저가 제트추진 드론·순항미사일 우크라이나 전장에 투입]]></title>
@@ -607,47 +669,6 @@
 <author>sc.minugi@gmail.com 최미옥 기자</author>
 <atom:updated>2026-09-11T08:21:34+09:00</atom:updated>
 <pubDate>2026-09-11T08:21:34+09:00</pubDate>
-</item>
-<item>
-<guid>7916</guid>
-<title><![CDATA[록히드마틴, 미 우주군 GPS 지상체계 현대화 맡는다]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7916</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7916</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7916" rel="related"/>
-
-<description><![CDATA[<p style="text-align: center;">&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   
-</div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 록히드마틴이 미국 우주군의 차세대 위성위치확인시스템(GPS) 운용을 뒷받침할 지상체계 현대화 사업을 이어간다. 기존 시스템을 GPS IIIF 위성에 맞게 개량하고, 전파방해와 사이버 공격 속에서도 위치·항법·시각(PNT) 정보를 안정적으로 제공하는 것이 핵심이다.</p>
-<p>
-   <br />
-</p>
-<p>록히드마틴은 10일(현지시각) GPS IIIF 비상운영체계와 아키텍처 발전계획(AEP·Architecture Evolution Plan) x86 1단계 사업을 지원하는 과업지시 2건을 미 우주군으로부터 받았다고 밝혔다. 두 과업의 계약금액은 총 1억1350만 달러(약 1532억 원)이며, 이를 약 1억1400만 달러(약 1539억 원) 규모로 발표했다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>9600만 달러(약 1296억 원) 규모의 첫 번째 과업은 현재 GPS 지상체계를 업그레이드해 GPS IIIF 탑재체를 제어하고 차세대 위성을 운용할 수 있도록 하는 사업이다. 미 전쟁부가 지난 4월 RTX의 차세대 GPS 지상통제체계 OCX 개발을 취소하면서 AEP의 역할도 달라졌다. 당초 과도기적 성격이 강했던 AEP 개량체계가 앞으로 GPS 위성군을 장기간 통제할 핵심 운용 기반을 맡게 됐다.</p>
-<p>
-   <br />
-</p>
-<p>1750만 달러(약 236억 원) 규모의 AEP x86 1단계 사업에서는 지상체계의 하드웨어와 소프트웨어를 3단계에 걸쳐 교체한다. 기능별 개량과 확장이 쉬운 모듈형 구조를 적용해 노후 장비 의존도를 낮추고 사이버 복원력과 운용 신뢰성을 높일 계획이다.</p>
-<p>
-   <br />
-</p>
-<p>개량이 완료되면 M-코드(전파방해·위조신호 대응 암호화 군용 신호)를 지원하는 GPS IIIF 위성을 더 많이 운용할 수 있다. 민간 분야에서도 교통과 금융, 통신, 에너지 시설 운영에 필요한 PNT 서비스를 안정적으로 제공할 수 있다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>록히드마틴은 현재 GPS IIIF 위성을 생산하고 있으며 미 우주군은 이르면 2028년부터 발사를 시작할 예정이다. GPS IIIF에는 전파방해 대응 능력을 최대 63배 높이는 지역군사보호 기능이 적용된다.</p>
-<p>&nbsp;</p>
-]]></description>
-
-<atom:category label="방산기업" term="20140925141337_5787"/>
-<author>sc.minugi@gmail.com 최미옥 기자</author>
-<atom:updated>2026-09-11T07:30:27+09:00</atom:updated>
-<pubDate>2026-09-11T07:28:13+09:00</pubDate>
 </item>
 	</channel>
 </rss>
