@@ -85,11 +85,11 @@ const Sites = {
 	},
 
 	createDapaConfig: function (bbsSeq) {
-		bbsSeq = String(bbsSeq).trim();
+        bbsSeq = String(bbsSeq).trim();
 		const b = this.dapaBoards[bbsSeq];
 		return {
-			feedName: `dapa.go.kr_${b.title}`,
-			dataUrl: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
+            feedName: `dapa.go.kr_${b.title}`,
+            dataUrl: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
 			channelTitle: `방위사업청 ${b.title}`,
 			channelLink: `https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=${b.menuSeq}&bbsSeq=${bbsSeq}`,
 			dataType: "json",
@@ -103,11 +103,11 @@ const Sites = {
 				category: "ctgryNm"
 			},
 			postProcess: items => items
-				.map(it => {
-					it.description = FeedProcessor.cleanHtml(it.description, /<\/p>\s*<br\/?>\s*<p\b/.test(it.description));
-					return it;
-				})
-				.filter(it => it.title.length > 0),
+                .map(it => {
+                    it.description = FeedProcessor.cleanHtml(it.description, /<\/p><p\b[^>]*>\s*<br\/?>\s*<\/p><p\b/.test(it.description));
+                    return it;
+                })
+                .filter(it => it.title.length > 0),
 			testCases: {
 				url: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
 				method: "GET"
@@ -118,7 +118,7 @@ const Sites = {
 	// 2. 등록된 개별 사이트 정의 (정적/독립 사이트)
 	definitions: {
 		"ddaily": {
-			feedName: "ddaily.co.kr",
+            feedName: "ddaily.co.kr",
 			channelTitle: "디지털데일리",
 			channelLink: "https://www.ddaily.co.kr/",
 			dataType: "json",
@@ -129,52 +129,52 @@ const Sites = {
 				pubDate: "publish_date",
 				description: "body_text"
 			},
-			excludeCategories: new Set(["게임", "경제","금융", "증권"]),
+            excludeCategories: new Set(["게임", "경제","금융", "증권"]),
 			postProcess: function (items) {
 				return items
-					.filter(it => !this.excludeCategories.has(it?._raw.category_name?.trim() || ""))
-					.map(it => {
-						const raw = it._raw || {};
+                    .filter(it => !this.excludeCategories.has(it?._raw.category_name?.trim() || ""))
+                    .map(it => {
+                        const raw = it._raw || {};
 
-						// A. 작성자 파싱
-						try {
-							const bylines = typeof raw.by_line_list === "string" ? JSON.parse(raw.by_line_list) : raw.by_line_list;
-							if (Array.isArray(bylines)) it.author = bylines.map(v => v.ca_writer_byline).filter(Boolean).join(", ");
-						} catch (e) {}
+                        // A. 작성자 파싱
+                        try {
+                            const bylines = typeof raw.by_line_list === "string" ? JSON.parse(raw.by_line_list) : raw.by_line_list;
+                            if (Array.isArray(bylines)) it.author = bylines.map(v => v.ca_writer_byline).filter(Boolean).join(", ");
+                        } catch (e) {}
 
-						// B. 카테고리 매핑
-						it.category = raw.category_name || "";
+                        // B. 카테고리 매핑
+                        it.category = raw.category_name || "";
 
-						// C. 대표 이미지 및 figure 조립
-						let figureHtml = "";
-						try {
-							const photos = typeof raw.rep_photo === "string" ? JSON.parse(raw.rep_photo) : raw.rep_photo;
-							if (Array.isArray(photos)) {
-								figureHtml = photos.map(v => {
-									const filename = (v.filename || "").replace(/(?=\.\w+$)/, "_l");
-									const caption = v.caption ? `<figcaption>${v.caption}</figcaption>` : "";
-									return `<figure><img src="https://www.ddaily.co.kr/photos/${v.path}/${filename}"/>${caption}</figure>`;
-								}).join("");
-							}
-						} catch (e) {}
+                        // C. 대표 이미지 및 figure 조립
+                        let figureHtml = "";
+                        try {
+                            const photos = typeof raw.rep_photo === "string" ? JSON.parse(raw.rep_photo) : raw.rep_photo;
+                            if (Array.isArray(photos)) {
+                                figureHtml = photos.map(v => {
+                                    const filename = (v.filename || "").replace(/(?=\.\w+$)/, "_l");
+                                    const caption = v.caption ? `<figcaption>${v.caption}</figcaption>` : "";
+                                    return `<figure><img src="https://www.ddaily.co.kr/photos/${v.path}/${filename}"/>${caption}</figure>`;
+                                }).join("");
+                            }
+                        } catch (e) {}
 
-						// D. 본문 개행 및 결합
-						const body = (raw.body_text || "").trim().replace(/\n/g, "<br/>");
-						it.description = figureHtml ? `${figureHtml}<br/>\n${body}` : body;
+                        // D. 본문 개행 및 결합
+                        const body = (raw.body_text || "").trim().replace(/\n/g, "<br/>");
+                        it.description = figureHtml ? `${figureHtml}<br/>\n${body}` : body;
 
-						// E. 타임존 보정 (+09:00)
-						if (it.pubDate && !it.pubDate.includes("+") && !it.pubDate.includes("Z")) {
-							it.pubDate = `${it.pubDate.trim()}+09:00`;
-						}
-						return it;
+                        // E. 타임존 보정 (+09:00)
+                        if (it.pubDate && !it.pubDate.includes("+") && !it.pubDate.includes("Z")) {
+                            it.pubDate = `${it.pubDate.trim()}+09:00`;
+                        }
+                        return it;
 				    })
-					.filter(it => it.title && it.link);
+                    .filter(it => it.title && it.link);
 			},
 			testCases: {
 				url: "https://www.ddaily.co.kr/api.php",
 				method: "POST",
-				contentType: "application/x-www-form-urlencoded",
-				body: "class=/api/getIssuePick"
+                contentType: "application/x-www-form-urlencoded",
+                body: "class=/api/getIssuePick"
 			}
 		}
 	},
@@ -196,7 +196,9 @@ const FeedProcessor = {
 		const closing = m.startsWith("</");
 		if (tag === "a") return closing ? "</a>" : `<a href="${(m.match(/\bhref=(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i) || [])[1] || "#"}">`;
 		if (pToDiv && tag === "p") return closing ? "</div>" : "<div>";
-		return (tag === "span" || tag === "script" || tag === "style") ? "" : m;
+        if (tag === "br") return "<br/>"
+        if (tag === "span" || tag === "script" || tag === "style") return "";
+        return closing ? `</${tag}>` : `<${tag}>`;
 	}).trim(),
 
 	resolveUrl: (url, base) => (url && !url.startsWith("http")) ? `${base.replace(/\/+$/, "")}/${url.replace(/^\/+/, "")}` : url,
@@ -214,64 +216,64 @@ ${xmlItems}
 \t</channel>
 </rss>`,
 
-	getFeedName: function (siteId, params) {
-		const config = Sites.resolve(siteId, params);
-		return config?.feedName || siteId;
-	},
+    getFeedName: function (siteId, params) {
+        const config = Sites.resolve(siteId, params);
+        return config?.feedName || siteId;
+    },
 
 	// 1. 소스 데이터 파싱 (원본 _raw 유지)
-	parse: function (config, rawData) {
-		if (!rawData) return [];
-		let items = [];
+    parse: function (config, rawData) {
+        if (!rawData) return [];
+        let items = [];
 
-		if (config.dataType === "json") {
-			let list = typeof rawData === "string" ? JSON.parse(rawData) : rawData;
-			if (config.rootPath) config.rootPath.split(".").forEach(p => list = list?.[p]);
-			if (Array.isArray(list)) {
-				items = list.map(it => ({
-					title: Parser.extract(it, config.fields.title, "json"),
-					link: this.resolveUrl(Parser.extract(it, config.fields.link, "json"), config.channelLink),
-					pubDate: Parser.extract(it, config.fields.pubDate, "json"),
-					description: Parser.extract(it, config.fields.description, "json"),
-					author: Parser.extract(it, config.fields.author, "json"),
-					category: Parser.extract(it, config.fields.category, "json"),
-					_raw: it
-				}));
-			}
-		} 
-		else if (config.dataType === "xpath") {
-			const doc = new DOMParser().parseFromString(rawData, "text/html");
-			const nodes = doc.evaluate(config.itemPattern, doc, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
-			for (let i = 0; i < nodes.snapshotLength; i++) {
-				const node = nodes.snapshotItem(i);
-				items.push({
-					title: Parser.extract(node, config.fields.title, "xpath", doc).replace(/<[^>]+>/g, ""),
-					link: this.resolveUrl(Parser.extract(node, config.fields.link, "xpath", doc), config.channelLink),
-					pubDate: Parser.extract(node, config.fields.pubDate, "xpath", doc).replace(/<[^>]+>/g, ""),
-					description: Parser.extract(node, config.fields.description, "xpath", doc),
-					author: Parser.extract(node, config.fields.author, "xpath", doc),
-					category: Parser.extract(node, config.fields.category, "xpath", doc),
-					_raw: node
-				});
-			}
-		}
-		else if (config.dataType === "regex") {
-			const blockRegex = new RegExp(config.itemPattern, "gi");
-			const matches = rawData.match(blockRegex) || [];
+        if (config.dataType === "json") {
+            let list = typeof rawData === "string" ? JSON.parse(rawData) : rawData;
+            if (config.rootPath) config.rootPath.split(".").forEach(p => list = list?.[p]);
+            if (Array.isArray(list)) {
+                items = list.map(it => ({
+                    title: Parser.extract(it, config.fields.title, "json"),
+                    link: this.resolveUrl(Parser.extract(it, config.fields.link, "json"), config.channelLink),
+                    pubDate: Parser.extract(it, config.fields.pubDate, "json"),
+                    description: Parser.extract(it, config.fields.description, "json"),
+                    author: Parser.extract(it, config.fields.author, "json"),
+                    category: Parser.extract(it, config.fields.category, "json"),
+                    _raw: it
+                }));
+            }
+        } 
+        else if (config.dataType === "xpath") {
+            const doc = new DOMParser().parseFromString(rawData, "text/html");
+            const nodes = doc.evaluate(config.itemPattern, doc, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+            for (let i = 0; i < nodes.snapshotLength; i++) {
+                const node = nodes.snapshotItem(i);
+                items.push({
+                    title: Parser.extract(node, config.fields.title, "xpath", doc).replace(/<[^>]+>/g, ""),
+                    link: this.resolveUrl(Parser.extract(node, config.fields.link, "xpath", doc), config.channelLink),
+                    pubDate: Parser.extract(node, config.fields.pubDate, "xpath", doc).replace(/<[^>]+>/g, ""),
+                    description: Parser.extract(node, config.fields.description, "xpath", doc),
+                    author: Parser.extract(node, config.fields.author, "xpath", doc),
+                    category: Parser.extract(node, config.fields.category, "xpath", doc),
+                    _raw: node
+                });
+            }
+        }
+        else if (config.dataType === "regex") {
+            const blockRegex = new RegExp(config.itemPattern, "gi");
+            const matches = rawData.match(blockRegex) || [];
 
-			items = matches.map(block => ({
-				title: Parser.extract(block, config.fields.title, "regex").replace(/<[^>]+>/g, "").trim(),
-				link: this.resolveUrl(Parser.extract(block, config.fields.link, "regex"), config.channelLink),
-				pubDate: Parser.extract(block, config.fields.pubDate, "regex").replace(/<[^>]+>/g, "").trim(),
-				description: Parser.extract(block, config.fields.description, "regex"),
-				author: Parser.extract(block, config.fields.author, "regex").replace(/<[^>]+>/g, "").trim(),
-				category: Parser.extract(block, config.fields.category, "regex").replace(/<[^>]+>/g, "").trim(),
-				_raw: block
-			}));
-		}
+            items = matches.map(block => ({
+                title: Parser.extract(block, config.fields.title, "regex").replace(/<[^>]+>/g, "").trim(),
+                link: this.resolveUrl(Parser.extract(block, config.fields.link, "regex"), config.channelLink),
+                pubDate: Parser.extract(block, config.fields.pubDate, "regex").replace(/<[^>]+>/g, "").trim(),
+                description: Parser.extract(block, config.fields.description, "regex"),
+                author: Parser.extract(block, config.fields.author, "regex").replace(/<[^>]+>/g, "").trim(),
+                category: Parser.extract(block, config.fields.category, "regex").replace(/<[^>]+>/g, "").trim(),
+                _raw: block
+            }));
+        }
 
-		return items;
-	},
+        return items;
+    },
 
 	// 2. 단일 피드 생성 (신규 데이터 + 이전 피드)
 	buildFeed: function (siteId, rawData, oldRss, params) {
@@ -369,23 +371,36 @@ const mergeFeeds = (list, base, limit) => FeedProcessor.mergeFeeds(list, base, l
 const optimizeFeed = (src, old, limit) => FeedProcessor.optimizeFeed(src, old, limit);
 
 function testWithFetch(siteId) {
-	const conf = Sites.resolve(siteId);
-	fetch(`https://corsproxy.io/?${encodeURIComponent(conf.testCases.url)}`)
-		.then(r => r.text())
-		.then(data => console.log("Result XML:\n", buildFeed("dapa_443", data, "").xml))
-		.catch(console.error);
+    const conf = Sites.resolve(siteId);
+    fetch(`https://corsproxy.io/?${encodeURIComponent(conf.testCases.url)}`)
+        .then(r => r.text())
+        .then(data => console.log("Result XML:\n", buildFeed("dapa_443", data, "").xml))
+        .catch(console.error);
 }
 
 let main = function() {
-	// 브라우저 Playground 테스트 러너
-	if (typeof window !== "undefined" && !window.Tasker) {
-		const siteId = "ddaily";
-		console.clear();
-		const feedName = FeedProcessor.getFeedName(siteId);
-		console.log(feedName);
-		const http_data = JSON.stringify(http_data_obj);
-		const result = FeedProcessor.buildFeed(siteId, http_data, "", {});
-		console.log(result.isChanged);
-		console.log(result.xml);
-	}
+    function tset_ddaily() {
+        const siteId = "dapa";
+        console.clear();
+        const feedName = FeedProcessor.getFeedName(siteId);
+        console.log(feedName);
+        const http_data = JSON.stringify(http_data_obj);
+        const result = FeedProcessor.buildFeed(siteId, http_data, "", {});
+        console.log(result.isChanged);
+        console.log(result.xml);
+    }
+    function tset_dapa() {
+        const siteId = "dapa", bbsSeq = "326";
+        console.clear();
+        const feedName = FeedProcessor.getFeedName(siteId, {bbsSeq: bbsSeq});
+        console.log(feedName);
+        const http_data = JSON.stringify(http_data_obj);
+        const result = FeedProcessor.buildFeed(siteId, http_data, "", {bbsSeq: bbsSeq});
+        console.log(result.isChanged);
+        console.log(result.xml);
+    }
+    // 브라우저 Playground 테스트 러너
+    if (typeof window !== "undefined" && !window.Tasker) {
+        tset_dapa();
+    }
 }
