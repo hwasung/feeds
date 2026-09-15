@@ -700,14 +700,17 @@ function buildFeed(siteId, resListJson, oldRssXml, params = {}) {
 
 // 주기별 사이트 ID 목록 추출
 function getTargets(interval) {
-	const targetInterval = interval || (typeof par1 !== "undefined" && par1 && par1 !== "%par1" ? par1 : (typeof local === "function" ? local("%par1") : "hourly"));
-	const targets = Sites.getByInterval(targetInterval);
-	const targetListStr = targets.join(",");
+	var targetInterval = interval || (typeof par1 !== "undefined" && par1 && par1 !== "%par1" ? par1 : (typeof local === "function" ? local("%par1") : "hourly"));
+	var targets = Sites.getByInterval(targetInterval);
 
 	if (typeof setLocal === "function") {
-		setLocal("%target_list", targetListStr);
+		setLocal("%target_list", targets.join(","));
+		for (var i = 0; i < targets.length; i++) {
+			setLocal("%target_list" + (i + 1), targets[i]);
+		}
+		setLocal("%target_count", String(targets.length));
 	}
-	return targetListStr;
+	return targets.join(",");
 }
 
 // ============================================================================
