@@ -326,11 +326,12 @@ const Sites = {
 
 	resolve: function (siteId, params) {
 		if (!siteId) return null;
+		if (this.definitions[siteId]) return this.definitions[siteId];
 		if (siteId.startsWith("dapa")) {
 			const seq = params?.bbsSeq || siteId.replace(/^dapa_?/, "");
-			return this.createDapaConfig(seq);
+			return this.defineDapaBoard(seq);
 		}
-		return this.definitions[siteId] || null;
+		return null;
 	},
 
 	getByInterval: function (interval) {
@@ -467,7 +468,6 @@ ${xmlItems}
 		return { xml: this.assembleXml(config.title, config.link, xmlItems), isChanged };
 	},
 
-	// 3. 다중 피드 병합
 	mergeFeeds: function (feedXmlList, baseXml, limit = 10) {
 		const seenKeys = new Set();
 		const mergedList = [];
@@ -488,7 +488,6 @@ ${xmlItems}
 		return Xml.injectItemsToChannel(base, topItems);
 	},
 
-	// 4. 피드 경량화 최적화
 	optimizeFeed: function (newXml, oldXml, limit = 10) {
 		if (!newXml) return { xml: oldXml || "", isChanged: false };
 		const newRaw = Xml.getItems(newXml);
@@ -511,7 +510,6 @@ ${xmlItems}
 		return { xml: Xml.injectItemsToChannel(newXml, topItems.map(it => it.xml)), isChanged };
 	},
 
-	// 5. GitHub 동기화 페이로드 생성
 	prepareGithubPayload: function (newContent, httpData, httpCode) {
 		if (!newContent) return { shouldSkip: true, payload: "" };
 
