@@ -587,7 +587,7 @@ function optimizeFeed(new_xml, old_xml, limit = 10) {
 	}
 	return result;
 }
-
+/*
 function buildFeed(siteId, http_data = "", old_xml = "", params = {}) {
 	let rawData = http_data;
 	if (typeof rawData === "string" && rawData.startsWith("[") && rawData.endsWith("]")) {
@@ -601,7 +601,7 @@ function buildFeed(siteId, http_data = "", old_xml = "", params = {}) {
 	}
 	return result;
 }
-
+*/
 function prepareGithubPayload(content = "", http_data = "", http_response_code = "") {
 	const res = FeedProcessor.prepareGithubPayload(content, http_data, String(http_response_code));
 	if (typeof setLocal === "function") {
@@ -652,64 +652,50 @@ function prepareRequest(idx) {
 }
 
 // 루프 내부: 수집된 개별 응답 누적
-function collectResponse(res) {
+function collectResponse(data) {
 	const resListJson = typeof local === "function" ? local("%res_list_json") : "[]";
 	const resList = JSON.parse(resListJson);
-	const subRes = (typeof res !== "undefined") ? res : (typeof sub_res !== "undefined" && sub_res !== "%sub_res" ? sub_res : (typeof local === "function" ? local("%sub_res") : ""));
+	const subRes = (typeof data !== "undefined") 
+		? data 
+		: (typeof http_data !== "undefined" && http_data !== "%http_data" ? http_data : (typeof local === "function" ? local("%http_data") : ""));
 
 	resList.push(subRes);
+	
 	if (typeof setLocal === "function") {
 		setLocal("%res_list_json", JSON.stringify(resList));
 	}
 	return resList;
 }
 
-// 파이프라인 총괄: 피드 빌드 및 GitHub 동기화 페이로드 준비
-function syncFeed(siteId, resListJson, ghData, ghCode) {
+// 피드 생성: 수집된 데이터와 기존 RSS를 병합하여 최종 XML 생성
+function buildFeed(siteId, resListJson, oldRssXml, params = {}) {
 	const targetId = siteId || (typeof par1 !== "undefined" && par1 && par1 !== "%par1" ? par1 : (typeof local === "function" ? local("%par1") : "dapa_443"));
+	
+	// 수집된 응답 목록(JSON 배열) 파싱
 	const rawJsonList = resListJson || (typeof local === "function" ? local("%res_list_json") : "[]");
 	let resList = [];
-	try { resList = JSON.parse(rawJsonList); } catch {}
-
-	const httpCode = (typeof ghCode !== "undefined") ? String(ghCode) : (typeof gh_code !== "undefined" ? String(gh_code) : (typeof local === "function" ? local("%gh_code") : ""));
-	const httpData = (typeof ghData !== "undefined") ? ghData : (typeof gh_old_data !== "undefined" && gh_old_data !== "%gh_old_data" ? gh_old_data : (typeof local === "function" ? local("%gh_old_data") : ""));
-
-	// 기존 RSS 본문 추출
-	let oldRss = "";
-	if (httpCode === "200" && httpData) {
-		try {
-			const ghJson = JSON.parse(httpData);
-			if (ghJson.content) oldRss = GitHub.b64Decode(ghJson.content.replace(/\s/g, ""));
-		} catch {}
+	try {
+		resList = typeof rawJsonList === "string" ? JSON.parse(rawJsonList) : rawJsonList;
+	} catch (e) {
+		resList = [rawJsonList];
 	}
 
-	// 피드 빌드
-	const buildRes = FeedProcessor.buildFeed(targetId, resList, oldRss);
+	// 기존 피드 XML 참조
+	const oldXml = (typeof oldRssXml !== "undefined") 
+		? oldRssXml 
+		: (typeof old_xml !== "undefined" && old_xml !== "%old_xml" ? old_xml : (typeof local === "function" ? local("%old_xml") : ""));
 
-	if (!buildRes.xml) {
-		if (typeof setLocal === "function") {
-			setLocal("%should_skip", "true");
-			setLocal("%feed_changed", "false");
-		}
-		return { shouldSkip: true };
-	}
+	// 코어 피드 빌드 실행
+	const result = FeedProcessor.buildFeed(targetId, resList, oldXml, params);
 
-	// GitHub 페이로드 생성
-	const ghRes = FeedProcessor.prepareGithubPayload(buildRes.xml, httpData, httpCode);
-
+	// Tasker 변수 세팅
 	if (typeof setLocal === "function") {
-		setLocal("%should_skip", String(ghRes.shouldSkip));
-		setLocal("%gh_payload", ghRes.payload);
-		setLocal("%feed_changed", String(buildRes.isChanged));
-		setLocal("%feed_xml", buildRes.xml);
+		setLocal("%feed_changed", String(result.isChanged));
+		setLocal("%feed_xml", result.xml);
+		setLocal("%feed_xml_length", String(result.xml.length));
 	}
 
-	return {
-		shouldSkip: ghRes.shouldSkip,
-		payload: ghRes.payload,
-		isChanged: buildRes.isChanged,
-		xml: buildRes.xml
-	};
+	return result;
 }
 
 // 주기별 사이트 ID 목록 추출
@@ -752,7 +738,10 @@ function getTargets(interval) {
 		request: {
 			url: "https://www.ddaily.co.kr/api.php",
 			method: "POST",
-			headers: { "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8" },
+			headers: {
+                "Referer": "https://www.ddaily.co.kr/",
+                "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+            },
 			body: "class=/api/getIssuePick"
 		},
 		fields: {
@@ -1021,7 +1010,6 @@ let test = function() {
 			params = {bbsSeq: "326"};
 		}
 		console.clear();
-        console.log("start");
 		const feedName = FeedProcessor.getFeedName(siteId, params);
 		console.log(feedName);
 		//const http_data = JSON.stringify(http_data_obj);
