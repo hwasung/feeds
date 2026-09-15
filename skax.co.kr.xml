@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends/</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Mon, 14 Sep 2026 22:00:15 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Sep 2026 22:00:07 GMT</lastBuildDate>
+		<item>
+			<title>AXgenticWire MI, 데이터 분석으로 조직의 의사결정을 이끄는 AI 플랫폼</title>
+			<link>https://www.skax.co.kr/insight/trend/3852/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3852/</guid>
+			<pubDate>Tue, 15 Sep 2026 05:02:29 GMT</pubDate>
+			<description><![CDATA[대부분의 기업에 부족한 것은 시장 데이터의 양이 아니라, 흩어진 데이터를 하나의 맥락으로 연결해 판단으로 이어주는 구조입니다. 가격 변동과 실행 시점, 그리고 그 근거까지 함께 제시하는 AI 시장 분석은 어떻게 작동할까요?]]></description>
+		</item>
 		<item>
 			<title>답변에서 실행으로, AI Agent의 활용도를 결정하는 업무 맥락</title>
 			<link>https://www.skax.co.kr/insight/trend/3850/</link>
@@ -81,13 +88,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3830/</guid>
 			<pubDate>Thu, 20 Aug 2026 04:57:38 GMT</pubDate>
 			<description><![CDATA[차세대 BSS 전환에서 테스트 자동화는 단순한 반복 업무 효율화를 넘어 안정적인 서비스 오픈과 품질을 좌우하는 핵심 요소입니다. 이번 8월 MI리포트에서는 AT&amp;T와 Verizon의 BSS 테스트 자동화 사례를 바탕으로 UI 중심 테스트에서 API·데이터 중심 자동화로의 변화를 살펴보고, AI 기반 시나리오 생성부터 테스트 데이터, 병렬 실행, 회귀 테스트까지 차세대 BSS 테스트 전략과 SKT의 단계별 도입 방향을 제시합니다.]]></description>
-		</item>
-		<item>
-			<title>[리포트 다운로드] AI DC 핵심 요소와 추진 전략 | 8월 MI리포트</title>
-			<link>https://www.skax.co.kr/insight/trend/3828/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3828/</guid>
-			<pubDate>Thu, 20 Aug 2026 04:27:17 GMT</pubDate>
-			<description><![CDATA[AI DC의 경쟁력은 얼마나 많은 GPU를 보유했느냐가 아니라 AI Workload를 얼마나 안정적이고 경제적으로 생산할 수 있느냐에 달려 있습니다. 이번 8월 MI리포트에서는 Out-Rack과 In-Rack을 중심으로 AI DC의 핵심 설계 요소를 살펴보고, GPU·네트워크·스토리지·전력·냉각·운영 소프트웨어를 아우르는 AI 인프라 운영 전략과 기업의 단계별 AI Factory 추진 방안을 제시합니다.]]></description>
 		</item>
 	</channel>
 </rss>
