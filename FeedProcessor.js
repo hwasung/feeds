@@ -52,7 +52,6 @@ const Xml = {
 		return trimmed.startsWith("<item") ? `\t\t${trimmed}` : trimmed;
 	},
 
-	// 최종 RSS 본문의 channel 내부에 item들을 주입
 	injectItemsToChannel: (baseXml, items) => {
 		const itemsArray = Array.isArray(items) ? items : [items];
 		const formattedItems = itemsArray
@@ -288,43 +287,43 @@ const Sites = {
 		"761": { menuSeq: "3054", title: "방위산업통계" }
 	},
 
-	defineDapaBoard: function (bbsSeq, interval = "hourly") {
-		bbsSeq = String(bbsSeq || "443").trim();
-		const board = this.dapaBoards[bbsSeq] || { menuSeq: "3031", title: "공지사항" };
+    defineDapaBoard: function (bbsSeq, interval = "hourly") {
+        bbsSeq = String(bbsSeq || "443").trim();
+        const board = this.dapaBoards[bbsSeq] || { menuSeq: "3031", title: "공지사항" };
 
-		return this.define({
-			id: `dapa.go.kr_${board.title}`,
-			feedName: `dapa.go.kr_${board.title}`,
-			title: `방위사업청 ${board.title}`,
-			link: `https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=${board.menuSeq}&bbsSeq=${bbsSeq}`,
-			interval: interval,
-			dataType: "json",
-			request: {
-				url: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
-				method: "GET",
-				headers: { "Referer": "https://www.dapa.go.kr/" },
-				body: ""
-			},
-			fields: {
-				title: "docTitle",
-				link: `https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=\${docSeq}&menuSeq=${board.menuSeq}&bbsSeq=\${bbsSeq}`,
-				date: "regDt",
-				description: "docCn",
-				author: "rgtrNm",
-				category: "ctgryNm"
-			},
-			postProcess: items => items
-				.map(it => {
-					it.description = FeedProcessor.cleanHtml(it.description, /<\/p><p\b[^>]*>\s*<br\/?>\s*<\/p><p\b/.test(it.description));
-					return it;
-				})
-				.filter(it => Boolean(it.title?.trim()))
-		});
-	},
+        return this.define({
+            id: `dapa.go.kr_${board.title}`,
+            feedName: `dapa.go.kr_${board.title}`,
+            title: `방위사업청 ${board.title}`,
+            link: `https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=${board.menuSeq}&bbsSeq=${bbsSeq}`,
+            interval: interval,
+            dataType: "json",
+            request: {
+                url: `https://www.dapa.go.kr/dapa_news/portlet/docList.do?bbsSeq=${bbsSeq}&rownum=10`,
+                method: "GET",
+                headers: { "Referer": "https://www.dapa.go.kr/" },
+                body: ""
+            },
+            fields: {
+                title: "docTitle",
+                link: `https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=\${docSeq}&menuSeq=${board.menuSeq}&bbsSeq=\${bbsSeq}`,
+                date: "regDt",
+                description: "docCn",
+                author: "rgtrNm",
+                category: "ctgryNm"
+            },
+            postProcess: items => items
+                .map(it => {
+                    it.description = FeedProcessor.cleanHtml(it.description, /<\/p><p\b[^>]*>\s*<br\/?>\s*<\/p><p\b/.test(it.description));
+                    return it;
+                })
+                .filter(it => Boolean(it.title?.trim()))
+        });
+    },
 
 	definitions: {},
 
-	resolve: function (siteId, params) {
+    resolve: function (siteId, params) {
 		if (!siteId) return null;
 		if (this.definitions[siteId]) return this.definitions[siteId];
 		if (siteId.startsWith("dapa")) {
@@ -400,7 +399,7 @@ ${xmlItems}
 	itemToXml: it => {
 		const authorTag = it.author ? `\n\t\t\t<author>${Xml.escape(it.author)}</author>` : "";
 		const categoryTag = it.category ? `\n\t\t\t<category>${Xml.escape(it.category)}</category>` : "";
-		const pubDateTag = it.date ? `\n\t\t\t<pubDate>${DateUtil.toRfc822(it.date)}</pubDate>` : "";
+        const pubDateTag = it.date ? `\n\t\t\t<pubDate>${DateUtil.toRfc822(it.date)}</pubDate>` : "";
 		return `<item>\n\t\t\t<title>${Xml.escape(it.title)}</title>\n\t\t\t<link>${Xml.escape(it.link)}</link>\n\t\t\t<guid isPermaLink="true">${Xml.escape(it.link)}</guid>${authorTag}${categoryTag}${pubDateTag}\n\t\t\t<description>${Xml.wrapCdata(it.description)}</description>\n\t\t</item>`;
 	},
 
@@ -612,22 +611,135 @@ function prepareGithubPayload(content = "", http_data = "", http_response_code =
 	return res;
 }
 
+// 사이트 요청 정보 초기화
+function initFeed(siteId) {
+	const targetId = siteId || (typeof par1 !== "undefined" && par1 && par1 !== "%par1" ? par1 : (typeof local === "function" ? local("%par1") : "dapa_443"));
+	const reqInfo = Sites.exportRequest(targetId);
+
+	if (reqInfo) {
+		if (typeof setLocal === "function") {
+			setLocal("%feed_name", reqInfo.feedName);
+			setLocal("%req_list_json", JSON.stringify(reqInfo.requests));
+			setLocal("%req_count", String(reqInfo.requests.length));
+			setLocal("%res_list_json", "[]");
+		}
+		return reqInfo;
+	} else {
+		if (typeof flash === "function") flash("사이트 설정을 찾을 수 없음: " + targetId);
+		if (typeof exit === "function") exit();
+		return null;
+	}
+}
+
+// 루프 내부: 현재 순번의 HTTP 요청 파라미터 준비
+function prepareRequest(idx) {
+	const reqListJson = typeof local === "function" ? local("%req_list_json") : "[]";
+	const reqs = JSON.parse(reqListJson);
+	const targetIdx = (typeof idx !== "undefined") ? parseInt(idx, 10) : (typeof local === "function" ? parseInt(local("%req_idx"), 10) - 1 : 0);
+	const cur = reqs[targetIdx] || reqs[0] || {};
+
+	const headersStr = Object.entries(cur.headers || {})
+		.map(([k, v]) => `${k}: ${v}`)
+		.join("\n");
+
+	if (typeof setLocal === "function") {
+		setLocal("%cur_url", cur.url || "");
+		setLocal("%cur_method", cur.method || "GET");
+		setLocal("%cur_headers", headersStr);
+		setLocal("%cur_body", cur.body || "");
+	}
+	return cur;
+}
+
+// 루프 내부: 수집된 개별 응답 누적
+function collectResponse(res) {
+	const resListJson = typeof local === "function" ? local("%res_list_json") : "[]";
+	const resList = JSON.parse(resListJson);
+	const subRes = (typeof res !== "undefined") ? res : (typeof sub_res !== "undefined" && sub_res !== "%sub_res" ? sub_res : (typeof local === "function" ? local("%sub_res") : ""));
+
+	resList.push(subRes);
+	if (typeof setLocal === "function") {
+		setLocal("%res_list_json", JSON.stringify(resList));
+	}
+	return resList;
+}
+
+// 파이프라인 총괄: 피드 빌드 및 GitHub 동기화 페이로드 준비
+function syncFeed(siteId, resListJson, ghData, ghCode) {
+	const targetId = siteId || (typeof par1 !== "undefined" && par1 && par1 !== "%par1" ? par1 : (typeof local === "function" ? local("%par1") : "dapa_443"));
+	const rawJsonList = resListJson || (typeof local === "function" ? local("%res_list_json") : "[]");
+	let resList = [];
+	try { resList = JSON.parse(rawJsonList); } catch {}
+
+	const httpCode = (typeof ghCode !== "undefined") ? String(ghCode) : (typeof gh_code !== "undefined" ? String(gh_code) : (typeof local === "function" ? local("%gh_code") : ""));
+	const httpData = (typeof ghData !== "undefined") ? ghData : (typeof gh_old_data !== "undefined" && gh_old_data !== "%gh_old_data" ? gh_old_data : (typeof local === "function" ? local("%gh_old_data") : ""));
+
+	// 기존 RSS 본문 추출
+	let oldRss = "";
+	if (httpCode === "200" && httpData) {
+		try {
+			const ghJson = JSON.parse(httpData);
+			if (ghJson.content) oldRss = GitHub.b64Decode(ghJson.content.replace(/\s/g, ""));
+		} catch {}
+	}
+
+	// 피드 빌드
+	const buildRes = FeedProcessor.buildFeed(targetId, resList, oldRss);
+
+	if (!buildRes.xml) {
+		if (typeof setLocal === "function") {
+			setLocal("%should_skip", "true");
+			setLocal("%feed_changed", "false");
+		}
+		return { shouldSkip: true };
+	}
+
+	// GitHub 페이로드 생성
+	const ghRes = FeedProcessor.prepareGithubPayload(buildRes.xml, httpData, httpCode);
+
+	if (typeof setLocal === "function") {
+		setLocal("%should_skip", String(ghRes.shouldSkip));
+		setLocal("%gh_payload", ghRes.payload);
+		setLocal("%feed_changed", String(buildRes.isChanged));
+		setLocal("%feed_xml", buildRes.xml);
+	}
+
+	return {
+		shouldSkip: ghRes.shouldSkip,
+		payload: ghRes.payload,
+		isChanged: buildRes.isChanged,
+		xml: buildRes.xml
+	};
+}
+
+// 주기별 사이트 ID 목록 추출
+function getTargets(interval) {
+	const targetInterval = interval || (typeof par1 !== "undefined" && par1 && par1 !== "%par1" ? par1 : (typeof local === "function" ? local("%par1") : "hourly"));
+	const targets = Sites.getByInterval(targetInterval);
+	const targetListStr = targets.join(",");
+
+	if (typeof setLocal === "function") {
+		setLocal("%target_list", targetListStr);
+	}
+	return targetListStr;
+}
+
 // ============================================================================
 // 사이트 레지스트리 일괄 등록
 // ============================================================================
 [
-	// 방위사업청
-	Sites.defineDapaBoard("443", "hourly"), // 공지사항
-	Sites.defineDapaBoard("326", "hourly"), // 보도자료
-	Sites.defineDapaBoard("309", "hourly"), // 언론보도설명
-	Sites.defineDapaBoard("462", "daily"),  // 업무게시판
-	Sites.defineDapaBoard("243", "daily"),  // 주요정책정보
-	Sites.defineDapaBoard("362", "daily"),  // 사업정보
-	Sites.defineDapaBoard("244", "daily"),  // 계약정보
-	Sites.defineDapaBoard("245", "daily"),  // 행정감시 관련정보
-	Sites.defineDapaBoard("246", "daily"),  // 기타 공개정보
-	Sites.defineDapaBoard("363", "daily"),  // 중점관리대상사업목록
-	Sites.defineDapaBoard("761", "weekly"), // 방위산업통계
+    // 방위사업청
+    Sites.defineDapaBoard("443", "hourly"), // 공지사항
+    Sites.defineDapaBoard("326", "hourly"), // 보도자료
+    Sites.defineDapaBoard("309", "hourly"), // 언론보도설명
+    Sites.defineDapaBoard("462", "daily"),  // 업무게시판
+    Sites.defineDapaBoard("243", "daily"),  // 주요정책정보
+    Sites.defineDapaBoard("362", "daily"),  // 사업정보
+    Sites.defineDapaBoard("244", "daily"),  // 계약정보
+    Sites.defineDapaBoard("245", "daily"),  // 행정감시 관련정보
+    Sites.defineDapaBoard("246", "daily"),  // 기타 공개정보
+    Sites.defineDapaBoard("363", "daily"),  // 중점관리대상사업목록
+    Sites.defineDapaBoard("761", "weekly"), // 방위산업통계
 
 	// 디지털데일리
 	{
@@ -736,7 +848,7 @@ function prepareGithubPayload(content = "", http_data = "", http_response_code =
 		fields: {
 			title: "td[3]/text()",
 			link: "td[5]/a/@href",
-			date: "td[4]",
+            date: "td[4]",
 			description: "concat('<img src=\"https://www.dtaq.re.kr', td[2]/img/@src, '\" style=\"max-height: 300px\"/><br/>발간일자: ', td[4]/text())"
 		}
 	}),
@@ -746,7 +858,7 @@ function prepareGithubPayload(content = "", http_data = "", http_response_code =
 		id: "g-enews.com",
 		title: "글로벌이코노믹",
 		link: "https://www.g-enews.com/issuelist.php?ud=2019041402134303045&ct=g000000",
-		itemPattern: "//div[@class='l_lt']//a[span and starts-with(@href, 'https://www.g-enews.com/article/')]/parent::*",
+        itemPattern: "//div[@class='l_lt']//a[span and starts-with(@href, 'https://www.g-enews.com/article/')]/parent::*",
 		fields: { title: "a[1]/span/text()", link: "a[1]/@href", date: "../div/p/text()" }
 	}),
 	Sites.define({
@@ -893,7 +1005,7 @@ function prepareGithubPayload(content = "", http_data = "", http_response_code =
 });
 
 let test = function() {
-	const siteId = "g-enews.com";
+    const siteId = "g-enews.com";
 
 	function testWithFetch(siteId) {
 		const conf = Sites.resolve(siteId);
@@ -909,7 +1021,7 @@ let test = function() {
 			params = {bbsSeq: "326"};
 		}
 		console.clear();
-		console.log("start");
+        console.log("start");
 		const feedName = FeedProcessor.getFeedName(siteId, params);
 		console.log(feedName);
 		//const http_data = JSON.stringify(http_data_obj);
