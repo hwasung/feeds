@@ -4,14 +4,7 @@
 		<title>ETRI 단행본/발표자료</title>
 		<link>https://ksp.etri.re.kr/ksp/plan-report/search</link>
 		<description>ETRI 단행본/발표자료</description>
-		<lastBuildDate>Fri, 18 Sep 2026 07:01:07 +0900</lastBuildDate>
-		<item>
-			<title>On Body Device 폼팩터별 기능 구현 수준 및 개선 가능성 분석</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</guid>
-			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1571.pdf]]></description>
-		</item>
+		<lastBuildDate>Fri, 18 Sep 2026 12:38:50 +0900</lastBuildDate>
 		<item>
 			<title>[표준화 Newsletter] 제210호 (2026.07.31)</title>
 			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1570&amp;dataDivCd=02</link>
@@ -20,11 +13,32 @@
 			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1570.pdf]]></description>
 		</item>
 		<item>
+			<title>On Body Device 폼팩터별 기능 구현 수준 및 개선 가능성 분석</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</guid>
+			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
+			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1571.pdf]]></description>
+		</item>
+		<item>
+			<title>추론의 시대, AI 구조 전환과 기술패권 전망</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</guid>
+			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
+			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1562.pdf]]></description>
+		</item>
+		<item>
 			<title>[표준화 Newsletter] 제209호 (2026.06.30)</title>
 			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1569&amp;dataDivCd=02</link>
 			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1569&amp;dataDivCd=02</guid>
 			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
 			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1569.pdf]]></description>
+		</item>
+		<item>
+			<title>Quantum-AI 융합: 계산과 지능의 공진화 프레임워크</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</guid>
+			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
+			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1563.pdf]]></description>
 		</item>
 		<item>
 			<title>[표준화 Newsletter] 제208호 (2026.05.31)</title>
@@ -60,20 +74,6 @@
 			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1564&amp;dataDivCd=02</guid>
 			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
 			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1564.pdf]]></description>
-		</item>
-		<item>
-			<title>Quantum-AI 융합: 계산과 지능의 공진화 프레임워크</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</guid>
-			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1563.pdf]]></description>
-		</item>
-		<item>
-			<title>추론의 시대, AI 구조 전환과 기술패권 전망</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</guid>
-			<pubDate>Fri, 18 Sep 2026 07:01:07 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1562.pdf]]></description>
 		</item>
 	</channel>
 </rss>
