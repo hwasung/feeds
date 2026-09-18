@@ -4,7 +4,49 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Fri, 18 Sep 2026 13:41:51 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 18 Sep 2026 13:56:40 +0900</lastBuildDate>
+		<item>
+			<title>정상 데이터만으로 로봇 고장을 예측하는 AI 개발기</title>
+			<link>https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 13:56:40 +0900</pubDate>
+		</item>
+		<item>
+			<title>마키나락스 엔지니어의 밤 – Build. Share. Connect.</title>
+			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ec%9d%98-%eb%b0%a4-build-share-connect/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ec%9d%98-%eb%b0%a4-build-share-connect/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 13:56:39 +0900</pubDate>
+		</item>
+		<item>
+			<title>[현장 노트] 12일 → 4시간, 반도체 소부장 AX 솔루션 구현 기록</title>
+			<link>https://www.makinarocks.ai/blog/%ed%98%84%ec%9e%a5%eb%85%b8%ed%8a%b8-%ec%84%9c%ed%94%8c%eb%9f%ac%ec%8a%a4%ea%b8%80%eb%a1%9c%eb%b2%8c/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ed%98%84%ec%9e%a5%eb%85%b8%ed%8a%b8-%ec%84%9c%ed%94%8c%eb%9f%ac%ec%8a%a4%ea%b8%80%eb%a1%9c%eb%b2%8c/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 13:56:38 +0900</pubDate>
+		</item>
+		<item>
+			<title>MLOps 플랫폼 도입 전 확인해야 할 5가지 체크리스트</title>
+			<link>https://www.makinarocks.ai/blog/mlops-platform-checklist/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/mlops-platform-checklist/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 13:56:37 +0900</pubDate>
+		</item>
+		<item>
+			<title>AI 운영에서 실패하지 않는 전략 짜기</title>
+			<link>https://www.makinarocks.ai/blog/ai-%ec%9a%b4%ec%98%81%ec%97%90%ec%84%9c-%ec%8b%a4%ed%8c%a8%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%a0%84%eb%9e%b5-%ec%a7%9c%ea%b8%b0/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/ai-%ec%9a%b4%ec%98%81%ec%97%90%ec%84%9c-%ec%8b%a4%ed%8c%a8%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%a0%84%eb%9e%b5-%ec%a7%9c%ea%b8%b0/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 13:56:36 +0900</pubDate>
+		</item>
+		<item>
+			<title>마키나락스는 왜 AI 하지 말라고 광고할까?</title>
+			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4%eb%8a%94-%ec%99%9c-ai-%ed%95%98%ec%a7%80-%eb%a7%90%eb%9d%bc%ea%b3%a0-%ea%b4%91%ea%b3%a0%ed%95%a0%ea%b9%8c/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4%eb%8a%94-%ec%99%9c-ai-%ed%95%98%ec%a7%80-%eb%a7%90%eb%9d%bc%ea%b3%a0-%ea%b4%91%ea%b3%a0%ed%95%a0%ea%b9%8c/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 13:56:35 +0900</pubDate>
+		</item>
 		<item>
 			<title>마키나락스 리브랜딩: 새 로고가 생겼습니다</title>
 			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%ec%83%88-%eb%a1%9c%ea%b3%a0%ea%b0%80-%ec%83%9d%ea%b2%bc%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
@@ -32,48 +74,6 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%eb%b0%98%eb%8f%84%ec%b2%b4-%ea%b3%b5%ec%a0%95-%ed%92%88%ec%a7%88-%ec%98%88%ec%b8%a1-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc/</guid>
 			<category>Use Case</category>
 			<pubDate>Fri, 18 Sep 2026 13:42:02 +0900</pubDate>
-		</item>
-		<item>
-			<title>[현장 노트] 전기차 배터리 공정의 SDF를 위한 피지컬 AI 구현 기록</title>
-			<link>https://www.makinarocks.ai/blog/%ed%98%84%ec%9e%a5%eb%85%b8%ed%8a%b8-%ec%a0%84%ea%b8%b0%ec%b0%a8-%eb%b0%b0%ed%84%b0%eb%a6%ac-sdf-%ed%94%bc%ec%a7%80%ec%bb%ac-ai/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ed%98%84%ec%9e%a5%eb%85%b8%ed%8a%b8-%ec%a0%84%ea%b8%b0%ec%b0%a8-%eb%b0%b0%ed%84%b0%eb%a6%ac-sdf-%ed%94%bc%ec%a7%80%ec%bb%ac-ai/</guid>
-			<category>Blog</category>
-			<pubDate>Fri, 18 Sep 2026 13:42:01 +0900</pubDate>
-		</item>
-		<item>
-			<title>P&amp;ID 도면 I/O 리스트 자동 추출 시스템: 설계 리소스 90% 이상 절감</title>
-			<link>https://www.makinarocks.ai/use-case/pid-%eb%8f%84%eb%a9%b4-io-%eb%a6%ac%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99-%ec%b6%94%ec%b6%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/pid-%eb%8f%84%eb%a9%b4-io-%eb%a6%ac%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99-%ec%b6%94%ec%b6%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c/</guid>
-			<category>Use Case</category>
-			<pubDate>Fri, 18 Sep 2026 13:42:01 +0900</pubDate>
-		</item>
-		<item>
-			<title>마키나락스 소모임을 소개합니다</title>
-			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%86%8c%eb%aa%a8%ec%9e%84%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%86%8c%eb%aa%a8%ec%9e%84%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/</guid>
-			<category>Blog</category>
-			<pubDate>Fri, 18 Sep 2026 13:42:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>산업이 오래 품어온 난제를 함께 풀 동료를 찾습니다 – FD 프론티어팀</title>
-			<link>https://www.makinarocks.ai/blog/fd-%ed%94%84%eb%a1%a0%ed%8b%b0%ec%96%b4%ed%8c%80/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/fd-%ed%94%84%eb%a1%a0%ed%8b%b0%ec%96%b4%ed%8c%80/</guid>
-			<category>Blog</category>
-			<pubDate>Fri, 18 Sep 2026 13:41:59 +0900</pubDate>
-		</item>
-		<item>
-			<title>거대한 LLM을 손안의 디바이스에 담을 동료를 찾습니다 – FD 모델 최적화팀</title>
-			<link>https://www.makinarocks.ai/blog/fd-%eb%aa%a8%eb%8d%b8-%ec%b5%9c%ec%a0%81%ed%99%94%ed%8c%80/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/fd-%eb%aa%a8%eb%8d%b8-%ec%b5%9c%ec%a0%81%ed%99%94%ed%8c%80/</guid>
-			<category>Blog</category>
-			<pubDate>Fri, 18 Sep 2026 13:41:58 +0900</pubDate>
-		</item>
-		<item>
-			<title>마키나락스 Fit 인터뷰 전, 가장 먼저 해야 할 일은?</title>
-			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-fit-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b0%80%ec%9d%b4%eb%93%9c/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-fit-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b0%80%ec%9d%b4%eb%93%9c/</guid>
-			<category>Blog</category>
-			<pubDate>Fri, 18 Sep 2026 13:41:57 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
