@@ -4,7 +4,13 @@
 		<title>방위사업청 업무가이드북</title>
 		<link>https://www.dapa.go.kr/dapa/pcm/pblictn/pblictnListView.do?seq=3&amp;menuSeq=3043</link>
 		<description>방위사업청 업무가이드북</description>
-		<lastBuildDate>Thu, 17 Sep 2026 21:00:08 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 18 Sep 2026 09:00:09 +0900</lastBuildDate>
+		<item>
+			<title>방위사업청 20년사</title>
+			<link>https://www.dapa.go.kr/upload/pcm/_86035e05-f5df-4446-a164-57d5e14efd711780014911973.pdf</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/upload/pcm/_86035e05-f5df-4446-a164-57d5e14efd711780014911973.pdf</guid>
+			<description><![CDATA[<img src="https://www.dapa.go.kr/upload/pcm/_ee9bd377-8b11-461b-8528-52989f5ad7e91780014911858.jpg">]]></description>
+		</item>
 		<item>
 			<title>국내계약 핵심실무 가이드북</title>
 			<link>https://www.dapa.go.kr/upload/pcm/_e2a95b77-cd95-4a22-9fbb-58246af49e271767846540500.pdf</link>
@@ -58,12 +64,6 @@
 			<link>https://www.dapa.go.kr/upload/pcm/_5d40ae33-c78d-4c6a-adb9-e84b0f236fc91788153735688.pdf</link>
 			<guid isPermaLink="true">https://www.dapa.go.kr/upload/pcm/_5d40ae33-c78d-4c6a-adb9-e84b0f236fc91788153735688.pdf</guid>
 			<description><![CDATA[<img src="https://www.dapa.go.kr/upload/pcm/_eef67745-9da9-4a16-9a9d-16c8a90437a71788153735582.jpg">]]></description>
-		</item>
-		<item>
-			<title>방위사업청 20년사</title>
-			<link>https://www.dapa.go.kr/upload/pcm/_86035e05-f5df-4446-a164-57d5e14efd711780014911973.pdf</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/upload/pcm/_86035e05-f5df-4446-a164-57d5e14efd711780014911973.pdf</guid>
-			<description><![CDATA[<img src="https://www.dapa.go.kr/upload/pcm/_ee9bd377-8b11-461b-8528-52989f5ad7e91780014911858.jpg">]]></description>
 		</item>
 	</channel>
 </rss>
