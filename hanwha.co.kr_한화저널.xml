@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>한화저널</title>
+		<link>https://www.hanwha.co.kr/newsroom/discover/list.do</link>
+		<description>한화저널</description>
+		<lastBuildDate>Mon, 21 Sep 2026 12:19:08 +0900</lastBuildDate>
+		<item>
+			<title>대한민국 기간산업의 진화</title>
+			<link>https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16198</link>
+			<guid isPermaLink="true">https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16198</guid>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://www.hanwha.co.kr/upload/news/journalContent/2026/09/01/1788225056919_87.png/">]]></description>
+		</item>
+		<item>
+			<title>조선업의 새로운 지평, 글로벌 해양 안보 파트너</title>
+			<link>https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16092</link>
+			<guid isPermaLink="true">https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16092</guid>
+			<pubDate>Tue, 25 Aug 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://www.hanwha.co.kr/upload/news/journalContent/2026/08/25/1787616860392_39.png/">]]></description>
+		</item>
+		<item>
+			<title>Accelerate Innovation 4. 해상 전력의 미래, 무인수상정과 유·무인 복합전투체계</title>
+			<link>https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16030</link>
+			<guid isPermaLink="true">https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16030</guid>
+			<pubDate>Wed, 05 Aug 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://www.hanwha.co.kr/upload/news/journalContent/2026/08/04/1785832346900_75.png/">]]></description>
+		</item>
+	</channel>
+</rss>
