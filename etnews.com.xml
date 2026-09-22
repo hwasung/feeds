@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 22 Sep 2026 19:01:18 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 22 Sep 2026 20:01:06 +0900</lastBuildDate>
+		<item>
+			<title>알리바바, 10조 파라미터 AI 개발 추진…데이터센터 20GW로 확대</title>
+			<link>https://www.etnews.com/20260922000504</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260922000504</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 22 Sep 2026 19:23:08 +0900</pubDate>
+			<description><![CDATA[알리바바가 최대 10조개 파라미터 규모의 차세대 인공지능(AI) 모델과 자체 AI 반도체, 대규모 데이터센터를 앞세워 풀스택 AI 전략을 강화한다. 알리바바는 연례 기술 행사 '압사라 컨퍼런스(Apsara Conference)'에서 AI 칩과 클라우드 인프라, 파운데이션 모델, AI 에이전트를 아우르는 기술 로드맵을 공개했다고 22일 밝혔다. 알리바바는 현재 차세대 모델 '큐원4(Qwen 4)'를 학습 중이다. 후속 모델인 큐원4.5와 큐원5]]></description>
+		</item>
+		<item>
+			<title>ABC, 금융기관 온프레미스 디지털자산 플랫폼 &apos;트러스&apos; 출시</title>
+			<link>https://www.etnews.com/20260922000498</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260922000498</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 22 Sep 2026 18:58:11 +0900</pubDate>
+			<description><![CDATA[안랩블록체인컴퍼니(ABC)는 금융기관 내부망에 직접 구축하는 기업용 디지털자산 플랫폼 '트러스(TRUSS)'를 정식 출시했다고 22일 밝혔다. 트러스는 디지털자산 업무에 필요한 기능을 하나의 아키텍처로 통합한 온프레미스형 플랫폼이다. 암호화 키와 승인 정책, 거래 데이터를 금융기관 내부에 보관하고 직접 운영할 수 있도록 지원한다. 주요 특징은 △공통 통제 기능을 담당하는 코어 인프라를 기반으로 자산 운용과 업무 확장 기능을 결합한 통합 아키텍처]]></description>
+		</item>
 		<item>
 			<title>&apos;보안 특화 AI&apos; 개발 착수…“美中 프런티어 AI급 성능 목표”</title>
 			<link>https://www.etnews.com/20260922000492</link>
@@ -250,24 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 22 Sep 2026 11:52:37 +0900</pubDate>
 			<description><![CDATA[포스코그룹이 AI 에이전트 개발 컨설팅에 활용할 수 있는 AI를 개발해 현장에 적용한다. 포스코DX는 AI 에이전트 '에이전티-씨'를 개발해 기업의 AX(AI 전환) 프로젝트에 본격 적용하기 시작했다고 22일 밝혔다. 에이전티-씨는 AI 에이전트 도입을 위한 업무 진단부터 요구사항 분석, 설계서 작성까지 AI 에이전트 개발에 앞선 전 과정을 컨설턴트와 함께 수행한다. 기업의 AX 추진 수요는 여러 업무 영역에서 동시에 발생하는 경우가 많다. 이]]></description>
-		</item>
-		<item>
-			<title>CJ올리브네트웍스, 기프트카드 상반기 취급고 전년比 33% ↑...B2B 수요 증가·공급처 확대</title>
-			<link>https://www.etnews.com/20260922000261</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000261</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 11:46:14 +0900</pubDate>
-			<description><![CDATA[CJ올리브네트웍스의 기프트카드가 지난해에 이어 올해도 판매고 상승세를 이어가며 꾸준한 성장을 보이고 있다. CJ올리브네트웍스는 올해 상반기 기프트카드 취급고가 전년 동기 대비 33% 이상 증가했다고 22일 밝혔다. 지난해 연간 취급고가 전년 대비 약 27% 증가한 바 있어 올 상반기도 전년 기록을 크게 뛰어 넘었다.  회사는 성장 배경으로 기업 간 거래(B2B) 수요 확대를 꼽았다. 지난 7월 LG유플러스 홈서비스 리워드로 CJ기프트카드와 올리]]></description>
-		</item>
-		<item>
-			<title>비즈플레이, 우리카드와 손잡고 기업 출장관리 서비스 확대</title>
-			<link>https://www.etnews.com/20260922000260</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000260</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 11:37:20 +0900</pubDate>
-			<description><![CDATA[비즈플레이는 우리카드와 기업고객의 출장 및 카드 관련 업무 편의성을 높이기 위한 업무협약(MOU)을 체결했다고 22일 밝혔다. 협약식은 지난 18일 서울시 영등포구 비즈플레이 본사에서 열렸으며, 석창규 비즈플레이 대표와 진성원 우리카드 대표 등 양사 주요 관계자가 참석했다. 이번 협약에 따라 비즈플레이는 우리카드 기업고객을 대상으로 'bzp출장관리'와 비대면 카드제신고 서비스 이용 기회를 넓힌다. 우리카드는 비즈플레이 플랫폼을 통해 기업대상 마]]></description>
 		</item>
 	</channel>
 </rss>
