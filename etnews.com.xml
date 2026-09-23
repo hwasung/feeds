@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 23 Sep 2026 13:00:45 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 23 Sep 2026 17:01:06 +0900</lastBuildDate>
+		<item>
+			<title>개인정보위, 민관 정책협의회 개최…AI 에이전트 개인정보 보호 방안 논의</title>
+			<link>https://www.etnews.com/20260923000077</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260923000077</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 23 Sep 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 인공지능(AI) 에이전트의 권한 설정과 개인정보 관리 기준을 논의했다. AI가 자율적으로 수행할 업무의 범위, 참여 주체별 책임, 개인정보 보관·파기 기준 등이 주요 과제로 제시됐다. 개인정보위는 23일 서울 은행회관에서 'AI 프라이버시 민·관 정책협의회' 제2차 전체회의를 개최했다. 김병필 카이스트 교수는 정책협의회 1분과 활동의 일환으로 지난 7~8월 국내외 AI 개발·도입 기관 15곳을 대상으로 진행한 현장 인터뷰 결...]]></description>
+		</item>
 		<item>
 			<title>[스냅드래곤 서밋]영상 편집부터 사진찍기 좋은 자세까지 …스냅드래곤 기반 AI 솔루션 선보여</title>
 			<link>https://www.etnews.com/20260923000124</link>
@@ -260,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 22 Sep 2026 15:57:02 +0900</pubDate>
 			<description><![CDATA[개인정보보호위원회가 침해사고를 겪은 통신 3사와 함께 인공지능(AI) 시대 개인정보 보호를 위한 사전예방 체계 구축에 나선다. 22일 개인정보위에 따르면 송경희 위원장은 오는 28일 오후 3시 서울 중구 프레스센터에서 정재헌 SK텔레콤 대표, 박윤영 KT 대표, 홍범식 LG유플러스 대표와 정책소통 간담회를 갖는다. 간담회에서는 개인정보 보호와 안전한 활용을 위한 공동선언문을 발표하고, 개정 개인정보 보호법과 통신 분야 사전예방 보호체계 구축 방...]]></description>
-		</item>
-		<item>
-			<title>웅진IT, 英 수입차에 AI 디지털 모빌리티 플랫폼 공급</title>
-			<link>https://www.etnews.com/20260922000435</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000435</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 15:56:14 +0900</pubDate>
-			<description><![CDATA[웅진이 인공지능(AI) 기능을 탑재한 디지털 모빌리티 플랫폼 'WDMS(Woongjin Digital Mobility Solution) AI'를 영국 수입차 브랜드 딜러 업무에 적용했다. 차량과 고객 데이터를 바탕으로 필요한 정비 항목과 이용 가능한 혜택을 제안하는 등 고객 맞춤형 응대를 지원하고 있다. 향후 정비를 넘어 판매·마케팅·고객관리 등 모빌리티 비즈니스 전반으로 AI 적용 범위를 확대할 계획이다. 웅진은 자체 개발한 AI 기반 고객...]]></description>
 		</item>
 	</channel>
 </rss>
