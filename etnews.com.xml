@@ -4,7 +4,24 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 23 Sep 2026 11:00:51 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 23 Sep 2026 12:00:42 +0900</lastBuildDate>
+		<item>
+			<title>[스냅드래곤 서밋]모듈러 인수한 퀄컴 “특정 벤더 의존 않는 &apos;개방형 AI 소프트웨어 플랫폼&apos; 구축”</title>
+			<link>https://www.etnews.com/20260923000105</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260923000105</guid>
+			<author>권동준</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 23 Sep 2026 11:06:33 +0900</pubDate>
+			<description><![CDATA[퀄컴이 최근 인수를 완료한 모듈러를 통해 개방형 '인공지능(AI) 소프트웨어 플랫폼' 구축에 나선다. 서로 다른 AI 하드웨어에서도 구동할 수 있는 소프트웨어를 통해 '개방형 생태계'를 조성하려는 시도다. AI 인프라에 선택지를 높일 수 있어 다양한 하드웨어를 검토 중인 국가별 '소버린 AI' 전략에도 적합하다는 평가다. 크리스티아노 아몬 퀄컴 최고경영자(CEO)는 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서]]></description>
+		</item>
+		<item>
+			<title>[김종면의 K브랜드 집중탐구]〈44〉K-언더웨어의 세대교체, 베리시(Verish)</title>
+			<link>https://www.etnews.com/20260923000103</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260923000103</guid>
+			<category>오피니언</category>
+			<pubDate>Wed, 23 Sep 2026 10:58:52 +0900</pubDate>
+			<description><![CDATA[2021년 시작한 브랜드가 지난해 매출 915억 원을 기록하며 창업 5년 만에 '1000억 브랜드' 입성을 앞두고 있다. 바로 베리시의 이야기다. 와이어리스 브라에서 시작한 베리시는 이제 언더웨어를 넘어 어패럴까지 아우르며 라이프웨어 브랜드로 확장하고 있다. 온라인에서 증명한 제품력을 기반으로 오프라인 접점을 확대하고, 글로벌 시장 진출도 본격적으로 준비하고 있다. 베리시가 지난 5년간 만들어온 성장의 기록과, 그다음 단계로 향하는 변화를 따라]]></description>
+		</item>
 		<item>
 			<title>개인정보위, 청년인턴 제작 정책 콘텐츠 SNS 공개</title>
 			<link>https://www.etnews.com/20260923000083</link>
@@ -252,24 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 22 Sep 2026 15:33:11 +0900</pubDate>
 			<description><![CDATA[노타가 퀄컴 산업용 시스템온칩(SoC) 신경망처리장치(NPU)에서 인공지능(AI) 모델을 최적화해 로봇팔 작업 속도를 3배 높였다. 노타는 퀄컴 테크놀로지스 산업용 SoC '드래곤윙 IQ-9075' 프로세서 NPU에 시각언어행동(VLA) 모델 실행 환경을 최적화해 모델 추론 속도를 최대 7배 높였고 작업 속도도 3배 향상했다고 22일 밝혔다. 성능 검증은 명령을 받은 로봇팔이 큐브를 반대편 매트로 옮기는 방식으로 진행했다. 최적화 후 작업 시간]]></description>
-		</item>
-		<item>
-			<title>아이티센피엔에스, 국가검증 암호·키관리 역량 기반 PQC 전환 사업 본격화</title>
-			<link>https://www.etnews.com/20260922000395</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000395</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 15:18:36 +0900</pubDate>
-			<description><![CDATA[아이티센피엔에스가 정부의 양자보안 의무화 정책에 대응해 국가검증 암호 및 키관리 기술을 기반으로 한 양자내성암호(PQC) 전환 사업을 본격적으로 추진한다고 22일 밝혔다. 최근 인공지능 기반의 해킹 위협이 거세지고 양자컴퓨팅 발전으로 기존 암호체계가 무력화될 위험이 커짐에 따라, 정부와 지자체, 공공기관은 PQC와 양자키분배 등 양자보안기술 확보 계획을 수립해야 하는 의무를 지게 됐다. 이에 따라 공공을 비롯해 금융, 국방, 통신 등 높은 보안]]></description>
-		</item>
-		<item>
-			<title>수산아이앤티, SSL 가시화 솔루션 &apos;국정원 보안기능확인서&apos; 획득</title>
-			<link>https://www.etnews.com/20260922000388</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000388</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 15:11:33 +0900</pubDate>
-			<description><![CDATA[수산아이앤티는 SSL(Secure Sockets Layer) 가시화 솔루션 'e프리즘 SSL VA'가 국가정보원 보안기능확인서를 획득했다고 22일 밝혔다. 보안기능확인서는 정보보호 제품이 국가용 보안요구사항에 부합하는지를 확인하는 제도다. 최근 웹 서비스 전반에서 SSL/TLS 암호화가 보편화되면서 암호화 트래픽에 대한 보안 가시성 확보가 주요 과제로 떠오르고 있다. 암호화된 트래픽을 분석하지 못하면 기존 보안장비를 우회하는 악성코드와 사이버]]></description>
 		</item>
 	</channel>
 </rss>
