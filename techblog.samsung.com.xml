@@ -4,7 +4,15 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Thu, 17 Sep 2026 18:11:44 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 24 Sep 2026 07:01:44 +0900</lastBuildDate>
+		<item>
+			<title>LLM 하나만 믿지 마세요 — 모든 LLM을 관점별로 싸우게 한 코드리뷰, Code Review War</title>
+			<link>https://techblog.samsung.com/blog/article/98</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/98</guid>
+			<author>김완희</author>
+			<pubDate>Wed, 23 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/98" alt="">]]></description>
+		</item>
 		<item>
 			<title>몇 달 전에 풀었던 문제를 오늘 또 풀고 있었습니다 — AI와의 대화를 팀의 지식으로 자동 축적한 이야기</title>
 			<link>https://techblog.samsung.com/blog/article/97</link>
@@ -84,6 +92,14 @@
 			<author>Na Jiang 외 3명</author>
 			<pubDate>Thu, 21 May 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/88" alt="">]]></description>
+		</item>
+		<item>
+			<title>당신의 모바일폰 영상이 ‘영화’가 되는 순간… APV 코덱으로 현실이 되다</title>
+			<link>https://techblog.samsung.com/blog/article/87</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/87</guid>
+			<author>최광표</author>
+			<pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/87" alt="">]]></description>
 		</item>
 	</channel>
 </rss>
