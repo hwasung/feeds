@@ -4,9 +4,18 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 24 Sep 2026 15:00:36 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 24 Sep 2026 16:00:42 +0900</lastBuildDate>
 		<item>
-			<title>오픈AI·앤트로픽, UN서 &apos;AI 인간 통제 상실&apos; 경고…美은 규제 반대</title>
+			<title>샘 올트먼, UN안보리 회의에서 인공지능(AI)과 국제 안보 주제 발언</title>
+			<link>https://www.etnews.com/20260924000044</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260924000044</guid>
+			<author>박지호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 24 Sep 2026 15:26:35 +0900</pubDate>
+			<description><![CDATA[23일(현지시간) 뉴욕 유엔 본부에서 열린 유엔 안전보장이사회 회의에서 샘 올트먼 오픈AI 최고경영자(CEO)가 국제 평화와 안보 유지 의제 하에 '인공지능(AI)과 국제 안보'를 주제로 발언하고 있다. 〈AFP 연합뉴스〉...]]></description>
+		</item>
+		<item>
+			<title>오픈AI·앤트로픽, UN서 &apos;AI 인간 통제 상실&apos; 경고…美는 규제 반대</title>
 			<link>https://www.etnews.com/20260924000041</link>
 			<guid isPermaLink="true">https://www.etnews.com/20260924000041</guid>
 			<author>박종진</author>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 22 Sep 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[중국 광저우는 곳곳에서 로봇을 마주할 수 있는 장소다. 휴머노이드 로봇의 본격적인 상용화를 앞두고 대중의 낯섦과 거부감을 낮추려는 노력이 활기차다. 기업들은 안내·이벤트 로봇은 물론, 인간 작업자를 대체할 휴머노이드 로봇 개발에 매진하고 있다. 중국은 로봇이 일자리를 줄일 가능성보다 생산성을 높이고 사람이 더 가치 있는 업무에 집중하도록 하는 효과에 주목하고 있다. ◇전시장 들어서자 휴머노이드가 '환영'…로봇개·축구로봇도 체험 광저우 하이신샤...]]></description>
-		</item>
-		<item>
-			<title>[창간기획]“AI는 잘 벼려진 칼”…이제 &apos;손잡이&apos; 만들 때</title>
-			<link>https://www.etnews.com/20260915000375</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260915000375</guid>
-			<author>류근일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)이 '잘 벼려진 칼'이 되고 있다. 과거에는 손잡이가 없어도 조심스럽게 쥐고 쓸 수 있는 무딘 칼에 가까웠다면, 불과 몇 달 사이 사람이 모든 과정을 확인하기 어려울 만큼 날카로워졌다. 칼날을 벼리는 속도만큼이나 날카로운 칼을 안전하게 쥘 수 있는 '손잡이'를 만드는 일이 중요해졌다는 지적이 나온다. AI 분야 전문가들은 전자신문 창간 44주년 'AI 신인류 리포트' 좌담회에서 이 같이 진단하고 AI의 빠른 기술 발전 속도와 인간...]]></description>
 		</item>
 	</channel>
 </rss>
