@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 24 Sep 2026 14:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 24 Sep 2026 15:00:36 +0900</lastBuildDate>
+		<item>
+			<title>오픈AI·앤트로픽, UN서 &apos;AI 인간 통제 상실&apos; 경고…美은 규제 반대</title>
+			<link>https://www.etnews.com/20260924000041</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260924000041</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 24 Sep 2026 13:45:32 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 빅테크 기업 수장들이 UN에서 AI에 대한 인간의 통제력 상실 위험을 경고했다. AI가 스스로 판단하고 행동하는 능력을 갖추며 개발자 의도를 벗어날 가능성이 커지고 있다는 것이다. 23일(현지시간) 미국 뉴욕에서 열린 유엔 안전보장이사회 AI·국제안보 회의에는 샘 올트먼 오픈AI 최고경영자(CEO), 다리오 아모데이 앤트로픽 CEO, 요슈아 벤지오 캐나다 몬트리올대 교수 등이 참석했다. 이들은 AI 안전성 확보를 위한 국제적 협...]]></description>
+		</item>
+		<item>
+			<title>구글, 대규모 더빙용 AI까지…제미나이 TTS 모델 2종 출시</title>
+			<link>https://www.etnews.com/20260924000040</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260924000040</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 24 Sep 2026 13:37:57 +0900</pubDate>
+			<description><![CDATA[구글이 자연어 명령으로 새로운 목소리를 만들고 대사의 속도와 감정 등을 조절할 수 있는 음성 생성 인공지능(AI) 모델을 공개했다. 구글은 23일(현지시간) '제미나이 3.8 플래시 TTS'와 '제미나이 3.8 플래시-라이트 TTS'를 출시했다고 밝혔다. TTS(Text-to-Speech)는 텍스트를 음성으로 변환하는 기술이다. 제미나이 3.8 플래시 TTS는 자연어 프롬프트만으로 새로운 캐릭터 음성을 처음부터 만들 수 있도록 설계됐다. 게임과...]]></description>
+		</item>
 		<item>
 			<title>해커조직, FBI 해킹 주장…요원 정보 유출 가능성</title>
 			<link>https://www.etnews.com/20260924000039</link>
@@ -253,24 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 22 Sep 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI)이 '잘 벼려진 칼'이 되고 있다. 과거에는 손잡이가 없어도 조심스럽게 쥐고 쓸 수 있는 무딘 칼에 가까웠다면, 불과 몇 달 사이 사람이 모든 과정을 확인하기 어려울 만큼 날카로워졌다. 칼날을 벼리는 속도만큼이나 날카로운 칼을 안전하게 쥘 수 있는 '손잡이'를 만드는 일이 중요해졌다는 지적이 나온다. AI 분야 전문가들은 전자신문 창간 44주년 'AI 신인류 리포트' 좌담회에서 이 같이 진단하고 AI의 빠른 기술 발전 속도와 인간...]]></description>
-		</item>
-		<item>
-			<title>[사설] 벤처투자 부당회수, 꿈도 꾸지마라</title>
-			<link>https://www.etnews.com/20260922000345</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000345</guid>
-			<author>논설위원실</author>
-			<category>오피니언</category>
-			<pubDate>Tue, 22 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[22일 국무회의에서 '벤처투자 촉진에 관한 법률(벤처투자법)' 개정안이 의결됐다. 개정안은 오는 29일 공포돼 내년 3월 30일부터 시행된다. 핵심은 벤처투자 시장에 만연했던 불공정 계약 근절을 명문화한 것이다. 정당한 사유 없이 경영성과 변동을 이유로 한 투자금 조기 회수 강제나 유예기간 없는 상환 통보, 그리고 기업공개(IPO) 무산을 빌미로 투자자에게 유리하게 증권 가격을 깎는 이른바 '리픽싱' 등 벤처기업의 숨통을 조이던 독소조항이 전면...]]></description>
-		</item>
-		<item>
-			<title>“AI, 빠르고 안전해야”…아카마이, 클라우드·보안 전략 제시</title>
-			<link>https://www.etnews.com/20260922000459</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260922000459</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 22 Sep 2026 16:32:36 +0900</pubDate>
-			<description><![CDATA[아카마이가 인공지능(AI) 활용 확산에 맞춰 분산형 클라우드와 다층 보안을 결합한 AI 인프라 전략을 제시했다. 최종 사용자와 가까운 곳에서 AI 추론을 지원하는 동시에 브라우저·API·내부망 등으로 넓어진 공격 표면에도 대응해야 한다는 것이다. 이경준 아카마이코리아 대표는 22일 서울 아카마이코리아 사무실에서 열린 미디어 간담회를 통해 “AI 모델과 데이터, 애플리케이션과 사용자를 얼마나 빠르고 안전하게 연결하고, 이를 얼마나 효율적으로 운영...]]></description>
 		</item>
 	</channel>
 </rss>
