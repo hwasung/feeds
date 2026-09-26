@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 26 Sep 2026 15:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 26 Sep 2026 21:00:40 +0900</lastBuildDate>
+		<item>
+			<title>“비정형 공정 난제 AI로 푼다”…카본식스, 피지컬 AI로 제조 혁신</title>
+			<link>https://www.etnews.com/20260926000048</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260926000048</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 26 Sep 2026 20:22:59 +0900</pubDate>
+			<description><![CDATA[“카본식스 솔루션은 굉장히 직관적입니다. 숙련공들이 작업하는 동안 데이터를 수집하고 인공지능(AI) 모델에 학습하면 비정형 공정의 난제도 풀 수 있습니다.” 문태연 카본식스 대표는 지난 22일 서울 강남구 카본식스 오피스에서 '제조의 가능성을 다시 쓰는 피지컬 AI'를 주제로 열린 '미디어 에듀케이션'에서 제조업 피지컬 AI 경쟁력을 이같이 설명했다. 자동화 핵심은 숙련공의 작업 데이터다. 문 대표는 “숙련공이 작업하는 한두 시간 동안 비전·모...]]></description>
+		</item>
 		<item>
 			<title>MS, 코파일럿 전면 개편…기업 AI 비용관리 강화</title>
 			<link>https://www.etnews.com/20260926000031</link>
@@ -263,15 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 23 Sep 2026 09:59:33 +0900</pubDate>
 			<description><![CDATA[엔코아가 오픈AI 파트너 네트워크의 '오픈AI 셀렉트 파트너'로 선정되며. 국내 기업의 인공지능(AI) 레디 데이터 구축 환경 조성에 속도를 낸다 엔코아는 오픈AI 파트너 네트워크의 오픈AI 셀렉트 파트너로 선정됐다고 22일 밝혔다. 오픈AI 파트너 네트워크는 산업별 전문성과 구축 역량, 고객 네트워크를 갖춘 기업이 오픈AI 기술을 활용해 고객사의 AI 도입과 확산을 지원하는 협력 프로그램이다. 엔코아는 앞으로 오픈AI와 협력해 국내 기업이 생...]]></description>
-		</item>
-		<item>
-			<title>아톤, 금융권 통합 보안 사업 확대…글로벌 솔루션 접목</title>
-			<link>https://www.etnews.com/20260923000061</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260923000061</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 23 Sep 2026 09:52:56 +0900</pubDate>
-			<description><![CDATA[아톤이 글로벌 보안 솔루션 공급과 기술지원을 앞세워 금융권 보안 사업을 확대한다. 개별 솔루션 공급에서 나아가 보안 진단과 정책 수립, 운영, 모니터링을 아우르는 통합 보안 서비스로 사업 영역을 넓힐 계획이다. 아톤은 지난 22일 서울 여의도 콘래드 서울에서 금융사 정보보호 책임자를 초청해 조찬 세미나를 열었다고 23일 밝혔다. 세미나 주제는 '망은 열리고, AI는 들어왔다. 금융보안은 준비됐는가?'로 은행·증권·카드·보험·가상자산거래소 등 4...]]></description>
 		</item>
 	</channel>
 </rss>
