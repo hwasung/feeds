@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 26 Sep 2026 11:00:44 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 26 Sep 2026 11:03:21 +0900</lastBuildDate>
+		<item>
+			<title>[ET시선]낮은 반도체 장비 국산화율…&apos;공급망 위기&apos;다</title>
+			<link>https://www.etnews.com/20260922000236</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260922000236</guid>
+			<author>권동준</author>
+			<category>오피니언</category>
+			<pubDate>Sat, 26 Sep 2026 11:02:00 +0900</pubDate>
+			<description><![CDATA[“22%” 2011년 6월 한국반도체산업협회가 발표한 한국 반도체 장비 국산화율이다. 지금은 어떨까. 국내 반도체 장비 업계는 “여전히 20% 안팎”이라고 입을 모은다. 15년이 지났지만 제자리걸음이란 뜻이다. 메모리 제조 강국이란 말이 부끄러울 정도로 핵심 공급망인 장비 국산화는 더디다. 반도체 제조 신흥 강자로 떠오른 중국과 견주면 상황은 더욱 안타깝다. 글로벌 시장 조사업체 욜그룹에 따르면 중국 반도체 장비 국산화율은 2021년 8%에서...]]></description>
+		</item>
 		<item>
 			<title>오픈AI 에이전트, 이용자 이미지 53장 무단 게시…경위 조사</title>
 			<link>https://www.etnews.com/20260926000009</link>
@@ -263,15 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 23 Sep 2026 09:23:52 +0900</pubDate>
 			<description><![CDATA[버티컬 인공지능(AI)·DX 솔루션 전문기업 플래티어(대표 이상훈)는 지난 22일 서울 여의도 FKI타워 콘퍼런스센터에서 열린 '금융 테크 콘퍼런스 2026'에 참가해 금융권 AI 전환(AX) 전략과 에이전틱 AI(Agentic AI) 기반 지속 가능한 운영 방향을 제시했다고 밝혔다. 이번 행사는 'AI× Security×Finance'를 주제로 금융 산업 AI 활용 확대와 이에 따른 보안 위협, 금융사의 기술 전략 및 보안 대응 방향을 논의하...]]></description>
-		</item>
-		<item>
-			<title>포바이포, AI 기술로 &apos;대장금·허준&apos; 4K 리마스터링</title>
-			<link>https://www.etnews.com/20260923000027</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260923000027</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 23 Sep 2026 09:12:15 +0900</pubDate>
-			<description><![CDATA[포바이포(대표 윤준호)는 인공지능(AI) 기반 영상 화질 개선 기술로 온라인 동영상 서비스(OTT) 웨이브가 추진한 '뉴클래식 프로젝트'에 참여했다고 23일 밝혔다. 과거 명작 콘텐츠를 고화질(4K)로 다시 선보이는 프로젝트로, 포바이포는 콘텐츠 영상의 특성을 분석하고 작품에 맞게 AI로 화질을 개선하고 4K 업스케일링하는 기술을 적용했다고 설명했다. 대상작은 '대장금', '허준', '이산', '장희빈', '불멸의 이순신', '여명의 눈동자'...]]></description>
 		</item>
 	</channel>
 </rss>
