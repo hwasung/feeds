@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 27 Sep 2026 18:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 27 Sep 2026 20:00:38 +0900</lastBuildDate>
+		<item>
+			<title>[부고]강경훈(대원제약 이사)씨 장인상</title>
+			<link>https://www.etnews.com/20260927000112</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260927000112</guid>
+			<author>박윤호</author>
+			<category>오피니언</category>
+			<pubDate>Sun, 27 Sep 2026 19:19:24 +0900</pubDate>
+			<description><![CDATA[▲김용갑씨 별세, 강경훈(대원제약 이사)씨 장인상 = 27일, 전주 온고을장례식장, 발인 29일 오전 7시, 063-211-5000....]]></description>
+		</item>
 		<item>
 			<title>제3회 대한민국 인공지능 혁신대상…&apos;AI+피지컬 AI 로봇&apos; 혁신기업 찾는다</title>
 			<link>https://www.etnews.com/20260922000101</link>
@@ -38,7 +47,7 @@
 			<guid isPermaLink="true">https://www.etnews.com/20260923000196</guid>
 			<category>오피니언</category>
 			<pubDate>Sun, 27 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[이소영 중소벤처기업부 장관 후보자 인사청문경과보고서가 지난 22일 국회 산업통상자원중소벤처기업위원회에서 여야 합의로 채택됐다. 지난 15일 인사청문회를 거친 뒤 일주일 만이다. 청문 과정에서 중소기업과 소상공인 분야의 직접적인 경험과 전문성에 대한 우려도 제기됐고, 이러한 의견 역시 보고서에 담겼다. 이제 임명과 취임 절차가 남아 있다. 나는 초기투자와 액셀러레이터 업계를 대표하는 입장에서 이번 인사를 바라보며 한 가지에 주목하고 싶다. 새로운...]]></description>
+			<description><![CDATA[이재명 대통령이 지난 22일 이소영 중소벤처기업부 장관 임명안을 재가했다.  나는 초기투자와 액셀러레이터 업계를 대표하는 입장에서 이번 인사를 바라보며 한 가지에 주목하고 싶다. 새로운 중기부가 얼마나 현장에 가까워질 수 있느냐는 것이다. 중소벤처기업부는 현장과 가장 가까워야 하는 경제부처다. 정책 대상이 중소기업과 벤처기업, 스타트업, 소상공인이기 때문이다. 특히 스타트업 시간은 정부 시간보다 훨씬 빠르다. 기술과 시장은 몇 달 사이에도 변하...]]></description>
 		</item>
 		<item>
 			<title>쿠팡, AI 클라우드 서비스 해외 확장…아마존 성장 공식 잇는다</title>
@@ -255,15 +264,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 27 Sep 2026 11:48:15 +0900</pubDate>
 			<description><![CDATA[가비아에서 외부 해킹 공격으로 인해 약 3000명에 달하는 고객 개인정보 유출 사고가 발생했다. 가비아는 지난 23일 홈페이지를 통해 “지난 21일 외부 공격자의 비인가 접근으로 2998명의 고객 개인정보가 유출된 사실을 확인했다”며 사과했다. 이번 사고는 지난 21일 오전 11시 45분 발생했다. 외부 공격자가 가비아 웹 서비스의 일부 기능에서 외부 요청 검증이 충분하지 않았던 점을 이용해 내부 시스템에 접근해 고객의 개인정보를 외부로 전송했...]]></description>
-		</item>
-		<item>
-			<title>기내 와이파이 &apos;가짜 네트워크&apos; 주의보</title>
-			<link>https://www.etnews.com/20260927000037</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000037</guid>
-			<author>이동은</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 27 Sep 2026 11:00:00 +0900</pubDate>
-			<description><![CDATA[기내 와이파이 이용이 확대되는 가운데 정상 무선 네트워크를 사칭해 개인정보나 금융정보를 노리는 '이블 트윈(Evil Twin)' 공격에 대한 주의가 요구된다. 국내 항공사들도 위성 기반 무료 기내 와이파이 서비스를 확대하면서 승객이 접속하는 네트워크의 진위 여부가 새로운 보안 과제로 떠오르고 있다. ▶동영상 콘텐츠는 더존비즈온 '원스튜디오'를 활용해 제작되었습니다....]]></description>
 		</item>
 	</channel>
 </rss>
