@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 27 Sep 2026 11:00:41 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 27 Sep 2026 12:00:46 +0900</lastBuildDate>
+		<item>
+			<title>기내 와이파이 &apos;가짜 네트워크&apos; 주의보</title>
+			<link>https://www.etnews.com/20260927000037</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260927000037</guid>
+			<author>이동은</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 27 Sep 2026 11:00:00 +0900</pubDate>
+			<description><![CDATA[기내 와이파이 이용이 확대되는 가운데 정상 무선 네트워크를 사칭해 개인정보나 금융정보를 노리는 '이블 트윈(Evil Twin)' 공격에 대한 주의가 요구된다. 국내 항공사들도 위성 기반 무료 기내 와이파이 서비스를 확대하면서 승객이 접속하는 네트워크의 진위 여부가 새로운 보안 과제로 떠오르고 있다. ▶동영상 콘텐츠는 더존비즈온 '원스튜디오'를 활용해 제작되었습니다....]]></description>
+		</item>
+		<item>
+			<title>“AI 너무 빠르게 발전”…앤트로픽 이어 구글서도 연구원 사임</title>
+			<link>https://www.etnews.com/20260927000057</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260927000057</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 27 Sep 2026 10:33:25 +0900</pubDate>
+			<description><![CDATA[구글 딥마인드 연구원이 인공지능(AI) 발전 속도에 우려를 제기하며 사임했다. 앞서 앤트로픽 연구원도 AI 개발 위험성을 제기하며 회사를 떠났다. 로버트 오캘러핸 구글 딥마인드 연구원은 사회관계망서비스(SNS) 엑스(X)를 통해 “구글에서 사직했다”며 “AI가 너무 빠르게 발전하고 있다고 생각해 퇴사할 수밖에 없었다”고 밝혔다. 오캘러핸은 개인 블로그에 공개한 사직서에서 “우리 팀의 목표는 AI를 더 저렴하게 만들고 지연 시간을 줄이는 것”이라...]]></description>
+		</item>
 		<item>
 			<title>미·중 AI 소통 채널 구축 합의…협력 범위는 온도 차</title>
 			<link>https://www.etnews.com/20260927000053</link>
@@ -255,24 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 23 Sep 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[개인정보보호위원회가 인공지능(AI) 에이전트의 권한 설정과 개인정보 관리 기준을 논의했다. AI가 자율적으로 수행할 업무의 범위, 참여 주체별 책임, 개인정보 보관·파기 기준 등이 주요 과제로 제시됐다. 개인정보위는 23일 서울 은행회관에서 'AI 프라이버시 민·관 정책협의회' 제2차 전체회의를 개최했다. 김병필 카이스트 교수는 정책협의회 1분과 활동의 일환으로 지난 7~8월 국내외 AI 개발·도입 기관 15곳을 대상으로 진행한 현장 인터뷰 결...]]></description>
-		</item>
-		<item>
-			<title>[스냅드래곤 서밋]영상 편집부터 사진찍기 좋은 자세까지 …스냅드래곤 기반 AI 솔루션 선보여</title>
-			<link>https://www.etnews.com/20260923000124</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260923000124</guid>
-			<author>권동준</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 23 Sep 2026 11:46:32 +0900</pubDate>
-			<description><![CDATA[퀄컴이 자사 모바일 플랫폼 스냅드래곤을 통한 인공지능(AI) 활용 사례를 대거 소개했다. AI 영상 편집부터 이미지 개선, 화자 중심 음성 인식, 애플케이션 개발 등 친숙한 AI 솔루션으로 시장 확산을 뒷받침하려는 것으로 풀이된다. 퀄컴은 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서 다양한 AI 솔루션을 공개하는 데모 세션을 열었다. 퀄컴 스냅드래곤 기술을 활용한 사용자 친화적 AI 활용법을 다수 선보였다. 온...]]></description>
-		</item>
-		<item>
-			<title>[스냅드래곤 서밋]모듈러 인수한 퀄컴 “특정 벤더 의존 않는 &apos;개방형 AI 소프트웨어 플랫폼&apos; 구축”</title>
-			<link>https://www.etnews.com/20260923000105</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260923000105</guid>
-			<author>권동준</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 23 Sep 2026 11:06:33 +0900</pubDate>
-			<description><![CDATA[퀄컴이 최근 인수를 완료한 모듈러를 통해 개방형 '인공지능(AI) 소프트웨어 플랫폼' 구축에 나선다. 서로 다른 AI 하드웨어에서도 구동할 수 있는 소프트웨어를 통해 '개방형 생태계'를 조성하려는 시도다. AI 인프라에 선택지를 높일 수 있어 다양한 하드웨어를 검토 중인 국가별 '소버린 AI' 전략에도 적합하다는 평가다. 크리스티아노 아몬 퀄컴 최고경영자(CEO)는 22일(현지시간) 미국 하와이 마우이에서 열린 '스냅드래곤 서밋 2026'에서...]]></description>
 		</item>
 	</channel>
 </rss>
