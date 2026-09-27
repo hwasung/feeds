@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 27 Sep 2026 15:00:38 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 27 Sep 2026 16:00:36 +0900</lastBuildDate>
+		<item>
+			<title>[신SW상품대상 9월 추천작] 소프트힐스 &apos;비즈와이드3D V2.1&apos;</title>
+			<link>https://www.etnews.com/20260926000049</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260926000049</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 27 Sep 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[소프트힐스는 초대용량 3D 모델을 웹 브라우저에서 별도 설치 없이 실시간으로 시각화할 수 있는 웹 기반 디지털트윈 시각화 플랫폼 '비즈와이드3D(VIZWide3D) V2.1'을 출품했다. 비즈와이드3D는 소프트힐스가 국내 최초로 자체 개발한 대용량3D 시각화 엔진 '비즈코어3D(VIZCore3D)'를 기반으로 한다. 조선·해양, 플랜트, 건설, 반도체, 방산, 스마트시티 등 수십GB 규모의 컴퓨터지원설계(CAD)·건설정보모델링(BIM) 데이터를...]]></description>
+		</item>
+		<item>
+			<title>[신SW상품대상 9월 추천작] 아르고스 아이덴티티 &apos;아이디체크&apos;</title>
+			<link>https://www.etnews.com/20260926000050</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260926000050</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 27 Sep 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[아르고스 아이덴티티는 온라인에서 사용자의 신원을 빠르고 안전하게 확인하는 인공지능(AI) 기반 비대면 신원인증(eKYC) 솔루션 '아이디체크(ID check)'를 출품했다. 비대면 금융·커머스·엔터테인먼트·게임이 확산하면서 화면 너머 사용자가 실제 본인인지 확인하는 기술이 중요해졌다. 특히 외국인·글로벌 사용자가 늘면서 국가별 신분증 체계에 대응하고 위·변조, 명의 도용, 딥페이크 등 부정 인증을 가려내야 한다. 아이디체크는 사용자가 신분증과...]]></description>
+		</item>
+		<item>
+			<title>[신SW상품대상 9월 추천작] 에잇바이트 &apos;큐세이프케이엠에스 v1.0&apos;</title>
+			<link>https://www.etnews.com/20260926000051</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260926000051</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 27 Sep 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[에잇바이트는 스마트카드 기반 하드웨어보안모듈(SmartCard-HSM)과 임베디드 키관리 데이터베이스(KMS DB)를 결합한 암호화 키 관리 솔루션 '큐세이프케이엠에스(QSafeKMS) v1.0'을 출품했다. QSafeKMS는 소스코드에 암호화 키가 노출되는 문제를 해결하는 데 초점을 맞췄다. 응용프로그램인터페이스(API) 연동만으로 암호화 키를 SmartCard-HSM과 KMS DB에 분리 보관해 기업의 개인정보보호 점검과 감사 대응 부담을...]]></description>
+		</item>
 		<item>
 			<title>[특별인터뷰]이정구 국립광주과학관장 “과학관은 과학기술과 국민의 삶 연결 플랫폼”</title>
 			<link>https://www.etnews.com/20260921000443</link>
@@ -241,33 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 25 Sep 2026 17:33:09 +0900</pubDate>
 			<description><![CDATA[앤트로픽의 생성형 인공지능(AI) 서비스 '클로드'가 국내 모바일 AI 앱 시장에서 월간 사용자 수와 신규 설치 수 모두 챗GPT에 이어 2위 자리를 굳혔다. 25일 AI 테크기업 아이지에이웍스의 모바일인덱스에 따르면 지난달 안드로이드와 iOS를 합산한 국내 AI·인공지능 앱 월간 사용자 수에서 클로드는 149만9096명으로 오픈AI의 '챗GPT'(1709만9052명)에 이어 2위를 기록했다. 클로드가 국내 월간 사용자 수에서 2위를 차지한 것...]]></description>
-		</item>
-		<item>
-			<title>서울시 “추석에도 복지안전망 이상無”… 취약 어르신 4만명 직접 안부 확인</title>
-			<link>https://www.etnews.com/20260925000013</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260925000013</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 25 Sep 2026 10:58:26 +0900</pubDate>
-			<description><![CDATA[서울시가 추석 연휴에도 홀로 지내는 어르신과 사회적 고립위험가구의 안부를 직접 확인하고, 장애인 돌봄과 노숙인 보호시설도 정상 운영하는 등 복지안전망이 끊기지 않도록 챙긴다. 사물인터넷(IoT)·인공지능(AI) 등을 활용한 스마트 안부확인 서비스도 연휴 내내 가동한다. 서울시는 추석 연휴 기간 노인맞춤돌봄서비스 대상자 4만2000명에 대해서 연휴 기간 격일로 안부 전화를 걸고, 두 차례 이상 응답이 없으면 직접 가정을 방문해 안전을 확인한다고...]]></description>
-		</item>
-		<item>
-			<title>철도 붐 넘어선 美 AI 인프라 투자…향후 8년간 1경4000조원 전망</title>
-			<link>https://www.etnews.com/20260925000011</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260925000011</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 25 Sep 2026 10:45:15 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 열풍에 따른 데이터센터와 관련 인프라 투자가 철도와 고속도로 등 과거 대규모 인프라 건설 붐을 뛰어넘어 미국 역사상 최대 규모가 될 수 있다는 전망이 나왔다 24일(현지시간) 월스트리트저널(WSJ)은 브루킹스연구소가 공개한 경제학자 스테인 판 니우에뷔르흐의 추정을 인용해 2025부터 2032년까지 미국 데이터센터와 AI 관련 인프라에 총 10조3000억달러(1경4077조원)가 투자될 것으로 예상된다고 보도했다. 연간 AI 인프라...]]></description>
-		</item>
-		<item>
-			<title>美·中 AI 규제 온도차…트럼프 &apos;현상유지&apos; 시진핑 &apos;인간통제&apos;</title>
-			<link>https://www.etnews.com/20260925000009</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260925000009</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 25 Sep 2026 10:38:00 +0900</pubDate>
-			<description><![CDATA[도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 24일(현지시간) 치열한 인공지능(AI) 패권 경쟁 속에서 양국 간 소통 필요성을 강조하면서도 AI 안전 규제를 두고는 온도 차를 드러냈다. 트럼프 대통령은 개발 속도를 늦추기 위한 새로운 규제에 도입에 선을 그은 반면, 시 주석은 AI가 인간의 통제 아래 있어야 한다는 점을 강조했다. 트럼프 대통령은 이날 백악관에서 열린 시 주석 환영식 연설에서 이번 시 주석의 방미 기간 안보와 기술 분야뿐...]]></description>
 		</item>
 	</channel>
 </rss>
