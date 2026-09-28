@@ -4,13 +4,80 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Mon, 28 Sep 2026 07:01:36 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 28 Sep 2026 13:00:29 +0900</lastBuildDate>
+		<item>
+			<title>에어버스, 프랑스군 사이버보안 게이트웨이 25년 계약 수주</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7963</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7963</guid>
+			<category>방산기업</category>
+			<category>20140925141337_5787</category>
+			<pubDate>Mon, 28 Sep 2026 12:31:44 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://securityfact.co.kr/data/tmp/2609/20260928123020_plfphciq.jpg" alt="에어버스 사이버보안 관제센터. 출처=에어버스.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">에어버스 사이버보안 관제센터. 출처=에어버스</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 에어버스가 프랑스 국방조달청(DGA)으로부터 프랑스군 네트워크에 사용할 사이버보안 게이트웨이 공급 계약을 수주했다. 계약 기간은 25년이다. 27일(현지시각) 외신보도에 따르면, 에어버스는 자회사 에어버스 사이버시큐리티를 통해 'PARACOM' 게이트웨이의 설계·개발, 생산, 운영 유지보수를 맡는다고 밝혔다. 계약 금액은 발표하지 않았다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>PARACOM은 보안 등급이나 민감도가 다른 군 네트워크와 정보시스템 사이에서 데이터가 오갈 때 이를 필터링하는 장비다. 에어버스에 따르면 비기밀부터 비밀 등급까지의 데이터 교환을 지원하도록 승인과 인증을 받을 예정이다. 프랑스군과 국방·보훈부 산하 기관에 배치될 계획이다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>장비는 데이터센터 랙에 설치하는 형태와 지휘소에 배치하는 독립형 장치로 제공된다. 에어버스는 함정과 잠수함, 항공기, 헬리콥터, 드론, 장갑차 등 공간이 제한된 전술 환경에서도 사용할 수 있도록 설계했다고 설명했다. 프랑수아 롬바르 에어버스 방산우주 부문 커넥티드 인텔리전스 담당 이사는 프랑스 육군에 2013년부터 게이트웨이 솔루션을 공급해 왔다고 밝혔다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>&nbsp;PARACOM 게이트웨이는 네트워크 사이를 오가는 데이터와 보안 표시를 검사해 허용된 정보만 전달하도록 설계된다. 이번 계약에는 장비의 개발·생산과 장기 운영 유지보수가 포함된다. 다만 프랑스군과 에어버스가 실제 데이터 교환 승인이나 현장 운용을 어떻게 나눠 맡을지는 공개되지 않았다. 새 PARACOM 장비의 배치·운용 실적도 아직 발표되지 않았다.&nbsp;</p>]]></description>
+		</item>
+		<item>
+			<title>마키나락스, 군 지휘통제체계(KJCCS) 전장망에 AI 운영환경 최초 구축</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7962</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7962</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>방산기업</category>
+			<category>20140925141337_5787</category>
+			<pubDate>Mon, 28 Sep 2026 12:28:03 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260928122628_swdarnzf.jpg" alt="20260928 마키나락스.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">국방 AI 개발 및 운영환경 확장 개념도./출처=마키나락스</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트=강태임 기자] 우리 군의 최고 등급 폐쇄망이자 핵심 지휘통제체계인 한국군합동지휘통제체계(KJCCS) 전장망에 민간 인공지능 운영체제(AI OS)가 최초로 시범 적용됐다. 보안 요건이 극도로 엄격한 전장망 환경에서 AI 개발·운영 인프라가 구축되고 연합연습 실제 작전 환경에서 그 유효성이 입증되면서 국방 AI 기술의 전장 적용이 본격화될 것으로 전망된다.</p>
+<p><br /></p>
+<p>28일 엔터프라이즈 피지컬 AI 전문기업 '마키나락스'는 합동참모본부와 협력해 자사 AI OS '런웨이 2.0(Runway 2.0)'을 KJCCS 전장망에 적용, 폐쇄망 전용 AI 개발·운영(MLOps) 환경을 조성하고 지난 8월 진행된 '2026 을지 자유의 방패(UFS)' 연습 기간 군 운용 환경에서 기술 실증을 완수했다고 밝혔다.</p>
+<p><br /></p>
+<p>이번 사업은 '생성형 AI 적용 KJCCS 정보 검색 및 운영 기술 실증'의 일환으로 추진됐다. 마키나락스는 런웨이 2.0을 기반으로 전장망 내부에서 AI 모델과 서비스를 지속적으로 구축, 가동, 관리할 수 있는 독립형 인프라를 마련했다.</p>
+<p><br /></p>
+<p>KJCCS는 합참을 중심으로 각 군 성분작전사령부와 주요 부대를 연결해 합동작전을 지휘·통제하는 우리 군의 핵심 전장지휘체계다. 인사나 행정, 보급을 담당하는 일반 국방망과 달리 최고 수준의 기밀을 다루는 전장망에 속해 있어 인프라 반입 및 신기술 도입 시 매우 엄격한 보안 요건과 기술적 통제가 요구된다.</p>
+<p><br /></p>
+<p>군은 이처럼 통제된 환경 위에서 국방부가 자체 개발한 국방 생성형 AI 서비스인 '제다이J(GeDAI J)'를 가동했다. 제다이는 국방부가 2024년 7월 첫선을 보인 국방 특화 생성형 AI 'GeDAI(Generative Defense AI)'를 기반으로 한 군 자체 서비스다. 국방 특화 데이터를 학습해 군사 용어 번역, 문서 요약, 작전 지원 기능을 수행하는 제다이는 이번 KJCCS 전장망 환경으로 확장 연계되며 지휘통제 업무의 실질적 지원 도구로 정립됐다.</p>
+<p><br /></p>
+<p>특히 마키나락스가 고안해 적용한 자연어 기반 AI 검색 기능은 KJCCS 내에 축적된 방대한 전장 데이터를 지휘관과 운용자가 일상 언어 질문만으로 즉시 검색할 수 있게 지원한다. 단순 키워드 조회를 넘어 정확한 출처를 기반으로 답변을 제시함으로써 상황 판단과 의사결정 시간을 획기적으로 단축시켰다.</p>
+<p><br /></p>
+<p>실제 한미 연합연습인 2026 UFS 기간(8.17~27) 동안 군은 제다이J를 비롯한 주요 AI 기능을 지휘통제 실무에 직접 투입했다. 보안 통제가 엄격한 폐쇄망 환경에서도 생성형 AI 서비스가 안정적으로 작동하며 작전 지원 유효성을 확보할 수 있음을 검증해낸 것이다.</p>
+<p><br /></p>
+<p>또한 런웨이 기반의 AI 인프라는 중앙 데이터센터에 머무르지 않고 이동형 서버 및 일선 작전 현장의 엣지(Edge) 장비로 확장할 수 있는 분산형 구조를 제공한다. 이에 따라 향후 다양한 전장 환경에서도 군 보유 데이터를 활용한 독자적 AI 모델 구축과 신속한 배포가 가능해질 것으로 기대된다.</p>
+<p><br /></p>
+<p>마키나락스는 앞서 해군 1함대사령부에 함정장비 운용 및 정비를 지원하는 AI 어시스턴트를 적용하는 등 국방 폐쇄망 환경 내 AI 서비스 확산 기술 협력을 꾸준히 이어오고 있다.</p>
+<p><br /></p>
+<p>윤성호 마키나락스 대표는 "전장망은 높은 보안성과 독립적 운영 환경이 요구되어 AI 기술을 적용하기 가장 까다로운 영역 중 하나"라며 "이번 시범 적용을 통해 KJCCS에서 군 자체 개발 AI 모델을 안정적으로 운용할 수 있는 기반을 마련하고 2026 UFS 연습이라는 실제 군 운용 환경에서 활용 가능성을 검증했다는 점에서 의미가 크다"고 밝혔다.</p>
+<p><br /></p>
+<p>이어 윤 대표는 "국방 AI의 경쟁력은 단일 AI 모델 도입을 넘어 새로운 모델과 서비스를 지속적으로 도입하고 안전하게 운영할 수 있는 기반을 갖추는 데서 나온다"며 "런웨이를 중심으로 국방 폐쇄망에서도 다양한 AI 기술을 신속하고 안정적으로 적용할 수 있는 환경을 확대해 나갈 것"이라고 강조했다.</p>]]></description>
+		</item>
 		<item>
 			<title>이란 혁명수비대 &quot;미 무인 잠수정 또 나포&quot;… 미 중부사령부 부인</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=7961</link>
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7961</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>밀리터리</category>
+			<category>20250407121048_4964</category>
 			<pubDate>Mon, 28 Sep 2026 05:49:04 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
@@ -65,6 +132,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7960</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>밀리터리</category>
+			<category>20250407121048_4964</category>
 			<pubDate>Sat, 26 Sep 2026 10:38:38 +0900</pubDate>
 			<description><![CDATA[<p>[시큐리티팩트=최미옥 기자] 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 23일(현지시각) 미국 입국을 시작해 24일 워싱턴에서 정상회담을 가진 후 25일 일정을 마무리했다. 그러나 미중 양국이 인공지능(AI) 기술 경쟁을 규제하기 위한 실질적 합의를 도출하지 못했다. 국방 안보 전문가들은 이번 불발이 글로벌 군사 기술 경쟁에서 "제어되지 않은 AI 군비경쟁"으로 귀결될 수 있다고 우려하고 있다.</p>
 <p>
@@ -128,6 +196,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7959</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>국방안보</category>
+			<category>20140925141441_2377</category>
 			<pubDate>Thu, 24 Sep 2026 09:34:57 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260924093156_ihazheza.jpg" alt="도널드 트럼프(오른쪽) 미국 대통령이 23일(현지시각) 미국 메릴랜드주 앤드루스 합동기지에서 시진핑 중국 국가주석을 영접하고 있다. 사진=로이터 연합뉴스.jpg" style="width: 720px; height: 481px;" />
@@ -158,6 +227,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7958</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>무기체계</category>
+			<category>20250407120846_2514</category>
 			<pubDate>Wed, 23 Sep 2026 16:44:30 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -189,6 +259,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7957</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Wed, 23 Sep 2026 16:23:12 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -232,6 +303,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7956</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>밀리터리</category>
+			<category>20250407121048_4964</category>
 			<pubDate>Wed, 23 Sep 2026 15:16:04 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -279,6 +351,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7955</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>국방안보</category>
+			<category>20140925141441_2377</category>
 			<pubDate>Wed, 23 Sep 2026 12:38:14 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260923123448_tddkyprn.jpg" alt="지난해 10월 부산에서 만난 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석. 사진=연합뉴스.jpg" style="width: 720px; height: 541px;" />
@@ -321,6 +394,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7954</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>무기체계|글로벌</category>
+			<category>20250407120846_2514|20250407120859_3077</category>
 			<pubDate>Wed, 23 Sep 2026 11:28:50 +0900</pubDate>
 			<description><![CDATA[<p>[시큐리티팩트=최미옥 기자] 핵추진 잠수함도 공격에 무적은 아니다. 핵추진은 장기간 잠항할 수 있게 해주지만, 어뢰나 가까운 수중 폭발로부터 선체를 보호해 주지는 않는다. 다만 무기가 잠수함을 파괴할 위력이 있다는 것과, 실제 작전에서 잠수함을 찾아 격침할 수 있다는 것은 다른 문제다. 미국 매체 슬래시기어는 21일(현지시각) 미국 핵잠수함에 위협이 될 수 있는 무기로 중어뢰, 대잠 미사일, 폭뢰, 기뢰, 수중 핵무기를 꼽았다.&nbsp;</p>
 <p>
@@ -398,6 +472,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7953</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
 			<category>국방안보</category>
+			<category>20140925141441_2377</category>
 			<pubDate>Tue, 22 Sep 2026 13:23:50 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -445,6 +520,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7952</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
 			<pubDate>Tue, 22 Sep 2026 13:18:47 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
@@ -477,6 +553,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7951</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Tue, 22 Sep 2026 12:32:52 +0900</pubDate>
 			<description><![CDATA[<p>
    <br />
@@ -549,6 +626,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7949</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Tue, 22 Sep 2026 11:25:24 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -602,6 +680,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7948</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Tue, 22 Sep 2026 08:57:32 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
@@ -638,6 +717,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7947</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
 			<category>국방안보</category>
+			<category>20140925141441_2377</category>
 			<pubDate>Mon, 21 Sep 2026 14:08:15 +0900</pubDate>
 			<description><![CDATA[<p>
    <br />
@@ -704,6 +784,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7946</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Mon, 21 Sep 2026 13:09:06 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260921130316_dniuwmqf.jpg" alt="도널드 트럼프 미국 대통령 가족들. 사진=AFP 연합뉴스.jpg" style="width: 720px; height: 480px;" />
@@ -778,6 +859,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7945</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Mon, 21 Sep 2026 12:58:44 +0900</pubDate>
 			<description><![CDATA[<p>
    <br />
@@ -834,6 +916,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7944</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Mon, 21 Sep 2026 10:08:45 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260921100138_pmlsknoc.jpg" alt="고정밀 항공우주 부품. 출처=시그마 어드밴스드.jpg" style="width: 720px; height: 480px;" />
@@ -884,6 +967,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7943</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Fri, 18 Sep 2026 11:39:19 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260918113717_oscdiikx.jpg" alt="G-클래스 G 500. 출처=메르세데스벤츠.jpg" style="width: 720px; height: 479px;" />
@@ -966,6 +1050,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7942</guid>
 			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Fri, 18 Sep 2026 08:49:42 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
@@ -1110,6 +1195,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7941</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>밀리터리</category>
+			<category>20250407121048_4964</category>
 			<pubDate>Thu, 17 Sep 2026 13:12:59 +0900</pubDate>
 			<description><![CDATA[<p>
    <br />
@@ -1222,6 +1308,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7940</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Thu, 17 Sep 2026 12:33:33 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -1308,6 +1395,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7939</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
 			<category>방산기업</category>
+			<category>20140925141337_5787</category>
 			<pubDate>Thu, 17 Sep 2026 11:35:51 +0900</pubDate>
 			<description><![CDATA[<p><br /></p>
 <div class="cheditor-caption-wrapper">
@@ -1382,6 +1470,7 @@
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7938</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>밀리터리</category>
+			<category>20250407121048_4964</category>
 			<pubDate>Thu, 17 Sep 2026 11:16:15 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper">
    <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260917111046_bzaazrat.jpg" alt="20260917 한프 연합훈련.jpg" style="width: 100%; height: auto;" />
@@ -1420,169 +1509,6 @@
 <p><br /></p>
 <p>올해 수교 140주년을 맞은 한국과 프랑스는 지난 4월 양국 관계를 ‘글로벌 전략적 동반자 관계’로 격상한 바 있다. 양국은 이번 훈련을 바탕으로 연합훈련 정례화를 위한 공감대를 형성하고 군사교류 및 안보 협력을 지속 발전시켜 나갈 계획이다.</p>
 <p><br /></p>]]></description>
-		</item>
-		<item>
-			<title>GDLS-UK·ARX 로보틱스, 장갑차와 무인지상차량 연동 기술 개발</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=7937</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7937</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>방산기업</category>
-			<pubDate>Thu, 17 Sep 2026 09:16:03 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260917091320_oeugwevv.jpg" alt="무인 지상 차량 '헥터(Hector)'. 출처=ARX 로보틱스.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">무인 지상 차량 '헥터(Hector)'. 출처=ARX 로보틱스</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 제너럴 다이내믹스 랜드 시스템즈 영국 법인(GDLS-UK)과 독일 방산기술기업 ARX 로보틱스가 영국 육군의 에이잭스(Ajax) 궤도형 장갑차와 무인 지상 차량 '헥터(Hector)'를 연동하는 유무인 복합운용 기술 개발에 협력한다.</p>
-<p>
-   <br />
-</p>
-<p>16일(현지시각) 군사 전문 매체 디펜스 인더스트리(Defence-Industry)에 따르면, 양사는 에이잭스가 헥터를 비롯한 자율 지상 시스템에 임무를 부여하고 운용 상태를 확인하며 지휘·통제할 수 있는지를 검토할 계획이다. 적용 대상은 정찰과 감시, 방호, 전투지원 임무 등이다.</p>
-<p>
-   <br />
-</p>
-<p>다만 이번 협력은 영국 국방부가 발주한 공식 개발사업이 아니라 양사가 자체적으로 추진하는 초기 개념개발 단계다. 파이낸셜타임스(FT)에 따르면 현재 영국 국방부의 자금은 투입되지 않았으며 사업비와 개발 일정, 도입 수량도 정해지지 않았다.</p>
-<h3>에이잭스 장갑에서 무인차량 지휘·통제</h3>
-<p>양사는 범용 차량 아키텍처(GVA·Generic Vehicle Architecture)를 활용해 헥터를 에이잭스의 지휘통제체계와 연결하는 방안을 모색한다. GVA는 서로 다른 업체가 개발한 차량 전자장비와 임무체계가 표준화된 방식으로 데이터를 주고받을 수 있도록 만든 개방형 설계 규격이다.</p>
-<p>
-   <br />
-</p>
-<p>연동이 구현되면 에이잭스 승무원은 차량 안에서 헥터에 임무를 부여하고 이동 경로와 운용 상태를 확인할 수 있다. 에이잭스가 수집한 전장 정보와 헥터의 정찰 결과를 공유해 승무원의 상황인식 범위를 넓히는 운용도 가능해진다. 에이잭스의 센서와 정보처리·지휘통제 기능을 활용해 자율 지상 시스템을 조율하는 전술 거점으로 확장할 수 있는지를 확인하는 것이 이번 협력의 핵심이다.</p>
-<p>
-   <br />
-</p>
-<p>스콧 밀른 GDLS-UK 부사장 겸 총괄매니저는 영국 육군의 '20-40-40 비전'이 유인·무인·자율 시스템을 하나의 연결된 전력으로 통합해 미래 전투력의 구성과 운용 방식을 바꾸는 구상이라고 설명했다.</p>
-<p>
-   <br />
-</p>
-<p>'20-40-40'은 영국 육군 전력을 생존성 높은 유인 장비 20%, 손실을 감수할 수 있는 무인 체계 40%, 미사일과 자폭형 드론 같은 일회성 소모 무기 40%로 구성한다는 개념이다. 헥터 같은 무인 지상 차량은 두 번째 40%에 해당한다.</p>
-<p>
-   <br />
-</p>
-<p>밀른 부사장은 에이잭스의 센서와 정보처리·지휘통제 능력을 자율 시스템과 결합하면 작전 범위를 넓히고 지휘관의 의사결정 속도를 높일 수 있다고 밝혔다. 그는 에이잭스의 개방형 디지털 아키텍처가 자율 플랫폼과 첨단 센서, 새로운 임무용 소프트웨어를 신속하게 통합할 수 있는 기반이라고 강조했다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260917091436_bcayzvul.jpg" alt="영국 육군의 에이잭스(Ajax) 궤도형 장갑차.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">영국 육군의 에이잭스(Ajax) 궤도형 장갑차</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<h3>고가 유인차량과 저비용 무인체계 결합</h3>
-<p>데이비드 로버츠 ARX 로보틱스 영국법인 최고경영자는 영국 육군이 기존 유인 플랫폼과 차세대 자율 시스템 가운데 하나만 선택할 필요는 없다고 말했다.</p>
-<p>
-   <br />
-</p>
-<p>로버츠 CEO는 고가·고성능 유인 플랫폼과 상대적으로 저비용인 무인 체계를 연결해 하나의 통합 전력으로 운용하는 것이 중요하다고 설명했다. 에이잭스와 헥터를 결합하면 유인 플랫폼의 작전 범위와 임무 수행 능력을 확대하면서 위험지역에 투입되는 병력은 줄일 수 있다는 것이다.</p>
-<p>
-   <br />
-</p>
-<p>헥터를 에이잭스보다 먼저 전방이나 위험지역으로 보내 정찰하도록 하면 승무원이 직접 접근하지 않고도 지형과 적의 움직임을 확인할 수 있다. 보급품 수송과 위험지역 수색 같은 임무에 활용할 경우 병력의 노출을 줄이는 효과도 기대할 수 있다.</p>
-<p>
-   <br />
-</p>
-<p>다만 구체적인 무장 통합 여부와 에이잭스 한 대가 동시에 통제할 수 있는 무인 차량의 수, 통신 거리 등 세부 운용 성능은 공개되지 않았다.</p>
-<p>
-   <br />
-</p>]]></description>
-		</item>
-		<item>
-			<title>[사이버 전쟁 리포트⑧] AI가 해커가 되는 시대</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=7936</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7936</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>시큐리티</category>
-			<pubDate>Thu, 17 Sep 2026 01:48:27 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260917013854_hmgctasz.jpg" alt="AI 에이전트가 수행하는 자율 해킹. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">AI 에이전트가 수행하는 자율 해킹. 그림=이미지크리에이터</figcaption>
-   </figure>
-   </div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 2025년 11월, 미국 인공지능(AI) 기업 앤스로픽은 자사의 AI 코딩 에이전트 '클로드 코드'가 중국 국가 배후로 추정되는 해킹 조직의 공격에 악용됐다고 밝혔다. 개발자를 대신해 코드를 작성하고 실행하는 이 도구가 정찰과 취약점 탐색, 공격코드 작성, 계정정보 탈취, 데이터 분석과 유출 등 실제 침투 작업의 80~90%를 수행했다는 내용이었다.</p>
-<p>
-   <br />
-</p>
-<p>앤스로픽에 따르면 공격자는 자신을 방어 목적의 침투시험을 수행하는 보안업체 직원이라고 속이고, 각각의 작업을 위험해 보이지 않는 작은 단위로 쪼개 AI의 안전장치를 우회했다. 이들은 기술기업과 금융기관, 화학업체, 정부기관 등 약 30곳을 노렸으며, 이 가운데 소수 기관에서는 실제 침해가 확인됐다.</p>
-<p>
-   <br />
-</p>
-<p>앤스로픽은 이 조직을 'GTG-1002'로 명명하고, 높은 확신을 갖고 중국 국가 배후 조직으로 평가한다고 밝혔다. 사람이 표적과 작전 방향을 정했지만, 실제 침투 작업의 대부분을 AI가 수행한 대규모 사례가 처음 보고된 것이다.</p>
-<h3>AI 이용 피싱부터 악성코드까지</h3>
-<p>가장 먼저 확산된 것은 AI를 이용한 피싱이다. 2023년 6월 웜GPT가 등장한 데 이어 사기GPT, 이블GPT 등 안전장치를 제거했다고 주장하는 범죄용 챗봇이 다크웹과 텔레그램에 잇달아 나타났다. 보안업체 넷엔리치는 당시 다크웹 판매자가 사기GPT를 월 200달러(약 27만원), 연 1700달러(약 228만원)에 판매하면서 3000건 이상 주문을 받았다고 홍보한 정황을 포착했다. 다만 판매자가 제시한 실적은 독립적으로 검증되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>이러한 도구는 표적의 직책과 업무 내용을 반영해 실제 상사나 거래처가 보낸 것처럼 자연스러운 이메일을 대량으로 작성할 수 있다. 문법 오류나 어색한 번역투로 걸러지던 과거 피싱 메일보다 탐지가 어려워진 이유다.</p>
-<p>
-   <br />
-</p>
-<p>실행 과정에서 AI를 호출하는 악성코드도 등장했다. 구글 위협 인텔리전스 그룹(GTIG)은 2025년 11월 프롬프트플럭스와 프롬프트스틸을 공개했다. 프롬프트플럭스는 구글의 제미나이와 연결되는 응용프로그램 인터페이스(API)에 코드 난독화와 탐지 회피 기법을 요청해 자신의 코드를 바꾸도록 설계된 실험적 악성코드다. 다만 GTIG가 분석했을 당시 이 기능은 활성화돼 있지 않았고, 실제 공격에 배치된 증거도 확인되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>프롬프트스틸은 우크라이나를 겨냥한 실제 공격에서 발견됐다. 이 악성코드는 허깅페이스를 통해 중국 알리바바의 오픈소스 계열 AI 모델 '큐원2.5-코더'를 호출하고, 감염된 컴퓨터에서 문서를 찾는 명령을 생성했다. GTIG는 이를 러시아 군사정보기관과 연계된 것으로 알려진 해킹 조직 APT28의 활동으로 평가했다.</p>
-<p>
-   <br />
-</p>
-<p>코드와 명령을 악성코드 내부에 모두 넣어두지 않고 실행 과정에서 AI에 요청할 경우 악성코드의 형태가 계속 달라질 수 있다. 고정된 코드 패턴에 의존하는 기존 보안체계의 탐지 효과도 그만큼 떨어질 수 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260917014043_fkssocrs.jpg" alt="AI 피싱과 스스로 변형하는 악성코드. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">AI 피싱과 스스로 변형하는 악성코드. 그림=이미지크리에이터</figcaption>
-   </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>AI 에이전트가 침투 과정까지 수행</h3>
-<p>GTG-1002 사건은 AI가 단순히 이메일이나 공격코드를 만들어주는 단계를 넘어섰음을 보여준다. 클로드 코드는 표적의 시스템 구조를 조사하고 가치가 높은 데이터베이스를 찾아냈다. 취약점을 식별해 공격코드를 작성하고, 탈취한 아이디와 비밀번호를 분류한 뒤 확보한 자료를 정보 가치에 따라 선별했다.</p>
-<p>
-   <br />
-</p>
-<p>사람인 공격자는 표적을 선정하고 주요 단계에서 진행 방향을 결정했다. AI가 공격 전체를 독자적으로 시작한 것은 아니지만, 사람이 직접 수행하던 전술적 작업의 상당 부분을 자동화한 것이다. 이는 소수의 공격자가 여러 AI 에이전트를 동시에 운용하며 더 많은 기관을 공격할 수 있다는 의미다. 국가 배후 조직뿐 아니라 전문인력이 부족한 범죄조직도 일정 수준의 공격 능력을 확보할 수 있다는 우려가 나온다.</p>
-<h3>딥페이즈… 얼굴과 목소리도 믿을 수 없다</h3>
-<p>딥페이크를 이용한 사기 피해도 현실이 됐다. 2024년 홍콩에서는 영국계 다국적기업 아럽의 현지 직원이 최고재무책임자와 동료들로 보이는 인물들과 화상회의를 한 뒤 2억홍콩달러, 당시 약 340억원을 송금했다. 피해 직원은 처음에는 거액 송금을 요구한 이메일을 의심했다. 그러나 화상회의에 평소 알고 있던 임직원들이 등장하자 지시를 신뢰했다. 직원 자신을 제외한 회의 참석자들은 모두 딥페이크로 만들어진 가짜였다.</p>
-<p>
-   <br />
-</p>
-<p>영상과 음성까지 복제할 수 있게 되면서 화상통화도 신원을 보증하는 수단이 되기 어려워졌다. 거액 송금이나 계좌 변경, 기밀자료 전송 요청은 영상통화와 별도로 사전에 정한 연락수단을 통해 다시 확인해야 한다는 지적이 나온다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260917014333_ovoyfmab.jpg" alt="딥페이크 화상회의와 금융사기. 그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">딥페이크 화상회의와 금융사기. 그림=이미지크리에이터</figcaption>
-   </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>국내 침해사고 상반기 1236건, 20% 가까이 급증</h3>
-<p>과학기술정보통신부와 한국인터넷진흥원(KISA)에 따르면 2026년 상반기 국내에서 신고된 사이버 침해사고는 1236건으로 지난해 같은 기간보다 19.5% 증가했다.</p>
-<p>
-   <br />
-</p>
-<p>서버 해킹은 487건으로 가장 큰 비중을 차지했지만 전년 동기보다 8.3% 감소했다. 반면 분산서비스거부 공격은 373건으로 56.7%, 랜섬웨어 신고는 145건으로 76.8% 증가했다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>두 기관은 생성형 AI 악용과 소프트웨어 공급망 공격, 핵티비스트의 분산서비스거부 공격, 랜섬웨어와 이중 갈취, 응용프로그램 인터페이스·계정 탈취를 상반기 5대 사이버 위협으로 꼽았다. 특히 개발자 컴퓨터나 클라우드 개발 환경에서 계정정보와 접근 토큰을 탈취하면 하나의 유출이 수백 개 코드 저장소와 서비스의 동시 침해로 번질 수 있다고 경고했다. 자동화된 개발·배포 체계가 악성코드를 빠르게 확산시키는 통로로 바뀔 수 있다는 의미다.</p>
-<h3>AI에 최소 권한, 승인은 사람에게</h3>
-<p>앤스로픽은 2026년 9월 발표한 보고서에서 최근 8개월 동안 러시아 연계 조직 미드나잇 블리자드의 사이버 첩보 활동과 샤이니헌터스 관련 범죄 활동 등 클로드 악용 시도를 차단했다고 밝혔다. 일부 이용자는 미사일과 무장 드론 등 재래식 무기에 활용될 수 있는 소프트웨어 개발에도 클로드를 이용하려 했다. 다만 이들의 실제 소속과 개발 결과물이 무기에 사용됐는지는 확인되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>AI는 아직 사람의 지시 없이 표적을 정하고 사이버 공격을 완전히 독립적으로 수행하는 단계는 아니다. 그러나 정찰과 코드 작성, 취약점 공격, 탈취자료 분석 등 핵심 작업을 빠르게 자동화하고 있다.</p>
-<p>
-   <br />
-</p>
-<p>기업도 AI 에이전트에 필요한 최소한의 권한만 부여하고, 중요한 코드 변경과 자동 배포에는 사람의 승인 절차를 남겨둬야 한다. AI가 실행한 명령과 외부 통신 기록도 추적할 수 있어야 한다. 공격자의 AI가 취약점을 찾아 악용하는 속도를 방어체계가 따라잡을 수 있을지가 앞으로 사이버 보안의 핵심 과제가 될 전망이다.</p>
-<p>
-   <br />
-</p>]]></description>
 		</item>
 	</channel>
 </rss>
