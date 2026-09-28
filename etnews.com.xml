@@ -4,7 +4,24 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 28 Sep 2026 13:00:40 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 28 Sep 2026 14:00:52 +0900</lastBuildDate>
+		<item>
+			<title>[부음] 정지연(전 전자신문 편집국 경제벤처부장)씨 시부상</title>
+			<link>https://www.etnews.com/20260928000233</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260928000233</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 28 Sep 2026 13:07:53 +0900</pubDate>
+			<description><![CDATA[▲조익환씨 별세, 조규민·은영·은실씨 부친상, 정지연(전 전자신문 편집국 경제벤처부장)씨 시부상, 이길근·박병기씨 장인상=28일, 부산시민장례식장 501호, 발인 30일. (051)636-4444...]]></description>
+		</item>
+		<item>
+			<title>올타오토플랜, AI로 자동차 선택의 새로운 기준 제시</title>
+			<link>https://www.etnews.com/20260922000365</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260922000365</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 28 Sep 2026 13:05:17 +0900</pubDate>
+			<description><![CDATA[올타오토플랜(대표 엄준오)이 인공지능(AI)을 활용한 차량 추천 서비스를 앞세워 자동차 금융·모빌리티 시장에서 새로운 고객 경험을 제시하면서 주목받고 있다. 바로 자체 개발·고도화 중인 AI 기반 차량 추천 플랫폼 '올타플랜 AI'다. 기존 자동차 금융 시장에서 영업사원의 경험이나 주관적 판단에 의존했던 차량 선택 과정을 데이터와 AI 중심으로 전환하는 것이 핵심이다. 올타오토플랜은 국산·수입 전 차종을 대상으로 신차 장기렌트와 자동차 리스 서...]]></description>
+		</item>
 		<item>
 			<title>지역정보개발원 신임 원장에 우정민  前 KT 부사장 취임</title>
 			<link>https://www.etnews.com/20260928000207</link>
@@ -253,24 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 27 Sep 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[차세대 인공지능(AI) 기술이 빠르게 발전하면서 데이터센터는 불과 몇 년 전만 해도 상상하기 어려웠던 수준의 워크로드를 처리해야 하는 상황에 놓였다. 한국에서도 대규모 AI 인프라 투자가 본격화되면서 AI 데이터센터(AIDC) 수요가 빠르게 증가하고 있다. 지난해 약 3억1600만달러 규모였던 국내 데이터센터 냉각 시장 역시 2035년까지 연평균 15% 성장할 것으로 전망된다. AI 워크로드가 만들어 내는 고밀도 발열을 처리하기엔 기존 공랭 방...]]></description>
-		</item>
-		<item>
-			<title>[단독] 공공SW 대기업 참여제한 예외 급증…“심의 건수 전년 比 51%↑”</title>
-			<link>https://www.etnews.com/20260927000070</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000070</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 27 Sep 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[공공 소프트웨어(SW) 사업의 대기업 참여제한 예외심의가 올해 들어 급증한 것으로 나타났다. 이미 지난해 연간 심의 안건의 90% 이상을 처리한 데다 예외가 인정된 사업 규모도 전년 동기 2.6배 수준으로 불어났다. 몇 년 전 행정망 마비 사태에 이어 지난해 국가정보자원관리원(국정자원) 화재 등을 계기로 대기업을 통해 안정적인 시스템 운영을 원하는 공공 발주처가 늘어난 영향으로 풀이된다. 최근 국회에서도 대기업 참여제한 완화 논의가 본격화한 만...]]></description>
-		</item>
-		<item>
-			<title>예산 20% 깎인 시도새올…IT서비스·SW 업계 &apos;통합·분리발주&apos; 촉각</title>
-			<link>https://www.etnews.com/20260927000050</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000050</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 27 Sep 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[차세대 지방행정공통시스템(시도새올) 사업 발주 형태에 업계 관심이 집중되고 있다. 공공 정보화 사업 역대 최대치를 예상했던 사업비가 예산 당국의 재검토 과정에서 20% 이상 삭감되면서, 어떤 발주 방식으로 운용할지가 사업 성패를 가를 변수로 떠올랐기 때문이다. 조달 규정상 원칙인 상용 소프트웨어(SW) 분리발주를 그대로 유지할지, 예산 운용의 유연성을 위해 통합발주로 전환할지를 놓고 업계 셈법이 엇갈리는 모습이다. 27일 관련업계에 따르면 시도...]]></description>
 		</item>
 	</channel>
 </rss>
