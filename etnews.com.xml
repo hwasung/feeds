@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 28 Sep 2026 09:01:25 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 28 Sep 2026 10:00:44 +0900</lastBuildDate>
+		<item>
+			<title>kt클라우드, 군산 대규모 AI 데이터센터 구축 착수… SGC에너지와 협력</title>
+			<link>https://www.etnews.com/20260928000067</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260928000067</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 28 Sep 2026 09:25:06 +0900</pubDate>
+			<description><![CDATA[KT클라우드가 전북 군산에서 총 300메가와트(㎿) 규모의 인공지능데이터센터(AIDC) 구축에 나선다. 대규모 데이터센터 구축·운영에서 쌓아온 역량을 이번 프로젝트에 집중 투입하며 AIDC 사업을 본격적으로 확대한다.  KT클라우드는 에너지기업 SGC에너지가 추진하는 전북 군산 AIDC 사업에 참여한다고 28일 밝혔다. 이번 사업은 전북 군산시 내 11만5702㎡ 부지에 대규모 AIDC를 조성하는 프로젝트다. 올해 말 60㎿ 규모의 1단계 모듈...]]></description>
+		</item>
+		<item>
+			<title>크리니티, 공무원연금공단 이메일 개인정보 보호 체계 &apos;업그레이드&apos;</title>
+			<link>https://www.etnews.com/20260928000063</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260928000063</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 28 Sep 2026 09:23:42 +0900</pubDate>
+			<description><![CDATA[크리니티(대표 유병선)는 공무원연금공단이 사용 중인 이메일 시스템의 개인정보 보호 체계를 고도화했다고 28일 밝혔다.  회사는 공무원연금공단의 내부메일과 외부메일이 서로 다른 시스템과 인프라에서 운영됐지만 일관된 개인정보 보호 기준을 적용할 수 있도록 지원했다고 설명했다. 공단 내부메일은 '크리니티메시징(CrinityMessaging)'을 기반으로 한 온프레미스 환경으로, 외부메일은 크리니티 G-클라우드 공공메일로 운영됐다.  공단과 크리니티는...]]></description>
+		</item>
+		<item>
+			<title>클라우데라, IDC 마켓스케이프 &apos;소버린 AI 플랫폼&apos; 리더 선정</title>
+			<link>https://www.etnews.com/20260928000043</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260928000043</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 28 Sep 2026 09:13:16 +0900</pubDate>
+			<description><![CDATA[클라우데라가 IDC의 '2026년 아태지역 소버린 AI 플랫폼 벤더 평가'에서 리더로 선정됐다고 28일 밝혔다. IDC는 클라우데라가 프라이빗, 하이브리드, 엣지, 에어갭 등 다양한 데이터 환경에서 기업이 소버린 AI 워크로드를 안전하게 활용하고 관리할 수 있도록 지원하는 역량을 높이 평가했다. 아시아태평양 지역 기업은 국가별로 엄격한 데이터 프라이버시·레지던시 규제를 지키면서도 소버린 AI를 추진해야 하는 과제를 안고 있다. 클라우데라 조사에...]]></description>
+		</item>
+		<item>
+			<title>“SNS AI 봇, 친근할수록 더 못 알아본다”…탐지율 38% 불과</title>
+			<link>https://www.etnews.com/20260928000026</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260928000026</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 28 Sep 2026 08:55:59 +0900</pubDate>
+			<description><![CDATA[소셜미디어(SNS)에서 인공지능(AI)이 작성한 댓글을 이용자가 구별해내는 비율이 40% 수준에 불과한 것으로 나타났다. 특히 공격적이거나 부정적인 댓글보다 긍정적이고 친근한 말투를 사용하는 AI 봇 정체를 파악하기가 더 어려운 것으로 조사됐다. 사이버보안 기업 서프샤크(Surfshark)가 전 세계 참가자 1722명을 대상으로 진행한 AI 봇 식별 시뮬레이션 분석 결과, 참가자들은 SNS에서 활동하는 AI 봇을 평균적으로 절반도 채 구별하지...]]></description>
+		</item>
 		<item>
 			<title>컴트루테크놀로지, 안면인식 솔루션 &apos;aiSee&apos; KISA 성능 인증 갱신</title>
 			<link>https://www.etnews.com/20260923000084</link>
@@ -233,38 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Sun, 27 Sep 2026 14:00:00 +0900</pubDate>
 			<description><![CDATA[국립광주과학관이 최근 과학문화와 인공지능(AI) 분야에서 잇따라 굵직한 성과를 내며 주목받고 있다. 과학기술정보통신부와 한국지능정보사회진흥원(NIA) 공모사업에 선정돼 국립과학관 최초로 AI 라운지를 구축·운영하게 된 데 이어 지난 4월에는 전남광주 과학문화거점센터로 지정돼 호남권 과학문화 확산의 컨트롤타워 역할을 맡고 있다. 환경·사회·지배구조(ESG) 기반 경영철학을 바탕으로 지속가능한 기관 운영과 공공기관으로서의 책무 이행에 대한 우수성을...]]></description>
-		</item>
-		<item>
-			<title>[부음] 정정욱 (LG 부사장)씨 모친상</title>
-			<link>https://www.etnews.com/20260927000094</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000094</guid>
-			<category>오피니언</category>
-			<pubDate>Sun, 27 Sep 2026 13:06:42 +0900</pubDate>
-			<description><![CDATA[▲강복남씨 별세, 정기호씨 부인상, 정정수·정욱(LG 부사장)씨 모친상, 김선경·서애리씨 시모상=27일, 이대서울병원장례식장 특2호실, 발인 29일. (02)6986-4440...]]></description>
-		</item>
-		<item>
-			<title>[부음] 이동규 지식재산단체총연합회 사무총장 (한국소프트웨어저작권협회 실장) 부친상</title>
-			<link>https://www.etnews.com/20260927000092</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000092</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 27 Sep 2026 12:37:58 +0900</pubDate>
-			<description><![CDATA[이종화씨 별세, 이동규(지식재산단체총연합회 사무총장·한국소프트웨어저작권협회 실장)·이동일(수미네농장 대표)·이동영(LMS 차장)씨 부친상=27일 오전 7시 57분, 밀양농협장례식장 특1호실, 발인 29일 오전 7시30분, 장지 밀양시공설화장시설 (055)355-8525...]]></description>
-		</item>
-		<item>
-			<title>[부음] 명창환(전 전남도 행정부지사)씨 장모상</title>
-			<link>https://www.etnews.com/20260927000088</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000088</guid>
-			<category>오피니언</category>
-			<pubDate>Sun, 27 Sep 2026 12:21:32 +0900</pubDate>
-			<description><![CDATA[▲노두이씨 별세, 명창환(전 전남도 행정부지사)씨 장모상=27일, 전남광주 순천성가롤로병원장례식장 6호실, 발인 29일. (061)900-4444...]]></description>
-		</item>
-		<item>
-			<title>[부음] 홍수용(머니투데이방송 부국장)씨 모친상</title>
-			<link>https://www.etnews.com/20260927000087</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260927000087</guid>
-			<category>오피니언</category>
-			<pubDate>Sun, 27 Sep 2026 12:21:20 +0900</pubDate>
-			<description><![CDATA[▲김남선(약사)씨 별세, 홍재용(신경성정신건강의학과의원 원장)·수용(머니투데이방송 부국장)·혜경(세종대 교수)씨 모친상, 권혁회(숭실대 교수)씨 장모상, 조현애·김희영씨 시모상=27일, 부산 좋은강안병원 장례식장 5호실, 발인 29일. (051)610-9009...]]></description>
 		</item>
 	</channel>
 </rss>
