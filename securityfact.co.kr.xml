@@ -4,33 +4,99 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Mon, 28 Sep 2026 13:00:29 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 28 Sep 2026 14:00:36 +0900</lastBuildDate>
+		<item>
+			<title>탈레스, AI 기반 다영역 지휘통제 소프트웨어 &apos;헥사포스&apos; 공개… 나토 회원국과 협상 가속</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7965</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7965</guid>
+			<author>sbtm2epdl@gmail.com 강지현 기자</author>
+			<category>방산기업</category>
+			<category>20140925141337_5787</category>
+			<pubDate>Mon, 28 Sep 2026 13:43:41 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260928134132_mevuzhcd.jpg" alt="20260928 털레스.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 6월 15일  유로사토리(Eurosatory) 방산전시회 탈레스 부스에서 카트린 보트랭(Catherine Vautrin) 프랑스 국방장관(가운데)이 파트리스 케인(Patrice Caine) 탈레스 최고경영자(CEO) 옆에 서 있다./사진=AFP Getty Images</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트=강지현 기자] 프랑스의 방산기술 기업 탈레스(Thales)가 인공지능(AI) 기반의 차세대 다영역 지휘통제(C2) 시스템을 공개하고 주요 나토(NATO) 회원국들과 도입을 위한 구체적인 협상에 나섰다.</p>
+<p><br /></p>
+<p>28일 디펜스뉴스 등 외신과 탈레스가 발표한 공식 자료에 따르면 패트릭 모로(Patrick Moreau) 탈레스 다영역 작전 담당 부사장은 최근 인터뷰를 통해 자사의 AI 기반 지휘통제 소프트웨어인 '헥사포스(HexaForce)'의 공식 출시를 알리며 "복수의 나토 회원국들과 상당한 수준의 도입 논의를 진행 중"이라고 밝혔다.</p>
+<p><br /></p>
+<p>헥사포스는 지난 6월 폴란드에서 열린 나토의 '연합군 상호운용성 실증 연습(CWIX)'에서 실제 시험 평가를 거쳤다. 탈레스는 이 체계를 군단급부터 대대급에 이르는 전략·전술 전반에 적용할 수 있는 다영역 C2 '오버레이(overlay)' 솔루션으로 제시하고 있다.</p>
+<p><br /></p>
+<p>특히 헥사포스는 개방형 아키텍처와 나토 표준을 충족하여 설계돼 운용국이 특정 방산기업 기술에 귀속되는 '벤더 락인(vendor lock-in)' 없이 각국이 원하는 대형언어모델(LLM) 및 알고리즘을 자유롭게 선택하고 기존 유산(legacy) 지휘통제 체계와 연동할 수 있는 것이 핵심 특징이다.</p>
+<p><br /></p>
+<p>시스템 내부에는 문서 분석 등을 위한 LLM뿐만 아니라 표적화 임무 준비를 자율적으로 수행하는 '에이전트 AI(Agentic AI)' 기술이 적용됐다. 탈레스는 최종 운용자와의 협력을 통해 일일 표적 처리 능력을 기존 대비 10배인 최대 1000건까지 확대하는 것을 목표로 설정했다.</p>
+<p><br /></p>
+<p>또한 중앙 집중형 서버에 의존하던 기존 방식에서 벗어나 여러 지휘소와 데이터 허브에 분산 배치할 수 있는 메시(Mesh) 기반의 완전 분산형 아키텍처를 적용했다. 이는 적의 교란이나 물리적 타격 상황에서도 지휘통제망의 생존성을 높여준다.</p>
+<p><br /></p>
+<p>모로 부사장은 "유럽 및 나토군이 작전 운용 규모를 여단급에서 10만 명 이상의 군단급으로 확장함에 따라 복잡한 전장 데이터를 신속히 처리하고 기획 주기를 단축하는 데 AI가 핵심 역할을 할 것"이라며 "다만 최종 타격 승인은 오직 인간 운용자만 결정하도록 설계돼 있어 자동화된 타격 행위는 존재하지 않는다"고 강조했다.</p>
+<p><br /></p>
+<p>현재 나토는 미국 팔란티어(Palantir)의 AI 지휘통제 체계를 운용 중이나 최근 유럽연합(EU)을 중심으로 기술 주권 확보 요구가 높아짐에 따라 탈레스의 헥사포스가 이에 대한 기술적 대안으로 부상할지 주목된다. 아울러 프랑스 국방부가 추진 중인 독자 지휘통제 체계 '아르카디아(Arcadia)' 개발 사업에도 헥사포스가 핵심 기술로 활용될 가능성이 제기된다.</p>]]></description>
+		</item>
+		<item>
+			<title>한화에어로, ‘경력직 채용 차별’ 논란 공식 사과… 재발 방지책 약속</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7964</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7964</guid>
+			<author>sbtm2epdl@gmail.com 강지현 기자</author>
+			<category>방산기업</category>
+			<category>20140925141337_5787</category>
+			<pubDate>Mon, 28 Sep 2026 13:07:20 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<p style="text-align: center;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260928125645_kilkgdme.jpg" alt="한화에어로스페이스.jpg" style="width: 640px; height: 122px;" /></p>
+<p><br /></p>
+<p>&nbsp;</p>
+<p style="text-align: left; ">&nbsp;</p>
+<p style="text-align: left;">[시큐리티팩트=강지현 기자] 한화에어로스페이스가 최근 불거진 '경력직 채용 가이드라인' 내 차별 조항 논란과 관련해 대표이사 명의의 공식 사과문을 발표하고 재발 방지 대책 마련에 나섰다.</p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">이부환 한화에어로스페이스 대표이사는 27일 자사 공식 홈페이지에 사과문을 게재하고 "공정한 채용을 통해 사회적 책임을 다해야 하는 기업으로서 직무 수행과 무관한 학력, 나이 등 개인의 조건을 이유로 지원자의 기회를 제한할 수 있는 내용이 포함된 가이드라인이 만들어진 것은 결코 있어서는 안 되는 일"이라며 공식 고개를 숙였다.</p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">이번 논란은 이달 중순 JTBC 단독 보도를 통해 처음 수면 위로 떠올랐다. 당시 공개된 내부 문건에 따르면 한화에어로스페이스 인사 담당 부서는 사업부별 채용 담당자들에게 서울 주요 대학 및 국립대학 등 특정 11개 대학 출신과 1980년 이후 출생자로 경력직 채용 자격을 제한하는 내용의 가이드라인을 작성·배포한 것으로 나타났다.</p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">해당 내용이 알려지자 직무 능력 중심의 공정 채용 원칙을 훼손하고 연령 및 학력 차별을 금지한 관련 법률을 위반했다는 지적이 거세게 일었다. 이에 고용노동부는 지난 16일 해당 의혹에 대한 사실관계 확인 및 근로감독에 즉각 착수했다.</p>
+<p style="text-align: left; ">&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <p style="text-align: center;"><img src="https://cphoto.asiae.co.kr/listimglink/1/2026073108321065169_1785454330.jpg" alt="이부환 한화에어로스페이스 사업부문 대표이사" style="color: #999999; width: 640px; height: 895px;" /></p>
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;">
+      <figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em;"><span style="letter-spacing: -0.48px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 이부환 한화에어로스페이스 대표이사/사진=한화에어로스페이스 제공</span></figcaption>
+      </figure>
+   </div>
+<p style="text-align: center; ">&nbsp;</p>
+<p><span style="text-align: left;">&nbsp;</span></p>
+<p><span style="text-align: left;">이 대표는 사과문에서 "이는 그동안 한화에어로스페이스가 지향해 온 '열린 채용'과 '공정한 기회 제공'이라는 기본 원칙을 정면으로 훼손한 행위였다"며 "이번 사태를 매우 엄중하게 받아들이고 있다"고 밝혔다.</span></p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">이어 "이번 사안은 내부 의견 수렴과 면밀한 검증이 이뤄지지 않은 채 잘못된 가이드라인이 현업에 배포된 명백한 과오"라며 "해당 가이드라인을 수립하고 배포한 관련 부서 및 책임자에 대해 엄중히 경고하고 인사위원회 회부를 통한 징계 절차를 진행 중"이라고 전했다.</p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">한화에어로스페이스 측은 당초 관련 사실을 파악한 직후 인사조직 전 직원과 사업부장급 이상 간부들에게 부적절한 채용을 금지하는 경고 메시지를 발송하는 등 내부 조치를 취했으나 사회적 파장이 확산됨에 따라 대표이사 공식 사과와 함께 채용 프로세스 전면 재점검에 나서기로 결정했다.</p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">회사 관계자는 향후 전체 채용 절차를 면밀히 분석해 결함을 보완하는 한편 전 임직원을 대상으로 공정 채용 교육을 강화해 차별 없는 채용 문화를 정착시킬 방침이라고 설명했다.</p>
+<p style="text-align: left; "><br /></p>
+<p style="text-align: left; ">이 대표는 "공정한 채용은 기업이 사회에 제공해야 할 가장 기본적인 정의이자 의무"라며 "이번 일을 뼈아픈 교훈으로 삼아 다시는 이와 같은 불합리한 차별이 발생하지 않도록 관리하겠다"고 강조했다.</p>]]></description>
+		</item>
 		<item>
 			<title>에어버스, 프랑스군 사이버보안 게이트웨이 25년 계약 수주</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=7963</link>
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7963</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
 			<category>방산기업</category>
 			<category>20140925141337_5787</category>
 			<pubDate>Mon, 28 Sep 2026 12:31:44 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2609/20260928123020_plfphciq.jpg" alt="에어버스 사이버보안 관제센터. 출처=에어버스.jpg" style="width: 720px; height: 480px;" />
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260928123020_plfphciq.jpg" alt="에어버스 사이버보안 관제센터. 출처=에어버스.jpg" style="width: 720px; height: 480px;" />
       <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">에어버스 사이버보안 관제센터. 출처=에어버스</figcaption>
-   </figure>
-</div>
+      </figure>
+   </div>
 <p>&nbsp;</p>
 <p>[시큐리티팩트=최미옥 기자] 에어버스가 프랑스 국방조달청(DGA)으로부터 프랑스군 네트워크에 사용할 사이버보안 게이트웨이 공급 계약을 수주했다. 계약 기간은 25년이다. 27일(현지시각) 외신보도에 따르면, 에어버스는 자회사 에어버스 사이버시큐리티를 통해 'PARACOM' 게이트웨이의 설계·개발, 생산, 운영 유지보수를 맡는다고 밝혔다. 계약 금액은 발표하지 않았다.&nbsp;</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>PARACOM은 보안 등급이나 민감도가 다른 군 네트워크와 정보시스템 사이에서 데이터가 오갈 때 이를 필터링하는 장비다. 에어버스에 따르면 비기밀부터 비밀 등급까지의 데이터 교환을 지원하도록 승인과 인증을 받을 예정이다. 프랑스군과 국방·보훈부 산하 기관에 배치될 계획이다.&nbsp;</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>장비는 데이터센터 랙에 설치하는 형태와 지휘소에 배치하는 독립형 장치로 제공된다. 에어버스는 함정과 잠수함, 항공기, 헬리콥터, 드론, 장갑차 등 공간이 제한된 전술 환경에서도 사용할 수 있도록 설계했다고 설명했다. 프랑수아 롬바르 에어버스 방산우주 부문 커넥티드 인텔리전스 담당 이사는 프랑스 육군에 2013년부터 게이트웨이 솔루션을 공급해 왔다고 밝혔다.&nbsp;</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>&nbsp;PARACOM 게이트웨이는 네트워크 사이를 오가는 데이터와 보안 표시를 검사해 허용된 정보만 전달하도록 설계된다. 이번 계약에는 장비의 개발·생산과 장기 운영 유지보수가 포함된다. 다만 프랑스군과 에어버스가 실제 데이터 교환 승인이나 현장 운용을 어떻게 나눠 맡을지는 공개되지 않았다. 새 PARACOM 장비의 배치·운용 실적도 아직 발표되지 않았다.&nbsp;</p>]]></description>
 		</item>
 		<item>
@@ -1424,91 +1490,6 @@
 <p>양기원 한화시스템 대표는 “이번 주요조건합의서 서명은 한화와 에지가 단발성 무기체계 공급 관계를 넘어 통합대공망 기술과 산업을 공유하는 전략적이고 동반자적 파트너십으로 진화하는 전환점”이라며 “기술협력과 현지화를 단계적으로 확대해 UAE의 방산산업 기반 강화에 기여하겠다”라고 밝혔다.</p>
 <p><br /></p>
 <p>하마드 알 마라르(Hamad Al Marar) 에지 그룹 CEO 역시 “이번 협력은 개별 무기체계 도입을 넘어 UAE의 자립적인 방산 역량과 현지 산업 기반을 확대하는 데 초점을 두고 있다”며 “에지 그룹은 한화와 함께 지속 가능한 산업협력 기반을 구축해 나갈 것”이라고 전했다.</p>]]></description>
-		</item>
-		<item>
-<guid>7939</guid>
-<title><![CDATA[한화, UAE 에지(EDGE)와 손잡고 ‘통합대공망’ 구축…JV 설립·현지화 추진]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7939</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7939</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7939" rel="related"/>
-
-<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p>[시큐리티팩트=강지현 기자] 한화가 아랍에미리트(UAE) 국영 최대 방산기업 에지(EDGE) 그룹과 UAE의 하늘을 지킬 통합대공망 구축에 나선다.</p>
-<p><br /></p>
-<p>한화시스템은 지난 15일(현지 시간) UAE 아부다비에 위치한 에지 그룹 본사에서 양사 대표 및 주요 경영진이 참석한 가운데 UAE 통합대공망 구축사업에 대한 주요조건합의서(Term Sheet)를 체결했다고 17일 밝혔다.</p>
-<p><br /></p>
-<p>이번 주요조건합의서에는 양사의 통합대공망 구축과 관련해 무기체계 도입 추진 방향과 단계별 검토 내용이 담겼다. 특히 개별 무기체계 공급을 넘어 한화와 에지 그룹이 UAE 통합대공망 구축을 위한 중장기 사업을 공유하고 향후 공동 사업을 구체화하기 위한 기반을 마련했다는 데 의미가 있다.</p>
-<p><br /></p>
-<p>양사는 앞으로 양국 정부 간 방산 협력 방향에 발맞춰 세부사업 추진 방안을 단계적으로 구체화할 예정이다. 필요한 정부 승인과 협의 절차 등을 거쳐 현지 합작법인(JV) 설립과 생산·사업 운영 방안 등을 검토하고 UAE 내 방산 생산 및 유지·보수 역량 강화를 위한 현지화도 단계적으로 추진한다.</p>
-<p><br /></p>
-<p>한화는 그동안 중동 시장에 중거리 지대공 유도무기체계 천궁-II의 다기능레이다와 발사대·발사관·탄 구성품 등을 공급하며 K-대공망의 기술 및 사업역량을 입증해 왔다. 지난 2022년 UAE, 2024년 사우디아라비아, 2025년 이라크에 한화시스템의 다기능레이다, 한화에어로스페이스의 발사대·발사관·탄 구성품 등을 공급하며 대규모 수출 행보를 이어온 바 있다.</p>
-<p><br /></p>
-<p>한화는 에지 그룹과의 전략적 협력을 통해 개별 무기체계 공급을 넘어 통합대공망 구축사업 참여 범위를 넓히고 천무 다연장로켓 등 지상무기체계까지 연동해 단거리·중거리·장거리를 모두 통합해 방어하는 다계층 방공망 포트폴리오를 확대할 계획이다. 장거리·중거리 지대공 유도무기체계를 중심으로 대(對)드론체계(C-UAS)와 단거리 방공체계 등을 연계해 UAE와 함께 글로벌 대공방어 시장을 선도할 독보적 성능의 통합대공망을 완성한다는 구상이다.</p>
-<p><br /></p>
-<p>아울러 한화는 UAE를 중동 및 제3국 시장 진출을 확대하기 위한 교두보이자 전략적 거점으로 발전시켜 나갈 방침이다. UAE의 산업 기반과 한화의 방산 역량을 결합해 현지 사업을 확대하고 이를 기반으로 글로벌 시장에서의 공동 사업 기회도 지속적으로 발굴할 예정이다.</p>
-<p><br /></p>
-<p>이번에 한화와 손을 잡은 에지 그룹은 2019년 UAE 정부가 첨단 국방 역량 강화와 방산 자립을 목적으로 기존 방산 기업들을 통합해 설립한 국영 방산 종합기업이다. 25개 이상의 자회사를 보유하고 있으며 정밀유도무기, 무인 자율체계, 전자전, 사이버 보안 솔루션 등 첨단 분야에 집중 투자해 중동 지역 최대 규모의 방산 기업으로 성장했다.</p>
-<p><br /></p>
-<p>양기원 한화시스템 대표는 “이번 주요조건합의서 서명은 한화와 에지가 단발성 무기체계 공급 관계를 넘어 통합대공망 기술과 산업을 공유하는 전략적이고 동반자적 파트너십으로 진화하는 전환점”이라며 “기술협력과 현지화를 단계적으로 확대해 UAE의 방산산업 기반 강화에 기여하겠다”라고 밝혔다.</p>
-<p><br /></p>
-<p>하마드 알 마라르(Hamad Al Marar) 에지 그룹 CEO 역시 “이번 협력은 개별 무기체계 도입을 넘어 UAE의 자립적인 방산 역량과 현지 산업 기반을 확대하는 데 초점을 두고 있다”며 “에지 그룹은 한화와 함께 지속 가능한 산업협력 기반을 구축해 나갈 것”이라고 전했다.</p>
-]]></description>
-
-<atom:category label="방산기업" term="20140925141337_5787"/>
-<author>sbtm2epdl@gmail.com 강지현 기자</author>
-<atom:updated>2026-09-17T11:36:36+09:00</atom:updated>
-<pubDate>2026-09-17T11:35:51+09:00</pubDate>
-</item>
-		<item>
-			<title>한·프 공군, 3년 만에 청주서 연합공중훈련…상호 공중급유·전술비행 실시</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=7938</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7938</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>밀리터리</category>
-			<category>20250407121048_4964</category>
-			<pubDate>Thu, 17 Sep 2026 11:16:15 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260917111046_bzaazrat.jpg" alt="20260917 한프 연합훈련.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">한·프랑스 연합공중훈련에 참가한 우리 공군 F-35A 전투기(위쪽 2대)와 프랑스 항공우주군 라팔 전투기(아래쪽 2대)가 지난 16일 오전, 편대를 이뤄 비행하고 있다./사진=공군 제공</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=강지현 기자] 대한민국 공군과 프랑스 항공우주군이 9월 15일부터 17일까지 충북 청주기지에서 연합공중훈련을 개최한다. 이번 훈련은 지난 2023년 양국 항공전력 간 첫 훈련 이후 3년 만에 시행되는 연합훈련으로 양국 간 우호협력을 증진하고 연합작전 수행능력과 상호운용성을 향상하기 위해 추진됐다.</p>
-<p><br /></p>
-<p>이번 훈련에 우리 공군은 F-35A, F-15K, KF-16, FA-50 전투기와 KC-330 다목적공중급유수송기를 투입했다. 프랑스 항공우주군은 ‘페가스(PEGASE) 26’ 훈련의 일환으로 라팔 전투기 2대와 A-330 다목적공중급유수송기(MRTT) 1대를 한국에 전개했다. 페가스 훈련은 프랑스 항공우주군이 전투기·공중급유기·수송기로 구성된 통합전력을 장거리 전개해 동맹 및 우방국과의 상호운용성과 전략적 억제능력을 검증하는 대규모 전개훈련이다. 올해 페가스 훈련은 9월 8일부터 10월 15일까지 39일간 한국을 포함해 미국, 캐나다, 일본, 인도 등 9개국에서 진행된다.</p>
-<p><br /></p>
-<p>'페가스 26' 훈련 임무를 총지휘하는 줄리앙 사베네 프랑스 항공우주군 소장은 AP통신과의 인터뷰에서 “페가스 훈련을 시작한 이래 처음으로 그린란드와 알래스카를 거치는 북극 경로로 이동한다. 인도·태평양 지역으로 가야 할 상황에 대비해 북쪽 경로라는 또 다른 옵션(대안)을 개척하고 탐색하는 것”이라며 “페가스는 현대적 공군 중에서도 극소수만이 보유한 이러한 장거리 투사 노하우를 유지하도록 해준다”고 밝혔다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/003/2026/09/17/NISI20260917_0021440948_web_20260917095704_20260917095841505.jpg?type=w860" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">프랑스 항공우주군 A-330 다목적공중급유수송기가 16일 우리 공군 F-35A 전투기에 공중급유를 하고 있다./사진=공군 제공</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>훈련 기간 양국 공군은 상호 공중급유, 연합 전술비행, 전술토의 등을 전개했다. 16일 오후에는 우리 공군 KC-330이 프랑스 라팔에, 프랑스 A-330 MRTT가 우리 공군 F-35A에 각각 공중급유를 수행했다. 이 과정에서 양국 다목적공중급유수송기 조종사와 공중급유통제사가 상대국 항공기에 교차 탑승해 서로의 공중급유체계에 대한 이해도를 높였다.</p>
-<p><br /></p>
-<p>이어진 연합 전술비행에서는 F-35A 2대와 프랑스 라팔 2대가 아군(Blue Air) 역할을 맡았고 F-15K·KF-16·FA-50 각 2대가 가상 적군(Red Air)을 담당해 임무를 수행했다. 특히 우리 공군 조종사 1명이 프랑스 라팔 전투기 후방석에 탑승해 실전적인 연합작전 수행능력을 점검했다. 또한 같은 A-330 기종 기반의 다목적공중급유수송기를 운용하는 양국은 전술토의를 통해 공중급유 절차와 항공기 운용방식에 대해 의견을 교환했다.</p>
-<p><br /></p>
-<p>앞서 16일 오전에는 우리 공군 F-35A 3대와 프랑스 라팔 2대가 부산 유엔기념공원 상공에서 추모·우정비행을 실시했다. 양국 전투기들은 6·25전쟁 참전 프랑스 용사들이 안장된 유엔기념공원 상공을 비행하며 대한민국의 자유와 평화를 위해 헌신한 숭고한 희생을 기렸다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/003/2026/09/17/NISI20260917_0021440967_web_20260917095704_20260917095845908.jpg?type=w860" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">명대성 제17전투비행단장이 15일 연합공중훈련을 위해 청주기지에 도착한 쥘리앙 사베네 프랑스 항공우주군 훈련단장과 악수하는 모습./사진=공군 제공</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>명대성(준장) 제17전투비행단장은 “이번 훈련은 양국의 연합작전 수행능력과 상호운용성을 한층 강화하는 계기가 될 것”이라며 “서로의 전술과 항공전력 운용체계를 이해하고 신뢰를 쌓아 향후 발전된 연합훈련을 이어갈 기반을 마련했다”고 평가했다. 제29전술개발훈련비행전대 박지훈(소령) 전술교범과장도 “프랑스 항공우주군 조종사들과 같이 비행하며 서로의 전술과 임무수행 방식을 직접 경험할 수 있는 뜻깊은 기회였다”고 밝혔다.</p>
-<p><br /></p>
-<p>올해 수교 140주년을 맞은 한국과 프랑스는 지난 4월 양국 관계를 ‘글로벌 전략적 동반자 관계’로 격상한 바 있다. 양국은 이번 훈련을 바탕으로 연합훈련 정례화를 위한 공감대를 형성하고 군사교류 및 안보 협력을 지속 발전시켜 나갈 계획이다.</p>
-<p><br /></p>]]></description>
 		</item>
 	</channel>
 </rss>
