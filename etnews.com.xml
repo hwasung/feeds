@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 29 Sep 2026 18:01:30 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 19:00:46 +0900</lastBuildDate>
+		<item>
+			<title>라이너, AI 에이전트에 1100여개 도구 연동 &apos;액션즈 MCP&apos; 출시</title>
+			<link>https://www.etnews.com/20260929000332</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000332</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 18:12:10 +0900</pubDate>
+			<description><![CDATA[라이너가 인공지능(AI) 에이전트에 1100여개 외부 도구를 통합 연결하는 '라이너 액션즈 MCP'를 출시했다. 클로드·챗GPT 등 주로 이용하는 AI 에이전트에 연결하면 캘린더·슬랙·노션 등 외부 서비스를 자연어 명령으로 활용할 수 있다. 모델 컨텍스트 프로토콜(MCP)은 AI 에이전트가 외부 서비스와 연결돼 실제 작업을 지원하는 표준 규약이다. 기존에는 이용자가 필요한 MCP를 찾아 서비스마다 직접 설치하거나 응용프로그래밍환경(API) 키를...]]></description>
+		</item>
 		<item>
 			<title>[사설] &apos;AI대학·AX대학원&apos; 교육 바꾸는 시발점으로</title>
 			<link>https://www.etnews.com/20260929000265</link>
@@ -99,7 +108,7 @@
 			<author>박종진</author>
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 29 Sep 2026 15:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 시대 맞춤형 대학 교육 전환을 위한 AI중심대학이 본격 가동된다. 산업별 AI전환(AX)을 주도할 융합 인재양성 차원에서 'AX대학원'도 지정됐다. 과학기술정보통신부는 대학 교육 전반의 AX, 산업 현장과 연계한 초지능(ASI) 시대 맞춤형 고급 융합인재 양성을 위해 AI 중심대학과 AX대학원 사업을 새롭게 추진한다고 29일 밝혔다. 올해만 990억원 예산을 투입, 학·석·박사 과정 학생들이 AI를 활용해 문제를 정의하고 해결...]]></description>
+			<description><![CDATA[인공지능(AI) 시대 맞춤형 대학 교육 전환을 위한 AI중심대학이 본격 가동된다. 산업별 AI전환(AX)을 주도할 융합 인재양성 차원에서 'AX대학원'도 지정됐다. 과학기술정보통신부는 대학 교육 전반의 AX, 산업 현장과 연계한 초지능(ASI) 시대 맞춤형 고급 융합인재 양성을 위해 AI 중심대학과 AX대학원 사업을 새롭게 추진한다고 29일 밝혔다. 연간 990억원 예산을 투입, 학·석·박사 과정 학생들이 AI를 활용해 문제를 정의하고 해결 과...]]></description>
 		</item>
 		<item>
 			<title>[초지능 시대 인재양성] 18개 AI중심대학, 전교생 기초교육하고 전공과 AI 잇는다</title>
@@ -147,7 +156,7 @@
 			<description><![CDATA[인공지능(AI) 커리어플랫폼 전문기업 다인리더스(대표 임무호)는 AX(AI Transformation) 전문기업 솔로몬텍(대표 홍지수)과 대학 대상 AI 사업 공동 발굴 및 확대를 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 양사가 보유한 솔루션과 사업 역량을 기반으로 대학 AI 시장에서 새로운 사업 기회를 공동으로 발굴하고, 영업·제안부터 솔루션 연계, 마케팅, 기술 및 영업정보 교류까지 폭넓은 협력 체계를 구축하기 위해 마련됐다...]]></description>
 		</item>
 		<item>
-			<title>삼성, 美 AI인프라 기업에 1.4조 투자</title>
+			<title>삼성, AI 데이터센터 &apos;판&apos; 짠다…美 AI인프라 기업에 1.4조 투자</title>
 			<link>https://www.etnews.com/20260929000238</link>
 			<guid isPermaLink="true">https://www.etnews.com/20260929000238</guid>
 			<author>김시소</author>
@@ -258,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 29 Sep 2026 13:02:54 +0900</pubDate>
 			<description><![CDATA[피지컬 인공지능(AI) 보안 전문기업 아우토크립트(대표 이석우·김덕수)가 글로벌 반도체 기업 미디어텍(MediaTek)의 칩셋과 오픈소스 임베디드 커널에서 보안 취약점을 발견해 제보하고, 국제 표준 보안 취약점 식별 체계인 CVE(Common Vulnerabilities and Exposures) 등록과 버그바운티 포상 획득으로 보안 연구 역량을 입증했다고 29일 밝혔다. 아우토크립트 레드팀은 올해 상반기 미디어텍 시스템온칩(SoC)과 해당 부...]]></description>
-		</item>
-		<item>
-			<title>KISA, 부천시·경찰과 AI 기반 실종자 탐색체계 구축</title>
-			<link>https://www.etnews.com/20260929000159</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000159</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 29 Sep 2026 13:00:00 +0900</pubDate>
-			<description><![CDATA[한국인터넷진흥원(KISA)이 인공지능(AI) 에이전트를 활용한 실종자 탐색 체계 구축에 나선다. KISA는 29일 부천시청에서 부천시와 경찰, 대학, 기업 등과 관련 다자간 업무협약을 체결했다. 이번 협약을 통해 KISA는 개발 중인 AI 에이전트 기반 물리보안 통합 플랫폼을 부천시 관제 환경과 연계한다. 실종자 탐지부터 수색·수사까지 이어지는 현장 활용 체계를 구축하는 것이 목표다. 플랫폼은 AI가 실종자의 행동과 이동 경로를 분석하고 상황을...]]></description>
 		</item>
 	</channel>
 </rss>
