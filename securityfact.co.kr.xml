@@ -4,7 +4,134 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Tue, 29 Sep 2026 12:00:37 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 13:00:42 +0900</lastBuildDate>
+		<item>
+			<title>우크라이나, 실전 AI 드론 학습 플랫폼 영국에 개방… &apos;실전 빅데이터&apos; 첫 해외 공유</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7970</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7970</guid>
+			<author>sbtm2epdl@gmail.com 강지현 기자</author>
+			<category>국방안보 20140925141441_2377</category>
+			<pubDate>Tue, 29 Sep 2026 12:44:44 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2609/20260929124050_ulxsnbql.jpg" alt="20260929 우크라이나 전장관리시스탬.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">우크라이나군의 핵심 전장 관리 시스템인 '델타(DELTA)'/출처=우크라이나 국방부</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트=강지현 기자] 우크라이나 정부가 러시아와의 전쟁을 통해 축적한 방대한 전장 데이터를 기반으로 구축한 인공지능(AI) 드론 학습 플랫폼을 영국 방산 기업에 공식 개방했다.</p>
+<p><br /></p>
+<p>우크라이나가 자국의 전장 머신러닝 인프라 자체를 외국 정부 및 민간 기업에 공유한 것은 이번이 처음이다.</p>
+<p><br /></p>
+<p>영국 국방부는 우크라이나의 전투용 AI 학습 플랫폼인 '어벤저스 AI 랩스(Avengers AI Labs)'와 국방 기술 협력 파트너십을 체결했다고 공식 발표했다.</p>
+<p><br /></p>
+<p>이번 협정은 지난달 앤디 번햄 영국 총리가 우크라이나 독립기념일을 맞아 키이우를 방문해 볼로디미르 제렌스키 우크라이나 대통령과 양국 간 AI 국방 협력 협정에 서명한 후 이뤄진 후속 조치다.</p>
+<p><br /></p>
+<p>웨스 스트리팅 영국 국방장관은 "우크라이나는 자유의 최전선이자 비범한 국방 혁신의 현장"이라며 "실제 전장 데이터에 대한 세계 최초의 이번 접근 권한 부여를 통해 영국 기업들은 국방 혁신의 지평을 넓히고 억제력을 강화할 수 있게 될 것"이라고 강조했다.</p>
+<p><br /></p>
+<h3>500만 개 전장 영상 데이터베이스 개방… 보안 구역서 자율 드론 개발</h3>
+<p>우크라이나가 개방한 '어벤저스 AI 랩스'는 우크라이나군의 핵심 전장 관리 시스템인 '델타(DELTA)'를 통해 수집된 정보 집약적 AI 학습 인프라다.</p>
+<p><br /></p>
+<p>해당 플랫폼은 라벨링이 완료된 500만 개 이상의 전장 영상 프레임과 전차, 포병, 방공망, 보병, 샤헤드 자폭 드론, 정찰용 무인기(UAV) 등 수백만 건의 표적 감지 센서 데이터를 보유하고 있다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/UVUT2Y7UUVBIJML47MKLS6DJFM.JPG?auth=cb268fe072ab325b441b4936ed4d640d5ba796fe8fd01424658e0466315953f0&amp;width=3476&amp;height=2317" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">우크라이나 군인이 발사되는 FP-1 딥스트라이크(원거리 타격용) 드론을 바라보고 있다./사진=로이터</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>우크라이나 국방부는 전선에서 작전 중인 장병들의 안전을 확보하기 위해 모든 데이터를 완전 익명화하고 일정 시차를 두어 공개한다는 방침이다. 또한 영국 기업들은 데이터를 직접 다운로드할 수 없으며 우크라이나가 구축한 보안 가상 구역 내부에서만 머신러닝 모델 학습을 진행하게 된다.</p>
+<p><br /></p>
+<p>영국 국방부는 현재 최대 12개 방산 기업을 선정해 해당 플랫폼을 활용한 기술 개발 제안서를 접수하고 있다. 이번 프로젝트의 핵심 목표는 적의 전자전(EW) 재밍 공격으로 통신이 차단되거나 위성항법장치(GPS)를 사용할 수 없는 무신호(GPS-Denied) 환경에서도 스스로 표적을 식별해 완벽히 작전을 수행하는 자율 AI 드론 알고리즘을 구현하는 것이다.</p>
+<p><br /></p>
+<p>카니시카 나라얀 영국 AI부 장관은 "이번 협업은 우방국 우크라이나를 실질적으로 지원하는 동시에 영국의 독자적인 주권 방위 역량을 비약적으로 강화하는 계기가 될 것"이라고 평가했다.</p>]]></description>
+		</item>
+		<item>
+			<title>[新무기 세계] 중국 6세대 핵심 스텔스기 &apos;J-36&apos; 비행 영상 유출… 기술 과시인가 기만인가?</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7969</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7969</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>무기체계 20250407120846_2514</category>
+			<pubDate>Tue, 29 Sep 2026 12:14:45 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.twz.com/wp-content/uploads/2026/09/first-j-36-prototype-side-profile.jpg?strip=all&amp;quality=85&amp;w=1024" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">스플린터(파편형) 위장 도색이 적용된 J-36 1호 시제기(프로토타입)의 모습./<span style="letter-spacing: -0.48px; text-align: center;">출처=중국 인터넷·엑스(X)</span></figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>[시큐리티팩트=강태임 기자] 중국의 6세대급 ‘J-36’ 대형 스텔스 전투기가 최근 시험비행에 나선 동영상이 공개되면서 글로벌 군사 전문가들의 이목을 사로잡고 있다.</p>
+<p>
+   <br />
+</p>
+<p>중국 소셜 네트워크 서비스(SNS)와 미국 군사 전문 매체 워존(TWZ)에 따르면 최근 온라인상에 유포된 영상에는 청두비행기공업그룹(CAC)이 개발 중인 무꼬리(Tailless) 3발 엔진 대형 전술기 J-36의 착륙 및 상부 비행 장면이 상세히 포착됐다.</p>
+<p>
+   <br />
+</p>
+<p>전문가들은 2024년 12월 처음 모습을 드러낸 이후 지속적으로 포착되는 이번 영상 유출이 단순한 민간 촬영이 아니라 차세대 공중전 주도권을 둘러싸고 미·중 간 기술 격차를 과시하기 위한 중국 측의 '의도적인 정보 노출'일 가능성에 무게를 두고 있다.</p>
+<p>
+   <br />
+</p>
+<h3>기존 시제기와 무엇이 달라졌나… 대대적 형상 재설계 포착</h3>
+<p>이번에 공개된 최신 비행 영상은 초기 시제기(프로토타입) 및 이전 영상들과 비교해 대대적인 성능 개선과 디자인 수정을 거친 구체적 정황을 보여준다.</p>
+<p>
+   <br />
+</p>
+<p>무엇보다 엔진 배기구 구조의 전면 교체가 가장 먼저 눈에 띈다. 기존의 홈 형태(Trough) 배기 노즐에서 미 공군의 F-22 랩터와 유사한 2차원 추력편향(2D TVC) 노즐 구조로 완벽히 재설계되었는데 이는 적 레이더 및 적외선 탐지율을 극소화하면서도 저속에서의 조종성을 극대화하기 위한 조치로 해석된다.</p>
+<p>
+   <br />
+</p>
+<p>공기흡입구 역시 기체 상부뿐만 아니라 측면 전체에 다이버트리스 초음속 흡기구(DSI)를 확대 적용하여 레이더 반사 면적(RCS)을 줄이면서 고속 비행 시 공기 흐름의 효율성을 끌어올렸다.</p>
+<p>
+   <br />
+</p>
+<p>기두(노즈) 부분에서는 연한 색상의 레이돔이 포착되면서 실전용 고성능 위상배열(AESA) 레이더가 실제 탑재되어 시험 중임을 시사하고 있으며 J-36의 넓은 기체 폭을 감안할 때 동급 최강의 대형 레이더 어레이가 적용되었을 가능성이 높다.</p>
+<p>
+   <br />
+</p>
+<p>아울러 동체 상부 중앙 흡기구 위쪽과 날개 전·후연에 포착된 밝은 색상의 구역들은 위성 통신(BLOS) 및 무인기(드론) 편대를 공중에서 지휘 통제하기 위한 밀착형(Conformal) 안테나 개구부로 분석된다.</p>
+<p>
+   <br />
+</p>
+<p>한편 복수의 시제기(현재 4~5대 운용 추정) 중 일부에 동일한 기체 번호인 '36011'을 도색해 운용하는 정황도 포착되었는데 이는 서방 정보 당국의 전력 추적을 혼선시키기 위한 의도적인 보안 및 기만 전략으로 풀이된다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;">
+      <img src="https://www.twz.com/wp-content/uploads/2026/09/j-36-laser.jpg?strip=all&amp;quality=85&amp;w=800" style="width: 640px; height: 782px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">중국항공공업집단(AVIC)이 이달 초 열린 제14회 중국 국제방산전자전시회(CIDEX)에서 공개한 관련 자료 화면./출처=중국 인터넷·엑스(X)</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>수백 kW급 '레이저 무기' 개념 제시… 막대한 전력 수급 강점</h3>
+<p>이번 영상 공개와 맞물려 이달 초 중국 국제방산전자전시회(CIDEX)에서 국영기업 AVIC이 공개한 '수백 킬로와트(*00kW)급 레이저 무기 추적 시스템' 안내판도 큰 화제를 모으고 있다. 해당 자료에는 J-36이 개폐식 레이저 빔을 발사해 적 미사일과 전투기를 요격하는 그래픽이 포함되어 있었다.</p>
+<p>
+   <br />
+</p>
+<p>미국 역시 미 공군 연구소(AFRL)를 중심으로 전투기용 레이저 무기(SHiELD 사업 등)를 추진했으나 전력 및 열 관리 한계로 실전 배치를 미룬 바 있다. 반면 J-36은 '3발 엔진'이라는 독특한 구조를 채택하고 있어 향후 레이저 무기와 첨단 전자전 장비를 동시 가동하는 데 필요한 막대한 전력을 자체 조달하기에 유리한 구조적 강점을 지닌다.</p>
+<p>
+   <br />
+</p>
+<h3>"J-20보다 한 세대 앞선 순양함급 지휘전투기"</h3>
+<p>중국 군용기 전문 분석가인 안드레아스 루프레히트(Andreas Rupprecht)는 이번 최신 동향과 관련해 J-36의 독보적인 스펙에 주목했다.</p>
+<p>
+   <br />
+</p>
+<p>루프레히트는 "J-20의 대표 설계자인 양웨이에 따르면 J-36은 J-20이나 미국의 F-22, F-35조차 회피해야 하는 강력한 방공망 지역을 직접 뚫고 침투할 수 있어 한 세대 앞선 성능을 자랑한다"며 "더 낮아진 스텔스 성능(RCS)과 고속 비행 능력, 다수의 드론 통제 능력을 바탕으로 공중 지휘 통제 노드 역할을 수행하면서 원거리에서 고가치 목표를 직접 타격할 수 있는 기종"이라고 진단했다.</p>
+<p>
+   <br />
+</p>
+<p>이처럼 군사 전문가들은 J-36을 단순한 전투기가 아닌 공중에서 다수의 무인기를 거느리고 적 심층 방공망을 뚫는 '전구급 심층침투 지휘전투기(Cruiser-class Fighter)'라는 새로운 개념으로 정의하고 있다.</p>
+<p>
+   <br />
+</p>
+<p>특히 미국의 6세대 전투기(보잉 F-47) 첫 비행이 2028년으로 예정되어 있고 미 국방부가 중국 6세대 기체의 실전 배치를 2035년경으로 전망하는 상황에서 중국이 지속적인 영상 유출 방식으로 자국의 6세대 개발 속도가 순조롭게 진행되고 있음을 대외에 과시하려는 정치·군사적 의도가 깔려 있다는 분석이 지배적이다.</p>]]></description>
+		</item>
 		<item>
 			<title>[SF 분석] 미 공격 핵추진잠수함 &apos;USS 코네티컷&apos;, 강제 퇴역 수순 밟나?</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=7968</link>
@@ -1342,118 +1469,6 @@
 <author>sc.minugi@gmail.com 최미옥 기자</author>
 <atom:updated>2026-09-18T08:49:42+09:00</atom:updated>
 <pubDate>2026-09-18T08:49:42+09:00</pubDate>
-</item>
-		<item>
-			<title>미 사이버사령부 CAIO 교체…실용주의 AI 전력화 박차</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=7941</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7941</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>밀리터리 20250407121048_4964</category>
-			<pubDate>Thu, 17 Sep 2026 13:12:59 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2609/20260917131029_hunyqkqh.jpg" alt="20260917 그린 CAIO.JPG" style="width: 640px; height: 778px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">신임 미 사이버사령부 최고인공지능책임자(CAIO) 론젤 그린 해군 소장/출처=미 해안 경비대</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=강태임 기자] 미국 국방부의 군사 사이버 공간 작전 전담 통합전투사령부인 미 사이버사령부(U.S. Cyber Command)의 최고인공지능책임자(CAIO)가 교체됐다.</p>
-<p>
-   <br />
-</p>
-<p>미 사이버사령부 대변인은 15일(현지시간) 미국 정부·국방 IT 전문 매체 넥스트고브/FCW(Nextgov/FCW)를 통해 "사이버사령부는 론젤 그린(Ronzelle Green) 해군 소장을 신임 최고인공지능책임자로 맞이하게 된 것을 환영하며 그동안 헌신적인 리더십을 보여준 리드 노보트니(Reid Novotny) 공군 준장에게 감사를 표한다"고 공식 확인했다. 이번 인선 소식은 안보 전문 매체 더 레코드(The Record)에 의해 최초 보도됐다.</p>
-<p>
-   <br />
-</p>
-<p>신임 CAIO로 임명된 론젤 그린 소장은 민간 IT 부문과 정보기관을 아우르며 30년 이상 경력을 쌓아온 전문가다. 최근까지 미 국립지형공간정보국(NGA)에서 약 3년간 근무하며 지형공간정보 혁신 및 연구 부문 국장을 역임했다. 2020년부터 2022년까지는 미 방정보기술안전국(DCSA) 최고정보책임자(CIO)를 지냈으며 국방부 본부와 국가반테러센터(NCTC) 등 주요 기관의 핵심 직책을 두루 거쳤다. 해안경비대 예비역 고위 장교이기도 한 그는 사이버사령부 역사상 두 번째 CAIO로 임명되며 군사 AI 혁신을 이끌게 됐다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2_WEk6lgobkhEOfDlWEzkAZizlgBL75YqqzwGr4AbX5Yjz6-EPRRlgU&amp;s=10" alt="리드 노보트니 미 공군 준장, AI로 생성" style="width: 640px; height: 640px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">리드 노보트니 전 CAIO(미 공군 준장)/출처=SANS Institute</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>직전까지 사이버사령부의 초대 CAIO를 맡았던 리드 노보트니 공군 준장은 지난해 11월 보직된 이후 CAIO와 국방부 사이버전력 생성 책임자 임무를 겸임해 왔다. 그는 실용적이고 유연한 AI 수용관으로 조직 문화를 이끌었다는 평가를 받는다.</p>
-<p>
-   <br />
-</p>
-<p>노보트니 준장은 임명 당시 사회관계망서비스(SNS)를 통해 "새로운 기술이 등장할 때 늘 그렇듯 진짜 바꾸기 힘든 것은 기술이 아니라 조직의 문화이며 AI 수용도 마찬가지"라는 입장을 밝혔다. 또한 지난 4월 매체 악시오스(Axios)와의 인터뷰에서는 출처를 따지지 않고 최상의 AI 역량을 작전요원에게 제공하겠다는 구상을 피력했다. 당시 그는 "현장 작전요원이 오픈소스나 중국산 모델 혹은 특수 목적의 맞춤형 모델을 요구하더라도 정치적 고려 없이 즉각 적용할 수 있는 유연한 인프라를 구축해야 한다"고 강조해 눈길을 끌었다.</p>
-<p>
-   <br />
-</p>
-<p>이번 인사는 미군이 사이버전 및 군사 작전 전반에 성능과 실용성에 기반한 AI 기술을 신속히 안착시키겠다는 강한 의지를 보여준 조치로 평가된다.</p>
-<p>
-   <br />
-</p>
-<p>이 같은 흐름은 미 사이버사령부와 연계된 미 국가안보국(NSA)의 조직 개편에서도 명확히 드러난다. 미 사이버사령관과 NSA 국장을 겸임하는 조슈아 러드(Joshua Rudd) 육군 대장의 지휘 아래 NSA는 현재 AI, 중국, 사이버보안, 전투지원, 글로벌 정보 등 5개 핵심 임무 센터를 신설하는 대규모 개편을 추진 중이다. AI 전담 센터의 설립은 정보 분석과 사이버 방어 작전에 AI 도구를 전면 도입하려는 미 안보 라인의 전략적 행보를 반영한다.</p>
-<p>
-   <br />
-</p>
-<p>이러한 미군의 유연한 AI 작전 체계 수립과 조직 개편은 한국군에도 시사하는 바가 크다. 한국군 역시 '국방혁신 4.0'과 국방AI센터 설립을 추진하는 과정에서 보수적인 기술 도입 절차와 조직 문화의 벽을 넘어설 필요가 있다는 지적이 나온다. 민간 및 정보기관의 전문 인재를 과감히 중용하고 정치적·행정적 제약보다 현장 작전요원의 요구와 성능을 최우선하는 실용적 인프라를 구축하는 미 군사 당국의 유연성이 좋은 벤치마킹 사례가 될 전망이다.</p>]]></description>
-		</item>
-		<item>
-<guid>7941</guid>
-<title><![CDATA[미 사이버사령부 CAIO 교체…실용주의 AI 전력화 박차]]></title>
-<link>https://www.securityfact.co.kr/news/view.php?no=7941</link>
-<mobile>https://www.securityfact.co.kr/m/view.php?no=7941</mobile>
-<atom:link href="https://www.securityfact.co.kr/news/view.php?no=7941" rel="related"/>
-
-<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   
-</div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=강태임 기자] 미국 국방부의 군사 사이버 공간 작전 전담 통합전투사령부인 미 사이버사령부(U.S. Cyber Command)의 최고인공지능책임자(CAIO)가 교체됐다.</p>
-<p>
-   <br />
-</p>
-<p>미 사이버사령부 대변인은 15일(현지시간) 미국 정부·국방 IT 전문 매체 넥스트고브/FCW(Nextgov/FCW)를 통해 "사이버사령부는 론젤 그린(Ronzelle Green) 해군 소장을 신임 최고인공지능책임자로 맞이하게 된 것을 환영하며 그동안 헌신적인 리더십을 보여준 리드 노보트니(Reid Novotny) 공군 준장에게 감사를 표한다"고 공식 확인했다. 이번 인선 소식은 안보 전문 매체 더 레코드(The Record)에 의해 최초 보도됐다.</p>
-<p>
-   <br />
-</p>
-<p>신임 CAIO로 임명된 론젤 그린 소장은 민간 IT 부문과 정보기관을 아우르며 30년 이상 경력을 쌓아온 전문가다. 최근까지 미 국립지형공간정보국(NGA)에서 약 3년간 근무하며 지형공간정보 혁신 및 연구 부문 국장을 역임했다. 2020년부터 2022년까지는 미 방정보기술안전국(DCSA) 최고정보책임자(CIO)를 지냈으며 국방부 본부와 국가반테러센터(NCTC) 등 주요 기관의 핵심 직책을 두루 거쳤다. 해안경비대 예비역 고위 장교이기도 한 그는 사이버사령부 역사상 두 번째 CAIO로 임명되며 군사 AI 혁신을 이끌게 됐다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   
-</div>
-<p>&nbsp;</p>
-<p>직전까지 사이버사령부의 초대 CAIO를 맡았던 리드 노보트니 공군 준장은 지난해 11월 보직된 이후 CAIO와 국방부 사이버전력 생성 책임자 임무를 겸임해 왔다. 그는 실용적이고 유연한 AI 수용관으로 조직 문화를 이끌었다는 평가를 받는다.</p>
-<p>
-   <br />
-</p>
-<p>노보트니 준장은 임명 당시 사회관계망서비스(SNS)를 통해 "새로운 기술이 등장할 때 늘 그렇듯 진짜 바꾸기 힘든 것은 기술이 아니라 조직의 문화이며 AI 수용도 마찬가지"라는 입장을 밝혔다. 또한 지난 4월 매체 악시오스(Axios)와의 인터뷰에서는 출처를 따지지 않고 최상의 AI 역량을 작전요원에게 제공하겠다는 구상을 피력했다. 당시 그는 "현장 작전요원이 오픈소스나 중국산 모델 혹은 특수 목적의 맞춤형 모델을 요구하더라도 정치적 고려 없이 즉각 적용할 수 있는 유연한 인프라를 구축해야 한다"고 강조해 눈길을 끌었다.</p>
-<p>
-   <br />
-</p>
-<p>이번 인사는 미군이 사이버전 및 군사 작전 전반에 성능과 실용성에 기반한 AI 기술을 신속히 안착시키겠다는 강한 의지를 보여준 조치로 평가된다.</p>
-<p>
-   <br />
-</p>
-<p>이 같은 흐름은 미 사이버사령부와 연계된 미 국가안보국(NSA)의 조직 개편에서도 명확히 드러난다. 미 사이버사령관과 NSA 국장을 겸임하는 조슈아 러드(Joshua Rudd) 육군 대장의 지휘 아래 NSA는 현재 AI, 중국, 사이버보안, 전투지원, 글로벌 정보 등 5개 핵심 임무 센터를 신설하는 대규모 개편을 추진 중이다. AI 전담 센터의 설립은 정보 분석과 사이버 방어 작전에 AI 도구를 전면 도입하려는 미 안보 라인의 전략적 행보를 반영한다.</p>
-<p>
-   <br />
-</p>
-<p>이러한 미군의 유연한 AI 작전 체계 수립과 조직 개편은 한국군에도 시사하는 바가 크다. 한국군 역시 '국방혁신 4.0'과 국방AI센터 설립을 추진하는 과정에서 보수적인 기술 도입 절차와 조직 문화의 벽을 넘어설 필요가 있다는 지적이 나온다. 민간 및 정보기관의 전문 인재를 과감히 중용하고 정치적·행정적 제약보다 현장 작전요원의 요구와 성능을 최우선하는 실용적 인프라를 구축하는 미 군사 당국의 유연성이 좋은 벤치마킹 사례가 될 전망이다.</p>
-]]></description>
-
-<atom:category label="밀리터리" term="20250407121048_4964"/>
-<author>sfinfo365@gmail.com 강태임 기자</author>
-<atom:updated>2026-09-17T13:12:59+09:00</atom:updated>
-<pubDate>2026-09-17T13:12:59+09:00</pubDate>
 </item>
 	</channel>
 </rss>
