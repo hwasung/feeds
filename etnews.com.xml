@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 29 Sep 2026 08:00:46 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 09:00:53 +0900</lastBuildDate>
+		<item>
+			<title>&apos;AI 석학&apos; 등 세계 연구진 22인, 초인적 AI 우려 &apos;지능 폭발&apos; 대비 촉구</title>
+			<link>https://www.etnews.com/20260929000014</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000014</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 08:10:25 +0900</pubDate>
+			<description><![CDATA[세계 주요 석학들이 인공지능(AI) 발전 가속화에 따른 '지능 폭발(intelligence explosion)'을 대비해야 한다고 제언했다. 28일(현지시간) 영국 케임브리지대 'AI 과학·정책 프로그램(CASP)'에 따르면 제프리 힌턴 토론토대 명예교수와 요슈아 벤지오 몬트리올대 교수 등 '세계 AI 4대 석학' 중 2명을 포함해 AI 연구자 22명은 참여한 'AI 연구개발(R&D) 자동화가 지능 폭발을 촉발한다면?'이라는 제목의 논문을 공개...]]></description>
+		</item>
 		<item>
 			<title>트럼프, 오픈AI·앤트로픽·메타 만난다…AI 혁신·안전 논의</title>
 			<link>https://www.etnews.com/20260929000010</link>
@@ -257,15 +266,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 28 Sep 2026 15:28:20 +0900</pubDate>
 			<description><![CDATA[신세계아이앤씨가 메타의 신형 인공지능(AI) 글래스 9개 모델을 국내에 유통한다. 신세계아이앤씨는 메타가 최근 공개한 자체 브랜드 글래스와 '레이밴 메타' 3세대 등을 국내에 선보인다고 28일 밝혔다. 국내 공식 출시 제품은 모두 9개 모델, 21종이다. 메타 글래스는 메타가 자사 브랜드를 전면에 내건 새로운 디자인의 AI 글래스다. 글로벌 아이웨어기업 에실로룩소티카와 협력해 개발했으며, 레이밴·오클리 등 브랜드를 적용하지 않는다. 메타는 지난...]]></description>
-		</item>
-		<item>
-			<title>아이티센글로벌, KGLD 발행·상환 시스템 구축…“상장 준비 이상없어”</title>
-			<link>https://www.etnews.com/20260928000328</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260928000328</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 28 Sep 2026 15:19:21 +0900</pubDate>
-			<description><![CDATA[아이티센글로벌은 금 기반 실물연계자산(RWA) 토큰 '케이골드(KGLD)'의 발행·상환 시스템 구축을 완료하고, 시범 발행과 실물 금 상환까지 진행하며 기술적·운영적 검증을 마쳤다고 28일 밝혔다. 이에 따라 KGLD 사업의 핵심 과제는 토큰 발행 자체에서 일반 이용자가 실제로 접근하고 거래할 수 있는 유통시장 확보로 옮겨갔다. 아이티센글로벌은 현재 국내외 복수의 거래소와 상장을 협의하고 있으며, KGLD의 정식 서비스 공개 시점 역시 거래소...]]></description>
 		</item>
 	</channel>
 </rss>
