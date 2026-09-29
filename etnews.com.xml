@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 29 Sep 2026 17:00:52 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 18:01:30 +0900</lastBuildDate>
+		<item>
+			<title>[사설] &apos;AI대학·AX대학원&apos; 교육 바꾸는 시발점으로</title>
+			<link>https://www.etnews.com/20260929000265</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000265</guid>
+			<author>논설위원실</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[정부가 29일 발표한 15개 'AX(AI전환) 대학원'과 18개 'AI 중심대학' 선정 결과는 대한민국 교육사에 매우 중요한 분수령이다. 이 사업은 단순한 해당 대학 지원책을 넘어, 인공지능(AI)이 일상화된 시대를 넘어 인간의 지능을 뛰어넘는 인공일반지능(AGI) 및 인공초지능(ASI) 시대로 나아가는 거대한 문명사적 전환기에 대응하기 위한 핵심 전략이기 때문이다. 선정된 대학과 대학원의 어깨는 무거워야 한다. 이들은 단순한 학문 연구 기관에...]]></description>
+		</item>
+		<item>
+			<title>국민 5명 중 2명 &apos;생성형 AI&apos; 경험…도시·농어촌 사용격차 1년새 3배</title>
+			<link>https://www.etnews.com/20260929000319</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000319</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 16:46:56 +0900</pubDate>
+			<description><![CDATA[도시와 농어촌 간 인공지능(AI) 활용 격차가 확대된 것으로 나타났다. 생성형 AI 서비스 사용 경험이 있는 국민이 10명 중 4명 이상으로 늘어난 가운데 도·농 활용 격차는 세 배 이상 벌어졌다. 29일 국회 과학기술정보방송통신위원회 더불어민주당 이주희 의원실이 과학기술정보통신부·한국지능정보사회진흥원(NIA) '인터넷이용실태조사' 통계와 '2025 디지털정보격차 실태조사' 등을 분석한 결과다. 국민 생성형 AI 서비스 경험률은 2024년 33...]]></description>
+		</item>
+		<item>
+			<title>쿠도커뮤니케이션, 국내 최초 AI 에이전트 기반 AI CITY 선도 모델 구축</title>
+			<link>https://www.etnews.com/20260929000313</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000313</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 16:34:26 +0900</pubDate>
+			<description><![CDATA[쿠도커뮤니케이션이 자체 인공지능(AI) 시티 플랫폼 'CUVIA'를 기반으로 AI 에이전트와 물리보안 통합관제 기술을 결합한 국내 최초 AI 에이전트 기반 AI CITY 선도 모델 구축에 본격 나선다. 쿠도커뮤니케이션은 29일 부천시청에서 열린 'AI 기반 물리보안 통합관제 개발 협력 업무협약식'에 참석해 관련 기관들과 업무협약을 체결했다고 밝혔다. 이번 협약은 과학기술정보통신부 AXsprint 과제사업인 'AI 기반 물리보안 통합관제 시스...]]></description>
+		</item>
 		<item>
 			<title>[전문가 기고] 기술을 넘어 현장으로, 인간 중심의 실감AX 융·복합 인재의 시대</title>
 			<link>https://www.etnews.com/20260929000128</link>
@@ -120,7 +147,7 @@
 			<description><![CDATA[인공지능(AI) 커리어플랫폼 전문기업 다인리더스(대표 임무호)는 AX(AI Transformation) 전문기업 솔로몬텍(대표 홍지수)과 대학 대상 AI 사업 공동 발굴 및 확대를 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 양사가 보유한 솔루션과 사업 역량을 기반으로 대학 AI 시장에서 새로운 사업 기회를 공동으로 발굴하고, 영업·제안부터 솔루션 연계, 마케팅, 기술 및 영업정보 교류까지 폭넓은 협력 체계를 구축하기 위해 마련됐다...]]></description>
 		</item>
 		<item>
-			<title>삼성, AI 데이터센터 &apos;판&apos; 짠다…美 AI 인프라펀드에 10억달러 투자</title>
+			<title>삼성, 美 AI인프라 기업에 1.4조 투자</title>
 			<link>https://www.etnews.com/20260929000238</link>
 			<guid isPermaLink="true">https://www.etnews.com/20260929000238</guid>
 			<author>김시소</author>
@@ -240,33 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 29 Sep 2026 13:00:00 +0900</pubDate>
 			<description><![CDATA[한국인터넷진흥원(KISA)이 인공지능(AI) 에이전트를 활용한 실종자 탐색 체계 구축에 나선다. KISA는 29일 부천시청에서 부천시와 경찰, 대학, 기업 등과 관련 다자간 업무협약을 체결했다. 이번 협약을 통해 KISA는 개발 중인 AI 에이전트 기반 물리보안 통합 플랫폼을 부천시 관제 환경과 연계한다. 실종자 탐지부터 수색·수사까지 이어지는 현장 활용 체계를 구축하는 것이 목표다. 플랫폼은 AI가 실종자의 행동과 이동 경로를 분석하고 상황을...]]></description>
-		</item>
-		<item>
-			<title>롯데이노베이트, EMNLP 논문 채택…&apos;AI 회의록&apos; 경쟁력 강화 기반 마련</title>
-			<link>https://www.etnews.com/20260929000157</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000157</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 29 Sep 2026 12:06:53 +0900</pubDate>
-			<description><![CDATA[롯데이노베이트는 음성인식(STT) 오류로 잘못 기록된 전문용어를 회의 요약 과정에서 복원하는 연구 논문이 자연어처리 국제학술대회 'EMNLP 2026'의 산업 분야에 채택됐다고 29일 밝혔다. EMNLP는 ACL, NAACL과 함께 자연어처리 분야의 대표 국제학술대회로 꼽힌다. 특히 산업 분야 트랙은 실제 산업 현장에서 활용되는 자연어처리·음성 기술의 설계, 개발, 배포 및 분석 과정에서 도출된 과제와 해결 방안을 다룬다. 이번 채택으로 롯데이...]]></description>
-		</item>
-		<item>
-			<title>지원 혜택 놓치지 않게…소상공인 경영·지역 정착 AI가 돕는다</title>
-			<link>https://www.etnews.com/20260929000094</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000094</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 29 Sep 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[소상공인의 가게 운영부터 주민의 지역 정착까지 인공지능(AI)으로 돕는 맞춤형 공공서비스가 올해 말부터 제공된다. 복잡한 제도나 정보 부족 때문에 지원을 놓치는 일이 없도록 정부가 AI로 '찾아가는 안내'에 나선다. 행정안전부는 29일 강원특별자치도, 경상북도와 함께 소상공인 경영 지원 서비스와 주민 정착 지원 서비스를 구축하고 있다고 밝혔다. 두 서비스는 '공공부문 AI 서비스 지원사업'의 일환으로, 이용자가 지원 정보를 직접 찾아야 하는 부...]]></description>
-		</item>
-		<item>
-			<title>범정부 AI·데이터행정 협력체계 본격 가동</title>
-			<link>https://www.etnews.com/20260929000053</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000053</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 29 Sep 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[정부 부처와 지방정부가 따로 추진해 온 인공지능(AI)·데이터 정책을 범정부 차원에서 연계·조정하는 협의체를 본격 가동한다. 공공기관의 AI 도입·활용을 공동 대응 체계로 끌어올리겠다는 취지다. 행정안전부는 30일 서울청사 별관에서 '제1회 AI·데이터행정 책임관 협의회'를 개최한다. 협의회는 'AI·데이터 행정법'에 따라 설립된 법정 협의체다. 행안부 차관이 의장을 맡고, 각 기관의 AI·데이터행정 업무와 데이터 구축·제공, 공동 활용 등을...]]></description>
 		</item>
 	</channel>
 </rss>
