@@ -4,7 +4,50 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 29 Sep 2026 13:01:01 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 14:00:51 +0900</lastBuildDate>
+		<item>
+			<title>비아이매트릭스, AI 위성 플랫폼 구축… “재난·도시관리 등 공공 혁신 선도”</title>
+			<link>https://www.etnews.com/20260929000184</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000184</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 13:32:28 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 및 데이터 분석 솔루션 전문기업 비아이매트릭스(대표 배영근)는 생성형 AI 기반의 첨단 위성정보 복합분석 및 데이터 활용 플랫폼 구축을 마치고 공공 재난 대응 시장 공략에 본격 나선다고 29일 밝혔다. 이번 성과는 정보과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 'SW컴퓨팅산업원천기술개발(컴퓨팅핵심기술사업)' 사업인 '메타데이터 학습을 통한 생성형 AI 기반 위성정보 복합분석 및 공급활용 플랫폼 개발' 과제를 성공...]]></description>
+		</item>
+		<item>
+			<title>[인사] CBS</title>
+			<link>https://www.etnews.com/20260929000172</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000172</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 29 Sep 2026 13:11:08 +0900</pubDate>
+			<description><![CDATA[◆CBS △콘텐츠본부 보도국 정치부장 장관순 △콘텐츠본부 보도국 사회부장 박종관 △콘텐츠본부 보도국 정책부장 김중호...]]></description>
+		</item>
+		<item>
+			<title>[인사] 대구MBC</title>
+			<link>https://www.etnews.com/20260929000171</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000171</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 29 Sep 2026 13:11:01 +0900</pubDate>
+			<description><![CDATA[◆대구MBC △보도국 영상취재부장 이동삼...]]></description>
+		</item>
+		<item>
+			<title>아우토크립트, 미디어텍 칩셋 보안 취약점 발견…CVE 등록</title>
+			<link>https://www.etnews.com/20260929000167</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000167</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 13:02:54 +0900</pubDate>
+			<description><![CDATA[피지컬 인공지능(AI) 보안 전문기업 아우토크립트(대표 이석우·김덕수)가 글로벌 반도체 기업 미디어텍(MediaTek)의 칩셋과 오픈소스 임베디드 커널에서 보안 취약점을 발견해 제보하고, 국제 표준 보안 취약점 식별 체계인 CVE(Common Vulnerabilities and Exposures) 등록과 버그바운티 포상 획득으로 보안 연구 역량을 입증했다고 29일 밝혔다. 아우토크립트 레드팀은 올해 상반기 미디어텍 시스템온칩(SoC)과 해당 부...]]></description>
+		</item>
+		<item>
+			<title>KISA, 부천시·경찰과 AI 기반 실종자 탐색체계 구축</title>
+			<link>https://www.etnews.com/20260929000159</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000159</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 13:00:00 +0900</pubDate>
+			<description><![CDATA[한국인터넷진흥원(KISA)이 인공지능(AI) 에이전트를 활용한 실종자 탐색 체계 구축에 나선다. KISA는 29일 부천시청에서 부천시와 경찰, 대학, 기업 등과 관련 다자간 업무협약을 체결했다. 이번 협약을 통해 KISA는 개발 중인 AI 에이전트 기반 물리보안 통합 플랫폼을 부천시 관제 환경과 연계한다. 실종자 탐지부터 수색·수사까지 이어지는 현장 활용 체계를 구축하는 것이 목표다. 플랫폼은 AI가 실종자의 행동과 이동 경로를 분석하고 상황을...]]></description>
+		</item>
 		<item>
 			<title>롯데이노베이트, EMNLP 논문 채택…&apos;AI 회의록&apos; 경쟁력 강화 기반 마련</title>
 			<link>https://www.etnews.com/20260929000157</link>
@@ -223,51 +266,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[미래는 좋은 말이다. '미래가 있다'는 기회가 있고 가능성이 있다는 말이니 긍정적인 용어임은 분명하다. 그러나 미래 자체는 본질적으로 불확실성으로 점철된 불분명한 것이다. 한 치 앞을 내다볼 수 있다면, 그래서 단 몇 초 후의 미래를 분명하게 알 수 있다면 부와 명예를 끌어모으는 것은 어렵지 않을 것이다. 그런데 만일 확실한 미래가 있다면 그것은 무엇일까. IT(정보기술)를 하는 사람들은 모두 알고 있다. 우리가 만지는 컴퓨터의 성능이 폭등할...]]></description>
-		</item>
-		<item>
-			<title>마키나락스, 군 전장망 첫 AI 운용체계 적용…UFS서 실증</title>
-			<link>https://www.etnews.com/20260928000394</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260928000394</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 28 Sep 2026 20:48:15 +0900</pubDate>
-			<description><![CDATA[마키나락스가 군 전장망 최초로 인공지능(AI) 운용체계(OS)를 적용하고 실제 군 운용 환경에서 활용 가능성을 검증했다. 마키나락스는 합동참모본부와 함께 자사 AI OS '런웨이'를 한국군합동지휘통제체계(KJCCS)에 적용했다고 28일 밝혔다. '을지 자유의 방패(UFS)' 연습 기간 실제 작전 업무에도 활용했다. KJCCS는 합동작전을 지원하는 군 주요 지휘통제체계다. 전장망은 행정·보급·인사 업무를 처리하는 국방망보다 보안 통제 수준이 높아...]]></description>
-		</item>
-		<item>
-			<title>AI기본법 곳곳 &apos;해석 공백&apos;…워터마크·고영향AI 혼선 여전</title>
-			<link>https://www.etnews.com/20260928000335</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260928000335</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 28 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 산업 진흥·규제를 위한 'AI기본법' 시행 8개월이 지나면서 세부 가이드라인까지 마련됐지만 기업 현장에서는 AI 생성물에 대한 표시 의무와 고영향 AI 판단 기준을 둘러싼 혼선이 계속되고 있다. 28일 과학기술정보통신부 'AI기본법 지원 데스크'에는 AI기본법 제31조(투명성 확보 의무) 이행 방법 등에 대한 기업 문의가 이어지고 있다. 지원 데스크에 이달까지 접수된 온라인 상담 461건 중 투명성 의무 관련 문의(212건)가...]]></description>
-		</item>
-		<item>
-			<title>[사설] 수도권 데이터센터 난개발은 막아야</title>
-			<link>https://www.etnews.com/20260928000342</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260928000342</guid>
-			<author>논설위원실</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 28 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[수도권 전력계통 포화로 대형 데이터센터의 신규 진입이 사실상 막힌 가운데, 규제 허점을 노린 소규모 데이터센터가 도심 곳곳으로 파고들고 있는 것으로 본지 취재 결과 확인됐다. 분산에너지 활성화 특별법상 전력계통영향평가 면제 기준인 '10메가와트(㎿) 미만'으로 용량을 맞춘 쪼개기 사업이 급증하는 양상이다. 현재 서울 강남구 대치동, 강서구 마곡동, 영등포구 양평동 등에서 추진 중인 10㎿ 미만 프로젝트만 30건이 넘는다. 대다수가 9㎿ 안팎으로...]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임]공공 AI 전환 본격화…업계 “민간 역할·보안 기준 세워야”</title>
-			<link>https://www.etnews.com/20260928000184</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260928000184</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 28 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[정부가 행정서비스와 공무원의 일하는 방식에 인공지능(AI)을 도입하는 가운데 정보기술(IT) 업계에서는 기술 개발만큼 산업 생태계와 제도를 잘 갖춰야 한다고 제언했다. 특히 'AI 정부 실험실'처럼 현장의 아이디어를 빠르게 구현하는 시도는 긍정적이지만, 이를 실제 서비스로 확대하려면 보안 검증과 인프라, 제도적 기준이 뒤따라야 한다는 것이다. 지난 22일 서울 서대문구 연세대학교 신촌캠퍼스에서 열린 '정보통신의 미래를 생각하는 모임'에서는 공무...]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임] “행정 전면 AI로 재설계”…&apos;AI 민주정부&apos; 속도</title>
-			<link>https://www.etnews.com/20260928000156</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260928000156</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 28 Sep 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[정부가 대국민 서비스와 정책 참여, 공무원의 일하는 방식을 인공지능(AI) 중심으로 재설계하는 'AI 민주정부' 구현에 나선다. 국민의 정책 참여와 공무원의 업무 방식, 공공데이터·법제·정보시스템 기반까지 AI를 통해 재정립하는 것이다. 황규철 행정안전부 인공지능정부실장은 지난 22일 서울 서대문구 연세대에서 열린 '정보통신 미래를 생각하는 모임(정보통신미래모임)'에서 “디지털전환(DX)를 넘어 AI 대전환(AX)이 정부 혁신의 새로운 패러다임...]]></description>
 		</item>
 	</channel>
 </rss>
