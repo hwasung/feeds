@@ -4,7 +4,25 @@
 		<title>방위사업청 사전정보공개</title>
 		<link>https://www.dapa.go.kr/dapa/na/co/priorInfo.do?bbsSeq=243&amp;menuSeq=3049</link>
 		<description>방위사업청 사전정보공개</description>
-		<lastBuildDate>Tue, 29 Sep 2026 14:00:17 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 18:00:22 +0900</lastBuildDate>
+		<item>
+			<title>방산군수협력 공동위 운영국가 현황</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59222&amp;menuSeq=3784&amp;bbsSeq=243</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59222&amp;menuSeq=3784&amp;bbsSeq=243</guid>
+			<author>이경환</author>
+			<category>주요정책정보</category>
+			<pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<p>&nbsp;방산군수협력 공동위 운영국가 현황입니다.</p>]]></description>
+		</item>
+		<item>
+			<title>2026년 유도무기사업 계약현황(~9월)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59223&amp;menuSeq=3829&amp;bbsSeq=244</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59223&amp;menuSeq=3829&amp;bbsSeq=244</guid>
+			<author>이윤정</author>
+			<category>계약정보</category>
+			<pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>2026년 유도무기사업 계약현황(~9월)</div><div><br/></div><table><tbody><tr><td><div>계약번호</div></td><td><div>계약건명</div></td><td><div>계약일자</div></td><td><div>계약방법</div></td></tr><tr><td><div>2026S335003</div></td><td><div><div>현궁&nbsp;4차 양산 유도탄용 전력화지원요소</div></div></td><td><div><div>2026-08-25</div></div></td><td><div>수의계약</div></td></tr><tr><td><div>2026S345002</div></td><td><div><div>26년 천마 유도탄 수리부속 체계 부품(방산)</div></div></td><td><div><div>2026-07-30</div></div></td><td><div>수의계약</div></td></tr><tr><td><div>2026S245004</div></td><td><div><div>26년 천마 유도탄 수명연장 발사관 외주정비(방산)</div></div></td><td><div><div>2026-08-27</div></div></td><td><div>수의계약</div></td></tr></tbody></table><div><br/></div>]]></description>
+		</item>
 		<item>
 			<title>K2전차 성능개량 사업추진상황</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59202&amp;menuSeq=3802&amp;bbsSeq=362</link>
@@ -255,24 +273,6 @@
 			<category>사업정보</category>
 			<pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<p>해안정찰용무인항공기 사업 추진일정(2026.09.)</p>]]></description>
-		</item>
-		<item>
-			<title>방위사업청 주관 위원회 운영현황 공개(26년 8월)</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59126&amp;menuSeq=3784&amp;bbsSeq=243</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59126&amp;menuSeq=3784&amp;bbsSeq=243</guid>
-			<author>정규환</author>
-			<category>주요정책정보</category>
-			<pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p><p>방위사업청 주관 위원회 운영현황 공개(26년 8월)</p><br/></p>]]></description>
-		</item>
-		<item>
-			<title>22-4차 신속시범사업(저격용소총 AI 열상조준경) 사업추진현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59141&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59141&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<author>김상원</author>
-			<category>사업정보</category>
-			<pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p><p>22-4차 신속시범사업(저격용소총 AI 열상조준경) 사업추진현황입니다.</p></p>]]></description>
 		</item>
 	</channel>
 </rss>
