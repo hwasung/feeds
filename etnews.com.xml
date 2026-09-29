@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 29 Sep 2026 20:00:54 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2026 21:00:52 +0900</lastBuildDate>
+		<item>
+			<title>구글, EU &apos;검색 데이터·안드로이드 개방&apos;에 소송 제기</title>
+			<link>https://www.etnews.com/20260929000353</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000353</guid>
+			<author>박두호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 20:17:22 +0900</pubDate>
+			<description><![CDATA[구글이 검색 데이터를 경쟁 검색엔진에 제공하고 안드로이드 주요 기능을 다른 인공지능(AI) 서비스에 개방하라는 유럽연합(EU)의 결정에 불복해 소송을 제기했다. EU는 구글이 쌓아온 검색 데이터와 모바일 운영체제 접근권을 경쟁사에도 열어야 한다는 입장이지만, 구글은 이용자 정보와 기기 보안이 위협받을 수 있다고 맞서고 있다. 29일 외신에 따르면 구글은 EU 집행위원회가 디지털시장법(DMA)에 근거해 지난 7월 확정한 두 건의 조치를 취소해 달...]]></description>
+		</item>
+		<item>
+			<title>2200억 K-에듀파인 고도화 사업, 아이티센엔텍 수주</title>
+			<link>https://www.etnews.com/20260929000352</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260929000352</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 29 Sep 2026 20:08:42 +0900</pubDate>
+			<description><![CDATA[아이티센엔텍 컨소시엄이 2200억원 규모 K-에듀파인 운영환경 고도화·재해복구(DR) 체계 구축 사업 우선협상대상자로 선정됐다. 29일 조달청은 한국교육학술정보원(KERIS)이 발주한 이번 사업의 우선협상대상자로 아이티센엔텍 컨소시엄을 선정했다. 이날 삼성SDS·KT, LG CNS·위니텍, 아이티센엔텍·한국금융정보산업협동조합 3개 컨소시엄이 제안발표를 마쳤고, 심사 결과 아이티센엔텍 컨소시엄이 합산 점수 1위를 차지했다. 심사는 조달청 기술평가...]]></description>
+		</item>
 		<item>
 			<title>교황, “AI 인류위협론 가짜뉴스 아냐”…트럼프 주장 반박</title>
 			<link>https://www.etnews.com/20260929000341</link>
@@ -251,22 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 29 Sep 2026 13:32:28 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 및 데이터 분석 솔루션 전문기업 비아이매트릭스(대표 배영근)는 생성형 AI 기반의 첨단 위성정보 복합분석 및 데이터 활용 플랫폼 구축을 마치고 공공 재난 대응 시장 공략에 본격 나선다고 29일 밝혔다. 이번 성과는 정보과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 'SW컴퓨팅산업원천기술개발(컴퓨팅핵심기술사업)' 사업인 '메타데이터 학습을 통한 생성형 AI 기반 위성정보 복합분석 및 공급활용 플랫폼 개발' 과제를 성공...]]></description>
-		</item>
-		<item>
-			<title>[인사] CBS</title>
-			<link>https://www.etnews.com/20260929000172</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000172</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 29 Sep 2026 13:11:08 +0900</pubDate>
-			<description><![CDATA[◆CBS △콘텐츠본부 보도국 정치부장 장관순 △콘텐츠본부 보도국 사회부장 박종관 △콘텐츠본부 보도국 정책부장 김중호...]]></description>
-		</item>
-		<item>
-			<title>[인사] 대구MBC</title>
-			<link>https://www.etnews.com/20260929000171</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000171</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 29 Sep 2026 13:11:01 +0900</pubDate>
-			<description><![CDATA[◆대구MBC △보도국 영상취재부장 이동삼...]]></description>
 		</item>
 	</channel>
 </rss>
