@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 30 Sep 2026 18:01:19 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2026 19:00:49 +0900</lastBuildDate>
+		<item>
+			<title>포티투마루, 9개국 장·차관에 &apos;공공 AX 5대 전략&apos; 제시</title>
+			<link>https://www.etnews.com/20260930000445</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000445</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 30 Sep 2026 18:26:01 +0900</pubDate>
+			<description><![CDATA[포티투마루가 베트남·네팔 등 9개국 정보통신기술(ICT) 부처 장·차관 등 정책결정자를 대상으로 에이전틱 인공지능(AI) 시대 공공 AX(AI전환)를 위한 5대 정책 과제를 제시했다. 김동환 포티투마루 대표는 30일 서울 JW 메리어트 동대문에서 열린 '제12회 글로벌 ICT 리더십 포럼'에서 '에이전틱 AI 시대의 공공 특화 AX 전략'을 주제로 발표했다. 김 대표는 5대 정책 과제 중 첫번째로 중앙·지방·산업 현장을 연계하는 '공공 융합형·...]]></description>
+		</item>
 		<item>
 			<title>한림대, &apos;AI 혁신인재양성&apos; 선정…155억원 투입해 AX 석·박사 키운다</title>
 			<link>https://www.etnews.com/20260930000436</link>
@@ -259,15 +268,6 @@
 			<category>오피니언</category>
 			<pubDate>Wed, 30 Sep 2026 13:58:02 +0900</pubDate>
 			<description><![CDATA[◆행정안전부 ◇국장급 전보 △의정관 하인호 ◇국장급 승진 △국가정보자원관리원 광주센터장 이윤경 △행정안전부(과거사관련업무지원단장) 채경아...]]></description>
-		</item>
-		<item>
-			<title>지란지교시큐리티, AI 기반 HRM 플랫폼 &apos;머드스코프&apos; 출시</title>
-			<link>https://www.etnews.com/20260930000258</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000258</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 13:56:06 +0900</pubDate>
-			<description><![CDATA[지란지교시큐리티가 임직원의 메일 보안 행동을 인공지능(AI)으로 분석해 위험 수준을 측정·관리하는 휴먼 리스크 관리(HRM) 플랫폼 '머드스코프(MudScope)'를 출시했다고 30일 밝혔다. 머드스코프는 악성 메일 클릭과 의심 메일 신고, 비밀번호 관리 등 임직원의 행동 데이터를 분석해 개인과 부서별 보안 위험을 점수화한다. 진단 결과를 교육·훈련과 연계하고 이후 위험도를 다시 측정해 실제 행동 변화까지 관리하는 방식이다. 핵심은 자체 개발한...]]></description>
 		</item>
 	</channel>
 </rss>
