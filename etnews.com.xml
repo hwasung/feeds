@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 30 Sep 2026 20:00:40 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 08:00:51 +0900</lastBuildDate>
+		<item>
+			<title>구글, &apos;제미나이 4 아르곤&apos; 공개…100만 토큰·사이버보안 강화</title>
+			<link>https://www.etnews.com/20261001000025</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000025</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 07:28:33 +0900</pubDate>
+			<description><![CDATA[구글이 복잡한 소프트웨어 개발과 기업 업무, 사이버보안 방어에 초점을 맞춘 새 인공지능(AI) 모델 '제미나이 4 아르곤(Argon)'을 공개했다. 최대 출력 한도를 기존 6만4000개에서 100만 토큰으로 확대해 장시간 이어지는 복잡한 작업 수행 능력을 강화했다. 구글은 제미나이 4 아르곤을 '페어윈드 프로그램(Fairwind Program)'을 통해 신뢰할 수 있는 사이버보안 담당자에게 우선 제공한다고 지난달 30일(현지시간) 밝혔다. 미국...]]></description>
+		</item>
 		<item>
 			<title>SAS “韓 기업, AI 안전성 신뢰 높아져…감독 강화 효과”</title>
 			<link>https://www.etnews.com/20260930000451</link>
@@ -258,15 +267,6 @@
 			<category>오피니언</category>
 			<pubDate>Wed, 30 Sep 2026 14:09:42 +0900</pubDate>
 			<description><![CDATA[▲서경희씨 별세, 양정(이엑스프로모션 대표)·양혜경씨 모친상, 유재철씨 장모상=30일, 한림대강남성심병원장례식장 1호, 발인 10월 2일. (02)833-3794...]]></description>
-		</item>
-		<item>
-			<title>단말·사람 넘어 AI까지…라온시큐어, 보안 영토 넓힌다</title>
-			<link>https://www.etnews.com/20260930000271</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000271</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 14:02:55 +0900</pubDate>
-			<description><![CDATA[라온시큐어가 인공지능(AI) 에이전트와 로봇을 겨냥한 보안 사업에 본격적으로 나선다. 기존 인증·보안 기술을 AI와 로봇으로 확장해 'AI 네이티브 시큐리티(AI Native Security)' 기업으로 사업영역을 넓힌다는 구상이다. 이순형 라온시큐어 대표는 30일 서울 페어몬트 앰배서더에서 열린 '2026 시큐업'을 통해 “하이테크 보안 기업에서 정보보호 통합 솔루션 기업으로, 제로 트러스트 인증 전문 기업으로 발전해 왔다”며 “이제는 에이전...]]></description>
 		</item>
 	</channel>
 </rss>
