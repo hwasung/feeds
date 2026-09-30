@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 30 Sep 2026 17:00:46 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2026 18:01:19 +0900</lastBuildDate>
+		<item>
+			<title>한림대, &apos;AI 혁신인재양성&apos; 선정…155억원 투입해 AX 석·박사 키운다</title>
+			<link>https://www.etnews.com/20260930000436</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000436</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 30 Sep 2026 17:30:39 +0900</pubDate>
+			<description><![CDATA[한림대학교가 산업 현장의 인공지능 전환(AX)을 이끌 석·박사급 고급인재 양성에 나선다. 기업의 실제 문제를 대학원 교육과 연구과제로 연결하고 디지털 헬스케어와 사회안전 분야에 특화한 '고신뢰 AX 아키텍트'를 육성하는 것이 핵심이다. 한림대학교(총장 최양희)는 과학기술정보통신부가 지원하고 정보통신기획평가원이 주관하는 '2026년 인공지능혁신인재양성 사업'에 최종 선정됐다고 밝혔다. 한림대는 비수도권에서 선정된 5개 대학 가운데 하나로, 오는...]]></description>
+		</item>
+		<item>
+			<title>한림대, 강원 최초 &apos;AI 중심대학&apos; 선정…7년간 212억원 지원</title>
+			<link>https://www.etnews.com/20260930000435</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000435</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 30 Sep 2026 17:28:55 +0900</pubDate>
+			<description><![CDATA[한림대학교가 강원도 대학 가운데 처음으로 정부의 '인공지능(AI) 중심대학'에 선정됐다. 2033년까지 212억원 규모의 정부 지원을 바탕으로 AI 전문인재와 산업 현장의 AI 전환(AX)을 이끌 융합인재를 양성하고 의료·바이오 등 강원지역 산업과 연계한 AI 교육을 확대한다. 한림대학교(총장 최양희)는 과학기술정보통신부가 지원하고 정보통신기획평가원이 주관하는 '2026년도 인공지능(AI) 중심대학' 사업에 최종 선정됐다고 밝혔다. 강원도 내...]]></description>
+		</item>
 		<item>
 			<title>EBS, 가천대와 AI 인재양성·리터러시 교육 확산 협력</title>
 			<link>https://www.etnews.com/20260930000421</link>
@@ -42,7 +60,7 @@
 			<description><![CDATA[법무법인 태평양은 강태욱 변호사가 개인정보 보호 법·제도 발전에 기여한 공로로 개인정보보호위원장 표창을 수상했다고 30일 밝혔다. 이번 표창은 개인정보보호위원회가 서울 양재 엘타워에서 개최한 '제6회 개인정보 보호의 날' 기념식에서 수여됐다. 올해 행사는 '신뢰로 도약하는 AI 혁신 사회'를 주제로 열렸으며 개인정보 보호 유공자와 산·관·학 관계자 등이 참석했다. 강 변호사는 서울대 법학과를 졸업하고 사법연수원 31기를 수료한 뒤 2002년 판...]]></description>
 		</item>
 		<item>
-			<title>중소병원 20여곳 랜섬웨어 감염…&apos;동일 종류&apos; 랜섬웨어 발견</title>
+			<title>중소형 병원 20곳, 동일 랜섬웨어 동시 감염</title>
 			<link>https://www.etnews.com/20260930000326</link>
 			<guid isPermaLink="true">https://www.etnews.com/20260930000326</guid>
 			<author>박진형</author>
@@ -250,24 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 30 Sep 2026 13:56:06 +0900</pubDate>
 			<description><![CDATA[지란지교시큐리티가 임직원의 메일 보안 행동을 인공지능(AI)으로 분석해 위험 수준을 측정·관리하는 휴먼 리스크 관리(HRM) 플랫폼 '머드스코프(MudScope)'를 출시했다고 30일 밝혔다. 머드스코프는 악성 메일 클릭과 의심 메일 신고, 비밀번호 관리 등 임직원의 행동 데이터를 분석해 개인과 부서별 보안 위험을 점수화한다. 진단 결과를 교육·훈련과 연계하고 이후 위험도를 다시 측정해 실제 행동 변화까지 관리하는 방식이다. 핵심은 자체 개발한...]]></description>
-		</item>
-		<item>
-			<title>티오리 &apos;진트&apos;, 美 DARPA AI 통신 앱 보안 연구 수행</title>
-			<link>https://www.etnews.com/20260930000257</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000257</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 13:49:49 +0900</pubDate>
-			<description><![CDATA[티오리는 인공지능(AI) 기반 자율형 모의해킹 플랫폼 '진트(Xint)'로 미국 국방고등연구계획국(DARPA)의 '자율 AI 애플리케이션 보안' 연구를 수행한다고 30일 밝혔다. 진트는 연구 과정에서 미 국방부 전반에서 사용하는 자체 개발·오픈소스 메신저 애플리케이션의 취약점을 분석한다. 바이너리 분석을 통해 다양한 환경에서 실행되는 소프트웨어의 공급망 위험도 평가할 예정이다. 진트는 사업 제안 과정에서 암호화 메신저 '시그널' 안드로이드 버전...]]></description>
-		</item>
-		<item>
-			<title>지니언스, &apos;대한민국 일자리 으뜸기업&apos; 선정…주 4.5일제 시범 운영</title>
-			<link>https://www.etnews.com/20260930000255</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000255</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 13:46:45 +0900</pubDate>
-			<description><![CDATA[지니언스는 고용노동부 주관 '2026년 대한민국 일자리 으뜸기업'에 선정됐다고 30일 밝혔다. 일자리 으뜸기업은 일자리 창출과 일·생활 균형, 근무환경 개선 등에 노력한 민간기업을 선정하는 제도다. 지니언스는 청년 채용 확대와 능력 중심 채용, 시차출퇴근제·재택근무 등 유연근무제 운영 성과를 인정받았다고 설명했다. 임직원 교육과 자격증 취득, AI 서비스 활용 비용 등도 지원하고 있다. 지니언스는 경기도와 경기도일자리재단이 추진하는 '2026년...]]></description>
 		</item>
 	</channel>
 </rss>
