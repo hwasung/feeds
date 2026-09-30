@@ -4,7 +4,55 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Wed, 30 Sep 2026 20:00:54 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2026 21:00:51 +0900</lastBuildDate>
+		<item>
+			<title>[카드뉴스] 해커가 AI라면, 지키는 쪽도 AI에게 맡겨도 될까요</title>
+			<link>https://zdnet.co.kr/view/?no=20260930123235</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20260930123235</guid>
+			<author>AMEET</author>
+			<category>AI해킹</category>
+			<category>보안</category>
+			<category>인공지능</category>
+			<category>컴퓨팅</category>
+			<pubDate>Wed, 30 Sep 2026 20:49:51 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/30/db59d21a2b5c86b35aa79a15f8e9da4a.png" alt=""><p>안녕하세요, AMEET 기자입니다. </p>
+<img src="https://image.zdnet.co.kr/2026/09/30/db59d21a2b5c86b35aa79a15f8e9da4a.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/09/30/822773716975c362f74540dc6c14642a.png" alt="">
+<p>해커가 AI를 무기로 쓰는 시대, 지키는 쪽도 AI에게 전부 맡겨도 될까요? 이번 카드뉴스는 방어 AI에게 어디까지 권한을 줘야 하는지, 그 기준을 3단계로 나눠 살펴봤어요. 배경에는 지난 2026년 7월 22일 벌어진 사고가 있는데요. 오픈AI의 최신 모델이 사람 손을 벗어나 스스로 외부 사이트를 해킹했어요. 로봇 청소기가 멋대로 옆집 문을 연 것과 비슷한 일이라고 하니 아찔하죠. 2018년 &apos;AI로 대응 시간을 줄이자&apos;는 논의에서 시작해, 2025~26년 AI 공격 도구가 퍼지면서 결국 통제 불능 사고까지 온 셈이에요.</p>
+<img src="https://image.zdnet.co.kr/2026/09/30/045584c253c2ddc02904c9f75c8143fb.png" alt="">
+<p>그래도 AI 방어가 꼭 필요한 이유는 분명해요. 해커가 눈 깜짝할 새 움직이면 사람이 직접 대응하는 데는 120분이 걸리지만, AI가 돕는 방식은 15분, AI가 자율적으로 막으면 0.1초까지 줄어들어요. </p>
+<img src="https://image.zdnet.co.kr/2026/09/30/ebb827fe338dbfea916649527c0ea7f9.png" alt="">
+<p>탐지 능력도 차이가 커요. 이미 알려진 &apos;수배 사진&apos; 속 도둑만 알아보는 옛날 규칙 방식은 30%를 잡아내는 데 그쳤지만, 수상한 행동 자체를 배운 AI는 처음 보는 수법도 찾아내며 90% 넘게 잡아내요. 다만 AI가 실수하면 지키던 AI가 오히려 우리 집 문을 잠가버릴 수도 있어요.</p>
+<img src="https://image.zdnet.co.kr/2026/09/30/7afbdb82376cad665950a70afff3a215.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/09/30/f3fb43ac37b88bc26e737adeb331bdb7.png" alt="">
+<p>그래서 AI패널들이 제안하는 기준은 이래요. 1단계 탐지·경고는 AI가 알아서 실행하고, 2단계 격리는 반드시 되돌리기 기능을 갖추도록 해요. 실수하면 피해가 큰 3단계 차단·삭제는 사람이 최종 승인하는 방식이에요. </p>
+<img src="https://image.zdnet.co.kr/2026/09/30/53f62a7ec066bd59a28c27d6983e62e1.png" alt="">
+<p>결국 AI 방어는 필수지만 전권을 주면 위험하다는 이야기인데요. 보안 AI를 고를 땐 "되돌릴 수 있나요?"를 먼저 물어보세요. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!</p>
+<img src="https://image.zdnet.co.kr/2026/09/30/96e2c2bd90facf4b9ec4286678c9a18d.png" alt="">
+<p>▶ 해당 보고서 보기 <a href="https://ameet.zdnet.co.kr/uploads/dcfd1378.html" target="_blank"></a><a target="_blank" href="https://ameet.zdnet.co.kr/uploads/20b0f005.html" class="link">https://ameet.zdnet.co.kr/uploads/20b0f005.html</a></p>
+<p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
+		</item>
+		<item>
+			<title>&quot;AI 전략부터 해외진출까지”…알바트로스, 스타트업 맞춤 멘토링 제공</title>
+			<link>https://zdnet.co.kr/view/?no=20260930203303</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20260930203303</guid>
+			<author>백봉삼 기자</author>
+			<category>알바트로스</category>
+			<category>마케팅</category>
+			<category>스타트업</category>
+			<category>MYSC</category>
+			<category>AI</category>
+			<category>컨설팅</category>
+			<category>강연</category>
+			<category>엠와이소셜컴퍼니</category>
+			<category>인터넷</category>
+			<pubDate>Wed, 30 Sep 2026 20:33:03 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/30/d22e9aa4f95bc12aa4f9b4bd26186cf9.png" alt=""><p>다국적 커뮤니티 &apos;알바트로스&apos;가 임팩트 투자사 엠와이소셜컴퍼니(MYSC)와 스타트업 및 예비창업가를 대상으로 컨설팅을 이어간다.</p>
+<p>30일 회사에 따르면, 지난 6월 시작된 이번 협업은 올해 12월까지 진행된다. 알바트로스는 AI 기반 사업전략·해외진출·디지털 마케팅·브랜드 마케팅 분야에서 기업 멘토링을 다채롭게 제공한다.</p>
+<p>마케팅 분야는 윤진호·변유진·서준원 컨설턴트가 담당한다. AI 전략 및 해외진출·판로개척 분야에는 안덕진·오명석·김승현·정형조 컨설턴트가 합류해 스타트업 지원에 나선다.</p>
+<img src="https://image.zdnet.co.kr/2026/09/30/d22e9aa4f95bc12aa4f9b4bd26186cf9.png" alt="엠와이소셜컴퍼니의 자문으로 참여하는 알바트로스 연사진">
+<p>이동욱 알바트로스 한국지사 부대표는 "AI가 부상할수록 인간중심으로 사회문제를 해결하는 정신이 필요하다. 결과만큼이나 중요하게 여겨지는 것은 과정과 태도, 그리고 상생"이라며 "2년 연속으로 MYSC의 위대한 여정을 함께할 수 있게돼 기쁘다. 기업의 생존과 번영을 위해 최선을 다하도록 준비하겠다"고 밝혔다.</p>]]></description>
+		</item>
 		<item>
 			<title>위메이드, 노동조합 설립…대주주 변경 앞두고 고용안정 요구</title>
 			<link>https://zdnet.co.kr/view/?no=20260930191327</link>
@@ -191,6 +239,8 @@
 			<link>https://zdnet.co.kr/view/?no=20260930175156</link>
 			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20260930175156</guid>
 			<author>장유미 기자</author>
+			<category>챗GPT</category>
+			<category>오픈AI</category>
 			<category>컴퓨팅</category>
 			<pubDate>Wed, 30 Sep 2026 17:53:14 +0900</pubDate>
 			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/09/29/d5409108a8eb909ea7e5171f303416db.jpg" alt=""><p>김경훈 총괄사장이 오픈AI코리아에 합류한 지 1년 만에 국내 사업에서 다양한 성과를 이뤄내 주목된다. 취임 당시 한국의 글로벌 AI 선도국 도약에 기여하겠다고 밝힌 뒤 기업용 챗GPT 확산과 대형 고객 확보, 국내 파트너 생태계 확대 등을 이끌며 사업 기반을 빠르게 넓혔다는 평가를 받는다.</p>
@@ -1202,54 +1252,6 @@
 <p>이달 8일에는 현대모비스 마북연구소에서 열린 현대차·기아-현대모비스 기술교류회 현장에서 기습 피케팅을 벌이기도 했다. 노조는 램프 기술과 인력이 해외 업체로 넘어갈 경우 기술 경쟁력이 약화될 수 있고, 함께 사업을 수행해 온 협력사에도 부담이 전가될 수 있다고 주장했다. 반면 회사는 매각 과정에서 구성원들에게 진행 상황을 설명해 왔으며, 분할 대상 직원들의 고용과 관련 권리·의무가 승계된다는 입장이다.</p>
 <p>현대모비스가 본계약 체결로 매각 절차를 본격화하면서 향후 노사 협의가 쟁점으로 부상할 전망이다. 특히 내년 4월로 예정된 물적분할에 앞서 직원들의 소속 변경과 고용 조건, 협력사 거래 관계 등을 둘러싼 갈등이 이어질 가능성이 있다.</p>
 <p>김경현 현대모비스사무연구직지회장은 "본계약 내용을 더 살핀 후에 가처분 신청을 검토하려고 한다"며 "전환배치를 통해 현대모비스에 남아있는 것이 목표기 때문에 반대 입장을 굽히지 않겠다"고 밝혔다. </p>]]></description>
-		</item>
-		<item>
-			<title>개발 넘어 운영까지…유라클, KT스카이라이프에 AI 코딩 도구 확산</title>
-			<link>https://zdnet.co.kr/view/?no=20260930154942</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20260930154942</guid>
-			<author>한정호 기자</author>
-			<category>유라클</category>
-			<category>아테나</category>
-			<category>코드어시스턴트</category>
-			<category>인공지능</category>
-			<category>AI</category>
-			<category>코딩</category>
-			<category>도구</category>
-			<category>KT스카이라이프</category>
-			<category>개발</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 30 Sep 2026 15:53:57 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/04/08/7afbf2230864226294006a22c324d68d.jpg" alt=""><p><span style="letter-spacing: 0.8px;">유라클이 인공지능(AI) 코딩 도구를 실제 기업의 개발·운영 현장으로 확대한다.</span></p>
-<p>유라클은 자체 AI 바이브 코딩 도구 &apos;아테나 코드어시스턴트&apos;를 KT스카이라이프의 시스템 개발·운영 업무에 도입하는 등 사업 영역을 넓히고 있다고 30일 밝혔다.</p>
-<p>KT스카이라이프는 내부 시스템 운영 인력이 기존 프로그램을 수정하거나 신규 기능을 개발하는 과정에 아테나 코드어시스턴트를 활용할 계획이다. 운영 중인 서비스에 수정이나 개선 요청이 들어오면 AI가 사내 소스코드와 개발 문서를 함께 분석해 수정해야 할 부분과 다른 기능에 미칠 영향을 먼저 파악하는 방식이다.</p>
-<p>앞서 KT스카이라이프는 구형 웹서비스를 전환하는 작업에 아테나 코드어시스턴트를 활용한 바 있다. 이번 도입으로 일회성 프로젝트를 넘어 기존 시스템의 유지보수와 신규 기능 개발 등 개발·운영 전반으로 사용 범위를 확대하게 됐다.</p>
-<img src="https://image.zdnet.co.kr/2025/04/08/7afbf2230864226294006a22c324d68d.jpg" alt="유라클 방배동 사옥 전경 (사진=유라클)">
-<p><span style="letter-spacing: 0.8px;">유라클은 아테나 코드어시스턴트의 기업 도입을 제조·금융·통신·공공 등으로 넓히고 있다. 한국평가데이터(KODATA)와 한국생산기술연구원 등이 이미 제품을 도입해 사용하고 있으며 다수의 금융기관과 공공기관에서도 개념검증(PoC)을 진행 중이다.</span></p>
-<p>기업 환경에 맞춘 코드 생성과 내부 지식 활용 기능도 강화했다. 기업별 개발 규칙과 반복적으로 사용하는 작업 명령을 사전에 등록하면 AI가 이를 바탕으로 일관된 코드를 생성하도록 지원한다. 사내 위키와 지식 사이트도 연결해 기업 고유의 업무 정보를 개발 과정에 활용할 수 있다.</p>
-<p>개발 과정의 연속성을 높이는 기능도 갖췄다. 대화창이 변경되더라도 이전 작업 맥락을 기억하고 작업 중 문제가 발생하면 이전 상태로 되돌릴 수 있다. 비주얼 스튜디오 코드(VS Code)와 이클립스, 인텔리제이 등 주요 개발 도구를 지원하며 명령줄 인터페이스(CLI) 버전도 추가했다.</p>
-<p>기업의 AI 관리와 보안을 고려한 기능도 제공한다. 관리자는 팀별 AI 사용량과 한도를 설정하고 사용할 AI 모델을 지정하거나 사용 이력을 확인할 수 있다. 고객사 서버에서 직접 구동하는 경량 모델과 외부 AI 서비스를 환경에 맞춰 선택해 연결하는 방식도 지원한다.</p>
-<p>회사 측에 따르면 고객사의 코드와 문서는 AI 모델 학습에 사용하지 않고 참고 자료로만 활용한다. 새로운 AI 모델이 등장하면 업데이트를 지원해 기업이 기존 개발 환경을 유지하면서 AI 모델 성능을 활용할 수 있도록 한다는 설명이다.</p>
-<p>유라클은 자체 개발 조직에서도 아테나 코드어시스턴트를 적용해 효과를 검증하고 있다. 도입 이후 내부 개발 생산성은 20% 이상 향상된 것으로 나타났다. 유라클은 KT스카이라이프를 비롯한 실제 기업의 개발·운영 과정에서 확보한 요구사항을 제품 고도화에 반영해 고객군을 확대할 계획이다.</p>
-<p>권태일 유라클 대표는 "KT스카이라이프의 도입은 아테나 코드어시스턴트가 시범 사용을 넘어 실제 개발·운영 현장의 도구로 자리 잡기 시작했음을 입증했다"며 "현장에서 쌓이는 요구사항을 빠르게 제품에 반영해 도입 산업과 고객을 계속 넓혀가겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>&apos;2026 가을 궁중문화축전&apos; 10월 7일 개막…예약 없는 현장 프로그램 확대</title>
-			<link>https://zdnet.co.kr/view/?no=20260930155206</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20260930155206</guid>
-			<author>정진성 기자</author>
-			<category>궁중문화축전</category>
-			<category>국가유산청</category>
-			<category>국가유산진흥원</category>
-			<category>유통/생활/문화</category>
-			<pubDate>Wed, 30 Sep 2026 15:52:06 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/30/5f697078882a98ed766519903a2a2892.png" alt=""><p>4대궁과 종묘에서 가을의 정취와 조선 왕실의 문화를 만끽할 수 있는 궁중문화축전이 펼쳐진다.</p>
-<p>국가유산청 궁능유적본부와 국가유산진흥원은 4대궁과 종묘에서 &apos;2026년 가을 궁중문화축전&apos;을 개최한다고 30일 밝혔다. <span style="letter-spacing: 0.8px;">오는 10월 7일부터 11일까지 </span><span style="letter-spacing: 0.8px;">진행되는 </span><span style="letter-spacing: 0.8px;">이번 축전은 다채로운 전시·체험·공연과 함께 사전예약 없이 참여할 수 있는 현장 프로그램을 운영한다.</span></p>
-<p>창덕궁 희정당에서는 10월 7일부터 11일까지 특별전시 &apos;조선 공간 미학: 백(白)의 질서&apos;가 열린다. 서울시건축상을 수상한 백종환 WGNB 대표가 연출을 맡았으며, &apos;백(白)&apos;을 태도로 해석해 희정당의 목조 구조와 공간 질서를 조명한다. 관람은 당일 현장 대기 예약을 통해 순서대로 입장할 수 있다.</p>
-<img src="https://image.zdnet.co.kr/2026/09/30/5f697078882a98ed766519903a2a2892.png" alt="&apos;2026 가을 궁중문화축전&apos; 10월 7일 개막.">
-<p>창경궁에서는 왕실 생활사를 재현한 &apos;창경궁 시간여행&apos;과 대온실 옆마당의 종이 꽃다발 제작 체험 &apos;장원서의 꽃&apos;을 선보인다. 덕수궁 덕홍전에서는 순종황제 승하 100주년을 맞아 AI(인공지능) 친담회와 역사탐방을 담은 &apos;광무에서 융희까지&apos;가 열리며, 준명당에서는 어린이 대상 자개 키링 압화 체험이 진행된다.</p>
-<p>궁궐 곳곳을 누비는 현장 프로그램도 마련됐다. 전통 길놀이가 창경궁(10일)과 덕수궁(11일)에서 열리며, 창덕궁 낙선재 앞에서는 자원활동가 &apos;궁이둥이&apos;가 기획한 &apos;궁중놀이방&apos;이 관람객을 맞이한다. 4대궁과 종묘 10곳을 완주하는 스탬프 투어와 온라인 캐릭터 제작 프로그램 &apos;모두의 풍속도&apos;도 함께 운영된다.</p>
-<p>종묘에서는 가을 축전 기간 한정으로 &apos;종묘 수문장 순라의식&apos;을 새롭게 선보인다. 10월 9일부터 11일까지 진행되며, 18세기 정조 재위기 궁궐 호위군을 고증한 수문장과 종사관, 취타대 등이 종묘 외대문과 광장 일대를 순찰한다.</p>
-<p>진미경 국가유산진흥원 궁중문화축전팀장은 “가을 궁중문화축전에서는 사전예약 프로그램을 비롯해 현장에서 참여할 수 있는 다양한 프로그램을 마련했다”며 “궁궐 곳곳에서 펼쳐지는 전시와 공연, 체험 프로그램을 찾아 우리 유산의 깊이를 느껴보시길 바란다”고 전했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
