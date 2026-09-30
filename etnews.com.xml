@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 30 Sep 2026 06:02:51 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2026 09:00:49 +0900</lastBuildDate>
+		<item>
+			<title>美, AI 자율규제 지속…트럼프 “산업 감독하는 위원회 검토”</title>
+			<link>https://www.etnews.com/20260930000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000005</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 30 Sep 2026 08:05:18 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 개발 속도조절 필요성이 제기된 가운데 미국 백악관과 주요 AI기업 경영진이 안전한 AI 활용을 기업 자율 통제에 맡기기로 합의했다. 29일(현지시간) 월스트리트저널·블룸버그 등 외신에 따르면 도널드 트럼프 미국 대통령은 이날 마이크 존슨 미국 하원의장과 AI·테크기업 최고경영자(CEO) 등 경영진과 오찬 회동을 통해 이같은 내용을 논의했다. 급속한 AI 발전에 따른 위험에 대한 우려가 커지는 가운데 AI 안전과 규제 방향을 논의...]]></description>
+		</item>
+		<item>
+			<title>오픈AI, 가성비 모델 &apos;GPT-6.1 솔&apos;·AI 에이전트 &apos;닷츠&apos; 공개</title>
+			<link>https://www.etnews.com/20260930000004</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000004</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 30 Sep 2026 08:02:12 +0900</pubDate>
+			<description><![CDATA[오픈AI가 최상위 인공지능(AI) 모델급 성능을 5분의 1 비용으로 제공하는 '가성비' 모델을 선보였다. 샘 올트먼 오픈AI 최고경영자(CEO)는 29일(현지시간) 미국 샌프란시스코 포트메이슨센터에서 연례 개발자회의 '데브데이' 기조 발표를 통해 'GPT-6.1 솔'을 공개했다. 이 모델은 최상위 모델인 'GPT-6 아스트라'에 버금가는 성능을 보유하고도 비용은 5분의 1에 불과한 100만 토큰당 2달러(입력 토큰 기준)로 책정됐다. 토큰은 A...]]></description>
+		</item>
+		<item>
+			<title>배경훈 부총리 “독파모 계속된다…프런티어 AI에도 도전”</title>
+			<link>https://www.etnews.com/20260930000002</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000002</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 30 Sep 2026 07:49:13 +0900</pubDate>
+			<description><![CDATA[정부가 독자 인공지능(AI) 파운데이션 모델, 이른바 '독파모' 사업을 계속 추진하는 동시에 세계 최고 수준의 '프런티어 AI' 개발에도 본격 도전한다. 배경훈 부총리 겸 과학기술정보통신부 장관은 30일 자신의 페이스북에 '대한민국 독파모는 계속됩니다'라는 글을 올리고 “결론부터 말씀 드리면 독파모는 계속된다”면서 “그리고 동시에 프런티어 AI에도 도전해야 한다고 본다”고 밝혔다. 최근 독파모 사업 중단 가능성과 프런티어 AI 중심 프로젝트 재...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 낡은 설비 바꾸는 것이 산업정책이다…중국 &apos;설비갱신&apos; 수요 설계</title>
 			<link>https://www.etnews.com/20260918000182</link>
@@ -209,7 +236,7 @@
 			<description><![CDATA[인공지능(AI) 커리어플랫폼 전문기업 다인리더스(대표 임무호)는 AX(AI Transformation) 전문기업 솔로몬텍(대표 홍지수)과 대학 대상 AI 사업 공동 발굴 및 확대를 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 양사가 보유한 솔루션과 사업 역량을 기반으로 대학 AI 시장에서 새로운 사업 기회를 공동으로 발굴하고, 영업·제안부터 솔루션 연계, 마케팅, 기술 및 영업정보 교류까지 폭넓은 협력 체계를 구축하기 위해 마련됐다...]]></description>
 		</item>
 		<item>
-			<title>삼성, AI 데이터센터 &apos;판&apos; 짠다…美 AI인프라 기업에 1.4조 투자</title>
+			<title>삼성, AI 데이터센터 &apos;판&apos; 짠다…미국 AI 인프라 기업에 1.4조 투자</title>
 			<link>https://www.etnews.com/20260929000238</link>
 			<guid isPermaLink="true">https://www.etnews.com/20260929000238</guid>
 			<author>김시소</author>
@@ -243,31 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 29 Sep 2026 14:13:25 +0900</pubDate>
 			<description><![CDATA[“굉장히 이른 시점에 인간 지능을 능가하는 인공지능(AI)의 시대에 살게 될 겁니다. 이런 시대에 PC부터 대규모 AI 클러스터까지 하나의 환경에서 운영할 수 있게 지원하는 게 래블업의 방향성입니다.” 신정규 래블업 대표는 29일 서울 삼성동 코엑스 컨퍼런스룸에서 열린 '래블업 컨퍼런스' 기조연설에서 엔드투엔드 AI 플랫폼의 발전 방향을 제시하며 이같이 말했다. 신 대표는 AI 시대 지능을 측정하는 단위로 '토큰·전력·지력'을 제시했다. 그는...]]></description>
-		</item>
-		<item>
-			<title>[인사] 금융위원회</title>
-			<link>https://www.etnews.com/20260929000224</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000224</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 29 Sep 2026 14:11:03 +0900</pubDate>
-			<description><![CDATA[◆금융위원회 ◇과장 전보 △가계금융과장 홍상준...]]></description>
-		</item>
-		<item>
-			<title>[부음] 권혁철(경인방송 전 회장)씨 장모상</title>
-			<link>https://www.etnews.com/20260929000222</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000222</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 29 Sep 2026 14:09:34 +0900</pubDate>
-			<description><![CDATA[▲조학순씨 별세, 강희정(방송작가)씨 모친상, 권혁철(경인방송 전 회장)씨 장모상=인하대병원 장례식장 7호실, 발인 10월 1일. (032)890-3180...]]></description>
-		</item>
-		<item>
-			<title>파수 AI, 중소기업 맞춤형 &apos;보안 케어 서비스&apos; 출시</title>
-			<link>https://www.etnews.com/20260929000220</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260929000220</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 29 Sep 2026 14:07:32 +0900</pubDate>
-			<description><![CDATA[파수 AI가 보안 인력과 예산, 전문성이 부족한 중소기업을 위한 '보안 케어 서비스'를 출시했다고 29일 밝혔다. 파수는 기업별 보안 취약점을 진단하고 우선순위에 따라 필요한 보안 체계를 단계적으로 구축하도록 지원한다. 보안 케어 서비스는 인프라와 사람, 데이터를 중심으로 △취약점 진단 △악성메일 모의훈련·교육 △보안 솔루션 구축을 제공한다. 보안 전문가가 IT 인프라와 웹·모바일, PC 등을 점검해 취약점을 찾고 기업 상황에 맞춰 개선 우선순...]]></description>
 		</item>
 	</channel>
 </rss>
