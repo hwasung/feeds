@@ -4,7 +4,14 @@
 		<title>세계일보 - 국방</title>
 		<link>https://www.segye.com/boxTemplate/newsList/box/newsList.do?dataPath=0101010700000&amp;dataId=0101010700000&amp;listSize=10&amp;naviSize=10&amp;page=null&amp;dataType=list</link>
 		<description>세계일보 - 국방</description>
-		<lastBuildDate>Wed, 30 Sep 2026 08:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2026 11:01:21 +0900</lastBuildDate>
+		<item>
+			<title>[속보] 軍 &quot;정상적 작전 우리 장병들, 北지뢰로 심각 부상&quot;</title>
+			<link>https://www.segye.com/newsView/20260930506677</link>
+			<guid isPermaLink="true">https://www.segye.com/newsView/20260930506677</guid>
+			<pubDate>Wed, 30 Sep 2026 11:01:20 +0900</pubDate>
+			<description><![CDATA[2026-09-30 10:36:50]]></description>
+		</item>
 		<item>
 			<title>공군사관학교서 20대 부사관 숨진 채 발견…당국 수사</title>
 			<link>https://www.segye.com/newsView/20260930502680</link>
@@ -207,13 +214,6 @@
 			<guid isPermaLink="true">https://www.segye.com/newsView/20260922510390</guid>
 			<pubDate>Tue, 22 Sep 2026 15:00:36 +0900</pubDate>
 			<description><![CDATA[2026-09-22 14:50:44]]></description>
-		</item>
-		<item>
-			<title>DMZ 폭발, &apos;MDL 이남 北지뢰의심지대&apos; 조사 수색로 만들다 발생</title>
-			<link>https://www.segye.com/newsView/20260922509099</link>
-			<guid isPermaLink="true">https://www.segye.com/newsView/20260922509099</guid>
-			<pubDate>Tue, 22 Sep 2026 14:00:34 +0900</pubDate>
-			<description><![CDATA[2026-09-22 13:46:50]]></description>
 		</item>
 	</channel>
 </rss>
