@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 01 Oct 2026 18:01:09 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 18:33:16 +0900</lastBuildDate>
+		<item>
+			<title>인트-LG CNS, 피지컬 AI 인재양성·데이터 검증 R&amp;D 협력</title>
+			<link>https://www.etnews.com/20261001000479</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000479</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 18:13:34 +0900</pubDate>
+			<description><![CDATA[인트(int.)는 LG CNS와 피지컬 AI 분야 인재 양성과 데이터 검증·학습 기술 공동 연구개발(R&D)에서 협력한다고 1일 밝혔다. 양측은 피지컬 AI 전문인재 발굴과 채용 연계, 산업 현장 중심의 피지컬 AI 데이터 구축·검증, 학습 데이터 품질 평가 지표 개발, 데이터 검증 자동화 기술 및 솔루션 연구개발 등을 추진한다. 피지컬 AI 인재 양성을 위한 인턴십 프로그램 '피지컬 AI 펠로십'도 공동 운영한다. 인트가 국내 주요 대학 학부...]]></description>
+		</item>
+		<item>
+			<title>인핸스, IBK기업은행 &apos;온톨로지 AI 데이터 분석&apos; 실증 착수</title>
+			<link>https://www.etnews.com/20261001000476</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000476</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 18:08:53 +0900</pubDate>
+			<description><![CDATA[인핸스는 IBK기업은행과 온톨로지 기반 인공지능(AI) 데이터 분석 실증에 착수했다고 1일 밝혔다. 은행 내부 업무 지식과 암묵지를 AI 에이전트가 활용할 수 있는 지식 자산으로 전환하는 것이 핵심이다. 현업 직원이 전산 부서에 자료를 요청하거나 데이터 조회 명령어를 직접 다루지 않고 자연어 질문만으로 필요한 데이터를 조회·분석할 수 있는지 검증한다. 인핸스는 자체 AI 에이전트 플랫폼 '에이전트OS'를 IBK기업은행 내부망에 구축한다. 행의...]]></description>
+		</item>
 		<item>
 			<title>한국딥러닝, 문서 분석 AI &apos;딥 에이전트&apos; 모바일 앱 출시</title>
 			<link>https://www.etnews.com/20261001000460</link>
@@ -247,22 +265,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 01 Oct 2026 12:44:17 +0900</pubDate>
 			<description><![CDATA[◆동화약품 △글로벌부문장 장진혁...]]></description>
-		</item>
-		<item>
-			<title>[인사] 아주경제</title>
-			<link>https://www.etnews.com/20261001000262</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000262</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 12:43:58 +0900</pubDate>
-			<description><![CDATA[◆아주경제 △정치경제부 정치팀 부장 이해완 △정치경제부 경제팀 부장 박기락...]]></description>
-		</item>
-		<item>
-			<title>[인사] 한국보건산업진흥원</title>
-			<link>https://www.etnews.com/20261001000261</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000261</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 12:43:37 +0900</pubDate>
-			<description><![CDATA[◆한국보건산업진흥원 ◇부서장급 △김영호 R&D사업지원단장...]]></description>
 		</item>
 	</channel>
 </rss>
