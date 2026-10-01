@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 01 Oct 2026 08:00:51 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 09:00:43 +0900</lastBuildDate>
+		<item>
+			<title>빌 게이츠 “AI 자율규제는 미친 짓…정부 안전장치 필요”</title>
+			<link>https://www.etnews.com/20261001000034</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000034</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 08:16:30 +0900</pubDate>
+			<description><![CDATA[빌 게이츠 마이크로소프트(MS) 창업자가 인공지능(AI) 기업의 자율 규제만으로 기술 위험을 통제하기 어렵다며 정부 차원의 안전 규제와 감시체계가 필요하다고 주장했다. 게이츠는 30일(현지시간) 뉴욕타임스(NYT) 팟캐스트 '에즈라 클라인 쇼' 인터뷰에서 AI 업계의 자율 규제를 신뢰하는 것은 “미친(insane) 짓”이라고 말했다. 그는 안전하지 않은 AI를 출시한 기업이 사후 소송을 통해 책임지면 된다는 주장에 대해서도 AI가 초래할 피해...]]></description>
+		</item>
+		<item>
+			<title>글로벌 AI 허브 후보지 10월 공모…부산·인천·광주 등 희망</title>
+			<link>https://www.etnews.com/20261001000032</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000032</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 08:00:12 +0900</pubDate>
+			<description><![CDATA[주요 국제기구의 분산된 인공지능(AI) 기능을 국내에 집적하는 프로젝트로 '글로벌 AI 허브'가 2027년 조성된다. 글로벌 AI 허브 추진위원회 지원단은 오는 14일 정부세종컨벤션센터 국제회의장에서 '글로벌 AI 허브 입지 선정 공청회'를 개최한다. 정부는 국제기구 AI 기능 유치와 함께 다자개발은행을 통해 성과를 확산하는 AI 다자협력 거점인 글로벌 AI 허브 국내 조성을 추진하고 있다. 올해만 글로벌 AI 허브 조성을 위한 예산 5억원을...]]></description>
+		</item>
+		<item>
+			<title>오픈AI, &apos;불량 AI 에이전트 해킹&apos; 첫 피소…FTC 조사도 본격화</title>
+			<link>https://www.etnews.com/20261001000026</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000026</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 07:49:28 +0900</pubDate>
+			<description><![CDATA[오픈AI가 자율 인공지능(AI) 에이전트의 외부 시스템 무단 접근 사건을 둘러싸고 소송과 미국 연방거래위원회(FTC) 조사에 동시에 직면했다. 공익 법률단체는 오픈AI의 개발 관행 중단을 요구했고 FTC도 오픈AI와 앤트로픽 등 주요 AI 기업을 상대로 소비자 위험 여부를 들여다보고 있다. 미국 공익 법률단체 '안전한 과학기술을 위한 법률 수호자들(LASST)'은 오픈AI와 오픈AI 재단을 상대로 캘리포니아주 법원에 소송을 제기했다고 지난달 3...]]></description>
+		</item>
 		<item>
 			<title>구글, &apos;제미나이 4 아르곤&apos; 공개…100만 토큰·사이버보안 강화</title>
 			<link>https://www.etnews.com/20261001000025</link>
@@ -242,31 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Wed, 30 Sep 2026 14:30:57 +0900</pubDate>
 			<description><![CDATA[◆한국신용평가 ◇승진 △신용리스크모니터링본부 위지원 본부장...]]></description>
-		</item>
-		<item>
-			<title>[인사] 과학기술정보통신부</title>
-			<link>https://www.etnews.com/20260930000305</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000305</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 30 Sep 2026 14:30:49 +0900</pubDate>
-			<description><![CDATA[◆과학기술정보통신부 ◇국장급 승진 △국립과천과학관 전시연구단장 김연 △국민인공지능서비스혁신추진단 이정순 △전남지방우정청장 강영일...]]></description>
-		</item>
-		<item>
-			<title>엔키화이트햇 &apos;오딘&apos;, 카스퍼스키 사이버보안 경진대회 우승</title>
-			<link>https://www.etnews.com/20260930000302</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000302</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 14:29:50 +0900</pubDate>
-			<description><![CDATA[국내 보안기업 엔키화이트햇의 '오딘(Odin)' 팀이 글로벌 사이버보안 경진대회 '카스퍼스키{CTF}' 우승팀에 이름을 올렸다. 카스퍼스키는 지난달 30일 종료된 카스퍼스키{CTF} 대회에서 오딘을 포함한 5개 팀이 최종 우승했다고 30일 밝혔다. 대회에는 98개국에서 기업·학술팀 1657개 팀이 참가했다. 우승팀은 △오딘-엔키화이트햇(한국) △플루이드 어택스(콜롬비아) △시큐리티 허브(이탈리아) △보이드섹-아이케이라이트(모로코) △컷-센트럴...]]></description>
-		</item>
-		<item>
-			<title>[부음] 양정 이엑스프로모션 대표 모친상</title>
-			<link>https://www.etnews.com/20260930000285</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000285</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 30 Sep 2026 14:09:42 +0900</pubDate>
-			<description><![CDATA[▲서경희씨 별세, 양정(이엑스프로모션 대표)·양혜경씨 모친상, 유재철씨 장모상=30일, 한림대강남성심병원장례식장 1호, 발인 10월 2일. (02)833-3794...]]></description>
 		</item>
 	</channel>
 </rss>
