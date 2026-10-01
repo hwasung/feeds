@@ -4,7 +4,79 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 01 Oct 2026 17:00:38 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 18:01:09 +0900</lastBuildDate>
+		<item>
+			<title>한국딥러닝, 문서 분석 AI &apos;딥 에이전트&apos; 모바일 앱 출시</title>
+			<link>https://www.etnews.com/20261001000460</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000460</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:26:07 +0900</pubDate>
+			<description><![CDATA[한국딥러닝은 문서 분석 인공지능(AI) 에이전트 '딥 에이전트' 모바일 앱을 출시했다고 1일 밝혔다. 딥 에이전트는 현장에서 촬영한 이미지에서 필요한 텍스트와 항목, 표 정보를 추출·구조화하는 AI 솔루션이다. 문서 분석 솔루션 '딥 OCR'과 '딥 파서' 기반으로 기업 AI와 업무 시스템이 활용할 수 있는 데이터로 변환한다. 모바일 앱 출시로 문서 데이터 활용 범위를 현장까지 확대했다. 직원이 스마트폰으로 문서, 모니터 화면, 계량기, 명함...]]></description>
+		</item>
+		<item>
+			<title>업스테이지, 소형 LLM &apos;솔라 미니 4&apos; 공개…350억 파라미터 규모</title>
+			<link>https://www.etnews.com/20261001000457</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000457</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:12:07 +0900</pubDate>
+			<description><![CDATA[업스테이지는 경량언어모델(SLM) '솔라 미니 4'를 공개했다고 1일 밝혔다. '솔라 미니 4'는 적은 연산량으로 고성능·고효율을 구현한 것이 특징이다. 전체 350억개 매개변수에 전문가혼합(MoE) 구조를 적용해 실제 추론 시에는 30억개만 선택적으로 활성화한다. 성능은 활성 매개변수(파라미터) 30억개 규모 소형 모델 가운데 최고 수준을 기록했다. 글로벌 AI 평가기관 아티피셜 애널리시스의 '인텔리전스 인덱스(AAII)'에서 종합 24점을...]]></description>
+		</item>
+		<item>
+			<title>가트너 “AI로 대체된 인력 30%, 재고용될 것…&apos;AI 레디&apos; 인재 필요”</title>
+			<link>https://www.etnews.com/20261001000456</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000456</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:09:56 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 활용이 확산하는 가운데 과도한 인력 감축이 기업 경쟁력을 약화시킬 수 있다는 분석이 나왔다. 단기적 비용 절감보다 인재·지식 유출로 향후 채용·교육 비용이 더 커질 수 있다는 지적이다. 가트너가 1일 발표한 '2026년 미래 업무 환경 하이프 사이클'에 따르면 2029년까지 AI로 직무가 대체돼 해고된 직원 가운데 30%를 기업이 재고용할 것으로 전망된다. 이 과정에서 기존보다 더 많은 채용·교육 비용이 발생할 것으로 예상된다....]]></description>
+		</item>
+		<item>
+			<title>[SLW 2026] 세계 133개 도시, 서울서 &apos;도시 문제&apos; 해법 겨룬다</title>
+			<link>https://www.etnews.com/20261001000317</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000317</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[세계 도시가 인공지능(AI)과 데이터, 디지털 기술을 활용해 교통·환경·복지·안전 등 도시 문제를 해결한 성과를 서울에서 겨룬다. 서울시는 6일 '스마트라이프위크(SLW) 2026'에서 '제4회 서울 스마트도시 상' 시상식을 개최한다. 올해는 56개국 133개 도시에서 총 210건이 접수돼 4년 연속 200건 이상을 기록했다. 1차 심사를 통과한 본선 진출작은 46건이다. 서울 스마트도시 상은 도시가 처한 현실적 여건 속 시민의 삶을 변화시킨...]]></description>
+		</item>
+		<item>
+			<title>개인정보위, 부산 데이터 활용 현장 점검…AI 시대 제도 정비</title>
+			<link>https://www.etnews.com/20261001000227</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000227</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 인공지능(AI) 시대에 맞춰 가명정보 활용과 개인정보 보호 제도를 손질하기 위한 현장 의견 수렴에 나섰다. 개인정보위는 1일 부산항만공사와 부산 에코델타 스마트시티, 부산 가명정보 활용지원센터를 방문해 데이터 활용 현황을 점검하고 관련 기관 관계자들과 개인정보 제도 혁신 방안을 논의했다고 밝혔다. 송경희 개인정보위 위원장은 부산항만공사에서 항만·물류 분야 인공지능 전환(AX)과 데이터 활용 사례를 살폈다. 부산항만공사는 개인...]]></description>
+		</item>
+		<item>
+			<title>[SLW 2026] &apos;AI 도시&apos; 해법 서울서 찾는다…SLW서 18개 글로벌 포럼</title>
+			<link>https://www.etnews.com/20261001000217</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000217</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 바꿀 도시의 미래를 놓고 세계 도시 리더와 AI·로봇·데이터 전문가들이 서울에 모인다. AI 행정부터 피지컬 AI, 사이버보안, AI 윤리·거버넌스까지 기술이 도시에 본격 적용되면서 등장한 새로운 과제를 집중 논의한다. 서울시는 '스마트라이프위크(SLW) 2026' 기간 중 총 18개 포럼·컨퍼런스를 개최한다. 지난해 16개였던 행사가 18개로 늘어났으며 참여 연사도 227명에서 300명 이상으로 늘어났다. 신규 컨퍼런스도 6...]]></description>
+		</item>
+		<item>
+			<title>[SLW 2026] AI가 화면 밖으로 나왔다…서울 8곳서 펼쳐지는 &apos;미래도시&apos;</title>
+			<link>https://www.etnews.com/20261001000183</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000183</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[“인공지능(AI)이 더 똑똑해지면 도시와 시민의 삶은 무엇이 달라지는가.” AI가 질문에 답하는 것을 넘어 사람 곁에서 움직이고 도시의 문제를 직접 해결하기 시작했다. 휴머노이드 로봇이 사람과 같은 공간에서 일하고, 자율주행차가 스스로 도로를 달린다. AI는 한강의 수질을 분석하고 방대한 행정문서를 읽고 시민의 질문에 답한다. 이런 변화를 한자리에서 보여주는 행사가 열린다. AI가 디지털 공간을 벗어나 현실 세계와 결합하는 '피지컬 AI' 시대...]]></description>
+		</item>
+		<item>
+			<title>[사설] 대미 투자, 수익·성과로만 말하라</title>
+			<link>https://www.etnews.com/20261001000392</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000392</guid>
+			<author>논설위원실</author>
+			<category>오피니언</category>
+			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[2000억 달러 규모 대미 전략투자 실행 청사진이 마침내 베일을 벗었다. 한미 간 교역 규모와 굳건한 전략적 우호 관계, 글로벌 공급망 재편 흐름을 고려할 때 일정 규모 이상의 투자는 불가피한 선택이다. 인공지능(AI) 패권 선점을 위한 미국의 전력망 확충 수요에 우리 자본과 세계 최고 수준의 원자력·가스 발전소 시공 경쟁력이 결합하는 것은 산업적 명분도 뚜렷하다. 그러나 한국 시간으로 1일 새벽 일종의 수혜국이라 할 수 있는 미국 도널드 트럼...]]></description>
+		</item>
 		<item>
 			<title>[인사] 한화손해보험</title>
 			<link>https://www.etnews.com/20261001000434</link>
@@ -191,76 +263,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 01 Oct 2026 12:43:37 +0900</pubDate>
 			<description><![CDATA[◆한국보건산업진흥원 ◇부서장급 △김영호 R&D사업지원단장...]]></description>
-		</item>
-		<item>
-			<title>[부음] 박강수(전 마포구청장)씨 장인상</title>
-			<link>https://www.etnews.com/20261001000260</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000260</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 12:43:19 +0900</pubDate>
-			<description><![CDATA[▲김영돈씨 별세, 김정겸·명자·명숙·명옥·명희씨 부친상, 이현선씨 시부상, 박강수(전 마포구청장)·홍성환·박종일·정인준씨 장인상, 박미리(시사포커스 각자대표)·박상민(시사포커스 각자대표)씨 외조부상, 김기범(플러스엠 매니저)씨 처외조부상=9월 30일, 충남 예산명지병원장례식장 3층, 발인 2일. (041)334-0444...]]></description>
-		</item>
-		<item>
-			<title>[부음] 박병한(YES24 사외이사)씨 부친상</title>
-			<link>https://www.etnews.com/20261001000259</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000259</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 12:43:05 +0900</pubDate>
-			<description><![CDATA[▲박인출씨 별세, 박병한(YES24 사외이사·전 YTN 선임기자)·정미·선희·수경·시영씨 부친상, 장명식·임경천·김창현·홍지헌씨 장인상, 권희정씨 시부상=9월 30일, 서울대병원 장례식장 3호실, 발인 3일. (02)2072-2010...]]></description>
-		</item>
-		<item>
-			<title>클라우드플레어, 공개 CA 전환…2027년 양자 내성 인증서 발급</title>
-			<link>https://www.etnews.com/20261001000258</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000258</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 12:40:16 +0900</pubDate>
-			<description><![CDATA[클라우드플레어는 공개 인증기관(CA)이 돼 기존 전송계층보안(TLS) 인증서와 양자 내성 인증서를 발급하겠다고 지난달 29일(현지시간) 밝혔다. 클라우드플레어는 기존 TLS 인증서와 차세대 '머클 트리 인증서(MTC)'를 하나의 체계에서 발급할 계획이다. 웹사이트 운영자가 별도 시스템을 구축하지 않고 양자 내성 보안으로 전환할 수 있도록 하기 위해서다. 양자 내성 보안은 양자컴퓨터로도 쉽게 해독되지 않도록 설계된 암호 기술을 활용해 데이터와 통...]]></description>
-		</item>
-		<item>
-			<title>이재준 수원시장, 시민의 생활비 낮출 140개 과제…새빛펀드 1조원 확대 추진</title>
-			<link>https://www.etnews.com/20261001000242</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000242</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 11:54:34 +0900</pubDate>
-			<description><![CDATA[매달 나가는 교통비와 자녀 교육비 부담을 덜고, 관광객의 소비를 골목상권 매출로 연결하며, 청년이 수원에서 일자리를 찾도록 돕는 시정 청사진이 나왔다. 경기 수원특례시가 교통·교육·의료비 부담을 낮추고 새빛펀드를 1조원으로 확대하는 민선 9기 시정 청사진을 내놨다. 생활비 지원과 관광소비 확대, 첨단산업 육성을 통해 가계 부담을 덜고 지역 소득과 일자리를 늘리는 데 초점을 맞췄다. 이재준 시장은 1일 수원컨벤션센터에서 열린 '민선 9기 수원대전...]]></description>
-		</item>
-		<item>
-			<title>병원정보보안협회, 15일 추계 세미나…AI 의료보안 논의</title>
-			<link>https://www.etnews.com/20261001000241</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000241</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 11:53:57 +0900</pubDate>
-			<description><![CDATA[병원정보보안협회(K-HISA)가 인공지능(AI)·디지털 헬스케어 확산에 따른 의료기관 사이버 위협 대응과 데이터 보호 방안을 논의한다. 병원정보보안협회는 오는 15일부터 16일까지 연세대학교 의료원에서 '2026 병원정보보안협회 추계 세미나'를 개최한다고 1일 밝혔다. 이번 세미나 주제는 'AI 디지털 헬스케어 시대의 정보보호: 환자 안전을 위한 사이버 레질리언스와 데이터 보호 전략'이다. 15일 학술세미나에서는 AI 시대 병원정보보안 대응 전...]]></description>
-		</item>
-		<item>
-			<title>개인정보위, EU 이어 영국 &apos;개인정보 동등성 인정&apos; 추진</title>
-			<link>https://www.etnews.com/20261001000236</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000236</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 11:49:54 +0900</pubDate>
-			<description><![CDATA[개인정보보호위원회가 영국을 대상으로 개인정보 보호 수준 '동등성 인정' 검토에 착수했다. 유럽연합(EU)·유럽경제지역(EEA)에 이어 두 번째 검토 대상이다. 개인정보위는 10월부터 영국의 개인정보 보호 법제와 감독·집행 체계, 정보주체 권리 보장, 피해구제 절차 등을 종합적으로 검토해 국내와 실질적으로 동등한 수준의 보호가 이뤄지는지 평가한다고 1일 밝혔다. 동등성 인정은 상대국의 개인정보 보호체계와 정보주체 권리 보장 수준 등을 검토해 국내...]]></description>
-		</item>
-		<item>
-			<title>전자신문·정산연, 올해의 CIO 공모…10월 30일까지 접수</title>
-			<link>https://www.etnews.com/20261001000220</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000220</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 11:31:33 +0900</pubDate>
-			<description><![CDATA[전자신문사와 한국정보산업연합회가 공동 주관하는 한국CIO포럼이 10월 30일까지 '2026년도 올해의 CIO상'을 공모한다. 올해 27회째를 맞이한 '올해의 CIO상'은 기업과 기관의 디지털 혁신과 한국 정보화 발전을 위해 공로가 큰 CIO·CISO 등을 발굴해 시상하는 제도다. 대상을 비롯해 '산업별 CIO', '올해의 CISO', '올해의 CAIO', '이노베이션 CIO', '신산업 CIO' 등 각 부문의 수상자를 선정한다. 오는 12월 1...]]></description>
-		</item>
-		<item>
-			<title>안랩 V3, AV-TEST 보안 평가서 기업·개인용 모두 &apos;만점&apos;</title>
-			<link>https://www.etnews.com/20261001000218</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000218</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 11:31:04 +0900</pubDate>
-			<description><![CDATA[안랩의 기업용·개인용 보안 제품이 글로벌 보안 평가 'AV-테스트'의 2026년 7~8월 윈도우용 백신 평가에서 모두 종합점수 18점 만점을 받았다. 안랩은 기업용 'V3 엔드포인트 시큐리티'와 개인용 'V3 인터넷 시큐리티'가 AV-테스트 평가에서 국내 보안기업 제품 가운데 유일하게 만점 인증을 획득했다고 1일 밝혔다. AV-테스트는 독일에 본사를 둔 독립 IT 보안 연구기관으로 보안 제품의 성능을 시험·인증하고 악성코드와 공격 기법을 연구한...]]></description>
 		</item>
 	</channel>
 </rss>
