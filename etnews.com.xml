@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 01 Oct 2026 09:00:43 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 10:00:45 +0900</lastBuildDate>
+		<item>
+			<title>SK AX, &apos;AI 부트캠프 바이브&apos; 교육 출시…바이브코딩으로 AI 에이전트 개발</title>
+			<link>https://www.etnews.com/20261001000062</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000062</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 09:27:41 +0900</pubDate>
+			<description><![CDATA[SK AX는 바이브코딩으로 인공지능(AI) 에이전트를 개발해 쓸 수 있는 교육 프로그램 'AI 부트캠프 바이브'를 출시했다고 1일 밝혔다. 바이브코딩은 자연어로 원하는 기능을 설명하면 생성형 AI가 개발 코드를 작성해 프로그램을 구현하는 방식을 말한다. 전문적인 개발 조직을 넘어, 인사·기획·마케팅·영업 등 모든 직군에서 AI 에이전트를 만들어 활용함으로써 업무 생산성을 높일 수 있게 된 것이다. SK AX 관계자는 “AI에이전트는 AI에이전트...]]></description>
+		</item>
+		<item>
+			<title>타이거컴퍼니, &apos;2026 개인정보보호 실무 웨비나&apos;서 PIL-M 기반 사전예방 체계 제시</title>
+			<link>https://www.etnews.com/20261001000061</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000061</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 09:27:27 +0900</pubDate>
+			<description><![CDATA[타이거컴퍼니(대표 김범진)는 30일 개인정보보호진흥원이 주최한 '2026 개인정보보호 실무 웨비나 - 강화된 개인정보보호법과 기업·기관의 실전 대응 및 적용'에 참가해, 전사 개인정보 거버넌스 확립을 통한 사전예방 체계 구축 방안을 제시했다고 1일 밝혔다. 지난달 11일 개인정보 보호법과 신용정보법 개정으로 국외이전 기준이 강화되고 처리방침 평가·전송요구권 제도가 신설되면서, 기업과 공공기관의 실무 대응 부담이 커지고 있다. 이날 웨비나는 이...]]></description>
+		</item>
+		<item>
+			<title>어드밴텍, DDR5·M.2 SSD 앞세워 로봇용 산업 메모리 시장 공략</title>
+			<link>https://www.etnews.com/20261001000046</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000046</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 09:08:39 +0900</pubDate>
+			<description><![CDATA[피지컬 인공지능(AI) 확산으로 로봇이 처리해야 할 센서와 영상 데이터가 급증하면서 고성능 프로세서뿐 아니라 이를 뒷받침하는 메모리와 스토리지의 중요성이 커지고 있다. 어드밴텍은 고속 DDR5 메모리와 소형 M.2 SSD를 중심으로 산업용 메모리·스토리지 제품군을 확대해 휴머노이드 로봇과 자율이동로봇(AMR), 산업용 로봇 시장 공략에 나선다. 어드밴텍은 SQ램 산업용 메모리와 SQ플래시 산업용 SSD를 기반으로 로봇 및 피지컬 AI 애플리케이...]]></description>
+		</item>
 		<item>
 			<title>빌 게이츠 “AI 자율규제는 미친 짓…정부 안전장치 필요”</title>
 			<link>https://www.etnews.com/20261001000034</link>
@@ -243,32 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 30 Sep 2026 14:54:24 +0900</pubDate>
 			<description><![CDATA[국내 악성 침해사고 10건 중 3건은 인공지능(AI)을 활용한 공격인 것으로 나타났다. AI 기반 공격 속도가 사람의 대응 능력을 앞서면서 기업 보안도 탐지뿐 아니라 분석과 격리 등 실제 조치까지 AI 활용 범위를 넓혀야 한다는 지적이 나온다. IBM은 '2026 데이터 유출 비용 보고서'를 통해 이런 내용의 한국 침해 사고 분석 결과를 전자신문을 통해 처음 공개했다. 이재웅 한국IBM 컨설팅 사이버 시큐리티 서비스 총괄(상무)은 전자신문과의...]]></description>
-		</item>
-		<item>
-			<title>[뉴스줌인] 공급망 보안만으론 부족…랜섬웨어 막는 엔드포인트 방어</title>
-			<link>https://www.etnews.com/20260930000329</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000329</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 14:54:06 +0900</pubDate>
-			<description><![CDATA[랜섬웨어 공격이 다양한 산업에서 발생하고 있다. 공격자들은 개별 기업·기관을 직접 공격하는 것을 넘어 다수가 사용하는 소프트웨어(SW)나 서비스를 공격 경로로 악용하는 사례도 나타나고 있다. 이에 공급망 보안과 개별 기업·기관의 자체 보안 역량을 동시에 강화해야 할 필요성이 커지고 있다. ◇SW·유지보수 체계 타고 내부로 침투 공급망 공격은 최종 대상을 하나씩 직접 공략하는 대신 여러 기업이 공통으로 사용하는 SW나 서비스, 업데이트·유지보수...]]></description>
-		</item>
-		<item>
-			<title>100MW급 AIDC 생산효과 최대 3.5조원…고용·세수 확대</title>
-			<link>https://www.etnews.com/20260930000324</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000324</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 30 Sep 2026 14:50:07 +0900</pubDate>
-			<description><![CDATA[100메가와트(㎿)급 AI 데이터센터(AIDC) 1개소가 최대 3조5000억원의 생산효과를 유발한다는 분석이 나왔다. 30일 국회 과학기술방송정보통신위원회 소속 황정아 더불어민주당 의원이 국회입법조사처에 의뢰해 제출 받은 ' 데이터센터의 고용·생산·부가가치 창출효과' 회답서에 따르면,입법조사처는 100㎿ 급 AI 데이터센터의 생산 창출효과가 최대 3조5000억원으로 파악했다. 입법조사처는 근거로 부산시의 데이터센터 투자에 따른 생산유발효과를 제...]]></description>
-		</item>
-		<item>
-			<title>[인사] 한국신용평가</title>
-			<link>https://www.etnews.com/20260930000306</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000306</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 30 Sep 2026 14:30:57 +0900</pubDate>
-			<description><![CDATA[◆한국신용평가 ◇승진 △신용리스크모니터링본부 위지원 본부장...]]></description>
 		</item>
 	</channel>
 </rss>
