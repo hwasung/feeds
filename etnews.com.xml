@@ -4,7 +4,33 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 01 Oct 2026 15:00:43 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2026 16:00:42 +0900</lastBuildDate>
+		<item>
+			<title>[인사] 하이브랩그룹</title>
+			<link>https://www.etnews.com/20261001000399</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000399</guid>
+			<category>오피니언</category>
+			<pubDate>Thu, 01 Oct 2026 15:30:57 +0900</pubDate>
+			<description><![CDATA[◆하이브랩그룹 ◇승진 △하이브랩 전무이사 문상준 △하이브랩 상무이사 배상철 △하이브랩 상무이사 정민화 △하이브랩 상무이사 CFO 손정현 △하이브랩 이사 CHO 김현우 ◇신규 선임 △하이브랩 감사위원회 직속 전무이사 김인욱...]]></description>
+		</item>
+		<item>
+			<title>국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안</title>
+			<link>https://www.etnews.com/20261001000397</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000397</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 15:29:39 +0900</pubDate>
+			<description><![CDATA[미국 빅테크를 중심으로 제기된 인공지능(AI) 개발 속도조절론에 국가AI전략위원회가 속도조절이 아닌 신속한 대응을 꺼내들었다. 글로벌 AI 3대 강국 도약을 목표로 미국과 중국을 추격하고 3위권 그룹과 경쟁해야 하는 상황을 고려, 프런티어 AI 모델 개발 등 자체 역량을 키우면서 검증·통제 등 보안 속도를 더 빠르게 높이겠다는 구상이다. 하정우 국가AI전략위 상근 부위원장은 1일 'AI 개발 속도조절론 관련 세미나'를 열고 “AI 기술 발전으로...]]></description>
+		</item>
+		<item>
+			<title>신한은행 2만5000명 고객정보 유출…AI봇 웹공격 가능성</title>
+			<link>https://www.etnews.com/20261001000357</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000357</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 01 Oct 2026 14:43:45 +0900</pubDate>
+			<description><![CDATA[신한은행에서 약 2만5000명의 고객정보가 유출됐다. 공격자는 신한은행 웹 보안 허점을 파고들어 인증 절차를 우회한 뒤 대출 관련 고객정보에 접근한 것으로 알려졌다. 공격 과정에서 인공지능(AI) 봇을 활용해 취약한 지점을 자동으로 찾았을 가능성도 제기된다. 신한은행은 외부에서 인증을 우회하는 비정상적인 방법으로 일부 시스템에 접근해 고객의 개인·신용정보를 유출한 사실을 확인했다고 1일 밝혔다. 현재까지 약 2만5000여명 고객정보가 유출된 것...]]></description>
+		</item>
 		<item>
 			<title>[인사] 한화머시너리앤서비스홀딩스(한화M&amp;S)</title>
 			<link>https://www.etnews.com/20261001000346</link>
@@ -239,33 +265,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 01 Oct 2026 10:21:30 +0900</pubDate>
 			<description><![CDATA[◆한국전자기술연구원(KETI) ◇본부장 △동남권지역본부장 조남영 ◇센터장·실장 △나노융복합소재연구센터장 양우석 △신뢰성연구센터장 김제민 △ICT융합연구센터장 권재영 △경영기획실장 직무대행 이동주...]]></description>
-		</item>
-		<item>
-			<title>슈퍼마이크로 &apos;Vera Rubin NVL72&apos; 출하 개시…디에스앤지, 국내 공급 준비 본격화</title>
-			<link>https://www.etnews.com/20261001000133</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000133</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 10:12:12 +0900</pubDate>
-			<description><![CDATA[슈퍼마이크로가 '데이터센터 빌딩 블록 솔루션(DCBBS)'과 차세대 직접 액체 냉각 기술인 'DLC-2'를 통합한 '엔비디아 베라 루빈(Vera Rubin) NVL72' 랙의 출하를 시작했다고 공식 발표했다. 슈퍼마이크로의 국내 최대 총판 디에스앤지(대표 서정열)는 베라 루빈 NVL72 랙의 글로벌 출하가 시작됨에 따라 국내 공급을 추진한다고 1일 밝혔다. 현재 관련 기술 및 솔루션에 대한 개념검증(PoC)을 진행하고 있으며, 주요 기업을 대상...]]></description>
-		</item>
-		<item>
-			<title>LG CNS, 美 &apos;제너럴 애틀랜틱&apos;과 맞손…글로벌 SW 기업 투자 추진</title>
-			<link>https://www.etnews.com/20261001000043</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000043</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 10:00:00 +0900</pubDate>
-			<description><![CDATA[LG CNS는 글로벌 대표 투자기업인 '제너럴 애틀랜틱'과 공동투자 파트너십을 체결하고, 글로벌 엔터프라이즈 기술 기업 대상의 투자를 추진한다. 이번 투자를 기반으로 LG CNS는 엔터프라이즈 소프트웨어(SW) 사업을 더욱 강화해 사업 포트폴리오를 다변화하고, 글로벌 시장에서 확장 가능한 사업 기반을 확보한다는 방침이다. LG CNS는 지난 24일(현지시간) 미국 뉴욕에 위치한 제너럴 애틀랜틱 본사에서 공동투자 협약을 체결했다고 1일 밝혔다....]]></description>
-		</item>
-		<item>
-			<title>“반도체를 넘어 자동화 확장” 인아그룹, &apos;SEDEX 2026&apos; 참가</title>
-			<link>https://www.etnews.com/20261001000104</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000104</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 09:56:51 +0900</pubDate>
-			<description><![CDATA[인아그룹은 오는 14일 서울 코엑스에서 열리는 반도체대전(SEDEX)에 참가한다고 1일 밝혔다. 인아오리엔탈모터, 인아텍앤코포, 인아엠씨티 3개사는 'Beyond Semiconductor, Connected Performance'를 전시 콘셉트로, 반도체 산업을 넘어 다양한 산업으로 확장할 수 있는 자동화 솔루션과 기술을 선보일 예정이다. 인아오리엔탈모터는 다양한 네트워크 통신 타입에 대응할 수 있는 FA 네트워크 제품, 미니·단축·다축 라인업...]]></description>
 		</item>
 	</channel>
 </rss>
