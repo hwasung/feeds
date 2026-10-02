@@ -4,7 +4,42 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 02 Oct 2026 10:41:20 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2026 13:00:46 +0900</lastBuildDate>
+		<item>
+			<title>[기고] 복잡해지는 차량 내 무선 환경, UWB 안정성 높이는 필터 기술</title>
+			<link>https://www.etnews.com/20261002000104</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000104</guid>
+			<category>오피니언</category>
+			<pubDate>Fri, 02 Oct 2026 11:41:23 +0900</pubDate>
+			<description><![CDATA[자동차의 연결성이 강화되면서 차량 내부의 무선 환경도 빠르게 복잡해지고 있다. 5G를 비롯해 Wi-Fi, Bluetooth 등 다양한 무선 통신 기술이 하나의 차량 안에서 동시에 활용되면서 서로 다른 주파수의 신호가 혼재하는 환경이 형성되고 있다. 이러한 환경은 차량용 UWB(Ultra-Wideband, 초광대역) 시스템이 해결해야 할 또 하나의 기술적 과제로 이어진다. UWB는 낮은 전력의 신호를 이용하기 때문에 주변의 다양한 무선 신호와 노...]]></description>
+		</item>
+		<item>
+			<title>SK쉴더스, AWS &apos;위협 탐지·대응&apos; 보안 컴피턴시 획득</title>
+			<link>https://www.etnews.com/20261002000099</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000099</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 11:32:31 +0900</pubDate>
+			<description><![CDATA[SK쉴더스가 아마존웹서비스(AWS)의 보안 컴피턴시 가운데 '위협 탐지 및 대응(TDR)'을 획득했다고 2일 밝혔다. 국내 기업 가운데 TDR 컴피턴시를 획득한 것은 처음이다. AWS 보안 컴피턴시는 AWS 환경에서 보안 솔루션과 서비스를 제공하는 파트너의 전문성과 고객 사례 등을 검증하는 프로그램이다. TDR은 보안관제센터(SOC), 보안정보 및 이벤트 관리(SIEM), 보안 오케스트레이션·자동화·대응(SOAR), 확장 탐지·대응(XDR) 등...]]></description>
+		</item>
+		<item>
+			<title>라온시큐어, 블록체인·AI 해커톤 성료…318개팀 참여</title>
+			<link>https://www.etnews.com/20261002000096</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000096</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 11:26:54 +0900</pubDate>
+			<description><![CDATA[라온시큐어가 모바일 신분증을 기반으로 인공지능(AI)과 웹3(Web3) 기술을 결합한 디지털 서비스를 발굴했다. 금융·의료·복지·관광·콘텐츠 등 일상 영역에서 모바일 신분증을 활용하는 아이디어가 대거 제시됐다. 라온시큐어는 글로벌디지털혁신네트워크(GDIN)와 공동 주관한 '2026 블록체인&AI 해커톤'을 마쳤다고 2일 밝혔다. 한국디지털인증협회가 주최하고 행정안전부가 후원한 행사로, 결선은 지난달 30일 서울 여의도 페어몬트 호텔에서 열렸다....]]></description>
+		</item>
+		<item>
+			<title>시높시스, 반도체·시스템 전 과정 AI 추론 및 실행 &apos;시높시스 에이전트엔지니어&apos; 공개</title>
+			<link>https://www.etnews.com/20261002000088</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000088</guid>
+			<author>권동준</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 11:07:04 +0900</pubDate>
+			<description><![CDATA[시높시스는 반도체와 시스템 개발 전 과정에서 인공지능(AI) 에이전트가 추론·계획·실행을 수행하는 멀티 도메인 에이전트 포트폴리오 '시높시스 에이전트엔지니어'를 공개했다고 2일 밝혔다. 이 에이전트들은 자율 엔지니어링을 위한 개방적이고 안전한 통합 기반인 시높시스 오토파일럿 플랫폼 위에 구축됐다. 엔지니어링 팀이 생산성을 높이고 설계 품질을 개선하며 핵심 워크플로우를 더 빠르게 진행하도록 지원한다. 토큰 효율을 최적화하고 지연 시간도 줄일 수...]]></description>
+		</item>
 		<item>
 			<title>더존비즈온, &apos;원 AI PE&apos;로 서울시 행정지원 AI 에이전트 구현</title>
 			<link>https://www.etnews.com/20261002000051</link>
@@ -234,39 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 01 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[최근 AI에이전트는 인공지능(AI) 산업 경쟁 뿐만 아니라 플랫폼 산업 경쟁 측면에서도 중요한 이슈로 부각되고 있다. AI의 새로운 먹거리로 급부상하는 동시에 AI에이전트에 대한 권한과 보안, AI와 플랫폼 업계간 주도권 경쟁 등 다양한 과제도 남기고 있다. 선풍적인 인기를 끌고 있는 메타의 개인용 AI에이전트 뮤즈와 AI에이전트의 플랫폼 접근에 대한 아마존과 퍼를렉시티의 분쟁, 엔비디아의 AI에이전트 보안 플랫폼 등은 최근 AI에이전트의 성장...]]></description>
-		</item>
-		<item>
-			<title>[GEF 스타트업 이야기] 〈98〉영수증 정산에서 지속 가능한 자립으로</title>
-			<link>https://www.etnews.com/20261001000042</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000042</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[10월이 오면 여의도 국회의원회관 복도는 피감기관들이 실어 나른 수백개의 상자로 발 디딜 틈이 없어진다. 의원실 캐비닛은 빽빽한 숫자가 적힌 예산안과 감사 자료로 턱 끝까지 찬다. 국회 보좌진으로 밤을 지새우던 시절, 두툼한 서류철을 넘길 때마다 뼈아프게 마주했던 것은 바로 '행정의 역설'이었다. 국정감사장에서는 매년 같은 호통이 반복된다. “수조원의 나랏돈을 쏟아부었는데 왜 지속 가능한 성과는 나오지 않는가?” “청년 창업가와 풀뿌리 복지 현...]]></description>
-		</item>
-		<item>
-			<title>[김장현의 테크와 사람] 〈110〉AI와 책임</title>
-			<link>https://www.etnews.com/20261001000119</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000119</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[“다음 주 헝가리로 해외출장 갈 수 있게 준비해 줘.” 이 한마디를 들은 인공지능(AI)이 항공권을 검색하고, 가격과 환불 조건을 비교해 표를 만들고, 숙소를 예약한 뒤 회의 참석자들의 일정까지 조율하는 시대다. 질문에 답변하는 수준을 넘어, 실제 업무를 처리하는 'AI 에이전트'의 시대다. 반복 업무는 줄고, 사람은 더 중요한 판단에 집중할 수 있다는 기대도 크다. 그러나 편리함의 그림자도 뚜렷하다. AI가 환불 불가능한 항공권을 잘못 구매했...]]></description>
-		</item>
-		<item>
-			<title>[인사] 하이브랩그룹</title>
-			<link>https://www.etnews.com/20261001000399</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000399</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 15:30:57 +0900</pubDate>
-			<description><![CDATA[◆하이브랩그룹 ◇승진 △하이브랩 전무이사 문상준 △하이브랩 상무이사 배상철 △하이브랩 상무이사 정민화 △하이브랩 상무이사 CFO 손정현 △하이브랩 이사 CHO 김현우 ◇신규 선임 △하이브랩 감사위원회 직속 전무이사 김인욱...]]></description>
-		</item>
-		<item>
-			<title>국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안</title>
-			<link>https://www.etnews.com/20261001000397</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000397</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 15:29:39 +0900</pubDate>
-			<description><![CDATA[미국 빅테크를 중심으로 제기된 인공지능(AI) 개발 속도조절론에 국가AI전략위원회가 속도조절이 아닌 신속한 대응을 꺼내들었다. 글로벌 AI 3대 강국 도약을 목표로 미국과 중국을 추격하고 3위권 그룹과 경쟁해야 하는 상황을 고려, 프런티어 AI 모델 개발 등 자체 역량을 키우면서 검증·통제 등 보안 속도를 더 빠르게 높이겠다는 구상이다. 하정우 국가AI전략위 상근 부위원장은 1일 'AI 개발 속도조절론 관련 세미나'를 열고 “AI 기술 발전으로...]]></description>
 		</item>
 	</channel>
 </rss>
