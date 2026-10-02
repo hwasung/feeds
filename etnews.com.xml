@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 02 Oct 2026 10:00:55 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2026 10:41:20 +0900</lastBuildDate>
+		<item>
+			<title>더존비즈온, &apos;원 AI PE&apos;로 서울시 행정지원 AI 에이전트 구현</title>
+			<link>https://www.etnews.com/20261002000051</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000051</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 09:56:15 +0900</pubDate>
+			<description><![CDATA[더존비즈온이 서울시 '행정지원 인공지능(AI) 에이전트 구축' 사업에 생성형 AI 플랫폼 '원 AI 프라이빗 에디션(PE)'을 공급한다. 해당 사업에서 AI 플랫폼을 제공하고 에이전트 구현 핵심 기술 기반을 책임진다. 지난해 서울시 생성형 AI 행정 플랫폼 '챗봇 2.0' 구축 사업에 이어 2년 연속 참여다. 이번 사업은 서울시의 행정지원 AI 에이전트 운영을 위한 공통 기반 환경 구축, 업무별 AI 에이전트 시범 구축, AI 인프라 증설, 확...]]></description>
+		</item>
 		<item>
 			<title>&apos;기업가치 2조 달러&apos; 앤트로픽, 11월 중순 상장 추진</title>
 			<link>https://www.etnews.com/20261002000023</link>
@@ -258,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 01 Oct 2026 15:29:39 +0900</pubDate>
 			<description><![CDATA[미국 빅테크를 중심으로 제기된 인공지능(AI) 개발 속도조절론에 국가AI전략위원회가 속도조절이 아닌 신속한 대응을 꺼내들었다. 글로벌 AI 3대 강국 도약을 목표로 미국과 중국을 추격하고 3위권 그룹과 경쟁해야 하는 상황을 고려, 프런티어 AI 모델 개발 등 자체 역량을 키우면서 검증·통제 등 보안 속도를 더 빠르게 높이겠다는 구상이다. 하정우 국가AI전략위 상근 부위원장은 1일 'AI 개발 속도조절론 관련 세미나'를 열고 “AI 기술 발전으로...]]></description>
-		</item>
-		<item>
-			<title>신한은행 2만5000명 고객정보 유출…AI봇 웹공격 가능성</title>
-			<link>https://www.etnews.com/20261001000357</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000357</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 14:43:45 +0900</pubDate>
-			<description><![CDATA[신한은행에서 약 2만5000명의 고객정보가 유출됐다. 공격자는 신한은행 웹 보안 허점을 파고들어 인증 절차를 우회한 뒤 대출 관련 고객정보에 접근한 것으로 알려졌다. 공격 과정에서 인공지능(AI) 봇을 활용해 취약한 지점을 자동으로 찾았을 가능성도 제기된다. 신한은행은 외부에서 인증을 우회하는 비정상적인 방법으로 일부 시스템에 접근해 고객의 개인·신용정보를 유출한 사실을 확인했다고 1일 밝혔다. 현재까지 약 2만5000여명 고객정보가 유출된 것...]]></description>
 		</item>
 	</channel>
 </rss>
