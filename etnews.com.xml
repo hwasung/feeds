@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 02 Oct 2026 14:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2026 16:00:47 +0900</lastBuildDate>
+		<item>
+			<title>“AI 강국, 모델 확보만으론 안 돼…건강한 SW 생태계 뒷받침돼야”</title>
+			<link>https://www.etnews.com/20261002000186</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000186</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 15:11:14 +0900</pubDate>
+			<description><![CDATA[“독파모를, 프론티어 모델을 갖는다고 한국이 3대 인공지능(AI) 강국이 되는 것이 아닙니다. 글로벌에서 돈을 버는 기업들이 많아질 때 자연스럽게 AI 3대 강국이 될 수 있습니다.” 2일 더그랜드롯데 서울에서 열린 '2026 한국상용인공지능소프트웨어협회(KOSW) 포럼'에서 발제를 맡은 김숙경 KAIST 교수가 이같이 말했다. AI 시대에도 살아남는 기업들을 만들기 위한 산업 생태계를 만들어야 한다는 진단이다. 이날 포럼에서는 정부의 AI 투...]]></description>
+		</item>
 		<item>
 			<title>공공정보시스템 1시간내 복구...국정자원 대전센터 폐쇄</title>
 			<link>https://www.etnews.com/20261002000140</link>
@@ -261,15 +270,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 01 Oct 2026 16:03:12 +0900</pubDate>
 			<description><![CDATA[◆한화생명 ◇신규 임원 승진 △김상재 △김종원 △김혜미 △민병문 △박기우 △백제민 △송종혁 △이상철 △장윤한 △전승진 △조규삼 △최강석 ◆한화생명금융서비스 ◇신규 임원 승진 △백승호...]]></description>
-		</item>
-		<item>
-			<title>[르포]실험실 나온 자율주행…中 광저우 도심서 &apos;돈 버는 로보택시&apos;로</title>
-			<link>https://www.etnews.com/20260930000454</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000454</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[중국 광저우타워 동쪽 입구에서 하이주 트램 난펑역까지 약 3㎞. 포니AI의 완전 무인 로보택시를 타고 광저우 하이주구 도심을 달렸다. 가장 놀라웠던 건 '운전자가 없다'는 사실보다 차량이 사람처럼 주변 상황에 적절히 대응하는 능숙함이었다. 차량과 보행자가 뒤엉킨 광저우타워 1층도 어려움 없이 통과했다. 30개 이상 센서를 기반으로 오히려 사람보다 더 면밀히 주변 상황을 파악하고 대처했다. 또, 주행 중 장애물이 나타나면 차선을 고집하지 않고 필...]]></description>
 		</item>
 	</channel>
 </rss>
