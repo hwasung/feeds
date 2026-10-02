@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 02 Oct 2026 17:01:36 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2026 18:02:12 +0900</lastBuildDate>
+		<item>
+			<title>로민 &apos;다큐먼트 AI 플랫폼&apos;, KISA 클라우드 보안인증 획득</title>
+			<link>https://www.etnews.com/20261002000211</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000211</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 16:49:09 +0900</pubDate>
+			<description><![CDATA[로민의 인공지능(AI) 에이전트 플랫폼 '로민(Lomin)'이 다큐먼트 AI 업계 최초로 한국인터넷진흥원(KISA) 클라우드 서비스 보안인증(CSAP) SaaS 표준등급을 획득했다. 로민은 그동안 공공기관에 구축형으로 다큐먼트 AI를 공급했지만 이제 클라우드 형태로도 제공할 수 있게 됐다. CSAP는 KISA가 클라우드 서비스 정보보호 기준 준수 여부를 평가·인증하는 제도다. 공공 클라우드 시장 진입 핵심 요건으로 꼽힌다. 공공기관은 별도 시스...]]></description>
+		</item>
 		<item>
 			<title>이해민 AI수석 “부처 간 칸막이 없애야”…CAIO협의회 첫 주재</title>
 			<link>https://www.etnews.com/20261002000206</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[“인공지능(AI)이 더 똑똑해지면 도시와 시민의 삶은 무엇이 달라지는가.” AI가 질문에 답하는 것을 넘어 사람 곁에서 움직이고 도시의 문제를 직접 해결하기 시작했다. 휴머노이드 로봇이 사람과 같은 공간에서 일하고, 자율주행차가 스스로 도로를 달린다. AI는 한강의 수질을 분석하고 방대한 행정문서를 읽고 시민의 질문에 답한다. 이런 변화를 한자리에서 보여주는 행사가 열린다. AI가 디지털 공간을 벗어나 현실 세계와 결합하는 '피지컬 AI' 시대...]]></description>
-		</item>
-		<item>
-			<title>[사설] 대미 투자, 수익·성과로만 말하라</title>
-			<link>https://www.etnews.com/20261001000392</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000392</guid>
-			<author>논설위원실</author>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[2000억 달러 규모 대미 전략투자 실행 청사진이 마침내 베일을 벗었다. 한미 간 교역 규모와 굳건한 전략적 우호 관계, 글로벌 공급망 재편 흐름을 고려할 때 일정 규모 이상의 투자는 불가피한 선택이다. 인공지능(AI) 패권 선점을 위한 미국의 전력망 확충 수요에 우리 자본과 세계 최고 수준의 원자력·가스 발전소 시공 경쟁력이 결합하는 것은 산업적 명분도 뚜렷하다. 그러나 한국 시간으로 1일 새벽 일종의 수혜국이라 할 수 있는 미국 도널드 트럼...]]></description>
 		</item>
 	</channel>
 </rss>
