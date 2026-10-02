@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 02 Oct 2026 13:00:46 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2026 14:00:42 +0900</lastBuildDate>
+		<item>
+			<title>공공정보시스템 1시간내 복구...국정자원 대전센터 폐쇄</title>
+			<link>https://www.etnews.com/20261002000140</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000140</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 02 Oct 2026 13:01:38 +0900</pubDate>
+			<description><![CDATA[정부가 지난해 국가정보자원관리원 대전센터 화재로 발생한 대규모 전산 장애가 되풀이되지 않도록 핵심 공공 정보시스템의 재해복구(DR) 체계를 강화한다. 중요도가 높은 시스템은 재난이 발생해도 1시간 안에 복구할 수 있게 하는 등 정보시스템 전반의 복원력을 높인다는 방침이다. 행정안전부는 2일 이런 내용의 '정보시스템 안정성 강화 추진현황 및 향후 계획'을 발표했다. 지난해 9월 26일 화재 이후 추진해온 안정성 강화 대책의 후속 조치다. 행안부는...]]></description>
+		</item>
 		<item>
 			<title>[기고] 복잡해지는 차량 내 무선 환경, UWB 안정성 높이는 필터 기술</title>
 			<link>https://www.etnews.com/20261002000104</link>
@@ -261,14 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 01 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[중국 광저우타워 동쪽 입구에서 하이주 트램 난펑역까지 약 3㎞. 포니AI의 완전 무인 로보택시를 타고 광저우 하이주구 도심을 달렸다. 가장 놀라웠던 건 '운전자가 없다'는 사실보다 차량이 사람처럼 주변 상황에 적절히 대응하는 능숙함이었다. 차량과 보행자가 뒤엉킨 광저우타워 1층도 어려움 없이 통과했다. 30개 이상 센서를 기반으로 오히려 사람보다 더 면밀히 주변 상황을 파악하고 대처했다. 또, 주행 중 장애물이 나타나면 차선을 고집하지 않고 필...]]></description>
-		</item>
-		<item>
-			<title>[정구민의 테크읽기] 플랫폼 주도권 경쟁을 가속하는 AI에이전트의 진화</title>
-			<link>https://www.etnews.com/20261001000139</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000139</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 01 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[최근 AI에이전트는 인공지능(AI) 산업 경쟁 뿐만 아니라 플랫폼 산업 경쟁 측면에서도 중요한 이슈로 부각되고 있다. AI의 새로운 먹거리로 급부상하는 동시에 AI에이전트에 대한 권한과 보안, AI와 플랫폼 업계간 주도권 경쟁 등 다양한 과제도 남기고 있다. 선풍적인 인기를 끌고 있는 메타의 개인용 AI에이전트 뮤즈와 AI에이전트의 플랫폼 접근에 대한 아마존과 퍼를렉시티의 분쟁, 엔비디아의 AI에이전트 보안 플랫폼 등은 최근 AI에이전트의 성장...]]></description>
 		</item>
 	</channel>
 </rss>
