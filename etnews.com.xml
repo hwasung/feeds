@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 03 Oct 2026 11:00:43 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 03 Oct 2026 15:00:37 +0900</lastBuildDate>
+		<item>
+			<title>AI가 금융권 취약점 훑었다…은행 해킹 피해 &apos;속출&apos;</title>
+			<link>https://www.etnews.com/20261003000032</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261003000032</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 03 Oct 2026 13:56:15 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 것으로 의심되는 해킹 공격이 국내 금융권 전반으로 확산하고 있다. 지난 1일 신한은행 고객정보 유출 사고 이후 은행들이 점검에 나서면서 KB국민은행과 하나은행, BNK부산은행의 추가 피해 사실도 속속 확인됐다. 3일 보안업계에 따르면 최근 금융권을 겨냥한 공격 과정에서는 AI를 활용해 취약점 탐색과 공격 절차를 자동화하는 도구가 동원된 정황이 포착됐다는 주장이 제기됐다. 신한은행 공격 서버에서 발견된 중국어 기반 AI...]]></description>
+		</item>
 		<item>
 			<title>비젠트로, &apos;2026년 경기가족친화 일하기 좋은 기업&apos; 선정…“기술 혁신 넘어 &apos;사람 중심&apos; 기업문화 입증”</title>
 			<link>https://www.etnews.com/20261003000028</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 01 Oct 2026 17:12:07 +0900</pubDate>
 			<description><![CDATA[업스테이지는 경량언어모델(SLM) '솔라 미니 4'를 공개했다고 1일 밝혔다. '솔라 미니 4'는 적은 연산량으로 고성능·고효율을 구현한 것이 특징이다. 전체 350억개 매개변수에 전문가혼합(MoE) 구조를 적용해 실제 추론 시에는 30억개만 선택적으로 활성화한다. 성능은 활성 매개변수(파라미터) 30억개 규모 소형 모델 가운데 최고 수준을 기록했다. 글로벌 AI 평가기관 아티피셜 애널리시스의 '인텔리전스 인덱스(AAII)'에서 종합 24점을...]]></description>
-		</item>
-		<item>
-			<title>가트너 “AI로 대체된 인력 30%, 재고용될 것…&apos;AI 레디&apos; 인재 필요”</title>
-			<link>https://www.etnews.com/20261001000456</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000456</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 17:09:56 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 활용이 확산하는 가운데 과도한 인력 감축이 기업 경쟁력을 약화시킬 수 있다는 분석이 나왔다. 단기적 비용 절감보다 인재·지식 유출로 향후 채용·교육 비용이 더 커질 수 있다는 지적이다. 가트너가 1일 발표한 '2026년 미래 업무 환경 하이프 사이클'에 따르면 2029년까지 AI로 직무가 대체돼 해고된 직원 가운데 30%를 기업이 재고용할 것으로 전망된다. 이 과정에서 기존보다 더 많은 채용·교육 비용이 발생할 것으로 예상된다....]]></description>
 		</item>
 	</channel>
 </rss>
