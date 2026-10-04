@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 04 Oct 2026 15:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2026 07:01:05 +0900</lastBuildDate>
+		<item>
+			<title>2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응</title>
+			<link>https://www.etnews.com/20261004000031</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261004000031</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 04 Oct 2026 23:59:35 +0900</pubDate>
+			<description><![CDATA[과학기술정보통신부가 최근 발생한 금융권 해킹 사고 관련 한국인터넷진흥원(KISA)과 긴급 대응체계를 가동한다. 유사 사고 확산을 방지하기 위한 총력 대응 차원이다. 현재 금융권 해킹사고는 금융위원회·금융감독원·금융보안원 중심 조사·대응이 이뤄지고 있다. 과기정통부와 KISA는 유사 공격 민간 분야 확산과 추가 피해 방지를 위한 사이버 위협 대응을 강화하고 있다. 금융권에서 발생한 해킹으로 추가 피해 가능성에 신속 대응할 수 있도록 KISA 인터...]]></description>
+		</item>
 		<item>
 			<title>금융위, 연쇄 해킹사태에 全금융권 소집…“유사 사고시 엄정 책임”</title>
 			<link>https://www.etnews.com/20261004000019</link>
@@ -257,15 +266,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 02 Oct 2026 08:17:37 +0900</pubDate>
 			<description><![CDATA[국방정보통신협회와 명지대학교 방산안보연구소가 제로트러스트 기반 신원관리와 데이터 중심 보안을 핵심으로 공동 연구와 정책 협력에 나선다. 국방정보통신협회(회장 신인섭)와 명지대학교 방산안보연구소(소장 류연승)는 30일 군인공제회 C&C에서 업무협약(MOU)을 체결하고 '국방 AI 혁신을 뒷받침하는 보안 현대화 이니셔티브'를 주제로 학술 세미나를 공동 개최했다. 이번 행사는 국방 분야의 AI 도입 확대에 맞춰 군 핵심 데이터를 보호하고 산·학·군...]]></description>
-		</item>
-		<item>
-			<title>美 캘리포니아주, 오픈AI에 소환장…AI 안정성 조사</title>
-			<link>https://www.etnews.com/20261002000002</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000002</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 02 Oct 2026 08:04:05 +0900</pubDate>
-			<description><![CDATA[미국 캘리포니아주 당국이 오픈AI를 상대로 인공지능(AI) 안전성 관련 조사에 나섰다. 1일(현지시간)　캘리포니아주 법무장관실은 오픈AI에 사이버 보안 사고 조사를 위한 소환장을 발부했다고 밝혔다. 이는 오픈AI의 이른바 '불량 에이전트'가 외부 기관인 허깅페이스를 해킹한 사건에 대한 조사의 일환이다. 롭 본타 법무장관은 “오픈AI에 사이버 보안 사고와 위험에 대한 추가 질의를 할 예정”이라며 “최첨단 AI 모델은 사이버 방어를 위한 정당한 도...]]></description>
 		</item>
 	</channel>
 </rss>
