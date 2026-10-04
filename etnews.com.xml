@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 03 Oct 2026 15:00:37 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 04 Oct 2026 10:00:42 +0900</lastBuildDate>
+		<item>
+			<title>[관망경]국가 AI 인프라 지도 재설계하자</title>
+			<link>https://www.etnews.com/20261001000278</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261001000278</guid>
+			<author>정용철</author>
+			<category>오피니언</category>
+			<pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[국제전기통신연합(ITU)은 올해 '세계 전기통신정보사회의 날(5월 17일)' 주제를 '디지털 생명선(Digital lifelines)'으로 정했다. 지상망, 해저케이블, 위성, 데이터센터를 디지털 경제를 지탱하는 핵심 인프라로 규정하고, 세계가 생명선을 탄탄하게 만들기 위해 노력해야 한다고 강조했다. ITU는 디지털 생명선이 뻗어나가기 위해선 그동안 지상망에 집중됐던 자원과 정책이 해저케이블, 위성망으로 확대될 필요가 있다고 제언했다. 해저케이...]]></description>
+		</item>
 		<item>
 			<title>AI가 금융권 취약점 훑었다…은행 해킹 피해 &apos;속출&apos;</title>
 			<link>https://www.etnews.com/20261003000032</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 01 Oct 2026 17:26:07 +0900</pubDate>
 			<description><![CDATA[한국딥러닝은 문서 분석 인공지능(AI) 에이전트 '딥 에이전트' 모바일 앱을 출시했다고 1일 밝혔다. 딥 에이전트는 현장에서 촬영한 이미지에서 필요한 텍스트와 항목, 표 정보를 추출·구조화하는 AI 솔루션이다. 문서 분석 솔루션 '딥 OCR'과 '딥 파서' 기반으로 기업 AI와 업무 시스템이 활용할 수 있는 데이터로 변환한다. 모바일 앱 출시로 문서 데이터 활용 범위를 현장까지 확대했다. 직원이 스마트폰으로 문서, 모니터 화면, 계량기, 명함...]]></description>
-		</item>
-		<item>
-			<title>업스테이지, 소형 LLM &apos;솔라 미니 4&apos; 공개…350억 파라미터 규모</title>
-			<link>https://www.etnews.com/20261001000457</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261001000457</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 01 Oct 2026 17:12:07 +0900</pubDate>
-			<description><![CDATA[업스테이지는 경량언어모델(SLM) '솔라 미니 4'를 공개했다고 1일 밝혔다. '솔라 미니 4'는 적은 연산량으로 고성능·고효율을 구현한 것이 특징이다. 전체 350억개 매개변수에 전문가혼합(MoE) 구조를 적용해 실제 추론 시에는 30억개만 선택적으로 활성화한다. 성능은 활성 매개변수(파라미터) 30억개 규모 소형 모델 가운데 최고 수준을 기록했다. 글로벌 AI 평가기관 아티피셜 애널리시스의 '인텔리전스 인덱스(AAII)'에서 종합 24점을...]]></description>
 		</item>
 	</channel>
 </rss>
