@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 05 Oct 2026 17:00:45 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2026 18:01:02 +0900</lastBuildDate>
+		<item>
+			<title>[사설] 고용영향평가, 일자리 예측 초점 둬야</title>
+			<link>https://www.etnews.com/20261005000093</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000093</guid>
+			<author>이진호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[국가정책에 따른 일자리 흐름과 수요를 미리 따져보고 대비하기 위해 도입된 '고용영향평가' 제도가 본연의 기능을 상실한 채 헛돌고 있다. 최근 5년간 진행된 평가의 80%가량이 정책 집행 중이거나 이미 사업이 끝난 뒤에야 이뤄진 전형적인 사후 약방문식인 것으로 나타났다. 정책 시행 전에 선제적으로 인력 수요를 예측하는 사전평가 비중은 2013~2019년 26.5%에서 최근 5년간(2020~2024년) 10.3% 수준까지 쪼그라들었다. 미래 산업...]]></description>
+		</item>
+		<item>
+			<title>[신SW상품대상 6·8월 수상작] 심사평</title>
+			<link>https://www.etnews.com/20261005000094</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000094</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[6월 일반소프트웨어(SW) 부문 수상 제품인 빅웨이브로보틱스의 '솔링크'는 이기종·다종 로봇과 현장 인프라를 하나의 환경에서 통합 관리·운영할 수 있도록 지원하는 로봇 통합관제·운영 플랫폼이다. 이 제품은 다양한 제조사의 로봇을 단일 시스템에서 연결·관리하고, 기존 시스템과의 연동을 통해 로봇 운영 환경을 통합할 수 있는 것이 특징이다. 또한 노코드 기반의 작업 과정 설계와 운영 자동화 기능을 제공하며, 통합관제·원격지원·운영 데이터 분석 등을...]]></description>
+		</item>
 		<item>
 			<title>[신SW상품대상 8월 수상작] 파프리카데이터랩 &apos;왈라&apos;</title>
 			<link>https://www.etnews.com/20261005000099</link>
@@ -49,15 +67,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[빅웨이브로보틱스의 '솔링크(SOLlink)'가 신소프트웨어(SW)상품대상 일반SW 부문을 수상했다. 이 제품은 제조사가 다른 여러 로봇과 현장 설비를 하나의 운영 환경에서 관리하는 인공지능(AI) 에이전트 기반 통합관제·운영 플랫폼이다. 글로벌 주요 브랜드 로봇 40여 종과 연동되며, 고객이 사용 중인 기존 시스템과도 연결할 수 있다. 클라우드 기반으로 로봇 도입부터 운영·유지보수까지 총소유비용(TCO)을 줄이는 데 초점을 맞췄다. 별도의 코딩...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 6·8월 수상작] 심사평</title>
-			<link>https://www.etnews.com/20261005000094</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000094</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[6월 일반소프트웨어(SW) 부문 수상 제품인 빅웨이브로보틱스의 '솔링크'는 이기종·다종 로봇과 현장 인프라를 하나의 환경에서 통합 관리·운영할 수 있도록 지원하는 로봇 통합관제·운영 플랫폼이다. 이 제품은 다양한 제조사의 로봇을 단일 시스템에서 연결·관리하고, 기존 시스템과의 연동을 통해 로봇 운영 환경을 통합할 수 있는 것이 특징이다. 또한 노코드 기반의 작업 과정 설계와 운영 자동화 기능을 제공하며, 통합관제·원격지원·운영 데이터 분석 등을...]]></description>
 		</item>
 		<item>
 			<title>[人사이트] 이준호 크라우드웍스 부사장 “에이전틱 AI 시대, 구조화된 데이터가 핵심”</title>
@@ -260,14 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Sun, 04 Oct 2026 14:14:23 +0900</pubDate>
 			<description><![CDATA[쿠콘은 국내 대표 데이터 플랫폼에서 AI 기반 데이터, 글로벌 페이, 스테이블코인 등 신사업을 통해 새로운 도전을 펼처가고 있습니다. IT 산업의 방향을 제시해 온 미래모임 30년 뜻을 함께하며, 핀테크 산업 발전에 책임 있는 역할을 다하겠습니다....]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임 30년] 100자 메시지- 김정하 LS티라유텍 대표</title>
-			<link>https://www.etnews.com/20261004000016</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261004000016</guid>
-			<category>오피니언</category>
-			<pubDate>Sun, 04 Oct 2026 14:10:39 +0900</pubDate>
-			<description><![CDATA[정보통신 미래모임 창립 30주년을 축하합니다. LS티라유텍은 AI·로봇 기반 스마트팩토리 혁신으로 제조업의 미래를 열고, 회원사와 함께 성장하며 대한민국 산업 경쟁력 강화에 앞장서겠습니다....]]></description>
 		</item>
 	</channel>
 </rss>
