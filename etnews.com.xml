@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 05 Oct 2026 07:01:05 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2026 11:00:40 +0900</lastBuildDate>
+		<item>
+			<title>“AI 시대 SW 생태계 재설계해야”…SW 업계, 대대적 개선 촉구</title>
+			<link>https://www.etnews.com/20261005000050</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000050</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 10:11:17 +0900</pubDate>
+			<description><![CDATA[정부의 인공지능(AI) 투자 확대가 산업 경쟁력으로 이어지려면 이를 활용하는 소프트웨어(SW) 기업과 시장 기반이 함께 성장해야 한다는 지적이 지속 제기된다. 특히 공공 SW 시장은 일회성 사업과 커스터마이징 구축 구조에서 벗어나 전문 SW기업이 기술과 제품을 지속적으로 축적하고 성장할 수 있는 시장으로 만들어야 한다는 주문이다. 5일 업계에 따르면 SW 전문가들 중심으로 이 같은 공감대가 확산되고 있다. 김숙경 KAIST 교수는 최근 한국상용...]]></description>
+		</item>
+		<item>
+			<title>한글과컴퓨터재단, 12개국 &apos;다문화 어울림 캠프&apos; 성료…500여명 참석</title>
+			<link>https://www.etnews.com/20261005000048</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000048</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 10:09:39 +0900</pubDate>
+			<description><![CDATA[한글과컴퓨터재단은 지난 4일부터 5일까지 개최한 '다문화 어울림 캠프:함께하는 즐거움'을 성료했다고 5일 밝혔다. 경기도 가평 청리움에서 열린 이번 캠프는 한글과컴퓨터재단이 설립 후 처음으로 주최한 공식 행사다. 김상철 한컴그룹 회장이 5년 전부터 이어온 다문화가족 지원 활동을 재단 차원으로 확대한 것이다. 올해 상반기에 이어 두 번째로 열렸다. 중국, 베트남, 필리핀 등 12개국 출신의 수도권 다문화가족과 함께 국제로타리 3640지구 및 우문...]]></description>
+		</item>
+		<item>
+			<title>이파피루스, IBM·글로벌 기술 넘어섰다…AI 문서 파싱 기술 경쟁력 입증</title>
+			<link>https://www.etnews.com/20261002000157</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261002000157</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 10:00:00 +0900</pubDate>
+			<description><![CDATA[문서 인공지능(AI) 전문 기업 이파피루스(대표 김정희)는 문서를 생성형 AI가 이해하고 활용할 수 있는 데이터로 변환하는 AI 문서 파싱 분야에서 글로벌 벤치마크 '파스 벤치(ParseBench)'에서 글로벌 기업을 제치고 기술 경쟁력을 입증했다고 5일 밝혔다. PyMuPDF4LLM은 글로벌 누적 다운로드 11억 건을 돌파한 오픈소스 라이브러리 'PyMuPDF'의 LLM 전처리 특화 버전이다. 대규모 언어 모델(LLM) 프레임워크 기업 라마인...]]></description>
+		</item>
 		<item>
 			<title>2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응</title>
 			<link>https://www.etnews.com/20261004000031</link>
@@ -239,33 +266,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 02 Oct 2026 08:58:39 +0900</pubDate>
 			<description><![CDATA[유라클(대표 조준희·권태일)은 '인간-AI 협업형 LAM 개발·글로벌 실증' 사업에 공동연구개발기관으로 참여한다고 2일 밝혔다. 구체적 과제명은 '제조 데이터 신뢰성 확보 및 전주기 통합 운영 플랫폼 기술 개발'이다. 공장에서 만들어지는 데이터를 믿고 쓸 수 있게 정리하고, 이 데이터를 활용하는 여러 AI를 하나의 체계로 운영하는 기술을 만드는 것이 목표다. 메가존 클라우드가 주관기관을 맡고 유라클이 공동연구개발기관으로 참여한다. 연구 기간은...]]></description>
-		</item>
-		<item>
-			<title>“클라우드로 전환하세요” 가비아, 마이그레이션 비용 전액 지원</title>
-			<link>https://www.etnews.com/20261002000017</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000017</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 02 Oct 2026 08:46:22 +0900</pubDate>
-			<description><![CDATA[가비아(대표 김홍국·원종홍)는 다음달 30일까지 자사 클라우드로 전환하는 기업 고객에 마이그레이션 비용을 전액 지원하는 행사를 진행한다고 2일 밝혔다. 클라우드 전환에는 기존 데이터와 시스템을 새 환경으로 옮기는 마이그레이션이 필요하다. 이 과정에서 생기는 데이터 유실, 서비스 중단 위험, 이전 비용은 클라우드 전환을 미루는 주요 요인이 됐다. 가비아는 이 같은 부담을 낮추고 클라우드 전환을 촉진하기 위해 마이그레이션 비용 전액 지원을 준비했다...]]></description>
-		</item>
-		<item>
-			<title>씨에스리, &apos;산업AI EXPO 2026&apos; 참가…데이터 분석·품질검사 AI 선봬</title>
-			<link>https://www.etnews.com/20261002000010</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000010</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 02 Oct 2026 08:27:35 +0900</pubDate>
-			<description><![CDATA[AI·데이터 전문기업 씨에스리가 산업 현장의 데이터 분석과 제조 품질검사를 자동화하는 AI 솔루션을 선보인다. 자연어로 데이터 분석 과정을 수행하는 AI 에이전트부터 별도 라벨링 없이 제조 품질검사 모델을 구축하는 비전 AI까지 실제 업무에 적용할 수 있는 기술을 집중 소개한다. 씨에스리(대표 이춘식)는 오는 21일부터 23일까지 일산 킨텍스 전시장에서 열리는 '산업AI EXPO 2026'에 참가해 AI 기반 데이터 분석 자동화 솔루션 '빅재미...]]></description>
-		</item>
-		<item>
-			<title>국방정보통신협회-명지대, 국방 AI 보안 현대화 협력</title>
-			<link>https://www.etnews.com/20261002000005</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000005</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 02 Oct 2026 08:17:37 +0900</pubDate>
-			<description><![CDATA[국방정보통신협회와 명지대학교 방산안보연구소가 제로트러스트 기반 신원관리와 데이터 중심 보안을 핵심으로 공동 연구와 정책 협력에 나선다. 국방정보통신협회(회장 신인섭)와 명지대학교 방산안보연구소(소장 류연승)는 30일 군인공제회 C&C에서 업무협약(MOU)을 체결하고 '국방 AI 혁신을 뒷받침하는 보안 현대화 이니셔티브'를 주제로 학술 세미나를 공동 개최했다. 이번 행사는 국방 분야의 AI 도입 확대에 맞춰 군 핵심 데이터를 보호하고 산·학·군...]]></description>
 		</item>
 	</channel>
 </rss>
