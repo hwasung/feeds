@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 05 Oct 2026 14:00:39 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2026 15:00:41 +0900</lastBuildDate>
+		<item>
+			<title>[이슈플러스] 핵심망 지켜도 안심 못한다…외곽 시스템이 보안 &apos;약한 고리&apos;</title>
+			<link>https://www.etnews.com/20261005000113</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000113</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 13:39:46 +0900</pubDate>
+			<description><![CDATA[최근 금융권 침해 사고에서 인터넷·모바일뱅킹 등 핵심 금융거래망이 직접 침해된 정황은 확인되지 않았다. 그러나 대출모집인·임직원용 웹페이지와 업무지원 시스템 등 핵심망 밖의 외부 접점에서 개인정보 유출이 잇따랐다. 핵심 시스템을 안전하게 지키더라도 주변 시스템에 남은 작은 빈틈 하나가 실제 피해로 이어질 수 있다는 점이 확인됐다. 신한은행은 대출모집인 전용 서비스, KB국민은행은 직원용 모바일 업무지원 시스템, 하나은행은 영업지원시스템(ODS)...]]></description>
+		</item>
+		<item>
+			<title>[이슈플러스] 금융권서 현실화한 AI 해킹…전 산업 보안 &apos;비상&apos;</title>
+			<link>https://www.etnews.com/20261005000112</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000112</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 13:39:27 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 해킹이 더 이상 예고된 위협이 아니라 현실의 공격 수단으로 등장했다. 금융권 연쇄 침해 사고는 AI가 취약점 탐색부터 공격 실행까지 자동화하면서 특정 산업을 넘어 모든 기업의 보안체계를 흔들 수 있다는 경고를 던지고 있다. ◇금융사 취약점 훑었다 최근 금융권 침해 사고에서는 AI 도구를 활용한 공격 정황이 포착돼 AI 위협이 현실로 다가왔다는 충격을 던졌다. 지난 주말 신한·KB국민·하나·BNK부산은행과 예가람·웰컴저축...]]></description>
+		</item>
+		<item>
+			<title>오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”</title>
+			<link>https://www.etnews.com/20261005000111</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261005000111</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 05 Oct 2026 13:36:32 +0900</pubDate>
+			<description><![CDATA[오픈AI의 인공지능(AI) 안전 보고서 작성을 이끌어온 직원이 AI가 통제력을 상실할 경우 원전 사고보다 큰 피해가 발생할 수 있다고 경고하며 회사를 떠났다. 데이비드 로빈슨 전 오픈AI 안전 담당 직원은 3일(현지시간) 미국 시사월간지 디애틀랜틱 기고문을 통해 “AI 통제력 상실의 피해는 단일 원자로 노심용융 사고보다 훨씬 클 것”이라며 “AI 기업들이 이 기술을 충분히 신중하게 개발하고 있지 않다”고 지적했다. 로빈슨은 “오픈AI를 비롯한...]]></description>
+		</item>
 		<item>
 			<title>[단독] 금융권 덮친 AI 해킹…&apos;1달러&apos;면 가능했다</title>
 			<link>https://www.etnews.com/20261005000110</link>
@@ -241,32 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 02 Oct 2026 17:51:55 +0900</pubDate>
 			<description><![CDATA[강원대학교 강원AX센터는 2일 호텔인터불고 원주에서 '강원AX 비전 세미나 및 네트워킹 데이'를 개최했다. 기존 강원지능화혁신센터의 명칭을 강원AX센터로 변경한 취지를 알리고, 지역 산업의 인공지능 전환(AX)을 위한 비전과 협력 방향을 공유하기 위해 마련한 자리다. 강원대 춘천캠퍼스와 원주캠퍼스는 2023년부터 지역지능화혁신인재양성사업을 함께 추진해 왔다. 대학 통합 이후 강원AX센터는 양 캠퍼스의 연구·인재양성 역량을 하나의 추진 기반으로...]]></description>
-		</item>
-		<item>
-			<title>로민 &apos;다큐먼트 AI 플랫폼&apos;, KISA 클라우드 보안인증 획득</title>
-			<link>https://www.etnews.com/20261002000211</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000211</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 02 Oct 2026 16:49:09 +0900</pubDate>
-			<description><![CDATA[로민의 인공지능(AI) 에이전트 플랫폼 '로민(Lomin)'이 다큐먼트 AI 업계 최초로 한국인터넷진흥원(KISA) 클라우드 서비스 보안인증(CSAP) SaaS 표준등급을 획득했다. 로민은 그동안 공공기관에 구축형으로 다큐먼트 AI를 공급했지만 이제 클라우드 형태로도 제공할 수 있게 됐다. CSAP는 KISA가 클라우드 서비스 정보보호 기준 준수 여부를 평가·인증하는 제도다. 공공 클라우드 시장 진입 핵심 요건으로 꼽힌다. 공공기관은 별도 시스...]]></description>
-		</item>
-		<item>
-			<title>이해민 AI수석 “부처 간 칸막이 없애야”…CAIO협의회 첫 주재</title>
-			<link>https://www.etnews.com/20261002000206</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000206</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 02 Oct 2026 16:22:59 +0900</pubDate>
-			<description><![CDATA[“기업 현장과 국회에서 공통적으로 느낀 것은 좋은 정책이 있어도 부처 사이 칸막이로 속도를 잃게 된다는 것입니다. 부처별 보고를 듣는 데서 그치지 않고 현장 문제를 해결할 수 있게 챙기겠습니다.” 이해민 청와대 AI미래기획수석은 2일 서울 중구 국가인공지능전략위원회에서 열린 제5차 AI책임관협의회(CAIO협의회)에서 “장관급 기관 중심에서 차관급 기관으로 협의회 문이 좀 더 넓어졌다”며 이같이 밝혔다. 이날 회의는 이 수석이 9월 1일 임명된...]]></description>
-		</item>
-		<item>
-			<title>[김종면의 K브랜드 집중탐구]〈45〉팬덤으로 완성한 클래시 페어라이어(FAIRLIAR)</title>
-			<link>https://www.etnews.com/20261002000197</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000197</guid>
-			<category>오피니언</category>
-			<pubDate>Fri, 02 Oct 2026 15:57:41 +0900</pubDate>
-			<description><![CDATA[골프를 즐기는 2030 여성이라면 한 번쯤 들어봤을 이름, 페어라이어. 골프웨어 시장에 감각적인 실루엣과 돋보이는 컬러감으로 주목받는 브랜드다. 소비자들의 입소문만으로 자연스레 팬덤이 형성되었고, 지금은 8개국에 매장을 낸 K-골프웨어의 대표 주자로 성장했다. '골프계의 샤넬'이라는 별칭까지 얻은 페어라이어의 이야기를 들여다보았다. 페어라이어라는 이름은 골퍼라면 익숙한 '페어웨이(Fairway)'와 '거짓말쟁이(Liar)'를 결합한 조어다. 정...]]></description>
 		</item>
 	</channel>
 </rss>
