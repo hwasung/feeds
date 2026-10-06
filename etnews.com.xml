@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 17:00:53 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 18:01:17 +0900</lastBuildDate>
+		<item>
+			<title>[사설] AI해킹, 한차원 높인 방어력 갖춰야</title>
+			<link>https://www.etnews.com/20261006000311</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000311</guid>
+			<author>논설위원실</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[6일 이재명 대통령과 한성숙 국무총리가 연이어 터진 금융·공공 정보 유출 사고와 인공지능(AI) 유관 해킹에 대해 전례 없는 어조로 강력 대응을 주문했다. 이날 하루 국정 최고 책임자들로부터 '정부 최고 단계 경고음'이 동시에 나온 것이다. 이제껏 국가비상사태가 아니면 나오기 힘든 연쇄적인 보안 강화 주문이다. 그만큼 직면한 보안 위협이 자칫 국가급 재앙까지 불러올 수 있을 만큼 위태롭고 엄중한 상황임을 말해준다. 작금의 상황이 유독 우려스러운...]]></description>
+		</item>
+		<item>
+			<title>K-에듀테크, 430억원대 亞·유럽 6개국 수출상담 실적 확보</title>
+			<link>https://www.etnews.com/20261006000236</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000236</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[에듀테크 기업이 아시아·유럽 6개국과 430억원대 수출상담 실적을 확보한 것으로 확인됐다. 6일 한국에듀테크산업협회(KETIA)에 따르면 KETIA와 대한무역투자진흥공사(KOTRA)가 지난달 '에듀테크 코리아 페어 2026'와 연계한 수출상담회 실적을 집계한 결과, 총 3324만달러(약 433억4668만원) 규모 162건의 상담이 진행됐다. 한국 에듀테크 기업 40개사가 스페인·중국(홍콩)·일본·베트남·인도네시아·말레이시아 등 6개국 17개 해...]]></description>
+		</item>
+		<item>
+			<title>[기획]ITCCK·ST “AI 시대 반도체 경쟁력, 전력·용수·자원 관리가 핵심”</title>
+			<link>https://www.etnews.com/20261006000074</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000074</guid>
+			<author>권동준</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 반도체 산업 패러다임을 바꾸고 있다. AI 인프라 확대로 반도체 수요가 빠르게 늘면서 반도체 산업 경쟁력을 결정하는 조건도 달라졌다. 첨단 반도체 설계·생산 기술뿐만 아니라 생산에 필요한 전력과 용수, 원자재를 얼마나 안정적으로 확보하고 효율적으로 사용할 수 있는지가 핵심 과제로 급부상했다. 이탈리아는 한국처럼 원자재 수입 의존도가 높은 제조업 중심 국가다. 이 때문에 자원 회수와 재활용을 산업 경쟁력의 관점에서 오랫동안 발전...]]></description>
+		</item>
 		<item>
 			<title>크리니티, AI FESTA서 &apos;AI Work OS 써팀&apos; 선보여…데이터 플랫폼 기업으로 도약</title>
 			<link>https://www.etnews.com/20261006000384</link>
@@ -225,38 +252,13 @@
 			<description><![CDATA[데이타소프트는 데이터보호와 AI를 기반으로 산업의 변화와 혁신을 선도하겠습니다. 기술의 가치를 현장의 성과로 연결하고, 고객과 사회가 체감할 수 있는 새로운 가치를 창출하며 미래를 함께 만들어가는 기업이 되겠습니다....]]></description>
 		</item>
 		<item>
-			<title>누구나 내려받는 &apos;침투테스트 AI&apos;…악용 땐 공격무기 돌변</title>
+			<title>&apos;침투테스트 AI&apos;로 누구나 보안망 뚫는다</title>
 			<link>https://www.etnews.com/20261006000318</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261006000318</guid>
 			<author>박진형</author>
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 06 Oct 2026 14:47:21 +0900</pubDate>
 			<description><![CDATA[최근 국내 금융권 공격에 악용된 것으로 알려진 '아르텍스(ARTEX)'뿐 아니라 다양한 침투테스트 인공지능(AI)이 누구나 접할 수 있는 오픈소스로 공개된 것으로 나타났다. 초급자라도 소스코드를 수정하면 실제 공격에 활용할 수 있어 보안 위협이 커졌다는 평가다. AI 기반 공격을 전제로 한 취약점 진단이 시급하다. 6일 업계에 따르면 세계 최대 소프트웨어 개발 플랫폼 '깃허브'에는 지난달 바이두 보안대응센터(BSRC) '에이전트+' 공방능력 대...]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임 30년] 100자 메시지- 임현욱 트래벗 대표</title>
-			<link>https://www.etnews.com/20261006000310</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000310</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 06 Oct 2026 14:43:57 +0900</pubDate>
-			<description><![CDATA[한국 여행시장에 존재하는 숨은 요구(Unmet Needs)를 트래벗의 기술과 사람의 연결로 해결하겠습니다. 이를 통해 한국 여행산업을 고부가가치 산업으로 혁신하고, 새로운 시장을 만들어가는 선도기업이 되겠습니다....]]></description>
-		</item>
-		<item>
-			<title>워크데이 “AI 인재 경쟁력, 프롬프트로 부족…&apos;구축 능력&apos; 수요 51% 증가”</title>
-			<link>https://www.etnews.com/20261006000303</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000303</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 14:40:32 +0900</pubDate>
-			<description><![CDATA[기업이 인공지능(AI) 인재에게 요구하는 역량이 프롬프트 작성 등 기초 활용 능력에서 AI를 직접 구축·개발해 업무에 적용하는 능력으로 이동하고 있다는 분석이 나왔다. 워크데이가 5일(현지시간) 공개한 글로벌 인력 보고서 '적응력의 강점(The Adaptability Advantage)'에 따르면 기업 채용에서 AI를 구축·개발하고 업무에 적용하는 역량에 대한 수요는 지난해 9월부터 올해 7월까지 51% 증가했다. 워크플로 자동화, AI 엔지니...]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임 30년] 100자 메시지- 이영석 와이즈스톤 대표</title>
-			<link>https://www.etnews.com/20261006000297</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000297</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 06 Oct 2026 14:37:40 +0900</pubDate>
-			<description><![CDATA[검증되지 않은 AI는 기술에 머물지만, 검증된 AI는 산업이 됩니다. 와이즈스톤은 대한민국 AI가 신뢰받을 수 있도록 만드는 품질 전문기업이 되겠습니다....]]></description>
 		</item>
 	</channel>
 </rss>
