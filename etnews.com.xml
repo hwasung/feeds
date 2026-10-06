@@ -4,271 +4,259 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 14:00:47 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 16:00:47 +0900</lastBuildDate>
 		<item>
-			<title>두산로보틱스, 피지컬 AI 협동로봇 플랫폼 만든다…국책과제 2건 선정</title>
-			<link>https://www.etnews.com/20261006000208</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000208</guid>
-			<author>김명희</author>
+			<title>유락, 日 &apos;리스콘 도쿄&apos; 참가…AI 디지털 포렌식 기술 소개</title>
+			<link>https://www.etnews.com/20261006000362</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000362</guid>
+			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 13:24:24 +0900</pubDate>
-			<description><![CDATA[두산로보틱스가 산업통상부와 한국산업기술기획평가원이 주관하는 'K-온디바이스 AI 반도체 기술개발사업'과 '로봇산업 기술개발사업' 국책과제에 각각 선정됐다고 6일 밝혔다. 두 과제의 총 연구개발비는 약 989억원으로 정부 지원금은 약 681억원이다. 첫 번째 과제는 외부 PC나 클라우드 없이 로봇이 스스로 인지·판단·제어하는 차세대 협동로봇 기술 개발이다. 국산 AI 시스템반도체(SoC)에 신경망처리장치(NPU)와 실시간 통신·제어 기능을 통합해...]]></description>
+			<pubDate>Tue, 06 Oct 2026 15:28:23 +0900</pubDate>
+			<description><![CDATA[유락은 최근 일본 도쿄에서 열린 위기관리 산업박람회 '리스콘 도쿄 2026'에 참가해 인공지능(AI) 기반 디지털 포렌식 솔루션 '디파스(DFAS)' 시리즈를 선보였다고 6일 밝혔다. 리스콘 도쿄는 재난 대응과 기업 위기관리, 보안·안전 분야의 기술과 서비스를 소개하는 박람회다. 올해 행사는 지난 2일까지 도쿄 빅사이트에서 열렸다. 유락은 현장형 포렌식 솔루션 '디파스 프로', 텍스트·이미지·영상·음성을 AI로 통합 분석하는 '디파스 엣지',...]]></description>
 		</item>
 		<item>
-			<title>유럽 로봇 유니콘도 미국행…로브코, 현지 생산·시장 공략</title>
-			<link>https://www.etnews.com/20261006000206</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000206</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 13:21:08 +0900</pubDate>
-			<description><![CDATA[유럽에서 기업가치 1조 이상의 로봇 유니콘 스타트업이 잇따라 등장하는 가운데 독일 산업용 로봇 스타트업 로브코가 미국 시장 공략을 강화한다. 5일(현지시간) 로이터에 따르면 독일 뮌헨에 본사를 둔 로브코는 최근 주식 거래에서 기업가치 10억달러 이상을 인정받아 유니콘에 올랐다. 2020년 설립된 로브코는 제조 현장용 자율 로봇을 개발한다. 올해 유럽에서는 영국 휴머노이드와 스위스 그라비스 로보틱스 등이 잇따라 유니콘에 올랐다. 로이터는 로브코도...]]></description>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 홍승균 에브리존화이트디펜더 대표</title>
+			<link>https://www.etnews.com/20261006000358</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000358</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 15:16:03 +0900</pubDate>
+			<description><![CDATA[에브리존은 한계를 뛰어넘는 보안 연구와 혁신으로 AX 시대에도 누구나 안심할 수 있는 글로벌 엔드포인트 랜섬웨어 보안 기업으로 성장하여 사이버 세상을 지켜가겠습니다....]]></description>
 		</item>
 		<item>
-			<title>행안부, &apos;CSP별 서비스 설명회&apos; 개최…공공부문 클라우드 정책방향 소개</title>
-			<link>https://www.etnews.com/20261006000165</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000165</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[행정안전부는 오는 12일 서울 명동 포스트타워에서 민간 클라우드로 전환 예정인 행정·공공기관의 정보시스템 담당자를 대상으로 '클라우드서비스 제공기업(CSP)별 서비스 설명회'를 개최한다고 6일 밝혔다. 이번 설명회는 기존의 공급자 중심 서비스 홍보 방식에서 벗어나, 수요기관인 행정·공공기관이 각 클라우드서비스 제공기업(CSP)의 특성과 장점을 비교·분석해 기관별 업무 환경에 적합한 클라우드서비스를 선택할 수 있도록 지원하기 위해 마련됐다. 행정...]]></description>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 현영민 현민무역 대표</title>
+			<link>https://www.etnews.com/20261006000355</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000355</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 15:13:04 +0900</pubDate>
+			<description><![CDATA[25년간 이어온 유통의 뿌리 위에, AI로 급변하는 환경 속에서도 흔들림 없이 성장하고자 합니다. 30주년을 맞은 미래모임에서의 인연을 소중히 여기고, 함께 나눈 배움을 실천하는 글로벌 유통 파트너가 되겠습니다....]]></description>
 		</item>
 		<item>
-			<title>메가존클라우드, &apos;에어 스튜디오 v3&apos; 출시…기업 AI 통합 관리</title>
-			<link>https://www.etnews.com/20261006000177</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000177</guid>
-			<author>강성전</author>
+			<title>리플렉션AI, 첫 오픈웨이트 AI 모델 &apos;빔&apos; 공개…코딩·추론 최적화</title>
+			<link>https://www.etnews.com/20261006000354</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000354</guid>
+			<author>조벼리</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 11:51:47 +0900</pubDate>
-			<description><![CDATA[메가존클라우드는 기업의 기존 인공지능(AI) 환경을 유지하면서 데이터와 AI 에이전트, 운영, 보안 및 비용을 통합 관리할 수 있는 AI 운영체계 플랫폼을 선보인다. 메가존클라우드는 엔터프라이즈 AI 운영체계(OS) '에어 스튜디오(AIR Studio) v3'를 출시했다고 6일 밝혔다. '에어 스튜디오'는 기업의 AI 구축부터 실행, 통제까지 전 과정을 통합 관리할 수 있도록 설계한 엔터프라이즈 AI OS다. 이번에 새로 출시된 버전3(v3)은...]]></description>
+			<pubDate>Tue, 06 Oct 2026 15:10:41 +0900</pubDate>
+			<description><![CDATA[구글 딥마인드 출신 연구원들이 설립한 인공지능(AI) 스타트업 리플렉션AI가 중국 AI 모델에 맞서 첫 오픈웨이트 모델 '빔(Beam)'을 공개했다. 6일 로이터통신과 리플렉션AI에 따르면 빔은 코딩·추론·에이전트 작업에 최적화된 모델로, 딥시크와 키미 등 중국 오픈웨이트 모델과 경쟁하는 것을 목표로 한다. 빔은 전체 5010억개 파라미터 가운데 토큰을 처리할 때 230억개만 활성화하는 전문가혼합(MoE) 구조를 적용했다. 리플렉션AI는 엔비디...]]></description>
 		</item>
 		<item>
-			<title>직스테크놀로지·한신공영·정도, AI 기반 &apos;데이터센터 스마트 건설&apos; 맞손</title>
-			<link>https://www.etnews.com/20260930000175</link>
-			<guid isPermaLink="true">https://www.etnews.com/20260930000175</guid>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 최종복 직스테크놀로지 대표</title>
+			<link>https://www.etnews.com/20261006000353</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000353</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 15:10:20 +0900</pubDate>
+			<description><![CDATA[직스테크놀로지는 직스 스페이스로 공간 설계 아이디어를 확장하며, 직스캐드(ZYXCAD) AX의 AI 자동화 기능으로 건설 안전을 강화하며 글로벌 설계 시장의 새로운 기준을 만들어가겠습니다....]]></description>
+		</item>
+		<item>
+			<title>앤트로픽 전 연구원 “AI 통제권 잃을 가능성…인류 멸종될 수도”</title>
+			<link>https://www.etnews.com/20261006000352</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000352</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 15:09:31 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 개발 경쟁의 위험성을 경고하며 앤트로픽을 떠난 연구원이 미국 뉴욕시의회 청문회에서 인류가 AI에 대한 통제권을 잃을 수 있다고 밝혔다. 5일(현지시간) 블룸버그통신에 따르면 제이컵 콕슨 앤트로픽 전 연구원은 뉴욕시의회 청문회에 출석해 “우리는 아직 어떤 AI 시스템도 통제하는 방법을 모른다”며 “현재 경로대로라면 인류가 AI에 통제권을 잃을 가능성이 크고 인류 멸종으로 끝날 수도 있다”고 강조했다. 콕슨는 업계의 접근 방식이 “...]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 최은진 젠티 대표</title>
+			<link>https://www.etnews.com/20261006000348</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000348</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 15:07:34 +0900</pubDate>
+			<description><![CDATA[젠티는 기업의 일하는 방식을 혁신하는 신뢰받는 AI 기업으로 성장하겠습니다. AI가 반복과 복잡함을 덜어내고, 사람이 더 가치 있는 일에 집중할 수 있는 미래를 만들어가겠습니다....]]></description>
+		</item>
+		<item>
+			<title>인핸스, SK텔레콤과 온톨로지 기반 &apos;국방 AI 작전지원체계&apos; 선보여</title>
+			<link>https://www.etnews.com/20261006000347</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000347</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 15:07:26 +0900</pubDate>
+			<description><![CDATA[인핸스가 SK텔레콤과 함께 온톨로지 기술로 전장 상황을 이해하고 지휘관의 의사결정을 지원하는 인공지능(AI) 작전지원체계를 선보였다. 인핸스는 육군본부가 주관하는 '육군 지상군페스티벌'에서 SK텔레콤, 테크트리 이노베이션과 AI 기반 국방 의사결정 지원 체계를 공개했다고 6일 밝혔다. SK텔레콤은 정책홍보관에서 미래 국방 기술을 전시했다. 행사는 1일부터 5일간 충남 계룡시에서 열렸다. AI 작전지원체계는 분산된 정보를 종합해 지휘관의 전장 상...]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 최백준 틸론 대표</title>
+			<link>https://www.etnews.com/20261006000345</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000345</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 15:05:19 +0900</pubDate>
+			<description><![CDATA[틸론은 DaaS·AI·GPU 가상화와 N2SF 총족 보안 기술을 융합해 안전한 디지털 업무환경을 구현하고, 국가·공공·기업의 AI 전환과 데이터 주권을 뒷받침하는 대한민국 핵심 디지털 인프라 기업을 지향합니다....]]></description>
+		</item>
+		<item>
+			<title>[보안, 대한민국의 기회]〈1〉AI vs. AI - 보안 없이는 AI도 없다</title>
+			<link>https://www.etnews.com/20261006000344</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000344</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 15:04:51 +0900</pubDate>
+			<description><![CDATA[AI 논쟁은 단순히 '규제가 필요한가'의 수준을 넘어서고 있다. 이제는 프런티어 AI의 성능 향상 속도 자체를 늦춰 안전과 보안 검증이 따라잡을 시간을 확보해야 한다는 'AI 속도조절론'이 업계 내부에서 공개적으로 제기되고 있다. 앤트로픽의 다리오 아모데이 최고경영자(CEO)는 9월 '우리는 프런티어의 속도를 조절해야 한다(We Must Pace the Frontier)'라는 글을 통해 프런티어 AI의 발전 속도를 늦출 필요가 있다고 주장했다....]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 천승호 인더텍 대표</title>
+			<link>https://www.etnews.com/20261006000343</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000343</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 15:02:50 +0900</pubDate>
+			<description><![CDATA[혁신적인 AI·디지털 헬스케어 기술과 임상적 신뢰를 바탕으로 K-헬스케어의 새로운 가치를 창출하겠습니다. 지속적인 기술 혁신과 사업 경쟁력 강화를 통해 글로벌 헬스케어 시장 진출을 실현하겠습니다....]]></description>
+		</item>
+		<item>
+			<title>마키나락스, 해군 포항함에 &apos;장비운용 AI 참모&apos; 탑재</title>
+			<link>https://www.etnews.com/20261006000342</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000342</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 15:02:24 +0900</pubDate>
+			<description><![CDATA[마키나락스가 해군 함정에 온디바이스 인공지능(AI) 기반 '장비 운용 AI 참모'를 탑재하고 실증에 돌입했다. 마키나락스는 해군 제1함대사령부 포항함에 창비 운용 AI 참모를 탑재해 실제 함정 환경에서 운용을 시작했다고 6일 밝혔다. 이번 사업은 국방기술진흥연구소(KRIT)가 주관하는 '방산혁신기업 100 기술개발 전용지원사업' 일환이다. AI 참모는 AI 운용체계(OS) '런웨이' 기반 AI 에이전트 프레임워크 기술이 적용됐다. 함포 기술교범...]]></description>
+		</item>
+		<item>
+			<title>[인터뷰]이형택 이노티움 대표 “AI 시대 보안은 AI 활용하면서도 데이터 전 주기 살필 수 있어야 ”</title>
+			<link>https://www.etnews.com/20261006000045</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000045</guid>
 			<author>이경민</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 11:44:35 +0900</pubDate>
-			<description><![CDATA[한신공영, 정도, 직스테크놀로지 등 3사가 인공지능(AI)과 디지털 트윈 기술을 활용한 데이터센터 스마트 건설 플랫폼 구축을 위해 3자 업무협약(MOU)을 체결했다고 30일 밝혔다. 이번 협약은 각 사가 보유한 건설·기계설비·설계 분야의 전문성을 결합해 데이터센터를 비롯한 하이테크 건설 분야의 설계부터 제작·시공까지 전 과정을 디지털화하고 통합 솔루션을 개발하는 것이 목표다. 3사는 △한신공영의 건설 및 프로젝트 수행 역량 △정도의 기계설비 및...]]></description>
+			<pubDate>Tue, 06 Oct 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)의 등장과 함께 데이터를 검색하고 작성하고 전달하는 데이터의 생애주기도 변하고 있다. 기존에는 사내인트라넷이나 가상사설망을 통해 유통하던 방식에서 이제 제미나이, 챗 GPT, 클로드, 코파일럿 등 생성형 AI에 묻고 데이터를 검색하고 문서를 작성한다. 여기에 더 나아가 AI 에이전트를 통해 AI가 데이터를 검색 분석하는 시대다. 그만큼 데이터 보안에 취약해질 수밖에 없다. 국내 보안전문기업으로 16년간 보안 한 길을 걸어온 이노티...]]></description>
 		</item>
 		<item>
-			<title>[ET톡] 누구를 위한 홀드백인가</title>
-			<link>https://www.etnews.com/20261006000159</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000159</guid>
-			<author>최다현</author>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 주영흠 잉카인터넷 대표</title>
+			<link>https://www.etnews.com/20261006000335</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000335</guid>
 			<category>오피니언</category>
-			<pubDate>Tue, 06 Oct 2026 11:18:14 +0900</pubDate>
-			<description><![CDATA[영화 '홀드백' 자율협약이 기약 없이 미뤄지고 있다. 문화체육관광부는 지난 8월 내 체결을 목표로 속도를 냈으나 시한을 넘겼다. 글로벌 온라인동영상서비스(OTT)의 참여 여부가 불투명해진 데다 이해관계자 간 이견도 좁혀지지 않았다. 문체부는 민관협의체가 홀드백뿐 아니라 영화산업 전반을 논의하는 자리라고 설명했지만 협약이 다시 테이블에 오를지는 미지수다. 홀드백은 극장에서 개봉한 영화가 OTT로 넘어가기 전까지 일정 기간을 두는 제도다. 코로나1...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:59:27 +0900</pubDate>
+			<description><![CDATA[잉카인터넷은 금융과 게임, 기업 보안에서 쌓아온 기술에 AI를 더해 안전한 디지털 일상을 만들겠습니다. 고객의 정보와 자산을 지키며, 세계가 신뢰하는 보안 기업으로 성장하겠습니다....]]></description>
 		</item>
 		<item>
-			<title>[기고] 차량용 UWB의 마지막 조건 &apos;신뢰성&apos;…TAIYO YUDEN이 뒷받침하는 차세대 모빌리티</title>
-			<link>https://www.etnews.com/20261006000102</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000102</guid>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 조용현 비오피 대표</title>
+			<link>https://www.etnews.com/20261006000332</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000332</guid>
 			<category>오피니언</category>
-			<pubDate>Tue, 06 Oct 2026 10:26:58 +0900</pubDate>
-			<description><![CDATA[자동차에 탑재되는 전자 부품은 일반적인 전자기기보다 훨씬 가혹한 환경을 견뎌야 한다. 엔진룸에서 발생하는 열과 직사광선에 따른 고온부터 겨울철 극한의 저온, 험로 주행 과정에서 발생하는 충격과 진동까지 다양한 환경에 지속적으로 노출되기 때문이다. 특히 자동차의 연결성과 지능화 수준이 높아지면서 전자 부품의 안정적인 동작은 차량의 편의성과 안전성을 좌우하는 중요한 요소가 되고 있다. 스마트폰을 자동차 열쇠로 활용하는 디지털 키와 이를 지원하는 U...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:56:51 +0900</pubDate>
+			<description><![CDATA[정책의 방향을 읽고 산업의 문제를 사업으로 전환해, 공공가치와 기업의 성장을 함께 만드는 정책기획 컨설팅 전문 회사가 되겠습니다....]]></description>
 		</item>
 		<item>
-			<title>CJ ONE, 이마트24와 &apos;원더위크&apos; 진행…라이프스타일 혜택 강화</title>
-			<link>https://www.etnews.com/20261006000080</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000080</guid>
-			<author>강성전</author>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 정혜나 빔스온탑엔지니어링 대표</title>
+			<link>https://www.etnews.com/20261006000329</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000329</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 14:53:42 +0900</pubDate>
+			<description><![CDATA[빔스온탑은 BIM·AI로 단절된 건설 데이터를 연결하고, 투명한 내역 관리와 시공성 검토를 지원합니다.IT분야 장관상 2관왕으로 인정받은 기술력을 바탕으로, 건설 전 생애주기의 혁신을 이끄는 스마트 엔지니어링 그룹입니다....]]></description>
+		</item>
+		<item>
+			<title>[박세용의 AI 인텐트] 〈4〉 자사 데이터의 함정…왜 CRM은 미래 성장을 보지 못하는가</title>
+			<link>https://www.etnews.com/20261006000326</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000326</guid>
+			<author>정현정</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 10:12:25 +0900</pubDate>
-			<description><![CDATA[CJ올리브네트웍스이 운영하는 라이프스타일 멤버십 'CJ ONE'은 10월을 맞아 회원들에게 풍성한 혜택을 제공하는 '원더 시리즈(원더위크·원더래플)' 프로모션을 전개한다고 6일 밝혔다. 10월 '원더위크' 프로모션은 이날부터 오는 11일까지 진행한다. 라이프스타일 멤버십 특성에 맞춰 회원들이 일상에서 자주 찾는 편의점인 이마트24와 함께 혜택을 제공한다. 이벤트 기간 동안 CJ ONE 회원이 애플리케이션(앱) 내 원더위크 페이지에 접속하면 이마...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:52:02 +0900</pubDate>
+			<description><![CDATA[기업은 보통 자신이 고객을 잘 안다고 믿는다. 고객관계관리(CRM)에 쌓인 방대한 이름과 구매 이력, 자사 앱 방문 데이터와 연결된 이탈 구간 분석, 여기에 순고객추천지수(NPS 추적과 고객 세그먼트 정리까지 마치고 나면 고객을 정교하게 이해하고 있다고 느끼기 쉽다. 그러나 장기 성장의 관점에서 근본적인 질문을 던져야 한다. 우리가 그토록 잘 안다고 자부하는 고객은 과연 누구인가. 그들은 이미 우리 제품이나 서비스를 선택한 사람들, 즉 기존 고...]]></description>
 		</item>
 		<item>
-			<title>SWS, 모바일용 웹 기반 도면 뷰어 &apos;TP 웹 뷰어&apos; 출시</title>
-			<link>https://www.etnews.com/20261006000072</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000072</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 10:05:50 +0900</pubDate>
-			<description><![CDATA[에스더블류에스(대표 유제원)는 별도의 CAD 프로그램 없이도 웹 브라우저에서 도면을 볼 수 있는 'TP 웹 뷰어'를 출시한다고 6일 밝혔다. 제품은 스마트폰과 태블릿 등 모바일 환경을 지원하는 것이 특징이다. 제조 현장에서는 설계부서뿐 아니라 생산, 구매, 품질, 설비 담당자 등 다양한 사용자가 도면을 확인해야 한다. 그러나 모두에게 CAD 프로그램을 설치하거나 라이선스를 제공하는 것은 부담이 적지 않다. 특히 최근에는 현장 PC뿐 아니라 모바...]]></description>
-		</item>
-		<item>
-			<title>LG CNS, 디지털자산 블록체인 인프라 플랫폼 &apos;기틀&apos; 출시…4대 기능 제공</title>
-			<link>https://www.etnews.com/20261006000063</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000063</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 10:00:00 +0900</pubDate>
-			<description><![CDATA[LG CNS는 블록체인 인프라 플랫폼 '기틀(KITL)'을 출시했다고 6일 밝혔다. 기틀은 은행, 증권사, 카드사, 결제사 등이 스테이블코인1), 토큰증권(STO)2), 실물연계자산(RWA)3)과 같은 디지털자산 서비스 구축 시 필요한 인프라를 제공한다. 특히 △전자지갑 △거래 처리 △수수료 대납 △거래 내역 수집 네 가지 기능을 제공한다. 금융기관은 그동안 고객의 거래 내역을 자사 시스템에 기록하고 직접 관리해왔다. 반면 디지털자산 거래는 누...]]></description>
-		</item>
-		<item>
-			<title>KISA, 몽골과 AI 보안·양자내성암호 협력 논의</title>
-			<link>https://www.etnews.com/20261006000054</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000054</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 09:49:54 +0900</pubDate>
-			<description><![CDATA[한국인터넷진흥원(KISA)은 과학기술정보통신부와 몽골 울란바타르에서 '한-몽 사이버보안 협력 프로그램'을 진행하고 있다고 6일 밝혔다. 이는 지난 7월 한-몽 정상회담 이후 몽골 정부가 제안한 사이버보안 정책·기술 협력을 구체화하기 위한 행사로 이달 5일부터 7일까지 사흘간 열린다. 몽골 디지털개발혁신통신부 등 정부·공공기관과 사이버보안 관계자가 참여한다. 양국은 주요 정보통신 기반시설 보호와 인공지능(AI) 확산에 따른 사이버 위협 대응 사례...]]></description>
-		</item>
-		<item>
-			<title>에버스핀, 전북대에 &apos;AI 자동화 공격 대응&apos; 보안 솔루션 공급</title>
-			<link>https://www.etnews.com/20261006000049</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000049</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 09:43:33 +0900</pubDate>
-			<description><![CDATA[에버스핀은 전북대에 웹 보안 솔루션 '에버세이프 웹'을 공급했다고 6일 밝혔다. 에버세이프 웹은 대학 웹 서비스의 소스를 보호하고 인공지능(AI) 에이전트와 봇을 활용한 자동화 공격에 대응한다. 핵심 기술은 웹 코드와 보호 구조를 지속적으로 바꾸는 AI 기반 동적 표적 방어(MTD)다. 공격자가 웹 구조를 분석하더라도 같은 정보를 반복 공격에 활용하기 어렵게 한다. 고정된 서비스 구조를 전제로 작동하는 자동화 도구의 접근을 어렵게 해 데이터 무...]]></description>
-		</item>
-		<item>
-			<title>스틸리언 &apos;웹수트&apos;, AI 에이전트 기반 웹·API 공격 차단 검증</title>
-			<link>https://www.etnews.com/20261006000012</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000012</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 08:57:05 +0900</pubDate>
-			<description><![CDATA[스틸리언은 웹 보안 솔루션 '웹수트'의 자체 테스트에서 인공지능(AI) 에이전트를 활용한 API 정찰과 브라우저 자동화 접근을 차단했다고 6일 밝혔다. 스틸리언은 AI 자율 침투테스트 도구로 웹서비스의 API 정보를 탐색하고 브라우저를 자동 조작하는 공격 흐름을 시험했다. 웹수트는 명령행 도구 'curl'로 API 구조를 파악하려는 시도와 브라우저 자동화 도구 '플레이라이트(Playwright)'를 이용한 접근을 차단했다. 시험은 AI 침투테스...]]></description>
-		</item>
-		<item>
-			<title>서상덕 S2W 대표, 韓-英 공급망 보안 협력 제안</title>
-			<link>https://www.etnews.com/20261006000011</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000011</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 08:56:26 +0900</pubDate>
-			<description><![CDATA[에스투더블유(S2W)는 서상덕 대표가 '제2차 한영고위급포럼'에서 인공지능(AI) 주권 강화를 위한 양국 공급망 보안 협력을 제안했다고 6일 밝혔다. 포럼은 한국국제교류재단(KF)과 윌튼 파크가 공동 주최해 지난달 30일부터 이달 2일(현지시간)까지 영국 웨스트서식스에서 열렸다. 양국 정부·의회·재계·학계 등이 참여해 경제·안보·신흥 기술 분야 협력 방안을 논의했다. 서 대표는 AI 연대를 주제로 한 세션에서 반도체·피지컬 AI 공급망을 겨냥한...]]></description>
-		</item>
-		<item>
-			<title>배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원”</title>
-			<link>https://www.etnews.com/20261006000008</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000008</guid>
+			<title>인간 통제 벗어난 AI 에이전트…오픈AI·앤트로픽 등 사례 지속 확인</title>
+			<link>https://www.etnews.com/20261006000322</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000322</guid>
 			<author>박종진</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 08:20:14 +0900</pubDate>
-			<description><![CDATA[“프런티어 AI는 현재 인공지능(AI) 기술 최전선에 있는 고성능 AI입니다. 초지능(SI·Super Intelligence) 가능성까지 내다보고 발전을 이끌 역량을 갖추자는 것입니다.” 배경훈 부총리 겸 과학기술정보통신부 장관은 6일 소셜네트워크서비스(SNS)를 통해 '독자 AI 파운데이션 모델'(독파모) 개발을 계속하며 세계 최첨단 프런티어 AI 역량을 확보해야 하는 이유에 대해 이같이 밝혔다. 프런티어 AI와 독파모 개발은 경제와 과학기술...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:49:59 +0900</pubDate>
+			<description><![CDATA[빅테크 인공지능(AI) 기업의 통제를 벗어난 AI 에이전트가 외부 사이트나 시스템에 침투한 사실이 지속 확인되고 있다. 개인정보 유출 등 실제 피해로 이어진 사례는 아직 확인되지 않았지만, AI 에이전트가 스스로 인간 지시를 우회할 수단을 찾았다는 점에서 AI 통제 불능 문제를 드러낸 것으로 평가된다. 위키미디어재단은 5일(현지시간) 온라인 백과사전 '위키백과' 플랫폼에서 오픈AI 에이전트의 무단 활동을 확인했다고 발표했다. 앞서 지난 5월 플...]]></description>
 		</item>
 		<item>
-			<title>오픈AI 에이전트, 또 통제 벗어나…&apos;위키백과&apos; 무단 침해</title>
-			<link>https://www.etnews.com/20261006000002</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000002</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 07:21:47 +0900</pubDate>
-			<description><![CDATA[오픈AI의 통제를 벗어난 인공지능(AI) 에이전트가 온라인 백과사전 '위키백과' 플랫폼을 침해한 것으로 나타났다. 위키백과 운영사인 위키미디어재단은 5일(현지시간) 오픈AI 에이전트의 무단 활동을 플랫폼 내에서 발견했다고 밝혔다. 앞서 지난 5월 플랫폼에서 발생한 일부 서비스 장애도 AI 에이전트가 위키백과 내용 수백만건을 가져가고 데이터 수십만건을 조회하는 과정에서 발생한 것으로 보고 있다. 재단은 AI 에이전트들이 백과사전 내용 무단 편집...]]></description>
-		</item>
-		<item>
-			<title>구글, 저가·무료 가입자 &apos;제미나이&apos; 고급기능 사용 제한</title>
-			<link>https://www.etnews.com/20261005000133</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000133</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 18:06:49 +0900</pubDate>
-			<description><![CDATA[구글이 생성형 인공지능(AI) 서비스 '제미나이' 무료·저가 요금제 이용자의 고급 모델 접근을 제한한다. 구글은 4일(현지시간) 고객센터 공지를 통해 이달부터 요금제별 접근 가능한 AI 모델 등급을 9일부터 조정한다고 밝혔다. 저가 요금제 가입자와 무료 이용자의 '프로' 모델 접근을 막는 것이다. 무료 이용자도 일부 사용할 수 있었던 제미나이 프로 모델은 앞으로 월 구독료가 19.99달러(2만9000원)인 'AI 프로' 요금제부터 제공된다. 무...]]></description>
-		</item>
-		<item>
-			<title>오남석 경기도의원 “피지컬 AI, 제조현장 도입의 장벽부터 살펴야”</title>
-			<link>https://www.etnews.com/20261005000132</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000132</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 18:02:22 +0900</pubDate>
-			<description><![CDATA[오남석 경기도의회 미래과학협력위원회 부위원장이 제조기업의 피지컬 인공지능(AI) 도입에 필요한 현장 지원을 강조했다. 5일 경기도의회에 따르면 오 부위원장(국민의힘, 비례)은 최근 경기도경제과학진흥원 R&DB센터에서 열린 정책간담회에 참석해 피지컬 AI의 제조현장 활용 방안을 논의했다. 피지컬 AI는 로봇이나 기계가 주변 환경을 인식하고 판단해 실제 공간에서 작업을 수행하는 기술이다. 간담회에는 도의원과 피지컬 AI 수요·공급기업, 대학, 연구...]]></description>
-		</item>
-		<item>
-			<title>[사설] 고용영향평가, 일자리 예측 초점 둬야</title>
-			<link>https://www.etnews.com/20261005000093</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000093</guid>
-			<author>이진호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[국가정책에 따른 일자리 흐름과 수요를 미리 따져보고 대비하기 위해 도입된 '고용영향평가' 제도가 본연의 기능을 상실한 채 헛돌고 있다. 최근 5년간 진행된 평가의 80%가량이 정책 집행 중이거나 이미 사업이 끝난 뒤에야 이뤄진 전형적인 사후 약방문식인 것으로 나타났다. 정책 시행 전에 선제적으로 인력 수요를 예측하는 사전평가 비중은 2013~2019년 26.5%에서 최근 5년간(2020~2024년) 10.3% 수준까지 쪼그라들었다. 미래 산업...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 6·8월 수상작] 심사평</title>
-			<link>https://www.etnews.com/20261005000094</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000094</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[6월 일반소프트웨어(SW) 부문 수상 제품인 빅웨이브로보틱스의 '솔링크'는 이기종·다종 로봇과 현장 인프라를 하나의 환경에서 통합 관리·운영할 수 있도록 지원하는 로봇 통합관제·운영 플랫폼이다. 이 제품은 다양한 제조사의 로봇을 단일 시스템에서 연결·관리하고, 기존 시스템과의 연동을 통해 로봇 운영 환경을 통합할 수 있는 것이 특징이다. 또한 노코드 기반의 작업 과정 설계와 운영 자동화 기능을 제공하며, 통합관제·원격지원·운영 데이터 분석 등을...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 8월 수상작] 파프리카데이터랩 &apos;왈라&apos;</title>
-			<link>https://www.etnews.com/20261005000099</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000099</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[파프리카데이터랩의 '왈라(Walla)'가 신소프트웨어(SW)상품대상 차세대혁신SW 부문을 수상했다. 해당 제품은 기업이 필요한 맞춤형 데이터 수집 시스템과 업무 흐름을 직접 만들 수 있도록 지원하는 데이터 도구 제작 플랫폼이다. 기업·공공기관이 망분리와 데이터 보안 정책을 준수하면서도 현업에 필요한 시스템을 신속하게 구축하도록 개발됐다. 외부 도구 도입이 어려운 조직에서는 담당자가 엑셀·종이 문서로 데이터를 관리하거나, 정보기술(IT) 부서와...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 8월 수상작] 티아이스퀘어 &apos;리얼톡&apos;</title>
-			<link>https://www.etnews.com/20261005000098</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000098</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[티아이스퀘어의 '리얼톡(RealTalk)'이 신소프트웨어(SW)상품대상 멀티미디어&서비스SW 부문을 수상했다. 이 제품은 산업 현장의 음성·영상·데이터 통신을 지원하는 클라우드 구독형 통합 커뮤니케이션 서비스다. 스마트폰과 LTE·5G·와이파이망을 활용해 음성·영상 무전, 통화, 채팅, 파일 공유, 위치관제 등을 하나의 플랫폼에서 제공한다. 별도의 서버나 전용 단말기 없이 스마트폰 앱 설치만으로 도입할 수 있는 점이 특징이다. 관리자용 PC 지...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 6월 수상작] 에이아이썸 &apos;에디 AI&apos;</title>
-			<link>https://www.etnews.com/20261005000097</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000097</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[에이아이썸의 '에디 AI(AEDI AI) 3.0'이 신소프트웨어(SW)상품대상 멀티미디어&서비스SW 부문을 수상했다. 이 제품은 이미지와 영상의 맥락을 인공지능(AI)으로 분석하고, 여러 e커머스 플랫폼에 분산된 상품 데이터를 연결해 적합한 상품이나 콘텐츠를 자동 추천하는 비전 AI 모델이다. 특정 쇼핑몰이나 매체 내부의 검색을 넘어 서로 다른 플랫폼의 상품을 비교·평가해 최적 결과를 선별한다. 이미지와 영상 속 인물·사물·브랜드·문자·배경을...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 8월 수상작] 테크빌교육 &apos;마이클AI&apos;</title>
-			<link>https://www.etnews.com/20261005000096</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000096</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[테크빌교육의 '마이클AI(MyCl)'가 신소프트웨어(SW)상품대상 일반SW 부문을 수상했다. 이 제품은 교사의 행정·평가·기록·수업 준비 업무를 지원하는 공교육 특화 인공지능(AI) 서비스다. 챗GPT·클로드·제미나이 등 10종 이상의 AI 엔진을 단일 플랫폼에 통합해 업무 목적에 맞춰 선택할 수 있도록 했다. 40종 이상의 공문서 템플릿을 기반으로 가정통신문·평가계획서·상담일지·생활기록부 등을 작성하고, 한글(HWP)이나 엑셀 파일로 내려받을...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 6월 수상작] 빅웨이브로보틱스 &apos;솔링크&apos;</title>
-			<link>https://www.etnews.com/20261005000095</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000095</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[빅웨이브로보틱스의 '솔링크(SOLlink)'가 신소프트웨어(SW)상품대상 일반SW 부문을 수상했다. 이 제품은 제조사가 다른 여러 로봇과 현장 설비를 하나의 운영 환경에서 관리하는 인공지능(AI) 에이전트 기반 통합관제·운영 플랫폼이다. 글로벌 주요 브랜드 로봇 40여 종과 연동되며, 고객이 사용 중인 기존 시스템과도 연결할 수 있다. 클라우드 기반으로 로봇 도입부터 운영·유지보수까지 총소유비용(TCO)을 줄이는 데 초점을 맞췄다. 별도의 코딩...]]></description>
-		</item>
-		<item>
-			<title>[人사이트] 이준호 크라우드웍스 부사장 “에이전틱 AI 시대, 구조화된 데이터가 핵심”</title>
-			<link>https://www.etnews.com/20261005000038</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000038</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[“인공지능(AI) 기술 발전으로 기업 내부에 축적된 데이터의 맥락과 관계를 구조화하고, 실제 행동과 물리 현상을 담은 희소 데이터를 정교하게 확보·검증하느냐가 중요 과제로 부상했습니다.” 이준호 크라우드웍스 부사장(크라우드데이터 대표)은 최근 전자신문과 인터뷰에서 “생성형 AI 위주에서 에이전틱 AI와 피지컬 AI로 무게중심이 이동하면서 데이터 경쟁력 기준도 바뀌고 있다”며 이같이 밝혔다. 거대언어모델(LLM)과 달리 생각하고 수행하는, 물리세...]]></description>
-		</item>
-		<item>
-			<title>[ET시론] SNS 과몰입, 누가 어떻게 답해야 하는가</title>
-			<link>https://www.etnews.com/20261005000034</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000034</guid>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 전현경 데이타소프트 대표</title>
+			<link>https://www.etnews.com/20261006000321</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000321</guid>
 			<category>오피니언</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[청소년의 일상은 이미 스마트폰 화면 속에 깊이 들어와 있다. 맞춤형 추천 알고리즘으로 시선을 사로잡는 사회관계망서비스(SNS) 그리고 사용자 친화적인 태도로 감정적 교감을 나누는 생성형 인공지능(AI) 챗봇은 이제 뗄 수 없는 일상의 동반자가 됐다. 하지만 편리함과 혁신 이면에는 '과몰입'이라는 무거운 그림자가 드리워지고 있다. 최근 국회와 시민사회, 학계를 중심으로 청소년 디지털 과몰입 책임을 가정이나 개인의 탓이 아니라 서비스를 설계한 플랫...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:49:47 +0900</pubDate>
+			<description><![CDATA[데이타소프트는 데이터보호와 AI를 기반으로 산업의 변화와 혁신을 선도하겠습니다. 기술의 가치를 현장의 성과로 연결하고, 고객과 사회가 체감할 수 있는 새로운 가치를 창출하며 미래를 함께 만들어가는 기업이 되겠습니다....]]></description>
 		</item>
 		<item>
-			<title>[송민택 교수의 D-엣지] 스테이블코인, 무역결제를 바꾼다</title>
-			<link>https://www.etnews.com/20261005000053</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000053</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[올해 상반기 한국의 수출액은 4967억달러로 역대 최대 수준이다. 수입까지 합하면 불과 6개월 동안 8551억달러가 넘는 상품이 국경을 오갔다. 우리는 수출이 늘고 줄었다는 소식에는 민감하지만, 그 대금이 어떤 방식으로 결제되는지는 크게 주목하지 않는다. 최근 이 무역결제 방식에 변화가 엿보인다. 2025년 국내 기업이 수출하고 받은 대금의 84.2%는 달러였다. 원화 결제 비중은 전년보다 0.8%포인트 증가해 역대 최고점을 찍었지만 여전히 3...]]></description>
+			<title>누구나 내려받는 &apos;침투테스트 AI&apos;…악용 땐 공격무기 돌변</title>
+			<link>https://www.etnews.com/20261006000318</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000318</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 14:47:21 +0900</pubDate>
+			<description><![CDATA[최근 국내 금융권 공격에 악용된 것으로 알려진 '아르텍스(ARTEX)'뿐 아니라 다양한 침투테스트 인공지능(AI)이 누구나 접할 수 있는 오픈소스로 공개된 것으로 나타났다. 초급자라도 소스코드를 수정하면 실제 공격에 활용할 수 있어 보안 위협이 커졌다는 평가다. AI 기반 공격을 전제로 한 취약점 진단이 시급하다. 6일 업계에 따르면 세계 최대 소프트웨어 개발 플랫폼 '깃허브'에는 지난달 바이두 보안대응센터(BSRC) '에이전트+' 공방능력 대...]]></description>
 		</item>
 		<item>
-			<title>[디지털문서 인사이트] AI가 문서를 만드는 시대, 표준으로 세우는 신뢰의 규칙</title>
-			<link>https://www.etnews.com/20261005000049</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000049</guid>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 임현욱 트래벗 대표</title>
+			<link>https://www.etnews.com/20261006000310</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000310</guid>
 			<category>오피니언</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[생성형 인공지능(AI)으로 보고서와 계약서 초안을 만드는 일은 이제 낯설지 않다. 문제는 그 다음이다. 문서를 생성과정과 중간 단계를 어떻게 확인할 수 있을까. 문서를 쉽게 만들어 내는 시대에는 내용만큼이나 중요한 것은 출처와 이력을 증명할 수 있는지다. 진위를 가릴 수 없는 문서는 증거로도, 기록으로도 쓰이기 어렵다. PDF는 ISO로 표준화된 대표적인 전자문서 형식으로, 행정·금융·법률·출판 등 거의 모든 분야에서 활용되고 있다. 그렇기에...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:43:57 +0900</pubDate>
+			<description><![CDATA[한국 여행시장에 존재하는 숨은 요구(Unmet Needs)를 트래벗의 기술과 사람의 연결로 해결하겠습니다. 이를 통해 한국 여행산업을 고부가가치 산업으로 혁신하고, 새로운 시장을 만들어가는 선도기업이 되겠습니다....]]></description>
 		</item>
 		<item>
-			<title>[이상직 변호사의 생성과 소멸] 〈29〉금융AX, 속도보다 신뢰와 방향이다</title>
-			<link>https://www.etnews.com/20261005000045</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000045</guid>
+			<title>워크데이 “AI 인재 경쟁력, 프롬프트로 부족…&apos;구축 능력&apos; 수요 51% 증가”</title>
+			<link>https://www.etnews.com/20261006000303</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000303</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 14:40:32 +0900</pubDate>
+			<description><![CDATA[기업이 인공지능(AI) 인재에게 요구하는 역량이 프롬프트 작성 등 기초 활용 능력에서 AI를 직접 구축·개발해 업무에 적용하는 능력으로 이동하고 있다는 분석이 나왔다. 워크데이가 5일(현지시간) 공개한 글로벌 인력 보고서 '적응력의 강점(The Adaptability Advantage)'에 따르면 기업 채용에서 AI를 구축·개발하고 업무에 적용하는 역량에 대한 수요는 지난해 9월부터 올해 7월까지 51% 증가했다. 워크플로 자동화, AI 엔지니...]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 이영석 와이즈스톤 대표</title>
+			<link>https://www.etnews.com/20261006000297</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000297</guid>
 			<category>오피니언</category>
-			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[금융권이 인공지능전환(AX)에 사활을 걸고 있다. 우리은행의 전세사기 예방서비스, 카카오뱅크의 대화형 이체처럼 생성형 인공지능(AI)은 단순·반복 업무의 자동화를 넘어 고객 접점의 혁신이 되고 있다. 영업점의 AI 도입과 AI조직 개편도 빠르다. 금융당국도 망 분리 규제를 보안목적의 AI활용을 위해 풀어준데 이어, 보안역량이 높은 금융회사를 선별해 전면 해제까지 검토하며 뒷받침한다. 그러나 기술도입과 규제완화라는 외형 이면에서 우리 금융AX가...]]></description>
+			<pubDate>Tue, 06 Oct 2026 14:37:40 +0900</pubDate>
+			<description><![CDATA[검증되지 않은 AI는 기술에 머물지만, 검증된 AI는 산업이 됩니다. 와이즈스톤은 대한민국 AI가 신뢰받을 수 있도록 만드는 품질 전문기업이 되겠습니다....]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 이경민 헬프티처 대표</title>
+			<link>https://www.etnews.com/20261006000290</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000290</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 14:35:17 +0900</pubDate>
+			<description><![CDATA[헬프티처는 음성·표정·텍스트를 이해하는 멀티모달 AI와 캐릭터 페르소나 챗봇으로 마음의 위기 신호를 조기에 발견하고 필요한 도움으로 연결하는 따뜻한 AI 안전망을 만들어가겠습니다....]]></description>
+		</item>
+		<item>
+			<title>도시 곳곳으로 들어온 AI…&apos;SLW 2026&apos;서 펼쳐진 피지컬 AI 미래 일상</title>
+			<link>https://www.etnews.com/20261006000286</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000286</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 14:33:21 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 화면을 넘어 도시 속에서 움직이기 시작했다. 자율주행차가 사람과 물건을 나르고, 로봇과 드론이 사람 대신 지하철 선로와 위험 현장을 점검하며, AI는 시민의 피부와 건강 상태를 살피고 행정서비스에도 스며든다. 6일 서울 코엑스에서 개막한 '스마트라이프위크(SLW) 2026'은 교통·안전·돌봄·주거·행정 등 도시의 일상 전반에 들어온 AI와 로봇 기술을 전시장에 모아 '피지컬 AI 도시'가 더 이상 먼 미래의 이야기가 아니라는...]]></description>
+		</item>
+		<item>
+			<title>“AI마다 찾는 취약점 다르다”…팔로알토, 5개 모델 동시 활용</title>
+			<link>https://www.etnews.com/20261006000285</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000285</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 14:33:01 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 해킹 방어를 위한 취약점 관리가 중요해진 가운데, 사이버 보안에 여러 AI 모델을 함께 활용해야 한다는 진단이 나왔다. AI 모델마다 찾아내는 취약점이 다른 만큼 서로의 탐지 사각지대를 보완해야 한다는 것이다. 니케시 아로라 팔로알토 네트웍스 회장 겸 최고경영자(CEO)는 최근 '골드만삭스 커뮤니코피아+테크놀로지 콘퍼런스 2026'을 통해 “현재 취약점 관리에서 5개 모델을 활용하고 있다”며 “각각의 모델이 서로 다른 취약점을...]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 유승모 엠큐닉 대표</title>
+			<link>https://www.etnews.com/20261006000283</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000283</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 14:32:19 +0900</pubDate>
+			<description><![CDATA[정보통신 미래모임 30년의 도약에 발맞춰, 엠큐닉은 독보적인 AI 플랫폼과 모빌리티 데이터 역량을 바탕으로 글로벌 자율주행 시장을 선도하며 지속가능한 ICT 생태계를 이끌겠습니다....]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 안태욱 비즈데이터 대표</title>
+			<link>https://www.etnews.com/20261006000281</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000281</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 14:29:21 +0900</pubDate>
+			<description><![CDATA[AI 시대에 누구도 건너뛸 수 없는 두 영역이 있습니다. 기업의 데이터, 그리고 물과 환경입니다. 비즈데이터는 이 둘을 AI로 잇는 기술로 인류와 기업을 이롭게 하며 글로벌 시장으로 나아가겠습니다....]]></description>
+		</item>
+		<item>
+			<title>에스넷시스템, 델 사업 성장세…실적 확대 견인</title>
+			<link>https://www.etnews.com/20261006000280</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000280</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 14:29:10 +0900</pubDate>
+			<description><![CDATA[에스넷시스템은 올해 상반기 별도 기준 매출이 전년 동기 대비 약 두배 증가한 가운데, 델테크놀로지 관련 사업이 큰 폭으로 성장하며 실적 확대를 견인했다고 6일 밝혔다. 고성능 그래픽처리장치(GPU) 서버 등 컴퓨팅 사업이 확대되고 주요 엔터프라이즈 고객의 델 파워플렉스 증설과 인프라 고도화 수요가 이어지면서 델 사업이 새로운 성장축으로 부상한 것이다. 생성형 인공지능(AI)이 개념검증(PoC)를 넘어 실제 업무와 서비스에 적용되면서 기업의 인프...]]></description>
+		</item>
+		<item>
+			<title>[정보통신 미래모임 30년] 100자 메시지- 안동욱 미소정보기술 대표</title>
+			<link>https://www.etnews.com/20261006000274</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000274</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 06 Oct 2026 14:26:29 +0900</pubDate>
+			<description><![CDATA[미소정보기술은 데이터플랫폼 기술을 중심으로 대한민국을 넘어 글로벌 시장을 개척하겠습니다. 끊임없는 혁신과 도전으로 세계가 인정하는 K-Software 시대를 열고, 대한민국 소프트웨어 산업의 새로운 기준을 만들어가겠습니다....]]></description>
 		</item>
 	</channel>
 </rss>
