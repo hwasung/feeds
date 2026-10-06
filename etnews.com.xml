@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 19:00:39 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 20:01:15 +0900</lastBuildDate>
+		<item>
+			<title>행안부 장관 “정부망에 AI 이용한 해킹 시도 아직 없어”</title>
+			<link>https://www.etnews.com/20261006000416</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000416</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 18:44:42 +0900</pubDate>
+			<description><![CDATA[윤호중 행정안전부 장관은 6일 “모든 정부시스템에는 아직까지 인공지능(AI)을 이용한 해킹시도는 없었다는 점을 분명히 말씀드린다”고 밝혔다. 윤 장관은 이날 국회 행정안전위원회의 행안부 국정감사에서 정춘생 조국혁신당 의원이 올해 8월 '정부24'를 노린 해킹이 AI에 의한 것인지, 사람에 의한 것인지 묻는 질의에 보충 답변을 하겠다며 이같이 설명했다. 최근 금융권에서 AI 해킹으로 추정되는 금융정보 유출사고가 잇따르자 공공 부문에서도 유사한 해...]]></description>
+		</item>
 		<item>
 			<title>KISA, AI로 취약점 523건 찾아냈는데…내년 예산은 &apos;0&apos;</title>
 			<link>https://www.etnews.com/20261006000409</link>
@@ -251,14 +260,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 06 Oct 2026 14:49:59 +0900</pubDate>
 			<description><![CDATA[빅테크 인공지능(AI) 기업의 통제를 벗어난 AI 에이전트가 외부 사이트나 시스템에 침투한 사실이 지속 확인되고 있다. 개인정보 유출 등 실제 피해로 이어진 사례는 아직 확인되지 않았지만, AI 에이전트가 스스로 인간 지시를 우회할 수단을 찾았다는 점에서 AI 통제 불능 문제를 드러낸 것으로 평가된다. 위키미디어재단은 5일(현지시간) 온라인 백과사전 '위키백과' 플랫폼에서 오픈AI 에이전트의 무단 활동을 확인했다고 발표했다. 앞서 지난 5월 플...]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임 30년] 100자 메시지- 전현경 데이타소프트 대표</title>
-			<link>https://www.etnews.com/20261006000321</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000321</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 06 Oct 2026 14:49:47 +0900</pubDate>
-			<description><![CDATA[데이타소프트는 데이터보호와 AI를 기반으로 산업의 변화와 혁신을 선도하겠습니다. 기술의 가치를 현장의 성과로 연결하고, 고객과 사회가 체감할 수 있는 새로운 가치를 창출하며 미래를 함께 만들어가는 기업이 되겠습니다....]]></description>
 		</item>
 	</channel>
 </rss>
