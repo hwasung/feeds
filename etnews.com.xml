@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 20:01:15 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2026 07:01:01 +0900</lastBuildDate>
+		<item>
+			<title>휴네시온, &apos;AI 페스타 26&apos; 참가…N2SF 전환·AI 보안 전략 공개</title>
+			<link>https://www.etnews.com/20261007000001</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261007000001</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 07 Oct 2026 01:33:23 +0900</pubDate>
+			<description><![CDATA[휴네시온이 'AI 페스타 26'에 참가해 국가 망 보안체계(N2SF) 전환 전략과 안전한 정보연계·보안 방안을 선보인다고 6일 밝혔다. AI 페스타 26은 과학기술정보통신부 인공지능주간의 공식 행사로, AI 기술과 산업·비즈니스를 연결하고 산업 현장의 AI 적용 사례를 공유하는 AI 비즈니스 행사다. 6일부터 8일까지 서울 코엑스에서 열린다. 휴네시온은 이번 행사에서 N2SF 도입지원사업 구축 사례와 '아이원넷(i-oneNet) CDS' 기반...]]></description>
+		</item>
+		<item>
+			<title>프리윌린, 대학 AI 코스웨어 &apos;풀리캠퍼스&apos; LXP로 진화</title>
+			<link>https://www.etnews.com/20261006000427</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000427</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 23:32:26 +0900</pubDate>
+			<description><![CDATA[프리윌린이 대학 교육 전문 인공지능(AI) 코스웨어 '풀리캠퍼스'를 학습 경험 플랫폼(LXP) '풀리캠퍼스 LXP'로 확장했다. 풀리캠퍼스는 기초학력 진단과 맞춤형 학습을 지원하는 AI 코스웨어로 전국 100여 대학에서 활용되고 있다. 대학생 기초학력 AI 진단평가 누적 응시자는 82만명에 이른다. 2025년 고등교육 에듀테크 소프트랩 실증 결과, 진단평가를 활용한 학생 10명 중 9명이 기초학력 향상 효과를 경험한 것으로 나타났다. 프리윌린은...]]></description>
+		</item>
 		<item>
 			<title>행안부 장관 “정부망에 AI 이용한 해킹 시도 아직 없어”</title>
 			<link>https://www.etnews.com/20261006000416</link>
@@ -242,24 +260,6 @@
 			<category>오피니언</category>
 			<pubDate>Tue, 06 Oct 2026 14:53:42 +0900</pubDate>
 			<description><![CDATA[빔스온탑은 BIM·AI로 단절된 건설 데이터를 연결하고, 투명한 내역 관리와 시공성 검토를 지원합니다.IT분야 장관상 2관왕으로 인정받은 기술력을 바탕으로, 건설 전 생애주기의 혁신을 이끄는 스마트 엔지니어링 그룹입니다....]]></description>
-		</item>
-		<item>
-			<title>[박세용의 AI 인텐트] 〈4〉 자사 데이터의 함정…왜 CRM은 미래 성장을 보지 못하는가</title>
-			<link>https://www.etnews.com/20261006000326</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000326</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 14:52:02 +0900</pubDate>
-			<description><![CDATA[기업은 보통 자신이 고객을 잘 안다고 믿는다. 고객관계관리(CRM)에 쌓인 방대한 이름과 구매 이력, 자사 앱 방문 데이터와 연결된 이탈 구간 분석, 여기에 순고객추천지수(NPS 추적과 고객 세그먼트 정리까지 마치고 나면 고객을 정교하게 이해하고 있다고 느끼기 쉽다. 그러나 장기 성장의 관점에서 근본적인 질문을 던져야 한다. 우리가 그토록 잘 안다고 자부하는 고객은 과연 누구인가. 그들은 이미 우리 제품이나 서비스를 선택한 사람들, 즉 기존 고...]]></description>
-		</item>
-		<item>
-			<title>인간 통제 벗어난 AI 에이전트…오픈AI·앤트로픽 등 사례 지속 확인</title>
-			<link>https://www.etnews.com/20261006000322</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000322</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 06 Oct 2026 14:49:59 +0900</pubDate>
-			<description><![CDATA[빅테크 인공지능(AI) 기업의 통제를 벗어난 AI 에이전트가 외부 사이트나 시스템에 침투한 사실이 지속 확인되고 있다. 개인정보 유출 등 실제 피해로 이어진 사례는 아직 확인되지 않았지만, AI 에이전트가 스스로 인간 지시를 우회할 수단을 찾았다는 점에서 AI 통제 불능 문제를 드러낸 것으로 평가된다. 위키미디어재단은 5일(현지시간) 온라인 백과사전 '위키백과' 플랫폼에서 오픈AI 에이전트의 무단 활동을 확인했다고 발표했다. 앞서 지난 5월 플...]]></description>
 		</item>
 	</channel>
 </rss>
