@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 12:12:34 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 14:00:47 +0900</lastBuildDate>
+		<item>
+			<title>두산로보틱스, 피지컬 AI 협동로봇 플랫폼 만든다…국책과제 2건 선정</title>
+			<link>https://www.etnews.com/20261006000208</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000208</guid>
+			<author>김명희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 13:24:24 +0900</pubDate>
+			<description><![CDATA[두산로보틱스가 산업통상부와 한국산업기술기획평가원이 주관하는 'K-온디바이스 AI 반도체 기술개발사업'과 '로봇산업 기술개발사업' 국책과제에 각각 선정됐다고 6일 밝혔다. 두 과제의 총 연구개발비는 약 989억원으로 정부 지원금은 약 681억원이다. 첫 번째 과제는 외부 PC나 클라우드 없이 로봇이 스스로 인지·판단·제어하는 차세대 협동로봇 기술 개발이다. 국산 AI 시스템반도체(SoC)에 신경망처리장치(NPU)와 실시간 통신·제어 기능을 통합해...]]></description>
+		</item>
+		<item>
+			<title>유럽 로봇 유니콘도 미국행…로브코, 현지 생산·시장 공략</title>
+			<link>https://www.etnews.com/20261006000206</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000206</guid>
+			<author>김명희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 13:21:08 +0900</pubDate>
+			<description><![CDATA[유럽에서 기업가치 1조 이상의 로봇 유니콘 스타트업이 잇따라 등장하는 가운데 독일 산업용 로봇 스타트업 로브코가 미국 시장 공략을 강화한다. 5일(현지시간) 로이터에 따르면 독일 뮌헨에 본사를 둔 로브코는 최근 주식 거래에서 기업가치 10억달러 이상을 인정받아 유니콘에 올랐다. 2020년 설립된 로브코는 제조 현장용 자율 로봇을 개발한다. 올해 유럽에서는 영국 휴머노이드와 스위스 그라비스 로보틱스 등이 잇따라 유니콘에 올랐다. 로이터는 로브코도...]]></description>
+		</item>
 		<item>
 			<title>행안부, &apos;CSP별 서비스 설명회&apos; 개최…공공부문 클라우드 정책방향 소개</title>
 			<link>https://www.etnews.com/20261006000165</link>
@@ -251,24 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Mon, 05 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[금융권이 인공지능전환(AX)에 사활을 걸고 있다. 우리은행의 전세사기 예방서비스, 카카오뱅크의 대화형 이체처럼 생성형 인공지능(AI)은 단순·반복 업무의 자동화를 넘어 고객 접점의 혁신이 되고 있다. 영업점의 AI 도입과 AI조직 개편도 빠르다. 금융당국도 망 분리 규제를 보안목적의 AI활용을 위해 풀어준데 이어, 보안역량이 높은 금융회사를 선별해 전면 해제까지 검토하며 뒷받침한다. 그러나 기술도입과 규제완화라는 외형 이면에서 우리 금융AX가...]]></description>
-		</item>
-		<item>
-			<title>[이슈플러스] 핵심망 지켜도 안심 못한다…외곽 시스템이 보안 &apos;약한 고리&apos;</title>
-			<link>https://www.etnews.com/20261005000113</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000113</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 13:39:46 +0900</pubDate>
-			<description><![CDATA[최근 금융권 침해 사고에서 인터넷·모바일뱅킹 등 핵심 금융거래망이 직접 침해된 정황은 확인되지 않았다. 그러나 대출모집인·임직원용 웹페이지와 업무지원 시스템 등 핵심망 밖의 외부 접점에서 개인정보 유출이 잇따랐다. 핵심 시스템을 안전하게 지키더라도 주변 시스템에 남은 작은 빈틈 하나가 실제 피해로 이어질 수 있다는 점이 확인됐다. 신한은행은 대출모집인 전용 서비스, KB국민은행은 직원용 모바일 업무지원 시스템, 하나은행은 영업지원시스템(ODS)...]]></description>
-		</item>
-		<item>
-			<title>[이슈플러스] 금융권서 현실화한 AI 해킹…전 산업 보안 &apos;비상&apos;</title>
-			<link>https://www.etnews.com/20261005000112</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000112</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 13:39:27 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)을 활용한 해킹이 더 이상 예고된 위협이 아니라 현실의 공격 수단으로 등장했다. 금융권 연쇄 침해 사고는 AI가 취약점 탐색부터 공격 실행까지 자동화하면서 특정 산업을 넘어 모든 기업의 보안체계를 흔들 수 있다는 경고를 던지고 있다. ◇금융사 취약점 훑었다 최근 금융권 침해 사고에서는 AI 도구를 활용한 공격 정황이 포착돼 AI 위협이 현실로 다가왔다는 충격을 던졌다. 지난 주말 신한·KB국민·하나·BNK부산은행과 예가람·웰컴저축...]]></description>
 		</item>
 	</channel>
 </rss>
