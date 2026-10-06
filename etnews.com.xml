@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 12:00:47 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 12:12:34 +0900</lastBuildDate>
+		<item>
+			<title>행안부, &apos;CSP별 서비스 설명회&apos; 개최…공공부문 클라우드 정책방향 소개</title>
+			<link>https://www.etnews.com/20261006000165</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000165</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 12:00:00 +0900</pubDate>
+			<description><![CDATA[행정안전부는 오는 12일 서울 명동 포스트타워에서 민간 클라우드로 전환 예정인 행정·공공기관의 정보시스템 담당자를 대상으로 '클라우드서비스 제공기업(CSP)별 서비스 설명회'를 개최한다고 6일 밝혔다. 이번 설명회는 기존의 공급자 중심 서비스 홍보 방식에서 벗어나, 수요기관인 행정·공공기관이 각 클라우드서비스 제공기업(CSP)의 특성과 장점을 비교·분석해 기관별 업무 환경에 적합한 클라우드서비스를 선택할 수 있도록 지원하기 위해 마련됐다. 행정...]]></description>
+		</item>
+		<item>
+			<title>메가존클라우드, &apos;에어 스튜디오 v3&apos; 출시…기업 AI 통합 관리</title>
+			<link>https://www.etnews.com/20261006000177</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000177</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 11:51:47 +0900</pubDate>
+			<description><![CDATA[메가존클라우드는 기업의 기존 인공지능(AI) 환경을 유지하면서 데이터와 AI 에이전트, 운영, 보안 및 비용을 통합 관리할 수 있는 AI 운영체계 플랫폼을 선보인다. 메가존클라우드는 엔터프라이즈 AI 운영체계(OS) '에어 스튜디오(AIR Studio) v3'를 출시했다고 6일 밝혔다. '에어 스튜디오'는 기업의 AI 구축부터 실행, 통제까지 전 과정을 통합 관리할 수 있도록 설계한 엔터프라이즈 AI OS다. 이번에 새로 출시된 버전3(v3)은...]]></description>
+		</item>
+		<item>
+			<title>직스테크놀로지·한신공영·정도, AI 기반 &apos;데이터센터 스마트 건설&apos; 맞손</title>
+			<link>https://www.etnews.com/20260930000175</link>
+			<guid isPermaLink="true">https://www.etnews.com/20260930000175</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 11:44:35 +0900</pubDate>
+			<description><![CDATA[한신공영, 정도, 직스테크놀로지 등 3사가 인공지능(AI)과 디지털 트윈 기술을 활용한 데이터센터 스마트 건설 플랫폼 구축을 위해 3자 업무협약(MOU)을 체결했다고 30일 밝혔다. 이번 협약은 각 사가 보유한 건설·기계설비·설계 분야의 전문성을 결합해 데이터센터를 비롯한 하이테크 건설 분야의 설계부터 제작·시공까지 전 과정을 디지털화하고 통합 솔루션을 개발하는 것이 목표다. 3사는 △한신공영의 건설 및 프로젝트 수행 역량 △정도의 기계설비 및...]]></description>
+		</item>
 		<item>
 			<title>[ET톡] 누구를 위한 홀드백인가</title>
 			<link>https://www.etnews.com/20261006000159</link>
@@ -242,33 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 05 Oct 2026 13:39:27 +0900</pubDate>
 			<description><![CDATA[인공지능(AI)을 활용한 해킹이 더 이상 예고된 위협이 아니라 현실의 공격 수단으로 등장했다. 금융권 연쇄 침해 사고는 AI가 취약점 탐색부터 공격 실행까지 자동화하면서 특정 산업을 넘어 모든 기업의 보안체계를 흔들 수 있다는 경고를 던지고 있다. ◇금융사 취약점 훑었다 최근 금융권 침해 사고에서는 AI 도구를 활용한 공격 정황이 포착돼 AI 위협이 현실로 다가왔다는 충격을 던졌다. 지난 주말 신한·KB국민·하나·BNK부산은행과 예가람·웰컴저축...]]></description>
-		</item>
-		<item>
-			<title>오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”</title>
-			<link>https://www.etnews.com/20261005000111</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000111</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 13:36:32 +0900</pubDate>
-			<description><![CDATA[오픈AI의 인공지능(AI) 안전 보고서 작성을 이끌어온 직원이 AI가 통제력을 상실할 경우 원전 사고보다 큰 피해가 발생할 수 있다고 경고하며 회사를 떠났다. 데이비드 로빈슨 전 오픈AI 안전 담당 직원은 3일(현지시간) 미국 시사월간지 디애틀랜틱 기고문을 통해 “AI 통제력 상실의 피해는 단일 원자로 노심용융 사고보다 훨씬 클 것”이라며 “AI 기업들이 이 기술을 충분히 신중하게 개발하고 있지 않다”고 지적했다. 로빈슨은 “오픈AI를 비롯한...]]></description>
-		</item>
-		<item>
-			<title>[단독] 금융권 AI 해킹, 1달러·22초만에 가능</title>
-			<link>https://www.etnews.com/20261005000110</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000110</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 13:31:25 +0900</pubDate>
-			<description><![CDATA[국내 금융권 동시다발 해킹에 인공지능(AI)이 악용되면서 'AI발 해킹' 위협이 고조된 가운데 1달러도 안 되는 비용으로 AI 대량 자동화 공격이 가능한 것으로 확인됐다. 실제 이번 피해를 본 다수 금융사가 저비용 공격에 취약점을 노출하며 정보유출 사태를 겪었다. AI 도구를 악용한 사이버 공격이 대중화할 수 있는 만큼 기업·공공이 관련 대응력을 강화해야 한다는 지적이 제기된다. 5일 AI 보안기업 에버스핀이 복수의 금융사 공격에 활용된 AI...]]></description>
-		</item>
-		<item>
-			<title>서울시 지역아동센터에 &apos;서울런쌤&apos; 현장 멘토 출강…2030년 100곳 확대</title>
-			<link>https://www.etnews.com/20261005000105</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000105</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 12:54:35 +0900</pubDate>
-			<description><![CDATA[서울시가 온라인 중심 '서울런' 학습 지원을 아이들이 실제 공부하고 생활하는 공간까지 넓힌다. 올해 10곳을 시작으로 2030년 100개소로 확대한다. 서울런 오프라인 전담멘토 '서울런쌤'은 10월부터 은평·영등포·강서 등 8개 자치구 지역아동센터 10곳에 직접 방문한다. 서울런을 이용하는 초등학생들 숙제와 예·복습, 문제집 풀이부터 서울런 온라인 강의 활용까지 돕는 '현장형 그룹 멘토링' 시범 운영 차원이다. 앞서 온라인뿐 아니라 현장 멘토...]]></description>
 		</item>
 	</channel>
 </rss>
