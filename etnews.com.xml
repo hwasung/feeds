@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 09:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 10:00:48 +0900</lastBuildDate>
+		<item>
+			<title>스틸리언 &apos;웹수트&apos;, AI 에이전트 기반 웹·API 공격 차단 검증</title>
+			<link>https://www.etnews.com/20261006000012</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000012</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 08:57:05 +0900</pubDate>
+			<description><![CDATA[스틸리언은 웹 보안 솔루션 '웹수트'의 자체 테스트에서 인공지능(AI) 에이전트를 활용한 API 정찰과 브라우저 자동화 접근을 차단했다고 6일 밝혔다. 스틸리언은 AI 자율 침투테스트 도구로 웹서비스의 API 정보를 탐색하고 브라우저를 자동 조작하는 공격 흐름을 시험했다. 웹수트는 명령행 도구 'curl'로 API 구조를 파악하려는 시도와 브라우저 자동화 도구 '플레이라이트(Playwright)'를 이용한 접근을 차단했다. 시험은 AI 침투테스...]]></description>
+		</item>
+		<item>
+			<title>서상덕 S2W 대표, 韓-英 공급망 보안 협력 제안</title>
+			<link>https://www.etnews.com/20261006000011</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000011</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 08:56:26 +0900</pubDate>
+			<description><![CDATA[에스투더블유(S2W)는 서상덕 대표가 '제2차 한영고위급포럼'에서 인공지능(AI) 주권 강화를 위한 양국 공급망 보안 협력을 제안했다고 6일 밝혔다. 포럼은 한국국제교류재단(KF)과 윌튼 파크가 공동 주최해 지난달 30일부터 이달 2일(현지시간)까지 영국 웨스트서식스에서 열렸다. 양국 정부·의회·재계·학계 등이 참여해 경제·안보·신흥 기술 분야 협력 방안을 논의했다. 서 대표는 AI 연대를 주제로 한 세션에서 반도체·피지컬 AI 공급망을 겨냥한...]]></description>
+		</item>
 		<item>
 			<title>배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원”</title>
 			<link>https://www.etnews.com/20261006000008</link>
@@ -252,24 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 05 Oct 2026 10:50:39 +0900</pubDate>
 			<description><![CDATA[서초구는 전국 최초로 인공지능(AI) 에이전트 기능을 적용한 행정 정보 안내 챗봇 서비스인 '서초 AI전트' 고도화 사업을 완료했다고 5일 밝혔다. 서초 AI전트'는 주민들이 행정정보를 보다 쉽고 빠르게 이용할 수 있도록 사용자의 의도를 파악해 답변하고 실행까지 해주는 AI 챗봇 서비스다. 지난해 12월 정식 운영을 시작했다. 구는 이번 고도화를 통해 △행정정보 학습 범위 확대 △한글문서·엑셀·이미지 등 비정형 자료 활용 △답변 출처 확인 기능...]]></description>
-		</item>
-		<item>
-			<title>“AI 시대 SW 생태계 재설계해야”…SW 업계, 대대적 개선 촉구</title>
-			<link>https://www.etnews.com/20261005000050</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000050</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 10:11:17 +0900</pubDate>
-			<description><![CDATA[정부의 인공지능(AI) 투자 확대가 산업 경쟁력으로 이어지려면 이를 활용하는 소프트웨어(SW) 기업과 시장 기반이 함께 성장해야 한다는 지적이 지속 제기된다. 특히 공공 SW 시장은 일회성 사업과 커스터마이징 구축 구조에서 벗어나 전문 SW기업이 기술과 제품을 지속적으로 축적하고 성장할 수 있는 시장으로 만들어야 한다는 주문이다. 5일 업계에 따르면 SW 전문가들 중심으로 이 같은 공감대가 확산되고 있다. 김숙경 KAIST 교수는 최근 한국상용...]]></description>
-		</item>
-		<item>
-			<title>한글과컴퓨터재단, 12개국 &apos;다문화 어울림 캠프&apos; 성료…500여명 참석</title>
-			<link>https://www.etnews.com/20261005000048</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261005000048</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 10:09:39 +0900</pubDate>
-			<description><![CDATA[한글과컴퓨터재단은 지난 4일부터 5일까지 개최한 '다문화 어울림 캠프:함께하는 즐거움'을 성료했다고 5일 밝혔다. 경기도 가평 청리움에서 열린 이번 캠프는 한글과컴퓨터재단이 설립 후 처음으로 주최한 공식 행사다. 김상철 한컴그룹 회장이 5년 전부터 이어온 다문화가족 지원 활동을 재단 차원으로 확대한 것이다. 올해 상반기에 이어 두 번째로 열렸다. 중국, 베트남, 필리핀 등 12개국 출신의 수도권 다문화가족과 함께 국제로타리 3640지구 및 우문...]]></description>
 		</item>
 	</channel>
 </rss>
