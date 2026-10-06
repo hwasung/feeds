@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 06 Oct 2026 08:00:38 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2026 09:00:42 +0900</lastBuildDate>
+		<item>
+			<title>배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원”</title>
+			<link>https://www.etnews.com/20261006000008</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261006000008</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 06 Oct 2026 08:20:14 +0900</pubDate>
+			<description><![CDATA[“프런티어 AI는 현재 인공지능(AI) 기술 최전선에 있는 고성능 AI입니다. 초지능(SI·Super Intelligence) 가능성까지 내다보고 발전을 이끌 역량을 갖추자는 것입니다.” 배경훈 부총리 겸 과학기술정보통신부 장관은 6일 소셜네트워크서비스(SNS)를 통해 '독자 AI 파운데이션 모델'(독파모) 개발을 계속하며 세계 최첨단 프런티어 AI 역량을 확보해야 하는 이유에 대해 이같이 밝혔다. 프런티어 AI와 독파모 개발은 경제와 과학기술...]]></description>
+		</item>
 		<item>
 			<title>오픈AI 에이전트, 또 통제 벗어나…&apos;위키백과&apos; 무단 침해</title>
 			<link>https://www.etnews.com/20261006000002</link>
@@ -261,15 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 05 Oct 2026 10:09:39 +0900</pubDate>
 			<description><![CDATA[한글과컴퓨터재단은 지난 4일부터 5일까지 개최한 '다문화 어울림 캠프:함께하는 즐거움'을 성료했다고 5일 밝혔다. 경기도 가평 청리움에서 열린 이번 캠프는 한글과컴퓨터재단이 설립 후 처음으로 주최한 공식 행사다. 김상철 한컴그룹 회장이 5년 전부터 이어온 다문화가족 지원 활동을 재단 차원으로 확대한 것이다. 올해 상반기에 이어 두 번째로 열렸다. 중국, 베트남, 필리핀 등 12개국 출신의 수도권 다문화가족과 함께 국제로타리 3640지구 및 우문...]]></description>
-		</item>
-		<item>
-			<title>이파피루스, IBM·글로벌 기술 넘어섰다…AI 문서 파싱 기술 경쟁력 입증</title>
-			<link>https://www.etnews.com/20261002000157</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261002000157</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 05 Oct 2026 10:00:00 +0900</pubDate>
-			<description><![CDATA[문서 인공지능(AI) 전문 기업 이파피루스(대표 김정희)는 문서를 생성형 AI가 이해하고 활용할 수 있는 데이터로 변환하는 AI 문서 파싱 분야 글로벌 벤치마크 '파스 벤치(ParseBench)'에서 글로벌 기업을 제치고 기술 경쟁력을 입증했다고 5일 밝혔다. PyMuPDF4LLM은 글로벌 누적 다운로드 11억건을 돌파한 오픈소스 라이브러리 'PyMuPDF'의 LLM 전처리 특화 버전이다. 대규모 언어 모델(LLM) 프레임워크 기업 라마인덱스가...]]></description>
 		</item>
 	</channel>
 </rss>
