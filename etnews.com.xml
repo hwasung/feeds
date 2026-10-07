@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 07 Oct 2026 10:00:44 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2026 11:00:37 +0900</lastBuildDate>
+		<item>
+			<title>지란지교소프트, &apos;오피스키퍼&apos; 고객군 대기업으로 확장</title>
+			<link>https://www.etnews.com/20261007000103</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261007000103</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 07 Oct 2026 10:11:22 +0900</pubDate>
+			<description><![CDATA[지란지교소프트의 구축형 통합 PC 보안 솔루션 '오피스키퍼 EP' 고객군이 대규모 기업으로 확대되고 있다. 지란지교소프트는 오피스키퍼 EP 신규 계약 고객사의 평균 사용자 수가 1000명대로, 기존 오피스키퍼 신규 계약 고객사 평균 300명대보다 약 3.5배 많다고 7일 밝혔다. 오피스키퍼 EP는 대규모 조직 환경에 맞춰 사내 시스템 연동과 부서·사용자·운영체제별 보안 정책 적용, 메신저 승인, 대리 승인, 기간별 예외 허용 등을 지원한다. 고...]]></description>
+		</item>
 		<item>
 			<title>영림원소프트랩, ASOCIO 글로벌 비즈니스 서비스상 수상</title>
 			<link>https://www.etnews.com/20261007000047</link>
@@ -257,14 +266,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 06 Oct 2026 15:07:26 +0900</pubDate>
 			<description><![CDATA[인핸스가 SK텔레콤과 함께 온톨로지 기술로 전장 상황을 이해하고 지휘관의 의사결정을 지원하는 인공지능(AI) 작전지원체계를 선보였다. 인핸스는 육군본부가 주관하는 '육군 지상군페스티벌'에서 SK텔레콤, 테크트리 이노베이션과 AI 기반 국방 의사결정 지원 체계를 공개했다고 6일 밝혔다. SK텔레콤은 정책홍보관에서 미래 국방 기술을 전시했다. 행사는 1일부터 5일간 충남 계룡시에서 열렸다. AI 작전지원체계는 분산된 정보를 종합해 지휘관의 전장 상...]]></description>
-		</item>
-		<item>
-			<title>[정보통신 미래모임 30년] 100자 메시지- 최백준 틸론 대표</title>
-			<link>https://www.etnews.com/20261006000345</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261006000345</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 06 Oct 2026 15:05:19 +0900</pubDate>
-			<description><![CDATA[틸론은 DaaS·AI·GPU 가상화와 N2SF 총족 보안 기술을 융합해 안전한 디지털 업무환경을 구현하고, 국가·공공·기업의 AI 전환과 데이터 주권을 뒷받침하는 대한민국 핵심 디지털 인프라 기업을 지향합니다....]]></description>
 		</item>
 	</channel>
 </rss>
