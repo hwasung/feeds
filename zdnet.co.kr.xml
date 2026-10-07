@@ -4,7 +4,115 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Wed, 07 Oct 2026 21:01:00 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 08 Oct 2026 07:02:20 +0900</lastBuildDate>
+		<item>
+			<title>&quot;애플·LG가 함께 만든 스마트홈 기기, 이렇게 생겼다&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261008063035</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008063035</guid>
+			<author>이정현 미디어연구소</author>
+			<category>LG전자</category>
+			<category>애플</category>
+			<category>스먀트홈</category>
+			<category>홈/모바일</category>
+			<pubDate>Thu, 08 Oct 2026 06:56:39 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/ce836638d5e7799593bbb1f4363babd2.jpg" alt=""><p>LG전자가 애플과 협력해서 만드는 것으로 알려진 인공지능(AI) 기반 스마트홈 제품의 디자인이 공개됐다.</p>
+<p>IT 맥루머스는 7일(이하 현지시간) 미국 연방통신위원회(FCC)에 제출된 서류를 통해 LG전자 브랜드로 출시될 스마트홈 액세서리 3종의 디자인을 소개했다. 공개된 제품은 온도 조절기, 온도 센서, 데드볼트 도어락이다.</p>
+<p>앞서 6일 블룸버그 통신은 FCC 문서를 인용해 애플이 LG전자와 협력해 스마트홈 기기 여러 종을 공동 개발 중이라고 보도했으나 구체적인 내용은 밝히지 않았다. 맥루머스가 입수한 FCC 기록에는 라벨 부착 도면, 3D 렌더링 이미지, 기술 보고서 등이 포함돼 제품 외관과 기능에 대한 정보를 확인할 수 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/08/cd4d75e0e5400296455b72c0f3f4a2b5.png" alt="사진=맥루머스/FCC">
+<p>스마트 온도 조절기(모델명 TMCTAW5W)는 가장자리가 볼록하게 솟아 있는 둥근 원반 모양 본체를 갖췄다. 사양서에는 24볼트 AC 전원을 사용한다고 명시됐다. 뒷면 중앙에는 매터(Matter) 로고와 QR 설정 코드가 자리하며, 그 주위로 규정 관련 문구가 원형으로 인쇄되어 있다.</p>
+<p>이 제품은 2.4GHz 및 5GHz Wi-Fi, 블루투스, 스레드(Thread) 연결을 지원한다. 또한 60GHz 레이더가 내장되어 있어 사람의 존재나 접근을 감지할 수 있다. IT 팁스터 @pdfu에 따르면 원거리 디스플레이 설정, 습도 표시 옵션, 화면 밝기 및 언어 조절 기능도 제공한다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/08/ce836638d5e7799593bbb1f4363babd2.jpg" alt="LG전자의 스마트홈 액세서리 3종 (사진=엑스 @pdfu)">
+<p>또 다른 제품인 온도 센서(모델명 TMST2A6W) 역시 원형 디자인으로, 3볼트 CR2477 코인 배터리로 작동한다. 뒷면 외곽선을 따라 제품명과 모델 번호, 제조 정보가 곡선으로 인쇄되어 있으며, 중앙에는 매터 설정 코드와 배터리 경고 기호, UL 인증 마크가 들어가 있다. 테스트 보고서에 따르면 블루투스 저전력(BLE) 및 스레드 연결을 지원한다.</p>
+<p>@pdfu에 따르면, 이 온도 센서는 온도와 습도를 모두 측정한다. 후면 마그네틱 구조 덕분에 금속 표면에 바로 부착할 수 있으며, 동봉된 접착식 금속판을 활용하면 일반 표면에도 설치 가능하다. 배터리는 교체식이며 교체 시기가 되면 알림을 보내준다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/08/8c8fa5b54da77450bc9091683aa26b57.png" alt="사진=맥루머스/FCC">
+<p>스마트 데드볼트 도어락은 측면은 직선, 상·하단은 곡선 형태인 유선형 디자인을 채택했다. 색상은 그래파이트와 실버 두 가지로, 모델 번호는 각각 TMCDD15G와 TMCDD15S다. AA 배터리 4개로 작동하며 배터리는 상단 수납공간에 세로로 장착된다. 배터리 하단에는 하단부 전체 폭을 차지하는 대형 회전 부품이 위치하며, 매터 설정 코드와 규정 문구는 배터리 수납함 위쪽 상단 부근에 인쇄돼 있다.</p>
+<p>이 도어락은 블루투스, 스레드, 근거리무선통신(NFC), 초광대역(UWB)을 지원한다. 팁스터에 따르면 키패드 회전 유닛이 포함되어 있으며, 동봉된 회전 제한 핀을 활용해 한쪽 방향의 회전 각도를 제한함으로써 인접한 벽과의 충돌을 방지할 수 있다. 설정 메뉴에는 터치패드 조명 링, 문 열림 알림음, 잠금음 볼륨 조절 등이 포함되어 있다. 아울러 자동 잠금 해제, 탭하여 잠금 해제, 비상 전원 공급 및 마스터 코드 기능도 탑재됐다.</p>
+<p>위 3개의 제품은 유선 비디오 도어벨, 실내 보안 카메라, 실외 보안 카메라, 투광등 카메라 등을 포함한 총 7종의 스마트홈 라인업 중 일부다. LG전자가 자사 브랜드로 완제품을 판매하고, 애플은 디자인, 기능, 엔지니어링 개발을 지원하는 구조다. 이를 통해 애플은 자사의 홈 생태계를 효과적으로 확장하고, LG전자는 생산과 고객 지원을 맡게 될 것으로 전망된다.</p>
+<p>양사는 과거에도 맥(Mac)용 울트라파인 4K•5K 디스플레이를 공동 개발한 바 있다.</p>
+<p>한편 애플은 새로운 홈 허브, 애플 TV 4K, 홈팟 미니를 오는 10월 13일 출시하며 스마트홈 시장 공략을 가속화할 것으로 보인다. 애플의 장기적인 스마트홈 로드맵에는 로봇 팔에 디스플레이가 달린 고급형 홈 허브와, LG 협력 제품과는 별개로 독자 개발 중인 AI 기반 가정용 보안 카메라 및 센서(2027년 출시 예정) 등이 포함되어 있다.</p>]]></description>
+		</item>
+		<item>
+			<title>[카드뉴스] AI지원금, 성과가 없어도 계속 투자해야 할까</title>
+			<link>https://zdnet.co.kr/view/?no=20261007101842</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007101842</guid>
+			<author>AMEET</author>
+			<category>AI지원금</category>
+			<category>중기부</category>
+			<category>컴퓨팅</category>
+			<pubDate>Thu, 08 Oct 2026 06:54:14 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/e0a07dda48d253554db979143c86cdf0.png" alt=""><p>안녕하세요, AMEET 기자입니다. </p>
+<img src="https://image.zdnet.co.kr/2026/10/07/e0a07dda48d253554db979143c86cdf0.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/07/6b3ad4b5a77a8487b3467600dd72644f.png" alt="">
+<p>정부가 AI 전환을 돕겠다며 지원금을 마련했는데, 일부 사업은 예산을 30%도 쓰지 못했다는 사실 알고 계셨나요? 국정감사에서 지적된 중기부 AI 전환 사업 일부의 집행률이 30% 미만이었어요. 용돈을 받고 열에 셋도 못 쓴 셈인데요, 나머지 예산은 쓰이지 못한 채 남아 있었어요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/07/1097f1f0a60bb96e1b6f8433a1852407.png" alt="">
+<p>원인은 크게 세 가지로 꼽혀요. 먼저 서류가 너무 어려워서 기업이 절차를 맞추지 못하고 포기하는 경우가 많았어요. 또 AI는 만들다 보면 방향을 자주 바꿔야 하는데, 예산은 한번 정하면 고치기 어려웠고요. 여기에 개발 뒤 판매 단계의 지원이 끊기는 문제도 있었어요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/07/a93e72fd25ce5b7db5da8405ffdd0a68.png" alt="">
+<p><span style="letter-spacing: 0.8px;">그렇다고 돈이 모자란 건 아니에요. 한국의 R&amp;D 비중은 4.94%로 미국(3.45%), 일본(3.44%), 독일(3.15%)보다 높거든요. 결국 문제는 돈의 양이 아니라 나눠 주는 방식인 셈이에요.</span></p>
+<img src="https://image.zdnet.co.kr/2026/10/07/c75a94bfe03514007690c3ad70efa087.png" alt="">
+<p>그래서 토론 패널의 75%는 지원을 끊지 말고 조건부로 이어가거나 다시 설계하자고 했어요. 나머지 25%는 예산을 깎자는 의견이었는데, 성과 없이 쓴 나랏돈이 민간 투자까지 위축시킬까 걱정했어요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/07/c324459c4d4bedef4b574ba5d4a47723.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/07/09fd3a0aa2cfdcde29055b0d513d23b5.png" alt="">
+<p>대안은 게임에서 레벨을 깰 때마다 보상을 받듯, 기술과 판매 준비 목표를 계획서에 적고 달성하면 다음 지원금을 주는 방식이에요. 민간 VC가 투자하면 정부도 함께 지원하는 구조도 담겼고요. 다음엔 평가하는 사람이 얼마나 전문적인지도 함께 지켜봐야 해요. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!</p>
+<img src="https://image.zdnet.co.kr/2026/10/07/43f3afab734a6d75264579470a41b83a.png" alt="">
+<p>▶ 해당 보고서 보기 <a href="https://ameet.zdnet.co.kr/uploads/dcfd1378.html" target="_blank"></a><a target="_blank" href="https://ameet.zdnet.co.kr/uploads/9a0255cd.html" class="link">https://ameet.zdnet.co.kr/uploads/9a0255cd.html</a></p>
+<p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
+		</item>
+		<item>
+			<title>ICANN, 새 일반 최상위 도메인 2026년 라운드용 신청 내역 공개</title>
+			<link>https://zdnet.co.kr/view/?no=20261008051003</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008051003</guid>
+			<author>글로벌뉴스</author>
+			<category>글로벌뉴스</category>
+			<pubDate>Thu, 08 Oct 2026 05:10:03 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://mmx.prnasia.com/media/MS1677807/NEW-gTLD-logo-stacked.jpg?id=OA2991699&amp;p=medium600" alt=""><p><table name='logo_release' border='0' cellspacing='10' cellpadding='5' align='right'>   <tbody>    <tr>     <td><img src='https://mmx.prnasia.com/media/MS1339515/ICANN-Logo.jpg?id=OA2991698&amp;p=medium600' border='0' alt='' title='logo' hspace='0' vspace='0' width='118' /></td>    </tr>   </tbody>  </table>  <p><i>신청 내역에는 도메인 네임 시스템에서 선택권과 경쟁의 확대에 대한 전 세계적 관심 반영돼</i></p>  <p><span class='legendSpanClass'>로스앤젤레스</span>, <span class='legendSpanClass'>2026년 10월 8일</span> PRNewswire / -- 도메인 네임 시스템(Domain Name System, DNS)을 조정하는 비영리 단체 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=2935663946&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D397383330%26u%3Dhttps%253A%252F%252Fwww.icann.org%252F%26a%3DInternet%2BCorporation%2Bfor%2BAssigned%2BNames%2Band%2BNumbers&amp;a=%EA%B5%AD%EC%A0%9C%EC%9D%B8%ED%84%B0%EB%84%B7%EC%A3%BC%EC%86%8C%EA%B8%B0%EA%B5%AC(Internet+Corporation+for+Assigned+Names+and+Numbers' target='_blank' rel='nofollow' style='color: #0000FF'>국제인터넷주소기구(Internet Corporation for Assigned Names and Numbers</a>, ICANN)가 신청받은 문자열과 신청 주체를 공개하며 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=2780927289&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D1837296452%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%26a%3DNew%2BgTLD%2BProgram%253A%2B2026%2BRound&amp;a=%EC%83%88+gTLD+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%3A+2026%EB%85%84+%EB%9D%BC%EC%9A%B4%EB%93%9C(New+gTLD+Program%3A+2026+Round)' target='_blank' rel='nofollow' style='color: #0000FF'>새 gTLD 프로그램: 2026년 라운드(New gTLD Program: 2026 Round)</a>에 대한 신규 일반 최상위 도메인(generic top-level domain, gTLD) 신청 목록을 발표했다. '공개의 날(Reveal Day)'로 알려진 이 공개 정보에는 신청받은 기본 문자열 전체(변형이나 대체 문자열이 있다면 그것까지)와 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=758779041&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D2199499299%26u%3Dhttps%253A%252F%252Fnewgtldprogram-aps.icann.org%252Fapplications%26a%3Dlist%2Bof%2Bpreliminary%2Bcontention%2Bsets&amp;a=%EC%98%88%EB%B9%84+%EA%B2%BD%ED%95%A9+%EC%84%B8%ED%8A%B8+%EB%AA%A9%EB%A1%9D' target='_blank' rel='nofollow' style='color: #0000FF'>예비 경합 세트 목록</a>, 신청별 공개 부분이 포함된다. 신청 정보는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=247271664&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D1182997919%26u%3Dhttps%253A%252F%252Fnewgtldprogram-aps.icann.org%252Fstatistics%26a%3DApplication%2BPublication%2Band%2BStatistics%2Bwebsite&amp;a=2026%EB%85%84+%EB%9D%BC%EC%9A%B4%EB%93%9C+%EC%8B%A0%EC%B2%AD+%EA%B3%B5%EA%B0%9C+%EB%B0%8F+%ED%86%B5%EA%B3%84(2026+Round+Application+Publication+and+Statistics)+%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8' target='_blank' rel='nofollow' style='color: #0000FF'>2026년 라운드 신청 공개 및 통계(2026 Round Application Publication and Statistics) 웹사이트</a>에서 확인할 수 있다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder1' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS1677807/NEW-gTLD-logo-stacked.jpg?id=OA2991699&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS1677807/NEW-gTLD-logo-stacked.jpg?id=OA2991699&amp;p=medium600' title='It's Reveal Day!' alt='It's Reveal Day!' /></a><br /><span>It's Reveal Day!</span></p>  </div>  <p>새 gTLD 프로그램은 ICANN 커뮤니티 주도로 DNS의 지속적인 확장을 지원하는 이니셔티브다. 이 프로그램은 마지막 점 다음에 나오는 인터넷 주소 부분에 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=2400286396&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D2923657723%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%252Fabout%26a%3DgTLDs&amp;a=%EC%83%88+gTLD' target='_blank' rel='nofollow' style='color: #0000FF'>새 gTLD</a>를 도입해 다양성을 촉진하고 경쟁을 촉진하며 DNS의 유용성을 높이는 것을 목표로 한다. 2026년 라운드에서는 기업과 커뮤니티, 정부, 기타 조직이 문화와 문자, 비즈니스 목표, 고객의 관심사에 부합하는 gTLD를 신청할 수 있다.</p>  <p>커티스 린드크비스트(Kurtis Lindqvist) ICANN 사장 겸 최고경영자는 "공개의 날은 도메인 네임 시스템이 다음 단계로 확장하는 데 중요한 이정표"라며 "신청 내역을 보면 전 세계 조직들이 신뢰할 수 있는 온라인 신원체계를 구축하고 커뮤니티에 서비스하며 인터넷 사용자와 연결하는 새로운 방법을 어떻게 찾고 있는지 알 수 있다. ICANN은 전 세계 이해관계자 커뮤니티 여러 곳에서 개발한 정책을 바탕으로 공정하고 투명하며 예측 가능한 평가 프로세스를 관리하는 데 꾸준하게 집중하고 있다"고 말했다.</p>  <p><b>공개의 날 2026년 데이터 주요 특징</b></p>  <p>신청서 제출 기간은 2026년 4월 30일부터 8월 12일까지였다. 2026년 라운드 신청 데이터의 주요 내용은 다음과 같다.</p>  <ul type='disc'>   <li>신청 1615건</li>   <li>브랜드 신청 333건</li>   <li>커뮤니티 계열 신청 16건</li>   <li>자체 식별 지명 신청 15건</li>   <li>신청자 지원 프로그램(Applicant Support Program) 신청자의 신청 51건</li>   <li>아프리카 신청 16건</li>   <li>아시아/호주/태평양 신청 218건</li>   <li>유럽 신청 506건</li>   <li>라틴 아메리카 및 카리브해 신청 11건</li>   <li>북미 신청 864건</li>   <li>국제화 도메인 네임(Internationalized Domain Names) 신청 21건</li>   <li>변형(variant) 신청 9건. 신청자가 아랍어나 중국어와 같이 문자열이 다른 문자로 된 형태인 경우.</li>  </ul>  <p>위 공개의 날 신청 현황은 2026년 10월 7일 현재 기본 문자열 신청 데이터에 따른 것이다. <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=2667230367&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D4121987144%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fsites%252Fdefault%252Ffiles%252Fdocuments%252Freplacement-strings-pattern-30jun25-en.pdf%26a%3DReplacement%2BPeriod&amp;a=%EA%B5%90%EC%B2%B4+%EA%B8%B0%EA%B0%84(Replacement+Period)' target='_blank' rel='nofollow' style='color: #0000FF'>교체 기간(Replacement Period)</a>이 끝나면 신청받은 gTLD 문자열 전체의 최종 목록과 업데이트된 경합 세트 목록이 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=2952838298&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D1013253433%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%252Fapplication-rounds%252Fround2%252Fapplicant-journey%252Fpre-evaluation%2523%253A%257E%253Atext%253Dthe%252520Applicant%252520Guidebook.-%252CString%252520Confirmation%252520Day%252C-Projected%25253A%252520November%2525202026%26a%3DString%2BConfirmation%2BDay&amp;a=%EB%AC%B8%EC%9E%90%EC%97%B4+%ED%99%95%EC%9D%B8%EC%9D%98+%EB%82%A0(String+Confirmation+Day)' target='_blank' rel='nofollow' style='color: #0000FF'>문자열 확인의 날(String Confirmation Day)</a>에 발표된다.</p>  <p>이전 2012년 신청 라운드에서는 비라틴 문자로 된 이름을 포함해 고유한 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=2377802797&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D226993251%26u%3Dhttps%253A%252F%252Fnewgtlds.icann.org%252Fen%252Fprogram-status%252Fdelegated-strings%26a%3D1%252C200%2Bunique%2Bnew%2BgTLDs&amp;a=%EC%83%88+gTLD+1200' target='_blank' rel='nofollow' style='color: #0000FF'>새 gTLD 1200</a>여 건이 추가된 바 있다.</p>  <p><b>프로그램 다음 단계</b></p>  <p>공개의 날 이후, gTLD 신청서 제출 시 두 번째 선택 또는 대체 '교체(replacement)' 문자열을 신청한 자는 자격이 되는 경우 2주 안에 신청한 기본 문자열에서 교체 문자열로 바꿀 수 있다. 이어서 ICANN이 2026년 11월 17일 문자열 확인의 날에 프로그램을 통해 진행되는 문자열 최종 목록을 발표할 예정이다. 이후에는 공식 신청 의견 수렴 기간인 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=1733723012&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D3834351672%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%252Fapplication-rounds%252Fround2%252Fapplicant-journey%252Fcommunity-input%26a%3DCommunity%2BInput%2Band%2BObjections%2BPeriod&amp;a=%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0+%EC%9D%98%EA%B2%AC+%EC%88%98%EB%A0%B4+%EB%B0%8F+%EC%9D%B4%EC%9D%98+%EC%A0%9C%EA%B8%B0+%EA%B8%B0%EA%B0%84(Community+Input+and+Objections+Period)' target='_blank' rel='nofollow' style='color: #0000FF'>커뮤니티 의견 수렴 및 이의 제기 기간(Community Input and Objections Period)</a>이 이어진다. 프로그램 일정과 주요 단계에 관한 추가 정보는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=1074235663&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D1447004700%26u%3Dhttps%253A%252F%252Fwww.icann.org%252Fen%252Fannouncements%252Fdetails%252Ficann-announces-date-for-reveal-day-and-other-2026-round-milestones-29-09-2026-en%26a%3Dhere&amp;a=%EC%97%AC%EA%B8%B0%EC%97%90%EC%84%9C' target='_blank' rel='nofollow' style='color: #0000FF'>여기에서</a> 확인할 수 있다.</p>  <p><b>프로그램 자료와 뉴스</b></p>  <p>프로그램과 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=1061608836&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D902423914%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%252Fapplication-rounds%252Fround2%252Fapplicant-journey%26a%3Dapplicant%2Blifecycle&amp;a=%EC%8B%A0%EC%B2%AD%EC%9E%90+%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4' target='_blank' rel='nofollow' style='color: #0000FF'>신청자 라이프사이클</a>에 대한 정보는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=1594171845&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D4223882371%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%26a%3D2026%2BRound%2Bwebsite&amp;a=2026%EB%85%84+%EB%9D%BC%EC%9A%B4%EB%93%9C+%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8' target='_blank' rel='nofollow' style='color: #0000FF'>2026년 라운드 웹사이트</a>에서 확인할 수 있다. 최신 뉴스 및 업데이트는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791135-1&amp;h=4171265742&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791135-1%26h%3D1258153489%26u%3Dhttps%253A%252F%252Fnewgtldprogram.icann.org%252Fen%252Fnews%252F2026%26a%3DNews%2Band%2BAnnouncements%2Bpage&amp;a=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98+%EB%89%B4%EC%8A%A4+%EB%B0%8F+%EA%B3%B5%EC%A7%80(News+and+Announcements)+%ED%8E%98%EC%9D%B4%EC%A7%80' target='_blank' rel='nofollow' style='color: #0000FF'>프로그램의 뉴스 및 공지(News and Announcements) 페이지</a>를 수시로 확인하면 된다.</p>  <p><b>ICANN 소개</b></p>  <p>ICANN의 사명은 글로벌 인터넷이 안정적이고 안전하며 통일되도록 돕는 것이다. 인터넷에서 다른 사람에게 연락하려면 컴퓨터나 기타 기기에 이름이나 번호와 같은 주소를 입력해야 한다. 컴퓨터가 서로를 찾을 수 있으려면 이 주소는 고유해야 한다. ICANN은 전 세계적으로 이 고유한 식별자를 조정하고 지원한다. ICANN은 1998년 전 세계 참가자 커뮤니티와 함께 비영리 공익 법인으로 설립됐다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder2'>  </div></p>]]></description>
+		</item>
+		<item>
+			<title>어뷰식스, 장기적인 파트너 성장에 투자하기 위해 &apos;어뷰식스 프론트라인&apos; 출시</title>
+			<link>https://zdnet.co.kr/view/?no=20261007231002</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007231002</guid>
+			<author>글로벌뉴스</author>
+			<category>글로벌뉴스</category>
+			<pubDate>Wed, 07 Oct 2026 23:10:02 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<p><table name='logo_release' border='0' cellspacing='10' cellpadding='5' align='right'>   <tbody>    <tr>     <td><img src='https://mmx.prnasia.com/media/MS2003309/Abusix-logo.jpg?id=OA2990775&amp;p=medium600' border='0' alt='' title='logo' hspace='0' vspace='0' width='118' /></td>    </tr>   </tbody>  </table>  <p>마진 보호, 파이프라인 인센티브, 파트너 성장을 지원할 자율성.</p>  <p><span class='legendSpanClass'>보스턴</span>, <span class='legendSpanClass'>2026년 10월 7일</span> PRNewswire / -- 어뷰식스(Abusix)가 10월 7일 공인(Authorized) 및 고급(Advanced) 티어를 통해 파트너에게 상업적 인센티브, 자율성, 지원을 제공하는 프로그램인 <b>어뷰식스 프론트라인</b><b>(Abusix Frontline)</b>을 발표했다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder1'>  </div>  <p>이 프로그램은 거래 등록, 마진 보호, 파이프라인 인센티브 및 교육을 제공한다. 파트너는 갱신 시 표준 마진을 유지하고 다국어를 지원해 주는 AI 비서인 <b>애비</b><b>(Abbie)</b>에 액세스할 수 있다.</p>  <p>재스퍼 루니오(Jasper Lounio) 채널 책임자는 "어뷰식스는 파트너가 어뷰식스와 함께 성장하는 데 시간과 리소스를 투자하고 싶게 만드는 요소들을 중심으로 이 프로그램을 구축했다. 이는 강력한 마진을 의미하며 고객이 갱신할 때 그 마진을 보호해 주고 최종 거래뿐만 아니라 파이프라인을 구축하는 작업도 인정해 주는 것이다"라고 말했다.</p>  <p>파트너는 등록된 계정에 대해 채널 충돌 없이 독립적으로 거래를 등록하고 견적을 작성하며 기회를 진척시킬 수 있다.</p>  <p>토비아스 크네히트(Tobias Knecht) 어뷰식스 창립자 겸 CEO는 "피싱 공격은 대부분 누군가의 받은 편지함에 도달하기 전에 서비스 제공업체가 제공하는 메일 인프라를 통과하며 그 운영자도 그것을 알고 있다. 이것이 바로 현재 우리 파트너들의 영업 대상이 되는 문제다. 파트너는 고객 관계와 현지 수요층을 가져온다. 당사는 검증된 수요가 있는 기술을 제공하므로 첫 대화부터 상업적 기회가 드러난다"고 말했다.</p>  <p>플로랑 마넨스(Florent Manens) 비짐(Beezim) CEO는 "당사가 어뷰식스 프론트라인 프로그램과 협력하면서 가치 있게 여기는 것은 당사가 제공받는 독립성이다. 당사는 기회를 등록하고 견적을 작성하며 직접 거래를 진행하는 동시에 어뷰식스 팀에 직접 액세스할 수 있다. 이 서비스는 고객에게 최고 품질의 필터링을 제공할 때 유용하다. 모든 것이 한곳에 있어 협업이 간단해지고 고객과 비즈니스 성장에 집중할 수 있다"고 덧붙였다.</p>  <p>어뷰식스 프론트라인은 부가가치 리셀러(VAR), 시스템 통합업체(SI), 기술 파트너 및 유통업체라면 이용할 수 있다. <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4790718-1&amp;h=1802693894&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4790718-1%26h%3D122356896%26u%3Dhttp%253A%252F%252Fpartners.abusix.com%252F%26a%3Dpartners.abusix.com&amp;a=partners.abusix.com' target='_blank' rel='nofollow' style='color: #0000FF'>partners.abusix.com</a><a href='mailto:partners@abusix.com' target='_blank' rel='nofollow' style='color: #0000FF'>partners@abusix.com</a>.</p>  <p><b>어뷰식스 소개 </b></p>  <p>어뷰식스는 이메일 보안 및 네트워크 남용 보고서 처리 솔루션을 제공하는 선도 네트워크 보안 기업으로 사명은 더 안전한 인터넷을 구축하는 것이다. 어뷰식스는 네트워크 및 메일 제공업체를 위해 엣지(edge)에서 이메일 위협을 차단하고 Abusix Mail, Abusix Ops, Abusix Threat Intel이라는 제품군을 통해 첫 보고부터 해결까지 네트워크 남용 처리를 자동화한다. 유럽에서는 10대 통신 기업 중 7곳이 어뷰식스의 고객이며 북미, 유럽•중동•아프리카(EMEA) 및 아시아태평양(APAC) 지역의 인터넷 서비스 제공업체, 사서함 제공업체, 클라우드 및 호스팅 기업들도 어뷰식스의 고객이다. 어뷰식스는 매사추세츠주 보스턴에 본사를 두고 있다. 자세한 내용은 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4790718-1&amp;h=246717524&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4790718-1%26h%3D1835611276%26u%3Dhttp%253A%252F%252Fabusix.com%252F%26a%3Dabusix.com&amp;a=abusix.com' target='_blank' rel='nofollow' style='color: #0000FF'>abusix.com</a>에서 확인할 수 있다.</p></p>]]></description>
+		</item>
+		<item>
+			<title>LG전자, &apos;주거공간 탄소중립&apos; 로드맵 공개…&quot;히트펌프 전환 핵심&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261007185830</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007185830</guid>
+			<author>진운용 기자</author>
+			<category>LG전자</category>
+			<category>히트펌프</category>
+			<category>넷 제로</category>
+			<category>냉난방</category>
+			<category>스마트코티지</category>
+			<category>홈/모바일</category>
+			<pubDate>Wed, 07 Oct 2026 22:25:32 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/9b64e69539528f7a10dd8ba8a325f06f.jpg" alt=""><p>LG전자가 7일 서울 대한상공회의소에서 열린 &apos;한국형 녹색대전환(K-GX) 전략 국민보고회&apos;에서 주거공간 탄소중립 실현을 위한 중장기 로드맵을 발표했다.</p>
+<p>이재성 LG전자 ES사업본부장 사장은 보고회에서 화석연료 중심 난방체계를 고효율 히트펌프로 전환하고, 에너지 최적화를 실현하는 것이 주거공간 탄소중립 핵심이라고 강조했다. </p>
+<img src="https://image.zdnet.co.kr/2026/10/07/9b64e69539528f7a10dd8ba8a325f06f.jpg" alt="LG전자가 정부의 한국형 녹색대전환 전략에 ‘국민 주거공간의 GX 확산’ 분야 대표 기업으로 참여해 히트펌프를 기반으로 한 주거공간 탄소중립 실현을 위한 중장기 로드맵을 발표했다. 사진은 LG전자 히트펌프 보일러 써마브이(LG Therma V). (사진=LG전자)">
+<p><span style="letter-spacing: 0.8px;">LG전자는 히트펌프와 가전, 홈에너지관리시스템(HEMS), 에너지저장장치(ESS), 태양광 발전을 결합한 에너지 자립형 모듈러 주택 &apos;스마트 코티지&apos;를 대표 모델로 </span><span style="letter-spacing: 0.8px;">제시했다. 스마트코티지는 주거공간 에너지 효율을 높이는 것을 넘어 에너지 생산·소비를 최적화해 탄소 배출을 줄이고 에너지 자립도를 높이는 미래형 주거 솔루션이다. </span></p>
+<p>회사는 향후 에너지 자립형 주거단지 조성사업 참여를 추진할 계획이다. 또한 창원공장을 중심으로 히트펌프 생산시설을 확대하고, 주거 유형별 표준화를 통해 공공임대 및 민간 공동주택으로 &apos;넷 제로(Net Zero)&apos; 주거단지 모델을 확산한다는 구상이다.</p>
+<p>LG전자는 제주특별자치도, 제주개발공사, 한국생산기술연구원과 함께 공동주택 냉·난방 전기화 실증사업 중이다. LG전자는 아파트 단지에 히트펌프를 적용해 한국형 공동주택 냉·난방 전기화를 검증하고 있다. </p>]]></description>
+		</item>
+		<item>
+			<title>구글, 이미지 모델 &apos;나노 바나나 2.1&apos; 정식 출시…글자 표현 개선</title>
+			<link>https://zdnet.co.kr/view/?no=20261007213423</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007213423</guid>
+			<author>AI 에디터</author>
+			<category>AI 에디터</category>
+			<category>컴퓨팅</category>
+			<pubDate>Wed, 07 Oct 2026 21:34:23 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/ai464655fda2141145ba8b505a202b18b1.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/07/ai464655fda2141145ba8b505a202b18b1.jpg" alt="">
+<p>구글이 현지 시각 10월 6일 제미나이 API 릴리스 노트를 통해 이미지 생성·편집 모델 &apos;제미나이 나노 바나나 2.1(gemini-nano-banana-2.1)&apos;을 정식 출시했다. 나노 바나나 2(제미나이 3.1 플래시 이미지)의 후속 모델로, 플래시급 속도와 비용을 유지하면서 화질과 프롬프트 반영 정확도, 여러 차례 대화를 이어 가며 편집할 때의 캐릭터 일관성, 이미지 속 글자 표현을 높였다. 상위 모델인 나노 바나나 프로(제미나이 3 프로 이미지)보다 효율에 초점을 맞춘 모델이다.</p>
+<p>출력 해상도는 1K·2K·4K 중에서 선택하며, 구글은 이전 모델에서 2K·4K 해상도로 가로나 세로로 긴 비율(1:4, 4:1, 1:8, 8:1) 이미지를 생성할 때 발생하던 타일 이음새 문제를 수정했다. 타일 이음새는 큰 이미지를 여러 조각으로 나눠 생성할 때 조각 사이 경계선이 보이는 현상이다. 인포그래픽의 배치 정확도도 개선했다.</p>
+<p>참조 이미지는 최대 14장까지 입력할 수 있어, 인물은 최대 4명까지 같은 모습을 유지하고, 사물은 최대 10개까지 원본 형태를 반영한다. 구글 웹 검색과 이미지 검색 결과를 근거로 이미지를 생성하는 검색 그라운딩도 지원한다. 그라운딩은 AI가 외부에서 확인한 정보를 바탕으로 결과물을 작성하게 하는 기능이다. 생성 전에 추론하는 정도인 사고 수준은 최소·중간·높음 중에서 고르며, 기본값은 중간이다.</p>
+<p>나노 바나나 2.1은 텍스트와 이미지, 동영상, PDF를 입력받으며, 입력 토큰 한도는 13만 1,072개, 출력 토큰 한도는 3만 2,768개다. 대량 작업을 한꺼번에 처리하는 배치 API를 지원하고, 함수 호출과 구조화된 출력, 코드 실행 기능은 지원하지 않는다.</p>
+<p>기존 모델인 제미나이 3.1 플래시 이미지(gemini-3.1-flash-image)는 지원 중단 대상으로 지정됐고 10월 29일 서비스를 종료한다. 구글은 개발자들에게 나노 바나나 2.1로 전환하라고 안내했다. 새 모델은 구글 AI 스튜디오에서 바로 시험해 볼 수 있다.</p>
+<p>자세한 내용은 <a href="https://ai.google.dev/gemini-api/docs/models/gemini-nano-banana-2.1" target="_blank" rel="noopener noreferrer" style="letter-spacing: 0.8px; background-color: rgb(255, 255, 255); font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><strong>구글 AI 포 디벨로퍼스(Google AI for Developers)</strong></a><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">에서 확인할 수 있다.</span></p>
+<p>이미지 출처: 구글</p>
+<p><a href="https://aimatters.co.kr/subscribe" target="_blank"></a></p>
+<p>■ 이 기사는 AI 전문 매체 ‘<a href="https://aimatters.co.kr/" target="_blank">AI 매터스</a>’와 제휴를 통해 제공됩니다. 기사는 클로드 3.5 소네트와 챗GPT를 활용해 작성되었습니다. (☞ <a href="https://aimatters.co.kr/?p=54197" target="_blank" rel="nofollow" class="link">기사 원문 바로가기</a>)</p>]]></description>
+		</item>
 		<item>
 			<title>일본 켄소 소아이, 노벨화학상…佛 앙리 카강과 공동</title>
 			<link>https://zdnet.co.kr/view/?no=20261007193902</link>
@@ -256,7 +364,7 @@
 <p>또 그는 "AI 시대 핵심은 확장성"이라며 "우리는 온프레미스와 클라우드 환경을 모두 제공해 기업 인프라 선택 폭을 넓힐 것"이라고 밝혔다.</p>]]></description>
 		</item>
 		<item>
-			<title>정부, 한국형 녹색대전환(K-GX)에 2035년까지 1000조 투입</title>
+			<title>정부, 한국형 녹색대전환에 2035년까지 1000조 투입</title>
 			<link>https://zdnet.co.kr/view/?no=20261007171812</link>
 			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007171812</guid>
 			<author>주문정 기자</author>
@@ -1218,169 +1326,6 @@
 <p>고연령, 장애인을 위한 배리어프리 키오스크도 확대할 계획이다. SK쉴더스 관계자는 "과거 키오스크는 사용에 제약이 있었지만 지금은 청각장애인에게는 화면 자막으로 시각장애인에게는 음성으로 응대하는 식으로 대화형 AI가 발전하고 있다"며 "배리어프리 키오스크 설치가 필수가 되고 있는 만큼 관련 사업도 확대될 것으로 기대한다"고 말했다.</p>
 <p>리테일 분야 사례도 소개했다. 이스트소프트는 지난 7월 CJ올리브영과 페르소 인터랙티브 기반 &apos;AI 쇼핑 어시스턴트&apos;를 출시하고 외국인 방문객이 많은 3개 매장에 우선 도입했다. 외국인 고객의 질문에 해당 언어로 답하고 상품 추천, 인기 상품 안내, 성분 문의 응대를 지원한다.</p>
 <p>이스트소프트 관계자는 "AI컨시어지는 절차를 몰라도 대화를 통해 의도를 파악하고 무엇이 필요한지 거대언어모델(LLM)이 판단해 제안한다"며 "외국인이나 고령층 등 기존 키오스크 이용이 어려웠던 이들도 다양한 환경에서 손쉽게 의사소통이 가능해질 것으로 기대한다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;AI가 한 행동, 책임은 누가&quot;…IBM, &quot;에이전트 행동 기록 체계 구축해야&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261007160321</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007160321</guid>
-			<author>남혁우 기자</author>
-			<category>AI페스타26</category>
-			<category>IBM</category>
-			<category>AI에이전트</category>
-			<category>인공지능</category>
-			<category>자동화</category>
-			<category>데이터</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 07 Oct 2026 16:07:12 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/bafb0b61583ee4f677405e5f7c656f61.jpg" alt=""><p><span style="letter-spacing: 0.8px;">"이제 인공지능(AI)은 단순히 정보를 제공하는 단계를 넘어 실제 업무와 의사결정에 관여하고 있습니다. AI가 어떤 행동을 했을 때 책임과 통제권은 누구에게 있는지 물어야 할 시기입니다."</span></p>
-<p>셴커 V 셀바두라이 IBM 아시아태평양(APAC) 부사장 겸 최고기술책임자(CTO)는 7일 코엑스에서 열린 AI페스타26의 부대행사인 퓨처테크컨퍼런스에서 기업은 에이전트의 행동을 추적하고 증명할 수 있는 체계가 마련해야 한다고 강조했다.</p>
-<p>셀바두라이 CTO는 AI가 에이전트 중심으로 발전하는 지금 두 가지 질문이 중요해지고 있다고 말했다. 모델과 컴퓨팅 자원, 데이터를 누가 소유하는지, 그리고 AI 에이전트가 실제로 한 행동을 누가 통제하고 책임지는지다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/bafb0b61583ee4f677405e5f7c656f61.jpg" alt="셴커 V 셀바두라이 IBM 아시아태평양(APAC) 부사장 겸 최고기술책임자(CTO)(사진=지디넷코리아)">
-<p>그는 두 질문 모두에서 한국이 세계에서 상당히 앞서 있다고 평가했다. 첫번쨰 질문의 경우 이미 자체 AI를 만들어 국내에서 활용하는 방식으로 이미 답을 냈다는 것이다.</p>
-<p>두 번째 질문은 아직 어느 나라도 명확한 답을 내놓지 못했지만 한국은 AI 기본법을 먼저 시행하고 제조·조선·반도체 등 주요 산업에 에이전트를 도입하면서 이 문제를 가장 먼저 마주하고 있다고 평가했다.</p>
-<p>그는 두 번째 질문에 답하는 일이 중요한 이유로 기업의 AI 도입 과정에서 발생하는 현실적인 문제를 들었다. AI 에이전트가 사용하는 모델과 도구가 수시로 바뀌면 행동도 달라질 수 있다. 이때 에이전트의 행동을 누가 통제하고 문제가 생기면 누가 책임질지에 대한 기준이 필요하다는 것이다.</p>
-<p>셀바두라이 CTO는 이를 공장 기계의 검사 인증서에 비유했다. 그는 "검사 인증서를 받은 기계가 밤사이 스스로 부품을 바꿨다면 인증서만으로는 더 이상 현재 장비의 상태를 설명하기 어렵다"며 "AI 에이전트도 사용하는 모델과 도구가 수시로 바뀌면 승인받은 시스템과 실제 운영 중인 시스템이 달라질 수 있고 그 결과를 예측하거나 설명하기 어려워질 수 있다"고 말했다.</p>
-<p>그는 이런 문제를 해결하려면 단순한 로그를 넘어 에이전트의 행동을 추적할 수 있는 기록이 필요하다고 강조했다. 로그가 시스템에서 어떤 일이 발생했는지를 보여준다면, 행동 기록은 에이전트가 무엇을 했고 누구의 권한으로 행동했는지 확인할 수 있게 한다. 문제가 생겼을 때 에이전트가 무엇을 하도록 승인받았는지가 아니라 실제로 무엇을 했는지 밝혀야 한다는 취지다.</p>
-<p>셀바두라이 CTO가 해법으로 제시한 것은 기록이다. 무슨 일이 일어났다는 사실만 남는 로그와 달리, 기록은 에이전트가 무엇을 누구의 권한으로 했는지 보여준다면 누구의 책임이지 명확히 할 수 있다는 것이다.</p>
-<p>그는 "예를 들어 은행에서 AI로 대출 심사를 하는 과정에서 장애가 발생했을 때 어떤 AI 모델이 판단했는지 아니면 외무 공급사가 임의로 AI 모델을 교체한 것인지 답하지 못하면 책임소지 뿐만 아니라 해당 심사가 옳았는지 증명하는 것조차 어렵다"고 설명했다.</p>
-<p>이어 "그래서 IBM은 실제 업무에 에이전트를 사용 중인 기업들에게 세 가지를 점검할 것을 제안하고 있다"며 "어디서 실행되고 누가 멈출 수 있는지, 읽고 쓰는 데이터는 어디에 있는지, 행동 기록은 어디에 있고 누가 볼 수 있는지"라고 밝혔다.</p>
-<p>그는 모든 AI를 직접 통제할 필요 없이 대출 심사처럼 결과를 되돌리기 어려운 업무에 적용하는 것으로 충분하다며 기록 기능은 나중에 덧붙이기 어려운 만큼 에이전트를 만들 때부터 넣으라는 조언도 덧붙였다.</p>
-<p>셀바두라이 CTO는 "AI 행동의 주인은 무슨 일이 일어났는지 보여줄 수 있는 조직"이라며 "모델을 소유하는 것은 필요하지만 그것만으로는 충분하지 않다"고 말했다.</p>
-<p>이어 "한국이 과거 초고속 인터넷을 빠르게 구축해 세계의 참고 사례가 된 것처럼 AI 에이전트의 책임과 승인 기준을 세우는 일에서도 앞장설 수 있을 것"이라고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;검색만으론 부족&quot;…퍼플렉시티, &apos;AI 컴퓨터&apos;로 업무까지 맡는다</title>
-			<link>https://zdnet.co.kr/view/?no=20261007154719</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007154719</guid>
-			<author>이나연 기자</author>
-			<category>AI페스타</category>
-			<category>퍼플렉시티</category>
-			<category>AI</category>
-			<category>검색</category>
-			<category>코멧</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 07 Oct 2026 16:05:39 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/4669892c7472fd930c752a2835f0d9b1.jpg" alt=""><p><span style="letter-spacing: 0.8px;">정확한 검색 결과를 기반으로 답을 제공하는 &apos;인공지능(AI) 답변 엔진&apos;으로 성장한 퍼플렉시티가 여러 AI 모델과 기업용 업무 도구를 연결해 업무까지 수행하는 &apos;AI 컴퓨터&apos;로 영역을 넓힌다. </span><span style="letter-spacing: 0.8px;">거대언어모델(LLM) 하나에 의존하는 대신 20개 이상의 모델 가운데 작업별 최적의 모델을 골라 협업시키고, 400개 이상의 커넥터로 업무 서비스를 연동해 AI 에이전트 시장을 공략한다.</span></p>
-<p>모리타 준 퍼플렉시티 아시아태평양(APAC) 총괄대표는 7일 서울 강남구 코엑스에서 열린 &apos;AI페스타 26&apos; 퓨처 테크 컨퍼런스에서 "에이전틱 AI 시대에는 의사결정과 결정권이 AI가 아니라 개인과 사용자에게 있어야 한다"며 "우리는 범용인공지능(AGI)을 위한 에이전틱 AI가 아니라 인간을 위한 에이전틱 AI를 만들고 있다"고 밝혔다.</p>
-<p>이날 &apos;지능에서 영향력으로, 에이전틱 미래 구축&apos;을 주제로 발표에 나선 모리타 대표는 퍼플렉시티가 검색 중심의 답변 엔진에서 실제 업무를 수행하는 에이전틱 AI 플랫폼으로 진화하고 있다고 소개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/4669892c7472fd930c752a2835f0d9b1.jpg" alt="모리타 준 퍼플렉시티 아시아태평양(APAC) 총괄대표가 7일 서울 강남구 코엑스에서 열린 &apos;AI페스타 26&apos; 퓨처 테크 컨퍼런스에서 발표하고 있다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">기존 검색엔진이 이용자에게 여러 링크를 제시했다면 퍼플렉시티는 검색을 거쳐 직접 답을 제공하는 방식으로 검색 경험을 바꿔왔다. 여기에 행동을 수행하는 에이전트를 결합해 AI의 역할을 답변에서 업무 실행으로 넓히겠다는 구상이다.</span></p>
-<p>이같은 전략의 중심에는 퍼플렉시티의 &apos;컴퓨터&apos;가 있다. 여러 프론티어 모델과 파일, 업무 도구를 연결하는 오케스트레이터로, 20개 이상의 LLM을 활용한다. 사용자의 요청을 분석해 작업에 가장 적합한 모델을 선택하고 여러 하위 작업으로 나눠 처리한 뒤 결과를 다시 교차 검증하는 방식이다.</p>
-<p>특정 프론티어 모델에 모든 업무를 맡기지 않는 것이 퍼플렉시티 전략의 특징이다. 모델마다 잘하는 작업이 다른 만큼, 여러 모델을 적재적소에 배치하면 정확도를 높이는 동시에 하나의 모델에 대한 의존도를 낮출 수 있다는 판단이다.</p>
-<p><span style="letter-spacing: 0.8px;">모리타 대표는 "각각의 LLM은 서로 다른 분야와 작업에 강점이 있다는 것을 확인했다"며 "한 프론티어 모델에 모든 파일과 데이터를 의존할 필요는 없으며 가능한 프론티어 모델과 오픈소스 모델을 오케스트레이션하는 것이 더 높은 정확도로 이어질 수 있다"고 말했다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/07/76010bb98a592d185dd7dc757c369495.jpg" alt="모리타 준 퍼플렉시티 아시아태평양(APAC) 총괄대표가 7일 서울 강남구 코엑스에서 열린 &apos;AI페스타 26&apos; 퓨처 테크 컨퍼런스에서 발표하고 있다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">AI와 사람이 상호작용하는 방식도 달라진다. 지금까지는 이용자가 챗봇에 구체적인 명령을 하나씩 입력했다면 에이전틱 AI에서는 최종 목표를 제시하고 AI가 필요한 세부 작업을 스스로 구성하는 방식으로 전환된다는 설명이다. 예컨대 이용자가 &apos;회의를 준비해 달라&apos;고 요청하면 관련 자료를 찾고 연결하는 여러 하위 작업을 AI가 알아서 수행한다.</span></p>
-<p>모리타 대표는 "우리가 AI를 사용하는 방식은 지시에서 목표로 바뀌고 있다"며 "컴퓨터는 여러 데이터를 연결해 일상적으로 필요한 작업을 지원할 수 있다"고 부연했다.</p>
-<p>기업 업무와의 연결도 확대하고 있다. 현재 컴퓨터에는 슬랙과 세일즈포스 솔루션 등을 포함해 400개 이상의 커넥터를 연결할 수 있다. 이용자가 스마트폰에서 작업을 지시하면 노트북을 계속 켜두지 않아도 클라우드에서 업무를 수행할 수 있도록 했다.</p>
-<p>보안이 중요한 기업을 겨냥해서는 클라우드와 로컬 환경을 결합한 하이브리드 컴퓨터를 차세대 에이전틱 AI 전략으로 제시했다. 민감한 기업 파일은 로컬 모델에서 처리하고 고성능 추론과 웹 검색, 계획 수립이 필요한 작업만 클라우드의 프론티어 모델에 맡기는 구조다. 이날 시연에서는 기업 재무자료와 임원 메모는 로컬에 유지하면서 경쟁사 관련 외부 조사만 클라우드에서 수행하는 사례를 선보였다.</p>
-<p>모리타 대표는 "앞으로 많은 업무와 일상적인 작업이 에이전틱 방식에 의존하게 될 것"이라며 "효율성을 높이고 최신 모델을 활용하기 위해 보안을 포기할 필요는 없다"고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>충북양자연구센터, 국내 유일 실물 양자컴퓨터 교육</title>
-			<link>https://zdnet.co.kr/view/?no=20261007160115</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007160115</guid>
-			<author>박희범 기자</author>
-			<category>AI페스타</category>
-			<category>충북양자연구센터</category>
-			<category>신경망</category>
-			<category>ITRC</category>
-			<category>대학ICT센터</category>
-			<category>양자기술플랫폼연구센터</category>
-			<category>AI페스타2026</category>
-			<category>양자</category>
-			<category>과학</category>
-			<pubDate>Wed, 07 Oct 2026 16:01:15 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/eca27988ac9f12c0636b6d968e73672a.jpg" alt=""><p><span style="letter-spacing: 0.8px;">충북양자연구센터(센터장 김기웅,충북대 물리학과 교수)가 8일까지 코엑스에서 진행되는 AI페스타에서 양자 신경망 모델로 관심을 끌었다.</span></p>
-<p>박성현 충북대 석·박사통합과정 연구생(4년차)은 "양자 어닐링을 활용해 신경망 학습 과정을 구현하고 성능을 분석하는 연구를 진행하고 있다"며 "에너지 변화와 고정점 특성을 분석해 양자 학습의 성능과 동작원리를 탐구하는 모델을 이번에 공개한다"고 말했다.</p>
-<p>충북양자연구센터는 지난 2024년 충북대학교 학연산공동기술연구원에 개소했다. 국내 최초로 연구자가 하드웨어에 직접 접근할 수 있는 초전도 큐비트 기반 양자컴퓨터 &apos;IQM 스파크&apos;를 도입했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/eca27988ac9f12c0636b6d968e73672a.jpg" alt="AI페스타 충북양자연구센터 부스 전경. 박성현 충북대 석·박사통합과정 연구생(4년차, 오른쪽)과 전하넓  석사과정 연구생,(2년차), 유아림 석박사통합과정 연구생(3년차), 최서병 물리학과 학생(4년)이 함께 했다.(사진=지디넷코리아)">
-<p>센터는 이를 활용, 양자컴퓨팅 응용 연구를 비롯한 양자 어닐링, 양자센싱, 양자-AI 융합 연구 등 다방면의 연구를 수행 중이다.</p>
-<p>김기웅 센터장은 "청주 오창에 구축되는 차세대 방사광가속기 &apos;한국새빛가속기&apos;와 연계한 연구 인프라 조성과, 양자 인재 양성을 통한 충북 광역권 양자산업 생태계 구축을 추진하고 있다"고 말했다.</p>
-<p>김 센터장은 "현재 실물 양자컴퓨팅 클라우드 서비스를 개발 중"이라며 "대부분 양자 회로 실행에 그치는 다른 상용 서비스와 달리 하드웨어 레벨까지 사용자가 조정할 수 있는 차별화된 서비스를 목표로 한다. 이를 기반으로 하는 양자 인재 양성을 위한 교육 플랫폼도 함께 개발하고 있다"고 설명했다.</p>
-<p>김 센터장은 또 양자 어닐러로 방사광가속기 측정 이미지를 재구성하는 기술을 개발하는 한편, 광펌핑자력계(OPM)와 다이아몬드 NV센터 등 다양한 양자센서를 결합한 연구 인프라를 구축하고 있다"며 "최근에는 양자 AI를 차세대 핵심 연구 방향으로 삼아 양자-고전 하이브리드 머신러닝, 양자신경망(QNN) 등 양자-AI 융합 연구에도 역량을 집중하는 중"이라고 덧붙였다.</p>
-<p>충북양자연구센터는 온프레미스 양자컴퓨터를 비롯한 하드웨어 접근형 클라우드 서비스, 양자 교육 플랫폼, 방사광·양자 센서 연계 연구 인프라 조성까지, 탄탄한 인프라를 바탕으로 연구부터 인력 양성까지 한 기관에서 아우르는 지역 거점형 원스톱 양자 연구 생태계 모델을 지향하고 있다.</p>
-<p>김기웅 센터장은 "국내 유일의 실물 양자컴퓨터 교육 인프라를 이용, 대학ICT센터(양자기술플랫폼연구센터)와 연계한 양자전문인력양성은 물론 교육용 클라우드 개발로 초중고 과정부터 양자적으로 생각하는 인재를 육성하고 있다"고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;실제 공간을 3D 데이터로&quot;…디케이시스템, 라이다로 설계·시설 관리 지원</title>
-			<link>https://zdnet.co.kr/view/?no=20261007153428</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007153428</guid>
-			<author>류승현 기자</author>
-			<category>디케이시스템</category>
-			<category>3D</category>
-			<category>3D 데이터</category>
-			<category>AI페스타</category>
-			<category>AI 페스타 26</category>
-			<category>AI페스타 2026</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 07 Oct 2026 15:44:27 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/4ee4fade185f8869db379efde850e58e.jpg" alt=""><p>디케이시스템이 실제 공간을 스캔해 3차원 데이터로 기록하는 라이다 장비를 선보였다. 건축·토목부터 문화재와 실내 설비까지 공간 정보를 디지털화해 설계와 유지보수에 활용하도록 지원한다.</p>
-<p>디케이시스템은 7일 서울 코엑스에서 열린 ‘AI 페스타 2026’에서 휴대형 라이다와 근접 라이다 등 공간 스캔 장비를 소개했다. 회사는 측량 장비에서 출발해 라이다 기반 공간 데이터 수집 분야로 사업을 넓혀왔다.</p>
-<p>현장에서는 전시 공간을 직접 스캔한 데이터를 컴퓨터 화면으로 보여줬다. 부스 주변 구조와 천장 타일 형태 등을 3차원으로 확인할 수 있도록 실제 공간을 디지털 데이터로 구현했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/4ee4fade185f8869db379efde850e58e.jpg" alt="AI페스타 26에 마련된 디케이시스템 부스.(사진=지디넷코리아)">
-<p>수집한 데이터는 공간의 현황을 파악하고 설계에 활용할 수 있다. 건축정보모델링(BIM)으로 가공하면 시설의 유지보수와 관리에도 사용할 수 있다는 설명이다. <span style="letter-spacing: 0.8px;">디케이시스템 관계자는 “스캔한 데이터로 설계를 하거나 BIM으로 만들어 유지보수 관리에 활용할 수 있다”고 말했다.</span></p>
-<p>활용 분야는 건축·측량·토목과 설비, 문화재, 산림 등이다. 회사는 문화재 기록과 실내 공간·설비 분야에서 장비가 사용되고 있으며 건축 분야에도 납품한 사례가 있다고 설명했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/f2cd51d4fd7e3b8f32e02f4444cf385c.jpg" alt="전시 공간 주변을 디지털 데이터로 구현한 모습.(사진=지디넷코리아)">
-<p>관계자는 “라이다 분야로 넘어오면서 활용 분야가 굉장히 많아졌다”며 “건축과 토목뿐 아니라 설비나 문화재, 산림 쪽에서도 쓰인다”고 밝혔다.</p>
-<p>디케이시스템은 이번 전시를 통해 공간 스캔 기술을 알리고 관련 수요가 있는 기업을 찾는 데 주력하고 있다. 도입 대상은 대규모 기업에 한정되지 않으며 공간 데이터가 필요한 소규모 기업도 장비를 활용할 수 있다는 설명이다.</p>
-<p>디케이시스템 관계자는 “아직 보편화되지 않은 만큼 이런 솔루션이 있다는 것을 최대한 많이 알리고자 한다”고 말했다.</p>
-<p>AI 페스타 2026은 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 인공지능주간 공식 행사다. 올해 행사는 6일부터 8일까지 사흘간 서울 코엑스 C홀에서 열린다.</p>]]></description>
-		</item>
-		<item>
-			<title>젠스파크 &quot;AI는 도구 아닌 팀원…궁극적 목표는 &apos;AI 운영 회사&apos;&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261007151457</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007151457</guid>
-			<author>박서린 기자</author>
-			<category>젠스파크</category>
-			<category>카이 주</category>
-			<category>AI</category>
-			<category>에이전트</category>
-			<category>병목</category>
-			<category>AI페스타26</category>
-			<category>AI페스타</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 07 Oct 2026 15:43:16 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/c937e75ebe8c439dbc765baa29f6c6d9.jpg" alt=""><p>AI 스타트업 젠스파크가 인공지능(AI) 에이전트를 단순한 업무 보조 도구가 아닌 ‘동등한 팀원’으로 활용하는 자율조직 구축에 속도를 낸다. 메모리·액션·연속성 등 AI 에이전트의 기술적 병목을 해결해 개인과 조직의 생산성을 끌어올리고, 궁극적으로는 AI가 회사 운영 전반을 맡는 조직으로 진화한다는 구상이다.</p>
-<p>카이 주 젠스파크 공동창업자는 7일 서울 코엑스에서 열린 ‘AI 페스타 2026’ 퓨처 테크 컨퍼런스에서 AI 에이전트가 회사 운영을 주도하는 기업으로 발전하기 위한 기술과 조직 전략을 공개했다.</p>
-<p><span style="letter-spacing: 0.8px;">젠스파크의 전체 직원은 60명 수준이며, 그중 50여 명이 소프트웨어 엔지니어로 이뤄져 있다. 최근 연간반복매출(ARR)은 5000만 달러(669억원)이며, 올해 1월부터 시작한 엔터프라이즈 사업은 8개월 만에 7000개가 넘는 기업을 고객으로 확보했다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/07/c937e75ebe8c439dbc765baa29f6c6d9.jpg" alt="카이 주 젠스파크 공동창업자가 7일 서울 코엑스에서 열린 ‘AI 페스타 2026’ 퓨처 테크 컨퍼런스에서 발표를 진행하고 있다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">주 공동창업자는 작은 기업이었던 젠스파크가 AI 오피스 스위트, 세컨드 브레인 등과 같이 많은 제품을 만들 수 있었던 원동력으로 자체적인 자율조직 조성을 꼽았다. 주 공동창업자는 “자율조직에서 사용하는 제품을 만드는 것, 또 다른 하나는 젠스파크라는 회사 자체를 자율 조직으로 만드는 것이 (자율조직의) 두 가지 축”이라고 설명했다.</span></p>
-<p>젠스파크는 2023~2024년 AI 검색을, 지난해에는 스스로 계획을 세우고 실행하는 자율형 AI 어시스턴트 ‘슈퍼 에이전트’를 출시했다. 올해는 AI 팀원을 만들고 있다.</p>
-<p>주 공동창업자는 AI 팀원을 만드는 단계로 가기 위해서는 메모리·액션·연속성 병목을 해결해야 한다고 강조했다. 모든 업무를 도구 정의와 MCP를 거쳐 처리하면 비효율적인데다 컨텍스트 윈도를 많이 소모하기 때문이다. 또 작업이 복잡해지면 에이전트가 작업을 한 번에 끝내기 어려워지면서다.</p>
-<p>그는 메모리 병목을 해결하는 방법으로 AI 에이전트에게 하드디스크를 주는 것을 언급했다. 에이전트 하네스 시스템에서 파일 시스템은 하드디스크와 같은 역할을 하는데, 파일 시스템의 경우 프로그램 파일, 의사결정 로그 등 많은 컨텍스트를 저장할 수 있게 된다. 젠스파크는 하드디스크 역할을 수행하기 위해 젠스파크 유니파이드 파일 시스템을 구현했다.</p>
-<p>액션 병목을 해결하기 위해서는 모든 도구에 CLI 명령어를 제공했다. CLI 도구를 이용해 여러 도구를 연결해 처리하면 사용되는 토큰 수를 약 200토큰으로 줄일 수 있다. GSK 커맨드라인을 만들어 이를 해결했다.</p>
-<p>연속성 병목의 경우 외부에 반복 루프를 두는 방식으로 문제점을 해결했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/fd75466845bc4eb94038e98ce1611471.jpg" alt="카이 주 젠스파크 공동창업자가 7일 서울 코엑스에서 열린 ‘AI 페스타 2026’ 퓨처 테크 컨퍼런스에서 향후 회사가 나아갈 방향에 대해 언급하고 있다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">이어 젠스파크는 회사가 지향하는 다음 단계로 ‘자율조직’을 꼽았다. 주 공동창업자는 “자율조직을 만들 때 에이전트를 동등한 팀원으로 만드는 것이 중요하다”고 덧붙였다.</span></p>
-<p>그는 회사를 자율조직으로 만들려면 개인의 업무 효율을 극도로 높이고 조직 내부의 커뮤니케이션 대역폭을 높이는 과정이 필요하다고 역설했다. 개인 업무 효율을 높이기 위해 젠스파크는 ‘라이트 아웃 팩토리’를, 팀 내부의 커뮤니케이션 대역폭을 높이기 위해 젠 팀과 팀 브레인을 만들었다. 젠 팀은 내부 AI 커뮤니케이션 도구이며, 팀 브레인은 팀 전체가 공유하는 통합 메모리를 의미한다.</p>
-<p>끝으로 젠스파크는 ‘AI가 완전히 운영할 수 있는 회사’를 회사의 궁극적인 발전 방향으로 지칭했다. 주 공동창업자는 “지금 고객 서비스는 전적으로 AI 에이전트가 운영하고 있다”며 “시간이 지날수록 이런 자율화 수준은 점점 높아지고 있다”고 부연했다.</p>
-<p>AI 페스타 2026은 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 인공지능주간 공식 행사다. 올해 행사는 6일부터 8일까지 사흘간 서울 코엑스 C홀에서 열린다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;햇빛만으로 하루 29㎞ 주행&quot;…600만원짜리 태양광 전기 스쿠터</title>
-			<link>https://zdnet.co.kr/view/?no=20261007144009</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007144009</guid>
-			<author>이정현 미디어연구소</author>
-			<category>전기스쿠터</category>
-			<category>태양광</category>
-			<category>아더랩</category>
-			<category>카테크</category>
-			<pubDate>Wed, 07 Oct 2026 15:37:00 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/4f08fe80034ea08141dcaeba8b146a35.jpg" alt=""><p>독특한 태양광 기반 전기 스쿠터가 등장해 주목받고 있다.</p>
-<p>자동차 매체 일렉트렉은 6일(현지시간) 미국 샌프란시스코의 연구개발 기업 아더랩(Otherlab)이 개발한 2인승 태양광 전기 스쿠터 ‘라이트풋(Lightfoot)’을 소개했다.</p>
-<p>라이트풋은 최고 속도 시속 32㎞로 주행할 수 있으며, 많은 짐을 실을 수 있도록 설계됐다. 특히 차체 양쪽에 태양광 패널을 장착해 햇빛만으로도 하루 최대 29㎞의 추가 주행거리를 확보할 수 있는 것이 특징이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/4f08fe80034ea08141dcaeba8b146a35.jpg" alt="독특한 태양광 기반 2인승 전기 스쿠터가 출시됐다. (사진=아더랩)">
-<p>약 2년 전 시제품이 공개된 이후 최근 본격적인 판매와 배송이 시작됐다. 첫 100대 한정으로 출시되는 런치 에디션은 배송비를 포함해 4495달러(약 600만원)에 판매되며, 구매를 위해서는 100달러의 예약금을 지불해야 한다. 초기 생산분은 스카이 블루와 솔라 오렌지 등 두 가지 색상으로 제공된다.</p>
-<p>시속 32㎞급 전기 스쿠터에 4500달러에 가까운 가격은 결코 저렴하지 않다. 하지만 라이트풋의 가장 큰 차별점은 차체 측면에 내장된 120W급 태양광 패널 2개다.</p>
-<p>총 240W 규모의 태양광 시스템을 통해 햇빛이 충분한 환경에서는 시간당 약 5~6㎞의 주행거리를 추가로 확보할 수 있으며, 하루 최대 29㎞까지 태양광 충전을 통해 달릴 수 있다. 일렉트렉은 이 정도면 전기 스쿠터에 적용되는 태양광 충전 시스템으로서는 실제로 의미 있는 수준이라고 평가했다.</p>
-<p>라이트풋이 애초에 많은 전력을 필요로 하지 않는다는 점도 장점이다. 52V, 1560Wh 배터리를 탑재해 최대 60㎞까지 주행할 수 있다. 예를 들어 편도 8㎞ 거리를 출퇴근하고 스쿠터를 하루 종일 야외에 주차해 둔다면, 이론적으로 태양광만으로 하루 사용량의 대부분 또는 전부를 충전할 수 있다는 설명이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/79eb3c34880ea8a980d72cf88aa432de.jpg" alt="사진=아더랩">
-<p>물론 1.5kWh급 배터리는 일반적인 대형 전기차 배터리와 비교할 수 없는 규모다. 라이트풋은 230W급 내장 충전기도 제공한다. 일반 벽면 콘센트에 연결해 충전할 수 있으며, 완전 충전까지 약 4시간이 걸린다. 따라서 햇빛이 충분하지 않은 환경에서도 일반적인 방식으로 충전해 사용할 수 있으며, 태양광은 추가적인 충전 수단으로 활용할 수 있다.</p>
-<p>구동계에는 앞뒤 바퀴에 각각 750W급 기어드 허브 모터가 탑재됐으며, 최대 출력은 각각 1000W다. 회사 측은 두 모터의 합산 토크가 160Nm에 달해 대부분의 언덕길도 무리 없이 오를 수 있다고 설명했다.</p>
-<p>차체 무게는 64㎏으로 다소 무거운 편이며, 휠베이스는 122㎝다. 대신 차체 내부에는 45리터 용량의 잠금식 방수 화물칸이 마련돼 있다. 장바구니 3개 정도를 수납할 수 있는 수준이다. 2인승이라는 점도 라이트풋의 특징이다. 긴 벤치 시트가 적용돼 운전자와 동승자 등 두 명이 함께 탑승할 수 있도록 설계됐다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/f5cf935883b7893979ac23880940196a.jpg" alt="사진=아더랩">
-<p>다만 라이트풋은 고속 주행을 위한 전기 스쿠터라기보다는 시속 32㎞ 이하의 속도로 사람과 짐을 운반하고 언덕길을 주행하는 데 초점을 맞춘 제품이다. 회사 측 역시 전기 오토바이보다는 자전거도로 등에서 활용할 수 있는 이동수단으로 라이트풋을 홍보하고 있다.</p>
-<p>안전 및 편의 사양으로는 2천루멘 밝기의 헤드라이트와 가속도계로 작동하는 테일라이트, 120dB의 경적 등이 적용됐다. 이 밖에 잠금식 센터 스탠드, 블루투스를 지원하는 디스플레이 등도 탑재했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
