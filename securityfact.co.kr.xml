@@ -4,7 +4,78 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Tue, 06 Oct 2026 18:00:48 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2026 13:00:35 +0900</lastBuildDate>
+		<item>
+			<title>ASOS, 앱에 ‘해킹당했다’ 협박 알림…주가 급락</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=7993</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7993</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Wed, 07 Oct 2026 12:24:31 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2610/20261007122048_agruzqfg.jpg" alt="ASOS 팝업 스토어의 간판. 출처=asos.com.jpg" style="width: 720px; height: 418px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">ASOS 팝업 스토어의 간판. 출처=asos.com</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 영국 온라인 패션 소매업체 에이소스(ASOS)의 공식 앱에서 데이터 탈취를 주장하는 협박성 푸시 알림이 발송돼 주가가 급락했다. 회사는 고객 이름과 연락처 등 기본 개인정보에 무단 접근이 있었을 가능성을 인정하고 조사에 착수했지만, 공격 경로와 피해 범위는 아직 확인되지 않았다.</p>
+<p>
+   <br />
+</p>
+<p>6일(현지시각) 더레코드와 가디언 등에 따르면 이날 사건이 알려진 뒤 런던증권거래소에서 ASOS 주가는 장중 10% 이상 급락했다. 이후 낙폭을 일부 만회했지만 전 거래일보다 9.56% 하락한 가격에 거래를 마쳤다.</p>
+<p>
+   <br />
+</p>
+<p>이날 현지 오전 10시경 일부 ASOS 앱 사용자에게 ‘ASOS HACKED’라는 제목의 푸시 알림이 도착했다. 메시지는 회사의 개인정보보호책임자(DPO)와 정보기술(IT) 부서를 향해 ASOS의 스노플레이크(Snowflake) 계정 환경인 ‘인스턴스’를 완전히 장악했다고 주장하며, 자신들과 연락하지 않으면 데이터를 공개하겠다고 위협했다.</p>
+<p>
+   <br />
+</p>
+<p>스노플레이크는 기업이 데이터를 저장·처리·분석하는 데 사용하는 클라우드 플랫폼이다. 메시지에는 ‘쉬안예 그룹(Xuanye Group)’이라는 이름의 텔레그램 채널로 연결되는 링크도 포함됐다.</p>
+<p>
+   <br />
+</p>
+<p>더레코드는 사이버 갈취 조직을 추적하는 전문가들에게 이 이름이 기존에 알려져 있지 않았다고 전했다. 이런 조직들이 통상 피해 기업에 비공개로 먼저 접촉하는 것과 달리, 이번에는 고객용 앱 알림을 통해 데이터 공개 위협이 드러났다.</p>
+<p>
+   <br />
+</p>
+<p>체크포인트(Check Point)의 샬럿 윌슨은 더레코드에 공격자들의 주장이 확인된다면 ASOS 자체 앱을 몸값 요구서로 활용한 셈이라고 평가했다. 회사가 사건 내용을 공개하기도 전에 주가가 급락한 데 대해서는 투자자들이 잠재적 피해를 먼저 반영한 것으로 해석했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2610/20261007122231_fmyftadc.jpg" alt="그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">그림=이미지크리에이터</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<h3>외부 플랫폼 차단하고 당국과 조사</h3>
+<p>ASOS는 이날 성명을 통해 고객에게 승인되지 않은 알림이 발송됐음을 확인했다. 회사는 고객과 소통하는 데 사용하는 제3자 플랫폼과 관련된 무단 활동을 조사하고 있다고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>이어 해당 알림 플랫폼에 대한 접근을 즉시 제한했으며, 내부·외부 전문 자문인력 및 관계 당국과 협력하고 있다고 설명했다. 이름과 연락처 등 기본 개인정보에 접근이 있었을 수 있지만, 결제 카드 정보와 계정 비밀번호는 영향을 받지 않은 것으로 판단한다고 덧붙였다.</p>
+<p>
+   <br />
+</p>
+<p>웹사이트와 앱은 정상적으로 운영되고 있으며 현재 사업 운영에 차질은 없다는 것이 회사 측 설명이다. 다만 사건이 영업에 미칠 잠재적 영향을 수치로 산정하기에는 이르다고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>회사는 고객들에게 사과하고 문제의 알림을 무시하라고 안내했다. 알림에 포함된 외부 링크를 클릭하거나 해당 채널과 접촉하지 말 것도 당부했다.</p>
+<h3>계정 침해 주장과 플랫폼 보안은 별개</h3>
+<p>쉬안예 그룹은 이후 텔레그램에서 결제정보는 영향을 받지 않았으며 ASOS 앱도 안전하게 사용할 수 있다고 주장했다. 고객 정보를 자신들의 서버에 보관하고 있고 일정 기간 공개하지 않겠다는 메시지도 게시했다. 그러나 이 단체는 확보했다는 정보의 구체적인 항목이나 규모를 밝히지 않았다. 고객 데이터 샘플 등 정보 탈취 주장을 독립적으로 검증할 자료도 제시하지 않았다.</p>
+<p>
+   <br />
+</p>
+<p>스노플레이크는 문제의 알림을 인지한 뒤 조사에 착수했으며, 현재까지 자사 플랫폼이 침해됐다는 증거는 발견하지 못했다고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>다만 스노플레이크 플랫폼 자체의 침해 여부와 ASOS의 개별 계정에 대한 무단 접근 여부는 구분해야 한다. 스노플레이크의 설명만으로 ASOS 계정이 안전했다고 결론 내릴 수는 없다. ASOS는 개인정보에 대한 무단 접근 가능성을 조사하고 있으며, 해커 측이 주장한 계정 장악과 데이터 탈취의 구체적인 경위는 확인되지 않은 상태다.</p>
+<p>&nbsp;</p>]]></description>
+		</item>
 		<item>
 			<title>미 전쟁부, 앤트로픽 AI 사용 중단… 8월 말 목표 넘겨 종료 확인</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=7992</link>
@@ -1880,28 +1951,6 @@
 <p style="text-align: left; ">회사 관계자는 향후 전체 채용 절차를 면밀히 분석해 결함을 보완하는 한편 전 임직원을 대상으로 공정 채용 교육을 강화해 차별 없는 채용 문화를 정착시킬 방침이라고 설명했다.</p>
 <p style="text-align: left; "><br /></p>
 <p style="text-align: left; ">이 대표는 "공정한 채용은 기업이 사회에 제공해야 할 가장 기본적인 정의이자 의무"라며 "이번 일을 뼈아픈 교훈으로 삼아 다시는 이와 같은 불합리한 차별이 발생하지 않도록 관리하겠다"고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>에어버스, 프랑스군 사이버보안 게이트웨이 25년 계약 수주</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=7963</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=7963</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Mon, 28 Sep 2026 12:31:44 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2609/20260928123020_plfphciq.jpg" alt="에어버스 사이버보안 관제센터. 출처=에어버스.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">에어버스 사이버보안 관제센터. 출처=에어버스</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 에어버스가 프랑스 국방조달청(DGA)으로부터 프랑스군 네트워크에 사용할 사이버보안 게이트웨이 공급 계약을 수주했다. 계약 기간은 25년이다. 27일(현지시각) 외신보도에 따르면, 에어버스는 자회사 에어버스 사이버시큐리티를 통해 'PARACOM' 게이트웨이의 설계·개발, 생산, 운영 유지보수를 맡는다고 밝혔다. 계약 금액은 발표하지 않았다.&nbsp;</p>
-<p><br /></p>
-<p>PARACOM은 보안 등급이나 민감도가 다른 군 네트워크와 정보시스템 사이에서 데이터가 오갈 때 이를 필터링하는 장비다. 에어버스에 따르면 비기밀부터 비밀 등급까지의 데이터 교환을 지원하도록 승인과 인증을 받을 예정이다. 프랑스군과 국방·보훈부 산하 기관에 배치될 계획이다.&nbsp;</p>
-<p><br /></p>
-<p>장비는 데이터센터 랙에 설치하는 형태와 지휘소에 배치하는 독립형 장치로 제공된다. 에어버스는 함정과 잠수함, 항공기, 헬리콥터, 드론, 장갑차 등 공간이 제한된 전술 환경에서도 사용할 수 있도록 설계했다고 설명했다. 프랑수아 롬바르 에어버스 방산우주 부문 커넥티드 인텔리전스 담당 이사는 프랑스 육군에 2013년부터 게이트웨이 솔루션을 공급해 왔다고 밝혔다.&nbsp;</p>
-<p><br /></p>
-<p>&nbsp;PARACOM 게이트웨이는 네트워크 사이를 오가는 데이터와 보안 표시를 검사해 허용된 정보만 전달하도록 설계된다. 이번 계약에는 장비의 개발·생산과 장기 운영 유지보수가 포함된다. 다만 프랑스군과 에어버스가 실제 데이터 교환 승인이나 현장 운용을 어떻게 나눠 맡을지는 공개되지 않았다. 새 PARACOM 장비의 배치·운용 실적도 아직 발표되지 않았다.&nbsp;</p>]]></description>
 		</item>
 	</channel>
 </rss>
