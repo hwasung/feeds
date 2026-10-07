@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 07 Oct 2026 18:00:59 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2026 19:00:42 +0900</lastBuildDate>
+		<item>
+			<title>[사설] 다섯번째 누리호, 우주산업 도약대로</title>
+			<link>https://www.etnews.com/20261007000257</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261007000257</guid>
+			<author>논설위원실</author>
+			<category>오피니언</category>
+			<pubDate>Wed, 07 Oct 2026 18:00:00 +0900</pubDate>
+			<description><![CDATA[7일 낮 12시 25분, 한국형 발사체 누리호가 5차 발사에 성공하며 대한민국 우주 영토를 또 한 번 넓혔다. 발사에서부터 고난도 초소형 군집위성 5기 분리에 이르기까지 모든 과정을 순조롭게 전개하며, 대한민국 위성 운용 능력과 발사체 신뢰성을 전 세계에 각인했다. 이번 도전은 우주발사체 기술 확보를 넘어 첫 발사부터 다섯 번째 발사까지 차곡차곡 쌓아온 '독자 우주기술'의 저력이 마침내 우리 우주산업 생태계 전반으로 파급될 계기를 마련했다는 점...]]></description>
+		</item>
 		<item>
 			<title>천재교육, AI 평가·학습 지원 &apos;T셀파&apos; 교사 연수 제공</title>
 			<link>https://www.etnews.com/20261007000447</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 07 Oct 2026 12:50:51 +0900</pubDate>
 			<description><![CDATA[제도 도입 이후 지난 5년 간 계약 실적이 없었던 민간투자 소프트웨어(SW)사업이 첫 계약을 향한 발판을 마련했다. 한국사회보장정보원의 인공지능(AI) 기반 개발플랫폼 구축 사업이 수익형 민간투자 SW 사업으로 인정받으면서 후속 사업 확산에도 탄력이 붙을 전망이다. 과학기술정보통신부(이하 과기정통부)는 한국사회보장정보원이 주관하는 민간주도 'AI 기반 사회보장통합 개발플랫폼 구축 사업'을 수익형 민간투자 SW 사업(이하 민투SW사업)으로 인정했...]]></description>
-		</item>
-		<item>
-			<title>레드햇·IBM, 오픈소스 취약점 400건 이상 수정 조치</title>
-			<link>https://www.etnews.com/20261007000169</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261007000169</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 07 Oct 2026 11:19:49 +0900</pubDate>
-			<description><![CDATA[레드햇과 IBM은 라이트웰을 통해 자바 라이브러리에서 기존에 알려지지 않았던 취약점 400건 이상을 발견하고 수정 조치했다고 7일 밝혔다. 양사는 기업 고객이 특정 오픈소스 소프트웨어 종속성에 대한 우선 검토 및 취약점 수정을 요청할 수 있는 '라이트웰 클리어링하우스'도 정식 출시했다. 이는 갈수록 커지는 기업의 보안 리스크에 대응하기 위한 것이다. 자율형 AI 에이전트가 위험도가 낮은 소프트웨어 취약점 여러 개를 엮어 더 심각한 공격으로 발전...]]></description>
 		</item>
 	</channel>
 </rss>
