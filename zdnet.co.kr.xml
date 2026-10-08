@@ -4,7 +4,167 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Fri, 09 Oct 2026 07:01:28 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 09 Oct 2026 08:01:20 +0900</lastBuildDate>
+		<item>
+			<title>&quot;엔비디아 루빈 HBM4, 12단이 대세&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261008174405</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008174405</guid>
+			<author>진운용 기자</author>
+			<category>엔비디아</category>
+			<category>베라 루빈</category>
+			<category>GPU</category>
+			<category>HBM</category>
+			<category>HBM4</category>
+			<category>삼성전자</category>
+			<category>SK하이닉스</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Fri, 09 Oct 2026 08:00:02 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/06/12/c2180848d0c0643be1fb06f99e123354.png" alt=""><p>엔비디아 차세대 그래픽처리장치(GPU) &apos;베라 루빈&apos;에 탑재할 6세대 고대역폭메모리(HBM4)에서 12단 제품 비중이 대부분을 차지할 것이라는 전망이 나왔다. 최근 업계 일각에서 확산한 &apos;HBM 단수 하향&apos; 우려와 다르다. </p>
+<p><span style="letter-spacing: 0.8px;">시장조사업체 카운터포인트리서치는 9일 </span><span style="letter-spacing: 0.8px;">HBM4에서 12단 제품이 주력이 될 것이라고 추정했다. </span></p>
+<p><span style="letter-spacing: 0.8px;">카운터포인트의 이번 전망은 최근까지 업계 일각 전망</span><span style="letter-spacing: 0.8px;">과 엇갈린다. 최근 엔비디아가 주요 HBM 공급사에 주력품 사양을 12단에서 8단으로 낮춰달라고 요청했다는 언론 보도가 이어졌다. 주문형반도체(ASIC) 진영에서는 비용 부담 탓에 4단 제품까지 내려갈 것이라는 추정도 나왔다. </span></p>
+<img src="https://image.zdnet.co.kr/2026/06/12/c2180848d0c0643be1fb06f99e123354.png" alt="삼성전자 HBM4. (사진=삼성전자)">
+<p><span style="letter-spacing: 0.8px;">HBM 적층 단수가 낮아지면 HBM에 투입하는 생산능력</span><span style="letter-spacing: 0.8px;">이 줄고, 그만큼 범용 D램 생산이 늘어 가격이 하락할 수 있다는 전망이 이어졌다. </span><span style="letter-spacing: 0.8px;">이는 삼성전자를 비롯한 메모리 업체 실적 전망에는 악재로 꼽혔다.</span></p>
+<p><span style="letter-spacing: 0.8px;">카운터포인트는 HBM 탑재량 증가 흐름이 이어질 것이라고 전망했다. 인공지능(AI) 워크로드에서는 비용 절감보다 대역폭과 용량을 함께 확보하는 것이 중요하다는 이유다. 카운터포인트는 "ASIC에서도 우려와 달리 4단 제품은 확인되지 않았다"고 밝혔다. </span></p>
+<p>그러면서 "메모리 업계 전반에 제기된 HBM 수요 둔화는 잘못된 정보"라며 "이는 향후 실적 전망에서 중요한 변수"라고 강조했다.</p>
+<p><span style="letter-spacing: 0.8px;">HBM 생산에는 범용 D램보다 3배 이상 생산능력이 요구된다. 이는 </span><span style="letter-spacing: 0.8px;">범용 D램 공급 부족 주요 원인 중 하나로 꼽힌다. HBM 수요가 견조하게 유지되면 범용 D램 공급 부족과 가격 강세도 이어질 가능성이 크다. </span></p>
+<p><span style="letter-spacing: 0.8px;">카운터포인트는 지난 8일 삼성전자 잠정실적 발표에서 최근 반도체 업체들이 보였던 어닝 서프라이즈는 없었다고 평가했다. </span><span style="letter-spacing: 0.8px;">삼성전자 3분기 잠정실적은 매출 195조원, 영업이익 107조 4000억원이었다. 영업이익은 시장 전망치를 소폭 상회했다. </span></p>
+<p><span style="letter-spacing: 0.8px;">카운터포인트는 환율을 원인으로 </span><span style="letter-spacing: 0.8px;">지목했다. </span><span style="letter-spacing: 0.8px;">삼성전자는 수출 비중이 높아 매출 상당 부분을 달러로 벌어들이는 반면 비용은 원화로 지출한다. </span><span style="letter-spacing: 0.8px;">원</span>·<span style="letter-spacing: 0.8px;">달러 환율이 갑자기 떨어지면 이를 피하기 어려워 마진 부담으로 돌아온다.</span></p>
+<p><span style="letter-spacing: 0.8px;">카운터포인트리서치는 "메모리 업계 수요 성장에 대한 확신이 10월 들어 강화됐다"며 "삼성전자의 역대 최대 실적이 일회성에 그치지 않을 가능성에 무게가 실린다"고 평가했다. </span></p>]]></description>
+		</item>
+		<item>
+			<title>&quot;등산 코스마다 날씨 다르네&quot;…네이버, 전국 301개 산 맞춤 예보 제공</title>
+			<link>https://zdnet.co.kr/view/?no=20261009074344</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009074344</guid>
+			<author>안희정 기자</author>
+			<category>네이버</category>
+			<category>테마날씨</category>
+			<category>테마</category>
+			<category>바람</category>
+			<category>코스</category>
+			<category>인터넷</category>
+			<pubDate>Fri, 09 Oct 2026 07:48:11 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/09/5ee34a9fe0cf18ad33851acbc12374cc.png" alt=""><p>네이버가 단풍철을 맞아 전국 주요 산의 날씨를 등산 코스별로 확인할 수 있는 서비스를 선보였다. 등산객이 출발 시간과 이동 경로를 선택하면 산행 중 예상되는 기온과 바람, 강수 변화를 구간별로 안내하는 방식이다.</p>
+<p>네이버는 전국 301개 산을 대상으로 초단기 예보를 제공하는 &apos;등산 테마날씨&apos;를 지난달 출시했다고 9일 밝혔다.</p>
+<p>기존 지역 날씨가 행정구역을 중심으로 제공됐다면, 등산 테마날씨는 산의 위치 좌표를 기준으로 예보를 제공하는 것이 특징이다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/09/5ee34a9fe0cf18ad33851acbc12374cc.png" alt="네이버 날씨 테마날씨-등산">
+<p>특히 네이버 지도에 축적된 등산 코스 데이터를 날씨 예보와 결합했다. 이용자가 등산할 산과 코스, 출발 시간을 선택하면 이동 경로에 따라 달라지는 기온과 바람, 강수 정보를 시간대별로 확인할 수 있다.</p>
+<p>산행을 계획할 때 참고할 수 있는 일출 시각과 계절별 풍경 정보도 제공한다. 단풍과 개화 시기 등을 네이버 날씨 화면에서 확인할 수 있으며, 향후 다른 야외 활동 테마에도 관련 정보를 확대 적용할 계획이다.</p>
+<p>네이버는 지난해 8월 야구장을 시작으로 테마파크와 스키장, 축구장, 골프장 등 특정 장소와 활동에 특화된 날씨 서비스를 운영해 왔다.</p>
+<p>현재 등산을 포함해 총 868개 테마지역의 날씨를 제공한다. 이 가운데 골프장이 495개, 축구장이 30개, 야구장이 20개다.</p>
+<p>테마날씨 이용도 늘고 있다. 지난 9월 말 기준 누적 구독 건수는 약 21만3천건으로, 올해 1월 7만3천건과 비교해 8개월 만에 약 2.9배 증가했다.</p>
+<p>가장 많이 구독된 장소는 잠실야구장으로, 구독 건수는 약 2만5천건이다.</p>
+<p>네이버는 계절에 따라 이용량이 달라지는 기존 테마와 달리 등산은 사계절 내내 수요가 있다는 점에 주목했다. 연내 바다낚시 테마를 추가해 야외 활동에 특화된 날씨 정보 제공 범위를 넓힐 예정이다.</p>
+<p>김혜진 네이버 리더는 "날씨 예보에 이용자 활동과 관련된 맞춤형 정보를 결합하고 있다"며 "등산에 이어 바다낚시까지 테마를 확대해 다양한 야외 활동에 필요한 날씨 정보를 제공하겠다"고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>인도 진출 미뤄지는 스타링크…머스크, 현지 통신사 탓하며 억지 주장</title>
+			<link>https://zdnet.co.kr/view/?no=20261009074540</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009074540</guid>
+			<author>박수형 기자</author>
+			<category>인도</category>
+			<category>스타링크</category>
+			<category>스페이스X</category>
+			<category>릴라이언스지오</category>
+			<category>일론 머스크</category>
+			<category>방송/통신</category>
+			<pubDate>Fri, 09 Oct 2026 07:45:40 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/04/08/9f60a0d1fcb1d6351a0a68016c104b92.jpg" alt=""><p>일론 머스크 스페이스X 최고경영자(CEO)가 위성인터넷 서비스 스타링크의 인도 진출이 지연되자 현지 통신사 방해 때문이라는 주장을 이어가고 있다.</p>
+<p>8일(현지시간) 테크크런치와 인디언익스프레스에 따르면 머스크는 지난 7일 엑스(X)에 “특정 기업들이 인도 국민에 대한 독점적 지배력을 유지하려 한다”며 “그들이 누구인지는 짐작할 수 있을 것”이라고 주장했다.</p>
+<p>이튿날에는 현지 통신사인 릴라이언스지오의 암바니 회장을 직접 지목하는 글을 올렸다.</p>
+<p>머스크는 “스타링크는 165개국 이상에서 허가를 받았고 지난 5년 동안 인도 정부의 모든 법률과 요구사항을 준수했다”며 “그런데 왜 아직도 허가가 나지 않는가. 암바니가 인도의 진짜 보스인가”라고 했다.</p>
+<img src="https://image.zdnet.co.kr/2026/04/08/9f60a0d1fcb1d6351a0a68016c104b92.jpg" alt="일론 머스크가 스타링크의 인도 사업 인허가를 두고 SNS를 통한 설전만 이어가고 있다. (사진=유튜브 갈무리)">
+<p>인도 정부는 즉각 반박했다. 인도 통신부는 위성통신 규제 체계가 공정하고 비차별적으로 운영되고 있다며 스타링크를 포함한 3개 사업자가 대체로 동일한 인허가 단계에 있다고 밝혔다. 주파수 할당에 앞서 모든 사업자가 보안 요건을 충족해야 한다는 설명이다.</p>
+<p>현재 인도에서는 스타링크와 릴라이언스지오, 바르티에어텔이 위성통신 서비스에 대한 초기 승인을 확보한 상태다. 다만 주파수 할당과 최종 인허가 절차가 남아 있어 상용 서비스는 시작하지 못했다.</p>
+<p>스타링크의 인도 진출은 약 4년간 지연되고 있다. 위성 주파수 할당 방식과 보안 요건이 주요 쟁점으로, 머스크는 과거에도 주파수 할당 문제를 놓고 암바니 측과 대립했다.</p>
+<p>머스크의 주장과 달리 릴라이언스지오와 바르티에어텔은 이후 스타링크 서비스의 인도 내 유통을 위한 계약을 각각 체결했다.</p>
+<p>즉 머스크는 스타링크 서비스의 인도 진출 방해 세력으로 지목한 기업과 사업 협력 관계를 맺고 있는 셈이다.</p>
+<p>스타링크의 인도 진출을 두고 보안 문제와 관련해 인허가 과정의 변수가 발생했다는 평가가 우세한 편이다. 2024년 말 인도 안다만·니코바르 제도의 마약 단속과 마니푸르주 군 수색 과정에서 스타링크 장비가 발견되면서 불법 사용 가능성이 제기됐다. 머스크는 당시 인도에서 스타링크 서비스가 가동된 적이 없다고 부인했다.</p>
+<p>인도 정부는 위성통신 사업자에 대한 보안 심사가 진행 중이며 특정 사업자를 차별하고 있다는 주장은 근거가 없다는 입장을 유지하고 있다.</p>]]></description>
+		</item>
+		<item>
+			<title>&quot;로그인 없이 최애 응원&quot;…멜론, 전 세계 K팝 팬 참여 기능 도입</title>
+			<link>https://zdnet.co.kr/view/?no=20261009073800</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009073800</guid>
+			<author>안희정 기자</author>
+			<category>아티스트</category>
+			<category>멜론</category>
+			<category>K팝</category>
+			<category>글로벌</category>
+			<category>인터넷</category>
+			<pubDate>Fri, 09 Oct 2026 07:38:00 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/09/cb579037dd03cd037168388662f7b8c6.png" alt=""><p>멜론이 한국과 중국, 일본 중심으로 운영하던 K팝 통합 차트에 전 세계 팬들이 참여할 수 있는 응원 기능을 추가했다. 별도 회원가입이나 로그인 없이 좋아하는 아티스트를 응원하고, 결과를 사회관계망서비스(SNS)에 공유할 수 있다.</p>
+<p>카카오엔터테인먼트는 음악 플랫폼 멜론의 &apos;Global-K Chart(글로벌 K 차트)&apos;에 &apos;응원하기&apos; 기능을 도입했다고 9일 밝혔다.</p>
+<p>글로벌 K 차트는 멜론과 중국 텐센트뮤직, 일본 라인뮤직이 공동으로 운영하는 K팝 아티스트 통합 차트다. 세 나라 음악 플랫폼에서 발생한 음원 스트리밍 이용량과 팬 활동 지표 등을 합산해 아티스트 순위를 집계한다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/09/cb579037dd03cd037168388662f7b8c6.png" alt="[멜론] Global-K Chart_응원하기">
+<p>이번에 추가된 응원하기 기능은 참여 대상을 한중일 이용자에서 전 세계 K팝 팬으로 넓힌 것이 특징이다. 기존 차트가 음악 감상과 플랫폼 내 활동 데이터를 기반으로 순위를 보여줬다면, 새 기능은 팬들이 직접 아티스트를 응원하는 별도 참여 공간으로 운영된다.</p>
+<p>이용자는 글로벌 K 차트 웹페이지에 접속한 뒤 일간차트의 &apos;글로벌 전체&apos; 탭에서 원하는 아티스트를 응원하면 된다. 로그인하지 않아도 참여할 수 있으며, 응원 수는 한국 시각 기준 매일 낮 12시에 초기화된다.</p>
+<p>일정 응원 수를 달성하면 SNS에 게시할 수 있는 개인별 공유카드도 생성된다. 멜론은 이를 통해 팬들이 자신이 응원하는 아티스트를 알리고 다른 팬들과 소통할 수 있도록 했다.</p>
+<p>신규 기능 출시를 기념한 이벤트도 마련했다. 오는 14일까지 &apos;Heart Attack&apos; 이벤트를 진행하고 참여자 가운데 20명을 추첨해 &apos;멜론뮤직어워드 2026(MMA2026)&apos; 초대권을 1장씩 제공한다.</p>
+<p>이벤트에 참여하려면 글로벌 K 차트에서 아티스트를 응원한 뒤 생성된 공유카드를 엑스(X)에 &apos;#Melon_HeartAttack&apos; 해시태그와 함께 게시하면 된다.</p>
+<p>멜론 관계자는 "기존 차트가 한중일 음악 이용 데이터와 팬 활동을 집계했다면, 응원하기는 지역에 관계없이 전 세계 팬들이 참여할 수 있도록 마련한 기능"이라며 "앞으로도 아티스트와 팬이 함께 즐길 수 있는 프로그램을 확대하겠다"고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>쿠팡·쿠팡이츠, 한글날 새벽 한때 서비스 장애…&quot;현재 정상화&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261009071111</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009071111</guid>
+			<author>안희정 기자</author>
+			<category>쿠팡</category>
+			<category>서비스</category>
+			<category>장애</category>
+			<category>쿠팡이츠</category>
+			<category>접속</category>
+			<category>인터넷</category>
+			<pubDate>Fri, 09 Oct 2026 07:23:56 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/02/10/0d4dcfe7c3987fd42e77e486643d1333.jpg" alt=""><p><span style="letter-spacing: 0.8px;">쿠팡과 쿠팡이츠에서 한글날인 9일 새벽 서비스 장애가 발생해 이용자들</span><span style="letter-spacing: 0.8px;">이 불편을 겪었다. 쿠팡은 서비스 업그레이드 과정에서 일시적인 오류가 발생했다며 현재 정상화됐다고 밝혔다.</span></p>
+<p>9일 업계에 따르면 이날 새벽 쿠팡과 쿠팡이츠, 쿠팡플레이 등 쿠팡 서비스 앱에서 접속 오류 등 서비스 장애가 발생했다. 이번 장애로 쿠팡과 쿠팡이츠 이용자뿐 아니라 배송기사와 입점 점주들도 불편을 겪었다. 서비스 접속 오류가 소비자뿐 아니라 배송과 매장 운영 현장에도 영향을 미친 것으로 전해졌다.</p>
+<p>쿠팡은 이날 공지사항을 통해 "10월 9일 서비스 업그레이드 과정에서 쿠팡 전반적인 서비스에 일시적인 오류가 발생했으나, 이를 해소해 정상적으로 이용 가능하다"고 안내했다.</p>
+<img src="https://image.zdnet.co.kr/2026/02/10/0d4dcfe7c3987fd42e77e486643d1333.jpg" alt="쿠팡 배송 차량((출처=쿠팡Inc))">
+<p>이어 "서비스 이용에 불편을 끼쳐드려 죄송하다"며 "고객 여러분의 서비스 만족을 위해 더욱 노력하겠다"고 덧붙였다.</p>
+<p>다만 구체적인 장애 발생 시각과 지속 시간, 영향을 받은 이용자 규모 등은 공개되지 않았다. </p>]]></description>
+		</item>
+		<item>
+			<title>중소 라디오방송 8개사, 방송재원 개편 공동 대응</title>
+			<link>https://zdnet.co.kr/view/?no=20261009071535</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009071535</guid>
+			<author>박수형 기자</author>
+			<category>CBS</category>
+			<category>BBS</category>
+			<category>FEBC</category>
+			<category>WBS</category>
+			<category>CPBC</category>
+			<category>경인방송</category>
+			<category>TBS</category>
+			<category>YTN라디오</category>
+			<category>라디오방송사</category>
+			<category>중소방송발전협의회</category>
+			<category>방송/통신</category>
+			<pubDate>Fri, 09 Oct 2026 07:15:35 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/09/45781f3d31279d5675083b3ca2a1a892.jpg" alt=""><p><span style="letter-spacing: 0.8px;">중소 라디오방송사 8개사가 방송재원 구조 개편에 공동 대응하기 위해 중소방송발전협의회를 출범시켰다.</span></p>
+<p>CBS, BBS, FEBC, WBS, CPBC, 경인방송, TBS, YTN라디오 등 8개사는 지난 8일 한국프레스센터에서 창립 회의를 열었다. 회장사는 CPBC, 간사는 CBS가 맡는다.</p>
+<p>방송광고 시장 위축에 따른 중소방송 재원 감소와 미디어 정책 개편에 대응하기 위해 협의회를 출범시켰다. <span style="letter-spacing: 0.8px;">헌법재판소는 지난 2월26일 방송광고 결합판매 관련 헌법소원을 기각하면서도 광고매출 감소에 따른 제도 실효성 저하와 입법적 개선 필요성을 </span><span style="letter-spacing: 0.8px;">언급한 </span><span style="letter-spacing: 0.8px;">데 </span><span style="letter-spacing: 0.8px;">따른 것이</span><span style="letter-spacing: 0.8px;">다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/10/09/45781f3d31279d5675083b3ca2a1a892.jpg" alt="중소 라디오방송사들이 8일 한국프레스센터에서 중소방송발전협의회 창립 회의를 열었다.">
+<p><span style="letter-spacing: 0.8px;">협의회는 ▲미디어발전위원회 내 중소방송 대표 참여 ▲결합판매 법정 최소지원액 신설 및 방송통신발전기금 재원 확보 ▲라디오 전용 광고유형 신설과 협찬고지 규제 완화 ▲중소방송 지원금 배분 원칙 개선 등을 4대 과제로 제시했다.</span></p>
+<p>특히 영상 매체 중심의 방송광고 규제 완화에서 라디오가 소외되지 않도록 진행자가 광고 문안을 직접 읽는 &apos;라이브리드 광고&apos; 도입 등을 요구했다. 회원사 간 지원금 재배분보다 전체 지원 규모를 확대해야 한다는 원칙도 정했다.</p>
+<p>홍동천 중소방송발전협의회 회장(CPBC 마케팅국장)은 "라디오는 재난과 고령, 지역과 공동체를 잇는 대체 불가능한 사회 인프라"라며 "인프라에 대한 투자는 시혜성 지원이 아니라 정책의 문제"라고 말했다.</p>
+<p>협의회는 방송미디어통신위원회와 국무조정실 등에 공동 요구서를 전달하고 국회 과학기술정보방송통신위원회와 면담을 추진할 계획이다.</p>]]></description>
+		</item>
+		<item>
+			<title>EBS 차기 사장 공모에 13명 지원</title>
+			<link>https://zdnet.co.kr/view/?no=20261009070934</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009070934</guid>
+			<author>박수형 기자</author>
+			<category>EBS</category>
+			<category>이사회</category>
+			<category>사장 후보</category>
+			<category>방송/통신</category>
+			<pubDate>Fri, 09 Oct 2026 07:09:34 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/06/02/d0bd629967c6fef43746c5514749dda2.jpg" alt=""><p>EBS는 8일까지 진행한 차기 사장 공모에 김유열 현 사장을 비롯해 총 13명이 지원했다고 밝혔다.</p>
+<p>지원자는 연임에 도전하는 김유열 현 사장을 비롯해 김병진 KBSN 콘텐츠사업본부장, 김정중 KBS 심의실 부장급, 김진호 부천실업고등학교 교감, 류남이 EBS 콘텐츠사업기획부 수석, 류현위 전 EBS 콘텐츠기획센터장, 박종률 방송미디어통신위원회 방송평가위원, 박치형 국민체육진흥공단 선임이사, 손복희 부산글로벌도시재단 비상근 이사, 신삼수 EBS AI인재교육부 수석, 이승훈 영덕문화관광재단 상임이사, 정성욱 EBS 협력제작부 수석, 추덕담 EBS 협력제작부 수석 등이다.</p>
+<img src="https://image.zdnet.co.kr/2026/06/02/d0bd629967c6fef43746c5514749dda2.jpg" alt="EBS 사옥">
+<p>EBS 이사회는 오는 30일 서류심사를 통해 후보자를 9명으로 압축한다. 이어 11월14일 국민 150명 이상으로 구성된 사장후보국민추천위원회가 심사와 면접을 거쳐 3명 이하의 후보자를 추천한다.</p>
+<p>이사회 최종 면접심사는 11월20일 진행되며 이를 통해 후보자 1명을 선정하고 방미통위에 임명 제청할 예정이다.</p>
+<p>임명은 방송미디어통신위원회 동의를 거쳐 이뤄지며 신임 사장 임기는 3년이다.</p>]]></description>
+		</item>
 		<item>
 			<title>보리카와 오픈웨이, 불가리아 유로 결제 혁신으로 페이360 어워즈 수상</title>
 			<link>https://zdnet.co.kr/view/?no=20261008231013</link>
@@ -967,167 +1127,6 @@
 <p>참여 기업들의 과제 영역은 콘텐츠 제작을 넘어 신상품 기획과 사업성 검토까지 폭넓게 확장되고 있다. 제품 특장점을 시각화하려는 뷰티·라이프케어 브랜드부터 신규 라인업과 판로를 모색하는 식품 기업에 이르기까지, 다양한 기업들이 실전 과제를 출제하고 있다. 참가자에게 요구되는 산출물 역시 광고 시안과 프로모션 영상, 시장 분석 보고서, 사업 기획서 등으로 다채롭다.</p>
 <p>오픈놀은 청년 구직자가 이 같은 실무 프로젝트를 완수할 수 있도록 프로세스를 밀착 지원한다. 교육형 프로그램 참가자에게는 중간 기획안 제출 단계에서 현직자의 1:1 피드백을 제공하며, 완성된 산출물은 채용 전형에서 강력한 직무 포트폴리오로 활용할 수 있도록 돕는다. 실무진의 피드백을 반영해 기획을 고도화해 본 경험 자체가 차별화된 직무 역량이 되기 때문이다.</p>
 <p>오픈놀 권인택 대표는 "AI가 실무 프로세스에 빠르게 안착하면서, 구직자에게는 단순한 툴 학습을 넘어 실제 비즈니스 문제에 AI를 적용해 해결해 보는 경험이 필수가 됐다"면서 "미니인턴은 기업의 실전 과제를 통해 구직자들이 주도적인 기획과 실행 역량을 증명할 수 있도록 지원하며, 실무 중심 AI 프로젝트 역량 평가의 표준을 선점해 나갈 것"이라고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>하정우 부위원장 &quot;독파모 3사, 글로벌 수준 도달&quot;…현장선 활용법 관심↑</title>
-			<link>https://zdnet.co.kr/view/?no=20261008140113</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008140113</guid>
-			<author>김미정 기자</author>
-			<category>AI페스타 2026</category>
-			<category>AI페스타 26</category>
-			<category>AI</category>
-			<category>인공지능</category>
-			<category>과학기술정보통신부</category>
-			<category>국가인공지능전략위원회</category>
-			<category>하정우</category>
-			<category>업스테이지</category>
-			<category>SK텔레콤</category>
-			<category>LG AI연구원</category>
-			<category>엑사원</category>
-			<category>솔라</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 14:03:28 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/8528b1627713d6f1d9de7da5a94f0b58.jpg" alt=""><p>정부의 ‘독자 AI 파운데이션 모델 프로젝트&apos;를 향한 관심이 기술 성능에서 실제 활용으로 확산하고 있다. 국산 모델 경쟁력뿐 아니라 이를 업무에 어떻게 적용할 수 있는지 살펴보는 시민 눈높이도 높아졌다는 반응도 이어지고 있다.</p>
-<p>하정우 국가AI전략위원회 부위원장은 8일까지 서울 코엑스에서 열린 &apos;AI페스타 2026&apos; 참석 후 "독파모 3개사가 글로벌에서도 인정받는 수준에 도달했다는 점에서 의미가 있었다"고 밝혔다. </p>
-<p><span style="letter-spacing: 0.8px;">하 </span><span style="letter-spacing: 0.8px;">부위원장은 "이번 행사에서 </span><span style="letter-spacing: 0.8px;">국민 모두의 AI 역량이 향상되고 있음을 확인할 수 있었다”며 “AI 3강이라는 정부 비전 달성에 한 걸음씩 다가가고 있음을 느꼈다"고 강조했다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/8528b1627713d6f1d9de7da5a94f0b58.jpg" alt="8일까지 서울 코엑스에서 열린 &apos;AI페스타 2026&apos;의 독파모 특별관 부스. (사진=지디넷코리아 DB)">
-<p>현장에서도 일반 참관객 관심이 단순 모델 성능을 넘어 실제 업무 활용으로 넓어졌다는 평가가 나왔다. 독자 AI 모델을 알아보는 데서 나아가 개인 업무에 이를 도입할 조건을 구체적으로 살펴보기 시작했다는 설명이다.</p>
-<p>부스를 지키던 한 기업 관계자는 “과거에는 모델의 기본 정보나 기능을 주로 물었다면, 이제는 기존 업무 시스템과의 연동 여부와 운영 비용, 민감한 데이터 처리 방식까지 질문이 이어졌다”고 밝혔다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/06/abff96645d2e450e66ecda625024c38a.jpg" alt="하정우 국가인공지능전략위원회 부위원장과 이해민 대통령비서실 AI미래기획수석비서관, 조준희 AI페스타조직위원회 위원장 등 VIP 사절단이 6일 서울 강남구 코엑스에서 열린 &apos;AI페스타 26&apos;에서 독자 AI 파운데이션 모델 특별관 업스테이지 부스를 둘러보고 있다. (사진=지디넷코리아 DB)">
-<p>이에 발맞춰 SK텔레콤과 LG AI연구원, 업스테이지는 독파모 특별관에서 자체 모델 활용 사례를 선보였다. 문서 검토와 웹사이트 제작, 업무 에이전트 구축 등을 통해 관람객이 국산 AI 성능을 직접 시연했다.</p>
-<p>SK텔레콤은 &apos;A.X K2&apos;를 활용한 이미지 이해와 문서 검토 기능을 소개했다. 그래프나 업무 자료를 입력하면 내용을 분석하고 이용자가 제시한 기준에 따라 검토하는 방식이다. 부스에서는 전사적자원관리(ERP)나 오피스 프로그램 등 기존 업무 시스템과 연동하는 방안을 묻는 참관객도 심심찮게 확인할 수 있었다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/6e5eed850fc0895cee8c4d04bf57ee06.jpg" alt="SK텔레콤은 &apos;A.X K2&apos;를 활용한 이미지 이해와 문서 검토 기능을 소개했다. (사진=지디넷코리아 DB)">
-<p>LG AI연구원은 &apos;K-엑사원 2.0&apos; 문서 이해와 추론, 코딩 역량을 활용한 사례를 제시했다. 부스에는 자연어로 별자리 궁합 애플리케이션과 게임을 만들 수 있는 코너가 마련됐다. 연말정산 관련 PDF 바탕으로 질문에 답하거나 수능 수학 고난도 문항 풀이 과정과 다른 풀이 방식을 제시하는 사례도 소개했다.</p>
-<p>업스테이지는 &apos;솔라 프로 4&apos; 운영 효율성을 강점으로 내세웠다. 기업이 적은 자원으로 모델을 쉽게 도입할 수 있다는 점을 강조했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/811b59d2978121aab8744969d8bb3945.jpg" alt="LG AI연구원 관계자가 부스 방문객과 엑사원에 대해 이야기 나누는 모습. (사진=지디넷코리아 DB)">
-<p>업스테이지 관계자는 "우리 모델은 다른 대형 모델보다 규모가 작아 운영에 필요한 연산 자원이 적다"며 "기업은 API로 기존 서비스에 모델을 연결하거나, 민감한 데이터를 외부로 보내지 않도록 사내 서버에 설치해 사용할 수 있다"고 설명했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/2a366523526861e187d79907af9a605c.jpg" alt="이날 업스테이지는 문서를 처리하는 AI 에이전트 제작 기능도 선보였다. (사진=지디넷코리아 DB)">
-<p>이날 업스테이지는 문서를 처리하는 AI 에이전트 제작 기능도 선보였다. 이용자가 문서를 올리고 계약서 검토 등 원하는 업무를 말로 설명하면, AI가 필요한 작업 순서를 구성하는 식으로 작동했다. </p>
-<p>관<span style="letter-spacing: 0.8px;">계자는 "사용자가 각 단계를 직접 설정하는 수고를 줄일 수 있을 것"이라고 밝혔다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>&quot;집 안 습기로 전기 만든다&quot;…美, ‘마법의 벽지’ 화제</title>
-			<link>https://zdnet.co.kr/view/?no=20261008133835</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008133835</guid>
-			<author>이정현 미디어연구소</author>
-			<category>스마트벽지</category>
-			<category>태양광발전</category>
-			<category>과학</category>
-			<pubDate>Thu, 08 Oct 2026 14:03:06 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/dc0c2e244272c70d765663efdb346561.png" alt=""><p>전 세계 수백만 가구가 옥상 태양광 패널을 이용해 전력을 공급받고 있는 가운데, 발상을 바꿔 집 안의 실내 습도를 전기로 바꾸는 기술이 개발됐다.</p>
-<p>과학 매체 뉴아틀라스는 미국 뉴욕주립대 빙엄턴 캠퍼스 연구진이 전력을 생산하는 스마트 벽지를 개발했다고 최근 보도했다. 해당 연구 결과는 국제 학술지 ‘어드밴스드 에너지 머티리얼스(Advanced Energy Materials)’에 게재됐다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/dc0c2e244272c70d765663efdb346561.png" alt="종이 타일이 실내 공기에서 습기를 흡수하는 모습을 표현한 콘셉트 이미지 (제공=뉴욕주립대 빙엄턴 캠퍼스)">
-<p>공기 중 습도를 통해 전력을 얻는 기술은 종전에도 있었다. 하지만 그 동안 습도 발전기는 주로 실외용으로 개발돼 주변 습도를 전기로 변환할 때 ㎠당 마이크로와트(㎼, 1백만분의 1와트) 수준의 미미한 전력만 생산하는 데 그쳤다.</p>
-<p>실외는 습도, 온도, 바람 등이 불규칙하게 변해 안정적인 전력 생산이 어렵다. 연구를 이끈 뉴욕주립대 빙엄턴 캠퍼스 최석흔 전기컴퓨터공학과 교수는 "문제는 실외 환경에서 생산되는 전력량이 매우 적고, 강한 햇빛이나 날씨 변화로 인해 작동이 불안정하다는 점"이라며, "반면 실내 환경은 습도가 30~60%로 비교적 일정하게 유지되며, 호흡•요리•목욕 등 일상 활동으로 지속적인 습기가 공급되는 장점이 있다"고 설명했다.</p>
-<p>연구진은 일반 벽지 대신 실험실 등급의 왓맨(Whatman) 3MM 종이(두께 340㎛)를 사용했다. 깔끔한 외관을 위해 배선은 종이 뒷면에 배치했으며, 레이저로 뚫은 1㎜ 너비의 구멍에 은색 페인트를 채워 양면을 연결했다. 제조 과정에는 왁스 프린팅, 에어브러싱, 스크린 프린팅, 레이저 가공 기술이 혼합 활용됐다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/9d1d66ff0c74cf46476eedff2fd1d998.png" alt="종이가 수분을 이동시켜 에너지를 생산하고 습도를 조절하는 방식 (제공=뉴욕주립대 빙엄턴 캠퍼스)">
-<p>이 스마트 벽지는 2x2cm 크기 정사각형 종이 타월 여러 조각으로 구성되며, 각 타월은 세 부분으로 나뉜다. 가장자리에는 공기 중 수증기를 흡수해 종이 내부에서 액체 상태로 바꾸는 글리세롤이 도포돼 있다. 중간 영역에는 플라스틱과 유사한 고분자 소재인 폴리비닐피롤리돈(PVP)이 배치됐다. PVP는 물을 강력하게 끌어당기는 성질이 있으며, 미세한 구멍을 통한 모세관 현상으로 액체를 중심부로 이동시킨다.</p>
-<p>중심부는 왁스 처리돼 있는데 이는 통기성이 좋은 방수 소재를 떠올리면 쉽다. 왁스는 액체 상태의 물은 밀어내지만 미세한 구멍은 남겨둬 수증기만 빠져나가도록 한다. 이로 인해 물이 가장자리에서 중심부로 지속해서 유입된 뒤 수증기로 증발하게 된다. 이 과정에서 발생하는 꾸준한 흐름이 전류를 만들어낸다.</p>
-<p>글리세롤, 셀룰로오스, PVP의 화학 작용기는 물 분자가 양성자(수소 이온)를 방출하도록 돕는다. 중심부보다 가장자리에 양성자가 더 많이 쌓이면서 전위차가 발생하고, 이 불균형을 이용해 흑연 전극이 전류를 수집하는 원리다.</p>
-<p>물론 현재 단계에서 전력 출력량이 높은 편은 아니다. 2x2cm 타일 하나는 습도 80% 조건에서 약 0.34V를 생성했으며, 10개를 직렬로 연결했을 때 약 2.9V에 도달했다. 35개 타일로 구성된 모듈은 습도 센서를 약 15분간 작동시켰고, 가장 큰 1596개 타일 배열은 습도 약 38%에서 3.5V를 출력했다. 이는 에너지를 저장했다가 순간적으로 방출하는 콘덴서의 도움을 받아 무선 키보드를 작동시키기에 충분한 전력이다. 단, 연구진은 이번 논문에서 이 벽면형 버전의 전체 전력 소비량은 명시하지 않았다.</p>
-<p>이 스마트 벽지는 습도 조절 기능도 겸비한다. 가로 30㎝, 세로 30㎝, 높이 15㎝의 밀폐된 상자 안에서 28개의 타일을 시험한 결과, 약 4분 만에 내부 습도가 75%에서 50%로 떨어졌다. 수분을 흡수한 상태에서는 건조한 공기의 습도를 약 16분 만에 15%에서 20%로 올려놓았다. 실제 실내 공간에서도 이 대형 배열이 15분 만에 습도를 38%에서 32%로 낮추는 효과를 보였으나, 연구진은 이것이 초기 결과일 뿐 장기적인 제습 효과를 보장하는 것은 아니라고 덧붙였다.</p>
-<p>최 교수는 "우리는 공기 중 습기를 제거하기 위해 냉난방 공조(HVAC) 시스템에 많은 에너지를 쓰지만, 이 개념을 활용하면 전기를 생산하는 동시에 실내 습도를 낮추거나 조절할 수 있다"고 밝혔다.</p>
-<p>이번 연구 결과는 아직 기술 가능성을 확인하는 개념 증명 단계로 현실적인 목표 역시 기존 전력망이나 태양광 패널을 대체하는 것이 아니라, 환경 센서, 무선 모듈, 사물인터넷(IoT) 기기에 자체 전력을 공급하는 것이다. 내구성만 확보된다면 이 스마트 벽지가 실내 공기질을 스스로 관리하는 자가 발전 센서로 활용될 수 있을 것으로 기대된다.</p>]]></description>
-		</item>
-		<item>
-			<title>문서 자산화·보안 한눈에…사이냅소프트, AI페스타서 업무 맞춤 AI 솔루션 공개</title>
-			<link>https://zdnet.co.kr/view/?no=20261008135141</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008135141</guid>
-			<author>진성우 기자</author>
-			<category>사이냅소프트</category>
-			<category>AI</category>
-			<category>문서</category>
-			<category>보안</category>
-			<category>데이터</category>
-			<category>분석</category>
-			<category>온프레미스</category>
-			<category>AI 페스타 26</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 14:02:39 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/cbb889c0d8e7ed72fd7768bebcf606e3.jpg" alt=""><p>문서 인공지능(AI) 기업 사이냅소프트가 기업 내부 문서를 안전하게 지능형 자산으로 전환하는 문서 AI 풀스택 솔루션을 선보였다.</p>
-<p>현장에서는 비정형 문서의 디지털 자산화부터 데이터 유출 걱정 없는 온프레미스 대규모 언어모델(LLM) 환경 구축까지 아우르는 AI 기술을 소개했다.</p>
-<p>사이냅소프트는 8일 서울 삼성동 코엑스에서 열린 &apos;AI페스타26&apos;에 참가해 ▲문서 구조 분석 솔루션 &apos;사이냅 도큐애널라이저&apos; ▲온프레미스 LLM 패키지 &apos;사이냅 어시스턴트&apos; ▲SaaS 기반 AI 데이터 가공 플랫폼 &apos;사이냅 AI 데이터 파운드리&apos; ▲VLM 기반 &apos;사이냅 OCR IX&apos; 등 핵심 솔루션 라인업을 공개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/cbb889c0d8e7ed72fd7768bebcf606e3.jpg" alt="사이냅소프트가 8일 서울 코엑스에서 열린 &apos;AI페스타26&apos; 부스에서 문서 AI 풀스택 솔루션을 선보이고 있다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">부스에서 주목받은 &apos;사이냅 도큐애널라이저&apos;는 아래아한글, MS 오피스, PDF 등 비정형 문서의 시각 요소와 복잡한 구조를 정밀 분석하는 솔루션이다. 표, 차트, 수식은 물론 다단 구조와 읽기 순서까지 인식해 마크다운</span><span style="letter-spacing: 0.8px;">, XML, JSON 등 정형 데이터로 변환한다. 원본 구조를 유지한 채 데이터화해 대규모 언어모델(LLM) 학습과 검색 증강 생성(RAG) 답변 정확도를 크게 </span><span style="letter-spacing: 0.8px;">높인다.</span></p>
-<p>함께 출품한 &apos;사이냅 어시스턴트&apos;는 사내 데이터 유출을 막는 온프레미스 지능형 문서 AI 패키지다. 에이전틱 RAG를 기반으로 정확한 근거 중심 답변을 제시하며, 사이냅 문서뷰어와 연동해 참조 문서 영역을 하이라이팅 표시함으로써 환각 여부를 즉각 검증할 수 있다. 복잡한 프로그래밍 없이 시각적인 작업 화면에서 사내 맞춤형 AI 에이전트를 조립·구축 가능하다.</p>
-<p><span style="letter-spacing: 0.8px;">비정형 서식 이미지에서 핵심 정보를 맥락까지 이해해 추출하는 &apos;사이냅 OCR IX&apos;도 전시됐다. 최신 시각언어모델(VLM) 기술을 결합해 공공 문서 인식률 99%(TTA 인증)를 기록했으며, AI 에이전트가 폼과 템플릿을 자동 생성해 서식 제작 및 구축 시간을 크게 단축했다. 주민등록번호, 여권번호 등 민감정보 마스킹 기능도 지원해 공공·금융권 보안 요구에 대응한다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/e85e410cc3512d2d1b4a24cbd17a40a1.jpg" alt="&apos;AI페스타26&apos; 사이냅소프트 부스 현장. (사진=지디넷코리아)">
-<p>이 외에도 웹 콘솔과 REST API를 통해 페이지당 평균 0.146초의 빠른 속도로 14개 이상의 포맷을 일괄 구조화 변환하는 클라우드 SaaS &apos;사이냅 AI 데이터 파운드리&apos;를 소개해 기업 고객들의 발길이 이어졌다.</p>
-<p>전경헌 사이냅소프트 대표는 "AI 에이전트 성능은 결국 AI가 읽고 이해할 수 있는 문서가 얼마나 잘 준비돼 있느냐에 달려 있다"며 "오랜 기간 축적한 문서 기술력을 바탕으로 문서를 정확히 읽고, 구조화하고, 답변까지 연결하는 전 과정을 지원해 기업과 기관이 실질적인 AI 에이전트 성과를 거둘 수 있도록 돕겠다"고 전했다.</p>
-<p><span style="letter-spacing: 0.8px;">한편 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 AI페스타26은 이달 6일부터 8일까지 사흘간 서울 코엑스 C홀 등에서 열린다. 올해 행사는 212개사·501개 부스 규모로 마련됐다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>램리서치, 비씨엔씨 상대 디자인침해소송 일부 승소</title>
-			<link>https://zdnet.co.kr/view/?no=20261007230030</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261007230030</guid>
-			<author>이기종 기자</author>
-			<category>램리서치</category>
-			<category>비씨엔씨</category>
-			<category>애프터마켓</category>
-			<category>반도체</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Thu, 08 Oct 2026 14:01:41 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/06/13/22c03fa944bdaf68a9d752c7ad2c208b.png" alt=""><p><span style="letter-spacing: 0.8px;">세계 식각장비 1위 램리서치가 비씨엔씨를 상대로 제기한 반도체 공정 에지 링 디자인침해소송에서 일부 승소</span><span style="letter-spacing: 0.8px;">했다.</span><span style="letter-spacing: 0.8px;"> 쟁점 디자인 2건은 특허심판원에서 유효라는 판단이 나왔기 때문에 일단 램리서치가 유리한 고지를 점했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">서울중앙지방법원은 8일 램리서치가 지난 2024년 1월 비씨엔씨를 상대로 제기한 디자인침해소송과 관련해 원고인 램리서치의 </span><span style="letter-spacing: 0.8px;">일부 승소라고 판결했다. </span><span style="letter-spacing: 0.8px;">비씨엔씨는 애프터마켓 업체다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/06/13/22c03fa944bdaf68a9d752c7ad2c208b.png" alt="(사진=비씨엔씨)">
-<p><span style="letter-spacing: 0.8px;">링은 식각장비에 사용하는 소모성 실리콘 부품이다. 식각장비 안에서 생성된 플라스마가 웨이퍼 바깥으로 나가지 않도록 가두는 역할을 한다. 링은 주로 내플라즈마·내열성이 우수한 쿼츠 재질을 사용한다. </span></p>
-<p>비씨엔씨는 램리서치가 2024년 1월 디자인침해소송을 제기하자, 2024년 11월 램리서치 디자인 &apos;반도체 제조장치용 에지 링&apos; 2건(등록번호 1026248·1026250)을 상대로 특허심판원에 무효심판을 청구했다. 하지만 특허심판원은 2026년 5월 해당 디자인 2건이 유효라고 판단(심결)했다. 비씨엔씨는 심결에 불복하고 2026년 8월 특허법원에 심결취소소송을 제기했다. </p>
-<p>비씨엔씨는 램리서치 특허 3건을 상대로도 분쟁 중이다. 비씨엔씨는 2024년 11월부터 2025년 4월 사이 특허심판원에 램리서치 특허 3건에 대해 무효심판을 청구했다. 특허심판원은 3건 중 2건(하단 링 및 중간 에지 링, 등록번호 2182298·2254224)은 무효라고 심결했고, 나머지 1건(기판 프로세싱 시스템을 위한 감소된 커패시턴스 변화를 갖는 이동식 에지 링들, 등록번호 2646633)은 유효라고 심결했다. 이들 심결에 대해선 램리서치와 비씨엔씨가 각각 불복하고 2025년 10~12월 특허법원에 심결취소소송을 제기했다. </p>
-<img src="https://image.zdnet.co.kr/2026/10/08/c36ea9f2472f3c620393eb10532f2dd9.png" alt="(자료: 키프리스 / 정리: 지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">두 업체가 </span><span style="letter-spacing: 0.8px;">다투고 있는 램리서치 특허 3건과 디자인 2건 가운데, 특허 3건이 최종 무효로 판단돼도 디자인이 유효라는 최종 판결, 그리고 비씨엔씨가 해당 디자인을 침해했다는 최종 판결이 나오면 </span><span style="letter-spacing: 0.8px;">비씨엔씨는 링을 </span><span style="letter-spacing: 0.8px;">다시 설계해야 할 수 있다. </span></p>
-<p><span style="letter-spacing: 0.8px;">비씨엔씨 사업에 미칠 영향은 분쟁 대상 품목이 비씨엔씨 전체 링 매출에서 차지하는 비중에 비례한다. 현재 진행 중인 특허</span>·디자인 <span style="letter-spacing: 0.8px;">분쟁이 일단락된 뒤 램리서치가 관련 분쟁을 </span><span style="letter-spacing: 0.8px;">확대할지도 관심사다. 일반적으로 특허권자는 앞선 분쟁에서 유효성이 확인된 특허를 활용해 </span><span style="letter-spacing: 0.8px;">비슷한 분쟁을 제기한다. 상대와 협상을 빨리 끝낼 수 있기 때문이다. </span></p>
-<p><span style="letter-spacing: 0.8px;">램리서치는 삼성전자와 SK하이닉스 등에 반도체 공정 부품을 공급하는 여러 국내 애프터마켓 업체와 산업재산권(특허</span>·디자인 등)<span style="letter-spacing: 0.8px;"> </span><span style="letter-spacing: 0.8px;">분쟁 중이다. 비씨엔씨 외에 월덱스, 플라텍, 윌비에스엔티, SHM(옛 원세미콘), CMTX(씨엠티엑스) 등이 램리서치와 싸우고 있다. 램리서치는 국내 애프터마켓 업체를 상대로 2020년대 초반부터 특허침해를 경고하고, 침해소송을 제기했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">반도체 식각장비 시장에선 램리서치 외에 도쿄일렉트론이 주요 업체다. </span><span style="letter-spacing: 0.8px;">도쿄일렉트론도 삼성전자 등에 식각장비를 공급한다. </span></p>]]></description>
-		</item>
-		<item>
-			<title>한은 &quot;아시아, 토큰화 확산 전 대응체계 마련해야&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261008131115</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008131115</guid>
-			<author>손희연 기자</author>
-			<category>토큰화</category>
-			<category>토큰증권</category>
-			<category>한국은행</category>
-			<category>IMF</category>
-			<category>금융</category>
-			<category>경제</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 14:00:04 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/11/25/2ec9c5de6577e6351f5e78208d124a5a.jpg" alt=""><p><span style="letter-spacing: 0.8px;">금융자산 토큰화로 인해 과거보다 급격한 자본유출이 이뤄질 수 있는 만큼, 국제통화기금(IMF)발 구제금융을 겪었던 아시아 국가는 적절한 사전 대응 체계가 마련돼야 한다는 견해가 나왔다.</span></p>
-<p>8일 서울 중구 한국은행에서 열린 &apos;IMF 글로벌금융안정보고서 토큰화&apos; 챕터 행사에 참여한 권민수 한은 부총재는 "아시아는 과거 급격한 자본유출을 경한 곳이기도 하다"며 "토큰화가 확산될 수록 사후적 대응이 어려워질 수 있으므로 적절한 사전적 대응 체계 마련을 고려해 볼 필요가 있다"고 말했다.</p>
-<p>권 부총재는 "F1 경주에서 랩타임을 줄이기 위해서는 강한 엔지만 필요한 것이 아니라 속도를 감당할 튼튼한 차체와 안전한 코너링을 위한 접지력 있는 타이어, <span style="letter-spacing: 0.8px;">적시에 속도를 줄일 수 있는 브레이크가 함께 있어야 한다"며 "토큰화도 마찬가지로 빠르고 효율적인 금</span><span style="letter-spacing: 0.8px;">융 인프라를 만드는 것만큼이나, 그 속도를 감당할 수 있는 건전성과 안전장치, 그리고 필요 시 적시에 작동할 수 있는 정책체계를 함께 갖추는 것도 중요할 것"이라고 강조했다.</span></p>
-<img src="https://image.zdnet.co.kr/2025/11/25/2ec9c5de6577e6351f5e78208d124a5a.jpg" alt="한국은행 전경.">
-<p>그는 다만, 토큰화로 인해 "아시아의 <span style="letter-spacing: 0.8px;">금융거래 결제 속도가 빨라지고 중개 비용이 낮아진다면 실물경제와 금융시장 모두에 상당한 편익이 예상된다"고도 전제했다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>[인사] 한국인터넷진흥원(KISA)</title>
-			<link>https://zdnet.co.kr/view/?no=20261008135716</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008135716</guid>
-			<author>방은주 기자</author>
-			<category>KISA</category>
-			<category>인사</category>
-			<pubDate>Thu, 08 Oct 2026 13:57:16 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<p>◆ 단장급 보임</p>
-<p>△ AI보안인재단장 오주형</p>
-<p>◆팀장급 보임</p>
-<p>△ AI보안정책팀장 류하성</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;국내 호텔 첫 팝업 스토어 진행&quot;...식스도파민, &apos;더 시크릿 체크인&apos; 참여</title>
-			<link>https://zdnet.co.kr/view/?no=20261008135449</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008135449</guid>
-			<author>방은주 기자</author>
-			<category>식스도파민</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 13:54:49 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/ab606e0e6fe2aea6f678917762db0198.png" alt=""><p>AI 기반 이머시브 콘텐츠 기업 식스도파민(대표 박억)은 소피텔 앰배서더 서울 개관 5주년 캠페인 ‘콜렉티브(COLLECTIVE)&apos; 일환으로 진행된 팝업 ‘더 시크릿 체크인(The Secret Check-in)’에 참여해 AI·VR·XR 기술을 결합한 가상 호텔 체험 콘텐츠를 선보였다.</p>
-<p>팝업은 지난 9월 30일부터 10월 5일까지 더현대 서울 6층에서 진행됐다. 방문객들은 가상 호텔을 탐색하고 미션을 수행하며, 소피텔 서울의 공간과 서비스를 경험했다.</p>
-<p>식스도파민은 소피텔 서울의 주요 공간과 브랜드 경험을 가상 호텔로 구현하고, 방문객이 직접 공간을 탐색하며 미션을 수행할 수 있는 이머시브 콘텐츠를 제작했다. 방문객은 AI 공간 매칭 테스트를 통해 자신에게 어울리는 소피텔 서울의 공간을 추천받은 후, 가상 호텔을 탐색하며 공간 곳곳에 숨겨진 크루아상을 찾는 미션을 수행했다.</p>
-<p>식스도파민은 가상 호텔 콘텐츠 제작부터 공간 매칭, 탐색, 미션 수행, 리워드 수령까지 전체 체험 과정의 구성과 현장 구현에 참여했다. 이번 체험은 AI 개인화 추천과 VR·XR 기반 공간 탐색을 하나의 과정으로 연결해 방문객이 콘텐츠 관람자를 넘어 이야기 주인공으로 참여할 수 있게 설계한 것이 특징이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/ab606e0e6fe2aea6f678917762db0198.png" alt="소피텔 앰배서더 서울 개관 5주년 팝업 더 시크릿 체크인(The Secret Check-in) 현장(사진= 식스도파민 제공)">
-<p>식스도파민은 현대백화점의 AI 어시스턴트 기술인 ‘헤이디(heydi)’를 활용해 방문객의 개별 취향에 맞는 공간을 추천하는 과정을 설계했다. 이 기술과 자체 보유한 VR·XR 기술을 결합해 소피텔 서울의 공간과 브랜드 경험을 디지털 환경으로 확장했다. 특히 실제 호텔 공간을 가상으로 구현하는 데 그치지 않고 미션과 현장 체험까지 연계해 AI 기술과 이머시브 콘텐츠를 결합한 온·오프라인 브랜드 경험을 선보였다.</p>
-<p>행사 기간 팝업 현장에는 총 1343명이 방문했다. 이 가운데 1261명이 VR 콘텐츠를 체험해 약 94%의 참여율을 기록했다. 행사 마지막날 현장에서 진행한 만족도 조사에서는 7개 평가 문항의 종합 평균 5점 만점에 4.81점, 긍정 응답 비율은 97.2%로 나타났다. 서술형 의견에서는 VR 체험의 신선함과 재미가 주로 언급됐으며, 일부 참여자는 ‘소피텔 서울에 대해 알게 됐고 실제로 방문해보고 싶다’는 반응을 남겼다.</p>
-<p>식스도파민 박억 대표는 “이번 프로젝트가 국내 호텔 최초의 팝업 스토어로 진행된만큼, 공간과 서비스를 디지털로 소개하는 것을 넘어, 관객이 자신의 취향에 맞는 공간을 발견하고 직접 가상 호텔을 탐험하는 이머시브 경험으로 설계했다”면서 “AI·VR·XR 기술과 스토리텔링을 결합해 소피텔 서울이 지닌 공간의 감각과 브랜드 메시지를 관객이 능동적으로 경험할 수 있도록 구현했다”고 말했다.</p>
-<p>이번 프로젝트는 예술경영지원센터 아트코리아랩의 ‘2026 아트코리아랩 AI+기술융합 오픈이노베이션 사업’ 지원으로 진행됐다. 문화체육관광부와 예술경영지원센터가 운영하는 예술·기술 융합 특화 플랫폼 ‘아트코리아랩’ 입주기업인 식스도파민은 VR·AI·XR 등 디지털 기술과 스토리텔링을 결합한 이머시브 콘텐츠를 제작하고 있으며, 이번 프로젝트를 통해 추적한 호텔·공간 기반 이머시브 콘텐츠 제작 경험을 바탕으로 향후 호텔과 리테일, 브랜드 캠페인, 전시 등으로 협업 분야를 확대할 계획이다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
