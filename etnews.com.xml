@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 08 Oct 2026 19:00:41 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 08 Oct 2026 20:00:39 +0900</lastBuildDate>
+		<item>
+			<title>고양시, 글로벌 AI 허브 유치 포럼…의료·국제협력 전략 집중 논의</title>
+			<link>https://www.etnews.com/20261008000390</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261008000390</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 08 Oct 2026 19:20:17 +0900</pubDate>
+			<description><![CDATA[경기 고양특례시가 글로벌 인공지능(AI) 허브 유치를 위해 보건의료 분야를 앞세운 협력 전략을 논의했다. 고양시는 고양연구원과 함께 8일 성사동 창조혁신캠퍼스 성사에서 전문가와 시민 등 100여 명이 참석한 가운데 '고양 글로벌 AI 허브 포럼'을 열었다. 정부는 글로벌 AI 허브를 국제기구와 개발은행, 산·학·연이 함께 기후·보건·식량 등의 문제를 다루는 협력 플랫폼으로 구상하고 있으며, 2027년 개소를 목표로 후보지 공모·평가를 추진할 계...]]></description>
+		</item>
 		<item>
 			<title>베슬AI, 업스테이지 &apos;솔라 프로 4&apos;에 추론 인프라 지원</title>
 			<link>https://www.etnews.com/20261008000355</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 08 Oct 2026 07:21:58 +0900</pubDate>
 			<description><![CDATA[부산대학교가 국산 하이퍼컨버지드 인프라(HCI) 솔루션을 도입해 기존 VMware 기반 가상화 시스템을 전환하고 재해복구(DR) 인프라 구축 기반을 마련했다. 가상화 환경 전환과 스토리지 이중화, 통합관리 체계를 함께 구현해 주요 학사·연구 서비스의 안정성과 업무 연속성을 높이는 데 초점을 맞췄다. 에이블스택은 부산대학교가 자사의 차세대 HCI 솔루션 '에이블스택(ABLESTACK)'을 기반으로 가상화 인프라 구축을 완료했다고 밝혔다. 이번 사...]]></description>
-		</item>
-		<item>
-			<title>챗GPT, 질문 따라 답변 화면 바꾼다…GPT-6 시각화 기능 도입</title>
-			<link>https://www.etnews.com/20261008000001</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000001</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 07:01:44 +0900</pubDate>
-			<description><![CDATA[오픈AI가 챗GPT 질문에 맞춰 글과 그림, 직접 조작할 수 있는 화면을 함께 제공하는 '인텔리전트 UI'를 선보였다. 이용자는 대화창에서 차트를 확인하거나 입력값을 바꿔 계산 결과를 살펴볼 수 있다. 오픈AI는 GPT-6에 인텔리전트 UI를 적용하고 전 세계 이용자를 대상으로 순차 제공한다고 7일(현지시간) 밝혔다. 챗GPT 플러스·프로·비즈니스·엔터프라이즈 요금제부터 적용하며, 8일부터 무료·고(Go) 요금제로 확대한다. 엔터프라이즈는 기업...]]></description>
 		</item>
 	</channel>
 </rss>
