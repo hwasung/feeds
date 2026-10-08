@@ -4,7 +4,17 @@
 		<title>디지털데일리</title>
 		<link>https://www.ddaily.co.kr/</link>
 		<description>디지털데일리</description>
-		<lastBuildDate>Thu, 08 Oct 2026 18:00:29 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 08 Oct 2026 20:00:19 +0900</lastBuildDate>
+		<item>
+			<title>KAI, 해병대 상륙기동헬기 군수지원&hellip;5년간 1145억원</title>
+			<link>https://www.ddaily.co.kr/page/view/2026100819032289313</link>
+			<guid isPermaLink="true">https://www.ddaily.co.kr/page/view/2026100819032289313</guid>
+			<author>최민지 기자</author>
+			<category>산업</category>
+			<category>재계</category>
+			<pubDate>Thu, 08 Oct 2026 19:04:04 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.ddaily.co.kr/photos/2026/10/08/2026100819031332407_l.jpg"/><figcaption>MUH-1 [사진=KAI]</figcaption></figure>[디지털데일리 최민지기자] 한국항공우주산업(KAI)이 해병대 상륙기동헬기 MUH-1의 안정적인 운용을 위해 부품 공급과 정비 지원을 맡는다.<br/><br/>KAI는 방위사업청과 1145억원 규모 MUH-1 성과기반군수지원(PBL) 사업 계약을 체결했다고 8일 밝혔다. 사업 기간은 올해 10월부터 2031년 12월까지 약 5년이다.<br/><br/>PBL은 단순히 부품을 공급하는 데 그치지 않고 항공기 가동률과 정비 신뢰도 등 운용 성과를 기준으로 후속군수지원체계를 구축하는 방식이다. KAI는 MUH-1 운용에 필요한 부품·정비 요소를 선제적으로 관리하고 적기에 공급하는 효율적인 후속지원체계를 구축한다.<br/><br/>MUH-1은 국산 기동헬기 KUH-1 '수리온'을 기반으로 해상·함상 운용이 가능하도록 개발한 해병대 상륙기동헬기로 '마린온'으로 불린다. 해병대 상륙작전과 공중수송 등에 투입된다.<br/><br/>KAI는 2010년 KT-1을 시작으로 T-50 계열과 KF-21, 수리온, 미르온 등으로 PBL 사업을 확대해 왔다. 해외에서는 2024년 필리핀 FA-50, 2025년 태국 T-50 PBL 계약을 체결했다. 향후 1000대 이상 운용될 KAI 개발 항공기의 후속지원 사업을 지속 확대해 핵심 사업군으로 집중 육성하겠다는 전략이다.<br/><br/>송호철 KAI 생산운영부문장(부사장)은 "한국 해병대의 운용 항공기가 최상의 성능을 발휘할 수 있도록 KAI의 15년 동안의 후속지원 경험과 역량을 집중할 것"이라며 "나아가 완벽한 후속지원을 통해 초연결 미래 항공 플랫폼을 구축하는 데 앞장서겠다"고 말했다.]]></description>
+		</item>
 		<item>
 			<title>앤트로픽, 소형 AI 모델 &lsquo;하이쿠 5.5&rsquo; 공개</title>
 			<link>https://www.ddaily.co.kr/page/view/2026100817252376604</link>
@@ -275,17 +285,6 @@
 			<category>보안</category>
 			<pubDate>Wed, 07 Oct 2026 13:54:43 +0900</pubDate>
 			<description><![CDATA[<figure><img src="https://www.ddaily.co.kr/photos/2026/10/07/2026100713464391240_l.jpg"/><figcaption>[사진=한싹]</figcaption></figure>양자기술산업법 11월 시행 앞두고…국방·안보 분야 우선 대응<br/>BlueKeen VA·SecureGate·CDS에 PQC 적용<br/>퀀텀 SSL-VPN은 CC인증 준비<br/>[디지털데일리 김보민기자] 양자컴퓨터가 상용화되면 온라인뱅킹·전자상거래 등에 쓰이는 공개키 암호(RSA, ECC)가 무력화돼, 금융 거래 내역과 의료 기록 등 암호화된 개인정보가 노출될 수 있다는 우려가 커지고 있다.<br/><br/>특히 지금 탈취한 데이터를 양자컴퓨터 상용화 후 복호화하는 '하비스트 나우, 디크립트 레이터(Harvest Now, Decrypt Later)' 공격이 부각되면서, 오늘 유출된 데이터가 수년 뒤 피해로 이어질 수 있다는 경고가 나온다. 장기 보관 데이터일수록 지금부터 양자내성암호(PQC)로 전환해야 한다는 목소리가 커지는 이유다.<br/><br/>미국 국립표준기술연구소(NIST)는 양자컴퓨터에 취약한 기존 공개키 알고리즘을 2030년 이후 단계적으로 사용 중단하고, 2035년 이후에는 완전히 금지하는 전환 일정을 제시했다. 국내에서도 2035년까지 국가 암호체계를 PQC로 전환하는 '범국가 양자내성암호 전환 마스터플랜'을 수립한 데 이어, 개정된 양자기술산업법에 따라 공공기관 342곳에 중앙행정기관·지자체까지 포함하면 600곳 이상이 PQC·양자키분배(QKD) 대응 계획을 갖춰야 하는 의무 조항이 오는 11월 20일 시행을 앞두고 있다.<br/><br/>한싹은 IT정보 수명이 길어 양자컴퓨터 위협에 먼저 대응해야 하는 국방·안보 분야를 PQC 대응이 가장 시급한 영역으로 꼽았다. 이에 따라 N2SF와 PQC 대응을 하나의 축으로 묶어 공공·안보 시장에서 확대해 나갈 계획이라고 밝혔다. 이를 위해 SSL 가시성 솔루션(BlueKeen VA)과 망간자료전송 솔루션(SecureGate) 그리고 CDS(Cross Domain Solution)에 국제표준 양자 알고리즘인 ML-KEM(키 교환)·ML-DSA(전자서명)를 기본 적용한 퀀텀 기반 보안 솔루션을 출시했다.<br/><br/>문호원 한싹 본부장은 "PQC 대응은 선택이 아닌 필수"라며 "BlueKeen VA와 SecureGate를 시작으로 전 솔루션에 PQC를 순차 적용해 나가고 있다"고 말했다. 이어 "내년 상반기 상용화 목표인 퀀텀 SSL-VPN은 올해 하반기부터 보안인증(CC) 취득을 준비할 예정"이라고 덧붙였다.]]></description>
-		</item>
-		<item>
-			<title>한은, 국제금융&middot;협력 부총재보에 최영주 금융시장국장 임명</title>
-			<link>https://www.ddaily.co.kr/page/view/2026100713523909288</link>
-			<guid isPermaLink="true">https://www.ddaily.co.kr/page/view/2026100713523909288</guid>
-			<author>김남규 기자</author>
-			<category>인사</category>
-			<category>동정</category>
-			<category>부음</category>
-			<pubDate>Wed, 07 Oct 2026 13:52:51 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.ddaily.co.kr/photos/2026/10/07/2026100713523338138_l.png"/><figcaption>[사진=한국은행]</figcaption></figure>[디지털데일리 김남규기자] 한국은행이 공석인 국제금융·협력 담당 부총재보에 최영주 금융시장국장을 임명했다. 임기는 오는 8일부터 2029년 10월 7일까지 3년이다.<br/><br/>한국은행은 신현송 총재가 최 국장을 신임 부총재보로 임명했다고 7일 밝혔다.<br/><br/>최 신임 부총재보는 1972년생으로 고려대 경제학과를 졸업하고 미국 미시간주립대에서 경제학 석사 학위를 받았다. 1997년 한국은행에 입행한 뒤 금융시장국과 통화정책국 등 주요 정책부서를 두루 거쳤다.<br/><br/>금융시장국에서는 금융시장연구팀장과 시장운영팀장, 시장총괄팀장, 통화금융부장 등을 역임했다. 통화정책국 정책분석팀과 정책제도연구팀에서도 근무하며 국내외 금융시장 분석과 공개시장운영 등 관련 경험을 쌓았다.<br/><br/>올해 1월 지속가능성장실장을 맡아 기후 스트레스 테스트 등 주요 현안 분석을 이끌었다. 지난 8월 금융시장국장으로 자리를 옮긴 뒤에는 국내외 금융시장 변동성 확대에 대응하는 업무를 맡아왔다.<br/><br/>한국은행은 최 부총재보가 통화정책과 금융시장 분야에서 쌓은 전문성과 경험을 국제금융 분야로 확장해 급변하는 대외 금융환경에 대응하고 우리 경제의 대외 안정성을 강화하는 역할을 할 것으로 기대했다.]]></description>
 		</item>
 	</channel>
 </rss>
