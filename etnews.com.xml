@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 08 Oct 2026 17:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 08 Oct 2026 19:00:41 +0900</lastBuildDate>
+		<item>
+			<title>베슬AI, 업스테이지 &apos;솔라 프로 4&apos;에 추론 인프라 지원</title>
+			<link>https://www.etnews.com/20261008000355</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261008000355</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 08 Oct 2026 17:41:26 +0900</pubDate>
+			<description><![CDATA[베슬AI가 업스테이지 거대언어모델(LLM) '솔라 프로4'에 추론 인프라를 제공했다고 8일 밝혔다. 솔라 프로4는 지난 9월 글로벌 LLM 마켓플레이스 '오픈라우터'에서 실제 이용량 기준 3위에 올랐다. 베슬AI는 해당 기간 솔라 프로4의 글로벌 서비스 운영을 맡아 전 세계 이용자의 추론 요청을 처리했다. 베슬AI는 업스테이지와 함께 모델 출시 일정과 예상 수요를 공유하고 추론 용량을 설계했다. 한국·유럽·미국 등 각 국가의 그래픽처리장치(GP...]]></description>
+		</item>
+		<item>
+			<title>AI 해킹, 악성 IP 차단만으론 역부족…공격 행위 탐지 중요</title>
+			<link>https://www.etnews.com/20261008000316</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261008000316</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 08 Oct 2026 16:33:37 +0900</pubDate>
+			<description><![CDATA[최근 금융권 연쇄 해킹에 사용된 인터넷주소(IP) 대부분이 기존 위협정보에 등록되지 않은 것으로 분석됐다. 악성 IP를 차단하는 기존 방식만으로는 대응하기 어려워 비정상적인 정보 조회 등 공격 행위를 탐지하는 보안체계가 중요해진 것이다. 에스투더블유(S2W)는 최근 금융권 침해사고 관련 공격 정보를 분석한 결과를 8일 공개했다. S2W에 따르면 공격자는 해외 임대 서버와 상용 프록시를 번갈아 사용하며 접속 IP를 변경했다. 국내 IP도 활용했으...]]></description>
+		</item>
 		<item>
 			<title>도쿄도 대표단 KLID 재방문…K전자정부 혁신 노하우 전수</title>
 			<link>https://www.etnews.com/20261008000304</link>
@@ -255,24 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 08 Oct 2026 07:01:44 +0900</pubDate>
 			<description><![CDATA[오픈AI가 챗GPT 질문에 맞춰 글과 그림, 직접 조작할 수 있는 화면을 함께 제공하는 '인텔리전트 UI'를 선보였다. 이용자는 대화창에서 차트를 확인하거나 입력값을 바꿔 계산 결과를 살펴볼 수 있다. 오픈AI는 GPT-6에 인텔리전트 UI를 적용하고 전 세계 이용자를 대상으로 순차 제공한다고 7일(현지시간) 밝혔다. 챗GPT 플러스·프로·비즈니스·엔터프라이즈 요금제부터 적용하며, 8일부터 무료·고(Go) 요금제로 확대한다. 엔터프라이즈는 기업...]]></description>
-		</item>
-		<item>
-			<title>뉴엔AI, AI 기술 선도 기업 사업화 플랫폼 코오롱베니트 AI 얼라이언스 합류</title>
-			<link>https://www.etnews.com/20261007000493</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261007000493</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 06:09:00 +0900</pubDate>
-			<description><![CDATA[산업 맞춤형 인공지능(AI( 분석 기업 뉴엔AI(대표 배성환)는 인공지능 전환(AX) 전문 기업 코오롱베니트(대표 강이구)가 운영하는 '코오롱베니트 AI 얼라이언스'와 전략적 업무협약(MOU)을 맺고 얼라이언스에 참여한다고 8일 밝혔다. 이번 협약을 통해 뉴엔AI는 AI 얼라이언스의 공식 참여사로서, 보유한 AI 특화 기술과 솔루션을 기반으로 산업 현장 중심의 AX 프로젝트에 참여하게 된다. 특히 코오롱베니트가 보유한 제조·금융·건설·유통 등...]]></description>
-		</item>
-		<item>
-			<title>[사설] 다섯번째 누리호, 우주산업 도약대로</title>
-			<link>https://www.etnews.com/20261007000257</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261007000257</guid>
-			<author>논설위원실</author>
-			<category>오피니언</category>
-			<pubDate>Wed, 07 Oct 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[7일 낮 12시 25분, 한국형 발사체 누리호가 5차 발사에 성공하며 대한민국 우주 영토를 또 한 번 넓혔다. 발사에서부터 고난도 초소형 군집위성 5기 분리에 이르기까지 모든 과정을 순조롭게 전개하며, 대한민국 위성 운용 능력과 발사체 신뢰성을 전 세계에 각인했다. 이번 도전은 우주발사체 기술 확보를 넘어 첫 발사부터 다섯 번째 발사까지 차곡차곡 쌓아온 '독자 우주기술'의 저력이 마침내 우리 우주산업 생태계 전반으로 파급될 계기를 마련했다는 점...]]></description>
 		</item>
 	</channel>
 </rss>
