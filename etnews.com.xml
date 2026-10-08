@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 08 Oct 2026 15:00:37 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 08 Oct 2026 16:00:42 +0900</lastBuildDate>
+		<item>
+			<title>엘리스그룹, 모듈형 AI 데이터센터 &apos;PMDC&apos; 상표권 등록</title>
+			<link>https://www.etnews.com/20261008000273</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261008000273</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 08 Oct 2026 15:24:36 +0900</pubDate>
+			<description><![CDATA[엘리스그룹이 자체 개발한 모듈형 인공지능(AI) 데이터센터 'PMDC' 상표권를 등록했다. 엘리스그룹은 PMDC 상표권 등록을 계기로 2021년부터 5년간 축적해온 기술력과 브랜드 경쟁력을 강화할 방침이라고 8일 밝혔다. PMDC는 서버와 전력·냉각·네트워크 등 핵심 설비를 공장에서 사전 제작해 구축하는 데이터센터 솔루션이다. 고성능 그래픽처리장치(GPU) 발열에 대응해 직접수랭식 냉각(DLC), 온수 냉각 기술을 적용했다. AI 클라우드 소프...]]></description>
+		</item>
 		<item>
 			<title>“금융권 해커, AI 해킹 후 이력서 쓰다 신원 노출…中 26세 추정”</title>
 			<link>https://www.etnews.com/20261008000235</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 07 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[행정안전부는 '청년 공공 인공지능 전환(AX) 서포터즈' 발대식을 개최했다고 7일 밝혔다. 이날 발대식에는 김민재 행정안전부 차관과 김형철 한국지능정보사회진흥원장, 청년 공공AX 서포터즈 등이 참석했다. 청년 공공AX 서포터즈는 청년이 공무원·전문가와 함께 공공서비스의 불편을 찾고, 인공지능(AI)을 활용해 개선안을 직접 만들어 보는 프로그램이다. 전국에서 선발된 청년 50명이 10개 팀으로 참여하며, 정보기술·소프트웨어뿐 아니라 행정·경제·보...]]></description>
-		</item>
-		<item>
-			<title>오세훈 시장 “삶의 질 특별시 서울로”…청년 AI 지원 차질 우려</title>
-			<link>https://www.etnews.com/20261007000297</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261007000297</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 07 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[서울시가 지속 성장과 시민 삶의 질 향상으로 '세계 3대 도시(G3)'로 도약한다. 민선 9기 핵심 정책 중 하나인 '청년 AI 사다리' 정책 추진 차질을 우려했다. 오세훈 서울시장은 7일 '취임 100일 맞이 기자간담회'를 열고 “'삶의 질 특별시'가 민선 9기 서울의 목표”라며 “서울이 미래 산업을 키우고 좋은 일자리를 늘리고 기회를 여는 등 계속 성장해야 하고 성과는 시민 일상과 삶의 질로 이어져야 한다”고 밝혔다. 도시 경제 번영과 시민...]]></description>
 		</item>
 	</channel>
 </rss>
