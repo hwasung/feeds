@@ -4,7 +4,28 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Fri, 09 Oct 2026 09:01:07 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 09 Oct 2026 10:01:00 +0900</lastBuildDate>
+		<item>
+			<title>&quot;오픈AI 매출 기대이하&quot; 전망에…반도체 주 충격파</title>
+			<link>https://zdnet.co.kr/view/?no=20261009094454</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009094454</guid>
+			<author>김익현 미디어연구소장</author>
+			<category>오픈AI</category>
+			<category>챗GPT</category>
+			<category>엔비디아</category>
+			<category>AMD</category>
+			<category>나스닥</category>
+			<category>컴퓨팅</category>
+			<pubDate>Fri, 09 Oct 2026 09:45:44 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/03/05/cfb18a6c9caf6fead67068e88bf118a1.png" alt=""><p>챗GPT로 생성형 인공지능(AI) 바람을 일으킨 오픈AI의 연간 매출이 기대에 크게 못 미치는 것으로 나타났다. 그 여파로 S&amp;P500, 나스닥 등 미국 주요 증시가 일제히 약세로 돌아섰다.</p>
+<p>8일(현지시간) 파이낸셜타임스를 비롯한 주요 외신들에 따르면 개발사인 오픈AI는 투자자들에게 연간 환산 매출이 500억 달러 수준으로 예상된다고 말했다.</p>
+<p>이 같은 실적은 당초 예상치인 700억 달러에 200억 달러 가량 못 미치는 수준이다.</p>
+<p>이는 투자자들이 그 동안 갖고 있던 불안을 더 강화시킬 가능성이 있는 소식이다. 투자자들은 오픈AI, 앤트로픽 같은 기업들이 AI 인프라 구축에 투자한 막대한 지출을 정당화할 정도로 AI 수요가 강력할 지에 대해 의문을 품고 있다고 CNBC가 전했다.</p>
+<img src="https://image.zdnet.co.kr/2026/03/05/cfb18a6c9caf6fead67068e88bf118a1.png" alt="미국 인공지능(AI) 회사 오픈AI가 개발한 AI 채팅로봇 &apos;챗GPT&apos; (사진=로이터/뉴스1)">
+<p>이날 나스닥 지수는 1.25% 하락 마감하면서 8월 중순 이후 최악의 하루를 보냈다.  반면 S&amp;P500지수는 0.5% 떨어지면서 기술주 하락 추세를 다소 완화했다.</p>
+<p>CNBC는 이 같은 소식을 전해주면서 “700억 달러라는 목표 매출 수치는 오픈AI에서 나온 것이 아니다”고 전했다. 앤트로픽과 오픈AI를 비교하려는 투자사들의 의도에서 비롯된 수치일 가능성이 많다는 설명이다.</p>
+<p>이날 다른 반도체 업종들도 전반적으로 하락세를 보였다. 엔비디아가 2.9% 떨어졌으며, 인텔과 오라클도 각각 5.3%와 5.5% 하락했다. AMD 역시 3.9% 하락마감하면서 반도체 주 약세 행렬에 동참했다.</p>]]></description>
+		</item>
 		<item>
 			<title>라쿠텐 자체망 구축했다더니...통신 커버리지 과장 논란</title>
 			<link>https://zdnet.co.kr/view/?no=20261009075518</link>
@@ -1098,15 +1119,6 @@
 <p>최 전무는 이날 현장에서 꾸려진 부스를 탐방할 때 현장 데이터 접근권과 워크플로 장악력, 실패비용의 관리 구조, 연구에서 산업으로 나아가는지 여부 등을 주요 관람 포인트로 제시했다.</p>
 <p>최 전무는 “(기업의 성장 구현은) 회의실에서 회의만 한다고 되는 것이 아니다”라며 “실제로 누가 필요로 하고, 누구에게, 무엇을 전달할지를 빠르게 확인하고 검증할 때 구현될 수 있다”고 짚었다.</p>
 <p>AI 페스타 2026은 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 인공지능주간 공식 행사다. 올해 행사는 지난 6일부터 이날까지 사흘간 서울 코엑스 C홀에서 열린다. 212개 기업, 501개 부스 규모로 마련돼 역대 최대 규모로 개최되며 AI 코어, 에이전틱 AI, 피지컬 AI, AI 보안, 국방 AI, AI 반도체 등 다양한 기술과 산업 적용 사례를 선보인다.</p>]]></description>
-		</item>
-		<item>
-			<title>AI의 다음 인프라 과제는 전력… 디지타임스, 800VDC 데이터센터로의 전환을 분석하다</title>
-			<link>https://zdnet.co.kr/view/?no=20261008141003</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008141003</guid>
-			<author>글로벌뉴스</author>
-			<category>글로벌뉴스</category>
-			<pubDate>Thu, 08 Oct 2026 14:10:03 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://mmx.prnasia.com/media/MS2003092/20261005232620EDT_image_1.jpg?id=OA2989744&amp;p=medium600" alt=""><p><p>타이베이, 2026년 10월 8일 /PRNewswire/ -- AI 컴퓨팅이 계속 확장됨에 따라 인프라 과제는 프로세서를 넘어선 영역으로 이동하고 있다. 랙 단위 전력 요구량이 높아짐에 따라 데이터센터 운영사, 서버 제조업체, 반도체 공급업체는 전력망에서 AI 컴퓨팅 시스템에 이르기까지 전기를 전달하는 방식을 재고할 수밖에 없는 상황에 놓였다.</p>  <p>디지타임스 인텔리전스(DIGITIMES Intelligence)의 새 <a href='https://dgt.ms/report800VDC_prnewswire' target='_blank' rel='nofollow' style='color: #0000FF'>보고서</a> 'AI 데이터센터 800VDC 전력 아키텍처의 구상: 여러 핵심 요소 간 균형이 필요한 향후 과제(AI Data Center 800VDC Power Architecture Takes Shape; Future Hurdles Require Balancing Multiple Key Factors)'는 부상하는 800VDC 아키텍처가 차세대 AI 데이터센터 전반의 전력 공급 방식을 어떻게 바꿀 수 있는지, 그리고 이러한 전환이 반도체 및 인프라 생태계에 어떤 새로운 전략적 질문을 던지고 있는지 살펴본다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder6230' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS2003092/20261005232620EDT_image_1.jpg?id=OA2989744&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS2003092/20261005232620EDT_image_1.jpg?id=OA2989744&amp;p=medium600' title='Credit: Digitimes' alt='Credit: Digitimes' /></a><br /><span>Credit: Digitimes</span></p>  </div>  <p>전력은 AI 성능 방정식의 일부가 되고 있다. AI 시스템의 컴퓨팅 집약도가 갈수록 높아짐에 따라 전력 공급은 단순한 시설 차원의 고려 사항이 아니라 시스템 차원의 설계 문제가 되고 있다. 고밀도 AI 랙에서는 업계가 변환 효율, 전력 밀도, 시스템 설치 면적, 열 관리, 그리고 전기가 GPU 및 기타 가속기에 도달하기까지 거치는 전체 경로를 재고해야 한다.</p>  <p>디지타임스는 업계가 고전압 DC 아키텍처로 전환함에 따라 전력 공급 체인 전반의 변화가 빨라지고 있음을 진단했다. 이 영향은 데이터센터 설계를 넘어 전력 반도체, 서버 시스템, 전력 변환 장비, 더 넓은 AI 인프라 공급망으로 확대된다.</p>  <p>800VDC는 새로운 전력 반도체 격전지를 형성한다. 이러한 전환은 전력 반도체 기술의 역할 또한 바꾸고 있다. 디지타임스의 분석에 따르면 단 하나의 기술이 승자가 되기보다는 전압, 스위칭 주파수, 전력 밀도, 효율, 시스템 요건에 따라 서로 다른 소자 아키텍처가 AI 전력 공급 체인에서 각기 다른 역할을 찾아가고 있다.</p>  <p>이 때문에 질화갈륨(GaN)과 탄화규소(SiC)의 진화는 특히 눈여겨볼 만하다. AI 서버 전력 아키텍처가 진화함에 따라, 두 소재 각각의 기술적 특성이 반도체 공급업체가 전력 시스템의 여러 단계에서 제품을 포지셔닝하는 방식에 영향을 미치고 있다.</p>  <p>경쟁은 소자 성능을 넘어 확대될 것이다. 아키텍처가 성숙해짐에 따라 디지타임스는 경쟁이 개별 소자 사양을 넘어 확대될 것으로 예상한다. 서버 OEM 및 ODM과 협력하고, 시스템 수준 설계에 참여하며, 공급 안정성을 유지하고, 급변하는 AI 플랫폼 요건에 신속하게 대응하는 능력이 갈수록 중요해질 것이다.</p>  <p>데이터센터 운영사, 서버 제조업체, 전력 반도체 공급업체, 그리고 AI 인프라를 주시하는 투자자에게 800VDC로의 전환은 단순한 전압 변화 이상으로서, 주목할 만한 공급망 변화다. 이는 AI 인프라에서 전력이 이동하는 방식을 전반적으로 재설계하는 일이며, 공급망 전반에서 가치가 재분배될 가능성을 가지고 있다.</p>  <p>디지타임스 인텔리전스 보고서는 진화하는 800VDC 아키텍처, 주요 전력 반도체 기술의 역할, 부상하는 벤더 전략, 그리고 AI 데이터센터 인프라의 다음 단계를 좌우할 수 있는 경쟁 요인을 심층적으로 다룬다.</p>  <p><b><i>전체 보고서 읽기:</i></b></p>  <p>디지타임스 인텔리전스 800VDC 보고서(DIGITIMES Intelligence 800VDC Report)<br /><a href='https://dgt.ms/report800VDC_prnewswire' target='_blank' rel='nofollow' style='color: #0000FF'>https://dgt.ms/report800VDC_prnewswire</a></p>  <p><b>디지타임스 소개</b></p>  <p>디지타임스는 글로벌 기술 산업에 뿌리를 둔 의사결정 인텔리전스 플랫폼으로, 직접 수집한 산업 정보, 미래 지향적 리서치, AI 기반 분석을 제공해 의사결정자가 변화에 대응하고 전략을 수립하도록 돕는다. 인텔리전스, 리서치, 기업 서비스를 통해 디지타임스는 기술 트렌드를 산업의 다음 행보를 형성하는 공급망 및 기업과 연결한다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder0'></div></p>]]></description>
 		</item>
 	</channel>
 </rss>
