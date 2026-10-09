@@ -4,7 +4,70 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Fri, 09 Oct 2026 13:01:01 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 09 Oct 2026 15:01:04 +0900</lastBuildDate>
+		<item>
+			<title>[AI 고속도로] 기업 AI도 프라이빗 시대…&apos;모듈형 데이터센터&apos;가 뜬다</title>
+			<link>https://zdnet.co.kr/view/?no=20261009083850</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009083850</guid>
+			<author>한정호 기자</author>
+			<category>AI 고속도로</category>
+			<category>데이터센터</category>
+			<category>인공지능</category>
+			<category>AI</category>
+			<category>인프라</category>
+			<category>GPU</category>
+			<category>모듈형</category>
+			<category>엘리스그룹</category>
+			<category>오픈</category>
+			<category>모델</category>
+			<category>컴퓨팅</category>
+			<pubDate>Fri, 09 Oct 2026 15:00:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/05/12/2865c9b3bbbfc39e44e1f0e64ce8b1bc.jpg" alt=""><p><span style="letter-spacing: 0.8px;">기업들이 인공지능(AI) 활용을 확대하면서 데이터와 AI 운영 환경을 직접 통제할 수 있는 &apos;프라이빗 AI&apos;에 주목하고 있다. 외부 클라우드와 AI 모델에 의존하던 방식에서 벗어나 자체 인프라를 병행하는 기업이 늘면서, 필요한 장소에 빠르게 구축하고 수요에 따라 확장할 수 있는 모듈형 AI 데이터센터(AIDC)도 대안으로 부상한 모습이다.</span></p>
+<p>9일 업계에 따르면 기업들은 민감한 내부 데이터나 반복적인 업무를 자체 AI 환경에서 처리하고 고난도 추론이 필요한 작업에는 외부 AI 모델을 활용하는 방식으로 인프라 전략을 다변화하고 있다.</p>
+<p>기업의 AI 전략에서도 모델 성능뿐 아니라 데이터를 어디에 저장하고 연산 자원을 어떻게 운영할 것인지가 중요한 과제로 떠오르고 있다. 특히 금융·제조·공공 등 보안과 데이터 통제가 중요한 분야에선 독립적인 AI 운영 환경을 확보하려는 수요가 커지고 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/05/12/2865c9b3bbbfc39e44e1f0e64ce8b1bc.jpg" alt="오픈 AI 모델이 확산되면서 프라이빗 AI 구축 수요가 늘어나고 있다. (사진=클립아트코리아)">
+<p><span style="letter-spacing: 0.8px;">최근 오픈 모델의 성능이 빠르게 향상되고 운영 비용 부담도 줄어들면서, 기업들이 외부 상용 모델에 대한 의존도를 낮추고 업무 특성에 맞는 자체 AI 환경을 구축할 수 있게 됐다.</span></p>
+<p>미국 매사추세츠공과대학(MIT)과 조지아공대 연구진이 발표한 논문에 따르면 오픈 모델은 폐쇄형 최첨단 AI 모델의 약 90% 수준 성능을 내면서도 비용은 약 6분의 1에 그치는 것으로 나타났다. 폐쇄형 모델 출시 이후 오픈 모델이 유사한 성능에 도달하기까지 걸리는 시간도 13주까지 단축됐다.</p>
+<p>기업 내부 데이터에 맞춘 모델 미세조정도 경쟁력으로 꼽힌다. 데이터브릭스 연구에선 메타의 오픈 모델 &apos;라마 3.1 8B&apos;를 기업 고유 코드에 맞게 미세조정한 결과, GPT-4o보다 코드 채택률이 1.4배 높고 응답 시간은 2배 빠른 것으로 나타났다.</p>
+<p>실제 기업 현장에서도 자체 AI 모델과 외부 모델을 병행하는 사례가 나오고 있다. 미국 보험사 트래블러스는 보험 업무에 특화된 자체 모델 &apos;트래블러스LLM&apos;을 개발해 전문성과 대량 처리가 필요한 업무에 활용하고 범용적이거나 복잡한 요청에는 외부 모델을 사용하는 방식으로 AI 환경을 운영하고 있다.</p>
+<p>국내에선 한국서부발전이 외부망과 분리된 온프레미스 환경에 자체 생성형 AI 서비스 &apos;위피봇&apos;을 구축했다. 사내 규정과 기술자료 검색, 문서 작성 등에 활용하고 있으며 시범 운영 결과 업무 효율을 30% 이상 높이고 연간 10만 시간의 업무 시간을 절감한 것으로 알려졌다.</p>
+<img src="https://image.zdnet.co.kr/2026/09/13/cd277069085143ccb1562ef0b15d4782.jpg" alt="프라이빗 AI 확산과 함께 자체 데이터센터 구축 수요도 늘고 있다. (사진=클립아트코리아)">
+<p><span style="letter-spacing: 0.8px;">기업들이 프라이빗 AI 도입을 확대하면서 대규모 AI 연산을 처리할 수 있는 인프라의 중요성도 커지고 있다. 특히 대규모 AI 모델을 직접 운영하거나 여러 AI 서비스를 상시 구동해야 하는 기업·기관에선 기존 전산실만으로 고밀도 그래픽처리장치(GPU) 환경을 수용하는 데 한계가 있다.</span></p>
+<p>고성능 GPU를 안정적으로 운영하려면 높은 전력 밀도와 발열에 대응할 수 있는 전력·냉각 설비가 필요하다. GPU 간 대용량 데이터를 빠르게 전송하는 네트워크와 스토리지도 갖춰야 한다. 외부 클라우드를 지속적으로 이용할 경우 사용량에 따라 비용 부담이 커질 수 있다는 점도 자체 인프라 구축을 검토하는 배경이다.</p>
+<p>이에 전력·냉각·네트워크 등 주요 설비를 공장에서 미리 제작한 뒤 현장에 설치하는 모듈형 AIDC가 주목받고 있다. 부지와 전력이 확보된 환경에선 기존 데이터센터보다 구축 기간을 줄일 수 있고 AI 연산 수요가 늘어나면 모듈을 추가해 단계적으로 확장할 수 있다는 것이 강점이다.</p>
+<p>기업이 직접 관리하는 부지에 독립적인 AI 인프라를 구축할 수 있다는 점도 특징이다. 데이터와 시스템에 대한 물리적 통제 수준을 높이면서 필요한 연산 자원을 업무 현장 가까이에 배치할 수 있어 보안과 운영 효율을 함께 고려할 수 있다.</p>
+<p><span style="letter-spacing: 0.8px;">국내에선 엘리스그룹이 모듈형 데이터센터와 클라우드 소프트웨어를 결합한 AI 인프라 사업을 추진 중이다.</span></p>
+<p>엘리스그룹은 부지와 전력이 확보된 환경에서 약 3개월 만에 구축할 수 있는 모듈형 AIDC &apos;엘리스 PMDC&apos;를 공급하고 있다. 서버 랙과 전력·냉각·네트워크 설비를 모듈화해 현장에서 설치하는 방식으로, 수요에 따라 인프라를 단계적으로 확장할 수 있도록 설계했다.</p>
+<p>고밀도 GPU 환경에 대응하기 위한 수랭식 냉각 시스템도 적용할 수 있다. 여기에 GPU 가상화·오케스트레이션 기술을 적용한 클라우드 소프트웨어 &apos;ECI&apos;를 결합해 GPU 자원을 워크로드에 따라 배분하고 운영할 수 있도록 지원한다.</p>
+<img src="https://image.zdnet.co.kr/2026/06/16/348c5a11191fccc4ea3900ac36eec657.jpg" alt="모듈형 AI 데이터센터 &apos;엘리스 AI PMDC&apos; 조감도 (사진=엘리스그룹)">
+<p><span style="letter-spacing: 0.8px;">산업 현장에서도 모듈형 AI 인프라 구축이 추진되고 있다. 부산 명지녹산국가산업단지에선 산업단지 내 기업들이 공동으로 활용할 수 있는 GPU·신경망처리장치(NPU) 기반 엣지 AI 데이터센터를 구축하고 있다. 엘리스그룹과 부산테크노파크, 이지에이아이, 건솔루션, 포미트 등이 참여해 제조기업의 AI 전환을 지원할 계획이다.</span></p>
+<p>박정국 엘리스그룹 최고기술책임자(CTO)는 "기업들이 프라이빗 AI 도입을 확대할수록 데이터를 안전하게 관리하는 것뿐 아니라 AI 인프라 자체를 효율적으로 운영할 수 있는 통제력이 중요해질 것"이라고 말했다.</p>
+<p>이어 "특히 민감한 데이터를 다루거나 대규모 AI 연산 환경을 직접 운영해야 하는 기업·기관에선 필요한 장소에 AI 인프라를 빠르게 구축하고 수요에 따라 확장할 수 있는 모듈형 데이터센터가 효과적인 선택지가 될 것"이라고 덧붙였다.</p>]]></description>
+		</item>
+		<item>
+			<title>배민, ‘전국우수시장박람회’ 참가…전통시장 밀키트·맛집 알린다</title>
+			<link>https://zdnet.co.kr/view/?no=20261009131524</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261009131524</guid>
+			<author>류승현 기자</author>
+			<category>배민</category>
+			<category>배달의민족</category>
+			<category>우아한형제들</category>
+			<category>우형</category>
+			<category>전국상인연합회</category>
+			<category>전통시장</category>
+			<category>시장</category>
+			<category>인터넷</category>
+			<pubDate>Fri, 09 Oct 2026 14:47:03 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/09/8805058b77385bf96e389a183043674c.png" alt=""><p>배달의민족이 ‘2026 전국우수시장박람회’에 참가해 전통시장과의 협력 사례와 지역 먹거리를 소개한다.</p>
+<p>배달의민족 운영사 우아한형제들은 9일부터 11일까지 충남 공주시 아트센터고마 일원에서 열리는 전국우수시장박람회에서 홍보부스를 운영한다고 9일 밝혔다.</p>
+<p>전국우수시장박람회는 중소벤처기업부와 충청남도, 공주시가 주최하고 소상공인시장진흥공단과 전국상인연합회가 주관하는 행사다. 올해는 전국 전통시장과 골목형 상점가 133개 점포가 참여한다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/09/8805058b77385bf96e389a183043674c.png" alt="배민이 ‘2026 전국우수시장박람회’에서 홍보 부스를 운영한다. (사진=우아한형제들)">
+<p>배민은 ‘배민은 365일이 장날’을 주제로 부스를 마련하고 전통시장과 공동 개발한 밀키트와 선물세트 등을 소개한다. 배민 앱에 입점한 전국 전통시장 맛집도 소개하고 관련 퀴즈 이벤트를 진행한다.</p>
+<p>오는 10일에는 전국상인연합회와 함께 ‘장날엔 떡볶이 투어’를 운영한다. 시식·퀴즈·게임·포토·리뷰존 등 5개 구역에서 체험을 마치고 스탬프를 모으면 기념품을 제공한다.</p>
+<p>시식존에는 서울·경기·울산·부산 지역 전통시장 4곳의 떡볶이 가게가 참여해 각 지역의 떡볶이를 무료로 제공한다.</p>
+<p>이충환 전국상인연합회 회장은 “배달의민족과 함께 전통시장 우수상품의 판로를 넓히고 상인들에게 새로운 성장 기회를 만들겠다”고 말했다.</p>
+<p>김중현 우아한형제들 지속가능경영실장은 “이번 박람회를 통해 관람객들이 전통시장의 매력을 직접 느끼고 시장을 더 자주 찾는 계기가 되기를 바란다”고 말했다.</p>]]></description>
+		</item>
 		<item>
 			<title>오픈AI, 수학 난제 해결 주장…학계, 신뢰성에 의문 드러내</title>
 			<link>https://zdnet.co.kr/view/?no=20261009073816</link>
@@ -561,556 +624,6 @@
 			<category>글로벌뉴스</category>
 			<pubDate>Thu, 08 Oct 2026 17:10:54 +0900</pubDate>
 			<description><![CDATA[[지디넷코리아]<p><p class='prntac'><i>24X가 12월에 주 5일 23시간 운영을 시작함에 따라 연장 시간 거래 중에 유동성과 거래량을 늘리기 위한 조치</i></p>  <p><span class='legendSpanClass'>스탬퍼드, 코네티컷</span>, <span class='legendSpanClass'>2026년 10월 8일</span> /PRNewswire/ -- 미국 증권거래위원회(U.S. Securities and Exchange Commission, 이하 'SEC')에서 미국 주식을 평일에 23시간 거래하는 곳으로 처음 승인한 국가 증권거래소 24X 내셔널 익스체인지(24X National Exchange LLC, 이하 '24X' 또는 '익스체인지')가 익스체인지 참가자를 대상으로 신주인수권 성과 인센티브 프로그램(warrant performance incentive program, 이하 '프로그램')을 확대하고자 규칙 변경안을 미국 증권거래위원회에 제출했다.</p>  <p>이번 변경으로 프로그램 참가자에게 제공되는 지분이 확대되고 24X 참가자가 되는 특정 브로커-딜러의 진입 비용이 낮아지며 프로그램이 2028년 6월까지 연장되고 신주인수권 확정 조건이 단순화된다.</p>  <p>드미트리 갈리노프(Dmitri Galinov) 24X CEO 겸 창립자는 "24X 내셔널 익스체인지는 미국 주식 24시간 거래라는 아이디어를 기반으로 설립됐다. 당사의 신주인수권 프로그램 확대는 유동성 공급자에게 익스체인지의 성장에 대해 의미 있는 소유 지분을 제공해 그 비전을 강화하기 위한 조치"라며 "당사는 신설 거래소로서 연장 시간 거래에 유동성과 거래량을 증대하는 데 맡은 역할을 다하고자 한다. 이용 가능한 지분을 확대하고 진입 비용을 낮추며 권리 확정을 각 참가자 자신의 성과와 연계해 더 많은 브로커-딜러가 더 간편하게 더 큰 보람을 느끼며 24X에 깊고 회복력 좋은 시장을 구축하는 데 동참하게 하고 있다"고 말했다.</p>  <p>24X는 2027년 12월 31일까지 실행되는 원 프로그램에 따라 익스체인지의 모회사인 24X US 홀딩스(24X US Holdings LLC)의 10%에 해당하는 의결권 없는 지분을 완전 희석 방식으로 제공했다.</p>  <p>이 새 지분은 완전 희석 기준으로 24X US 홀딩스의 추가 22.25%에 해당하며 2027년부터 시작해 2028년에 두 차례 새 분기별 측정 기간에 획득할 수 있어 프로그램은 2028년 6월 30일까지 연장된다. 새로 추가된 지분만 원하는 회원사의 진입 비용은 50만달러에서 25만달러로 낮아진다.</p>  <p>또 기존 지분과 새로 추가된 지분 모두 권리 확정 시 익스체인지 시장 점유율 기준은 적용되지 않다. 대신 권리 확정은 참가자가 24X의 지분과 직접 연계된 유동성에 대해 경쟁력을 확보할 수 있도록 익스체인지 시장 점유율이 아니라 회원의 거래량(기존 지분의 경우 총 거래량, 새로 추가된 지분의 경우 메이커 거래량)만을 조건으로 한다.</p>  <p>규칙 변경안(SR-24X-2026-26)은 발효 시점이 즉시로, 2026년 10월 1일부터 시행된다. 어떠한 변경 사항도 소급 적용되지 않으며 프로그램의 다른 조건은 전혀 바뀌지 않는다. 제출 서류는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4790787-1&amp;h=1420094251&amp;u=https%3A%2F%2Fequities.24exchange.com%2Fregulation&amp;a=https%3A%2F%2Fequities.24exchange.com%2Fregulation' target='_blank' rel='nofollow' style='color: #0000FF'>https://equities.24exchange.com/regulation</a>에서 확인할 수 있다. 이번 변경안은 24X가 미국 주식 평일 23시간 거래의 공식 시작을 준비하는 가운데서 나왔다. 익스체인지는 시작 시점을 12월 6일로 보고 있다.</p>  <p><b>24X 소개 </b></p>  <p>24X 버뮤다 홀딩스(24X Bermuda Holdings LLC, 이하 '24 익스체인지')는 환노출과 금속의 원활하고 비용 대비 효율적인 교환을 도와주는 24X 버뮤다(24X Bermuda Limited)와 미국 증권거래위원회에 평일 23시간 운영 승인을 받은 첫 국가 증권 거래소인 24X 내셔널 익스체인지, 이렇게 두 주축 운영 자회사를 둔 비상장 기업이다. 24X의 사명은 24시간 내내 증가하는 다양한 자산군 전반에서 비용 대비 효율적인 거래를 가능하게 하는 것이다. 24X는 글로벌 시장에서 자산 교환 비용을 낮추는 동시에 각 자산군에 맞는 창의적이고 독특한 워크플로를 제공한다. 더 자세한 정보는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4790787-1&amp;h=3502220382&amp;u=https%3A%2F%2F24exchange.com%2F&amp;a=https%3A%2F%2F24exchange.com%2F' target='_blank' rel='nofollow' style='color: #0000FF'><b>https://24exchange.com/</b></a> 에서 확인할 수 있다. 24X 내셔널 익스체인지에서는 승인된 회원인 브로커-딜러를 통해 전 세계의 소매 및 기관 고객이 미국 주식을 거래할 수 있다. 24X 내셔널 익스체인지에 대해 더 자세한 정보는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4790787-1&amp;h=1421241668&amp;u=https%3A%2F%2Fequities.24exchange.com%2Fhome&amp;a=https%3A%2F%2Fequities.24exchange.com%2Fhome' target='_blank' rel='nofollow' style='color: #0000FF'><b>https://equities.24exchange.com/home</b></a>에서 확인할 수 있다.</p>  <p>미디어 문의처<br />에릭 앤드루스(Eric Andrus), KARV<br /><a href='mailto:24Xmedia@karv.global' target='_blank' rel='nofollow' style='color: #0000FF'><b>24Xmedia@karv.global</b></a></p>  <p> </p></p>]]></description>
-		</item>
-		<item>
-			<title>케임브리지 링구아스킬 비즈니스, 기업의 더욱 확신 있는 채용 및 인력 운영 결정 지원</title>
-			<link>https://zdnet.co.kr/view/?no=20261008171044</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008171044</guid>
-			<author>글로벌뉴스</author>
-			<category>글로벌뉴스</category>
-			<pubDate>Thu, 08 Oct 2026 17:10:44 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://mmx.prnasia.com/media/MS2000557/20261001002009EDT_image_1.jpg?id=OA2982452&amp;p=medium600" alt=""><p><table name='logo_release' border='0' cellspacing='10' cellpadding='5' align='right'>   <tbody>    <tr>     <td><img src='https://mmx.prnasia.com/media/MS1997314/20260928045247EDT_image_3.jpg?id=OA2982453&amp;p=medium600' border='0' alt='' title='logo' hspace='0' vspace='0' width='118' /></td>    </tr>   </tbody>  </table>  <p><b>AI </b><b>기반 </b><b>영어 </b><b>평가로 </b><b>기업에 </b><b>현대 </b><b>업무 </b><b>환경에 </b><b>필요한 </b><b>소통 </b><b>능력 </b><b>측정의 </b><b>일관된 </b><b>기준 </b><b>제공</b></p>  <p>싱가포르, 2026년 10월 8일 /PRNewswire/ -- 기업이 점점 더 국제화되는 팀, 시장 및 고객을 상대로 사업을 운영함에 따라 기업은 지원자가 주장하는 영어 수준 이상의 정보를 요구한다. 이들에게는 직원들이 담당 직무에 필요한 의사소통 역량을 갖추었는지에 대한 신뢰할 만한 근거가 필요하다.</p>  <p>케임브리지(Cambridge)의 링구아스킬 비즈니스(Linguaskill Business)는 온라인으로 원하는 때에 응시할 수 있고 국제적으로 인정받는 영어 능력 평가 방식을 기업에 제공해 채용과 직원들의 역량 개발 및 커리어 개발 측면에서 더욱 정확한 정보에 입각해 의사결정을 내릴 수 있도록 지원한다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder4316' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS2000557/20261001002009EDT_image_1.jpg?id=OA2982452&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS2000557/20261001002009EDT_image_1.jpg?id=OA2982452&amp;p=medium600' title='Linguaskill Business' alt='Linguaskill Business' /></a><br /><span>Linguaskill Business</span></p>  </div>  <p>케임브리지대학교 소속 케임브리지대학교 출판부 및 시험개발원(Cambridge University Press &amp; Assessment)이 개발한 링구아스킬 비즈니스는 케임브리지의 언어 평가 전문성에 인공지능과 컴퓨터 적응형 기술을 결합해 정확하고 신뢰할 수 있는 결과를 제공한다.</p>  <p>채용 결정부터 인력 개발까지</p>  <p>영어 능력은 직원이 회의에 참여하고, 발표를 하며, 고객과 소통하고, 보고서를 작성하며 글로벌 팀과 협업하는 방식에 영향을 미칠 수 있다.</p>  <p>링구아스킬 비즈니스는 유럽공통참조기준(Common European Framework of Reference, CEFR)의 B1부터 C2까지의 영어 능력을 평가하여, 기업에게 개인의 능력에 대해 국제적으로 인정받는 기준을 제시한다.</p>  <p>이 시험은 말하기, 쓰기, 읽기, 듣기 등 기업에서 필요한 네 가지 의사소통 역량을 평가한다. 시험은 모듈형으로 구성되어 있어 기업이 직무별로 필요한 영역을 선택할 수 있다.</p>  <p>따라서 기업은 누군가가 '좋은 영어 실력'을 갖추었는지 주관적으로 판단하던 방식에서 벗어나, 측정 가능한 결과에 기반한 명확한 능력 요건을 세울 수 있다.</p>  <p>인사 담당자와 경영진을 위한 실용적인 도구</p>  <p>기업은 다음을 포함한 직원 관리 여정 전반에서 링구아스킬 비즈니스를 활용할 수 있다.</p>  <ul type='disc'>   <li>채용 및 지원자 선발</li>   <li>대졸 신입 및 관리자 양성 프로그램</li>   <li>임직원 역량 진단 및 비교</li>   <li>교육 및 L&amp;D 수요 분석</li>   <li>사내 인력 배치 전환 및 승진</li>   <li>어학 교육 성과 측정</li>  </ul>  <p>기업은 직무별로 서로 다른 영어 능력 요건을 설정할 수도 있다. 예를 들어 고객을 직접 상대하는 직원과 서면 소통을 주로 담당하는 직원에게는 말하기, 듣기, 읽기, 쓰기 역량이 서로 다른 조합으로 요구될 수 있다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder4368' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS2000555/20261001002009EDT_image2.jpg?id=OA2982450&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS2000555/20261001002009EDT_image2.jpg?id=OA2982450&amp;p=medium600' title='Cambridge English' alt='Cambridge English' /></a><br /><span>Cambridge English</span></p>  </div>  <p>현대 기업을 위한 설계</p>  <p>링구아스킬 비즈니스는 온라인으로 원하는 때에 응시할 수 있어, 기업이 필요한 시점과 장소에서 평가를 진행할 수 있다.</p>  <p>AI와 컴퓨터 적응형 기술이 응시자의 능력에 맞춰 평가를 조정하며, 결과는 CEFR 등급에 따라 제공된다. 응시자는 성적표와 상세한 결과를 수령하고, 기업은 그룹별 보고서를 통해 집단별 결과를 확인할 수 있다.</p>  <p>CEFR은 언어를 위한 유럽공통참조기준(Common European Framework of Reference for Languages)의 약자로, 개인의 언어 능력을 설명하는 데 사용되는 국제 기준이다. 개인의 영어 실력을 '좋음' 또는 '중급'으로 표현하는 대신 CEFR은 명확하게 정의된 능력 등급을 제공한다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder3881' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS2000556/20261001002009EDT_image3.jpg?id=OA2982451&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS2000556/20261001002009EDT_image3.jpg?id=OA2982451&amp;p=medium600' title='Cambridge English' alt='Cambridge English' /></a><br /><span>Cambridge English</span></p>  </div>  <p>이를 통해 다양한 부서, 지역, 시장에 걸쳐 팀을 관리하는 기업은 조직 전반의 영어 능력을 이해하는 일관된 기준을 갖게 된다.</p>  <p>영어 능력을 측정 가능한 인력 역량으로</p>  <p>기업은 면접, 자기 보고식 능력 평가, 부서별로 다른 평가 방식에만 의존하는 대신 직무별로 명확한 영어 기준을 설정하고 공통된 국제 기준에 따라 직원과 지원자를 평가할 수 있다.</p>  <p>이는 인사 담당자 및 경영진이 채용 및 조직 내 임직원의 영어 역량을 정확히 진단하고 개선 영역을 도출하여 맞춤형 역량 개발을 지원하는 확장성 높은 솔루션을 제공합니다.</p>  <p>영어 의사소통이 직원 성과에 중요한 기업에서, 링구아스킬 비즈니스는 현재 보유한 역량을 파악하고 부족한 역량을 찾아내며 맞춤형 역량 개발을 지원하는 유연한 방법이 된다.</p>  <p><b>케임브리지 </b><b>잉글리시(Cambridge English) </b><a href='https://www.cambridgeenglish.org/exams-and-tests/linguaskill/' target='_blank' rel='nofollow' style='color: #0000FF'><b>https://www.cambridgeenglish.org/exams-and-tests/linguaskill/</b></a><b>를 </b><b>방문해 </b><b>링구아스킬 </b><b>비즈니스가 </b><b>채용과 </b><b>인력 </b><b>개발에 </b><b>도움이 </b><b>되는 </b><b>방식에 </b><b>대해 </b><b>자세히 </b><b>알아볼 </b><b>수 </b><b>있다.</b></p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder0'>  </div></p>]]></description>
-		</item>
-		<item>
-			<title>레노버, 스피어에서의 몰입형 경험으로 CES 2027 기조연설을 새로운 차원으로 끌어올린다</title>
-			<link>https://zdnet.co.kr/view/?no=20261008171033</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008171033</guid>
-			<author>글로벌뉴스</author>
-			<category>글로벌뉴스</category>
-			<pubDate>Thu, 08 Oct 2026 17:10:33 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://mmx.prnasia.com/media/MS1700388/CONSUMER-TECHNOLOGY-ASSOCIATION-Yang-Headshot.jpg?id=OA2991791&amp;p=medium600" alt=""><p><table name='logo_release' border='0' cellspacing='10' cellpadding='5' align='right'>   <tbody>    <tr>     <td><img src='https://mmx.prnasia.com/media/MS1700387/CONSUMER-TECHNOLOGY-ASSOCIATION-Lenovo-Logo.jpg?id=OA2991792&amp;p=medium600' border='0' alt='' title='logo' hspace='0' vspace='0' width='118' /></td>     <td><img src='https://mmx.prnasia.com/media/MS1596331/CES.jpg?id=OA2991790&amp;p=medium600' border='0' alt='' title='logo' hspace='0' vspace='0' width='118' /></td>    </tr>   </tbody>  </table>  <p><i>레노버, CES 관객이 지금까지 접하지 못한 경험을 통해 하이브리드 AI를 담은 테크 월드 엣 CES를 선보여</i></p>  <p><span class='legendSpanClass'>알링턴, 버지니아</span>, <span class='legendSpanClass'>2026년 10월 8일</span> /PRNewswire/ -- <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=538034680&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D2852285418%26u%3Dhttps%253A%252F%252Fwww.ces.tech%252F%26a%3DCES%25C2%25AE&amp;a=CES%C2%AE' target='_blank' rel='nofollow' style='color: #0000FF'>CES&reg;</a>의 소유 및 주최 기관인 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=1491617011&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D3204751383%26u%3Dhttps%253A%252F%252Fwww.cta.tech%252F%26a%3DConsumer%2BTechnology%2BAssociation%2B(CTA)%25C2%25AE&amp;a=%EC%86%8C%EB%B9%84%EC%9E%90%EA%B8%B0%EC%88%A0%ED%98%91%ED%9A%8C(Consumer+Technology+Association%2C+CTA)' target='_blank' rel='nofollow' style='color: #0000FF'>소비자기술협회(Consumer Technology Association, CTA)</a>&reg;가, <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=200161012&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D3587521501%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252F%26a%3DLenovo&amp;a=%EB%A0%88%EB%85%B8%EB%B2%84(Lenovo)' target='_blank' rel='nofollow' style='color: #0000FF'>레노버(Lenovo)</a>가 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=2473794893&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D691056576%26u%3Dhttps%253A%252F%252Fwww.thesphere.com%252F%26a%3DSphere%2Bin%2BLas%2BVegas&amp;a=%EB%9D%BC%EC%8A%A4%EB%B2%A0%EC%9D%B4%EA%B1%B0%EC%8A%A4+%EC%8A%A4%ED%94%BC%EC%96%B4(Sphere)' target='_blank' rel='nofollow' style='color: #0000FF'>라스베이거스 스피어(Sphere)</a>에서 열리는 CES에 대표 행사인 테크 월드(Tech World)를 선보여 다른 어디에서도 볼 수 없는 기조연설 경험을 선사한다고 발표했다. 레노버는 2027년 1월 6일 수요일 태평양 표준시 기준 오후 5시에 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=3262861715&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D1540544564%26u%3Dhttp%253A%252F%252Fwww.lenovo.com%252FCES%26a%3DTech%2BWorld%2B%2540%2BCES&amp;a=%ED%85%8C%ED%81%AC+%EC%9B%94%EB%93%9C+%EC%97%A3+CES(Tech+World+%40+CES)' target='_blank' rel='nofollow' style='color: #0000FF'>테크 월드 엣 CES(Tech World @ CES)</a>를 개최하며, 양위안칭(Yuanqing Yang) 회장 겸 최고경영자는 다른 휴먼 AI 리더들과 함께 무대에 올라 몰입감 넘치는 영상과 음향으로 잊지 못할 CES 기조연설을 펼칠 예정이다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder1' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS1700388/CONSUMER-TECHNOLOGY-ASSOCIATION-Yang-Headshot.jpg?id=OA2991791&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS1700388/CONSUMER-TECHNOLOGY-ASSOCIATION-Yang-Headshot.jpg?id=OA2991791&amp;p=medium600' title='Yuanqing Yang, Chairman &amp; CEO, Lenovo' alt='Yuanqing Yang, Chairman &amp; CEO, Lenovo' /></a><br /><span>Yuanqing Yang, Chairman &amp; CEO, Lenovo</span></p>  </div>  <p>CTA의 킨지 파브리지오(Kinsey Fabrizio) 사장 겸 최고경영자는 "CES는 세계 기술 리더들이 한자리에 모여 다음 시대를 만들어 가는 세계적 무대이며, 레노버 테크 월드는 이를 보여주는 강력한 사례"라고 말했다. 이어 "CES 2027에서 레노버 테크 월드가 다시 스피어로 돌아오며, 이번 행사는 CES 주간에 꼭 봐야 할 순간 중 하나가 될 전망이다. 우리가 지금까지 본 적 없는 CES 기조연설에서 레노버가 기술과 음악을 어떻게 결합할지 몹시 기대된다"라고 덧붙였다.</p>  <p>테크 월드는 레노버의 최신 혁신 기술을 공개하는 데 그치지 않고 기술 업계의 거물급 인사와 대담한 사상가들을 한자리에 모아 AI의 다음 단계를 모색한다. CES 참석자들은 하이브리드 AI가 우리의 생활과 일하는 방식을 어떻게 바꾸고 있으며 사람, 기업, 사회에 어떤 새로운 가능성을 열어 주는지 직접 들을 수 있다. 이는 AI가 어디로 향하고 있으며 인간의 잠재력과 글로벌 발전을 이끄는 데 어떻게 기여할 수 있는지를 다루는 필수 시청 대화가 될 예정이다.</p>  <p>레노버의 양위안칭 회장 겸 최고경영자는 "AI는 모든 개인과 모든 기업이 데이터를 실질적인 가치로 전환할 수 있는 힘을 갖춰야 하는 새로운 국면에 들어서고 있다"고 말했다. 이어 "앞으로의 기회는 인간 지능과 인공지능의 장점을 결합해 완전히 새로운 가능성을 만들어 내는 데 있으며, 미래는 AI와 인간 둘 중 하나가 아니라 인간 + AI(Human + AI)이다. 테크 월드에서 우리는 하이브리드 AI 전략이 더 높은 효과, 효율, 보안 및 프라이버시로 모두를 위한 더 스마트한 미래를 어떻게 만들어 가고 있는지 보여줄 것이다"라고 덧붙였다.</p>  <p>레노버와 파트너사들은 기조연설에서 인간 + AI의 미래가 실제로 어떤 모습일지 선보일 예정이다. 레노버는 하이브리드 AI 비전을 통해 개인용, 기업용, 공공 AI가 기기, 인프라, 소프트웨어, 솔루션, 서비스 전반에서 어떻게 함께 작동해 더 스마트하고 더 긴밀하게 연결된 경험을 만들어 내는지 시연한다.</p>  <p>CTA의 게리 샤피로(Gary Shapiro) 의사회 의장은 "이번 기조연설 경험은 AI를 생생하게 구현하고 우리가 일하고 살아가는 방식을 바꿀 AI의 잠재력을 보여줄 것"이라고 말했다. 이어 "AI는 우리가 더 똑똑하게 일하고, 의미 있는 문제를 해결하며, 새로운 가능성을 여는 데 도움이 되는 도구이다. 미래는 사람과 AI가 나란히 함께 일하는 데 달려 있다"라고 덧붙였다.</p>  <p>완전한 몰입형으로 진행되는 이번 행사는 기조연설을 넘어, 레노버의 AI 생태계를 뒷받침하는 스타트업들이 아트리움에 전시되어 AI와 기술의 미래를 만들어 갈 차세대 아이디어와 기업가들을 선보인다. 티켓 판매, 운영, 연사에 관한 추가 세부 사항은 추후 발표될 예정이다. 참석은 등록을 마친 CES 참가자로 제한된다.</p>  <p>2027년 1월 6~9일 라스베이거스에서 열리는 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=1844285211&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D3386036285%26u%3Dhttps%253A%252F%252Fregistration.experientevent.com%252FshowCES271%252FWizard%252FLanding%253Fmarketingcode%253DCES27BGOOG%2526utm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253DRegistrationBOpen%2526utm_content%253Dgoogle%2526gad_source%253D1%2526gad_campaignid%253D24212653181%2526gbraid%253D0AAAABBX-CzKIFqLB_fOxQXi1opKhzmKrE%2526gclid%253DEAIaIQobChMIgc2omqyZlwMVIVN_AB2dVCmmEAAYASAAEgK1LvD_BwE%26a%3DRegister%2Bnow%2Bfor%2BCES%2B2027&amp;a=CES+2027%EC%97%90+%EC%A7%80%EA%B8%88+%EB%93%B1%EB%A1%9D' target='_blank' rel='nofollow' style='color: #0000FF'>CES 2027에 지금 등록</a>해 기술의 미래를 만들어 가는 혁신, 파트너십 및 아이디어를 직접 경험할 수 있다. CES.tech에 방문해 자세한 내용을 확인하고 세계에서 가장 영향력 있는 기술 행사에 자리를 확보할 수 있다.</p>  <p><b>CES&reg; 소개:</b></p>  <p>CES는 세계에서 가장 영향력 있는 기술 행사로, 혁신적인 기술과 글로벌 혁신가들의 검증 무대이다. 이곳은 세계 최대 브랜드들이 비즈니스를 하고 새로운 파트너를 만나며, 가장 날카로운 혁신가들이 무대에 오르는 자리이다. CES는 소비자기술협회(CTA)&reg;가 소유하고 주최하며, 기술 분야의 모든 측면을 아우른다. CES 2027은 1월 6~9일 라스베이거스에서 열린다. <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=1594498460&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D2134437220%26u%3Dhttps%253A%252F%252Fwww.ces.tech%252F%26a%3DCES.tech&amp;a=CES.tech' target='_blank' rel='nofollow' style='color: #0000FF'>CES.tech</a>를 방문하고 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=2275162886&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D2661404477%26u%3Dhttps%253A%252F%252Fx.com%252Fces%26a%3Dsocial&amp;a=%EC%86%8C%EC%85%9C+%EB%AF%B8%EB%94%94%EC%96%B4' target='_blank' rel='nofollow' style='color: #0000FF'>소셜 미디어</a>에서 CES를 팔로우하여 자세한 정보를 확인할 수 있다.</p>  <p><b>소비자기술협회(CTA)&reg; 소개:</b></p>  <p>북미 최대 기술 무역 협회인 CTA는 곧 기술 업계 그 자체이다. 회원사는 스타트업부터 글로벌 브랜드에 이르는 세계적인 혁신가들로, 1700만 개가 넘는 미국 일자리를 지원하고 있다. CTA는 세계에서 가장 영향력 있는 기술 행사인 CES&reg;를 소유하고 주최한다. <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=932843309&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D2168736407%26u%3Dhttps%253A%252F%252Fwww.cta.tech%252F%26a%3DCTA.tech&amp;a=CTA.tech' target='_blank' rel='nofollow' style='color: #0000FF'>CTA.tech</a>를 방문하고 <a href='https://edge.prnewswire.com/c/link/?t=0&amp;l=ko&amp;o=4791527-1&amp;h=3689124400&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4791527-1%26h%3D3149453053%26u%3Dhttps%253A%252F%252Ftwitter.com%252FCTATech%26a%3D%2540CTAtech&amp;a=%40CTAtech' target='_blank' rel='nofollow' style='color: #0000FF'>@CTAtech</a>를 팔로우해 CTA에 대해 알아볼 수 있다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder2'>  </div></p>]]></description>
-		</item>
-		<item>
-			<title>GSMA 보고서: 인도의 다음 디지털 장, 규모를 경제 성장과 신뢰로 전환해야</title>
-			<link>https://zdnet.co.kr/view/?no=20261008171023</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008171023</guid>
-			<author>글로벌뉴스</author>
-			<category>글로벌뉴스</category>
-			<pubDate>Thu, 08 Oct 2026 17:10:23 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<p><table name='logo_release' border='0' cellspacing='10' cellpadding='5' align='right'>   <tbody>    <tr>     <td><img src='https://mmx.prnasia.com/media/MS1372281/GSMA-Logo.jpg?id=OA2991968&amp;p=medium600' border='0' alt='' title='logo' hspace='0' vspace='0' width='118' /></td>    </tr>   </tbody>  </table>  <p class='prntac'><i>GSMA의 신규 연구, AI 대응 네트워크, 디지털 신뢰, 글로벌 표준이 인도의 연결성 규모를 차세대 경제 성장의 동력으로 바꾸는 방안을 제시</i></p>  <p><span class='legendSpanClass'>뉴델리</span>, <span class='legendSpanClass'>2026년 10월 8일</span> /PRNewswire/ -- GSMA가 10월 7일 <a href='https://www.indiamobilecongress.com/' target='_blank' rel='nofollow' style='color: #0000FF'>인도 모바일 콩그레스 2026(India Mobile Congress 2026)</a>에서 보고서 3종을 발표하며, 인도가 세계 최고 수준의 모바일 연결망을 더 큰 경제적 가치로 전환하는 동시에 신뢰를 디지털 경제의 토대로 삼아야 한다고 밝혔다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder1'>  </div>  <p>약 12억 건의 활성 모바일 회선과 약 4억 5000만 건의 5G 연결을 보유한 인도는 전례 없는 글로벌 규모로 연결성을 구현해 왔다. GSMA의 신규 연구는 인도의 디지털 발전을 이루는 데 필요한 다음 우선 과제로 AI 대응 네트워크, 더 빠른 기업 디지털화, 디지털 서비스에 대한 더 큰 신뢰, 6G를 위한 개방적이고 상호 운용 가능한 글로벌 표준을 꼽았다.</p>  <p><b>GSMA의 비벡 바드리나트(Vivek Badrinath) 사무총장</b>은 IMC 기조연설에서 <i>"인도는 디지털 규모를 구현할 수 있음을 입증했다. 이제 그 규모를 혁신, 기업 성장, 신뢰할 수 있는 디지털 서비스로 전환할 기회가 왔다"</i>고 말했다. 이어 <i>"인도의 다음 10년은 얼마나 많은 사람이 연결되어 있는가뿐만 아니라, 그 연결을 통해 무엇을 이룰 수 있는가로 규정될 것이다. 디지털 신뢰는 단순한 안전장치가 아니다. 이는 성장을 위한 인프라다"</i>라고 덧붙였다.</p>  <p><b>디지털 규모를 경제적 가치로 전환</b></p>  <p>GSMA의 <a href='https://www.gsma.com/about-us/regions/asia-pacific/gsma_resources/india-ecosystem-insight-report/' target='_blank' rel='nofollow' style='color: #0000FF'><i>인도 에코시스템 인사이트 리포트: 모바일 연결성에서 디지털 인프라로(India Ecosystem Insight Report: From Mobile Connectivity to Digital Infrastructure)</i></a>는 지속 가능한 투자 환경의 뒷받침 아래 인도의 연결 범위를 AI 대응 인프라, 더 강력한 기업 생산성, 신뢰할 수 있는 디지털 서비스로 전환할 것을 촉구한다.</p>  <p>보고서는 이를 위한 세 가지 우선 과제를 제시한다.</p>  <ul type='disc'>   <li><b>AI 대응 네트워크:</b> 인도의 AI 야망을 달성하기 위해서는 고용량, 안정성, 복원력 및 점진적으로 지능화되는 네트워크가 필요하다. AI는 또한 네트워크 계획, 에너지 효율, 서비스 보증, 사이버 보안 및 사기 탐지 기능을 개선할 수 있다.</li>   <li><b>기업 디지털화:</b> 고정 무선 접속, 사설망, 클라우드 연결, 네트워크 API, 사이버 보안 서비스는 기업의 디지털화와 새로운 성장 기회 창출에 도움이 될 수 있다.</li>   <li><b>디지털 신뢰:</b> 인도의 디지털 경제가 확대될수록 안전한 인증, 사기 방지, 개인정보를 보호하는 네트워크 인텔리전스의 중요성이 커질 것이다.</li>  </ul>  <p><b>성장의 토대로서의 디지털 신뢰</b></p>  <p>GSMA의 <a href='https://www.gsma.com/about-us/regions/asia-pacific/gsma_resources/digital-nations-apac-2026/' target='_blank' rel='nofollow' style='color: #0000FF'><i>디지털 네이션스 2026: 아시아태평양의 신뢰할 수 있는 디지털 생태계 구축(Digital Nations 2026: Building Trusted Digital Ecosystems in Asia Pacific)</i></a>은 인프라, 혁신, 데이터 거버넌스, 보안, 사람 등 분야에서 22개국을 평가했다. 이 보고서는 검증 가능한 신원, 진정성 있는 통신, 회복력 있는 네트워크, 신뢰할 수 있는 정보의 책임 있는 공유라는 디지털 신뢰의 네 가지 토대를 제시한다.</p>  <p><a href='https://www.gsma.com/newsroom/press-release/gsma-reports-indias-next-digital-chapter-must-turn-scale-into-economic-growth-and-trust/' target='_blank' rel='nofollow' style='color: #0000FF'>전체 보도자료는 여기에서 확인할 수 있다.</a></p>  <p> </p></p>]]></description>
-		</item>
-		<item>
-			<title>DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진</title>
-			<link>https://zdnet.co.kr/view/?no=20261008171012</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008171012</guid>
-			<author>글로벌뉴스</author>
-			<category>글로벌뉴스</category>
-			<pubDate>Thu, 08 Oct 2026 17:10:12 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<p><ul type='disc'>   <li><i>DXC, 보험 현대화와 혁신을 가속하도록 설계된 새로운 기능으로 어슈어 플랫폼 확장</i></li>   <li><i>AI 기반 스마트 앱, 핵심 보험 워크플로 전반에서 측정 가능한 성과 창출, 어슈어 플랫폼 도입 고객 275곳 넘어</i></li>   <li><i>DXC, 런던 마켓 역량 강화로 핵심 워크플로 전반의 연결성, 가시성, 운영 통제력 개선 지원</i></li>  </ul>  <p><span class='legendSpanClass'>런던</span>, <span class='legendSpanClass'>2026년 10월 8</span><span>/PRNewswire/ -- 선도적인 엔터프라이즈 기술 및 혁신 파트너인 DXC 테크놀로지(DXC Technology, NYSE: DXC)가 10월 7일, 보험사가 사업의 근간이 되는 시스템을 중단하지 않고 핵심 운영을 현대화하고, 생산성을 높이며, AI를 도입하도록 돕기 위한 일련의 투자와 기능을 발표했다.</span></p>  <p>런던에서 열린 DXC 커넥트 인슈어런스 이그제큐티브 포럼(DXC Connect Insurance Executive Forum)에서 공개된 이번 발표는 보호, 확장, 전환(Protect, Extend, Transform) 전략과 스마트 AI(Smart AI) 접근법을 기반으로 보험사가 핵심 운영을 현대화하고 보험업에 필수적인 거버넌스, 인간의 감독 및 책임성을 갖춰 AI를 적용하도록 돕는다. 이들은 함께 (재)보험사와 중개사에게 워크플로 현대화, 플랫폼 혁신, 런던 시장 투자, 핵심 보험 시스템의 지속적인 개선에 걸친 혁신의 안전한 토대를 제공한다.</p>  <p><i>DXC 테크놀로지의 레이 오거스트(Ray August) 보험 소프트웨어 및 비즈니스 프로세스 서비스 사장은 "보험사들은 더 빠르게 현대화하고, AI로 새로운 기회를 열며, 사업을 움직이는 시스템을 중단하지 않고 변화하는 시장 요구에 대응해야 한다는 압박을 받고 있다"고 말했다. 이어 "DXC는 깊이 있는 보험 전문성, 안전한 플랫폼 서비스, 연결된 워크플로, 스마트 AI를 결합해 고객이 자신들의 방식으로 현대화하고 기존 투자의 가치를 확장하며, 미래 성장을 위한 더 탄탄한 토대를 마련하도록 지원하고 있다"고 덧붙였다.</i></p>  <p><b>현대화와 혁신을 위한 더 탄탄한 토대</b></p>  <p>DXC는 어슈어 플랫폼(Assure Platform)의 기능을 계속 확장해 보험사에 현대화와 혁신을 위한 안전하고 통제된 토대를 제공한다. 어슈어 아키텍처(Assure Architecture) 전략을 뒷받침하도록 구축된 어슈어 플랫폼은 플랫폼 서비스, 보험 서비스, 통합, 스마트 AI를 하나로 묶어 보험사가 회복력을 높이고 운영 통제력을 강화하도록 돕는다.</p>  <p>이 플랫폼은 어슈어 아키텍처 구성 요소를 더 효율적으로 구성, 조립 및 배포하도록 돕는 신규 기능인 어슈어 컨피규레이션 매니저(Assure Configuration Manager)를 비롯해, 보험사가 새로운 기능을 더 빠르게 이용할 수 있게 해 준다. 로우코드와 구성 기반 배포를 활용해 DXC는 새로운 기능을 도입하는 데 필요한 복잡성과 노력을 줄일 수 있으며, 고객이 변화하는 비즈니스 요건에 더 빠르게 대응하도록 돕는다. 그 결과 보험사는 자사의 비즈니스 우선순위 및 운영 요건에 부합하는 연결형 서비스, 자동화, AI 혁신을 더 빠르게 이용할 수 있다.</p>  <p><b>AI 기반 혁신을 통한 보험 워크플로 개선</b></p>  <p>보험 업계 전반의 미션 크리티컬 운영을 현대화하려면 정보에 대한 더 나은 접근, 프로세스 전반의 더 높은 가시성, 그리고 고객 접점과 보험계약 서비스부터 언더라이팅, 보험금 처리, 운영에 이르는 전체 보험 수명주기에 걸쳐 더 빠르고 일관된 의사결정을 내릴 수 있는 능력이 필요하다.</p>  <p>DXC는 어슈어 스마트 앱(Assure Smart Apps)을 통해 이러한 역량을 확장하며, 보험사가 업무를 자동화하고 정보와 의사결정이 사업 전반에서 이동하는 방식을 개선하도록 돕는다. 기존 시스템과 함께 작동하도록 설계된 스마트 앱은 보험사가 특정 비즈니스 우선순위에서 시작해 측정 가능한 가치를 입증한 뒤, 시간이 지남에 따라 언더라이팅, 보험금 처리, 중개, 유통, 운영 전반으로 기능을 확장할 수 있게 한다.</p>  <p>1년 전 스마트 앱을 처음 선보인 이후 DXC는 450곳 넘는 보험사를 지원하는 스마트 앱 고객 18곳을 추가했으며, 어슈어 플랫폼 도입을 275곳이 넘는 고객으로 확대했다. 대규모로 운영되는 이러한 기능은 이미 75만 건 이상의 자동화된 거래, 70개 이상의 에이전트 배치, 200만 페이지가 넘는 디지털 추출을 실현했다. 어슈어 스마트 앱은 또한 1100만 건의 보험계약을 지원하고 연간 30만 건의 청구에 걸쳐 매년 미화 110억 달러가 넘는 지급을 처리하는 DXC의 생명 및 자산관리 BPS(Life &amp; Wealth BPS) 운영에도 추가로 적용되고 있다.</p>  <p>이러한 기능은 연결된 데이터, 운영 통제, 보험 특화 전문성을 토대로 구축된 안전하고 관리되는 프레임워크 안에서 제공되어 보험사가 미션 크리티컬 운영에 요구되는 회복력과 책임성을 유지하면서 확신을 갖고 혁신하도록 돕는다.</p>  <p><b>런던 마켓 전반의 핵심 워크플로 현대화 지원</b></p>  <p>DXC는 핵심 런던 마켓 서비스를 지원하는 기술을 제공하는 동시에 보다 폭넓은 보험 소프트웨어 및 서비스 사업을 통해 중개사와 보험사를 직접 지원하고 있다. DXC는 어슈어 플랫폼의 기능을 런던 마켓 코어 플랫폼(London Market Core Platform, LMCP)을 통해 개발한 전문 기능과 결합해 규모, 보안 및 운영 역량을 강화하겠다는 의지를 밝혔다. 여기에는 시장 전반에서 업무와 정보가 이동하는 방식을 개선하도록 핵심 워크플로의 현대화를 지원하는 일이 포함되며, 시장이 의존하는 연속성과 신뢰성을 보호하면서 더 나은 연결성, 더 높은 가시성, 더 강력한 운영 통제, 정보에 대한 개선된 접근을 실현한다.</p>  <p>DXC는 어슈어 아키텍처와 워크플로 어시스턴트(Workflow Assistant)를 적용해 선별된 런던 마켓 워크플로의 현대화를 지원하며, 시장 참여자가 의존하는 회복력, 연속성 및 운영 확실성을 유지하면서 시장 전반에서 업무가 배분되고, 추적되고 관리되는 방식을 개선한다.</p>  <p>미디어 문의처: 멜라니 고르스키(Melanie Gorski), DXC 테크놀로지 미디어 관계, <a href='mailto:melanie.gorski@dxc.com' target='_blank' rel='nofollow' style='color: #0000FF'>melanie.gorski@dxc.com</a></p></p>]]></description>
-		</item>
-		<item>
-			<title>GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대</title>
-			<link>https://zdnet.co.kr/view/?no=20261008171002</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008171002</guid>
-			<author>글로벌뉴스</author>
-			<category>글로벌뉴스</category>
-			<pubDate>Thu, 08 Oct 2026 17:10:02 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://mmx.prnasia.com/media/MS2002174/20261002065908EDT_image_1.jpg?id=OA2986598&amp;p=medium600" alt=""><p><p>타이베이, 2026년 10월 8일 /PRNewswire/ -- 기가바이트(GIGABYTE)가 기존 128GB 제품군을 확장하는 <a href='https://urldefense.com/v3/__https:/bit.ly/AI_TOP_ATOM_WW__;!!DaQGe0nW977OPw!ga5W5K4igFRyDqwdIKbjKS21sNjp9YiS5NbUP8FIgsE6yumAMqCqMpbIngcmRi6iQUtAW1ykKFw3gMeSPEWESNI$' target='_blank' rel='nofollow' style='color: #0000FF'>GIGABYTE AI TOP ATOM</a>의 새로운 64GB 통합 메모리 버전을 선보인다고 발표했다. 10월 23일부터 출시되는 이 신규 구성은 NVIDIA DGX Spark 플랫폼을 기반으로 한 AI TOP ATOM의 하드웨어 설계를 그대로 유지하면서 메모리 옵션을 제공하게 된다. 이에 따라 개발자, 연구자 및 기업 팀은 AI 워크로드와 메모리 요구 사항에 가장 적합한 구성을 더욱 유연하게 선택할 수 있으며, 용도에 맞는 전용 온프레미스 AI 개발 환경도 구축할 수 있다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder1104' style='TEXT-ALIGN: center; WIDTH: 100%'>   <p><a href='https://mmx.prnasia.com/media/MS2002174/20261002065908EDT_image_1.jpg?id=OA2986598&amp;p=medium600' target='_blank' style='color: #0000FF'><img src='https://mmx.prnasia.com/media/MS2002174/20261002065908EDT_image_1.jpg?id=OA2986598&amp;p=medium600' title='GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대' alt='GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대' /></a><br /><span>GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대</span></p>  </div>  <p>생성형 AI와 에이전틱 AI 애플리케이션이 지속적으로 발전하면서 모델 테스트와 데이터 처리,애플리케이션 검증은 일상적인 개발 워크플로에서 점점 더 중요해지고 있다. GIGABYTE AI TOP ATOM은 AI 컴퓨팅 역량을 소형 데스크톱 폼팩터에 담아 사용자가 사무실, 연구실 및 교육 환경에서 모델 추론과 프로토타입 개발, 데이터 분석을  수행할 수 있도록 한다. 모델을 실행하고 데이터를 로컬에서 처리함으로써  클라우드 컴퓨팅 자원에 대한 의존도는 줄이고, 개발 리소스와 프로젝트 데이터는 더욱 효과적으로 통제할 수 있다.</p>  <p>새로운 64GB 통합 메모리 버전은 기존 고용량 128GB 버전과 함께 더욱 폭넓은 AI TOP ATOM 제품군을 구성한다. 사용자는 모델 크기와 워크플로, 멀티태스킹 요구 사항에 가장 적합한 메모리 용량을 평가하고 선택해 동일한 플랫폼에서 AI 애플리케이션을 개발하고 초기 개념증명(PoC) 단계에서 실제 배포 단계까지 발전시킬 수 있다. 또한, 내장형 ConnectX-7 네트워킹을 통해 개발자는 NVIDIA Sync를 사용해 최대 4대까지 클러스터링할 수 있으며, 더 큰 메모리 풀과 컴퓨팅 성능을 확보할 수 있다.</p>  <p>소프트웨어 측면에서 AI TOP ATOM은 NVIDIA CUDA 가속 AI 소프트웨어 생태계와 GIGABYTE AI TOP Utility를 통합해 모델 다운로드, 추론, 검색 증강 생성(retrieval-augmented generation, RAG) 등의 기능을 제공하며 사용자가 로컬 AI 워크플로를 구축하도록 지원한다. 개발자는 오픈 모델을 탐색하고 AI 어시스턴트를 테스트하거나 자체 문서를 활용해 지식 기반 질의응답 애플리케이션을 구축할 수 있다. 이를 통해 프로젝트 요구 사항에 맞춰 솔루션을 지속적으로 개선하고 검증하면서 아이디어가 실제 애플리케이션으로 이어지는 과정을 가속할 수 있다.</p>  <p>기가바이트는 에이전틱 AI 애플리케이션에서 AI TOP ATOM이 지닌 잠재력도 지속적으로 탐구하고 있다. 멀티노드 과학 컴퓨팅 시연에서 기가바이트는<a href='https://urldefense.com/v3/__https:/www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/__;!!DaQGe0nW977OPw!ga5W5K4igFRyDqwdIKbjKS21sNjp9YiS5NbUP8FIgsE6yumAMqCqMpbIngcmRi6iQUtAW1ykKFw3gMeS2LGQ_YE$' target='_blank' rel='nofollow' style='color: #0000FF'></a><a href='https://urldefense.com/v3/__https:/www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/__;!!DaQGe0nW977OPw!ga5W5K4igFRyDqwdIKbjKS21sNjp9YiS5NbUP8FIgsE6yumAMqCqMpbIngcmRi6iQUtAW1ykKFw3gMeS2LGQ_YE$' target='_blank' rel='nofollow' style='color: #0000FF'>NVIDIA Nemotron</a> 오픈 모델과<a href='https://urldefense.com/v3/__https:/www.nvidia.com/en-us/ai/nemoclaw/__;!!DaQGe0nW977OPw!ga5W5K4igFRyDqwdIKbjKS21sNjp9YiS5NbUP8FIgsE6yumAMqCqMpbIngcmRi6iQUtAW1ykKFw3gMeSWPIRUiw$' target='_blank' rel='nofollow' style='color: #0000FF'></a><a href='https://urldefense.com/v3/__https:/www.nvidia.com/en-us/ai/nemoclaw/__;!!DaQGe0nW977OPw!ga5W5K4igFRyDqwdIKbjKS21sNjp9YiS5NbUP8FIgsE6yumAMqCqMpbIngcmRi6iQUtAW1ykKFw3gMeSWPIRUiw$' target='_blank' rel='nofollow' style='color: #0000FF'>NVIDIA NemoClaw</a> 오픈 에이전트 블루프린트를 통합해 연구 가설 생성과 시뮬레이션 워크플로를 연결함으로써 AI 에이전트가 과학 연구를 지원할 수 있는 잠재력을 입증했다. 기가바이트는 하드웨어 플랫폼과 소프트웨어 도구, 실제 애플리케이션을 지속적으로 통합하며 데스크톱 AI 컴퓨팅의 활용 사례를 넓혀가고  있다.</p>  <p>64GB 통합 메모리 버전이 추가되면서 AI TOP ATOM은 이제 128GB와 64GB 두 가지 구성으로 제공하게 되며, AI 개발 단계와 애플리케이션 규모가 서로 다른 사용자들의 요구를 폭넓게 충족할 수 있다. 기가바이트는 앞으로도 AI TOP 제품 포트폴리오와 소프트웨어 생태계를 지속적으로 확대해 개인과 기업 팀이 온프레미스 AI 역량을 구축하고 AI를 기술 탐색 단계에서 일상적인 애플리케이션으로 넓혀갈 수 있도록 지원할 예정이다.</p>  <p><a href='https://urldefense.com/v3/__https:/bit.ly/AI_TOP_ATOM_WW__;!!DaQGe0nW977OPw!ga5W5K4igFRyDqwdIKbjKS21sNjp9YiS5NbUP8FIgsE6yumAMqCqMpbIngcmRi6iQUtAW1ykKFw3gMeSPEWESNI$' target='_blank' rel='nofollow' style='color: #0000FF'>GIGABYTE AI TOP ATOM</a> 64GB 통합 메모리 버전은 2026년 10월 23일부터 공식 출시된다. 제품 출시 여부, 판매 채널 및 가격은기가바이트 홈페이지 및 공식 온•오프라인 판매처를 통해 확인할 수 있다.</p>  <div class='PRN_ImbeddedAssetReference' id='DivAssetPlaceHolder0'></div></p>]]></description>
-		</item>
-		<item>
-			<title>KISTI, 양자암호통신 시뮬레이터 등 차세대 기술 소개</title>
-			<link>https://zdnet.co.kr/view/?no=20261008163421</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008163421</guid>
-			<author>박희범 기자</author>
-			<category>양자컴퓨터</category>
-			<category>AI</category>
-			<category>양자컴퓨팅</category>
-			<category>KISTI</category>
-			<category>컴퓨팅</category>
-			<category>이온트랩</category>
-			<category>100큐비트</category>
-			<category>과학</category>
-			<pubDate>Thu, 08 Oct 2026 16:34:21 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/8666e1a58c458b6ca68a464f35f16929.jpg" alt=""><p>한국과학기술정보연구원(KISTI)은 8일까지 코엑스에서 열리는 AI 페스타 26에서 차세대 핵심 기술인 양자컴퓨팅과 양자통신 분야 주요 연구성과를 공개해 관심을 끌었다.</p>
-<p>KISTI는 국가 과학기술 정보·데이터와 슈퍼컴퓨팅, 연구망 등 국가 연구개발 인프라를 구축·운영하며 AI와 첨단 컴퓨팅 기반의 연구혁신을 지원하는 정부출연연구기관이다.</p>
-<p>이번 전시에서는 ▲양자암호통신 시뮬레이터(QKDSim-HT) ▲양자컴퓨터 서비스 및 활용체계 구축 ▲50큐비트 QPU SW플스택 등을 소개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/8666e1a58c458b6ca68a464f35f16929.jpg" alt="함재균 KISTI 양자컴퓨팅서비스연구단장이 AI 페스타에서 양자통신 시뮬레이터에서 대해 설명하고 있다.(사진=지디넷코리아)">
-<p>시뮬레이터는 게이트 단위 양자물리 모델과 QKDN 키 관리·서비스 기능을 하나의 시물레이션 환경에 통합했다. 넷스퀴드 기반 물리모델 구현과 종단간 키 중계와 키 풀 관리, 요청 트래픽과 워크로드 모델링이 가능하다.</p>
-<p>또 하이브리드 HPC-QC 환경도 구축한다. <span style="letter-spacing: 0.8px;">이와함께 웹 기반 사용자 인터페이스를 지원하는 양자컴퓨팅 클라우드 플랫폼을 개발 중이다.</span></p>
-<p>함재균 KISTI 양자컴퓨팅서비스연구단장은 "현재 100큐비트 수준의 이온트랩 기반 양자컴퓨터 인프라 구축을 추진하고 있다"며 "50큐비트급 양자컴퓨팅 하드웨어(QPU)와 클라우드 서비스 기술도 개발하고 있다"고 설명했다.</p>
-<p>함 단장은 또 "양자컴퓨터와 슈퍼컴퓨터(HPC) 등 다양한 컴퓨팅 자원을 연계하는 하이브리드 컴퓨팅 환경을 구축해 연구·교육·산업 현장에서 활용할 수 있도록 지원할 계획"이라고 부연 설명했다.</p>
-<p>KISTI는 양자통신 분야에서 지난 9월 21일 스페인에서 열린 유럽 최대 광통신 국제행사 &apos;ECOC 2026&apos;에서 실제 양자암호통신망을 구축하기 전, 다양한 통신 환경에서 성능 및 운용 가능성을 시험할 수 있는 기술을 공개한 바 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>글로벌 빅테크·국가대표 AI 총출동…6만 8000명 찾은 AI 페스타, K-AI 존재감 높였다</title>
-			<link>https://zdnet.co.kr/view/?no=20261008153444</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008153444</guid>
-			<author>장유미 기자</author>
-			<category>AI 페스타 26</category>
-			<category>페스타 26</category>
-			<category>AI페스타 26</category>
-			<category>구글</category>
-			<category>구글 딥마인드</category>
-			<category>KT</category>
-			<category>화웨이</category>
-			<category>삼성SDS</category>
-			<category>롯데이노베이트</category>
-			<category>LG AI연구원</category>
-			<category>독파모</category>
-			<category>업스테이지</category>
-			<category>SKT</category>
-			<category>SK텔레콤</category>
-			<category>메가존</category>
-			<category>메가존클라우드</category>
-			<category>NHN</category>
-			<category>NHN클라우드</category>
-			<category>하정우</category>
-			<category>이해민</category>
-			<category>과기정통부</category>
-			<category>류제명</category>
-			<category>페스타</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 16:32:18 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/07/8916908e405aab48faae0d1fac253076.jpg" alt=""><p>국내 최대 인공지능(AI) 축제인 &apos;AI 페스타&apos;가 사흘 간의 대장정을 마치고 화려하게 막을 내렸다. <span style="letter-spacing: 0.8px;">&apos;AI 3대 강국(AI G3)&apos;을 목표로 한 이재명 정부의 움직임에 발맞춰 진행된 과학기술정보통신부의 공식 AI 행사로, 글로벌 빅테크와 국내 대표 기업, 정부, 학계가 한 자리에 모여 우리나라 AI 미래 청사진을 제시했다는 점에서 많은 주목을 받았다.</span></p>
-<p>이달 6일부터 8일까지 서울 강남구 코엑스에서 진행된 &apos;AI 페스타 26&apos;는 과기정통부 AI 주간의 대표 행사로, 올해는 &apos;AI, 현실이 되다. 모두의 AI&apos;를 주제로 진행됐다. 생성형 AI와 거대언어모델(LLM)의 가능성을 보여주는 데 무게를 뒀던 지난해와 달리 산업 현장과 일상에서 실제로 쓰이는 AI를 전면에 내세워 참가자들의 호응을 얻었다. </p>
-<p><span style="letter-spacing: 0.8px;">또 사흘 </span><span style="letter-spacing: 0.8px;">간 </span><span style="letter-spacing: 0.8px;">관람객 </span><span style="letter-spacing: 0.8px;">수는 </span><span style="letter-spacing: 0.8px;">총 6만 8000여 </span><span style="letter-spacing: 0.8px;">명으로 집계됐다. </span><span style="letter-spacing: 0.8px;">오픈AI·앤트로픽·화웨이·퍼플렉시티·IBM·젠스파크 등 글로벌 AI 대표 기업들을 포함해 삼성SDS·KT·롯데이노베이트·현대차그룹 등 국내외 100여 명의 연사가 참여한 다양한 컨퍼런스들이 펼쳐진 것이 이번 행사의 흥행 비결로 꼽혔다. &apos;AI 페스타 27&apos;은 내년 9월 30일부터 10월 1일까지 사흘간 코엑스 D홀에서 개최된다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/10/07/8916908e405aab48faae0d1fac253076.jpg" alt="7일 서울 코엑스에서 열린 &apos;AI 페스타 26&apos; 행사장 입구가 참관객들로 붐볐다. (사진=지디넷코리아)">
-<p>이번 행사 첫날에 열린 &apos;AI 서밋&apos;에선 AI를 국가와 기업의 핵심 경쟁력으로 끌어올리기 위한 전략 논의가 이어졌다. 구글 딥마인드는 문화와 언어적 맥락을 반영한 글로벌 AI 평가 체계를 제안했고, AWS는 아시아태평양 시장 확대를 위한 데이터 거버넌스와 클라우드 전략을 소개했다. 앤트로픽은 프론티어 AI 확산에 따른 기업 대응 방안을, KT와 티맥스소프트는 각각 AX 플랫폼과 K-AI 풀스택 기반 엔터프라이즈 AI 전략을 제시했다. 또 오후 세션에선 국가AI전략위원회 조준희 산업 AX생태계 분과위원장과 하용호 공공 AX 분과위원이 각각 산업과 공공 부문의 AI 전환 전략을 소개했다. 두 연사는 현장 적용을 위한 정책 방향과 실행 과제를 짚으며 국가 차원의 AI 확산 전략을 구체화했다.</p>
-<p>특히 구글 &apos;제미나이&apos; 개발에 참여한 로라 아로요 구글 딥마인드 수석 과학자는 &apos;AI 서밋&apos;에서 기조연설을 맡아 벤치마크 평가 방식을 개편해야 한다고 주장해 눈길을 끌었다. 현재 AI 모델은 70~100개 언어를 지원하지만 대부분의 벤치마크가 10~20개 언어에 머물고 영어 문항을 번역하는 방식에 의존해 각 지역의 문화와 사회 규범을 제대로 평가하지 못한다고 판단해서다. </p>
-<p>아로요 수석 과학자는 "현지 전문가가 데이터 수집과 평가에 참여해 높임말·관용 표현·방언·전통·법률 등 지역별 특성을 처음부터 반영해야 하고, 텍스트뿐 아니라 이미지와 AI 에이전트·피지컬 AI까지 평가 범위를 넓혀야 한다"며 "언어를 자연스럽게 구사하는 능력과 문화를 이해하는 능력은 다르기 때문에 모델의 안전성과 문화적 적절성을 별도로 측정하는 평가 체계가 필요하다"고 강조했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/c73257bd61370614b23a678f9c00e200.jpg" alt="글로벌 AI 전문가 로라 아로요 박사(오른쪽 첫번째)가 롯데이노베이트 RX 랩에 방문했다. (사진=롯데이노베이트)">
-<p>둘째 날 진행된 &apos;퓨처 테크 컨퍼런스&apos;에선 AI가 실제 산업과 기업 운영에 어떻게 구현될지가 주요 화두로 다뤄졌다. 두산로보틱스와 현대차그룹, 롯데이노베이트는 제조·로봇·산업 현장에서 피지컬 AI를 적용하는 전략을 공유했고, 화웨이와 젠스파크, IBM, 퍼플렉시티는 대규모 AI 인프라부터 에이전트가 회사를 운영하는 조직 구조, 에이전트 행동 통제와 책임, AI 에이전트 기반 서비스 확장까지 차세대 AI의 방향을 제시했다. 이어 디노티시아와 웹케시, 몽고DB, AWS는 AI 에이전트 확산으로 급증하는 검색·메모리 수요와 데이터 인프라, 기업 시스템 현대화, 데이터베이스 마이그레이션 전략 등을 소개하며 AI 반도체와 인프라, 데이터, 클라우드가 함께 바뀌어야 한다는 점을 강조했다.</p>
-<p>이 중 브랜든 우 화웨이 아시아태평양(APAC) 최고기술책임자(CTO)는 <span style="letter-spacing: 0.8px;">AI 모델이 향후 5년 내 100조 개 파라미터, 하루 100경 토큰 처리 규모로 커질 것으로 전망하며 개별 칩 성능을 높이는 방식만으로는 이를 감당하기 어렵다고 진단해 주목 받았다. 그러면서 그는 수천~수만 개의 가속기와 중앙처리장치(CPU), 메모리, 스토리지를 하나의 시스템처럼 연결하는 &apos;슈퍼팟&apos; 아키텍처를 이번 행사에서 제시했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">우 CTO는 "대규모 모델 학습에서 장치 간 통신이 전체 시간의 절반가량을 차지할 수 있다"며 "P2P 연결과 풀메시 통신, 통합 프로토콜, 광 기반 상호연결 기술을 통해 병목을 줄여야 한다"고 강조했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">이어 "긴 컨텍스트와 KV 캐시 증가에 대응해 HBM·D램·고속 스토리지를 계층적으로 활용하고, 여러 슈퍼팟을 다시 연결해 장기적으로 100만 개 이상의 가속기까지 확장할 수 있는 구조를 구축하겠다"고 덧붙였다.</span></p>
-<p>셴커 V 셀바두라이 IBM 아시아태평양(APAC) 부사장 겸 최고기술책임자(CTO)도 같은 날 강연자로 나서 참관객들의 많은 관심을 받았다. 그는 이번 행사에서 AI가 정보를 제공하는 수준을 넘어 실제 업무와 의사결정에 관여하는 에이전트 단계로 발전하면서 모델 소유 여부보다 에이전트가 실제로 어떤 행동을 했는지 추적하고 검증할 수 있는 체계가 중요해졌다고 강조했다. </p>
-<p>셀바두라이 CTO는 "에이전트가 사용하는 모델과 도구가 수시로 바뀌면 승인 당시 시스템과 실제 운영 시스템이 달라질 수 있다"며 "문제가 발생했을 때 무엇을 하도록 승인받았는지가 아니라 실제로 무엇을 했고 누구의 권한으로 행동했는지 확인할 수 있어야 한다"고 설명했다. </p>
-<p>이어 "이를 위해 기업은 에이전트가 어디서 실행되는지, 누가 중단할 수 있는지, 어떤 데이터를 읽고 쓰는지, 행동 기록을 어디에 남기고 누가 열람할 수 있는지 점검해야 한다"며 "특히 대출 심사처럼 결과를 되돌리기 어려운 업무에는 에이전트 설계 단계부터 행동 기록 기능을 넣어야 한다"고 제안했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/79cda6d2522fe857a68b87e2f0e57dcd.jpg" alt="브랜든 우 화웨이 아시아태평양(APAC) 최고기술책임자가 &apos;AI 페스타 26&apos;에서 발표하고 있는 모습 (사진=지디넷코리아 DB)">
-<p>행사 마지막 날 열린 &apos;에어 쇼케이스(AI Realization Showcase)&apos;에서는 AI 기술을 실제 기업 운영과 산업 현장에 구현하는 방안이 집중적으로 다뤄졌다. ▲퓨처플레이는 투자 관점에서 AI 산업화의 분기점을 짚었고 ▲더존비즈온과 팀뷰어, 모비젠, 지란지교소프트, 아이티센글로벌은 AI 네이티브 기업 운영과 자율형 IT, 온톨로지 기반 AX, AI 에이전트 통제와 생산성 혁신 전략을 소개했다. 또 ▲아크릴은 GPU 클러스터 네트워크 최적화 방안을 ▲딥엑스는 피지컬 AI 확산 과정에서 K-신경망처리장치(NPU)가 확보할 수 있는 기회를 제시했으며 ▲콴델라는 양자컴퓨팅을 차세대 AI 컴퓨팅 인프라의 한 축으로 제시했다. </p>
-<p>현장에 방문한 한 업체 관계자는 "발표를 들으면서 기업의 AI 활용이 단순히 도구를 도입하는 수준을 넘어 실제 업무를 AI가 수행하는 단계로 빠르게 넘어가고 있다는 분위기가 느껴져 인상깊었다"며 "소프트웨어뿐 아니라 인프라와 반도체, 차세대 컴퓨팅까지 함께 준비해야 한다는 점도 체감할 수 있었다"고 말했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/06/31074168a54f59d31d2f5512ca2fe62e.jpg" alt="조준희 한국인공지능·소프트웨어산업협회(KOSA) 회장이 6일 서울 삼성동 코엑스에서 개최된 &apos;AI 페스타&apos;에 참석해 개회사를 하고 있는 모습 (사진=지디넷코리아 DB)">
-<p>올해 &apos;AI 페스타 26&apos;은 기술 전시와 컨퍼런스에 그치지 않고 실제 사업 기회를 만드는 비즈니스 플랫폼 역할도 강화했다. 올해는 국내외 AI 기업·기관 350여 곳이 500여 개 부스를 운영했다.</p>
-<p>행사장에는 에이전틱 AI, 피지컬 AI·로봇, AI 반도체, 인프라, 보안, 양자, 국방 AI 등 분야별 특별관이 마련됐고 KT와 한국화웨이를 비롯해 삼성SDS, 롯데이노베이트, 메가존클라우드, NHN클라우드, 한컴, 더존비즈온, 포티투마루, 플리토, 딥엑스, 두산로보틱스 등 다양한 기업이 참여해 관람객들의 주목을 받았다. 또 조직위는 AI 도입을 원하는 수요기업과 기술을 공급하는 기업을 사전에 연결해 현장에서 1대1 상담을 진행하고, 기술 검토와 실증(PoC), 구매·계약, 사업 제휴 등 후속 협력으로 이어질 수 있도록 지원했다.</p>
-<p>스타트업과 투자사를 잇는 접점도 넓혔다. 행사 첫날에는 AI 기업과 투자 관계자들이 자유롭게 교류하는 &apos;AI 밍글링&apos;을 마련해 정형화된 기업설명회(IR) 대신 현장에서 기술과 사업 모델, 투자 가능성을 직접 논의할 수 있도록 했다. AI 기술 개발 경쟁이 실제 도입과 수익 창출 경쟁으로 옮겨가면서, 전시장에서 기술을 확인하고 상담을 거쳐 고객과 투자자를 만나는 구조를 행사 안에 함께 담은 셈이다.</p>
-<p>조준희 한국인공지능·소프트웨어산업협회(KOSA) 회장 겸 AI페스타 조직위원장은 "AI페스타가 자랑스러운 점은 다른 행사보다 고객사, 즉 수요기업이 많이 찾는 행사라는 것"이라며 "각 밸류체인에 있는 수많은 공급기업들도 이곳에서 만나 협업하고 동맹을 만들어 풀스택 형태로 정부와 민간 프로젝트를 함께하고 있다"고 말했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/07/64d0dc2c1fc8eb53b16626ef664b9d06.jpg" alt="류제명 과학기술정보통신부 제2차관과 스웨덴·중국·인도·네덜란드 등 22개 주요 협력국 주한대사 24명 등 VIP 사절단이 AI 페스타 26 전시장에 조성된 다온아이앤씨 부스를 찾아 설명을 듣고 있다. (사진=지디넷코리아)">
-<p>LG AI 연구원과 SK텔레콤, 업스테이지 등 &apos;독자 AI 파운데이션 모델 개발 사업&apos;에서 경쟁을 벌이고 있는 3개 사를 비롯해 국가대표 AI 기업들이 한 자리에 모였다는 점도 참관객들의 호응을 이끌어 냈다. 또 &apos;AI 챔피언관&apos;에서도 대한민국 AI 챔피언 자리를 노린 15개 팀이 한 자리에 모여 실력을 겨뤘다.</p>
-<p>류제명 과기정통부 2차관은 &apos;AI 페스타 26&apos;에서 프랑스, 유럽연합(EU) 등 22개국 주한 외국대사, 외교관들과 함께 전시회를 참관했다. 이들은 AI 국가대표 5대 기업관 등 전시관을 방문해 우리나라 기업들이 개발한 최신 AI 모델과 서비스 설명을 듣고 시연을 관람했다.</p>
-<p>이해민 대통령비서실 AI미래기획수석비서관과 하정우 국가인공지능전략위원회 부위원장도 행사 첫날 나란히 현장을 찾아 AI 정책과 산업 간 접점을 넓히는 데 주력했다. 두 사람이 인선 이후 산업계 공개 행사에 함께 참석한 것은 이번이 처음이다.<br><br>이 수석은 개막식에서 공공·산업 현장의 수요를 AI 서비스와 시장으로 연결하고 검증된 서비스를 확산하는 &apos;문제 해결 중심 국가 AI 정책 2.0&apos; 방향을 소개한 뒤, 전시장을 돌며 국내 AI 모델의 활용성과 산업 적용 가능성, 보안 사업 등을 집중적으로 살폈다. 하 부위원장은 독자 AI 파운데이션 모델 특별관과 피지컬 AI, 클라우드·인프라 기업 부스를 찾아 경량·멀티모달 모델 확대와 제조 현장 적용, 로봇 학습 데이터 확보 방안 등을 점검했다. 두 사람 모두 이번 행사에서 모델 자체 성능을 넘어 AI가 기업과 산업 현장에서 실제로 쓰일 수 있는 생태계 구축에 관심을 보였다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/06/2ddf22b239cc6ea96e9907399fb3c840.jpg" alt="하정우 국가인공지능전략위원회 부위원장과 이해민 대통령비서실 AI미래기획수석비서관, 조준희 AI페스타조직위원회 위원장 등 VIP 사절단이 6일 서울 강남구 코엑스에서 열린 &apos;AI페스타 26&apos;에서 메가존클라우드 멀티클라우드관을 둘러보고 있다. (사진=지디넷코리아)">
-<p>또 하 부위원장은 행사 기간 동안 정책 토크쇼도 진행해 현장에서 좋은 반응을 얻었다. 이번 행사는 AI 기업들이 현장에서 겪는 어려움과 국가 전략에 대한 의견을 직접 듣기 위해 마련됐다.<br><br>그는 이 자리에서 한국이 AI 3강으로 도약하려면 모델뿐 아니라 전력·AI 반도체·GPU·데이터센터·에이전트·피지컬 AI까지 생태계 전반의 경쟁력을 함께 키워야 한다고 강조했다. 더불어 정부와 공공기관이 국산 AI 제품과 서비스를 먼저 구매해 초기 시장과 레퍼런스를 만들고, 이를 민간과 해외 시장으로 확산시키는 구조가 필요하다고 밝혔다.</p>
-<p>그러면서 하 부위원장은 이번 행사를 통해 국내 AI 생태계가 모델 개발을 넘어 인프라와 서비스, 피지컬 AI까지 빠르게 확장되고 있다고 긍정적으로 평가해 눈길을 끌었다. 또 행사 현장에서 나온 기업과 시민들의 의견도 향후 정책 수립에 적극 반영하겠다는 뜻을 밝혔다.</p>
-<p>하 부위원장은 "지난해보다 행사 규모가 커진 가운데 독자 AI 파운데이션 모델 3개 기업이 글로벌에서도 인정받는 수준에 도달했고, 인프라부터 모델·에이전트 서비스·피지컬 AI까지 국내 AI 생태계의 풀스택 경쟁력을 확인할 수 있었다"며 "전 국민 AI 경진대회와 &apos;모두의 AI 실험실&apos;을 통해 국민의 AI 활용 역량도 높아지고 있다는 점에서 AI 3강이라는 정부 비전에 한 걸음씩 다가가고 있다는 느낌을 받았다"고 말했다.</p>
-<p>이어 "토크콘서트에서도 많은 청중이 실제적인 질문과 현실적인 제언을 해줘 향후 정책을 수립하는 데 큰 도움이 될 것 같다"며 "국가AI전략위원회도 부처와 지방자치단체가 국민이 체감할 수 있는 가시적인 성과를 만들 수 있도록 적극 지원하겠다"고 덧붙였다.</p>
-<iframe width="720" src="https://www.youtube.com/embed/PdeXl_91CkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<iframe width="720" src="https://clip-viewer.naver.com/oembed/?seedMediaId=8C4163B7F0B7BF07887B08BA95D58F5A04AF&mediaType=SHORT_FORM&serviceType=CLIP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></description>
-		</item>
-		<item>
-			<title>인이지, 내년 &apos;초격차 기술 특례&apos;로 코스닥 두드린다</title>
-			<link>https://zdnet.co.kr/view/?no=20261008155919</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008155919</guid>
-			<author>진운용 기자</author>
-			<category>인이지</category>
-			<category>AI 페스타 26</category>
-			<category>다임테크놀로지</category>
-			<category>페르소나에이아이</category>
-			<category>리얼월드</category>
-			<category>메가존</category>
-			<category>NC AI</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 16:02:16 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/e43cf412f76239919b63e035b5e8110a.jpg" alt=""><p>인공지능(AI) 예측 솔루션 &apos;인이지&apos;가 내년 &apos;초격차 기술 특례 상장&apos;에 도전한다.</p>
-<p>8일 서울 강남구 코엑스에서 열린 &apos;AI 페스타 2026&apos;에서 인이지 관계자는 "내년 상장을 목표로 NH투자증권을 주관사로 정했다"고 말했다. 회사는 초격차 기술 특례 상장을 노리고 있다. 초격차 기술 특례 상장은 딥테크·딥사이언스 등 국가첨단·전략기술 기업이 코스닥에 원활히 상장하도록 기술성 평가기준을 낮춘 제도다.</p>
-<p>인이지는 피지컬 AI 특별관에서 솔루션을 선보였다. 인이지는 산업 현장 공정 데이터를 분석해 예측·최적화하는 AI 소프트웨어를 지원한다. 회사는 쌍용C&amp;E, 아세아시멘트 등 국내 6대 시멘트 업체를 고객으로 확보했다. 일본 철강 기업에도 솔루션을 보급하고 있다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/e43cf412f76239919b63e035b5e8110a.jpg" alt="인이지 AI 페스타 2026 부스. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">피지컬 AI 특별관에는 인이지 이외에 NC AI, 다임테크놀로지, 리얼월드, 메가존, 페르소나에이아이 등이 부스를 꾸렸다.</span></p>
-<p>NC AI는 시뮬레이션 학습 플랫폼 &apos;배키 트윈&apos;을 선보였다. 배키 트윈은 별도 그랙픽처리장치(GPU) 서버 없이 서비스형 소프트웨어(SaaS) 형태로 시뮬레이션 학습 솔루션을 제공한다. </p>
-<p>다임테크놀로지는 공장 안에서 돌아가는 여러 제조사 물류 로봇을 하나로 관제하는 소프트웨어를 공개했다. xMS는 서로 다른 브랜드의 이동로봇(AMR)들이 교착 없이 움직이도록 실시간 스케줄링과 통합 제어를 제공한다.</p>
-<p>리얼월드는 로봇이 손으로 정교한 동작을 할 수 있는 &apos;로봇 파운데이션 모델(RFM)&apos;을 만드는 피지컬 AI 스타트업이다. 회사는 엔비디아와 협력해 휴머노이드 로봇의 산업 표준 개발에 집중하고 있다.</p>
-<p>메가존은 &apos;경남 제조 분야 피지컬 AI 개발 및 실증 사업&apos;의 수행기업이다. 메가존은 제조 데이터 신뢰성 확보 및 전주기 통합 운영 플랫폼 기술 개발을 총괄한다. 메가존 관계자는 "현장에서 모은 제조 데이터를 믿고 쓸 수 있게 관리하고, 그 데이터가 AI 학습부터 현장 적용까지 이어지는 플랫폼 개발을 책임진다"고 설명했다.</p>
-<p>페르소나에이아이는 AI 고객센터(AICC)와 한국어 대화 엔진으로 성장한 AI 소프트웨어 기업이다. 최근에는 자체 경량 AI 엔진을 로봇에 얹는 피지컬 AI 쪽으로 사업을 넓히고 있다. </p>]]></description>
-		</item>
-		<item>
-			<title>콴델라 &quot;양자컴퓨팅, 기존 AI 처리 장애물 넘을 새 연산 자원&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261008155301</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008155301</guid>
-			<author>권봉석 기자</author>
-			<category>AI페스타26</category>
-			<category>양자컴퓨팅</category>
-			<category>콴델라코리아</category>
-			<category>QPU</category>
-			<category>CPU</category>
-			<category>GPU</category>
-			<category>양자보안</category>
-			<category>양자 레이어</category>
-			<category>하이브리드 AI</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 16:01:44 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/39d12e0acdc703f5762e3f7fcc21dde2.jpg" alt=""><p>"현재 컴퓨터는 0과 1을 기반으로 한 결정론적 방식으로 동작해 왔다. 반면 2000년대 들어 주목받는 양자컴퓨터는 확률과 관측을 기반으로 세상을 이해하는 전혀 다른 구조의 컴퓨터다."</p>
-<p>8일 오후 서울 코엑스 &apos;AI 페스타 26&apos; 행사장 내 &apos;AIR 쇼케이스&apos; 무대에서 김유석 콴델라코리아 대표가 이렇게 강조했다.</p>
-<p>&apos;AI 페스타 26&apos;은 과학기술정보통신부가 주관하는 &apos;인공지능주간(AI WEEK)&apos;의 일환으로 6일부터 8일까지 서울 삼성동 코엑스에서 열리는 B2B AI 전시회다. &apos;AIR 쇼케이스&apos;는 AI가 현실세계에 적용되는 데 필요한 도전과제와 한계를 조명하기 위해 마련됐다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/39d12e0acdc703f5762e3f7fcc21dde2.jpg" alt="김유석 콴델라코리아 대표. (사진=지디넷코리아)">
-<p>이날 김유석 대표는 "양자처리장치(QPU)를 기반으로 한 양자 컴퓨터가 기존 컴퓨터를 대체한다거나, 혹은 현행 암호체계를 모두 무너뜨릴 것이라는 인식도 있다. 그러나 실제로는 두 컴퓨터가 협동하는 방향으로 나아갈 것"이라고 설명했다.</p>
-<p>김 대표는 "CPU는 다양한 작업을 순차 처리하는 데 적합하며, GPU는 많은 데이터를 한 번에 처리할 때 강점을 드러낸다. 양자처리장치(QPU)의 처리 속도는 CPU나 GPU 대비 느릴 수 있지만 특정 영역에서는 엄청난 성능을 발휘한다"고 밝혔다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/b599cb356e77378ca0e72ba26779980d.jpg" alt="김유석 대표는 ”CPU/GPU와 QPU는 서로 다른 컴퓨터이며 서로를 대체할 수 없다”고 설명했다. (사진=지디넷코리아)">
-<p>이어 "양자컴퓨터 역시 기존 컴퓨팅 환경을 완전히 대체하기보다 AI 알고리즘을 GPU에서 먼저 시뮬레이션하고 유용하다고 판단되면 이를 QPU에서 수 초에서 수 분에 이르는 짧은 시간동안 처리하는 형태로 활용될 가능성이 크다"고 내다봤다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/0ceb2624b1bbf83c25cc7ef155820a11.jpg" alt="양자컴퓨팅이 영향력을 발휘할 수 있는 화학/신약분야 연구 사례 예시. (사진=지디넷코리아)">
-<p>김 대표는 이를 "기존 솔루션이나 알고리듬에 양자 층을 하나 더 씌우는 것"이라며 "콴델라는 이미지 처리와 분류, 머신러닝 등에 적용할 수 있는 다양한 양자 알고리듬을 실증하고 있으며 연말까지 약 100개의 알고리즘을 공개할 계획"이라고 밝혔다.</p>
-<p>이날 세션에서는 산업 현장에서의 적용 사례도 소개했다. BMW와 에어버스가 참여한 연구에서는 낮에 촬영한 이미지를 야간 이미지로 변환하는 과정에서 양자 레이어를 적용했다.</p>
-<p>김유석 대표는 "야간에는 자동차와 가로등, 건물 등 다양한 광원이 이미지에 간섭을 일으키면서 연산이 복잡해지는데, 기존 방식에서 나타난 이미지 속 허상 현상을 양자 연산을 통해 줄이는 결과를 확인할 수 있었다"고 말했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/550c714b35f753a9f76798abf500b10d.jpg" alt="제조업, 통신 등 분야에서 양자컴퓨팅을 활용한 사례 중 일부. (사진=지디넷코리아)">
-<p>프랑스 오랑주텔레콤은 네트워크 상 악성코드를 탐지하는 과정에 양자컴퓨팅을 적용했다. 네트워크 트래픽을 이미지 형태로 변환한 뒤 양자 레이어를 적용한 결과 악성코드뿐 아니라 해당 악성코드의 아종까지 식별하는 결과를 얻었다.</p>
-<p>김유석 대표는 "신약과 신소재 개발 등 분자 단위 연산과 시뮬레이션은 슈퍼컴퓨터와 GPU 자원을 총동원해도 처리하기 까다로운 작업이다. 양자컴퓨팅은 기존에 정복하지 못했던 분야에서 두드러지는 활약을 보일 것"이라고 강조했다.</p>
-<p>양자컴퓨터의 작동 방식이 기존 암호화 표준이나 보안 체계를 쉽게 무력화할 것이라는 우려도 있다. 그러나 김유석 대표는 "양자컴퓨터는 보안 분야에 위협인 동시에 방어 기술이 될 수 있다"고 반론했다.</p>
-<p>소인수분해에 기반한 기존 암호 알고리즘은 양자컴퓨터에 의해 위협받을 수 있지만, 반대로 양자난수 등을 활용해 보안을 강화하는 연구도 진행되고 있다는 것이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/76711cf71e4966ea77bc88d8d7f957d0.jpg" alt="김유석 대표는 ”양자컴퓨터는 보안 분야에 위협인 동시에 방어 기술이 될 수 있다”고 설명했다. (사진=지디넷코리아)">
-<p>김 대표는 "콴델라는 광자를 큐비트로 활용하는 랙 단위 양자컴퓨터를 개발중이며 이를 GPU와 결합해 산업 현장에 적용하기 위해 다양한 시도중"이라고 말했다.</p>
-<p>이어 "양자컴퓨팅의 미래는 세상을 한 번에 완전히 바꾸는 것보다 기업이 이미 가지고 있는 솔루션과 알고리듬을 한 단계 진화시키는 형태로 먼저 나타날 것"이라고 내다봤다.</p>]]></description>
-		</item>
-		<item>
-			<title>GPU 활용률 &apos;90%&apos; 이상 가능…아크릴, AI 인프라 비용 줄인다</title>
-			<link>https://zdnet.co.kr/view/?no=20261008150212</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008150212</guid>
-			<author>장경윤 기자</author>
-			<category>아크릴</category>
-			<category>GPU</category>
-			<category>소프트웨어</category>
-			<category>AI</category>
-			<category>데이터센터</category>
-			<category>GPUBASE</category>
-			<category>인프라</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 15:44:42 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/b46e1491f58f8d5010ab4de2bbb30ca4.jpg" alt=""><p>"실제 업무 환경에서 GPU는 다양한 문제로 50~60%의 활용률에 머무르는 경우가 있다. 아크릴의 플랫폼을 적용하면 이를 90% 이상으로 끌어올릴 수 있어, AI 인프라 운영비용율 획기적으로 절감할 수 있다"</p>
-<p><span style="letter-spacing: 0.8px;">김종율 아크릴 이사는 8일 서울 코엑스에서 열린 &apos;AI 페스타 26&apos;에서 AI 인프라 운영 효율화를 위한 기술을 소개했다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/b46e1491f58f8d5010ab4de2bbb30ca4.jpg" alt="김종율 아크릴 이사가 &apos;AI 페스타 26&apos;에서 발표를 진행하고 있다(사진=지디넷코리아)">
-<p>지난 2011년 설립된 아크릴은 AX 인프라 소프트웨어 전문 기업이다. <span style="letter-spacing: 0.8px;">AI 인프라 오케스트레이션 플랫폼인 &apos;GPUBASE&apos;를 공급하고 있다.</span></p>
-<p><span style="letter-spacing: 0.8px;">GPUBASE는 여러 서버에 분산된 GPU를 하나의 자원 풀처럼 관리하고, 각 워크로드에 필요한 자원을 배분해 GPU 활용률을 높이는 솔루션이다.</span></p>
-<p><span style="letter-spacing: 0.8px;">또한 GPUBASE는 네트워크 최적화 기능을 갖췄다. 특정 경로에 트래픽이 몰리는 경우를 방지하기 위해 다중 경로를 활용하고, 작업별 우선순위에 따라 트래픽을 처리하는 기술이다.</span></p>
-<p><span style="letter-spacing: 0.8px;">김 이사는 "실제 업무 환경에서 모니터링된 GPU 할당률은 90%지만, 실제 연산 가동률은 50~60%에 머무르는 사례들이 보고되고 있다"며 "이에 아크릴은 AI로 필요한 메모리와 코어를 예측해, 맞는 크기로 GPU를 배치하는 시스템을 구축했다"고 설명했다.</span></p>
-<p><span style="letter-spacing: 0.8px;">현재 아크릴은 실제 대규모 GPU 환경에서 GPUBASE 검증을 완료한 상황이다. </span><span style="letter-spacing: 0.8px;">AWS, </span><span style="letter-spacing: 0.8px;">구글, </span><span style="letter-spacing: 0.8px;">마이크로소프트 </span><span style="letter-spacing: 0.8px;">등 </span><span style="letter-spacing: 0.8px;">3대 </span><span style="letter-spacing: 0.8px;">클라우드 </span><span style="letter-spacing: 0.8px;">환경에서 </span><span style="letter-spacing: 0.8px;">총 </span><span style="letter-spacing: 0.8px;">1272장의 </span><span style="letter-spacing: 0.8px;">GPU장을 운용한 결과, AI 학습</span><span style="letter-spacing: 0.8px;"> 속도는 최대 24배 향상된 것으로 나타났다. GPU 활용률은 90%를 상회했다.</span></p>
-<p><span style="letter-spacing: 0.8px;">엔크릴은 GPUBASE와 같은 AI 인프라용 소프트웨어 기술이 대한민국의 소버린 AI 구축에 있어 핵심적인 역할을 할 것으로 내다봤다.</span></p>
-<p><span style="letter-spacing: 0.8px;">김 이사는 "GPU 등 각종 AI 반도체를 하나의 풀로 운영해, 특정 공급사와 공급망에 종속되지 않는 연산 주권을 확보해야 한다"며 "폐쇄망에서 완전 구동될 수 있는 망 주권, 자체 모델과 운영 도구로 모델을 직접 만드는 모델 주권도 중요하다"고 </span><span style="letter-spacing: 0.8px;">강조했다.</span></p>
-<p><span style="letter-spacing: 0.8px;">AI 페스타 2026은 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 인공지능주간 공식 행사다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>&quot;GPU와 경쟁 아닌 공존&quot;…딥엑스, &apos;피지컬 AI&apos; K-NPU로 글로벌 정조준</title>
-			<link>https://zdnet.co.kr/view/?no=20261008153014</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008153014</guid>
-			<author>전화평 기자</author>
-			<category>AI</category>
-			<category>반도체</category>
-			<category>딥엑스</category>
-			<category>데이터센터</category>
-			<category>GPU</category>
-			<category>디바이스</category>
-			<category>NPU</category>
-			<category>엣지</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Thu, 08 Oct 2026 15:41:56 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/314b0e7b3be156b45aa97cb4be797cb9.jpg" alt=""><p><span style="letter-spacing: 0.8px;">"글로벌 그래픽처리장치(GPU) 기업과 경쟁하려는 것이 아닙니다. 대규모 데이터 학습은 GPU가, 일상 디바이스에 탑재되는 &apos;피지컬 인공지능(AI)&apos; 연산은 </span><span style="letter-spacing: 0.8px;">신경망처리장치(NPU)가 분담하는 명확한 공존이 우리 전략입니다."</span></p>
-<p>조재홍 딥엑스 상무는 8일 서울 강남구 코엑스에서 열린 AI 페스타 2026에서 글로벌 빅테크와 협력 기반 시장 확대 비전을 제시하며 이같이 밝혔다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/314b0e7b3be156b45aa97cb4be797cb9.jpg" alt="조재홍 딥엑스 상무가 AI페스타에서 발표하고 있다.(사진=지디넷코리아)">
-<p>최근 AI 반도체 시장은 엔비디아로 대표되는 데이터센터용 GPU가 독식하고 있다. 하지만 조 상무는 1기가와트(GW) 규모 데이터센터 구축에 100조원이 투입되는 막대한 비용과 GPU 특유의 발열, 전력 소모를 근본적 한계로 지적했다.</p>
-<p>그는 "연간 50억대 이상 쏟아지는 사물인터넷(IoT) 디바이스의 모든 AI 연산을 클라우드 데이터센터에서만 처리하면 프라이버시 침해와 막대한 전력 지연을 피할 수 없다"며 "로봇이나 CCTV 등 디바이스 자체에 AI 연산이 임베딩돼 실시간 구동하는 &apos;피지컬 AI&apos; 전용 NPU가 반드시 필요한 시점"이라고 강조했다.</p>
-<p>딥엑스가 독자 개발한 NPU &apos;DX-M1&apos;은 이러한 에지(Edge) 수요를 정확히 겨냥했다. 엄지손톱 크기 칩 하나가 5W 미만 초저전력으로 구동돼 일반 배터리로도 작동하며, 쿨링팬이 필요 없을 정도로 발열을 잡았다. 수만 개 데이터를 한 번에 처리하는 GPU와 달리, 카메라로 들어오는 사진 한 장을 즉각 처리하는 &apos;배치 사이즈 1&apos; 환경에 최적화돼 GPU 대비 구축비용을 10분의 1에서 최대 100분의 1 수준으로 대폭 낮췄다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/2e5c304d88bb6dc2bd5930465eb78e72.jpg" alt="딥엑스 발표자료.(사진=지디넷코리아)">
-<p>딥엑스는 이 같은 기술력을 바탕으로 최근 방한한 리사 수 AMD 회장과 간담회를 갖는 등 글로벌 빅테크와 협력을 구체화하고 있다. 무한 경쟁 대신 시장 파이를 나누는 셈이다. </p>
-<p>가시적 상용화 성과도 입증했다. 조 상무는 "국내 최초로 피지컬 AI 반도체 양산에 성공해 상반기에만 10개국 8개 산업군에 1300만개 이상을 수출했다"며 "현대자동차 로보틱스랩의 로봇(DAL-e)과 중국 바이두의 스마트 팩토리 장비 등에 우리 NPU가 탑재돼 활약 중"이라고 말했다. </p>]]></description>
-		</item>
-		<item>
-			<title>위앤유텍, 엘라스틱 에이전틱 AI 플랫폼 전시</title>
-			<link>https://zdnet.co.kr/view/?no=20261008153921</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008153921</guid>
-			<author>이기종 기자</author>
-			<category>위앤유텍</category>
-			<category>AI페스타</category>
-			<category>엘라스틱</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 15:39:21 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/27bc8189fd0502fc56825e9a90ba6c6f.png" alt=""><p><span style="letter-spacing: 0.8px;">인공지능(AI) 분석·검색 솔루션 업체 위앤유텍이 6~8일 서울 강남 코엑스에서 열린 &apos;AI 페스타 2026&apos;에서 &apos;엘라스틱(Elastic) 에이전틱 AI 플랫폼&apos;을 전시했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">위앤유텍은 오픈소스 기반 데이터 검색·분석 플랫폼 엘라스틱의 최고 등급 파트너다. 엘라스틱은 AI 검색 플랫폼을 구축하기 위한 검색·분석 플랫폼이다. 방대한 데이터를 빨리 저장하고 실시간 검색해 분석·시각화하는 기술을 지원한다. </span></p>
-<p><span style="letter-spacing: 0.8px;">위앤유텍은 "생성형 AI와 검색증강생성(RAG) 확산으로 AI 데이터 플랫폼을 구축해야 한다"고 밝혔다. 엘라스틱 에이전틱 AI 플랫폼 도입 효과는 </span><span style="letter-spacing: 0.8px;">비정형 데이터 통합 검색 환경 구축, AI 활용 데이터 기반 확보, AI 구축 기간 단축과 생산성 향상 등을 </span><span style="letter-spacing: 0.8px;">꼽았다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/27bc8189fd0502fc56825e9a90ba6c6f.png" alt="(사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">위앤유텍은 엘라스틱 에이전틱 AI 플랫폼이 "데이터 수집부터 저장, 보안, 검색, 분석, 시각화, 자동화 등 기업 데이터를 아우르는 완성형 AI 플랫폼"이라고 부연했다. AI 검색과 자연어 처리, 벡터 검색, 확장형 아키텍처, 패턴 분석, 모델 관리, 이상 탐지 등을 지원한다. </span></p>
-<p><span style="letter-spacing: 0.8px;">위앤유텍은 AI 데이터 활용을 위한 확장형 객체 스토리지 플랫폼 &apos;민아이오&apos;(MinIO), 생성형 AI 서비스를 위한 엔터프라이즈 AI 플랫폼 &apos;업스테이지&apos; 솔루션도 지원한다.</span></p>
-<p>민IO 도입 효과에 대해 위앤유텍은 "AI 학습 데이터 저장소 일원화, 비정형 데이터 저장·관리 효율화, S3 표준 AI 플랫폼 연계 등"을 제시했다. 위앤유텍은 "기존 방식은 기업 내 대용량 비정형 데이터가 파일·블록 스토리지에 분산 저장돼 AI 모델 학습에 활용하기 어렵다"며 "S3 API 비호환과 확장 한계로 AI 데이터 플랫폼 구축이 지연된다"고 덧붙였다. </p>
-<img src="https://image.zdnet.co.kr/2026/10/08/0cb8457f3667ec01345b354174fd54af.png" alt="(사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">업스테이지 도입 후 기대요인은 문서 자동 인식과 데이터 추출, 기업 문서 기반 AI 어시스턴트 구축, 생성형 AI 서비스 개발기간 단축 등이다. 위앤유텍은 "기업의 방대한 문서와 데이터를 </span><span style="letter-spacing: 0.8px;">생성형 AI가 정확히 이해하려면 문서 인식과 추출, 대규모언어모델(LLM) 질의응답 환경이 필요하다"며 "기업 데이터를 안전하게 활용하는 프라이빗 AI 구축이 과제"라고 덧붙였다. </span></p>
-<p>종합하면 업스테이지로 문서와 이미지 파싱·구조화 후 민IO를 통해 원본 데이터를 보관할 수 있다. 이후 엘라스틱으로 키워드와 벡터 통합 검색, 정확한 정보 검색과 AI 응답 등이 활용 가능하다. 다시 업스테이지로 자연어를 이해하고 생성할 수 있다. 기업 데이터를 입력한 뒤 챗봇과 문서 요약, 보고서 생성, 업무 자동화 등을 기대할 수 있다.</p>
-<p>위앤유텍 고객은 SK하이닉스와 삼성전자, 기아, 현대자동차, KB캐피탈, 한국은행, 카카오 등이다. 위앤유텍은 SK하이닉스와 반도체 공정 생산 자동화 시스템의 APM, 메트릭, 로직 통합 수집, 실시간 모니터링, 머신러닝 기반 이상탐지와 장애 대응 등이 성과라고 설명했다. </p>]]></description>
-		</item>
-		<item>
-			<title>[기고] AI가 대신 결제한 거래, &apos;내 승인&apos; 어떻게 증명하나</title>
-			<link>https://zdnet.co.kr/view/?no=20261008133354</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008133354</guid>
-			<author>이수화 법무법인(유한) 태평양 변호사</author>
-			<category>AI 컨택</category>
-			<category>전문가칼럼&gt;기타</category>
-			<pubDate>Thu, 08 Oct 2026 15:23:06 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/6fc9e7b54f80aa37824edc514a84f31b.jpg" alt="">
-							<blockquote class="wp-block-quote is-style-large">
-								<p>챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활발해진 분위기다. 급변하는 정보사회에서 AI와 개인정보 보호에 있어 우리 사회가 취해야 할 균형 잡힌 자세가 어떤 것인지에 대해 법무법인 태평양 AI팀에서 [AI 컨택]을 통해 2주 마다 다뤄보고자 한다. <b>[편집자주]</b></p>
-
-							</blockquote>
-<p><span style="letter-spacing: 0.8px;">"다음 주 부산 출장에 맞춰 호텔을 예약해 줘. 고객사 근처로 적당한 곳을 찾아봐."</span></p>
-<p>기존에는 AI가 몇 군데를 추천하고 최종 선택과 결제는 사람이 하는 것이 AI를 활용하는 방식이었다. 그러나 AI 에이전트가 본격적인 생활 영역으로 들어온 지금은 다르다. </p>
-<p>최근 메타가 선보인 뮤즈가 캘린더, 이메일, 쇼핑·결제 플랫폼과 연동돼 브라우저를 직접 띄우고 예약을 대행하듯 빅테크들이 자율형 AI 에이전트를 앞다퉈 선보이면서 AI는 사용자의 일정과 선호도를 확인해 예약부터 결제까지 일괄 처리하는 수준에 이르렀다. 온라인 쇼핑에서도 "30만원 이하로 아이 가방 하나 사줘"라는 말 한마디면 검색부터 구매까지 알아서 끝내는 시대다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/6fc9e7b54f80aa37824edc514a84f31b.jpg" alt="이수화 법무법인(유한) 태평양 변호사 (사진=법무법인 태평양)">
-<p>기술적 편의는 극대화됐지만 오랜 기간 법을 다뤄온 필자의 시각에서는 기술적 경이로움보다 전혀 다른 의문이 먼저 떠오른다. AI가 수행한 법률행위는 과연 언제, 어떤 근거로 내가 한 거래가 되는가.</p>
-<p>전통적인 전자상거래에서는 이용자의 의사를 확인하는 것이 명확했다. 상품을 선택한 뒤 직접 결제하기 버튼을 누르거나 비밀번호 입력·생체인증 등의 절차를 거치는 행위 자체가 의사표시였다. 정기결제처럼 매번 동의를 받지 않는 구조라 하더라도 최초 기본 계약을 통해 거래의 범위와 조건에 미리 동의하는 것이 일반적이었다.</p>
-<p>하지만 자율형 에이전트는 이 법적 경계를 모호하게 만든다. "<span style="letter-spacing: 0.8px;">적당한 호텔을 예약해줘"라는 지시는 과연 어디까지의 권한을 부여한 것일까. 80만원 짜리 호텔도 괜찮은지, 환불 불가능한 상품을 선택해도 되는지, 가격이 조금 비싸더라도 평점이 높은 호텔을 선택하는 것이 유효한 권한 내 행동인지는 불분명하다.</span></p>
-<p><span style="letter-spacing: 0.8px;">AI가 이용자의 과거 행동 데이터를 기반으로 이를 합리적으로 판단했다고 한들 알고리즘의 추론 결과를 곧바로 이용자의 정당한 의사표시로 단정할 수는 없다. 우리 민법상 대리인 개념 역시 자연인이나 법인 같은 인격체를 전제하므로 AI 자체를 법률상 대리인으로 볼 수도 없다. 결국 AI는 법적으로 &apos;도구(사자, 使者)&apos;에 가까운데, AI의 자율적 판단 영역이 커질수록 단순 도구 이론만으로는 현장의 분쟁을 해결하기 어렵다.</span></p>
-<p>AI 에이전트 시대에는 단순한 본인 인증을 넘어 위임 범위의 명확한 설정과 이에 대한 법적 입증이 핵심 쟁점으로 떠오른다. 금액과 기간, 거래 유형별로 AI가 스스로 실행할 수 있는 임계치를 설정하고, 일정한 기준을 넘어서는 거래는 사람의 재승인을 거치도록 시스템을 설계해야 한다. 분쟁이 발생했을 때 이용자가 정확히 어떤 권한을 부여했고 AI가 그 범위 내에서 행동했는지를 증명할 감사 추적 기록의 중요성도 비할 데 없이 높아졌다.</p>
-<p>책임 배분의 문제는 한층 까다롭다. AI가 10만원 이하의 상품만 구매하도록 설정됐음에도 프롬프트 해석 오류나 시스템 착오로 100만원짜리 상품을 구매했다면 책임은 누구에게 돌아가야 하는가.</p>
-<p>이용자의 지시를 AI가 오독했거나 판매자의 상품 정보를 잘못 해석한 경우 이용자와 AI 서비스 제공자, 그리고 판매자 사이의 법적 책임 배분은 기존 전자상거래법이나 민법상 착오 취소 규정만으로는 깔끔하게 설명되지 않는다. AI 서비스 약관에서 &apos;AI가 대리·대행한 행위&apos;의 손해배상 및 과실 책임 조항이 핵심적인 법적 분쟁 요소가 될 수밖에 없는 이유다.</p>
-<p>개인정보 문제 역시 새로운 국면을 맞이하고 있다. 유능한 에이전트가 되기 위해서는 구매 내역뿐만 아니라 일정, 위치, 이메일, 결제 정보 등 여러 플랫폼에 파편화된 데이터에 상시 접근해야 한다. 그러나 편의성을 이유로 한번 부여된 접근 권한이 필요 이상으로 광범위하게 남용되거나 장기간 유지된다면 심각한 프라이버시 리스크로 이어진다.</p>
-<p>에이전틱 AI 환경에서의 개인정보 보호는 어떤 데이터를 수집했는가를 넘어 AI가 어떤 데이터에, 어떤 목적으로, 언제까지 접근할 수 있느냐는 권한 관리 영역으로 진화해야 한다. 개인정보 보호법의 오랜 원칙인 최소 수집과 목적의 명확성이 이제 AI 권한 설계라는 기술적·법적 원칙과 직결되는 셈이다.</p>
-<p>AI가 사람 대신 검색하고 추천하는 단계에서 직접 계약(서)에 서명하고 결제 버튼을 누르는 단계로 진입했다. 법과 제도는 AI에게 무엇을 금지할 것인가를 넘어 법적 입증 책임과 권한의 테두리를 어떻게 바르게 정립할 것인가를 고민해야 한다.</p>
-<p>AI 에이전트 시대를 맞이하며 우리는 AI에게 정확히 무엇을 어디까지 맡겼으며 분쟁 발생 시 이를 명확히 증명할 준비가 돼 있는가에 대해 진지하게 답을 준비해야 할 때가 됐다. <span style="letter-spacing: 0.8px;">이 질문에 기술적으로나 법적으로 명확한 답과 안전장치를 제시하는 서비스만이 결국 에이전틱 AI 시대에 시장과 이용자의 진짜 신뢰를 얻게 될 것이다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>박종천 지란지교소프트 CAIO &quot;AX는 자동화 아닌 &apos;AI 직원&apos; 만드는 일&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261008142617</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008142617</guid>
-			<author>남혁우 기자</author>
-			<category>AI페스타26</category>
-			<category>지란지교소프트</category>
-			<category>인공지능</category>
-			<category>AI</category>
-			<category>AX</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 15:22:50 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/709a04b2adef04e939738452e6a4485a.jpg" alt=""><p><span style="letter-spacing: 0.8px;">"인공지능(AI) 전환(AX)은 시간을 줄이는 자동화가 아닙니다. 충분한 지식으로 알아서 일하고, 결정이 필요할 때만 사람을 부르는 AI 직원을 만드는 일입니다."</span></p>
-<p>박종천 지란지교소프트 최고AI책임자(CAIO)는 8일 서울 코엑스에서 열린 &apos;AI페스타26&apos; 부대행사 AIR 쇼케이스에서 &apos;AI를 쓰는 회사에서, AI가 일하는 회사로&apos;를 주제로 발표하며 이같이 말했다.</p>
-<p>박 CAIO는 AI를 인터넷, 모바일에 이은 세 번째 플랫폼 전환이라고 제시했다. 앞선 두 번의 전환이 무엇으로 접속하는지를 바꿨다면 이번에는 누가 일을 하는지가 바뀐다는 설명이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/709a04b2adef04e939738452e6a4485a.jpg" alt="박종천 지란지교소프트 최고AI책임자(CAIO)(사진=지디넷코리아)">
-<p>다만 이 과정에서 그가 짚은 문제는 개인과 회사 사이의 간극이다. 국내 챗GPT 월간 이용자가 1천만 명에 이를 만큼 개인의 AI 활용은 일상이 됐지만 회사의 지식은 여전히 개인 PC와 메신저에 흩어져 있어 조직 성과로 이어지지 않는다는 진단이다.</p>
-<p>박 CAIO가 제시한 해법은 &apos;AI 직원&apos;이다. AI 직원은 질문에 답하는 데 그치지 않고 자료 검토와 판단, 계산과 결과 정리, 문서 작성까지 수행해 업무에 활용할 수 있는 결과물을 만든다. 필요할 때마다 꺼내 쓰는 도구가 아니라, 회사 지식과 업무 절차를 바탕으로 맡은 일을 처리하는 AI 에이전트를 조직 안에 두자는 구상이다.</p>
-<p>AI 직원을 도입해야 하는 이유는 개인의 AI 활용이 조직의 성과로 이어지지 않는 간극을 메우기 위해서다. 회사 문서와 업무 노하우가 개인 PC나 메신저에 흩어져 있으면 직원이 AI를 써도 회사의 지식과 경험을 충분히 활용하기 어렵다. </p>
-<p>반대로 AI가 필요한 지식과 도구에 접근할 수 있다면, 반복적인 자료 수집·검토·정리 업무를 맡아 처리하고 사람은 판단과 승인에 집중할 수 있다. AI가 밤새 되돌릴 수 있는 작업을 미리 해 두면 업무 처리 속도와 범위도 넓어질 수 있다.</p>
-<p>이를 위해 기업이 먼저 해야 할 일은 회사 지식과 업무를 정리하는 것이다. 문서와 규정, 업무 절차를 지식 라이브러리로 구축하고, AI가 필요한 정보를 찾아 근거로 활용할 수 있게 해야 한다. </p>
-<p>박 CAIO는 “사내 데이터가 지식 라이브러리로 구축돼 있는지, 업무가 잘 정리돼 있는지를 계속 고민하면서 우리가 만드는 것이 AI 직원인지 아닌지를 항상 생각해 봐야 한다”고 말했다.</p>
-<p>AI가 실제 업무를 하도록 사내 문서와 메일, ERP 등 기존 시스템을 연결하는 일도 과제다. AI 직원이 어떤 데이터와 도구에 접근할 수 있는지 권한을 정하고, 업무 결과를 확인할 체계도 갖춰야 한다. 도구를 도입하는 데서 끝내지 않고 직원들이 제대로 활용하는지 지속적으로 살피며, 데이터가 연결되는 만큼 보안도 관리해야 한다.</p>
-<p>마지막으로 기업은 AI의 자율 처리 범위와 사람의 개입 기준을 정해야 한다. 박 CAIO는 업무의 중요도보다 되돌릴 수 있는 일인지를 기준으로 삼아야 한다고 제안했다.</p>
-<p>문서 초안 작성이나 자료 수집·요약, 계산처럼 수정 가능한 작업은 AI가 처리하되, 메일 발송이나 외부 제출, 원본 데이터 삭제처럼 되돌리기 어려운 작업은 사람이 점검하거나 승인하는 절차를 두는 방식이다.</p>
-<p>그는 "예를 들어 고객사에 메일 답장을 보냈는데 이상한 답장을 보내면 이를 물리기 어렵다"며 "비가역적이고 돌이킬 수 없는 일들은 꼭 사람이 점검해야 한다"고 설명했다.</p>
-<p>박 CAIO는 AI 사용 비용을 바라보는 관점도 바꿔야 한다고 강조했다. 토큰은 AI 사용량을 재는 단위로, 많이 쓸수록 비용이 늘어난다. 그는 미국에서는 직원 한 명이 한 달에 1억원어치를 쓰는 경우도 있다며 토큰을 많이 쓸수록 회사가 좋아지도록 세팅하면 무한 성장이 가능하다"고 말했다.</p>
-<p>도입 이후의 관리도 주문했다. 박 CAIO는 "도구를 사줬고 교육도 시켜줬으니 알아서 잘하겠지 하는 것은 절대 안 된다"며 "잘 쓰고 있는지를 보면서 계속 관리해 줘야 한다"고 말했다. 데이터를 많이 모을수록 보안이 중요해진다는 점도 덧붙였다.</p>
-<p>혼자 힘으로 전환하기 어려운 기업에는 파트너 선택이 중요하다고 조언했다. 그는 농담을 전제로 "국내 기업의 3분의 1은 AI 전환을 못 해 큰일 나고, 3분의 1은 자체 전환에 큰 어려움을 겪을 것"이라며 "나머지 3분의 1은 파트너와 함께할 텐데 그 파트너를 고르는 것에 따라 회사의 미래가 결정될 것"이라고 내다봤다.</p>
-<p>박 CAIO는 "AI에게 얼마나 많은 도구를 쥐여주느냐에 따라 AI가 할 수 있는 일이 달라진다"며 사내 문서와 메일, 전사적자원관리(ERP) 같은 기존 시스템까지 AI와 연결해야 한다고 말했다. 지란지교소프트는 이를 구현한 한국형 업무용 AI로 &apos;오피스에이전트&apos;를 소개했다.</p>
-<p>지란지교소프트는 법인카드 정산, 인사 규정 안내, 영업 레퍼런스 검색, 전표 계정과목 분류를 AI 에이전트로 처리하고 있다. 협력 기관에서는 보험 문의 답변과 손해사정 보고서 검토에 활용한다.</p>
-<p>박 CAIO는 "사람이 하루에 보고서 30건 정도를 본다면 AI는 24시간 동안 300건도 볼 수 있을 것"이라며 "AI는 도구가 아니라 역량으로 이를 어떻게 활용하는지가 기업의 생존을 가를 것"이라고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 &apos;통제&apos;</title>
-			<link>https://zdnet.co.kr/view/?no=20261008143522</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008143522</guid>
-			<author>김동원 기자</author>
-			<category>아이티센글로벌</category>
-			<category>아이티센</category>
-			<category>에이전트</category>
-			<category>AI에이전트</category>
-			<category>에이전트고</category>
-			<category>AI안전</category>
-			<category>AI통제</category>
-			<category>에이전트통제</category>
-			<category>AI페스타</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 15:22:30 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/d228696cadb9953a5214ef594fd5cd05.jpg" alt=""><p>기업들이 인공지능(AI) 에이전트를 빠르게 도입하고 있지만 실제 운영 단계까지 간 사례는 11%에 그친다는 지적이 나왔다.</p>
-<p>정승모 아이티센글로벌 AI이노베이션센터장은 8일 서울 코엑스에서 열린 &apos;AI 페스타 2026&apos;의 AIR(AI Realization) 쇼케이스에서 "AI 에이전트 경쟁력은 얼마나 많이 만드느냐가 아니라 얼마나 믿고 맡길 수 있느냐에서 나온다"고 말했다.</p>
-<p>AI 에이전트 도입 속도는 빠르다. 정 센터장이 인용한 가트너 전망에 따르면 올해 말에는 기업용 애플리케이션 10개 중 4개에 AI 에이전트가 탑재될 것으로 예상된다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/d228696cadb9953a5214ef594fd5cd05.jpg" alt="정승모 아이티센글로벌 AI이노베이션센터장은 &quot;AI 에이전트 경쟁력은 얼마나 많이 만드느냐가 아니라 얼마나 믿고 맡길 수 있느냐에서 나온다&quot;고 말했다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">하지만 실제 업무까지 이어지는 비율은 낮았다. 워크플로 자동화 기업 카문다가 IT 리더 등을 대상으로 조사한 결과 71%가 AI 에이전트를 사용하고 있다고 답했지만 지난 1년간 운영 단계까지 간 사례는 11%에 그쳤다.</span></p>
-<p>정 센터장은 "10개를 시도하면 9개는 파일럿에서 멈춘다는 뜻"이라며 "많은 사람이 에이전트를 만들고 있지만 운영 단계까지 가는 사례는 많지 않다"고 말했다.</p>
-<p>그는 에이전트 확산을 가로막는 요인으로 거버넌스와 보안, 관리되지 않는 에이전트 증가를 꼽았다. 기존 챗봇이 주로 질문에 답하는 역할이었다면 AI 에이전트는 기업 시스템에 접속해 데이터를 조회하고 실제 업무까지 수행한다. 권한을 잘못 부여하거나 행동 기록을 남기지 않으면 보안 사고로 이어질 수 있다.</p>
-<p>정 센터장은 "핵심은 AI가 누구 권한으로 무엇에 접근해 무엇을 했는지 증명할 수 있느냐"라며 "개인정보를 다루는 에이전트라면 접근 권한을 최소화하고 접속 기록도 남겨야 한다"고 밝혔다.</p>
-<p>직원들이 직접 만든 에이전트가 늘면서 관리되지 않는 AI도 생겨나고 있다. 실험용으로 만든 뒤 더 이상 사용하지 않는 에이전트가 회사 곳곳에 남거나 누가 만들었는지조차 파악하기 어려워지는 경우다. 정 센터장은 이를 &apos;에이전트 스프롤(Agent Sprawl)&apos;이라고 표현했다.</p>
-<p>더 큰 문제는 사용하지 않는 에이전트가 회사 데이터에 접근할 권한을 그대로 보유할 수 있다는 점이다. 반대로 현업 직원의 에이전트 개발을 막으면 승인받지 않은 외부 AI 도구를 몰래 사용하는 &apos;섀도 AI&apos;가 늘어날 수 있다.</p>
-<p>아이티센글로벌은 이런 문제를 해결하기 위해 멀티 AI 에이전트 관리 플랫폼 &apos;에이전트고&apos;에서 에이전트 생성부터 실행, 운영까지 한꺼번에 관리하도록 했다.</p>
-<p>운영 단계에서는 사용자와 조직별로 사용할 수 있는 에이전트와 접근 가능한 데이터를 구분한다. 부서와 에이전트, AI 모델별 토큰 사용량도 확인할 수 있어 비용을 관리하거나 실제로 쓰이지 않는 에이전트를 찾아낼 수 있다.</p>
-<p>업무 기록도 관리한다. 관리자가 AI와 사용자의 대화 내용을 확인하려면 열람 사유를 입력해야 하고 개인정보는 가려서 보여준다. 문제가 발생했을 때 기록을 남기면서도 직원 감시나 개인정보 노출 우려를 줄이기 위한 장치다.</p>
-<p>실행 과정 보안은 &apos;에이전트고 가드&apos;가 맡는다. 사용자가 입력한 질문에서 개인정보와 금칙어를 찾아내고, 기존 지시를 무시하도록 유도하는 프롬프트 인젝션 같은 공격도 탐지한다.</p>
-<p>여러 차례 대화를 이어가며 민감정보를 빼내려는 공격도 추적한다. 처음에는 고객 응대 매뉴얼을 묻고 이후 본인 확인 정보와 저장 형식을 차례로 질문한 뒤 마지막에 전체 고객의 연락처와 주민번호를 요구하는 식이다. 질문 하나하나는 정상적으로 보여도 대화 흐름 전체를 분석하면 정보 탈취 의도를 찾아낼 수 있다.</p>
-<p>에이전트를 만드는 과정에도 통제 절차를 넣었다. 개발자는 코딩 도구를 사용하고 비개발자는 드래그앤드롭 방식으로 업무 흐름을 구성할 수 있다. 완성된 에이전트는 바로 실제 업무에 투입하지 않고 별도 시험 환경에서 검증한 뒤 사람의 승인을 거쳐 운영한다.</p>
-<p>실제 도입 사례도 있다. 한 제조기업은 기존 로봇프로세스자동화(RPA) 경험이 있는 현업 직원 약 200명이 직접 AI 에이전트를 만들 수 있도록 에이전트고 구축을 진행하고 있다. 업무를 잘 아는 직원이 에이전트를 만들고 품질과 보안, 권한 관리는 플랫폼에서 맡는 방식이다.</p>
-<p>정 센터장은 "만들 때 표준이 있으면 방치되는 에이전트가 관리되는 자산이 되고 실행할 때 방어가 있으면 보안 사고의 통로가 믿고 맡길 수 있는 통로가 된다"며 "통제력은 혁신을 늦추는 브레이크가 아니라 더 멀리, 더 빠르게 달릴 수 있게 하는 가속 페달"이라고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;AI, 엔드포인트 보안 관리 적임자…사후 처리서 사전 대응까지&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261008135046</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008135046</guid>
-			<author>김윤희 기자</author>
-			<category>팀뷰어</category>
-			<category>AI페스타26</category>
-			<category>원격제어</category>
-			<category>AI에이전트</category>
-			<category>엔드포인트관리</category>
-			<category>팀뷰어원</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 15:19:05 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/ddba3799608afede4f0151ac4b1f2c04.jpg" alt=""><p>기업 엔드포인트 관리 과정에서 발생하는 보안 등 IT 문제 대응을 AI 기반으로 자동화해, 사후 대처뿐 아니라 문제 발생을 막는 사전 방지 조치까지 취할 수 있는 방법론이 제안됐다.</p>
-<p>8일 김도연 팀뷰어 상무는 서울 코엑스에서 열린 &apos;AI 페스타 26&apos; 부대 행사인 ‘AIR 쇼케이스’ 발표자로 나서 이같은 AI 활용을 제안했다.</p>
-<p>김 상무는 먼저 조직에서 생산성 향상과 내부 자산 보호 등을 목적으로 여러 솔루션을 사용함에도 발생하는 보안 허점들을 짚었다. <span style="letter-spacing: 0.8px;">사용 중인 솔루션 간 충돌이 나타나는 경우, 업무 과정에서 AI 에이전트 활용이 대중화되면서 조직 구성원이 허가되지 않은 에이전트까지 사용하는 경우, 기기 전원이 꺼져 있거나 네트워크 문제 등의 이유로 최신 보안 패치가 완료되지 않은 기기들이 발생하는 경우 등을 예로 들었다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/ddba3799608afede4f0151ac4b1f2c04.jpg" alt="김도연 팀뷰어 상무 (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">IT 관리자 입장에선 이런 상황이 업무 효율을 떨어뜨리거나 보안 사고를 초래할 가능성이 있어 기기별 상황을 즉각 파악하고, 사전에 필요한 조치를 취해야 한다. 그러나 현실에선 이같은 엔드포인트 관리 체제를 갖춘 조직이 드물다는 진단이다.</span></p>
-<p>김 상무는 “IT 관리자 중 조직 내 엔드포인트 운영 상태가 어떠한지 질문을 받으면, 즉각 대답이 가능한 분들이 드물 것”이라며 “모니터링과 기술지원을 하지만, 부서 간 사일로(장벽)이 있어 연계가 원활치 않은 부분들이 있다”고 지적했다.</p>
-<p>‘시프트 레프트’ 전략이 실현돼야 엔드포인트 관리 체제 완성도가 높아질 수 있다고도 강조했다. 김 상무는 “문제가 발생한 뒤 처리하는 수동적인 IT 지원 조직들이 여전히 많이 존재하지만, 사용자에게 영향을 미치기 전에 문제를 예측하고, 조치할 수 있는 자동화된 방식으로 전환해야 한다는 의미”라고 첨언했다<span style="letter-spacing: 0.8px;">.</span></p>
-<p>팀뷰어는 이같은 관점 하에 자체 AI에이전트 ‘티아’와 엔드포인트 관리 플랫폼 ‘팀뷰어원’을 개발했다고 밝혔다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/e2609aa8d1a13d7145166e1bdcc26aeb.png" alt="팀뷰어 엔드포인트 관리 기능 (사진=팀뷰어)">
-<p><span style="letter-spacing: 0.8px;">김 상무는 “팀뷰어를 원격 제어 솔루션 정도로만 인지하는 분들이 많겠지만, 엔드포인트에서 발생하는 문제를 미리 감지하고 처리할 수 있도록 고도화됐다”며 “사용자 경험을 분석해 사전 자동화로 문제를 해결하고, 그 효과를 수치와 비용으로 보여줄 수 있는 디지털직원경험(DEX) 플랫폼으로 만들고자 했다”고 설명했다.</span></p>
-<p>특히 경력이 적은 IT 지원 조직 인력이더라도 AI에이전트의 가이드를 받아 문제를 해결하고, 이 과정에서 활용한 스크립트를 저장해 향후 유사 상황이 발생하지 않도록 대응할 수 있다고 강조했다.</p>
-<p>김 상무는 “AI 에이전트를 추가 도입함에 따라 발생하는 하드웨어 부담을 많이들 우려하지만, 팀뷰어 AI에이전트는 초경량 솔루션”이라며 “팀뷰어원을 통해 관리자가 원격 지원으로 엔드포인트들을 관리할 수도 있다”고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>한-이집트, 청정에너지·전력 기반시설 협력 강화</title>
-			<link>https://zdnet.co.kr/view/?no=20261008151213</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008151213</guid>
-			<author>주문정 기자</author>
-			<category>청정에너지</category>
-			<category>이집트</category>
-			<category>양해각서</category>
-			<category>전력기반시설</category>
-			<category>기후에너지환경부</category>
-			<category>아프리카</category>
-			<category>해외진출</category>
-			<category>태양광</category>
-			<category>풍력</category>
-			<category>송배전망</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 15:12:13 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/58ffdaa6b417468ae469245915d137ef.jpg" alt=""><p>정부가 이집트와 청정에너지·전력기반시설 분야에서 협력하기로 했다.</p>
-<p>기후에너지환경부는 8일 청와대에서 열린 한-이집트 정상회담을 계기로 이집트 전력·재생에너지부와 ‘청정에너지 분야 협력에 관한 양해각서’ 및 ‘전력 기반시설 협력 파트너십 구축에 관한 양해각서’를 체결했다고 밝혔다.</p>
-<p>양국은 이날 협약으로 태양광·풍력 등 청정에너지 분야에서 송배전망 확충과 전력설비 현대화 등 전력 기반시설 분야까지 협력 범위를 확대했다. 청정에너지 생산부터 안정적인 전력 공급을 위한 전력망 구축까지 아우르는 협력 기반을 마련했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/58ffdaa6b417468ae469245915d137ef.jpg" alt="이재명 대통령(오른쪽)과 압델파타 알시시 이집트 대통령이 8일 청와대에서 만나 악수를 나누고 있다.(사진=뉴스1)">
-<p>청정에너지 분야 양해각서에 따라 양국은 태양광·풍력·바이오매스·폐기물에너지·원자력의 평화적 이용 등에 관한 정책·정보 교류를 추진하기로 했다.</p>
-<p>전력 기반시설 분야에서는 송배전망 확충과 노후설비 개·보수, 초고압 직류송전(HVDC), 에너지저장장치(ESS) 등 관련 정책과 기술을 공유한다.</p>
-<p>양국은 관계기관과 기업 간 교류를 확대하고, 청정에너지·전력 기반시설 분야 공동사업을 발굴해 나갈 계획이다.</p>
-<p>기후부는 국내 기업의 이집트 시장 진출 기반을 넓히고, 양국 기업 간 협력을 바탕으로 아프리카 시장에서의 새로운 사업 기회도 창출할 수 있을 것으로 기대했다.</p>
-<p>김성환 기후부 장관은 “이번 양해각서 체결로 청정에너지에서 전력 기반시설까지 양국 간 에너지 협력의 폭을 넓히는 기반을 마련했다”며 “양국 경험과 기술이 실질적인 협력사업과 우리 기업의 해외 진출로 이어질 수 있도록 적극 뒷받침하겠다”고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>[영상] 실크실 16가닥으로 나눠 자수까지…中 로봇 손의 손기술</title>
-			<link>https://zdnet.co.kr/view/?no=20261008135001</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008135001</guid>
-			<author>이정현 미디어연구소</author>
-			<category>로봇손</category>
-			<category>애자일링크</category>
-			<category>옴니핸드3울트라</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 15:05:53 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/44d42d04e8a060180b443947f7b1453d.gif" alt=""><p>정교한 로봇 손이 실크 실을 사용해 극도로 섬세한 자수 기술을 선보여 화제가 되고 있다.</p>
-<p>7일(현지시간) 인터레스팅엔지니어링 등 외신에 따르면, 중국 로봇 기업 애지봇 자회사 애자일링크(AGILINK)가 다재다능한 로봇 손 ‘옴니핸드3 울트라(OmniHand 3 Ultra)’로 중국 전통 쑤저우(蘇州) 자수 공정을 시연하는 영상을 공개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/44d42d04e8a060180b443947f7b1453d.gif" alt="애자일링크의 로봇 손은 바늘에 실을 꿰맬 수 있을 만큼 정밀한 동작을 수행할 수 있다. (영상=애자일링크 유튜브)">
-<p>이번 시연에서 로봇 손은 주요 비단실을 16가닥으로 가늘게 나누는 작업부터 바늘귀에 실 꿰기, 수틀에 천을 팽팽하게 고정하기, 실 꼬기, 바느질까지 자수의 전 과정을 안정적으로 수행했다.</p>
-<p>실크는 미세한 힘에도 쉽게 구부러지거나 미끄러져 형태가 변하기 때문에 로봇이 다루기 매우 까다로운 소재로 꼽힌다. 이번 시연을 위해 자수 장인이 직접 로봇에게 비단 다루는 법을 전수했다. 로봇은 한 손가락으로 가닥을 분리하면서 나머지 손가락으로 적절한 장력을 유지하는 고난도 협응력을 보여줬다. 또한 실을 꼬는 동안 손가락 끝이 실에 닿은 상태를 유지하면서도 실이 자연스럽게 회전할 수 있도록 유연하게 제어했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/13c99d7a4c6e52b541b11ffefb60b0a6.png" alt="실크는 로봇이 다루기에는 까다로운 소재다. (사진=애자일링크 유튜브)">
-<p>회사 측은 설명 영상에서 "실크는 고정된 형태가 없고 손가락의 힘에 따라 모양이 결정되기 때문에, 자수는 로봇의 하드웨어와 제어 능력을 동시에 시험하는 극도의 과제"라며 "각 손가락 끝에는 표면 변형을 감지하는 시각-촉각 센서가 탑재되어 있으며, 21개의 능동 자유도를 가진 완전 직접구동(Direct Drive) 방식을 채택했다"고 설명했다.</p>
-<p>애자일링크는 원격 조작 데이터와 강화학습을 결합해 로봇 손을 훈련시켰다. 실이 매번 다른 위치에 놓여도 고정된 정형화 동작을 반복하는 대신, 상황에 맞게 유연하게 움직임을 조정하도록 한 것이 핵심이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/37b9ad7541a338be54938789689c9fbb.png" alt="사진=애자일링크 유튜브">
-<p>옴니핸드 3 울트라는 사람 손과 유사한 크기에 무게는 630g이다. 힘줄이나 별도의 전달 장치 없이 모터가 관절에 직접 연결된 다이렉트 드라이브 구조를 갖췄다. 약 3kg의 정밀 작업 하중을 지탱하며 최대 8kg까지 들어 올릴 수 있다. 약 0.3초 만에 손을 펴고 접을 수 있으며 위치 반복 정밀도는 약 0.2mm에 달한다. 손가락 끝의 비전 기반 촉각 센서는 3차원 방향의 힘과 0.08mm 수준의 미세한 변형을 감지하고, 손바닥에는 300개 포인트의 접촉 센서가 내장되어 있다</p>
-<p>이번 시연은 물체와 동선이 예측 가능한 기존 산업용 로봇과 달리, 비정형 소재를 정밀하게 다루는 로봇 손의 제어 가능성을 보여줬다는 점에서 의미가 크다. 현재 보스턴 다이내믹스가 4개 손가락 구조의 &apos;아틀라스 핸드&apos;로 드릴이나 용접 도구 제어 등 산업 현장 투입을 목표로 하는 등, 글로벌 기업들도 각기 다른 목적에 맞춘 고도화된 로봇 손 개발에 박차를 가하고 있다.</p>
-<iframe width="720" src="https://www.youtube.com/embed/uRy589aDp48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></description>
-		</item>
-		<item>
-			<title>모비젠 &quot;연내 그래피오 3.0 출시…스스로 진화하는 온톨로지 구축&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261008140047</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008140047</guid>
-			<author>장경윤 기자</author>
-			<category>모비젠</category>
-			<category>그래피오</category>
-			<category>AI</category>
-			<category>데이터</category>
-			<category>온톨로지</category>
-			<category>에이전트</category>
-			<category>플랫폼</category>
-			<category>AX</category>
-			<category>IT 일반</category>
-			<pubDate>Thu, 08 Oct 2026 14:49:08 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/1c4976355cc3100d26855fbd9756bdc3.jpg" alt=""><p>모비젠이 온톨로지 기반의 데이터·AI 앱 플랫폼 &apos;그래피오 3.0&apos;을 연내 출시할 계획이다. 해당 플랫폼은 메모리 시스템을 기반으로, 온톨로지가 업무 경험을 통해 스스로 진화하는 것이 핵심이다.</p>
-<p><span style="letter-spacing: 0.8px;">엄태덕 모비젠 부사장 겸 최고기술책임자(CTO)는 8일 서울 코엑스에서 열린 &apos;AI 페스타 26&apos;에서 이같이 밝혔다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/1c4976355cc3100d26855fbd9756bdc3.jpg" alt="엄태덕 모비젠 부사장이 &apos;AI 페스타 26&apos; 내 부대행사인 &apos;AIR Showcase&apos;에서 발표하는 모습(사진=지디넷코리아)">
-<p>이날 AI 페스타 26 내 부대행사인 &apos;에어 쇼케이스(AIR Showcase)&apos;에서 &apos;기업 AX를 위한 온톨로지 구축과 활용 전략&apos;을 주제로 발표를 진행한 엄 부사장은 온톨로지 기반 AI 솔루션의 로드맵을 제시했다.</p>
-<p><span style="letter-spacing: 0.8px;">온톨로지는 특정 분야에 존재하는 </span><span style="letter-spacing: 0.8px;">개념 간의 관계를 명확히 정의하고 구조화한 지식 모델이다. 온톨로지를 활용하면 AI는 입력된 데이터의 문맥과 의미를 스스로 이해해, 보다 정확한 판단을 내릴 수 있게 된다.</span></p>
-<p><span style="letter-spacing: 0.8px;">엄 부사장은 "단순히 데이터가 잘 정리돼 있다고 해서 AI가 업무를 이해하는 것은 아니다"며 "같은 데이터라도 조직마다 의미가 다를 수 있고, 데이터 간 관계와 업무 규칙을 함께 이해해야 성공적인 인공지능 전환(AX)이 가능하다"고 설명했다.</span></p>
-<p><span style="letter-spacing: 0.8px;">모비젠은 이를 위한 솔루션으로 &apos;그래피오&apos;를 제공하고 있다. 그래피오는 </span><span style="letter-spacing: 0.8px;">조직의 업무 용어와 개념 정리에서부터 ▲</span><span style="letter-spacing: 0.8px;">관계 모델링 ▲지식 구조 관리 ▲데이터 연계 등 다양한 기능을 통해 기업 특화 온톨로지를 구축한다. 이후 AI 에이전트가 해당 정보를 연계한 각종 업무를 지원한다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/08/95ade05edc49db98cf5e888834f177b2.jpg" alt="모비젠의 그래피오 개발 로드맵(사진=지디넷코리아)">
-<p>모비젠은 그래피오 로드맵을 빠르게 고도화해나갈 계획이다. <span style="letter-spacing: 0.8px;">지난해 </span><span style="letter-spacing: 0.8px;">초 </span><span style="letter-spacing: 0.8px;">그래피오 </span><span style="letter-spacing: 0.8px;">1.0을 </span><span style="letter-spacing: 0.8px;">출시한 </span><span style="letter-spacing: 0.8px;">데 </span><span style="letter-spacing: 0.8px;">이어, </span><span style="letter-spacing: 0.8px;">올해 </span><span style="letter-spacing: 0.8px;">7월에는 </span><span style="letter-spacing: 0.8px;">그래피오 </span><span style="letter-spacing: 0.8px;">2.0을 </span><span style="letter-spacing: 0.8px;">출시했다. </span><span style="letter-spacing: 0.8px;">연내에는 </span><span style="letter-spacing: 0.8px;">그래피오 </span><span style="letter-spacing: 0.8px;">3.0을 출시하는 것이 목표다.</span></p>
-<p><span style="letter-spacing: 0.8px;">그래피오 1.0이 온톨로지 코어 구축에 집중했다면, 그래피오 2.0은 데이터의 변화를 감지하고 이를 기반으로 업무를 실행하는 &apos;다이나믹 온톨로지&apos; 기능이 추가됐다.</span></p>
-<p><span style="letter-spacing: 0.8px;">그래피오 3.0은 실행 결과와 피드백을 메모리 시스템에 쌓아 온톨로지 성능을 지속 개선할 수 있도록 하는 것이 핵심이다.</span></p>
-<p><span style="letter-spacing: 0.8px;">엄 부사장은 "</span><span style="letter-spacing: 0.8px;">초기 온톨로지가 데이터의 맥락 파악에 집중했다면, 향후에는 추가 데이터 및 경험을 기반으로 온톨로지가 스스로 진화하는 방향으로 나아갈 것"이라며 "올해 내에 그래피오 3.0 버전을 출시하려고 준비하고 있다"고 말했다.</span></p>
-<p><span style="letter-spacing: 0.8px;">AI 페스타 2026은 과학기술정보통신부가 주최하고 한국인공지능·소프트웨어산업협회(KOSA)와 AI페스타조직위원회가 주관하는 인공지능주간 공식 행사다. 올해 행사는 지난 6일부터 8일까지 사흘간 서울 코엑스 C홀에서 열린다. 212개 기업, 501개 부스 규모로 마련돼 역대 최대 규모로 개최되며 AI 코어, 에이전틱 AI, 피지컬 AI, AI 보안, 국방 AI, AI 반도체 등 다양한 기술과 산업 적용 사례를 선보인다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>&quot;AI발 해킹 대응 민관 힘 모아야&quot;...&apos;대한민국 사이버 컨퍼런스 2026&apos; 성료</title>
-			<link>https://zdnet.co.kr/view/?no=20261008144753</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008144753</guid>
-			<author>방은주 기자</author>
-			<category>사이버보안 컨퍼런스 2026</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 08 Oct 2026 14:47:53 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/1e0050eacc967995917d5d8ce261e856.png" alt=""><p>"최근 해외 프론티어 AI가 사람이 발견하지 못한 취약점을 단시간 내 대량으로 찾아내는 시대가 도래한 만큼, 지능화된 공격에 맞설 우리의 독자적인 기술 기반이 반드시 필요합니다." <b>(최우혁 과기정통부 정보보호네트워크정책실장)</b></p>
-<p>"개인정보와 데이터를 안전하게 지키는 역량은 기업의 경쟁력이자 국가안보를 뒷받침하는 중요한 기반입니다."<b>(양청삼</b> <b>개인정보보호위원회 사무처장)</b></p>
-<p>"AI 기술은 우리 사회와 행정 전반에 새로운 변화와 가능성을 만들어가고 있지만, 동시에 AI를 활용한 새로운 위협에 어떻게 대응 할 것인지도 중요한 과제가 되고 있습니다. 이제 AI를 잘 활용하는 것만큼 AI 시대에 걸맞은 보안체계를 갖추는 것이 중요합니다."<b>(백종현 서울시 정보보안과장 겸 전국정보보호정책협의회장)</b></p>
-<hr>
-<p>서울 코엑스에서 7일 열린 ‘대한민국 사이버보안 컨퍼런스 2026’가 400여 참석자가 몰리는 성황을 이루며 막을 내렸다. </p>
-<p>국내 금융권 등에서 해킹 사고가 잇달으고 있는 가운데 열려 더 주목을 받은 이 행사는 AI페스타조직위원회와 전국정보보호정책협의회 및 서울시 정보보안과가 공동으로 주관했다. 특히 이 행사는 국내 최대 인공지능(AI) 행사로 과기정통부의 AI주간에 열리는 &apos;AI 페스타 26’과 서울시의 스마트라이프위크(SLW)가 열리는 기간에 열렸다.</p>
-<p>과기정통부와 개인정보보호위원회, 서울시가 사이버보안과 개인정보보호 정책을 소개했다. 또 기업 발표에서는 공공에서 관심이 끈 N2SF와 랜섬웨어 동향 및 대응 방안, AI 해킹, AI시대 신원 인증 등을 다뤘다. 이날 발표자들은 하나같이 AI발전에 따른 대규모 해킹 사태를 우려하며 민관이 힘을 합쳐 하루 속히 적절한 사이버보안 방어 체계를 갖춰야 한다고 강조했다.  </p>
-<img src="https://image.zdnet.co.kr/2026/10/08/1e0050eacc967995917d5d8ce261e856.png" alt="국내 사이버보안과 개인정보보호 현황과 미래를 조망한 &apos;2026 대한민국 사이버보안 컨퍼런스&apos;가 7일 서울 코엑스 300호실에서 열렸다.">
-<p>축사를 한 최우혁 과기정통부 정보보호네트워크정책실장은 인공지능 보안의 현안과 중요성을 논의하는 컨퍼런스를 뜻깊게 생각한다면서 말머리를 열었다. AI가 산업과 사회 전반의 혁신을 이끄는 핵심 기술로 자리 잡으며 새로운 성장의 기회를 열어가고 있다고 진단한 그는 "그러나 동시에 AI를 악용한 사이버 공격 역시 더욱 빠르고 정교하게 진화하고 있다. 이로 인해 우리는 단 한번의 사이버 침해사고가 국민 생활과 기업 활동 전반에 영향을 미칠 수 있는 엄중한 현실을 마주하고 있다"고 우려했다.</p>
-<p>이러한 AI 시대의 새로운 위협에 정부는 선제적으로 대응하기 위해 지속적으로 정책 역량을 강화하고 있다면서 두 차례의 &apos;범부처 정보보호 종합대책(’25.10월, ’26.1월)&apos;을 기반으로 민간의 정보보호 책임과 대응 역량을 높이고 있다고 설명했다. 이어  최근에는 &apos;AI 기반 사이버 위협에 대응하기 위한 민간 정보보호 추진계획(’26.5월)&apos;을 마련, AI 시대에 걸맞은 새로운 정보보호 체계로의 전환을 추진하고 있다고 소개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/3f4a498d47261b93d704f7260ee11713.jpg" alt="최우혁 과기정통부 정보보호네트워크정책실장이 7일 축사를 하고 있다.">
-<p>최근 해외 프론티어 AI가 사람이 발견하지 못한 취약점을 단시간 내 대량으로 찾아내는 시대가 도래한 만큼, 지능화된 공격에 맞설 우리의 독자적인 기술 기반도 반드시 필요하다면서 "이에 정부는 &apos;사이버보안 특화 AI 파운데이션 모델 개발&apos;을 본격 추진, 국내 기간산업과 국민경제의 근간을 지키는 전략적 방어체계 마련에도 박차를 가하고자 한다"면서 고도화한 사이버 위협에도 불구하고 여전히 중요한 것은 보안기본기와 선진화된 보안생태계 확립"이라고 강조했다.</p>
-<p>"민관 모두가 정보보호 투자를 확대하는 한편, 정보보호에 책임을 다하는 문화를 제도적으로 뒷받침하고 차세대 AI 정보보호 산업 생태계 육성을 위해 지원을 아끼지 않겠다"면서 "이러한 정부의 노력은 민간의 협력과 참여 없이는 완성될 수 없다. 오늘 이 자리에 계신 여러 전문가와 기업의 조언과 관심이 더해질 때 비로소 정책의 실효성도 높아질 수 있다"고 당부했다.</p>
-<p>최 실장에 이어 축사를 한 양청삼 개인정보보호위원회 사무처장은 예방 노력과 기본과 원칙 준수 등을 강조했다. 최근 금융권의 연쇄적인 유출사고와 정부 시스템을 겨냥한 해킹 시도 증가가 잇다면서 "사이버 위협이 더 이상 먼 미래의 이야기가 아니다. 우리가 지금 마주하고 있는 현실임을 실감하게 한다"면서 "AI 발전은 우리 산업과 일상을 바꾸는 데 그치지 않고, 사이버 위협의 양상까지 빠르게 변화시키고 있다"고 짚었다.</p>
-<p>이어 과거에는 많은 시간과 전문성이 필요했던 공격이 AI를 통해 더욱 빠르고 정교해지고 있다면서 "클라우드와 IoT 등 디지털 환경이 확산되면서 공격이 시작될 수 있는 지점도 크게 늘어나고 있다. 이러한 사이버 위협이 현실화될 때 국민이 가장 직접적으로 체감하는 피해 가운데 하나가 바로 개인정보 유출이다. 정보보호가 시스템과 데이터를 지키는 방패라면, 개인정보 보호는 그 방패를 통해 국민의 권리와 신뢰를 지키는 일이라고 생각한다"고 설명했다.</p>
-<p>특히 양 처장은 오늘날 사이버보안이 더 이상 개별 기업이나 기관만의 문제가 아니라면서 국민의 개인정보와 국가의 핵심 데이터, 주요 공공서비스가 긴밀히 연결된 환경에서는 한 번의 유출사고가 국민의 일상과 기업 활동을 넘어 국가의 핵심 기능과 사회의 안정성에도 영향을 미칠 수 있다고 진단했다. "이런 의미에서 개인정보와 데이터를 안전하게 지키는 역량은 기업의 경쟁력이자 국가안보를 뒷받침하는 중요한 기반"이라고 역설했다.</p>
-<p>또 최근 몇 년 사이 통신·유통·플랫폼 등 국민 생활과 밀접한 분야에서 대규모 개인정보 유출사고가 반복되고 있고, 개인정보 유출 규모가 2025년 1억 건을 넘어 2022년 대비 20배 이상 증가했다고 들려줬다. "자신의 개인정보가 안전하다고 느끼는 국민이 14%에 불과하다는 통계도 있다"면서 "이러한 상황에서 개인정보보호위원회는 사고가 발생한 뒤 조사하고 제재하는 데 머무르지 않고, 위험을 미리 발견하고 사고를 막는 사전예방 중심의 개인정보 보호체계로 정책의 중심을 옮기고 있다"고 전했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/5c48da07fa722810623cd0a0161d2eb0.jpg" alt="양청삼 개인정보보호위원회 사무처장이 7일 축사를 하고 있다.">
-<p>"그러나 모든 사고를 완전히 막을 수 있다고 장담하기 어려운 것도 현실"이라고 짚으며 "따라서 이제는 예방과 함께, 사고가 발생했을 때 피해가 확산되는 것을 신속히 차단하고 핵심 서비스와 시스템을 빠르게 정상화하는 회복탄력성 즉 ‘레질리언스’까지 갖춰야 한다"고 역설했다.</p>
-<p>이러한 방향에 맞춰 지난 9월 11일부터 개정 &apos;개인정보 보호법&apos;이 시행되고 있다. 이에 따르면, 반복적이거나 고의·중과실로 중대한 피해를 일으킨 위반행위에는 전체 매출액의 최대 10%까지 과징금을 부과할 수 있도록 책임을 강화했다.</p>
-<p>또 개인정보 보호를 위해 사전에 예산‧인력‧설비 등에 적극 투자하거나, 사고가 발생하더라도 안전한 개인정보 보호체계로 신속하게 회복‧개선하는 경우 과징금 감경이 이루어질 수 있도록 하는 체계도 마련했다. 뿐만 아니라 CEO의 개인정보 보호에 대한 최종 책임을 명확히 하고, CPO의 권한과 책임도 강화했다. 주요 공공·민간 개인정보처리자에 대한 ISMS-P 인증 의무화도 내년 7월 시행을 앞두고 있다.</p>
-<p>양 처장은 "개인정보 보호를 위한 투자는 단순히 비용을 늘리는 일이 아니다. 미리 충분히 투자해 사고를 예방하는 것이, 사고가 발생한 뒤 막대한 피해를 수습하고 잃어버린 신뢰를 회복하는 것보다 훨씬 효율적"이라면서 "개인정보 보호에 대한 투자는 국민과 고객의 신뢰를 지키고, 기업과 기관이 디지털 혁신을 지속할 수 있게 하는 기반이 된다. 이제 개인정보 보호를 민간의 경영과 공공의 행정 전반에 공통된 원칙으로 정착시켜야 한다"고 강조했다.</p>
-<p>민간에 대한 당부도 잊지 않았다. "기업은 개인정보 보호를 사고가 발생한 뒤 대응하는 문제가 아니라 경영의 핵심 과제이자 경쟁력을 위한 투자로 인식해야 한다"면서 "CEO의 최종 책임 하에 CPO‧CISO가 경영진과 함께 위험을 관리하는 책임체계를 갖춰야 합니다. 또한 서비스 기획·개발 단계부터 개인정보 보호 중심 설계, 즉 Privacy by Design을 내재화해 개인정보 보호가 기업 운영의 기본 원칙으로 자리 잡도록 해야한다"고 밝혔다.</p>
-<p>공공부문은 그 책임이 더욱 무겁다면서 "공공기관은 주민등록번호를 비롯해 복지, 조세, 고용 등 국민의 삶과 직결되는 중요한 개인정보를 폭넓게 처리하는 만큼, 더욱 높은 수준의 보호조치와 책임성을 갖추어야 한다. 이를 위해서는 시스템에 대한 보호조치를 강화하는 것과 함께 필요한 인력과 전문성을 확보하고, 개인정보 보호를 기관 차원의 핵심 업무로 관리하는 체계가 뒷받침돼야 한다"고 진단하며 "올해 6월부터 8월까지 643개 기관에서 총 3613개 개인정보시스템을 점검한 것도 이러한 책임을 실천하기 위한 과정"이라고 소개했다.</p>
-<p>개인정보보호위원회도 민간과 공공의 이러한 노력이 실제 보호역량 강화로 이어질 수 있도록 제도와 정책적 지원을 지속해 나가겠다면서 "특히 개인정보 보호가 일부 담당자의 노력에만 의존하지 않고, 기관과 기업 전체가 함께 책임지는 체계로 자리 잡을 수 있도록 뒷받침하겠다"고 말했다.</p>
-<p>정부와 민간기업, 공공기관, 연구기관, 보안기업이 각자의 경험과 전문성을 모을 때 변화하는 위협에 보다 효과적으로 대응할 수 있다면서 "오늘 이 자리가 새로운 보안기술과 현장의 경험을 나누고, 이를 실제 개인정보 보호 수준을 높이는 실천으로 이어가는 계기가 되기를 바란다. 개인정보를 보호하는 일은 개인의 권리를 지키는 데 그치지 않습니다. 우리 사회의 신뢰를 지키고, 대한민국의 산업 경쟁력과 국가안보를 뒷받침하는 일이다.개인정보보호위원회도 여러분과 함께 더욱 튼튼한 개인정보 보호체계를 만들어 가겠다"고 밝혔다.</p>
-<p>전국정보보호정책협의회장도 맡고 있는 서울시 백종현 정보보안과장은 "오늘 이 자리는 정부와 지자체의 정보보호 정책을 공유하고, 산업계와 학계의 새로운 보안기술과 흐름을 함께 살펴보기 위해 마련됐다"면서 "최근 은행권을 대상으로 AI를 악용한 해킹 사례가 잇따라 발생하고 있고, AI의 발전과 함께 사이버 위협도 더욱 지능화되고 있다. 이러한 변화에 발맞춰 올해 컨퍼런스는 &apos;AI가 만드는 미래, AI가 지키는 보안&apos;을 주제로 마련했다"고 설명했다.</p>
-<p>AI 기술은 우리 사회와 행정 전반에 새로운 변화와 가능성을 만들어가고 있지만, 동시에 AI를 활용한 새로운 위협에 어떻게 대응 할 것인지도 중요한 과제가 되고 있다면서 "이제 AI를 잘 활용하는 것만큼 AI 시대에 걸맞은 보안체계를 갖추는 것이 중요하다. 이러한 시기에 공공과 민간의 정보보호 관계자들이 한자리에 모여 서로의 정책과 경험, 기술을 공유하는 것은 매우 의미 있는 일이라고 생각한다"고 짚었다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/48147349ad5cd7571222db7a2f615d8f.jpg" alt="백종현 서울시 정보보안 과장 겸 전국정보보호정책협의회장이 7일 축사를 하고 있다.">
-<p>백 회장은 "오늘 첫 번째 세션에서는 정부의 정보보호 산업정책과 개인정보보호 공공분야 실태, 서울시 정보보호정책과 전국 정보보호정책협의회의 주요 현안을 공유하고, 두 번째 세션에서는 AI 기반 사이버보안 기술, 제로트러스트, 랜섬웨어 대응, 국가망 보안체계 등 최신 기술과 대응방향을 함께 살펴볼 예정"이라면서 "오늘 컨퍼런스가 빠르게 변화하는 사이버보안 환경을 이해하고, 각 기관의 정책과 현장에 적용할 수 있는 실질적인 해법을 함께 모색하는 자리가 되기를 바한다. 또한 기관과 지역의 경계를 넘어 서로의 경험과 지식을 나누고, 앞으로도 지속적으로 협력할 수 있는 소중한 계기가 되기를 바란다"는 기대감을 보였다.</p>]]></description>
-		</item>
-		<item>
-			<title>BMW, 수리비 200만원 이상 고객 자기부담금 최대 50만원 지원</title>
-			<link>https://zdnet.co.kr/view/?no=20261008143642</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008143642</guid>
-			<author>김재성 기자</author>
-			<category>BMW그룹코리아</category>
-			<category>BMW그룹</category>
-			<category>BMW</category>
-			<category>카테크</category>
-			<pubDate>Thu, 08 Oct 2026 14:36:42 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/a17901a161c79a53a9e189732867eede.jpg" alt=""><p>BMW그룹코리아가 사고 수리 고객의 서비스센터 이용 편의성을 높이기 위해 &apos;BMW 액시던트 케어 프로그램&apos;을 선보인다.</p>
-<p>BMW그룹코리아는 8일 BMW 공식 서비스센터에서 사고 차량 수리 고객에게 전문 수리와 부가 서비스를 제공하는 BMW 액시던트 케어 프로그램을 도입했다고 밝혔다.</p>
-<p>프로그램은 사고 발생 이후 고객이 공식 서비스센터에서 수리를 받을 수 있도록 지원하는 서비스다. BMW 공식 수리 가이드와 오리지널 부품을 바탕으로 전문 인력이 사고 수리를 진행한다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/a17901a161c79a53a9e189732867eede.jpg" alt="BMW 액시던트 케어 프로그램 (사진=BMW그룹코리아)">
-<p>BMW그룹코리아는 기존 사고차 초과 수리비 지원 서비스와 전면유리 교체 지원 서비스에 전면유리 복원 서비스, 사고차 패스트 레인, 카 워시 서비스를 추가했다.</p>
-<p>전면유리 복원 서비스는 주행 중 스톤칩 등으로 생긴 경미한 전면유리 손상을 점검하고 복원 수리하는 서비스다. 서비스센터는 손상 위치와 크기, 균열 범위 등을 검토해 수리 가능 여부를 판단한다. 손상 정도에 따라 복원이 어렵다고 판단되면 전면유리 교체를 권장할 수 있다.</p>
-<p>사고차 패스트 레인은 범퍼 또는 램프 교체가 필요한 사고 수리 차량을 우선 처리하는 서비스다. 사전 점검 뒤 적용 여부가 확정되며, 실제 수리 일정은 차량 상태와 추가 손상 여부, 부품 수급, 서비스센터 운영 상황 등에 따라 달라질 수 있다.</p>
-<p>사고 수리를 마친 차량에는 외관 세차 서비스도 제공한다. 다만 카 워시 서비스 역시 차량 상태와 서비스센터 운영 여건에 따라 제공 여부가 달라질 수 있다.</p>
-<p>BMW그룹코리아는 프로그램 도입을 기념해 이달 31일까지 총 수리비가 200만원 이상인 자차 수리 고객에게 자기부담금을 최대 50만원까지 지원한다. 부품비와 공임, 부가세를 포함한 할인 전 전체 수리 금액을 기준으로 하며 전면유리 교체도 지원 대상에 포함된다.</p>
-<p>BMW 액시던트 케어 프로그램과 특별 지원 혜택의 세부 내용은 전국 BMW 공식 서비스센터에서 확인할 수 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>BYD코리아, 씨라이언 6 DM-i 전국 연비 챌린지 진행</title>
-			<link>https://zdnet.co.kr/view/?no=20261008143313</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261008143313</guid>
-			<author>김재성 기자</author>
-			<category>BYD</category>
-			<category>BYD코리아</category>
-			<category>카테크</category>
-			<pubDate>Thu, 08 Oct 2026 14:33:13 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/08/c3c9415a4f41951ee75a8fca73ea93d3.jpg" alt=""><p>BYD코리아가 한국 진출 10주년을 맞아 플러그인 하이브리드(PHEV) SUV &apos;씨라이언 6 DM-i&apos;의 실제 주행 연비를 체험하는 고객 참여 행사를 연다.</p>
-<p>BYD코리아는 오는 10일부터 31일까지 &apos;씨라이언 6 DM-i 전국 연비 챌린지&apos;를 진행한다고 8일 밝혔다.</p>
-<p>행사는 전국 32개 BYD Auto 전시장에서 열린다. 분당, 스타필드 일산, 스타필드 빌리지 운정, 스타필드 안성, 스타필드 마켓 월계, 스타필드 시티 명지 등 6개 전시장은 제외된다. 운영 시간은 오전 10시부터 오후 6시까지로, 평일과 주말 모두 참여할 수 있다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/08/c3c9415a4f41951ee75a8fca73ea93d3.jpg" alt="BYD 씨라이언 6 DM-i 전국 연비 챌린지 (사진=BYD코리아)">
-<p>참가자는 씨라이언 6 DM-i 시승차로 전시장별 약 10㎞의 지정 코스를 주행한다. 기록한 연비에 따라 경품을 제공한다. 16㎞/L 이상 19㎞/L 미만 기록자에게는 휴대용 릴 케이블, 19㎞/L 이상 22㎞/L 미만에는 씨라이언 키링, 22㎞/L 이상에는 트래블 텀블러를 각각 증정한다.</p>
-<p>SNS 후기 행사도 함께 마련했다. 참여자가 개인 SNS에 올린 후기 가운데 우수 후기 20건을 뽑아 5만원 상당 백화점 상품권을 제공한다. 선정 결과는 다음 달 6일 BYD코리아 공식 인스타그램을 통해 발표하며, 선정 고객에게는 개별 안내한다.</p>
-<p>씨라이언 6 DM-i는 BYD코리아가 국내에 선보인 PHEV 기반 중형 SUV다. 전기 모터와 엔진을 함께 활용하는 BYD의 DM-i 기술을 적용했다. BYD코리아는 지난 6일 주행 성능과 편의사양을 강화한 사륜구동(AWD) 트림도 추가했다.</p>
-<p>BYD코리아 관계자는 "고객들이 실제 주행 환경에서 플러그인 하이브리드 기술의 연비 효율을 체험할 수 있도록 행사를 마련했다"며 "차량과 기술을 직접 경험할 수 있는 프로그램을 이어갈 계획"이라고 말했다.</p>
-<p>BYD코리아는 2016년 10월 한국 시장에 진출해 전기 지게차·트럭·버스 등 상용 전동화 제품을 판매해 왔다. 지난해 승용 브랜드를 출범한 뒤 전기차에 이어 PHEV까지 제품군을 확장했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
