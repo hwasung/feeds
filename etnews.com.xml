@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 10 Oct 2026 16:00:37 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 11 Oct 2026 12:00:38 +0900</lastBuildDate>
+		<item>
+			<title>용산전자상가, &apos;아시아 실리콘밸리&apos;로 탈바꿈…이달 첫 삽</title>
+			<link>https://www.etnews.com/20261011000030</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261011000030</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 11 Oct 2026 11:15:00 +0900</pubDate>
+			<description><![CDATA[한때 대한민국 전자산업의 중심지였던 용산전자상가가 인공지능(AI)·정보통신기술(ICT) 기반의 신산업 거점인 '아시아의 실리콘밸리'로 거듭나기 위한 본격적인 공사에 들어간다. 서울시가 2023년 용산전자상가 일대 개발전략을 발표한 이후 단계적으로 추진해 온 개발사업이 이달 첫 착공을 계기로 본격화된다. 서울시는 용산전자상가 일대 11개 특별계획구역 중 나진상가 12·13동에 해당하는 특별계획구역 5구역이 이달 중 착공에 들어간다고 11일 밝혔다...]]></description>
+		</item>
+		<item>
+			<title>김상철 한컴그룹 회장, 한글학회 &apos;특별 공로 표창&apos;…한글 발전 기여 공로</title>
+			<link>https://www.etnews.com/20261011000039</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261011000039</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 11 Oct 2026 10:43:16 +0900</pubDate>
+			<description><![CDATA[한컴그룹은 김상철 회장이 훈민정음 반포 580돌과 한글날 제정 100돌을 맞아 한글학회로부터 '특별 공로 표창'을 수상했다고 11일 밝혔다. 김 회장은 지난 9일 서울 종로구 한글학회 강당에서 열린 '580돌 한글날 경축 잔치'에서 특별 공로 표창을 받았다. 김 회장은 수상을 기념해 수상 상금 전액과 별도로 마련한 1000만원을 한글학회에 기부했다. 한글학회는 김 회장이 한글의 가치를 지키고 확산하는 데 기여한 공로를 인정해 특별 공로 표창 수...]]></description>
+		</item>
 		<item>
 			<title>바른손M카드 해킹 뒤늦게 확인…축의금 계좌·아기 정보까지 유출 가능성</title>
 			<link>https://www.etnews.com/20261010000016</link>
@@ -255,24 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 08 Oct 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[AI 기반 정보 유출 탐지 보안 전문기업 엑스큐어넷(대표이사 김정필)은 생성형 AI 정보 유출 탐지·차단 솔루션 'X-GEN AI(엑스 젠 에이아이)'가 GS 인증을 획득했다고 밝혔다. GS 인증은 소프트웨어의 기능성과 신뢰성, 사용성, 성능 효율성 등 품질을 종합적으로 평가해 일정 기준을 충족한 제품에 부여하는 소프트웨어 품질 인증이다. X-GEN AI는 기업과 공공기관이 생성형 AI와 AI 에이전트를 업무에 활용하는 과정에서 발생할 수 있는...]]></description>
-		</item>
-		<item>
-			<title>델 테크놀로지스, 엔비디아 RTX 스파크 탑재 첫 XPS 신제품  &apos;델 XPS 16 크리에이터 에디션&apos; 공개</title>
-			<link>https://www.etnews.com/20261008000015</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000015</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 08:54:07 +0900</pubDate>
-			<description><![CDATA[델 테크놀로지스(한국 대표 유상모)가 엔비디아 RTX 스파크(NVIDIA RTX Spark™) 슈퍼칩 기반 프리미엄 크리에이터 노트북 신제품 '델 XPS 16 크리에이터 에디션(XPS 16 Creator Edition)'을 공개했다. '델 XPS 16 크리에이터 에디션'은 델 노트북 포트폴리오의 최상위 라인업 중 하나인 XPS 고유의 미니멀하고 세련된 디자인과 CNC 알루미늄 소재의 슬림한 폼 팩터에 XPS 최초로 엔비디아 RTX 스파크 슈퍼...]]></description>
-		</item>
-		<item>
-			<title>드림시큐리티, AI 계정탈취 대응 &apos;FIDO2 생체인증&apos; 제안</title>
-			<link>https://www.etnews.com/20261008000004</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000004</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 08:00:00 +0900</pubDate>
-			<description><![CDATA[금융권을 겨냥한 인공지능(AI) 기반 사이버 공격이 확산하면서 비밀번호에 의존하는 기존 인증체계의 보안 강화 필요성이 커지고 있다. 드림시큐리티가 비밀번호를 사용하지 않는 FIDO2 생체인증과 제로트러스트 기반 접근통제를 결합해 계정탈취와 비인가 접근 위험을 줄이는 방안을 제시했다. 인증보안 전문기업 드림시큐리티(대표 오석주)는 최근 금융권에서 잇따른 침해사고를 계기로 FIDO2 기반 생체인증과 통합 신원·권한 관리를 중심으로 기초보안을 강화해...]]></description>
 		</item>
 	</channel>
 </rss>
