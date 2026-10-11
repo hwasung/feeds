@@ -4,7 +4,30 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Sun, 11 Oct 2026 14:01:02 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 11 Oct 2026 15:00:59 +0900</lastBuildDate>
+		<item>
+			<title>AI가 사고 치면 누가 책임지나…트럼프 &apos;개발사 책임론&apos;에 논란</title>
+			<link>https://zdnet.co.kr/view/?no=20261011105038</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261011105038</guid>
+			<author>이나연 기자</author>
+			<category>트럼프</category>
+			<category>AI</category>
+			<category>슈퍼 인텔리전스</category>
+			<category>미국</category>
+			<category>인공지능</category>
+			<category>규제</category>
+			<category>컴퓨팅</category>
+			<pubDate>Sun, 11 Oct 2026 14:30:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/11/de66f0eae7aac4c27001136bb0a24eaa.jpg" alt=""><p><span style="letter-spacing: 0.8px;">도널드 트럼프 미국 행정부가 인공지능(AI) 안전사고에 대한 개발사의 법적 책임을 강화하려는 가운데 책임 소재를 둘러싼 논쟁이 확산하고 있다. AI 에이전트가 이용자의 구체적인 지시 없이 자율적으로 행동하면서 사고 발생 시 개발사와 이용자 중 누구에게 책임을 물어야 할지 불분명해져서다.</span></p>
+<p>10일(현지시간) 블룸버그통신에 따르면 트럼프 행정부는 새로운 AI 안전 규제를 도입하는 대신 기존 법률을 활용해 AI 개발사에 사고 책임을 묻는 방안을 추진하고 있다. 스콧 베선트 미국 재무장관과 데이비드 색스 전 백악관 AI 책임자는 현행 법률에 따른 손해배상 책임이 새로운 규제보다 효과적이라는 입장이다.</p>
+<p>트럼프 대통령도 AI 모델이 통제를 벗어날 경우 법무부가 개입해야 한다고 주장했다. 트럼프 행정부가 새로 출범시킨 AI 태스크포스(TF) &apos;슈퍼 인텔리전스 포스(SIF)&apos;는 지난 9일 앤트로픽의 보안 침해 사고 이후 AI 개발사들에 보안 사고를 즉각 보고하고 피해를 해결할 것을 요구했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/11/de66f0eae7aac4c27001136bb0a24eaa.jpg" alt="도널드 트럼프 미국 대통령 (사진=로이터/뉴스1)">
+<p><span style="letter-spacing: 0.8px;">그러나 기존 법률만으로 AI 에이전트의 행동에 책임을 묻기는 쉽지 않다. AI 모델의 행동에는 개발사의 설계뿐 아니라 이용자의 지시와 사용 환경도 영향을 미치기 때문이다. </span>특히 미국 컴퓨터 사기 및 남용 방지법(CFAA)에 따라 해킹 행위의 형사책임을 묻기 위해서는 고의성 입증이 필요하다. AI 에이전트가 스스로 판단해 벌인 행동에는 이러한 요건을 적용하기 어렵다는 지적이 나온다.</p>
+<p><span style="letter-spacing: 0.8px;">의회에서는 법적 공백을 메우려는 움직임이 나타나고 있다. </span><span style="letter-spacing: 0.8px;">조시 홀리 </span><span style="letter-spacing: 0.8px;">공화당 </span><span style="letter-spacing: 0.8px;">상원의원과 크리스 머피 민주당 상원의원은 AI 모델의 해킹 능력에 합리적인 보호장치를 마련하지 않은 개발사에 민형사상 책임을 부과하는 법안을 추진 중이다.</span></p>
+<p>로리 트라한 민주당 하원의원도 지난 7일 개발사가 합리적인 주의 의무를 다했더라도 AI 모델이나 에이전트로 발생한 피해에 책임을 지도록 하는 법안 초안을 공개했다. <span style="letter-spacing: 0.8px;">AI 에이전트에 인간과 같은 고의성이 없다는 이유로 개발사가 책임을 회피하지 못하도록 하는 내용도 포함됐다.</span></p>
+<p>기존 법률의 한계를 보완하려는 움직임이 이어지는 가운데 AI 개발사의 책임 회피를 지적하는 목소리도 나온다.</p>
+<p><span style="letter-spacing: 0.8px;">줄리아 파울스 UCLA 법학전문대학원 교수는 블룸버그에 "디지털 인프라에 대한 깊은 의존성을 만들어낸 기술기업들이 이제는 그 인프라에 대한 사이버보안 위협을 무모하게 가속하면서 그로 인한 혼란에 대한 책임은 부인하고 있다"며 "이 모든 논의는 업계가 판을 짜놓은 만큼 대중이 참여할 여지는 거의 없다"고 지적했다.</span></p>]]></description>
+		</item>
 		<item>
 			<title>美 우버·리프트 기사 5만명 노조 가입…고유가·자율주행에 수입 압박</title>
 			<link>https://zdnet.co.kr/view/?no=20261011101934</link>
@@ -835,34 +858,6 @@
 <p>예선은 10월 31일(토) 온라인으로 진행한다. 상위 40개 팀(일반 20개 팀, 학생 20개 팀)의 총 160명이 12월 1일(화) 그랜드 인터컨티넨탈 서울 파르나스에서 열리는 본선에 진출한다. 본선 진출팀 가운데 우수한 성적을 거둔 팀에게는 과학기술정보통신부 부총리상, 한국인터넷진흥원 원장상, 특별상 등 상장과 함께 상금 및 부상을 준다.</p>
 <p>참가 대상은 대한민국 국적을 가진 만 19세 이상이다. 인공지능과 사이버보안에 관심이 있으면누구나 4인 1팀을 구성해 대회에 참가할 수 있다. 참가 신청은 26일(월) 14시까지다. 신청 방법 등 자세한 내용은 한국인터넷진흥원 대표 누리집의 공지사항에서 확인할 수 있다.</p>
 <p>한국인터넷진흥원 오진영 인공지능(AI)보안산업본부장은 “인공지능 기술이 빠르게 발전하면서 인공지능을 활용한 공격 자동화뿐 아니라 인공지능 자체와 이를 구동하는 환경을 노리는 새로운 보안 위협에도 대비해야 한다”며 “이번 대회가 인공지능 기반 보안 위협에 대응할 수 있는 실전형 인재를 발굴하고 우리나라의 인공지능 보안 역량을 한 단계 높이는 계기가 되길 기대한다”고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>티씨케이, 반도체 식각 SiC 포커스링 특허 정정...디에스테크노 상대 분쟁</title>
-			<link>https://zdnet.co.kr/view/?no=20261010213456</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261010213456</guid>
-			<author>이기종 기자</author>
-			<category>반도체</category>
-			<category>티씨케이</category>
-			<category>디에스테크노</category>
-			<category>식각</category>
-			<category>링</category>
-			<category>와이엠씨</category>
-			<category>와이컴</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Sat, 10 Oct 2026 21:54:21 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/10/18d8837ac93ad8f1b5c1abbb7f97debd.png" alt=""><p><span style="letter-spacing: 0.8px;">반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 1건을 정정했다. 일반적으로 특허 무효화 </span><span style="letter-spacing: 0.8px;">가능성이 있을 때 특허권자는 특허 권리범위를 좁혀 </span><span style="letter-spacing: 0.8px;">정정</span><span style="letter-spacing: 0.8px;">한다. SiC 포커스링은 반도체 식각 공정에 사용하는 소모성 부품이다.</span></p>
-<p>티씨케이는 지난 2019년 디에스테크노를 상대로 서울중앙지방법원에 특허침해소송을 제기했다. 디에스테크노는 대응 차원에서 티씨케이 특허 4건을 상대로 특허심판<span style="letter-spacing: 0.8px;">원에 </span><span style="letter-spacing: 0.8px;">여러 심판을 청구했다. 특허 3건에 대한 특허성 판단은 끝났고, 나머지 특허 1건 특허성 판단은 진행 중이다</span><span style="letter-spacing: 0.8px;">.  </span></p>
-<img src="https://image.zdnet.co.kr/2026/10/10/18d8837ac93ad8f1b5c1abbb7f97debd.png" alt="(사진=티씨케이)">
-<p><span style="letter-spacing: 0.8px;">10일 업계에 따르면 특허심판원은 지난 7일 티씨케이의 &apos;화학기상증착(CVD) 방식으로 형성된 SiC 구조체&apos; 특허(등록번호 2117888, 아래 &apos;888 특허) 정정 청구를 받아들였다. 일반적으로 특허가 정정되면 권리범위가 좁아지기 때문에 향후 분쟁에서 </span><span style="letter-spacing: 0.8px;">특허가 살아남을 가능성은 커지지만, </span><span style="letter-spacing: 0.8px;">특허 침해를 </span><span style="letter-spacing: 0.8px;">입증하기는 어려워진다. </span></p>
-<p>디에스테크노는 티씨케이의 &apos;888 특허가 무효라고 주장하지만, 2025년 7월 특허심판원은 유효라고 판단(심결)했다. 이에 앞서 특허심판원은 2023년 11월 &apos;888 특허는 무효라고 심결했지만, 특허법원이 2024년 10월 해당 심결을 취소하고 사건을 특허심판원으로 돌려보낸 바 있다. 특허심판원이 무효심판 환송사건에서 2025년 7월 유효라고 판단한 것인데, 디에스테크노는 이에 불복하고 2025년 8월 특허법원에 심결취소소송을 제기했다. 심결취소소송은 아직 본격 심리가 열리지 않았다.</p>
-<p>특허심판원이 지난 7일 티씨케이의 &apos;888 특허 정정 청구를 인용했기 때문에, 특허법원에 올라간 &apos;888 특허 무효 심결취소소송 변론도 곧 열릴 것으로 예상된다. </p>
-<img src="https://image.zdnet.co.kr/2026/10/10/3f2a947912e08105e863f43c0ceb2355.png" alt="(자료: 키프리스 / 정리: 지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">디에스테크노는 티씨케이가 특허침해소송을 제기한 2019년부터 티씨케이의 특허 4건을 상대로 특허심판원에 무효심판, 소극적 권리범위확인심판(소극심판) 등을 청구했다. 소극</span><span style="letter-spacing: 0.8px;">심판은 상대 특허를 침해하지 않았다는 판단을 구하는 분쟁이다.</span></p>
-<p>디에스테크노는 티씨케이의 &apos;SiC 소재 및 SiC 복합소재&apos; 특허(등록번호 1866869, 아래 &apos;869 특허)에 대해선 2022년 1월 무효라는 판단을 받았다. 티씨케이는 &apos;869 특허에 대해서도 정정을 시도했지만 무산됐다. </p>
-<p>디에스테크노가 티씨케이의 또 다른 특허 &apos;투과도가 다른 복수 개의 층을 갖는 SiC 반도체 제조용 부품 및 그 제조방법&apos;(등록번호 1914289, 아래 &apos;289 특허)을 상대로 청구한 무효심판에선 일부유효·일부무효 판단이 나왔다. 특허법원과 대법원 판단도 같았다. 디에스테크노가 &apos;289 특허를 상대로 특허심판원에 청구한 소극심판에서는 침해하지 않았다는 판단을 받았다. 침해소송을 심리하는 서울중앙지법 판단은 다를 수 있다.</p>
-<p>디에스테크노가 티씨케이의 &apos;투과도가 다른 복수 개의 층을 갖는 SiC 반도체 제조용 부품 및 그 제조방법&apos; 특허(등록번호 2208252, 아래 &apos;252 특허)를 상대로 특허심판원에 청구한 무효심판에선 유효 판단이 나왔다. 디에스테크노는 특허심판원 판단에 불복하고 특허법원에 심결취소소송을 제기했지만 취하했다. </p>
-<p>종합하면 티씨케이 특허 4건 중 &apos;869 특허는 무효라는 결론이 나왔고, &apos;289 특허에 대해선 일부유효·일부무효 판단과 함께 디에스테크노가 침해하지 않았다는 결론이 나왔다. &apos;252 특허에 대해선 유효라는 결론이 도출됐다. 이번에 티씨케이가 정정한 &apos;888 특허도 유효라는 판단을 받았는데, 아직 확정되진 않았다. </p>
-<p><span style="letter-spacing: 0.8px;">한편, 티씨케이는 지난 2020년 와이엠씨와 와이컴을 상대로 서울중앙지법에 특허침해소송을 제기했고, 2025년 분쟁을 합의 종결했다. 서울중앙지법은 2024년 11월 와이엠씨와 와이컴이 티씨케이 특허 2건을 침해했다고 판결한 바 있다. 분쟁 과정에서 와이엠씨와 와이컴은 티씨케이 특허 2건에 무효심판을 청구했지만 특허심판원은 모두 유효라고 판단했다. </span></p>]]></description>
 		</item>
 	</channel>
 </rss>
