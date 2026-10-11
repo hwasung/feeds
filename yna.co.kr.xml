@@ -4,7 +4,17 @@
 		<title>연합뉴스</title>
 		<link>https://www.yna.co.kr/</link>
 		<description>연합뉴스</description>
-		<lastBuildDate>Sun, 11 Oct 2026 16:00:05 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 11 Oct 2026 17:00:04 +0900</lastBuildDate>
+		<item>
+			<title>[내일의 국감](12일)</title>
+			<link>https://www.yna.co.kr/view/AKR20261011026700001</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20261011026700001</guid>
+			<pubDate>Sun, 11 Oct 2026 16:00:01 +0900</pubDate>
+			<description><![CDATA[...영국대사관), &lt;아주반&gt; 주일본대사관(10:00 주일본대사관)
+    ▲ 국방 = 병무청, 대체역 심사위원회(10:00 대전 병무청), [현장시찰] 국방과학연구소(15:00 국방과학연구소)
+    ▲ 행정안전 = 경찰청, 한국도로교통공단(10:00 경찰청)
+    ▲ 문화체육관광 = 한국콘텐츠진흥원, 국립국어원, 국립국악원, ...]]></description>
+		</item>
 		<item>
 			<title>대전시·지역 방산기업, 미 북텍사스 방산 클러스터 조성 협력</title>
 			<link>https://www.yna.co.kr/view/AKR20261011028800063</link>
@@ -261,14 +271,6 @@
 			<pubDate>Wed, 07 Oct 2026 17:20:55 +0900</pubDate>
 			<description><![CDATA[...해외로 도피한 공범 4명을 지명수배하는 한편 또다른 사건 배후자와 대만 내 조력자가 있는지를 조사하고 있다.
     한편, 북부 신베이시 지방검찰은 국책 방산연구소인 국가중산과학연구원(NCSIST) 명의를 도용해 미국 텍사스 인스트루먼츠(TI)와 글로벌 비메모리 반도체 기업인 아날로그디바이스(ADI)의 수출 통제 ...]]></description>
-		</item>
-		<item>
-			<title>[영상] 6x6 무인차량 &apos;헌터 울프&apos;, 美육군 최전방 수송 임무 도전</title>
-			<link>https://www.yna.co.kr/view/AKR20261007164100704</link>
-			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20261007164100704</guid>
-			<pubDate>Wed, 07 Oct 2026 16:55:17 +0900</pubDate>
-			<description><![CDATA[(서울=연합뉴스) 미국 방산기업 블레이드의 무인지상차량(UGV·Unmanned Ground Vehicle) '헌터 울프'가 미 육군 최전방 보병부대 무인차량 도입사업 대상 후보로 선정됐습니다. 
-    6일(현지시간) 블레이드는 자사의 디젤-전기 하이브리드 UGV '헌터 울프'가 지난 8월부터 타사의 5개 후보 차량과 실전 운용 ...]]></description>
 		</item>
 	</channel>
 </rss>
