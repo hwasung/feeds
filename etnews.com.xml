@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 11 Oct 2026 13:00:38 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 11 Oct 2026 14:00:44 +0900</lastBuildDate>
+		<item>
+			<title>앤트로픽, AI 모욕하면 대화 종료한다…이용 정책 개정</title>
+			<link>https://www.etnews.com/20261011000070</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261011000070</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 11 Oct 2026 12:37:57 +0900</pubDate>
+			<description><![CDATA[앤트로픽이 자사 인공지능(AI) 모델 '클로드'를 지속적으로 모욕하는 이용자와의 대화를 차단할 수 있도록 이용 정책을 개정했다. 9일(현지시간) BBC에 따르면 앤트로픽은 전날 이용 정책을 개정해 AI에 모욕적이거나 잔인한 행동을 반복하는 이용자의 대화를 종료할 수 있게 했다. 앤트로픽은 극단적이고 반복적인 사례에만 새 정책을 적용하겠다고 밝혔다. 일반적인 불만 제기나 모델 테스트, 연구 활동은 제외한다. 다만 모욕적 행동을 판단하는 구체적인...]]></description>
+		</item>
 		<item>
 			<title>금융권 AI 해킹, 中 조직 연루 정황…아르텍스는 개발 중단</title>
 			<link>https://www.etnews.com/20261011000066</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 08 Oct 2026 14:16:05 +0900</pubDate>
 			<description><![CDATA[블록체인 전문 매거진 블록체인투데이가 국내 최대 AI·소프트웨어(SW) 전시회 'AI X 소프트웨이브 2026'에서 블록체인 특별관을 운영한다. 디지털자산 제도화를 앞두고 블록체인 기업과 산업계 수요처를 직접 연결하는 비즈니스 플랫폼을 마련한다는 계획이다. '제11회 대한민국 소프트웨어대전, AI X 소프트웨이브 2026(AI x SOFTWAVE 2026)' 행사는 과힉기술정보통신부가 정한 소프트웨어 주간에 열리는 공식 전시회로 이 기간 다양한...]]></description>
-		</item>
-		<item>
-			<title>SK쉴더스 “AI 해킹, 새로운 공격 아닌 자동화…자산·API 관리 중요”</title>
-			<link>https://www.etnews.com/20261008000171</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000171</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 12:08:56 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 기반 해킹 공격에 대응하기 위해 기업이 관리하지 않는 외부 노출 시스템과 응용프로그램인터페이스(API)에 대한 보안 통제를 강화해야 한다는 분석이 나왔다. SK쉴더스는 최근 금융권 침해사고와 AI 기반 공격도구를 분석한 'AI 자동화 공격 시대, Shadow IT를 노린 침해사고 분석 및 대응 가이드'를 8일 공개했다. SK쉴더스는 최근 금융권 침해사고가 AI를 활용해 새로운 공격 기법을 만들어낸 사례보다는 기존 공격 과정을 자...]]></description>
 		</item>
 	</channel>
 </rss>
