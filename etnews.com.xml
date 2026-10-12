@@ -4,7 +4,52 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 12 Oct 2026 10:00:53 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 12 Oct 2026 11:00:53 +0900</lastBuildDate>
+		<item>
+			<title>인젠트, &apos;eXperDB&apos; AI 모니터링 고도화…DB 장애 예측·원인 분석 자동화</title>
+			<link>https://www.etnews.com/20261012000116</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000116</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 10:29:04 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)·데이터 플랫폼 전문기업 인젠트가 데이터베이스(DB) 장애를 사전에 예측하고 원인까지 분석하는 AI기반 지능형 운영 기능을 강화했다. 기존에 관리자가 직접 지표와 로그를 확인하던 방식에서 벗어나 AI가 이상징후를 탐지하고 진단 결과를 제시하는 자동화 체계로 전환하는 것이 핵심이다. 인젠트(대표 이형배)는 자사 통합 데이터 플랫폼 '엑스퍼DB(eXperDB)'의 AI 기반 모니터링 기능을 대폭 고도화했다고 12일 밝혔다. eXper...]]></description>
+		</item>
+		<item>
+			<title>서초구, 17일 참여형 AI 축제 &apos;서초 AI 페스타&apos; 개최</title>
+			<link>https://www.etnews.com/20261012000077</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000077</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 10:07:19 +0900</pubDate>
+			<description><![CDATA[서초구는 '양재 AI 미래융합혁신특구' 지정 2주년을 기념해 오는 17일 서초문화예술공원에서 인공지능(AI) 기술을 직접 체험하고 즐길 수 있는 '2026 서초 AI 페스타'를 개최한다고 밝혔다. 올해로 2회째를 맞는 서초 AI 페스타는 주민들이 일상 속 다양한 AI 기술을 쉽고 재미있게 접하고 AI가 가져올 미래의 변화를 직접 경험할 수 있도록 마련된 참여형 AI 축제다. 올해는 지난해보다 행사 규모와 체험 콘텐츠를 확대했다. 52개 기업·기...]]></description>
+		</item>
+		<item>
+			<title>에스에스앤씨, 외부 노출 IT 자산 보안 강화…&apos;비트사이트&apos;로 공격 표면 관리</title>
+			<link>https://www.etnews.com/20261012000075</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000075</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 10:04:35 +0900</pubDate>
+			<description><![CDATA[최근 기업의 외부 노출 시스템을 겨냥한 사이버 공격과 정보 유출 사고가 잇따르면서 인터넷에 연결된 IT 자산을 체계적으로 식별하고 관리하는 외부 공격 표면 관리(EASM)의 중요성이 커지고 있다. 특히 업무지원 시스템과 외부 연계 서비스, 협력사 시스템 등 기존 보안 관리에서 놓치기 쉬운 접점까지 점검 범위를 확대해야 한다는 지적이다. 보안 솔루션 전문기업 에스에스앤씨(SSNC)는 국내에 공급하는 '비트사이트(Bitsight)'를 통해 기업의...]]></description>
+		</item>
+		<item>
+			<title>AWS, 피지컬 AI 개발 전 과정 지원하는 오픈소스 툴체인 공개</title>
+			<link>https://www.etnews.com/20261012000055</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000055</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 09:52:31 +0900</pubDate>
+			<description><![CDATA[아마존웹서비스(AWS)가 제조·물류 현장에서 활용하는 지능형 로봇과 자율 시스템 개발을 지원하는 오픈소스 툴체인을 공개했다. 합성 데이터 생성부터 모델 학습, 시뮬레이션, 현장 배포, 지속적인 모델 개선까지 피지컬 인공지능(AI) 개발 전 과정을 지원한다. 엔비디아의 로보틱스 기술과 아마존의 로봇 운영 경험을 결합해 기업의 피지컬 AI 개발과 상용화를 지원한다는 목표다. AWS는 12일(현지시간) 지능형 기계 구축을 위한 오픈소스 스택 'AWS...]]></description>
+		</item>
+		<item>
+			<title>롯데이노베이트 EVSIS, 현대차 블루멤버스·롯데멤버스 엘포인트 이어 기아멤버스까지 제휴 확대</title>
+			<link>https://www.etnews.com/20261012000050</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000050</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 09:49:59 +0900</pubDate>
+			<description><![CDATA[롯데이노베이트의 전기차 충전 전문 자회사 이브이시스(EVSIS)가 기아멤버스와 손잡고 차량 멤버십 포인트로 EVSIS의 모바일 충전권을 구매할 수 있는 신규 서비스를 선보였다고 12일 밝혔다. 최근 기아는 EV3, EV4, EV5 등 전용 전기차 라인업을 확대하고, PV5 신규 라인업을 출시하는 등 '차량 그 이상의 플랫폼'(Platform Beyond Vehicle, PBV) 시장 진출을 본격화하고 있다. 전기차 선택지가 넓어짐에 따라, 고객...]]></description>
+		</item>
 		<item>
 			<title>아이티센엔텍, 국가보훈부 &apos;제대군인 고용우수기업&apos; 인증 획득</title>
 			<link>https://www.etnews.com/20261012000028</link>
@@ -104,6 +149,14 @@
 			<description><![CDATA[좋은 정책은 현장 목소리를 듣는 데서 시작하고, 산업 구조를 바꾸는 데서 완성된다. 창업 생태계에 필요한 것은 지원금 확대만이 아니다. 새로운 기술과 사업모델이 시장에 진입할 수 있도록 제도의 문을 여는 일이다. 화장품법과 관련한 제도 변화는 이러한 규제개혁 방향을 보여주는 사례다. 2011년 전후 화장품 원료 관리와 제조·판매업 체계가 정비되면서 기업 개발과 시장 진입 여지가 넓어졌다. 다만 이를 단일 법 개정이나 K뷰티 성장의 직접적 원인으...]]></description>
 		</item>
 		<item>
+			<title>[ET시론] AI 실증, 기술을 넘어 국가 경쟁력을 혁신하다</title>
+			<link>https://www.etnews.com/20261011000004</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261011000004</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 11 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[◇AI 경쟁의 승부는 기술개발도 중요하지만, 적용속도에 달려있다 최근 글로벌 인공지능(AI) 산업에서 벌어지고 있는 경쟁은 단순한 기술개발 경쟁을 넘어 '속도전(speed race)'으로 전개되고 있다. 오픈AI, 구글, 앤트로픽, 메타 등 글로벌 빅테크 기업들은 짧은 주기로 새로운 AI 모델을 출시하며 추론(reasoning), 코딩, 멀티모달, 에이전트 등 AI의 능력을 빠르게 확장하고 있다. 이러한 발전의 배경에는 막대한 컴퓨팅 자원의 투...]]></description>
+		</item>
+		<item>
 			<title>[전상욱의 AX시대의 고객경험] 〈12〉 AI에 해석받는 인간, 그 해석이 이끄는 마케팅</title>
 			<link>https://www.etnews.com/20261011000034</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261011000034</guid>
@@ -119,14 +172,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 11 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[“양자내성암호(PQC)는 알고리즘만 바꾼다고 끝나는 문제가 아닙니다. 암호키를 어디에서 만들고 저장하며 어떻게 보호할 것인지까지 함께 설계해야 합니다.” 이창근 키페어 대표는 국방·금융의 PQC 전환에서 HW 기반 키 보호가 핵심이라고 강조했다. PQC 알고리즘을 적용하더라도 암호키가 메모리나 파일에 남아 있으면 탈취될 수 있기 때문이다. 키 생성부터 저장, 서명까지 하드웨어(HW) 안에서 처리해야 실질적인 전환이 가능하다는 설명이다. 키페어는...]]></description>
-		</item>
-		<item>
-			<title>[ET시론] AI 실증, 기술을 넘어 국가 경쟁력을 혁신하다</title>
-			<link>https://www.etnews.com/20261011000004</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261011000004</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[◇AI 경쟁의 승부는 기술개발도 중요하지만, 적용속도에 달려있다 최근 글로벌 인공지능(AI) 산업에서 벌어지고 있는 경쟁은 단순한 기술개발 경쟁을 넘어 '속도전(speed race)'으로 전개되고 있다. 오픈AI, 구글, 앤트로픽, 메타 등 글로벌 빅테크 기업들은 짧은 주기로 새로운 AI 모델을 출시하며 추론(reasoning), 코딩, 멀티모달, 에이전트 등 AI의 능력을 빠르게 확장하고 있다. 이러한 발전의 배경에는 막대한 컴퓨팅 자원의 투...]]></description>
 		</item>
 		<item>
 			<title>유엔넷, &apos;타란튜너&apos; 앞세워 아시아 시장 공략…안정적 포스트그레SQL 운영 역량</title>
@@ -225,51 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 11 Oct 2026 12:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 경쟁의 기준이 모델의 성능만으로 결정되던 것에서 실제 서비스의 신뢰성과 안전성까지 검증하는 단계로 이동하고 있다. 한국에서도 'AI를 얼마나 잘 만드느냐'를 넘어 '얼마나 믿고 쓸 수 있게 만드느냐'를 둘러싼 경쟁이 시작됐다. 전자신문은 민간 AI 신뢰성 평가기업 셀렉트스타와 국가 차원의 AI 안전평가 체계를 구축하는 인공지능안전연구소를 찾았다. 기업이 실제로 사용하는 AI 서비스를 대상으로 맞춤형 평가와 레드티밍을 통해 취약점...]]></description>
-		</item>
-		<item>
-			<title>틸론, &apos;Dstation X&apos; 전 라인업 조달 등록 완료…공공기관 입찰 없이 구매한다</title>
-			<link>https://www.etnews.com/20261008000286</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000286</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[가상 데스크톱 인프라(VDI) 기업 틸론(대표 최백준)은 차세대 VDI 플랫폼 'Dstation X(디스테이션 X)' 제품군 5종을 조달청 디지털서비스몰에 등록했다고 11일 밝혔다. 기본형과 용도별 제품 4종을 각각 영구 라이선스와 연간 라이선스로 나눠 모두 10개 품목을 한꺼번에 올렸다. 이달 초 소프트웨어 품질인증 최고 등급인 GS인증 1등급 획득을 발표한 데 이어 조달 등록까지 마쳤다. 등록 제품은 기본형 Dstation X와 엔지니어링용...]]></description>
-		</item>
-		<item>
-			<title>STEG, 연례 컨퍼런스 &apos;EBP NEW&amp;NOW!&apos; 10월 28일 개최</title>
-			<link>https://www.etnews.com/20261008000158</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000158</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 11:35:00 +0900</pubDate>
-			<description><![CDATA[에스티이지(STEG·대표 임현길)는 오는 28일 서울 양재동 엘타워에서 연례 콘퍼런스 'EBP NEW&NOW!'를 개최한다고 11일 밝혔다. 지난해 'EBP DEVELOPER'에 이어 열리는 이번 행사의 주제는 에이전틱 엔터프라이즈(AGENTIC ENTERPRISE)다. 임현길 STEG 대표는 기조연설을 통해 인공지능(AI)을 사용하는 기업에서 AI가 스스로 일하는 기업으로 진화하기 위한 방향을 제시한다. 사람과 에이전트 AI가 기존 시스템과...]]></description>
-		</item>
-		<item>
-			<title>美 정부, AI 사고 신고·시정 의무화…“국가안보 의무”</title>
-			<link>https://www.etnews.com/20261011000052</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261011000052</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 11:33:31 +0900</pubDate>
-			<description><![CDATA[미국 도널드 트럼프 행정부가 인공지능(AI) 기업에 자사 모델로 발생한 각종 사고를 정부에 즉시 신고하고 피해를 시정하도록 의무화했다. 10일(현지시간) 미국 인터넷 매체 악시오스에 따르면 백악관 초지능 포스(SIF)는 성명을 통해 AI 사고 신고가 '중대한 국가안보 의무'라며 이같이 밝혔다. 백악관은 “AI 기업은 자사 모델 관련 사고를 즉시 공개하고 피해를 바로잡기 위해 신속하고 단호한 조치를 취해야 한다”고 강조했다. 이어 사고 발생 시...]]></description>
-		</item>
-		<item>
-			<title>용산전자상가, &apos;아시아 실리콘밸리&apos;로 탈바꿈…이달 첫 삽</title>
-			<link>https://www.etnews.com/20261011000030</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261011000030</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 11:15:00 +0900</pubDate>
-			<description><![CDATA[한때 대한민국 전자산업의 중심지였던 용산전자상가가 인공지능(AI)·정보통신기술(ICT) 기반의 신산업 거점인 '아시아의 실리콘밸리'로 거듭나기 위한 본격적인 공사에 들어간다. 서울시가 2023년 용산전자상가 일대 개발전략을 발표한 이후 단계적으로 추진해 온 개발사업이 이달 첫 착공을 계기로 본격화된다. 서울시는 용산전자상가 일대 11개 특별계획구역 중 나진상가 12·13동에 해당하는 특별계획구역 5구역이 이달 중 착공에 들어간다고 11일 밝혔다...]]></description>
-		</item>
-		<item>
-			<title>김상철 한컴그룹 회장, 한글학회 &apos;특별 공로 표창&apos;…한글 발전 기여 공로</title>
-			<link>https://www.etnews.com/20261011000039</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261011000039</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 10:43:16 +0900</pubDate>
-			<description><![CDATA[한컴그룹은 김상철 회장이 훈민정음 반포 580돌과 한글날 제정 100돌을 맞아 한글학회로부터 '특별 공로 표창'을 수상했다고 11일 밝혔다. 김 회장은 지난 9일 서울 종로구 한글학회 강당에서 열린 '580돌 한글날 경축 잔치'에서 특별 공로 표창을 받았다. 김 회장은 수상을 기념해 수상 상금 전액과 별도로 마련한 1000만원을 한글학회에 기부했다. 한글학회는 김 회장이 한글의 가치를 지키고 확산하는 데 기여한 공로를 인정해 특별 공로 표창 수...]]></description>
 		</item>
 	</channel>
 </rss>
