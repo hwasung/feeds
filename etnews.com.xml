@@ -4,7 +4,15 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 12 Oct 2026 11:00:53 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 12 Oct 2026 12:00:51 +0900</lastBuildDate>
+		<item>
+			<title>[기고] 금융감독원 조사 통지 받았다면, 자료부터 내기보다 &apos;조사 범위&apos;부터 확인해야</title>
+			<link>https://www.etnews.com/20261012000168</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000168</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 12 Oct 2026 11:29:02 +0900</pubDate>
+			<description><![CDATA[금융회사나 임직원이 금융감독원 조사·검사 또는 제재 절차에 들어가면 가장 먼저 해야 할 일은 자료를 최대한 빨리 제출하는 것이 아니다. 현재 받은 공문이 어느 기관의 어떤 권한에 따른 것인지, 조사대상 업무와 기간, 요구자료 범위, 제출기한이 무엇인지부터 정확히 구분해야 한다. '금융당국 조사'라는 한 문장으로 모든 절차를 묶으면 대응이 흔들릴 수 있다. 자본시장 불공정거래, 금융회사 검사, 회계감리는 적용 법률과 권한 구조가 다를 수 있고 금...]]></description>
+		</item>
 		<item>
 			<title>인젠트, &apos;eXperDB&apos; AI 모니터링 고도화…DB 장애 예측·원인 분석 자동화</title>
 			<link>https://www.etnews.com/20261012000116</link>
@@ -261,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 11 Oct 2026 12:00:00 +0900</pubDate>
 			<description><![CDATA[육군이 주요 지휘관 회의에 쓰는 전군 화상회의체계(VTC)에 쓰일 장비를 도입하면서 관리자 계정 통제와 기존 장비 호환 문제를 제대로 검증하지 못했다는 지적이 나온다. 현재 공급사의 펌웨어 개선으로 문제는 보완됐지만, 일부 부대는 여전히 신규 장비를 사용하지 않고 있는 상황이다. 시스템 로그를 둘러싼 추가 보안 의혹까지 제기되면서 해당 장비 도입은 더욱 미뤄질 전망이다. 11일 군 사안에 정통한 관계자에 따르면 육군이 지난해 중국 예링크의 'M...]]></description>
-		</item>
-		<item>
-			<title>[AI 세이프가드] ③ AI도 &apos;스트레스 테스트&apos; 한다……한국의 &apos;AI 안전 시험장&apos; 가보니</title>
-			<link>https://www.etnews.com/20261008000313</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000313</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 경쟁의 기준이 모델의 성능만으로 결정되던 것에서 실제 서비스의 신뢰성과 안전성까지 검증하는 단계로 이동하고 있다. 한국에서도 'AI를 얼마나 잘 만드느냐'를 넘어 '얼마나 믿고 쓸 수 있게 만드느냐'를 둘러싼 경쟁이 시작됐다. 전자신문은 민간 AI 신뢰성 평가기업 셀렉트스타와 국가 차원의 AI 안전평가 체계를 구축하는 인공지능안전연구소를 찾았다. 기업이 실제로 사용하는 AI 서비스를 대상으로 맞춤형 평가와 레드티밍을 통해 취약점...]]></description>
 		</item>
 	</channel>
 </rss>
