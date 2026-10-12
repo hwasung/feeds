@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 12 Oct 2026 12:00:51 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 12 Oct 2026 13:00:50 +0900</lastBuildDate>
+		<item>
+			<title>서울경제진흥원, 13일 KES 출전… “홀로그램AI·가상 소방훈련 등 실감 체험”</title>
+			<link>https://www.etnews.com/20261012000038</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000038</guid>
+			<author>소성렬</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 12:01:00 +0900</pubDate>
+			<description><![CDATA[공항 터미널에서 여권을 갖고 게이트를 통과하듯, 가상과 현실이 교차하는 미래 기술의 터미널에서 여러가지 이색 체험을 할 수 있는 전시공간이 마련된다. 서울시 중소기업 지원기관인 서울경제진흥원(SBA)은 13일부터 16일까지 나흘간 서울 강남구 코엑스(COEX) A홀에서 개최되는 '2026 한국전자전(KES)'에 참가해 체험형 '서울 XR(확장현실) 테마관'을 선보인다. 이번 테마관은 단순한 기업 홍보용 부스 나열에서 벗어나, 관람객이 직접 첨단...]]></description>
+		</item>
 		<item>
 			<title>[기고] 금융감독원 조사 통지 받았다면, 자료부터 내기보다 &apos;조사 범위&apos;부터 확인해야</title>
 			<link>https://www.etnews.com/20261012000168</link>
@@ -260,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 11 Oct 2026 12:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 경쟁의 기준이 모델의 성능만으로 결정되던 것에서 실제 서비스의 신뢰성과 안전성까지 검증하는 단계로 이동하고 있다. 한국에서도 'AI를 얼마나 잘 만드느냐'를 넘어 '얼마나 믿고 쓸 수 있게 만드느냐'를 둘러싼 경쟁이 시작됐다. 전자신문은 민간 AI 신뢰성 평가기업 셀렉트스타와 국가 차원의 AI 안전평가 체계를 구축하는 인공지능안전연구소를 찾았다. 기업이 실제로 사용하는 AI 서비스를 대상으로 맞춤형 평가와 레드티밍을 통해 취약점...]]></description>
-		</item>
-		<item>
-			<title>육군 VTC, 사후 보완 뒤에도 보안 의혹…도입 검증 부실 논란</title>
-			<link>https://www.etnews.com/20261010000028</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261010000028</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 11 Oct 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[육군이 주요 지휘관 회의에 쓰는 전군 화상회의체계(VTC)에 쓰일 장비를 도입하면서 관리자 계정 통제와 기존 장비 호환 문제를 제대로 검증하지 못했다는 지적이 나온다. 현재 공급사의 펌웨어 개선으로 문제는 보완됐지만, 일부 부대는 여전히 신규 장비를 사용하지 않고 있는 상황이다. 시스템 로그를 둘러싼 추가 보안 의혹까지 제기되면서 해당 장비 도입은 더욱 미뤄질 전망이다. 11일 군 사안에 정통한 관계자에 따르면 육군이 지난해 중국 예링크의 'M...]]></description>
 		</item>
 	</channel>
 </rss>
