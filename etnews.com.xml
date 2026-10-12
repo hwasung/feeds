@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 12 Oct 2026 21:00:42 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2026 07:01:25 +0900</lastBuildDate>
+		<item>
+			<title>[르포] 공무원 30명, AI로 행정서비스 직접 만들었다...더존비즈온·NIA, &apos;메이커톤&apos; 현장</title>
+			<link>https://www.etnews.com/20261012000278</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000278</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 06:00:00 +0900</pubDate>
+			<description><![CDATA[“안녕. 공공데이터를 활용해 전기차 충전소 위치를 최적화하는 행정서비스를 만들어줘.” 12일 서울 중구 더존을지타워. 한 공무원이 채팅창에 질문을 던지자 인공지능(AI) 에이전트가 즉각 답변을 쏟아냈다. AI는 전기차 등록 현황과 충전소 위치를 분석해 '충전소 공백 지역'을 시각화하는 서비스를 제안했다. 자연어 명령만으로 행정서비스를 만드는 '바이브코딩' 현장이다. 이날 열린 '공공데이터 AI 메이커톤'은 더존비즈온이 한국지능정보사회진흥원(NI...]]></description>
+		</item>
+		<item>
+			<title>융기원, 제조·모빌리티 피지컬 AI 국제심포지엄 개최…공동연구 모색</title>
+			<link>https://www.etnews.com/20261012000369</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000369</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 23:32:36 +0900</pubDate>
+			<description><![CDATA[차세대융합기술연구원(원장 김연상)이 제조와 모빌리티 분야의 피지컬 인공지능(AI) 기술을 주제로 국제 심포지엄을 열고 공동연구 방안을 논의했다. 융기원은 지난 8일 수원 광교에서 '2026년 국제융합기술심포지엄(ConTech 2026)'을 개최했다고 12일 밝혔다. 경기도와 서울대학교가 공동 주최한 이번 행사에는 국내외 연구자와 기업 관계자가 참여했다. 피지컬 AI는 로봇이나 차량처럼 실제 환경에서 움직이는 기계가 주변을 인식하고 판단해 작업을...]]></description>
+		</item>
 		<item>
 			<title>[사설] AI해킹, 보안·대응체계도 진화해야</title>
 			<link>https://www.etnews.com/20261012000297</link>
@@ -251,23 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 12 Oct 2026 13:15:01 +0900</pubDate>
 			<description><![CDATA[사이버보안 전문기업 엘에스웨어(대표 김민수)는 오는 13일부터 15일까지 인도네시아 자카르타에서 보안 콘퍼런스 'SuSEC 2026(SUPERB Security Conference 2026)'을 개최한다고 12일 밝혔다 콘퍼런스는 한국과 인도네시아가 공동으로 추진해 온 사이버보안 연구개발 성과와 인도네시아 정부·공공기관 및 지방정부를 위한 사이버 사회간접자본(SOC) 구축 전략을 공개하는 자리다. 행사는 과학기술정보통신부와 정보통신기획평가원(I...]]></description>
-		</item>
-		<item>
-			<title>서울경제진흥원, 13일 KES 출전… “홀로그램AI·가상 소방훈련 등 실감 체험”</title>
-			<link>https://www.etnews.com/20261012000038</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000038</guid>
-			<author>소성렬</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 12 Oct 2026 12:01:00 +0900</pubDate>
-			<description><![CDATA[공항 터미널에서 여권을 갖고 게이트를 통과하듯, 가상과 현실이 교차하는 미래 기술의 터미널에서 여러가지 이색 체험을 할 수 있는 전시공간이 마련된다. 서울시 중소기업 지원기관인 서울경제진흥원(SBA)은 13일부터 16일까지 나흘간 서울 강남구 코엑스(COEX) A홀에서 개최되는 '2026 한국전자전(KES)'에 참가해 체험형 '서울 XR(확장현실) 테마관'을 선보인다. 이번 테마관은 단순한 기업 홍보용 부스 나열에서 벗어나, 관람객이 직접 첨단...]]></description>
-		</item>
-		<item>
-			<title>[기고] 금융감독원 조사 통지 받았다면, 자료부터 내기보다 &apos;조사 범위&apos;부터 확인해야</title>
-			<link>https://www.etnews.com/20261012000168</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000168</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 12 Oct 2026 11:29:02 +0900</pubDate>
-			<description><![CDATA[금융회사나 임직원이 금융감독원 조사·검사 또는 제재 절차에 들어가면 가장 먼저 해야 할 일은 자료를 최대한 빨리 제출하는 것이 아니다. 현재 받은 공문이 어느 기관의 어떤 권한에 따른 것인지, 조사대상 업무와 기간, 요구자료 범위, 제출기한이 무엇인지부터 정확히 구분해야 한다. '금융당국 조사'라는 한 문장으로 모든 절차를 묶으면 대응이 흔들릴 수 있다. 자본시장 불공정거래, 금융회사 검사, 회계감리는 적용 법률과 권한 구조가 다를 수 있고 금...]]></description>
 		</item>
 	</channel>
 </rss>
