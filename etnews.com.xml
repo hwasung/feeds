@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 12 Oct 2026 17:37:56 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 12 Oct 2026 19:00:35 +0900</lastBuildDate>
+		<item>
+			<title>래블업, &apos;한국어 AI 추론 속도 향상&apos; 드래프트 모델 공개</title>
+			<link>https://www.etnews.com/20261012000347</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000347</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 18:16:21 +0900</pubDate>
+			<description><![CDATA[래블업은 한국어 기반 거대언어모델(LLM)의 답변 속도를 높이는 드래프트 모델 'GLM-5.2-NVFP4-DFlash-ko'를 오픈소스로 공개했다고 12일 밝혔다. 이번 모델은 한글날인 9일 공개됐다. 한국어 질의와 한국어 기반 에이전트 작업에서 LLM 추론을 가속화하는 드래프트 모델이다. 중국 즈푸(Z.ai)의 'GLM-5.2'를 엔비디아 4비트 부동소수점 형식(NVFP4)으로 구동할 때 함께 활용한다. 지랩(z-lab)이 공개한 디플래시(D...]]></description>
+		</item>
+		<item>
+			<title>“올림픽공원서 900대 드론쇼”…송파구 한성백제문화제 23일 개막</title>
+			<link>https://www.etnews.com/20261012000346</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000346</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 18:14:18 +0900</pubDate>
+			<description><![CDATA[한성백제 문화를 현대적 감성으로 재해석한 서울 송파구 '한성백제문화제'가 오는 23일 개막한다. 드론 900대가 하늘을 수놓는 드론쇼를 비롯해 전통문화와 미디어아트를 결합한 공연을 선보인다. 서강석 송파구청장은 12일 서울 중구 한국프레스센터에서 기자설명회를 열고 “한성백제문화제는 서사와 주제시가 있는 특별한 축제로 의미가 남다르다”라며 “올해는 60m 규모 메인 무대에서 다채로운 공연과 체험 프로그램을 선보일 예정이다”라고 말했다. 제26회...]]></description>
+		</item>
+		<item>
+			<title>[AI 해킹 대응 좌담회] 핵심망만 지켜선 부족…전방위 대응력 강화해야</title>
+			<link>https://www.etnews.com/20261012000311</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000311</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 18:00:00 +0900</pubDate>
+			<description><![CDATA[최근 금융권 연쇄 해킹으로 주변 업무지원 시스템에서 개인정보가 유출되면서 핵심 금융거래망 중심 보안체계의 사각지대가 드러났다. 인공지능(AI)을 활용한 공격 정황까지 나타난 만큼 주변 시스템과 협력사까지 보안 범위를 확대하고, 취약점을 상시 검증·조치할 수 있는 인력·예산·권한을 갖춰야 한다는 주문이 나왔다. 전자신문이 12일 서울 용산구 스틸리언 본사에서 개최한 '현실로 다가온 AI 해킹, 기업 보안 무엇을 바꿔야 하나' 특별좌담회에서는 AI...]]></description>
+		</item>
+		<item>
+			<title>[AI 해킹 대응 좌담회] 사후 점검으론 한계…상시 검증·민관 연대 필요</title>
+			<link>https://www.etnews.com/20261012000293</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261012000293</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 18:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 사이버 공격 비용과 진입장벽을 낮추면서 기업의 보안 책임 구조부터 분야별로 분산된 국가 사이버보안 대응체계까지 전면 재정비해야 한다는 전문가 제언이 나왔다. 전자신문이 12일 서울 용산구 스틸리언 본사에서 진행한 '현실로 다가온 AI 해킹, 기업 보안 무엇을 바꿔야 하나' 특별좌담회에서는 AI 시대 기업의 보안 전략과 국가 대응체계 개편 방향이 논의됐다. 참석자들은 최근 국내 금융권 해킹 사고에 대해 AI가 취약점 탐색과 공격...]]></description>
+		</item>
 		<item>
 			<title>경찰청 &apos;AI 신뢰성 기준&apos; 윤곽 나왔다…선제적 위험 관리</title>
 			<link>https://www.etnews.com/20261012000282</link>
@@ -232,42 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 12 Oct 2026 10:07:19 +0900</pubDate>
 			<description><![CDATA[서초구는 '양재 AI 미래융합혁신특구' 지정 2주년을 기념해 오는 17일 서초문화예술공원에서 인공지능(AI) 기술을 직접 체험하고 즐길 수 있는 '2026 서초 AI 페스타'를 개최한다고 밝혔다. 올해로 2회째를 맞는 서초 AI 페스타는 주민들이 일상 속 다양한 AI 기술을 쉽고 재미있게 접하고 AI가 가져올 미래의 변화를 직접 경험할 수 있도록 마련된 참여형 AI 축제다. 올해는 지난해보다 행사 규모와 체험 콘텐츠를 확대했다. 52개 기업·기...]]></description>
-		</item>
-		<item>
-			<title>에스에스앤씨, 외부 노출 IT 자산 보안 강화…&apos;비트사이트&apos;로 공격 표면 관리</title>
-			<link>https://www.etnews.com/20261012000075</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000075</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 12 Oct 2026 10:04:35 +0900</pubDate>
-			<description><![CDATA[최근 기업의 외부 노출 시스템을 겨냥한 사이버 공격과 정보 유출 사고가 잇따르면서 인터넷에 연결된 IT 자산을 체계적으로 식별하고 관리하는 외부 공격 표면 관리(EASM)의 중요성이 커지고 있다. 특히 업무지원 시스템과 외부 연계 서비스, 협력사 시스템 등 기존 보안 관리에서 놓치기 쉬운 접점까지 점검 범위를 확대해야 한다는 지적이다. 보안 솔루션 전문기업 에스에스앤씨(SSNC)는 국내에 공급하는 '비트사이트(Bitsight)'를 통해 기업의...]]></description>
-		</item>
-		<item>
-			<title>AWS, 피지컬 AI 개발 전 과정 지원하는 오픈소스 툴체인 공개</title>
-			<link>https://www.etnews.com/20261012000055</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000055</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 12 Oct 2026 09:52:31 +0900</pubDate>
-			<description><![CDATA[아마존웹서비스(AWS)가 제조·물류 현장에서 활용하는 지능형 로봇과 자율 시스템 개발을 지원하는 오픈소스 툴체인을 공개했다. 합성 데이터 생성부터 모델 학습, 시뮬레이션, 현장 배포, 지속적인 모델 개선까지 피지컬 인공지능(AI) 개발 전 과정을 지원한다. 엔비디아의 로보틱스 기술과 아마존의 로봇 운영 경험을 결합해 기업의 피지컬 AI 개발과 상용화를 지원한다는 목표다. AWS는 12일(현지시간) 지능형 기계 구축을 위한 오픈소스 스택 'AWS...]]></description>
-		</item>
-		<item>
-			<title>롯데이노베이트 EVSIS, 현대차 블루멤버스·롯데멤버스 엘포인트 이어 기아멤버스까지 제휴 확대</title>
-			<link>https://www.etnews.com/20261012000050</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000050</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 12 Oct 2026 09:49:59 +0900</pubDate>
-			<description><![CDATA[롯데이노베이트의 전기차 충전 전문 자회사 이브이시스(EVSIS)가 기아멤버스와 손잡고 차량 멤버십 포인트로 EVSIS의 모바일 충전권을 구매할 수 있는 신규 서비스를 선보였다고 12일 밝혔다. 최근 기아는 EV3, EV4, EV5 등 전용 전기차 라인업을 확대하고, PV5 신규 라인업을 출시하는 등 '차량 그 이상의 플랫폼'(Platform Beyond Vehicle, PBV) 시장 진출을 본격화하고 있다. 전기차 선택지가 넓어짐에 따라, 고객...]]></description>
-		</item>
-		<item>
-			<title>아이티센엔텍, 국가보훈부 &apos;제대군인 고용우수기업&apos; 인증 획득</title>
-			<link>https://www.etnews.com/20261012000028</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000028</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 12 Oct 2026 09:30:23 +0900</pubDate>
-			<description><![CDATA[아이티센엔텍은 국가보훈부로부터 '2026년 제대군인 고용우수기업' 인증을 획득했다고 12일 밝혔다. 제대군인 고용우수기업 인증은 5년 이상 현역으로 복무한 중·장기복무 제대군인의 일자리 창출과 고용 촉진에 기여한 기업을 발굴해 국가보훈부가 인증하는 제도다. 아이티센엔텍의 인증 유효기간은 2026년 10월 1일부터 2029년 9월 30일까지 3년이다. 아이티센엔텍은 1980년대부터 국방 분야 정보화사업을 수행했다. 육군 과학화전투훈련장(KCTC)...]]></description>
 		</item>
 	</channel>
 </rss>
