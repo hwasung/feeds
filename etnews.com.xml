@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 12 Oct 2026 08:01:42 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 12 Oct 2026 09:00:52 +0900</lastBuildDate>
+		<item>
+			<title>뉴엔AI, &apos;AI FESTA 26&apos;서 AI 인과추론부터 MCP까지 차세대 AI 기술 &apos;총망라&apos;</title>
+			<link>https://www.etnews.com/20261011000094</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261011000094</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 08:30:00 +0900</pubDate>
+			<description><![CDATA[산업 맞춤형 인공지능(AI) 분석기업 뉴엔AI(대표 배성환)는 지난 6일부터 8일까지 서울 코엑스에서 개최된 'AI FESTA 26(인공지능 페스타 2026)'에 참가해 대표 솔루션 'Quettai(퀘타아이)'와 차세대 통합 AI 라인업을 선보이며 산업계의 높은 호응을 얻었다고 12일 밝혔다. 뉴엔AI 측은 전시 기간 동안 공공기관을 비롯해 제조, 유통, 금융, IT 등 다양한 분야의 기업 및 기관이 부스를 방문했다고 전했다. 현장에서는 지식그...]]></description>
+		</item>
+		<item>
+			<title>어니컴, AI 기반 테스트 플랫폼 &apos;[ai]Q&apos;로 SW 품질검증 전 과정 AI 전환 추진</title>
+			<link>https://www.etnews.com/20261008000217</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261008000217</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 12 Oct 2026 08:00:00 +0900</pubDate>
+			<description><![CDATA[어니컴(대표 이석호)은 AI 기반 테스트 플랫폼 '[ai]Q(아이큐)'를 중심으로 소프트웨어 테스트 전 과정의 AI 전환(AX)을 추진한다고 12일 밝혔다. [ai]Q는 테스트 설계부터 실행, 결과 분석·보고까지 검증 전 과정에서 AI가 업무를 1차 수행하고, 테스트 전문가가 산출물을 검토·확정하는 통합 플랫폼이다. 어니컴은 이를 통해 기획서 분석, 테스트케이스 작성, 반복 점검, 결과 정리 등에 소요되는 작업 공수를 줄이고, 검증 업무의 생산...]]></description>
+		</item>
 		<item>
 			<title>CCTV·웹캠, 해킹 통해 전쟁 도구로 악용</title>
 			<link>https://www.etnews.com/20261012000002</link>
@@ -252,24 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 08 Oct 2026 17:41:26 +0900</pubDate>
 			<description><![CDATA[베슬AI가 업스테이지 거대언어모델(LLM) '솔라 프로4'에 추론 인프라를 제공했다고 8일 밝혔다. 솔라 프로4는 지난 9월 글로벌 LLM 마켓플레이스 '오픈라우터'에서 실제 이용량 기준 3위에 올랐다. 베슬AI는 해당 기간 솔라 프로4의 글로벌 서비스 운영을 맡아 전 세계 이용자의 추론 요청을 처리했다. 베슬AI는 업스테이지와 함께 모델 출시 일정과 예상 수요를 공유하고 추론 용량을 설계했다. 한국·유럽·미국 등 각 국가의 그래픽처리장치(GP...]]></description>
-		</item>
-		<item>
-			<title>AI 해킹, 악성 IP 차단만으론 역부족…공격 행위 탐지 중요</title>
-			<link>https://www.etnews.com/20261008000316</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000316</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 16:33:37 +0900</pubDate>
-			<description><![CDATA[최근 금융권 연쇄 해킹에 사용된 인터넷주소(IP) 대부분이 기존 위협정보에 등록되지 않은 것으로 분석됐다. 악성 IP를 차단하는 기존 방식만으로는 대응하기 어려워 비정상적인 정보 조회 등 공격 행위를 탐지하는 보안체계가 중요해진 것이다. 에스투더블유(S2W)는 최근 금융권 침해사고 관련 공격 정보를 분석한 결과를 8일 공개했다. S2W에 따르면 공격자는 해외 임대 서버와 상용 프록시를 번갈아 사용하며 접속 IP를 변경했다. 국내 IP도 활용했으...]]></description>
-		</item>
-		<item>
-			<title>도쿄도 대표단 KLID 재방문…K전자정부 혁신 노하우 전수</title>
-			<link>https://www.etnews.com/20261008000304</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261008000304</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 08 Oct 2026 16:05:35 +0900</pubDate>
-			<description><![CDATA[한국지역정보개발원(KLID)은 일본 도쿄도 디지털서비스국 공무원 대표단이 KLID를 방문했다고 8일 밝혔다. 이번 방문은 디지털 행정 추진 과정에서의 선진 사례를 공유하고 교류를 이어가기 위해 추진됐다. 도쿄도 디지털서비스국 총무부 도네 도시키) 디지털 인사전략과장을 비롯한 대표단 5명이 KLID를 찾았다. 지난해 미야사카 마나부 도쿄도 부지사를 비롯한 대표단 방문에 이어 올해도 방문한 것이다. 이날 행사에서는 양 기관이 추진 중인 핵심 디지털...]]></description>
 		</item>
 	</channel>
 </rss>
