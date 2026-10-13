@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 13 Oct 2026 19:00:54 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2026 20:01:22 +0900</lastBuildDate>
+		<item>
+			<title>코난테크놀로지, 11월 &apos;국방 AI 서밋&apos; 개최…정보분석 플랫폼 공개</title>
+			<link>https://www.etnews.com/20261013000450</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000450</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 19:11:57 +0900</pubDate>
+			<description><![CDATA[코난테크놀로지가 다음 달 열리는 '국방 AI 서밋'에서 자체 개발한 정보분석 플랫폼을 처음 공개한다. 코난테크놀로지는 다음 달 13일 서울 용산 나인트리 로카우스에서 '제5회 국방 AI 서밋'을 개최하며 자체 개발 정보분석 플랫폼 '코난 아르고스(Konan ARGOS)'을 공개한다고 13일 밝혔다. 올해 행사는 'ARGOS로 글로벌 미래 신안보를 열다'를 주제로 열린다. 코난 아르고스와 국방 온디바이스 AI 기술을 중심으로 국방 AI 발전 방향...]]></description>
+		</item>
 		<item>
 			<title>배경훈 부총리 “피지컬 AI 1강 달성해야”…얼라이언스 본격 가동</title>
 			<link>https://www.etnews.com/20261013000437</link>
@@ -261,15 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 13 Oct 2026 14:33:23 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 에이전트가 기업 업무를 자율적으로 수행하면서 보안체계도 사람 중심의 접근권한 관리에서 AI의 실제 행동을 통제하는 방식으로 전환해야 한다는 지적이 나왔다. 아카마이 테크놀로지스는 13일 인터넷 보안 현황(SOTI) 보고서 '속도, 확장성, 그리고 비인간 ID: 에이전틱 위협 환경'을 통해 이같이 밝혔다. 보고서는 AI 에이전트가 여러 시스템에 접근해 업무를 수행하면서 기존 신원·접근관리만으로는 보안 위험을 통제하기 어려워졌다고...]]></description>
-		</item>
-		<item>
-			<title>노타, AI 영상관제 최적화로 서버 구축비 최대 85% 절감</title>
-			<link>https://www.etnews.com/20261013000273</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261013000273</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 13 Oct 2026 14:31:42 +0900</pubDate>
-			<description><![CDATA[노타는 인공지능(AI) 영상관제 솔루션 '노타 비전 에이전트(NVA)'로 서버 구축 비용을 최대 85% 절감했다고 13일 밝혔다. NVA는 시각언어모델(VLM) 기반 영상관제 솔루션이다. 영상 속 객체의 행동과 상황 맥락을 분석해 위험 상황을 탐지한다. AI 에이전트가 분석 결과를 자연어로 설명하고 보고서를 작성한다. 산업안전 업무와 지능형 교통체계(ITS), 선별관제 등에 활용할 수 있다. NVA는 코오롱인더스트리 등 20여개 기업의 산업 현...]]></description>
 		</item>
 	</channel>
 </rss>
