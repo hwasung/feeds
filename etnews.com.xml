@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 13 Oct 2026 12:00:59 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2026 14:01:56 +0900</lastBuildDate>
+		<item>
+			<title>[ET톡] K푸드에 박수, 식품산업엔 눈총</title>
+			<link>https://www.etnews.com/20261013000181</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000181</guid>
+			<author>윤소진</author>
+			<category>오피니언</category>
+			<pubDate>Tue, 13 Oct 2026 13:21:29 +0900</pubDate>
+			<description><![CDATA[“식품산업도 제조업입니다.” 박진선 한국식품산업협회 회장이 지난달 기자간담회에서 한 말이다. 당연한 사실을 새삼 강조해야 하는 현실이 식품산업의 처지를 보여준다. 해외에서 성과를 내면 'K푸드'라는 이름으로 박수를 받지만 국내에서는 가격을 조정하면 배경과 관계없이 눈총부터 받는다. K푸드의 성적표는 눈부시다. 한국농수산식품유통공사(aT)에 따르면 올해 농수산식품 수출은 역대 가장 빠른 253일 만에 100억달러를 돌파했다. 라면이 전년 대비 2...]]></description>
+		</item>
 		<item>
 			<title>서울시 지원 받은 넥스트페이먼츠, 뉴욕서 기술 실증·사업화 도전</title>
 			<link>https://www.etnews.com/20261013000135</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 12 Oct 2026 16:24:20 +0900</pubDate>
 			<description><![CDATA[사이버보안의 목표가 달라지고 있다. 외부 침입을 차단하는 전통적인 보안에서 공격을 견디고 복구하는 보안으로, 나아가 공격 경험을 학습해 더욱 강해지는 보안으로 진화하고 있다. 클라우드와 인공지능(AI) 확산으로 기업의 보안 경계가 허물어지면서 보호 범위를 넓히고 기업 간 협력을 강화하는 동시에 보안체계를 통합해야 할 필요성도 커지고 있다. 전통적인 보안의 목표는 침입과 사고를 막는 '시큐리티(Security)'였다. 성벽을 높이고 문을 잠가 공...]]></description>
-		</item>
-		<item>
-			<title>中 휴머노이드 톱10 중 8곳, 韓 진출 채비…KC·상표·판매망 확보</title>
-			<link>https://www.etnews.com/20261012000274</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261012000274</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 12 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[중국 휴머노이드 판매 상위 10개 기업 중 8곳이 한국에서 인증·상표·판매처를 1개 이상 확보한 것으로 나타났다. 초기 단계인 국내 휴머노이드 시장에서 중국 업체들이 제품 인증과 브랜드 권리, 유통망을 선제적으로 확보하려는 움직임이 빨라졌다. 12일 산업 분석 보고서 '랩스딥리포트'에 따르면 중국 주요 휴머노이드 로봇 기업이 국내에서 KC 전파인증과 상표권, 판매 채널을 잇따라 확보하며 한국 시장 진입을 타진하고 있다. 세계 시장 출하 기준 상...]]></description>
 		</item>
 	</channel>
 </rss>
