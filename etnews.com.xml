@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 13 Oct 2026 17:01:07 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2026 18:01:39 +0900</lastBuildDate>
+		<item>
+			<title>“공공기관, 개인정보 관리 사각지대…외부 설문·API 보안 허점”</title>
+			<link>https://www.etnews.com/20261013000410</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000410</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 17:28:15 +0900</pubDate>
+			<description><![CDATA[다수의 공공기관이 보안 인증 여부가 확인되지 않은 외부 도구로 개인정보를 수집하고 있어 보완이 필요하다는 지적이 나왔다. 공공부문에서의 인공지능(AI) 기반 시스템 개발 과정에서도 정보 유출이 우려됐다. 박상혁 더불어민주당 의원은 13일 국회 정무위원회 개인정보보호위원회 국정감사에서 민간업체 자료를 인용해 조사 대상 공공기관 189곳 중 184곳에서 보안 미인증 외부 도구로 개인정보를 수집하고 있다고 밝혔다. 박 의원은 “구글폼이나 네이버폼 등...]]></description>
+		</item>
+		<item>
+			<title>“AI의 진화, 똑똑함에서 정확함으로”…AI 플랫폼기업 팔레트, &apos;Palette Agent&apos; 선봬</title>
+			<link>https://www.etnews.com/20261013000391</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000391</guid>
+			<author>이원지</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 17:14:29 +0900</pubDate>
+			<description><![CDATA[국내 AI 플랫폼 기업 팔레트가 지난 9월 23일 AI 에이전트 서비스 'Palette Agent'를 전 세계 시장에 공식 선보였다. 최근 글로벌 빅테크 기업들이 AI Agent 시장에 본격적으로 진입하며 경쟁을 가속화하는 가운데, Palette Agent는 여러 AI모델과 업무 도구, 맞춤형 앱 제작 기능을 하나의 환경에서 연결하는 AI 업무 플랫폼을 지향한다. AI Agent는 사용자가 모든 과정을 일일이 지시하지 않아도 주어진 목표를 달성...]]></description>
+		</item>
+		<item>
+			<title>[사설] 한국전자전(KES), 오늘을 넘어 미래로</title>
+			<link>https://www.etnews.com/20261013000309</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000309</guid>
+			<author>논설위원실</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[대한민국 첨단 기술의 오늘과 내일을 한눈에 조망하는 '한국전자전(KES) 2026'이 13일 개막식을 시작으로 나흘간의 대장정에 들어갔다. 올해 전시는 'AI 인 모션(기술을 넘어 현실로, 상상을 넘어 움직임으로)'를 슬로건으로 내걸었다. 인공지능(AI)이 이제 손에 잡히는 실행 인프라로 전환돼 산업 현장과 국민 일상 속으로 깊숙이 파고들었음을 선언하는 강력한 메시지다. 나흘간 펼쳐질 이번 행사가 대한민국 AI 실행의 현주소를 확인하고 원대한...]]></description>
+		</item>
+		<item>
+			<title>지멘스, AX 실행 로드맵 제시…&apos;인텔리전스 센터 X&apos; 본격 가동</title>
+			<link>https://www.etnews.com/20261013000376</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000376</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 16:37:48 +0900</pubDate>
+			<description><![CDATA[글로벌 산업용 소프트웨어 기업 지멘스 디지털 인더스트리 소프트웨어(이하 지멘스)가 엔터프라이즈 인공지능(AI)의 한계를 극복하고 실질적인 비즈니스 수익을 창출할 수 있는 차세대 혁신 해법을 공개했다. 지멘스는 13일 서울 강남구 조선 팰리스 프라이빗 챔버에서 개최한 '에이전틱 엔터프라이즈 커넥트 2026' 기자간담회를 개최했다. 이날 지멘스는 기업의 AI 애플리케이션 확장을 위한 새로운 엔터프라이즈 에이전틱 시스템인 '인텔리전스 센터 X'도 발...]]></description>
+		</item>
 		<item>
 			<title>[KES 2026] “AI, 단순 처리 넘어 산업 현장으로…인프라 확보·효율화가 과제”</title>
 			<link>https://www.etnews.com/20261013000371</link>
@@ -230,45 +266,9 @@
 			<title>[보안, 대한민국의 기회]〈3〉기술은 있는데 그림이 없다 - 韓 보안의 현실</title>
 			<link>https://www.etnews.com/20261013000267</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261013000267</guid>
-			<category>AI·SW·보안</category>
+			<category>오피니언</category>
 			<pubDate>Tue, 13 Oct 2026 14:25:24 +0900</pubDate>
 			<description><![CDATA[국내 보안기술이 약하다고 보기는 어렵다. 오히려 특정 영역에서는 세계 시장에서도 경쟁할 만한 제품과 기술이 적지 않다. 네트워크에 접속한 단말을 식별하고 통제하는 네트워크접근제어(NAC), 관리자와 서버·데이터베이스(DB) 접근을 제한하는 특권접근관리(PAM)와 DB 접근제어, 중요 문서의 복사와 반출을 막는 문서보안(DRM)과 데이터유출방지(DLP) 등은 오랫동안 국내 금융·공공 시장을 중심으로 발전해 왔다. 특히 국내 특유의 복잡한 환경에서...]]></description>
-		</item>
-		<item>
-			<title>박정수 씨앤에프시스템 대표, 국립중앙도서관서 &apos;CEO 독서경영&apos; 특강</title>
-			<link>https://www.etnews.com/20261013000246</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261013000246</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 13 Oct 2026 14:07:42 +0900</pubDate>
-			<description><![CDATA[씨앤에프시스템은 박정수 대표가 지난 12일 국립중앙도서관에서 도서관 실무 담당자(사서) 약 100명을 대상으로 '최고경영자(CEO) 독서경영'을 주제로 특별강연을 진행했다고 13일 밝혔다. 이번 특강은 박 대표가 꾸준한 독서를 통해 얻은 통찰과 지혜를 경영에 접목해 온 경험과 경영철학을 함께 나누기 위해 마련됐다. 책을 읽는 방법뿐 아니라 독서한 내용을 기록하고 정리하면서 실제 경영 현장에서 활용하는 과정을 중심으로 강연을 진행했다. 이날 박정...]]></description>
-		</item>
-		<item>
-			<title>뉴타닉스, 佛 AI 기업 라이액스 인수…GPU 활용 효율 높여 AI 플랫폼 경쟁력 강화</title>
-			<link>https://www.etnews.com/20261013000240</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261013000240</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 13 Oct 2026 14:04:25 +0900</pubDate>
-			<description><![CDATA[뉴타닉스가 프랑스 인공지능(AI) 컴퓨팅 오케스트레이션·관리 플랫폼 기업 라이액스 테크놀로지스를 인수했다. 기업의 에이전틱 AI 도입이 확산하면서 고가의 그래픽처리장치(GPU)를 효율적으로 활용하고, 여러 데이터센터와 클라우드에 분산된 AI 작업을 관리하는 기술의 중요성이 커진 데 따른 투자다. ◇AI 인프라 복잡성 해결…통합 플랫폼 전략 강화 뉴타닉스는 13일 서울 삼성동에서 열린 '닷넥스트 온 투어 서울' 기자간담회에서 라이액스 인수와 기술...]]></description>
-		</item>
-		<item>
-			<title>더존비즈온, NIA·레플릿과 공무원 대상 &apos;공공데이터 AI 메이커톤&apos; 개최</title>
-			<link>https://www.etnews.com/20261013000239</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261013000239</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 13 Oct 2026 14:02:35 +0900</pubDate>
-			<description><![CDATA[더존비즈온은 한국지능정보사회진흥원(NIA), 글로벌 웹 기반 코딩 플랫폼 기업 '레플릿(Replit)'과 함께 전국 공무원을 대상으로 메이커톤을 개최했다고 13일 밝혔다. 이번 행사는 행정안전부가 주관하고 NIA가 운영하는 인공지능(AI) 챔피언 양성 프로그램의 일환으로 마련됐다. 전국 각지에서 모인 공무원 30여 명이 참가해 '공공데이터 응용 프로그램 인터페이스(API)를 활용한 플랫폼 개발'을 주제로 개인별 경연을 펼쳤다. 이번 메이커톤의...]]></description>
-		</item>
-		<item>
-			<title>[ICT 시사용어] 지식 증류(Knowledge Distillation)</title>
-			<link>https://www.etnews.com/20261013000221</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261013000221</guid>
-			<author>최다현</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 13 Oct 2026 13:52:56 +0900</pubDate>
-			<description><![CDATA[지식 증류(Knowledge Distillation)는 성능이 높은 대형 인공지능(AI) 모델의 지식과 판단 방식을 더 작은 모델로 이전하는 기술이다. 처음부터 데이터를 모으고 막대한 연산 자원을 들이지 않아도 앞선 모델의 능력을 상당 부분 옮겨올 수 있다. 2015년 제프리 힌턴 등이 논문으로 체계화 했다. 지식 증류는 큰 모델을 '교사', 작은 모델을 '학생'으로 두고 교사의 출력값을 학생이 따라 배우게 하는 기법이다. 일반적인 AI 학습은...]]></description>
 		</item>
 	</channel>
 </rss>
