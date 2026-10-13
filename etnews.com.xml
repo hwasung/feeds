@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 13 Oct 2026 18:01:39 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2026 19:00:54 +0900</lastBuildDate>
+		<item>
+			<title>배경훈 부총리 “피지컬 AI 1강 달성해야”…얼라이언스 본격 가동</title>
+			<link>https://www.etnews.com/20261013000437</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261013000437</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 13 Oct 2026 18:19:22 +0900</pubDate>
+			<description><![CDATA[산업 현장의 인공지능(AI) 확산을 위한 '피지컬 AI 얼라이언스'가 기술개발 논의를 넘어 실행 중심 협력체계를 본격 가동한다. 핵심 기술 확보부터 현장 실증, 사업화까지 연계한 민·관 협력을 강화한다. 배경훈 부총리 겸 과학기술정보통신부 장관은 13일 서울 코엑스에서 열린 '피지컬 AI 얼라이언스 간담회'에서 “우리가 생각하는 피지컬 AI 세계 1강을 달성할 수 있을 정도의 목표를 세우고 실행하고 있는지 고민하고 있다”면서 5년 뒤, 3년 뒤...]]></description>
+		</item>
 		<item>
 			<title>“공공기관, 개인정보 관리 사각지대…외부 설문·API 보안 허점”</title>
 			<link>https://www.etnews.com/20261013000410</link>
@@ -51,7 +60,7 @@
 			<description><![CDATA[인공지능(AI)이 단순한 정보 처리와 판단을 넘어 물리적 기기를 제어하고 컴퓨팅 인프라 운영 효율성을 극대화하는 수단으로 진화하고 있다는 진단이 나왔다. 인프라 확보와 시스템 효율화가 중요 과제라는 지적이다. AI 산업 전문가들은 13일 코엑스에서 열린 '한국전자전(KES 2026)' 오프닝 키노트에서 AI가 대화 서비스나 거대언어모델(LLM) 이외에 산업 현장으로 확장되고 있다고 짚었다. 피지컬 AI와 시스템 인프라가 제조업에서 활용 가능하도...]]></description>
 		</item>
 		<item>
-			<title>정부 지원 끝나자 사용 &apos;뚝&apos;…비용 부담에 막힌 지역·중소병원 의료AI</title>
+			<title>정부 지원 끊기자 의료 AI도 멈췄다</title>
 			<link>https://www.etnews.com/20261013000214</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261013000214</guid>
 			<author>배옥진</author>
@@ -261,14 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 13 Oct 2026 14:31:42 +0900</pubDate>
 			<description><![CDATA[노타는 인공지능(AI) 영상관제 솔루션 '노타 비전 에이전트(NVA)'로 서버 구축 비용을 최대 85% 절감했다고 13일 밝혔다. NVA는 시각언어모델(VLM) 기반 영상관제 솔루션이다. 영상 속 객체의 행동과 상황 맥락을 분석해 위험 상황을 탐지한다. AI 에이전트가 분석 결과를 자연어로 설명하고 보고서를 작성한다. 산업안전 업무와 지능형 교통체계(ITS), 선별관제 등에 활용할 수 있다. NVA는 코오롱인더스트리 등 20여개 기업의 산업 현...]]></description>
-		</item>
-		<item>
-			<title>[보안, 대한민국의 기회]〈3〉기술은 있는데 그림이 없다 - 韓 보안의 현실</title>
-			<link>https://www.etnews.com/20261013000267</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261013000267</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 13 Oct 2026 14:25:24 +0900</pubDate>
-			<description><![CDATA[국내 보안기술이 약하다고 보기는 어렵다. 오히려 특정 영역에서는 세계 시장에서도 경쟁할 만한 제품과 기술이 적지 않다. 네트워크에 접속한 단말을 식별하고 통제하는 네트워크접근제어(NAC), 관리자와 서버·데이터베이스(DB) 접근을 제한하는 특권접근관리(PAM)와 DB 접근제어, 중요 문서의 복사와 반출을 막는 문서보안(DRM)과 데이터유출방지(DLP) 등은 오랫동안 국내 금융·공공 시장을 중심으로 발전해 왔다. 특히 국내 특유의 복잡한 환경에서...]]></description>
 		</item>
 	</channel>
 </rss>
