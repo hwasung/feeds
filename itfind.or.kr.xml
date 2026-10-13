@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>ITFIND</title>
+		<link>https://www.itfind.or.kr/</link>
+		<description>ITFIND</description>
+		<lastBuildDate>Tue, 13 Oct 2026 13:23:58 +0900</lastBuildDate>
+		<item>
+			<title>미국 AI·반도체 산업 핵심자원 확보 전략과 공급망 재편 동향</title>
+			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82a32c5da1c52cded4778aaffb033d0f&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
+			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82a32c5da1c52cded4778aaffb033d0f&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
+			<author>한국산업기술진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ AI·반도체 산업 확산으로 핵심자원의 전략적 중요성 확대
+
+o 생성형 AI와 고성능 컴퓨팅(HPC)의 확산으로 첨단 반도체뿐 아니라 데이터센터, 전력망, 에너지저장장치(ESS) 등 AI 인프라 전반에서 핵심자원 수요가 빠르게 증가
+
+- AI 반도체 제조에는 갈륨(Ga), 게르마늄(Ge), 탄탈럼(Ta), 텅스텐(W), 희토류(REE) 등이 활용되며, 데이터센터구축에는 구리(Cu), 알루미늄(Al), 리튬(Li), 니켈(Ni), 흑연(Graphite) 등이 핵심 소재로 사용- AI 산업 경쟁력은 첨단 반도체 기술뿐 아니라 이를 안정적으로 생산·운영할 수 있는 핵심자원 공급망 확보 역량에 의해 좌우되는 구조로 변화하고 있으며, 핵심 광물은 첨단산업 경쟁력과 경제 안보를 동시에 뒷받침하는 전략 자산으로 부상]]></description>
+		</item>
+		<item>
+			<title>AI·로보틱스, 동남아 제조업 혁신 주도 外 [아세안ㆍ호주 산업ㆍ에너지 동향 2026-9월-3]</title>
+			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe46b441993763e08bdc198c47ffc67d69&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
+			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe46b441993763e08bdc198c47ffc67d69&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
+			<author>한국산업기술진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 베트남 FPT Software·말레이시아 UTP, 'Energy AI' 공동 연구소 설립
+-베트남 대표 IT 기업 FPT의 자회사 FPT 소프트웨어와 페트로나스(Petronas) 산하 페트로나스 기술대학교(UTP)가 말레이시아에 'Energy AI 공동 연구소(Corporate Lab)' 설립, 양측은 인공지능(AI) 및 디지털 기술을 에너지 산업에 접목하여 석유·가스 및 신재생에너지 분야의 디지털 전환을 가속화 계획 
+-연구소는 자산 최적화, 예측 정비, 에너지 효율성 제고 등 에너지 밸류체인 전반에 필요한 첨단 AI 솔루션 연구 및 상용화에 집중하며, UTP의 연구 역량 및 학술적 전문성과 FPT의 글로벌 IT 서비스 경험을 결합해 실질적인 산업용 AI 기술을 개발하는 데 주력할 방침 
+-양 기관은 공동 연구와 더불어 차세대 에너지 AI 전문 인력 양성을 위한 교육 프로그램도 추진 예정으로 이번 협업을 통해 베트남과 말레이시아 간의 첨단 기술 협력이 강화되고, 아세안 에너지 산업의 지속 가능한 성장과 친환경 전환(Green DX)을 이끄는 계기가 될 것으로 기대
+
+2. AI·로보틱스, 동남아 제조업 혁신 주도
+-태국, 베트남, 인도네시아 등 동남아 주요 제조 거점이 단순 자동화를 넘어 피지컬 AI와 산업용 로봇을 적극 도입하고 있으며, 음성·제스처 제어 등 고도화된 인간-로봇 협업 기술을 통해 현장 작업 숙련 장벽을 낮추고 공정 효율성을 극대화 
+-AI 로봇 활용 확대에 따른 사이버 보안, 운항 안전성 등의 과제를 해결하기 위해 JS-SEZ(조호르 특별경제구역) 등에서는 데이터 프레임워크와 공유 플랫폼 구축을 추진 중으로 이를 통해 중소기업의 DX 투자 부담을 줄이고 기술 신뢰성 확보 지원 
+-피지컬 AI 및 로보틱스의 현장 안착은 글로벌 공급망 재편 속에서 동남아 제조 클러스터의 고부가가치화를 이끌 전망이며, 제조업체들은 선제적 인프라 투자와 인력 재교육을 통해 글로벌 경쟁력을 한층 강화할 것으로 기대
+
+3. 싱가포르의 AI 미래:, 진정한 AI 전환, 단순 도구 도입·배포를 넘어서야
+-싱가포르 기업들의 인공지능(AI) 도입이 단순한 소프트웨어 배포나 단발성 도구 활용 수준에 그쳐서는 안 되며, 비즈니스 모델과 조직 운영 프로세스 전반을 재설계하는 근본적 전환으로 이어져야 한다는 지적 제기 
+-성공적인 AI 전환을 위해서는 고품질 데이터 인프라 확충, 엄격한 데이터 거버넌스 수립, 전사적인 디지털 역량 강화(Up-skilling)가 필수적이며 특히 리더십 차원에서 AI 전략을 핵심 사업 목표와 밀접하게 연계하고, 구성원들이 기술 변화에 유연하게 적응할 수 있는 조직 문화를 조성하는 것을 핵심 과제로 제시]]></description>
+		</item>
+		<item>
+			<title>말레이시아, 국가 반도체 전략(NSS) 가속화 및 생태계 고도화 外 [아세안ㆍ호주 산업ㆍ에너지 동향 2026-9월-1]</title>
+			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffef160ca5ea44a1bcf4b2b63b0d661df13&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
+			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffef160ca5ea44a1bcf4b2b63b0d661df13&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
+			<author>한국산업기술진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 베트남, 희토류 정제·심층공정 기술 실증 시험 착수 승인
+-베트남 하노이시 인민위원회가 첨단 산업 및 공급망 내 고부가가치 창출을 위해 희토류 정제 및 심층공정 기술의 시험적 도입 및 실증을 승인 
+-이번 실증 사업은 환경오염을 최소화하는 친환경 추출·정제 기술력 검증과 안정적인 기술 표준 수립을 중점으로 두고 추진되며, 하노이 내 연구기관, 대학, 관련 기업  간 산학연 협력을 바탕으로 희토류 가공 수율을 높이고, 정제 과정에서 발생하는 부산물 처리 체계를 선제적으로 점검할 계획 
+-하노이시는 희토류 심공정 기술 내재화를 통해 글로벌 희토류 공급망 재편 속에서 전략적 입지를 대폭 강화하며, 고순도 희토류의 안정적 공급 체계가 마련될 경우 반도체, 전기차 배터리, 디스플레이 등 역내 첨단 제조업 유치 및 산업 고도화에 강력한 동력으로 작용할 계획 
+
+2. 아세안·WEF, 최초의 디지털 경제 전망 보고서 발표 및 DEFA 이행 강조
+-동남아시아국가연합(ASEAN)과 세계경제포럼(WEF)이 공동으로 '아세안 디지털 경제 전망(ASEAN Digital Economy Outlook)' 보고서를 최초 발간하고, 아세안 디지털 경제 프레임워크 협정(DEFA)의 가시적 이행을 촉진하기 위한 정책적 협력을 본격화 
+-양 기관은 DEFA 실행을 위한 우선 과제로 안전한 국경 간 데이터 흐름, 신뢰할 수 있는 데이터 프라이버시 체계, 고도화된 생체인증 인프라 구축을 제시 
+-아세안을 단일 디지털 시장으로 묶어 2030년까지 역내 디지털 경제 규모를 대폭 확장하는 데 목적이 있으며, 회원국 간 디지털 격차 완화와 공동 표준 채택을 통해 역내 기업들의 글로벌 경쟁력을 강화하고 외국인 직접투자(FDI) 유치를 촉진하는 유의미한 계기가 될 것으로 전망
+
+3. 말레이시아, 국가 반도체 전략(NSS) 가속화 및 생태계 고도화
+-말레이시아 정부가 글로벌 공급망 재편에 대응하여 국가 반도체 전략(NSS, National Semiconductor Strategy) 추진에 속도를 내고 있는 가운데 기존의 후공정 중심 구조에서 벗어나 IC 디자인, 첨단 패키징, 반도체 장비 및 소재 등 전반적인 반도체 가치사슬 고도화를 통해 고부가가치 첨단 산업국가로의 도약을 목표로 세움 
+-말레이시아 정부는 국내외 기업의 첨단 R&D 및 제조 시설 유치를 위해 다각적인 재정적·제도적 인센티브를 제공하는 동시에, 산업계 수요에 맞춘 고숙련 기술 인력 양성에 총력을 기울이며, 기술 내재화 및 공급망 진입을 적극 지원하여 역내 반도체 허브로서의 입지를 확고히 한다는 방침 
+-이를 통해, 미·중 기술 패권 경쟁 속에서 말레이시아가 글로벌 반도체 대체 생산 거점이자 핵심 파트너로서의 위치를 공고히 하는 데 기여할 것으로 평가되며, 이를 통해 기술 자립도를 높이고 고임금 일자리를 창출하는 등 지속 가능한 경제 성장의 견인차 역할을 할 것으로 전망]]></description>
+		</item>
+		<item>
+			<title>아세안, 인공지능 시대의 불균형 성장 전망 外 [아세안ㆍ호주 산업ㆍ에너지 동향 2026-9월-2]</title>
+			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffee77fc6bd9e4df33e43a740570a03b5fb&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
+			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffee77fc6bd9e4df33e43a740570a03b5fb&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
+			<author>한국산업기술진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 인도네시아·싱가포르, 중소기업 수출 지원 AI 자문 플랫폼 도입
+-인도네시아와 싱가포르가 중소기업의 해외 시장 개척을 지원하는 AI 기반 자문 플랫폼을 공동 도입, 해당 플랫폼은 실시간 무역 데이터, 관세 및 규제 정보를 분석·제공하여 중소기업의 수출 행정 부담과 정보 비대칭을 최소화하는 데 중점을 두었음 
+-양국은 싱가포르의 디지털 인프라와 인도네시아의 중소기업 기반을 결합해 역내 디지털 무역 협력을 강화한다는 방침으로 이를 통해 중소기업의 글로벌 가치사슬(GVC) 편입을 가속화하고, 향후 아세안 전역으로 적용을 확대해 역내 교역 활성화를 이끌 것으로 기대
+
+2. 필리핀, 아세안 역내 무역·투자 및 디지털 연계성 강화 추진
+-필리핀 정부가 아세안 회원국들과의 통상·투자 협력을 대폭 확대하고, 역내 디지털 연계성을 강화하기 위한 정책적 행보를 가속화 중 
+-필리핀은 디지털 무역 활성화를 목표로 국경 간 데이터 이동 자유화, 전자상거래 규제 표준화, 디지털 ID 및 인프라 연동을 적극 추진하며, 이와 함께 통관 절차의 디지털화와 비관세 장벽 완화를 통해 역내 교역 비용을 절감하고, 중소기업의 글로벌 가치사슬 진입을 실질적으로 지원하는 데 주력 
+-필리핀 정부는 디지털 및 친환경 전환 분야에서의 역내 협력을 바탕으로 제조, 정보통신기술(ICT), 물류 등 핵심 산업 부문으로의 외국인 직접투자(FDI) 유치를 확대한다는 방침으로 이러한 전략적 이행은 필리핀의 산업 경쟁력을 제고하는 동시에 아세안 경제공동체(AEC)의 하나의 시장 및 생산 거점 구축을 한층 앞당길 것으로 기대
+
+3. 아세안, 인공지능 시대의 불균형 성장 전망
+-DBS·베인·브리엔스 보고서에 따르면 아세안 주요 6개국은 2026~2035년 연평균 4.8% 성장(지난 10년 4.1%)이 예상되나, AI 혁명과 구조적 차이로 역내 성장 격차 및 질적 양극화가 심화될 것으로 경고 
+-글로벌 AI·반도체 투자를 흡수한 싱가포르(OpenAI·Anthropic 유치)와 말레이시아(미·중 반도체 공급망 거점)가 최대 수혜국으로 꼽히며, 베트남 역시 견조한 제조업을 바탕으로 강력한 성장세를 유지할 전망 
+-반면 태국(고령화·가계부채·정치 불안), 인도네시아(포퓰리즘 재정·자본 유출 위험), 필리핀(AI 자동화에 따른 BPO 산업 위협)은 구조적 악재로 인해 성장 하방 리스크에 노출되어 있는 것으로 평가]]></description>
+		</item>
+		<item>
+			<title>글로벌 기후재원 확대와 투자·금융 질서 재편</title>
+			<link>https://www.konetic.or.kr/user/P/PA/PA005_R01.do?q=foot&amp;cntnsId=PA000005&amp;cntnsSn=8559&amp;cntnsIdUnit=PA000005&amp;cntnsId=PA000005&amp;cntnsSn=8559</link>
+			<guid isPermaLink="true">https://www.konetic.or.kr/user/P/PA/PA005_R01.do?q=foot&amp;cntnsId=PA000005&amp;cntnsSn=8559&amp;cntnsIdUnit=PA000005&amp;cntnsId=PA000005&amp;cntnsSn=8559</guid>
+			<author>한국환경산업기술원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 글로벌 기후재원 격차와 재원 질서 전환의 배경
+o 글로벌 기후재원은 2024년 최초로 2조 달러를 돌파했으나 필요액(2025~2030년 연평균 7조 8,000억 달러)의 4분의 1 수준에 머물러 있으며, 중국을 제외한 개도국은 2035년까지 연 1조 3,000억 달러의 외부 재원이 필요
+o 재원의 내부 구성은 완화 편중·적응 과소의 불균형을 보이고 있으며, 선진국 공여가 3년 연속 1,000억 달러를 초과했음에도 적응재원 2배 확대 목표의 달성은 불확실
+o 국제 기후재원 체제는 2009년 1,000억 달러 공약에서 출발해 2024년 NCQG의 이중 목표 채택, 2025년 바쿠-벨렝 로드맵 공개와 벨렝 패키지 채택으로 단계적으로 확장
+o 새 질서는 선진국 공공재원 총량 관리에서 금융시스템 전체의 재편으로 무게중심을 옮기는 전환점이며, 미국의 파리협정 탈퇴(2026년 1월 발효)라는 역풍 속에서 진행. 기후재원은 글로벌 자본의 흐름을 결정하는 투자·금융 질서 재편의 중심 의제로 부상]]></description>
+		</item>
+		<item>
+			<title>‘처리’에서 ‘순환’으로…환경산업, 핵심 인프라가 되다</title>
+			<link>https://www.pwc.com/kr/ko/insights/industry-focus/deals-article-01.html</link>
+			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/deals-article-01.html</guid>
+			<author>삼일PwC</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[환경산업은 오랫동안 안정적인 현금흐름을 창출하는 업종으로 평가받아 왔다. 산업이 발전할수록 폐기물 처리 수요는 꾸준히 늘어나는 반면, 높은 인허가 장벽은 신규 사업자의 진입을 어렵게 하기 때문이다. 이런 특성에 주목한 사모펀드(PEF)의 투자가 이어졌고, 지속적인 인수·합병(M&A)을 거치며 다수의 대형 환경 플랫폼이 탄생했다.
+
+최근에는 시장의 흐름도 달라지고 있다. 2024년부터 올해 초까지 대형 환경 플랫폼의 경영권이 다른 PEF로 넘어가는 세컨더리 거래가 잇따랐다. 이들 자산이 운영 개선과 추가 투자를 거쳐 다시 시장에 나오기까지는 상당한 시간이 필요하다. 당분간 환경산업 M&A의 무게중심이 대형 플랫폼 거래보다 기존 플랫폼의 사업 영역과 처리 역량을 넓히는 중소형 볼트온(Bolt-on) 거래에 실릴 것으로 보는 이유다.]]></description>
+		</item>
+		<item>
+			<title>CEO가 지켜야 할 AI 시대의 핵심 자산, ‘엔터프라이즈 코텍스(Enterprise Cortex)’란 무엇인가</title>
+			<link>https://blog.naver.com/PostList.naver?blogId=bcg_kr&amp;from=postList&amp;categoryNo=6&amp;parentCategoryNo=6</link>
+			<guid isPermaLink="true">https://blog.naver.com/PostList.naver?blogId=bcg_kr&amp;from=postList&amp;categoryNo=6&amp;parentCategoryNo=6</guid>
+			<author>Boston Consulting Group</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[AI가 기업의 업무와 의사결정에 깊숙이 들어오면서 CEO가 고민해야 할 문제도 달라지고 있다. 이제 중요한 것은 어떤 AI를 도입할 것인가를 넘어, AI의 활용 범위를 넓히면서도 기업 고유의 지식과 판단체계에 대한 주도권을 어떻게 유지할 것인가다. AI가 기업의 문제를 해석하고 판단하는 역할까지 맡게 될수록, 특정 AI에 대한 의존을 줄이면서 기업만의 지식과 판단 역량을 지속적으로 축적하고 발전시키는 것이 중요해지고 있다]]></description>
+		</item>
+		<item>
+			<title>AI 무역인재 양성 - 이론편 : 디지털 통상과 AI의 이해</title>
+			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/i1Q1LU25CRYt.do</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/i1Q1LU25CRYt.do</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o WTO 다자주의의 한계와 경제안보의 부상으로 지역경제통합이 확대되고 있으며, 디지털 통상규범은 새로운 통상질서 형성의 핵심 요소가 되고 있다.
+o 디지털 전환(DX)은 전산화와 디지털화를 넘어 기업의 업무방식, 산업구조, 비즈니스 모델을 근본적으로 변화시키는 과정이다.
+o 생성형 AI와 AI Agent의 등장은 산업 전반의 생산성 향상과 무역업무 자동화를 촉진하고 있으며, AI 활용 능력은 기업 경쟁력의 중요한 요소가 되고 있다.
+o 미·중 전략경쟁, 팬데믹, 지정학적 갈등으로 글로벌 공급망은 효율성 중심에서 안정성·회복탄력성 중심으로 재편되고 있다.
+o 무역구조는 상품 중심에서 데이터·서비스·플랫폼 기반 무역으로 전환되고 있다]]></description>
+		</item>
+		<item>
+			<title>AI 무역인재 양성 - 실기편 : AI 무역실무와 AI 무역지원센터 활용</title>
+			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/xMk2pGxLyQaX.do</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/xMk2pGxLyQaX.do</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[무역을 지원하는 기관과 서비스는 다양하지만, 이 교재에서는 대한민국의 무역을 진흥하는 대표 공공기관인 대한무역투자진흥공사(KOTRA)의 사업을 중심으로 설명한다. KOTRA는 전 세계 86개국 132개 해외무역관 네트워크(2026년 7월 기준)와 디지 털 플랫폼을 바탕으로 중소기업의 수출 전 과정을 지원하며, 최근에는 AI 기술을 접목한 서비스를 빠르게 확대하고 있다.]]></description>
+		</item>
+		<item>
+			<title>생성형 AI와 생산성 수수께끼: 통계 측정의 구조적 한계 [주간 글로벌 경제 리뷰 10월 2주차]</title>
+			<link>https://www.deloitte.com/kr/ko/our-thinking/global-economic-review/ger-2026-10-2nd.html</link>
+			<guid isPermaLink="true">https://www.deloitte.com/kr/ko/our-thinking/global-economic-review/ger-2026-10-2nd.html</guid>
+			<author>Deloitte</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[생성형 인공지능(Generative AI)이 급격하게 도입되면서, 다양한 인지 및 서비스 활동에서 효율성이 크게 올라갔다는 증거가 잇따르고 있다. 경제협력개발기구(OECD)에 따르면 2024년 회원국 평균 노동 생산성 증가율이 1.2%에 달해, 2023년의 두 배 수준을 기록했다. OECD는 이러한 변화가 AI의 생산성 향상 효과가 나타나기 시작했다는 초기 신호일 수 있다고 분석했다.]]></description>
+		</item>
+		<item>
+			<title>AI 데이터센터 확산에 따른 미국 중서부 전력 공급 병목과 유망 전력기자재 진출전략</title>
+			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/t8v0OOeAfqjj.do</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/t8v0OOeAfqjj.do</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[최근 미국 전력시장은 데이터센터, 첨단 제조시설 및 전기화 수요 증가로 장기간의 저성장 국면에서 벗어나고 있다. 특히 생성형 인공지능과 클라우드 서비스 확산으로 대규모 전력을 안정적으로 공급하기 위한 전력망과 관련 기자재의 중요성이 커지고 있다. 미국 중서부는 광역 통신망, 넓은 산업용 부지, 경쟁력 있는 전력 요금 및 투자 인센티브를 바탕으로 주요 데이터센터 투자 지역으로 부상하고 있다. 아마존과 마이크로소프트 등 글로벌 기업의 투자가 인디애나, 오하이오, 아이 오와 및 위스콘신 등으로 확산되는 추세다.
+반면 발전소, 송전선, 변전소 및 배전망 확충에는 상당한 시간이 필요하다. 인허가와 송·변전 설비 보강, 핵심 기자재의 장기 납기가 전력 공급을 지연시키는 가운데 중서부 지역 전력계통 운영기관도 수요 전망을 상향하고 있어 관련 기자재 수요는 지속해서 확대될 전망이다.
+주요 유망 품목은 대형 및 배전용 변압기, 중압 스위치기어, 배전반, 중압 케이블, 버스웨이, 무정전전원장치 및 에너지저장장치 등이다. 변압기와 중압 케이블은 국내 제품의 수출 경쟁력을 활용할 수 있으며 스위치기어와 배전반은 현지 기업과의 협력이 주요 진입 방안이 될 수 있다.
+우리 기업은 제품별 기술 규격과 안전 인증, 납기 관리 및 현지 서비스 체계를 갖추고 현지 수요처와 공급망에 맞는 진출전략을 마련해야 한다. 초기에는 인증과 수출실적을 보유한 품목을 중심으로 공급 기반을 확보한 후 현지 조립과 생산으로 사업을 단계적으로 확대해 나갈 필요가 있다.]]></description>
+		</item>
+		<item>
+			<title>[해외 시행 예고 규제] 2026년 9월 전자정보분야 해외기술규제 현황</title>
+			<link>https://www.gokea.org/core/?cid=53&amp;uid=52996&amp;page=&amp;role=view&amp;cate1=%ED%95%B4%EC%99%B8%EA%B8%B0%EC%88%A0%EA%B7%9C%EC%A0%9C</link>
+			<guid isPermaLink="true">https://www.gokea.org/core/?cid=53&amp;uid=52996&amp;page=&amp;role=view&amp;cate1=%ED%95%B4%EC%99%B8%EA%B8%B0%EC%88%A0%EA%B7%9C%EC%A0%9C</guid>
+			<author>한국전자정보통신산업진흥회</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[2026년 9월 해외기술규제(미/통보문)에 대한 상세 내역입니다. 보다 자세한 내역은 첨부자료를 확인하여 주시기 바라며, 상세 내역은 NOWTBT(https://www.knowtbt.kr) 홈페이지에서 해외기술규제→해외시행예고규제에서 검색을 통해 확인하실수 있습니다.
+
+여러분의 해외 기술규제 대응에 유용한 참고자료가 되기를 바라며,
+추가적인 문의나 피드백이 있으실 경우 언제든지 연락주시기 바랍니다.
+* 문의 : KEA ESG&글로벌협력실 yujin3458@gokea.org｜02-6388-6183]]></description>
+		</item>
+		<item>
+			<title>중앙아시아 젊은 세대의 콘텐츠 소비와 한류 [러시아 특화 26-02호]</title>
+			<link>https://www.kocca.kr/shortUrl/11Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/11Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[중앙아시아의 콘텐츠 시장은 빠르게 변화하고 있음. 중앙아시아 국가들은 오랫동안 러시아어와 러시아·소비에트 문화의 강한 영향을 받아 왔으며, 이러한 역사적 배경은 독립 이후에도 방송·영화·음악을 비롯한 콘텐츠 소비에 지속적인 영향을 미침. 그러나 최근에는 국가언어와 자국 콘텐츠의 성장, 인터넷과 스마트폰의 확산, 글로벌 디지털 플랫폼의 보급, 해외 콘텐츠 공급원의 다양화가 동시에 진행되면서 콘텐츠 소비환경이 점차 복합적으로 변화하고 있음.]]></description>
+		</item>
+		<item>
+			<title>2026년 국가별 ICT 진출환경 보고서_일본</title>
+			<link>https://www.globalict.kr/country/country_list.do?menuCode=040100&amp;knwldNo=145924</link>
+			<guid isPermaLink="true">https://www.globalict.kr/country/country_list.do?menuCode=040100&amp;knwldNo=145924</guid>
+			<author>정보통신산업진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[시장 규모 및 전망 
+o 일본 ICT 시장은 2031년 6,106억 달러(약 838.7조 원)로 연평균 7.1% 성장할 전망이며, '2025년의 절벽' 이후 노후 시스템의 교체·전환 수요를 중심으로 클라우드와 IT 서비스가 두 자릿수 성장을 이어가고 있음
+
+o 한일 ICT 교역은 일본의 AI 인프라 투자에 따른 메모리·SSD 수요로 2025년 반등했으며, 소재·장비 수입과 반도체·저장장치 수출이 교차하는 상호보완적 분업 구조가 형성됨]]></description>
+		</item>
+		<item>
+			<title>태국 콘텐츠 IP 라이선싱 비즈니스 시장 현황과 한국 기업의 진출 전략 [태국 특화 26-07호]</title>
+			<link>https://www.kocca.kr/shortUrl/z1Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/z1Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 태국 콘텐츠 IP 라이선싱 시장의 구조
+
+1. 콘텐츠 IP(지식재산, Intellectual Property) 라이선싱 비즈니스의 개념과 유형
+
+- 콘텐츠 IP 라이선싱은 권리자가 소유권을 유지한 채 정해진 기간과 지역, 상품군 안에서 이용권을 부여하는 계약임1) 
+- 라이선스는 권리가 원소유자에게 남는다는 점에서 양도와 구별됨. 양도는 권리 자체가 이전되는 거래임
+- IP 계약 시에는 대상 IP, 허용지역, 판매채널, 계약기간, 로열티, 최소보장금, 품질승인, 재고 처리, 위반 시 조치가 포함되어야 함]]></description>
+		</item>
+		<item>
+			<title>국내 ETF 상장폐지 사유의 변화와 투자자 유의사항</title>
+			<link>https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6860</link>
+			<guid isPermaLink="true">https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6860</guid>
+			<author>자본시장연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[국내 ETF 상장종목 수는 2018년말 413개에서 2025년말 1,058개로 늘었고 2026년 8월말에는 1,163개를 기록했다. 2018년부터 2026년 9월까지 상장폐지된 ETF는 217개로, 소규모 임의해지 178개(82.0%), 존속기한 만료 34개(15.7%), 상관계수 기준 미달 5개(2.3%)였다. 2018~2022년에는 모두 소규모 임의해지였으나 2023년부터 존속기한 만료가 늘었고, 2026년에는 상관계수 기준 미달로 상장폐지된 사례가 처음 나왔다.
+
+상장폐지가 예고되면 투자자는 최종 매매가능일까지 장내매도하거나 계속 보유한 뒤 해지상환금을 받을 수 있다. 두 방식은 적용 가격과 현금화 시점이 다르므로 시장가격과 iNAV의 괴리, 최종 매매가능일, 거래정지ㆍ상장폐지일, 해지기준일과 지급일을 함께 확인할 필요가 있다.]]></description>
+		</item>
+		<item>
+			<title>자산재평가의 현황과 경제적 의미</title>
+			<link>https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6862</link>
+			<guid isPermaLink="true">https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6862</guid>
+			<author>자본시장연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[최근 저PBR 기업의 가치제고와 함께 기업이 보유한 자산의 장부가치가 실제 경제적 가치를 충분히 반영하는지에 대한 관심이 높아지고 있다. 자산재평가는 토지나 건물 등의 장부금액을 공정가치에 기초해 다시 측정하는 회계처리로, 자산가치가 상승한 경우 총자산과 자기자본이 증가하고 부채비율이 낮아질 수 있다. 다만 이러한 변화가 새로운 이익이나 현금흐름의 발생을 의미하는 것은 아니며, 자기자본의 증가로 PBR은 오히려 낮아질 수 있다. 국내 자산재평가 공시는 재평가모형 적용이 허용된 직후인 2009~2010년에 집중되었으며, 재평가 대상은 대부분 토지였다. 장기간 보유한 토지의 장부금액과 현재 시장가치 간 차이가 큰 경우, 재평가는 장부에 충분히 반영되지 않았던 자산가치를 시장에 전달하여 투자자의 판단을 돕는 역할을 할 수 있다. 본고의 분석 결과, 높은 토지비중과 부채비율, 낮은 PBR과 현금보유비율을 가진 기업에서 자산재평가를 할 가능성이 높은 것으로 나타났다. 자산재평가는 기업이 보유한 자산의 현재 가치를 보다 투명하게 보여주는 수단이 될 수 있지만, 기업가치 제고로 이어지기 위해서는 재평가 이후의 자산 활용, 수익성 개선, 투자 및 주주환원 등 실질적인 가치 창출 활동이 함께 이루어질 필요가 있다.]]></description>
+		</item>
+		<item>
+			<title>중앙아시아 콘텐츠시장의 재편과 한류 [러시아 특화 26-01호]</title>
+			<link>https://www.kocca.kr/shortUrl/01Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/01Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[중앙아시아 콘텐츠 시장에 대한 이해를 위해 지역 특유의 문화적·언어적 구조를 우선적으로 살펴볼 필요가 있음. 카자흐스탄과 우즈베키스탄을 비롯한 중앙아시아 국가들은 러시아 제국의 지배와 소비에트 체제를 거치며 장기간 러시아어 문화공간의 영향을 받아 왔음. 특히 소비에트 시기 러시아어는 행정·교육·학술·방송·영화·출판 등 다양한 분야에서 주요 공용어로 기능함. 소비에트의 교육제도와 세속주의, 도시문화, 여성의 사회참여, 문화예술 및 미디어 제도 역시 중앙아시아 사회의 현대화 과정에 큰 영향을 미침]]></description>
+		</item>
+		<item>
+			<title>최근 상장기업 자기주식 취득 공시의 특징과 시장 반응</title>
+			<link>https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6863</link>
+			<guid isPermaLink="true">https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6863</guid>
+			<author>자본시장연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[2024년부터 기업 밸류업 지원방안이 시작되면서 기업들은 그 일환의 하나로 주주환원 활동을 확대하고 있다. 2026년 3차 상법 개정이 시행된 이후에는 자기주식 취득 후 1년 내 소각이 의무화되면서 소각 또한 증가하고 있다. 2024년부터 2026년 9월 28일까지 유가증권시장에 상장된 기업들을 대상으로 살펴본 자기주식 취득공시는 282건이며, 그 중 280건이 주가안정과 주주가치 제고, 임직원 보상을 위한 목적이었다. 이들 기업을 대상으로 분석한 결과 공시일 전후 평균 누적초과수익률은 4.13%로 나타났다. 그동안 우리나라의 경우 자기주식 취득 후 활용계획을 알기 어려웠기 때문에, 해당 공시를 기업가치에 대한 긍정적인 신호로만 보기에 한계가 있었다. 보유ㆍ처분계획의 공개 범위 확대는 이러한 불확실성을 줄이는 데 기여할 것으로 기대된다.]]></description>
+		</item>
+		<item>
+			<title>무기한선물의 제도권 편입과 파생상품시장의 변화</title>
+			<link>https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6861</link>
+			<guid isPermaLink="true">https://www.kcmi.re.kr/publications/pub_detail_view?syear=2026&amp;zcd=002001016&amp;zno=1939&amp;cno=6861</guid>
+			<author>자본시장연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[무기한선물은 만기가 없는 선물계약으로 월물 교체가 필요하지 않고 거래 유동성을 단일 계약에 집중할 수 있다는 장점으로 가상자산시장에서 빠르게 성장하였다. 특히 2026년 들어 무기한선물은 주식ㆍ주가지수 ETF 등 전통적 파생상품 기초자산으로 영역을 넓히고 있으며 미국에서는 비트코인 무기한선물이 정식 선물계약으로 승인되면서 제도권에 편입되었다. 무기한선물의 성장세는 정기적인 롤오버 거래와 제한된 거래시간을 전제로 발전해 온 전통적 파생상품거래소의 거래방식과 수익구조에 변화 압박을 가하고 있다. 국내에서도 무기한선물에 대한 대응 방안을 마련해야 한다. 국내 주식 관련 역외 무기한선물의 성장에 따른 국내 투자자 보호 대책이 필요하며 주요 글로벌 파생상품거래소의 무기한선물 대응을 참조해서 국내 파생상품시장의 경쟁력을 유지할 수 있는 전략 수립이 요구된다.]]></description>
+		</item>
+		<item>
+			<title>EU 그린워싱 규제와 친환경·탄소중립 표시·광고 기준</title>
+			<link>https://www.konetic.or.kr/user/P/PA/PA005_R01.do?q=foot&amp;cntnsId=PA000005&amp;cntnsSn=8555&amp;cntnsIdUnit=PA000005&amp;cntnsId=PA000005&amp;cntnsSn=8555</link>
+			<guid isPermaLink="true">https://www.konetic.or.kr/user/P/PA/PA005_R01.do?q=foot&amp;cntnsId=PA000005&amp;cntnsSn=8555&amp;cntnsIdUnit=PA000005&amp;cntnsId=PA000005&amp;cntnsSn=8555</guid>
+			<author>한국환경산업기술원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 그린워싱의 개념과 규제 필요성
+o 그린워싱은 제품·서비스 또는 기업 활동의 환경성을 실제보다 과장하거나 일부 성과를 전체 특성처럼 표현하여 소비자의 친환경 인식을 왜곡하는 행위임
+o 포괄적 친환경 표현, 일부 사실의 과장, 탄소상쇄 중심의 탄소중립 주장 등이 주요 유형이며, 소비자 보호와 공정경쟁을 위해 규제가 필요함
+
+ㅁ  EU 그린워싱 규제의 법적 구조와 주요 내용
+o「Directive (EU) 2024/825」는 기존 소비자보호법을 개정하여 일반적 환경성 주장, 지속가능성 라벨, 탄소중립 표현 및 미래 환경성과에 대한 규제를 강화하며, Green Claims Directive는 명시적 환경성 주장의 입증과 전달 방식을 구체화하기 위한 별도 입법 제안임]]></description>
+		</item>
+		<item>
+			<title>2026년 분야별 전문 보고서_그린 ICT</title>
+			<link>https://www.globalict.kr/product/product_list.do?menuCode=040200&amp;knwldNo=145922</link>
+			<guid isPermaLink="true">https://www.globalict.kr/product/product_list.do?menuCode=040200&amp;knwldNo=145922</guid>
+			<author>정보통신산업진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o 그린 ICT, 측정·감축·상쇄별 사업자군이 형성된 규제·수요 연계 시장- 그린 ICT(Green ICT)는 탄소 회계(Carbon Accounting), 그린
+
+- 데이터센터·인프라(Green Infrastructure), 탄소 거래·크레딧(Carbon Markets) 세 영역으로 구성되며, 규모는 세부시장별로 제시함
+- 데이터센터 인프라 성장률은 10.9%에서 9.4%로 소폭 낮아지는 반면 배출권거래제 정부 수입은 9.5%에서 1.9%로 하락하며, CBAM 시행과 옴니버스 I 지침으로 규제 강화와 축소가 병행됨]]></description>
+		</item>
+		<item>
+			<title>G20 혁신장관회의의 AI·신흥기술 정책 논의 동향 [The LENS 2026-12]</title>
+			<link>https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&amp;bcIdx=30038&amp;parentSeq=30038</link>
+			<guid isPermaLink="true">https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&amp;bcIdx=30038&amp;parentSeq=30038</guid>
+			<author>한국지능정보사회진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[[분석 목적]
+  - ’26년 9월 미국 주최로 개최된 G20 혁신장관회의의 합의 내용과 주요 정책문서를 기반으로 글로벌 AI·신흥기술 정책 논의 동향을 분석하고 정책적 시사점을 도출
+
+[분석 대상]
+  - G20 혁신장관회의 결과문서(「G20 혁신장관회의 공동성명」, 「신흥기술을 위한 캐롤라이나 원칙」, 「G20 AI 번영 목표」, 「AI 번영 협약」)
+
+[분석 결과]
+  - (혁신 친화적 규제 접근) 경직된 규제가 혁신을 저해할 수 있다는 문제의식에서, 캐롤라이나 원칙을 통해 기존 규제를 우선 활용하고 신규 규제는 기존 제도로 대응하기 어려운 문제에 한해 도입하는 유연한 접근을 강조
+  - (기술인재 육성) AI를 인간의 역량을 보완·확장하는 증강의 도구로 보고, AI 번영 목표·협약을 통해 기술인력 양성과 민간 부문의 참여 확대를 핵심 과제로 제시
+  - (민감 사안 판단 유보 및 시장경쟁 강조) AI 저작권 문제와 같이 이해관계가 첨예한 사안은 각국의 법적 절차에 맡겨 판단을 유보하는 한편, AI 표준과 관련해서는 소비자가 자유시장 경쟁을 통해 적합한 AI 모델을 선택한다는 입장을 명시
+  - (국가별 이행 의지의 온도차) 인도·이탈리아 등은 자국 보도자료에서 캐롤라이나 원칙을 명시적으로 언급한 반면 중국·EU 등은 이를 구체적으로 명시하지 않아, 합의 참여와 별개로 국가별 강조점과 이행 의지에 실질적 온도차 존재
+
+[시사점 및 향후 과제]
+  - (규제 패러다임 변화) 미국식 최소규제·혁신우선 접근이 다자간 협의체 논의에 등장하며 글로벌 AI 규제 담론의 축이 다변화되는 계기가 마련된 만큼, 향후 EU의 정밀규제 모델과 미국의 최소규제 모델이 상호 경쟁·수렴하는 과도기적 국면에 대한 지속적인 모니터링 중요
+  - (후속 이행) 합의 성명과 원칙 모두 법적 구속력이 없어 국가별 실질적 이행 여부는 불확실한 만큼, 향후 G20 정상회의 논의 반영 여부와 각국의 국내 정책 반영 수준을 주시하고 OECD·ISO 등 국제 표준화 논의에서의 실질적 규범력을 면밀히 분석할 필요
+  - (제도 정합성) 규제 최소화 기조와 「AI기본법」 등 국내 입법 방향 간의 정합성을 점검하고, 국제 논의와의 괴리를 최소화할 수 있는 유연한 법제 설계 방안 검토
+  - (균형 대응) 안전·신뢰 확보와 산업 경쟁력 제고라는 양대 가치의 균형을 도모하는 자율규제 기반 조성 및 중장기 AI 거버넌스 전략 마련 필요]]></description>
+		</item>
+		<item>
+			<title>IEC/SC77C(고출력 전자파) 국제회의 개최 [ICT Standard weekly 제1311호]</title>
+			<link>http://weekly.tta.or.kr/weekly/files/20261407071402_weekly.pdf</link>
+			<guid isPermaLink="true">http://weekly.tta.or.kr/weekly/files/20261407071402_weekly.pdf</guid>
+			<author>한국정보통신기술협회</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[IEC(국제전기기술위원회, International Electrotechnical Commission) 산하 기술위원회 TC 77(전자파적합성, EMC)의 분과위원회인 SC 77C(고출력 과도현상, HPEM)는 고고도 핵폭발로 발생하는 HEMP(고고도 전자파 펄스, High-altitude Electromagnetic Pulse), IEMI(의도성 전자파 장애, Intentional Electromagnetic Interference), 태양활동에 따른 GIC(지자기유도전류, Geomagnetically Induced Current) 등 HPEM(고출력 전자파, High-Power Electromagnetics) 위협으로부터 민간 설비를 보호하기 위한 국제표준을 제·개정하는 조직이다. 영국이 간사국을 맡고 있으며, 한국·미국· 영국·중국·일본 등 20개 정회원국과 20개 준회원국이 참여해 총 22종의 표준을 관리하고 있다. SC 77C 프로젝트 미팅은 2026년 6월 27~28일 서울 홍대 홀리데이인 익스프레스에서 대면·비대면 하이브리드 방식으로 개최됐으며, 국제 학술대회 GlobalEM 2026과 연계해 진행됐다. 이번 회의는 2024년 미국 오스틴 회의 이후 약 2년 만에 열린 자리로, 한국이 IEC 61000‑4‑24, IEC 61000‑5‑5, IEC 61000‑6‑6 세 가지 유지보수 프로젝트의 컨비너(Convenor)를 맡아 개정 작업을 주도했다.
+이번 원고에선 서울 회의에서 논의된 주요 프로젝트의 기술적 쟁점과 개정 방향을 중심으로 SC77C의 최신 국제표준 개발 동향을 소개한다.]]></description>
+		</item>
+		<item>
+			<title>전기차 충전 스테이션(EV Charging Station) [ASTI Market Insight 437]</title>
+			<link>https://astinet.kr/reports/market-insights/750691</link>
+			<guid isPermaLink="true">https://astinet.kr/reports/market-insights/750691</guid>
+			<author>한국과학기술정보연구원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 전기차 충전 스테이션 시장은 충전기 하드웨어 중심에서 충전운영시스템, 스마트충전, 에너지관리시스템 및 양방향 충전 등 전력망 연계 기능을 통합하는 충전 플랫폼 사업모델로 고도화되고 있다.
+
+2. 유럽연합(EU)은 대체연료 인프라 규정(AFIR)을 통해 주요 도로의 60km마다 150kW 이상(대형차 350kW 이상) 급속충전기 설치를 의무화하고 2026년 1월부터 신규 공공 충전기의 ISO 15118 준수를 요구하는 규제를 시행하고 있다. 한국 정부의 전기차 충전기 보급 정책은 화재 예방(PLC 모뎀 기반 스마트 제어 충전기 보급) 및 안전 기준 보완 중심으로 정책이 재편되고 있다.
+
+3. 세계 전기차 충전 스테이션 시장은 2026년 385억 5,000만 달러에서 2033년 1,208억 5,000만 달러로 확대되며 연평균 17.7% 성장할 전망이다. 국내 충전 스테이션 시장은 2026년 61만 7,000기에서 2033년 182만 1,000기로 확대되며 연평균 16.7% 성장할 것으로 전망되지만, 보급 기반 확대에 따라 연평균 성장률은 2022~2025년 35.0%에서 2026~2033년 16.7%로 둔화될 것으로 예상된다.]]></description>
+		</item>
+		<item>
+			<title>동물용 의료기기 시장 [ASTI Market Insight 435]</title>
+			<link>https://astinet.kr/reports/market-insights/750689</link>
+			<guid isPermaLink="true">https://astinet.kr/reports/market-insights/750689</guid>
+			<author>한국과학기술정보연구원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 동물용 의료기기 및 소모품 시장은 2025년 26억 6,040만 달러에서 2030년 36억 410만 달러로 연평균 6.3% 성장할 전망이며, 북아메리카ㆍ유럽이 세계 시장의 76.2%를 점유하는 가운데 아시아ㆍ태평양이 연 7.7%로 가장 빠르게 성장하고 있다.
+
+2. 펫 휴머니제이션과 반려동물 양육 확대에 힘입어 소형 반려동물ㆍ중환자 치료용품ㆍ외과수술 응용을 중심으로 수요가 커지고 있으며, AI 영상 판독ㆍ건강 모니터링과 원격ㆍ비대면 진료 등 디지털 융합이 빠르게 확산되고 있다.
+
+3. 경쟁 강도와 구매자 교섭력이 높은 시장 구조 속에서, 국내 기업은 제품-서비스 결합형 구독ㆍ플랫폼, 핵심 소재ㆍ공정 국산화, 해외 인증ㆍ유통망 선점을 통해 경쟁 압력을 신사업 기회로 전환하고, 아시아ㆍ태평양 신흥시장을 공략할 필요가 있다.]]></description>
+		</item>
+		<item>
+			<title>F&amp;B 로봇 (Food &amp; Beverage Robot) [ASTI Market Insight 434]</title>
+			<link>https://astinet.kr/reports/market-insights/750688</link>
+			<guid isPermaLink="true">https://astinet.kr/reports/market-insights/750688</guid>
+			<author>한국과학기술정보연구원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. F&B 로봇은 식음료 산업의 주문, 조리, 서빙, 결제, 배달을 자동화하는 로봇을 통칭한다. 가공과 포장은 이미 산업용 로봇이 담당해 왔으며, 최근에는 식재료의 형태가 일정하지 않은 조리와 사람과 공간을 공유해야 하는 배식ㆍ서빙ㆍ배송으로 자동화가 확산되고 있다. 특히 로봇 파운데이션 모델의 등장으로 F&B는 피지컬 AI(Physical AI)가 가장 먼저 상업적으로 검증되는 분야로 주목받고 있다.
+
+2. 글로벌 F&B 로봇 시장은 2025년 27억 1천만 달러에서 2026년 32억 8천만 달러로 확대되고, 이후 연평균 20.9%로 성장하여 2034년 149억 5천만 달러에 이를 전망이다. 국내 시장은 2026년 약 2억 5천만 달러에서 2034년 약 11억 달러 규모로 확대될 전망이다. 다만 성장의 무게는 기기 판매보다 구독 운용에 실리고 있다. 2024년 접객 로봇 판매 대수는 감소한 반면 구독형(RaaS)으로 운용되는 로봇은 크게 증가하였으며, 국내 역시 로봇산업 매출이 처음으로 6조 원을 넘어섰으나 전문서비스용 로봇 수출은 오히려 감소하였다.
+
+3. 규제는 위생ㆍ안전 인증을 강화하는 한편 배달 로봇의 실외 운행은 허용하는 방향으로 이원화되고 있으며, 여기에 AI 신뢰성 규제가 새로운 변수로 더해졌다. 국내에서는 「푸드테크산업 육성에 관한 법률」이 2025년 12월 시행되고 2026년 7월 첫 법정 기본계획이 수립되면서 조리로봇이 수출 전략 품목으로 설정되었다. 향후 경쟁력은 규제 대응, 구독 사업 모델, 유지보수ㆍ보안 체계, AI 소프트웨어 역량에서 결정될 것으로 판단된다.]]></description>
+		</item>
+		<item>
+			<title>첨단산업의 필수 소재 희토류, 핵심 광물의 공급망 안정화 노력 지속해야 外 [글로벌 공급망 인사이트 181호]</title>
+			<link>https://www.kita.net/researchTrade/globalSupplyChain/globalSupplyChainDetail.do;JSESSIONID_KITA=197135302AC795DCC8D11649D187F173.Hyper?no=2986</link>
+			<guid isPermaLink="true">https://www.kita.net/researchTrade/globalSupplyChain/globalSupplyChainDetail.do;JSESSIONID_KITA=197135302AC795DCC8D11649D187F173.Hyper?no=2986</guid>
+			<author>산업통상부</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[첨단산업의 필수 소재 희토류, 핵심 광물의 공급망 안정화 노력 지속해야
+
+희토류는 네오디뮴 등 17개 원소를 통칭하며, 여러 공정을 거쳐 희토류 산화물, 금속, 영구자석으로까지 제조됨. 희토영구자석은 전기차 구동 모터, 풍력 터빈, 방산 등 첨단산업의 핵심 부품임. 중국이 채굴부터 자석 제조까지 밸류체인 전반을 장악한 가운데, ’25년부터 수출통제를 본격화하며 공급망 리스크가 현실화됨. 9.24일 미·중 합의로 희토류 일부 수출 통제가 ’27.1.10.까지 유예되었으나 불확실성은 여전함. 우리나라는 원료부터 자석까지 대중 의존도가 높아, 재고 확보·비중국 공급처 다변화·재활용 체계 구축 등 다층적 대응이 필요함.]]></description>
+		</item>
+		<item>
+			<title>「과학의 황금기를 위한 교토 비전」 주요 내용 및 시사점 [KISTEP 브리프]</title>
+			<link>https://www.kistep.re.kr/board.es?mid=a10306010000&amp;bid=0031&amp;act=view&amp;list_no=94888</link>
+			<guid isPermaLink="true">https://www.kistep.re.kr/board.es?mid=a10306010000&amp;bid=0031&amp;act=view&amp;list_no=94888</guid>
+			<author>한국과학기술기획평가원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 미국 백악관은 일본 교토에서 열린 제23차 STS 포럼('26.10.4.)에서 「과학의 황금기를 위한 교토 비전」을 선언하고, 우리나라를 포함한 17개국의 지지를 이끌어냈다고 발표
+ㅇ (제도 개선) 연구 목적에 따른 연구비 지원 방식 다양화, 새로운 연구기관 모델의 시범 운영, 정부 내 메타사이언스 기능 구축, 과학적 무결성 기준 준수
+ㅇ (초지능 활용) 초지능(SI, Super Intelligence)을 연구 과정에 접목하고, 초지능 도구·데이터·컴퓨팅·실험시설에 대한 연구자의 접근성 확대
+ㅇ (인재 양성) 우수 학생·신진 연구자의 능력 중심 조기 지원, 장비 운용 인력의 현장경험 확대, 공동 학위과정·펠로우십·공동연구 장려
+
+ㅁ 미국은 OSTP 보고서 「Science: A New Golden Age」('26.7.)의 연구체계 혁신 과제를 교토 비전으로 확장하고, 이를 자국이 이끈 성과로 제시하며 과학기술 정책 논의의 주도권을 부각
+
+ㅁ 또한, 과학을 위한 인공지능(AI)에서 초지능(SI)로의 전환, 메타사이언스 기능의 공유/확산과 이를 통한 연구제도 혁신 측면에서 주목할 만한 시사점을 제시]]></description>
+		</item>
+		<item>
+			<title>프라이버시 강화 기술(PETs) [2026 개인정보 이슈 심층 분석 보고서(VOL.1)]</title>
+			<link>https://www.kisa.or.kr/20202/form?postSeq=487&amp;page=1</link>
+			<guid isPermaLink="true">https://www.kisa.or.kr/20202/form?postSeq=487&amp;page=1</guid>
+			<author>한국인터넷진흥원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[연합학습·안전한 연산 기반 데이터 공동활용과 책임
+
+인공지능 모델의 성능과 일반화 가능성은 학습 데이터의 규모와 다양성에 크게 좌우되기 때문에, 한 기관의 데이터만으로는 한계가 있습니다. 금융기관의 이상거래 탐지, 통신·유통 데이터를 결합한 정책 분석, 여러 병원의 진료기록을 활용한 질병 예측 모델처럼 기관 간 데이터 공동활용 수요는 분야를 가리지 않고 늘어나고 있습니다. 그러나 원본 데이터를 한 곳에 모으는 방식은 개인정보의 제3자 제공 또는 결합에 따른 법적 절차, 재식별 위험, 유출 사고 시 책임 부담이라는 장벽에 부딪힙니다. 가명정보 결합 제도가 마련되어 있지만, 데이터를 결합전문기관으로 보내 결합하고 반출 심사를 거치는 과정에는 상당한 시간과 비용이 듭니다.
+
+이러한 배경에서 데이터를 옮기는 대신 분석을 옮기는 연합학습(Federated Learning)과, 동형 암호·다자간 안전연산 등 안전한 연산(secure computation) 기술이 대안으로 주목받고 있습니다. 그러나 원본 데이터가 기관 밖으로 나가지 않는다고 해서 개인정보 쟁점이 사라지는 것은 아닙니다. 모델 업데이트와 학습된 모델에서도 개인에 관한 정보가 추론될 수 있고, 여러 기관과 기술사업자가 함께 참여하는 구조에서는 누가 개인정보처리자이며 어떤 책임을 지는지가 불분명해집니다. 본 글에서는 이 기술들의 활용 가능성과 개인정보 쟁점을 검토하고, 민감정보 활용 요구가 가장 높은 임상유전체·디지털 헬스케어 분야를 적용 예시로 살펴본 뒤, 참여기관·기술사업자·데이터 보유기관 간 역할분담과 보호조치 방안을 제안하고자 합니다.]]></description>
+		</item>
+		<item>
+			<title>美·EU, ‘중국 대항’ 오픈 웨이트 AI 모델 잇따라 공개 [글로벌 AI 동향(2026.10.08)]</title>
+			<link>https://www.globalict.kr/ai/globalAiInfo.do?menuCode=010600&amp;knwldNo=145932</link>
+			<guid isPermaLink="true">https://www.globalict.kr/ai/globalAiInfo.do?menuCode=010600&amp;knwldNo=145932</guid>
+			<author>정보통신산업진흥원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[‘서구판 DeepSeek’ Beam과 1조 파라미터 ‘Le Chonk’...가중치 공개는 유보
+ 
+미국 Reflection AI는 10월 5일 5,010억 파라미터 혼합전문가(MoE) 모델 'Beam'을, 프랑스 미스트랄은 10월 6일 1조 파라미터 멀티모달 모델 'Mistral Large 4(ML4)'를 연이어 공개하며 두 기업 모두 중국산 오픈 모델에 대한 서구 대안을 표방했다. 다만 양사 모두 벤치마크 수치는 자체 보고에 그치고 가중치 공개는 안전성 검증 후 10월 말로 예고된 상태로, 오픈 모델 주도권 경쟁이 '검증' 단계로 넘어가는 양상이다.]]></description>
+		</item>
+		<item>
+			<title>&apos;AI 로봇&apos;, 기술 시연을 넘어 대한민국 산업 현장의 주역으로 [테크 포커스 2026년 10월호(Vol.36)]</title>
+			<link>https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveTechFocusInfoView.do?blltSeq=168456&amp;pageIndex=&amp;prgmId=XPG404060000&amp;searchCdtn=&amp;searchKeyword=</link>
+			<guid isPermaLink="true">https://srome.keit.re.kr/srome/biz/info/keitPub/retrieveTechFocusInfoView.do?blltSeq=168456&amp;pageIndex=&amp;prgmId=XPG404060000&amp;searchCdtn=&amp;searchKeyword=</guid>
+			<author>한국산업기술기획평가원</author>
+			<category>정기간행물</category>
+			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[인간 중심의 작업 환경에 자연스럽게 녹아드는 'AI 로봇'은 생산인구 감소와 공정 병목을 돌파할 대한민국 산업 AX의 결정적 교두보이다. 감각과 판단, 정밀 조작을 아우르는 부품 국산화부터 수요기업 맞춤형 상용화에 이르기까지, AI 로봇의 현장 안착은 국가 제조 경쟁력을 결정짓는 핵심 지표다.
+
+이번 호에서는 일터와 일상 속으로 성큼 다가온 AI 로봇의 현주소를 집중 조명하며, 'M.AX 얼라이언스'의 연대로 구축해가는 대한민국 AI 로봇 산업의 청사진을 소개한다.]]></description>
+		</item>
+		<item>
+			<title>캐나다 니켈, 광산부터 정련까지···공급망 다변화의 조달처로 주목</title>
+			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,444,246,464,518,505,484,519&amp;pNttSn=244395&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,444,246,464,518,505,484,519&amp;pNttSn=244395&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[캐나다가 방위산업 재건에 나서면서 광물을 바라보는 시각도 달라지고 있다. 2026년 2월 발표된 캐나다의 첫 국방산업전략(Defence Industrial Strategy, DIS)은 ‘핵심 투입재·물자의 공급망 확보’를 5대 축의 하나로 두고, 철강·알루미늄과 함께 국방 관련 핵심광물의 안정적 공급을 주요 과제로 제시했다. 특히 핵심광물의 생산·가공·비축·조달을 확대하고 G7·NATO 등 동맹국과 공급망 협력을 강화한다는 방침을 밝히면서, 광물은 산업용 원료를 넘어 방산 생산과 국가안보를 뒷받침하는 전략 자산으로 중요성이 커지고 있다.]]></description>
+		</item>
+		<item>
+			<title>이스라엘 성장동력 인프라 계획, 경제 회복 넘어 도약 가능할까?</title>
+			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,246,444,464,518,505,484,519&amp;pNttSn=244184&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,246,444,464,518,505,484,519&amp;pNttSn=244184&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[첨단 하이테크 강국 이스라엘의 역설: 세계 14위 혁신 역량 뒤에 숨은 인프라 격차
+
+세계지적재산권기구(WIPO)가 발표한 ‘2025년 글로벌 혁신지수(GII)’에서 이스라엘은 매년 지식 및 기술 산출 부문 세계 6위권을 기록하며 초일류 혁신 강국으로서의 면모를 이어가고 있다. 그러나 이러한 하이테크 중심 경제 성장의 이면에는 국가 경쟁력의 발목을 잡고있는 고질적인 불균형이 존재한다. 실제로 이스라엘의 종합 혁신 역량은 세계 14위에 달하지만, 도로·교통·에너지 등을 아우르는 인프라 부문 순위는 세계 45위에 머물러 있어 첨단기술 혁신 역량에 크게 못 미치는 것으로 평가된다. 
+
+이스라엘 혁신청의 2026년 최신 거시경제 보고서에 따르면, 2025년 기준 이스라엘 하이테크 산업은 국가 GDP의 18.3%, 총수출의 58%를 책임지며 국가 경제 성장의 약 절반가량을 단독으로 견인하는 독보적인 경제 동력이다. GDP 대비 R&D 투자 비율 역시 6.76%로 세계 최상위권을 기록하고 있으며, 미국을 제외하면 전 세계에서 가장 많은 벤처 자금이 몰리는 4대 테크 허브로 꼽힌다. 소프트웨어와 테크 역량은 전 세계 최고점에 도달해 있으나, 이를 뒷받침할 도로·교통망 및 전력·송배전 등 물리적 기간시설은 상대적으로 낙후되어 있는 상태다]]></description>
+		</item>
+		<item>
+			<title>성장하는 미국 협동로봇 시장, 우리 기업이 주목해야 할 기술은?</title>
+			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=4&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244490&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=4&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244490&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[사람과 함께 일하는 로봇, 미국 제조현장으로 확산 
+
+미국 제조업계에서 생산인력 부족과 인건비 상승이 이어지면서 사람과 같은 공간에서 작업할 수 있는 협동로봇(Collaborative Robot, 코봇)에 대한 관심이 커지고 있다. 기존 산업용 로봇은 일반적으로 안전 펜스를 설치해 작업자와 공간을 분리해야 하지만 코봇은 힘과 속도를 제한하고 충돌 감지 기능을 적용해 작업자 가까이에서 조립, 용접, 검사, 포장 등의 작업을 수행할 수 있다. 설치공간이 비교적 작고 작업 변경도 쉬워 대규모 자동차 공장뿐 아니라 다품종 소량생산을 하는 중소 제조업체에서도 활용되고 있다.
+
+북미 로봇 시장은 제조업 전반의 자동화 수요 확대에 힘입어 성장세를 보였다. 미국자동화협회(Association for Advancing Automation, A3)에 따르면 2025년 북미 지역의 로봇 주문량은 전년 대비 6.6% 증가한 3만 6,766대로 2022년 이후 가장 높은 수준을 기록했다. 주문액은 22억 5,000만 달러로 전년 대비 10.1% 증가했다.
+
+이 가운데 코봇 주문량은 7,212대, 주문액은 2억 4,100만 달러로 전체 로봇 주문량의 19.6%, 주문액의 10.7%를 차지했다. 특히 2025년 4분기 주문량은 2,953대로 A3가 코봇을 별도로 집계하기 시작한 같은 해 1분기 이후 최대치를 기록했다. 2026년 1분기에도 코봇 주문량과 주문액이 전년 동기 대비 각각 55.6%, 78.2% 증가하며 수요 확대가 이어졌다.]]></description>
+		</item>
+		<item>
+			<title>AI가 무역을 바꾼다: 2026 글로벌 디지털무역박람회 참관기</title>
+			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=3&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,246,444,464,518,505,484,519&amp;pNttSn=244458&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=3&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,246,444,464,518,505,484,519&amp;pNttSn=244458&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[2026년 9월 23일부터 27일까지 중국 저장성 항저우대회전중심(杭州大会展中心)에서 제5회 글로벌 디지털무역박람회(Global Digital Trade Expo, GDTE)가 개최됐다. 글로벌 디지털무역박람회는 중국에서 디지털무역을 주제로 열리는 국가급 국제 전문 전시회로, 디지털무역 관련 기술과 제품, 서비스 및 새로운 비즈니스 모델을 소개하는 플랫폼이다. 올해는 ‘Meet the AI Future at GDTE(在数贸会遇见 AI 未来)’를 주제로 열렸다.
+
+이번 박람회에서 특히 눈에 띈 것은 AI가 별도의 기술 분야에 머무르지 않고 로봇·모빌리티·의료·전자상거래·문화콘텐츠 등 다양한 분야에 공통적으로 적용되고 있다는 점이었다. 중국 국무원 신문판공실(SCIO)에 따르면, 박람회 개최 전 집계된 국제 구매 수요는 9억4000만 달러 이상으로 전년 대비 47% 증가했으며, 이 가운데 AI 관련 주문이 53%를 차지했다. 다만 이는 박람회 개최 전에 파악된 ‘사전 구매주문’ 기준으로, 최종 계약·거래 실적과는 구분해서 볼 필요가 있다.]]></description>
+		</item>
+		<item>
+			<title>지적재산추진계획 2026 [오사카 26-02호]</title>
+			<link>https://www.kocca.kr/shortUrl/e1Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/e1Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o 최근 전세계적인 무형자산 투자 급증으로 지재·무형자산 투자가 세계 경제성장 견인
+o 생성형 AI 의 급속한 사회적 도입에 따라 산업구조, 노동시장, 생활 및 가치관 전반이 변화하며 지재·무형자산 환경 또한 크게 전환
+o 글로벌 경제 경쟁 심화 및 지정학적 리스크 증대에 따른 일본의 자율성·기술 우위 확보 필요성 증가에 따라 경제 안전 보장의 중요성 또한 증가. 경제 안전 보장의 관점에서 지재 전략은 필수적인 요소기존 국제질서 및 규범이 명확하지 않은 가운데 일본의 산업경쟁력 강화 및 경제 안정 보장 확보를 위해서는 국제 표준·국내 표준의 전략적 활용 필요
+o 일본 콘텐츠산업의 시장 규모는 13.3 조 엔(2023 년), 해외 시장 규모는 6.1 조 엔(2024 년)으로 철강산업 및 반도체산업보다 규모가 크며 현재 일본 기간 산업으로 성장
+o 쿨재팬 관련 산업의 해외 추진 규모는 30.7 조 엔으로 확대하여(2025 년 대비 약 13% 증가) 글로벌 시장에서 일본의 주요 수익 창출원으로 성장]]></description>
+		</item>
+		<item>
+			<title>인도 콘텐츠산업 규제 동향 및 진출 시사점 [인도 26-13호]</title>
+			<link>https://www.kocca.kr/shortUrl/d1Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/d1Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o 인도 콘텐츠산업은 영화·방송 중심의 전통 미디어 시장에서 OTT, 소셜미디어, 온라인 게임 등 디지털 콘텐츠 중심으로 빠르게 영역이 확대되고 있으며, 이에 따라 정부의 콘텐츠 규제 범위도 지속적으로 확장되는 추세
+
+- 과거 인도의 콘텐츠 규제는 영화의 등급·상영 인증과 TV 방송의 프로그램·광고 기준 등 전통 미디어를 중심으로 운영
+- 디지털 플랫폼 확산 이후 OTT 콘텐츠, 디지털 뉴스, 소셜미디어 플랫폼 등 온라인 영역까지 별도의 규제가 적용되기 시작
+- 특히 2021 년 정보기술(중개자 지침 및 디지털 미디어 윤리규정) 규칙(Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021) (이하 정보기술 규칙, IT Rules)을 통해 OTT 등 온라인 큐레이티드 콘텐츠(Online Curated Content)에 대한 콘텐츠 등급분류와 고충처리 체계가 제도화]]></description>
+		</item>
+		<item>
+			<title>[UAE] 두바이, 디지털 기술 활용한 몰입형 게임·엔터테인먼트 시설 확대 外 [위클리글로벌 501호]</title>
+			<link>https://www.kocca.kr/shortUrl/c1Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/c1Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ Majid Al Futtaim 이 Mall of the Emirates 의 50 억 디르함 규모 리뉴얼 사업의 일환으로 새로운 복합엔터테인먼트 공간 「 The Hangout」을 공개함. 신규 공간에는 디지털 기술솨 신체 활동을 결합한 몰입형게임 시설 Activate 와 시뮬레이터·AR 등을 활용한 엔터테인먼트 시설 SOCO 등이 포함될 예정임 
+
+o 2026년 10월 개장 예정인 Activate 는 디지털 기술과 신체 활동을 결합한 「 Active Gaming」형태의 몰입형 게임 시설로, 이용자의 움직임과 행동에 반응하는 인터랙티브 시술을 활용해 게임을 직접 체험하도록구성됨]]></description>
+		</item>
+		<item>
+			<title>태국 e스포츠 산업의 모바일 전환 및 글로벌 경쟁 동향 [태국 특화 26-06호]</title>
+			<link>https://www.kocca.kr/shortUrl/g1Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/g1Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 태국 e스포츠의 제도화와 산업 기반 형성
+o 태국의 e 스포츠 산업은 게임 이용자와 민간 대회를 중심으로 성장한 이후, 2010년대 후반부터 스포츠 및 디지털콘텐츠 산업의 한 분야로 제도적 기반을 확대해 왔음
+- 태국 e 스포츠 관련 단체는 2013 년 법적 협회로 등록되었으며, 태국체육청(Sports Authority of Thailand: SAT) 이사회는 2017 년 7 월 27 일 e 스포츠를 국가 스포츠협회의 설립·등록이 가능한 스포츠로 승인하였음]]></description>
+		</item>
+		<item>
+			<title>브라질 커피는 어떻게 문화콘텐츠가 되었는가:농산물에서 국가브랜드로</title>
+			<link>https://www.kocca.kr/shortUrl/f1Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/f1Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 세계 최대 커피 생산국을 넘어선 브라질
+o 브라질과 커피의 관계는 세계 농산물 시장의 대표적인 성공 사례로 인식되어 왔음. 19 세기 중반 이미 브라질은 세계 커피 공급량의 절반가량을 생산하였고, 1900 년경에는 그 비중이 약 4 분의 3 에 이를 정도로 압도적인 생산국으로 성장하였음
+o 커피산업은 브라질의 철도와 항만 건설, 상파울루(São Paulo)의 도시화, 유럽과 일본으로부터의 대규모 이민, 금융과 수출산업 발전 등을 촉진하면서 근대 브라질 형성에 핵심적인 역할을 수행함(Marquese, 2020) 
+o 오늘날에도 브라질은 세계 커피산업의 핵심 국가임. 브라질의 2025 년 커피 생산량은 약 5,654 만 포대로 추산되었으며, 2025 년 한 해 동안 4,005 만 포대가 121 개국으로 수출되어 약 155 억 9 천만 달러의 수출액을 기록함
+o 특히 품질·지속가능성 인증을 받은 차별화 커피와 스페셜티 커피가 전체 수출량의 20.3%, 수출액의 22.6%를 차지하였다는 점은 브라질 커피산업이 전통적인 대량생산 중심에서
+고부가가치 시장으로 이동하고 있음을 방증함(Cecafé, 2026)]]></description>
+		</item>
+		<item>
+			<title>외국인투자자를 위한 환경정책 동향 (2026년 3분기)</title>
+			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/ZbbL4xmPsJkJ.do</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/ZbbL4xmPsJkJ.do</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>분석리포트</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 지속가능성(ESG) 공시 제도화 방안
+
+ㅁ 정부와 더불어민주당은 7월 8일 당정협의회를 개최하고「지속가능성(ESG) 공시제도화 방안(최종안)」을 발표했다.
+ o 당정은 글로벌 기관투자자의 정보 수요 대응과 국가적 과제인 녹색전환의 뒷받침을 위해 공시로드맵을 보다 전향적으로 수정하고, 관계부처·유관기관의전방위적 지원체계를 가동하여 기업들의 지속가능성 공시를 적극적으로 유도해나가기로 함]]></description>
+		</item>
+		<item>
+			<title>외국인투자 관련 관세정책 동향 (2026년 하반기)</title>
+			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/6xfMkTqxamuv.do</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/6xfMkTqxamuv.do</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>분석리포트</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[1. 수출입화물 검사비용 신청기한 및 방식 제한 완화
+2. 가상계좌 납부 가능 금융기관 확대로 납부 접근성 향상
+3. 자가용 보세창고 반입 가능 화물 확대]]></description>
+		</item>
+		<item>
+			<title>중국 AI 스마트글라스 시장 부상과 한국기업의 진출여건</title>
+			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/rtBIDEGCOsHA.do</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/rtBIDEGCOsHA.do</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>분석리포트</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o (시장 현황) 중국 AI 스마트글라스 시장은 2025년 글로벌 평균의 약 2배 속도로 커졌으나, 2026년 2분기에 처음으로 출하량이 줄었고 제품 유형 사이에서 수요가 옮겨가는 구조적 변화를 겪고 있음 - 글로벌 IT 시장조사기관 IDC에 따르면 2025년 중국 AI 스마트글라스 출하량은 246만 대로 전년대비 87.1% 증가해 글로벌 증가율 44.2%를 크게 웃돌았음 - 2026년부터 AI 스마트글라스가 중국 정부의 소비 보조금 대상에 처음 포함되며 판매가의 15%, 1대당 최대 500 위안(미화 약 74 달러)을 지원 받을 수 있게 돼 1분기 출하량이 23.5% 성장했음]]></description>
+		</item>
+		<item>
+			<title>AI Scientist 최신 개발동향과 미래상 제시 [ICT SPOT ISSUE(2026-07호)]</title>
+			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261008-000001</link>
+			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261008-000001</guid>
+			<author>정보통신기획평가원</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ AI Scientist에 대한 빅테크, 혁신 리더들의 관심과 투자 증가
+ㅇ 구글 수석과학자 제프 딘, OpenAI 리서치 부사장 리암 페더스 및 구글 딥마인드 출신 연구진들은 빅테크를 떠나 AI Scientist 전문 스타트업 창업 러시 중
+ㅇ 최근 OpenAI는 약 1만 개의 에이전트가 병렬로 탐색하여 수학적 난제인 나비에-스토크스 문제를 88시간 만에 풀었다고 발표하는 등 과학적 성과가 드러나고 있음. 
+
+ㅁ AI Scientist 구조적 전환과 최신 개발동향
+ㅇ AI Scientist 최근 변화는 검증가능성, 물리적 연결 확장, 인간·AI 협업 고도화, 누적·지속형 연구로의 전환이 연구과정에 결합하는 방향으로 나타나고 있음.
+ㅇ AI Scientist 연구 자율성 성숙단계는 L0(수작업)-L1(보조)-L2(협업)-L3(감독형자율)-L4(도메인자율)-L5(범용자율)로 구성되며, 최신 AI Scientist는 L2∼L3에 해당
+ㅇ AI Scientist 관련 빅테크·연구기관들은 연구환경 통합과 연구성과 검증에 집중하고 있으며, Lila Sciences 등 스타트업들은 시장 선점을 위해 치열하게 경쟁 중
+ㅇ 세계 각국은 국가 과학기술 경쟁력 강화를 위해 AI Scientist 관련 제네시스 미션(미국), 人工智能+행동(중국), RAISE 구축(EU) 등 다양한 정책을 추진
+
+ㅁ AI Scientist가 가져올 과학연구의 미래
+ㅇ 과학분야별 AI Scientist가 미치는 파급효과는 여러 조건에 따라 상이하며 생명·의학, 화학·소재, 반도체·첨단제조, 수학·컴퓨터과학 분야 순으로 예측
+ㅇ AI Scientist로 야기되는 과학연구는 미래 과학자의 역할 및 연구방법 변화, RaaS(Research as a service)의 확산과 플랫폼화, 핵심 자산의 변화 등이 예측됨.
+ㅇ 과학목적 AI 시장은 과학의 한계를 혁신함에 따라 ‘25년 48억 달러에서 ’35년 347.8억 달러로 성장하여 10년 동안 연평균 성장률 21.9%를 기록할 전망
+
+ㅁ 결론 및 시사점
+ㅇ AI Scientist는 연구 생산성을 극대화하고 국가 과학기술을 견인하는 AI 에이전트 패러다임의 핵심기술로 부상하고 있으며 개념단계를 넘어 실증단계로 진입
+ㅇ 앞으로의 AI Scientist에 대비하기 위해 연구 신뢰성·안전성 확보를 위한 거버넌스 체계, R&D 인프라, 생태계 구축 및 국가 차원의 정책적 노력이 필요]]></description>
+		</item>
+		<item>
+			<title>드론 정책 사례로 본 미국의 통합적 안보ᆞ통상 정책 동향과 시사점</title>
+			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,444,246,464,518,505,484,519&amp;pNttSn=244544&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</link>
+			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=70&amp;CONTENTS_NO=1&amp;bbsGbn=00&amp;bbsSn=242,244,322,245,444,246,464,518,505,484,519&amp;pNttSn=244544&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=242,244,322,245,246,464,518,505,484,519&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pNewsAll=&amp;pNewsCd=242&amp;pNewsCd=244&amp;pNewsCd=322&amp;pNewsCd=245&amp;pNewsCd=246&amp;pNewsCd=464&amp;pNewsCd=518&amp;pNewsCd=505&amp;pNewsCd=484&amp;pNewsCd=519&amp;sSearchVal=</guid>
+			<author>대한무역투자진흥공사</author>
+			<category>IT동향정보</category>
+			<pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o 美 정부, 국가안보·기술 우위 확보 및 제조업 육성을 위한 통합적 안보·통상 정책 추진
+
+o 수출통제·관세·온쇼어링 인센티브·투자 규제를 연계한 4중 정책 구조 활용
+
+o 우리 기업, 대미 진출 기회 확대와 동시에 공급망·투자·기술 등 규제 준수 부담 증가]]></description>
+		</item>
+		<item>
+			<title>폼팩터 혁신이 만드는 디스플레이 활용 전략</title>
+			<link>https://kpmg.com/kr/ko/insights/eri/2026/businessfocus-1007.html</link>
+			<guid isPermaLink="true">https://kpmg.com/kr/ko/insights/eri/2026/businessfocus-1007.html</guid>
+			<author>삼정KPMG 경제연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[디스플레이 산업의 변화를 분석하고, 기업의 대응 전략을 제시했습니다.
+
+디스플레이 산업은 LCD·OLED 기술을 기반으로 화질을 고도화해 왔으며, 최근에는 폼팩터 혁신과 AI 기술의 확산을 통해 활용 범위가 빠르게 확대되고 있습니다. 
+
+디스플레이 산업의 혁신을 주도하는 대표적인 축은 화질, 폼팩터, AI 인터페이스입니다. 화질 분야에서는 밝기·색 표현력·응답속도·전력 효율을 개선하기 위한 기술 경쟁이 이어지는 모습입니다. 폼팩터 분야에서는 폴더블·롤러블·스트레처블 디스플레이 등이 IT, 모빌리티, 헬스케어, 패션, 미디어 등으로 활용 영역을 넓히고 있습니다. AI 인터페이스 분야에서는 웨어러블, XR·AR, 모빌리티, 로봇을 중심으로 정보 전달과 사용자 교감을 지원하는 디스플레이의 역할이 확대되는 중입니다. 
+
+본 보고서는 디스플레이 산업의 현황과 발전 과정을 살펴보고, 화질·폼팩터·AI 인터페이스로 구성된 3층 혁신 구조와 분야별 신규 수요를 분석했습니다. 또한 화질 초격차, 폼팩터 양산 경쟁력, AI 인터페이스 대응 및 소·부·장 생태계 지원을 통한 디스플레이 산업의 혁신 전략을 제시했습니다.
+
+본 보고서를 통해 ‘보는 화면’을 넘어 AI와 현실을 연결하는 인터페이스로 진화하는 디스플레이 산업의 새로운 성장 기회와 혁신 전략을 모색하는 데 도움이 되기를 바랍니다.]]></description>
+		</item>
+		<item>
+			<title>필리핀 지식재산청, AI 관련 저작물의 저작권 등록에 관한 지침(안) 공개</title>
+			<link>https://www.kiip.re.kr/board/trend/view.do?bd_gb=trend&amp;bd_cd=1&amp;bd_item=0&amp;po_item_gb=&amp;currentPage=2&amp;po_no=24738</link>
+			<guid isPermaLink="true">https://www.kiip.re.kr/board/trend/view.do?bd_gb=trend&amp;bd_cd=1&amp;bd_item=0&amp;po_item_gb=&amp;currentPage=2&amp;po_no=24738</guid>
+			<author>한국지식재산연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[2026년 9월 17일, 필리핀 지식재산청(IPOPHL)은 저작권 및 저작인접권국(BCRR)1)이 개최한 공개 의견수렴 회의를 통해 인공지능(AI) 관련 저작물의 저작권 등록 기준을 명확히 하기 위한 ‘AI 시스템 및 AI 관련 저작물의 등록 가능성에 관한 지침(안)’2)을 공개하였다고 발표함]]></description>
+		</item>
+		<item>
+			<title>미국 특허상표청, 연방 연구비 지원 발명의 기술이전 30년 경제 기여 평가</title>
+			<link>https://www.kiip.re.kr/board/trend/view.do?bd_gb=trend&amp;bd_cd=1&amp;bd_item=0&amp;po_item_gb=&amp;po_no=24756</link>
+			<guid isPermaLink="true">https://www.kiip.re.kr/board/trend/view.do?bd_gb=trend&amp;bd_cd=1&amp;bd_item=0&amp;po_item_gb=&amp;po_no=24756</guid>
+			<author>한국지식재산연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[2026년 9월 22일, 베이돌 연합(Bayh-Dole Coalition)이 ‘베이돌법의 경제적 영향(The Economic Impact of the Bayh-Dole Act)’ 보고서를 발표한 행사에서 미국 특허상표청(USPTO) 존 스콰이어스 청장은 연방 연구비 지원 발명의 기술이전이 30년간 미국 경제에 상당히 기여하였다고 평가함]]></description>
+		</item>
+		<item>
+			<title>AI 윤리, 실천적 규범으로 나아가기 위한 정책방향과 과제: 고령자 돌봄 AI 사례연구를 바탕으로 [STEPI Insight 368호]</title>
+			<link>https://www.stepi.re.kr/site/stepiko/report/View.do?reIdx=379&amp;pageIndex=1&amp;cateCont=A0501&amp;searchYear=&amp;searchCondition=&amp;searchKeyword=&amp;searchSort=</link>
+			<guid isPermaLink="true">https://www.stepi.re.kr/site/stepiko/report/View.do?reIdx=379&amp;pageIndex=1&amp;cateCont=A0501&amp;searchYear=&amp;searchCondition=&amp;searchKeyword=&amp;searchSort=</guid>
+			<author>과학기술정책연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[윤리는 세부적으로 규제하기 어려운 현장의 판단을 이끌어내고, 기술개발 및 도입의 정당성을 비판적으로 검토하여 혁신의 방향성을 사회적 가치에 부합하도록 견인하는 기능을 한다. 그러나 아직 많은 AI 윤리 가이드라인은 추상적 원칙 선언에 머물러 있어, AI 개발부문이나 AI 사용부문 어디에서도 실질적 행동규범으로 안착하지 못하고 있다. 이에 본 연구는 먼저, AI 윤리에 관한 여러 유형의 담론 고찰을 통해, 윤리가 기술적 설계 방식의 개선과 더불어, 사용 시스템 측면의 운영 방식을 개선하는 제도적 기제로 작동하기 위한 이론적 관점을 탐색해 본다. 이와 더불어, 실제 AI 개발 및 사용 현장에서 발생하는 윤리적 이슈가 무엇인지, 그리고 그 배경에는 어떤 구조적 요인이 작동하고 있는지를 살펴본다.
+
+관련 이론적 논의들은 우리가 주목해야 할 돌봄 AI의 윤리적 쟁점이 기술적 설계의 안전성이나 기능 구현 여부가 아니라, ‘누구의 가치’가 설계과정에 반영되었는지를 물어야 한다는 점을 지적하고 있다. 또한 AI를 도입은 얼마나 ‘준비된’ 상황에서 이루어지고 있는지, 사용과정에서 발생한 윤리적 쟁점을 해소하기 위해 서비스 도입 주체는 개발사와 어떤 소통을 하고 있는지를 살펴봐야 한다는 점을 시사한다. 이러한 관점에 비춰보면, 현재 시행되고 있는 돌봄 AI 관련 사업에서는 이러한 질문에 답해 줄 주체나 소통의 채널, 윤리적 판단의 기준이 아직 마련되어 있지 않아, 윤리 규범체계가 부재하다고 볼 수 있다. 사례 연구를 토대로 돌봄 AI와 유사한 AI 개발 및 사용의 맥락을 가진 공공서비스 부문에서는 다음과 같은 정책과제 수행을 제안한다.
+
+(정책 방향성) 윤리에 관한 정책의 범위를 ‘원칙’을 제시하는 것에서, 윤리가 실천적 행위 규범으로 내재화 될 수 있는 윤리 규범체계를 만드는 것으로 확장되어야 한다.
+
+(정책 과제 1) 윤리 원칙을 현장에서 이행할 때 발생하는 긴장과 갈등을 해소하기 위한 세부적인 행동규범 마련
+(정책 과제 2) 윤리원칙에 대한 세부 규정은 AI 사용현장의 맥락에 맞게 조정될 수 있도록 AI 사용 현장의 경험과 AI 설계의 기준 간 환류체계 구축
+(정책 과제 3) AI 기본법을 모태로 한 돌봄 AI 윤리규범 제정 및 배포자의 권한·책임과 데이터 환류체계의 법제화
+(정책 과제 4) AI 시스템과 사용 현장 간 부합성 사전 진단 및 결과 활용 체계 구축
+(정책 과제 5) 실증사업에서 상용화를 위한 윤리적 요구사항을 식별하고, 이에 기반해 AI 도입 및 서비스 운영 기준 마련]]></description>
+		</item>
+	</channel>
+</rss>
