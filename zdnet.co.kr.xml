@@ -4,7 +4,84 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Wed, 14 Oct 2026 20:31:18 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 14 Oct 2026 21:31:11 +0900</lastBuildDate>
+		<item>
+			<title>사이버 침해, 국가연구기관 평가에 포함된다</title>
+			<link>https://zdnet.co.kr/view/?no=20261014212628</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014212628</guid>
+			<author>방은주 기자</author>
+			<category>사이버침해</category>
+			<category>IT 일반</category>
+			<pubDate>Wed, 14 Oct 2026 21:26:28 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/15/ad5133a75a7421cecec2a5a8a133c7df.jpg" alt=""><p>"과기정통부는 출연연구기관의 사이버보안을 강화해 나아가겠습니다."</p>
+<p>과기정통부가 14일 이 같은 제목의 보도설명자료를 내놨다. 앞서 동아일보가 14일자로 &apos;해킹 막는 국가 연구기관들, 서버 97%가 백신없이 운영&apos;이라는 제목의 기사를 보도한데 따른 것이다. 기사에 따르면, 서버 백신은 AI 해킹 속 기초 보안장치인데, 23개 출연연구기관 중 18개 기관의 설치율이 3분의1 미만이며 외부 접촉 서버 중 48%가 백신이 설치가 안됐다.</p>
+<p>과기정통부의 경우 전체 서버가 10개인데, 백신 설치는 100개로 설치율이 92.6%에 달했다. 반면 설치율이 가장 낮은 한국과학기술정보연구원(KISTI)의 경우 전체 서버가 1만1132대인데, 겨우 67대에만 백신이 설치, 설치율이 0.6%에 불과했다.</p>
+<img src="https://image.zdnet.co.kr/2026/09/15/ad5133a75a7421cecec2a5a8a133c7df.jpg" alt="세종시 소재 과기정통부 건물 전경">
+<p>이에 대해 과기정통부는 설명자료에서 "소관 출연연구기관의 사이버보안 강화를 위해 종합 대책을 수립해 추진하고 있음을 알린다"면서 향후 평가에 사이버 침해사고 지료 신설 등의 네 가지 대응 방안을 밝혔다. 아래는 그 내용.</p>
+<p>첫째, 출연연구기관의 서버백신 설치 확대를 위해 우선적으로 외부 접촉 서버에 대한 백신 설치를 진행하고 있으며, 백신설치가 어려운 서버에 대해서는 허용된 사람 이외의 서버 접속을 통제하는 등 접근통제를 추진하고 있으며 둘째, 감사원 지적 사항에 대해 소관 출연연구기관 전체를 대상으로 점검을 실시했고, 셋째, 국가과학기술연구회 내의 사이버보안 담당조직을 신설해 소관 출연연구기관의 서버백신 공동 구매, 서버보안 교육 실시 등을 적극 지원할 계획이며, 넷째, 출연연구기관의 사이버보안 경각심을 강화하기 위해 기관장에 대한 사이버보안 교육을 실시하고, 기관 평가에 사이버 침해사고에 대한 지표를 신설할 예정이다.</p>
+<p>과기정통부는 "앞으로 소관 출연연구기관의 사이버보안을 강화해 R&amp;D 연구개발 성과를 보호하기 위해 최선을 다하겠다"고 덧붙였다.</p>]]></description>
+		</item>
+		<item>
+			<title>앤트로픽, 깃 대신 쓰는 자체 코드 관리 시스템 &apos;사이언&apos; 공개</title>
+			<link>https://zdnet.co.kr/view/?no=20261014212553</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014212553</guid>
+			<author>AI 에디터</author>
+			<category>AI 에디터</category>
+			<category>컴퓨팅</category>
+			<pubDate>Wed, 14 Oct 2026 21:25:53 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/14/ai14022444ee9354f3802507805ac2c8ce.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/14/ai14022444ee9354f3802507805ac2c8ce.jpg" alt="">
+<p>앤트로픽이 현지 시각 10월 13일 회사 엔지니어링 블로그를 통해 자체 개발한 코드 관리 시스템 &apos;사이언(Scion)&apos;을 공개했다. 사이언은 개발자 대부분이 사용하는 코드 관리 도구 &apos;깃(Git)&apos;을 대신해 앤트로픽 내부에서 사용하는 시스템이다. 깃은 여러 개발자가 수정한 코드의 변경 기록을 저장하고 합치는 버전 관리 도구다.</p>
+<p>앤트로픽은 코드 변경량이 급격히 증가하면서 새 시스템이 필요해졌다고 설명했다. 앤트로픽 저장소에 하루 반영되는 코드 변경은 2026년 5월 약 2,500건에서 9월 3만 건 이상으로 증가했다. 앤트로픽은 모든 코드를 한 저장소에서 관리하는데, 주요 변경 기록만 약 100GB에 달한다. 앤트로픽은 하루 약 2,500만 번 이뤄지는 자동 코드 내려받기를 깃 방식 그대로 처리하면 하루 600PB가 넘는 데이터 전송이 발생한다고 설명했다. 데이터 전송을 줄이기 위해 수백 대의 내부 깃 복제 서버를 운영했지만, 코드 변경이 증가할수록 관리가 어려워졌다.</p>
+<p>깃은 저장소를 내려받는 모든 컴퓨터에 전체 기록을 복사하는 방식이어서 인터넷 연결 없이도 작업할 수 있다. 앤트로픽은 자사 코드 작업을 수행하는 주체 대부분이 항상 인터넷에 연결된 AI 에이전트와 자동화 작업이라는 점에 주목했다. 사이언은 전체 기록을 서버에 두고, 각 컴퓨터는 필요한 파일만 받아 작업한다. 코드를 합치거나 정리하는 작업도 서버에서 처리한다.</p>
+<p>앤트로픽에 따르면 사이언은 기존 깃 기반 설비보다 컴퓨터 처리 자원과 메모리를 약 200분의 1만 사용한다. 자동 시험과 연구용 코드를 내려받는 시간은 몇 분에서 몇 초로 단축됐고, 자동 시험 작업에서만 컴퓨터 처리 자원의 25%를 절감했다. 서버와 각 컴퓨터 사이에 둔 임시 저장 계층은 요청의 99% 이상을 바로 처리한다. 앤트로픽 엔지니어 7명이 5개월 만에 사이언과 코드 검토 도구 &apos;앤티크&apos;를 개발하고 전체 저장소를 이전했다. 이 과정에서 클로드가 깃 데이터를 사이언으로 가져오는 프로그램을 다시 작성해 메모리 사용량을 20분의 1로 줄이고 속도를 4배 높였다.</p>
+<p>앤트로픽은 사이언을 외부에 공개하지 않을 계획이다. 앤트로픽은 사이언이 일반 용도로 깃을 대체하기에는 적합하지 않다며, 대신 설계 방식을 공유해 개발자들이 깃에 일부 아이디어를 적용할 수 있도록 깃허브, 깃랩과 오픈소스 커뮤니티와 협력하겠다고 밝혔다.</p>
+<p>자세한 내용은 <a href="https://www.anthropic.com/engineering/redesigning-source-control" target="_blank" rel="noopener noreferrer" style="letter-spacing: 0.8px; background-color: rgb(255, 255, 255); font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><strong>앤트로픽 엔지니어링 블로그</strong></a><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">에서 확인할 수 있다.</span></p>
+<p>이미지 출처: 앤트로픽</p>
+<p><a href="https://aimatters.co.kr/subscribe" target="_blank"></a></p>
+<p>■ 이 기사는 AI 전문 매체 ‘<a href="https://aimatters.co.kr/" target="_blank">AI 매터스</a>’와 제휴를 통해 제공됩니다. 기사는 클로드 3.5 소네트와 챗GPT를 활용해 작성되었습니다. (☞ <a href="https://aimatters.co.kr/?p=55078" target="_blank" rel="nofollow" class="link">기사 원문 바로가기</a>)</p>]]></description>
+		</item>
+		<item>
+			<title>SECUI-&gt;SECUi로...시큐아이, 영문 사명 변경</title>
+			<link>https://zdnet.co.kr/view/?no=20261014210451</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014210451</guid>
+			<author>방은주 기자</author>
+			<category>시큐아이</category>
+			<category>컴퓨팅</category>
+			<pubDate>Wed, 14 Oct 2026 21:04:51 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/14/c6a9539a4d4105d9ee1843779d7cb0aa.png" alt=""><p>시큐아이(대표 정삼용)가 영문 사명을 &apos;SECUI&apos;에서 &apos;SECUi&apos;로 변경했다. 이번 사명 변경은 영문 사명 &apos;SECUi&apos;의 발음 인지성을 높이는 동시에, 글로벌 보안 기업으로서의 시큐아이의 정체성을 명확히 하고 경쟁력을 강화하기 위해 추진됐다고 회사는 14일 설명했다.</p>
+<p>새로 공개한 CI는 기존 &apos;SECUI&apos;의 마지막 영문자 &apos;I&apos;를 소문자 &apos;i&apos;로 변경해 기존 브랜드의 연속성을 유지하고 지능형 보안을 의미하는 &apos;Intelligence&apos;를 강조했다.</p>
+<p>신규 심볼은 감시자의 눈과 방패를 모티브로 디자인해 브랜드 정체성을 시각적으로 강조했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/14/c6a9539a4d4105d9ee1843779d7cb0aa.png" alt="">
+<p>중앙의 눈은 보이지 않는 위협을 탐지하고 대응하는 지능형 보안 역량을, 외곽의 방패 형태는 위협으로부터 고객의 환경을 보호하는 견고한 보안 체계를 상징한다. 탐지와 대응을 결합한 심볼을 통해 고객의 핵심 자산을 빈틈없이 지켜내는 시큐아이의 통합 보안 역량을 표현한다고 회사 측은 설명했다.</p>
+<p>시큐아이는 네트워크부터 클라우드, 보안 서비스를 아우르는 풀스택(Full-Stack) 보안 기업으로서 차별화된 기술력과 통합 보안 역량을 바탕으로 글로벌 시장에서 경쟁력을 강화할 계획이다.</p>
+<p>정삼용 시큐아이 대표는 "새로운 브랜드 아이덴티티를 바탕으로 고객과의 접점을 넓히고, 국내를 넘어 글로벌 시장에서도 시큐아이만의 차별화된 가치를 전달해 나가겠다"고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>[카드뉴스] 우리 집 냉장고가 해킹기지가 될 수 있다고</title>
+			<link>https://zdnet.co.kr/view/?no=20261014095100</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014095100</guid>
+			<author>AMEET</author>
+			<category>냉장고해킹</category>
+			<category>해킹</category>
+			<category>컴퓨팅</category>
+			<pubDate>Wed, 14 Oct 2026 21:01:20 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/14/3bcffd56b48ea65d299b4890a7a15731.png" alt=""><p>안녕하세요, 혹시 우리 집 냉장고가 해킹의 통로가 될 수 있다는 이야기, 들어보셨나요? </p>
+<img src="https://image.zdnet.co.kr/2026/10/14/3bcffd56b48ea65d299b4890a7a15731.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/14/7e28e20dabb6ac171b056bbe127ef0ae.png" alt="">
+<p>요즘 냉장고에는 AI가 들어가서, 안에 달린 카메라로 식재료의 신선도를 재고 내가 자주 사는 물건까지 스스로 배워요. 더 눈여겨볼 점은 이 계산을 인터넷 서버가 아니라 냉장고가 직접 한다는 건데요, 말하자면 냉장고가 스스로 계산하는 작은 컴퓨터가 된 셈이에요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/14/c9de262400da044997ab505a6b6a9fe8.png" alt="">
+<p>그런데 AI 전문가 패널들은 이런 AI 가전의 위험도를 10점 만점에 8.5점으로 봤어요. 보안 업데이트를 믿을 수 있는 장치와 데이터 동의 절차가 둘 다 빠져 있다는 이유인데요, 기회보다 위험 관리가 먼저인 구간이라는 거예요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/14/df6af51d8f1f39487fd35b3c80fd4591.png" alt="">
+<p>특히 값싼 가전일수록 문제가 커요. 가격 경쟁이 심하면 보안 칩을 생략하게 되고, 그러면 부팅 단계 보호가 빠져요. 게다가 나중에 고쳐 주는 업데이트도 방치되기 쉬워서, 현관문은 있는데 자물쇠가 없는 집과 비슷하다고 해요. 기기 안에서 처리한다고 해도 내 동의는 꼭 받아야 한다는 점도 짚었어요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/14/45c8dd3fa40609e7e5a21dd0e29982a3.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/14/95e33651f12d37bef9232292f1ca4cf6.png" alt="">
+<p>물론 냉장고 해킹이 실제로 일어나지는 않았지만 AI가 소형화되고 기기에 탑재되는 요즘에는 해킹의 위험이 높아졌다고 해요. 비판적인 시각에서는 "할 수 있다"와 "했다"는 다르고, 가능성을 확실한 것처럼 착각하면 안 된다고 말하고 있고, 보안·법률 전문가들은 보안 칩과 동의 절차가 빠진 만큼 유출 통로는 이미 열려 있다고 봐요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/14/b0d4a0fb4ad752731ab7322ad71daa25.png" alt="">
+<p>그래서 AI 가전을 살 때는 오프라인 모드가 되는지, 업데이트는 얼마나 오래 해 주는지부터 꼭 확인할 필요가 있어요. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!</p>
+<img src="https://image.zdnet.co.kr/2026/10/14/2dd6ab4d58a6cb80b8ce155d8b07af5e.png" alt="">
+<p>▶ 해당 보고서 보기 <a target="_blank" href="https://ameet.zdnet.co.kr/uploads/02f66799.html" class="link">https://ameet.zdnet.co.kr/uploads/02f66799.html</a></p>
+<p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
+		</item>
 		<item>
 			<title>AI스페라, 싱가포르 &apos;거브웨어 2026&apos; 참여... &apos;AITEM&apos; 소개</title>
 			<link>https://zdnet.co.kr/view/?no=20261014202006</link>
@@ -759,95 +836,6 @@
 <p>카카오는 외부 개발자가 에이전트를 시험할 수 있는 &apos;플레이MCP&apos;와 마켓플레이스를 연결할 계획이다. 외부에서 만든 에이전트가 개인정보에 무단으로 접근하거나 이용자에게 피해를 주지 않도록 검증 체계도 마련하고 있다.</p>
 <p>개인정보와 신원 확인도 주요 개발 과제다. AI가 이용자에게 맞는 업무를 처리하려면 먼저 이용자가 누구인지 확인하고 필요한 데이터에 접근할 권한을 확보해야 한다. 카카오는 취업과 금융, 건강, 시니어 등 여러 분야에서 관련 서비스를 준비하고 있다.</p>
 <p>김 부사장은 "5000만 명에게 필요한 서비스를 우리가 모두 만들 수는 없다"며 "누구나 들어와 서비스를 만들 수 있어야 한다"고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>KISTI, 아이온큐 양자컴퓨터 이용자 2차 모집</title>
-			<link>https://zdnet.co.kr/view/?no=20261014153233</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014153233</guid>
-			<author>박희범 기자</author>
-			<category>양자컴퓨팅서비스연구단</category>
-			<category>양자컴퓨팅</category>
-			<category>KISTI</category>
-			<category>아이온큐</category>
-			<category>과학</category>
-			<pubDate>Wed, 14 Oct 2026 15:32:33 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/09/e293e1b0ea81d26d4eaab83e9ddcf471.jpg" alt=""><p>한국과학기술정보연구원(KISTI) 양자컴퓨팅서비스연구단(K-Quantum Hub)은 아이온큐 이온트랩 기반 양자컴퓨팅 클라우드 자원을 활용하는 &apos;2026년 양자컴퓨팅 클라우드 과제지원 프로그램&apos;을 공고하고, 2차 이용자 모집에 들어간다.</p>
-<p>모집 기간은 15일부터 23일까지다. 지원 대상은 국내 소재 대학·연구기관·기업 소속 연구자·개발자·대학원생 등이다. 외국인은 제외다.</p>
-<p>연구단은 1차 과제지원 프로그램 참여자도 동일한 과제만 아니면, 신청 가능하다.</p>
-<p>사전검토 및 심사는 이달 4주에, 선정 발표는 31일 토요일 진행한다.</p>
-<img src="https://image.zdnet.co.kr/2026/09/09/e293e1b0ea81d26d4eaab83e9ddcf471.jpg" alt="아이온큐 이온 트랩 (제공=아이온큐)">]]></description>
-		</item>
-		<item>
-			<title>산업부-식약처, 바이오산업 AX·글로벌 경쟁력 강화 협력</title>
-			<link>https://zdnet.co.kr/view/?no=20261014153009</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014153009</guid>
-			<author>주문정 기자</author>
-			<category>산업부</category>
-			<category>바이오산업</category>
-			<category>의료기기</category>
-			<category>식약처</category>
-			<category>AI</category>
-			<category>규제</category>
-			<category>바이오</category>
-			<category>바이오MINI얼라이언스</category>
-			<category>AX</category>
-			<category>춘천바이오산업진흥원</category>
-			<category>체외진단기기</category>
-			<category>바이오소부장</category>
-			<category>R&amp;D</category>
-			<category>헬스케어</category>
-			<pubDate>Wed, 14 Oct 2026 15:30:09 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/14/c70a3fb816daa39d33bcad58d6df3540.jpg" alt=""><p>바이오산업 육성을 담당하는 산업부와 의약품·의료기기 규제기관인 식약처가 바이오산업 전 주기에 걸친 상시 협력체계를 구축했다.</p>
-<p>산업통상부와 식품의약품안전처는 14일 춘천바이오산업진흥원에서 ‘바이오 산업의 인공지능 전환(AX)과 글로벌 경쟁력 강화를 위한 업무협약’을 체결했다.</p>
-<p>두 부처는 이날 협약에 따라 ▲바이오 분야 AI 융합 기술의 개발·실증 및 제품화 ▲AI 신기술 검증기준·가이드라인 마련 ▲국산 바이오 소재·부품·장비 개발·상용화 ▲해외 규제정보 공유를 통한 수출 지원 ▲핵심 보건의료품목 등 공급망 안정화 등에서 협력해 나가기로 했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/14/c70a3fb816daa39d33bcad58d6df3540.jpg" alt="김정관 산업통상부 장관(왼쪽)과 오유경 식품의약품안전처장이 14일 &apos;바이오 산업의 인공지능 전환과 글로벌 경쟁력 강화를 위한 업무협약&apos;을 체결한 후 협약서를 들어 보이고 있다.">
-<p>김정관 산업부 장관은 “바이오·의료기기 기술이 시장에 나오기까지 성능입증·인허가·판로 확보 등 거쳐야 할 단계가 많은 만큼, 산업부와 식약처가 한 팀으로 움직여야 한다”며 “바이오산업의 AI 전환을 가속하고, 기술개발부터 수출까지 실질 성과가 나올 수 있도록 협력해 나가겠다”고 밝혔다.</p>
-<p>오유경 식약처장은 “우수한 기술이 현장에 신속하게 도입되려면 개발 초기 단계부터 규제적 관점의 검토와 제도적 기반 마련이 병행돼야 한다”며 “식약처는 그간 쌓아 온 규제 외교 전문성을 바탕으로 산업부와 함께 우리 기업의 혁신 제품이 시장에 신속히 진출할 수 있도록 적극 지원하겠다”고 밝혔다.</p>
-<p>앞으로 산업부와 식약처는 국장급 협의체를 통해 제조업 인공지능 전환(M.AX) 바이오·바이오소부장 등 분야 공동 R&amp;D 과제를 비롯한 협력과제를 지속해서 발굴하고, 추진 상황을 점검할 계획이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/14/b6b2f329901d279db52c73726600bb86.jpg" alt="김정관 산업통상부 장관(왼쪽 두 번째)이 14일 강원권 성장엔진 투자기업 간담회를 주재하고 있다.">
-<p>김정관 장관은 이날 협약식에 이어 춘천바이오산업진흥원 체외진단기기 GMP 시설을 방문한 후 강원권 성장엔진 투자기업 오찬 간담회와 강원 후평 바이오 MINI 얼라이언스 간담회를 차례로 주재했다. 개최하였으며, 이어 육동한 춘천시장과 우상호 강원특별자치도지사와 면담을 갖고 지역 산업 현안을 논의했다.</p>]]></description>
-		</item>
-		<item>
-			<title>대주전자재료, 700억 전환사채 발행…태양광소재 대규모 공급 대비</title>
-			<link>https://zdnet.co.kr/view/?no=20261014150746</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014150746</guid>
-			<author>김윤희 기자</author>
-			<category>대주전자재료</category>
-			<category>실버페이스트</category>
-			<category>태양광</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 14 Oct 2026 15:27:18 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/02/07/2ed5b58025b9829c6ced55b9e9894ee4.png" alt=""><p>대주전자재료가 700억원 규모의 전환사채(CB)를 발행한다고 14일 공시했다.</p>
-<p>금리 인상기 속에서 회사에 우호적인 조건으로 CB를 발행하는 점을 강조했다. </p>
-<p>공시에 따르면 대주전자재료는 기준가 대비 13.7% 할증된 주당 12만원에 700억원 규모의 CB를 발행한다. 표면 및 만기 이자율은 모두 0%이며, 주가 하락에 따른 전환가액 조정(리픽싱)은 적용되지 않는다. 발행금액의 최대 50%에 대한 매도청구권(콜옵션)을 포함해 잠재적 주식 희석 부담을 관리할 수 있는 장치도 마련했다.</p>
-<p>이번 투자는 오라이언자산운용, 타임폴리오자산운용, DB자산운용이 운용하는 국민성장펀드 자펀드 3곳이 총 75억원 규모로 참여한다. </p>
-<img src="https://image.zdnet.co.kr/2025/02/07/2ed5b58025b9829c6ced55b9e9894ee4.png" alt="대주전자재료">
-<p><span style="letter-spacing: 0.8px;">회사는 이번 자금 조달에 대해 강력한 전방 수요에 적기 대응하기 위한 재원을 확보하는 동시에, 기존 주주 가치 훼손을 최소화하기 위한 방안이라고 설명했다.</span></p>
-<p><span style="letter-spacing: 0.8px;">실제 </span><span style="letter-spacing: 0.8px;">업계에 따르면 북미 우주항공 기업 S사와 세계 최대 전기차 기업 T사가 2030년까지 100GW 이상의 태양광 발전을 구축하는 과정에서 필수적인 실버페이스트 공급사로 대주전자재료가 거론되고 있다. 대한민국 전력 피크치가 100GW가 조금 안 되는 수준임을 감안할 때 양사의 태양광 발전 설비 구축 규모는 </span><span style="letter-spacing: 0.8px;">상당한 편이</span><span style="letter-spacing: 0.8px;">다.</span></p>
-<p>태양전지 원가의 약 35%를 차지하는 실버페이스트는 탈중국 조건이 가장 중요한 만큼, 지상용과 우주항공용 기술 방식을 모두 양산 공급할 수 있는 비중국 업체는 극소수로 평가된다. 이런 배경 속에서 대주전자재료와 하이퍼 스케일러 간 협업 가능성이 높게 평가된다.</p>
-<p>업계 관계자는 대주전자재료가 이번에 조달한 700억원을 운영자금으로 활용하기로 한 배경에 대해, 향후 다뤄야 할 은의 물량이 대폭 증가할 것에 대비한 사전 자금 확보 차원인 것으로 분석했다.</p>
-<p>연초 대주전자재료에 방한한 S사는 지난달 재차 방문해 공급 전 단계의 제반 점검 및 마지막 튜닝 논의를 진행했다. 지상용 태양광을 담당할 T사도 내년 3분기 양산 시점을 확정하고 텍사스주에 20GW 규모의 제조시설을 구축할 예정이다. </p>
-<p>T사 관계자들도 지난달 초 대주전자재료를 방문해 제조시설과 개발·품질관리 역량을 점검하고 공급 관련 실무 논의를 본격화했다. </p>
-<p>특히 T사는 고가의 은을 사용하는 소재 기업의 조달 부담을 고려해 자사가 직접 재료를 구매해 제조 기업에 제공하는 ‘사급’ 방식도 긍정적으로 검토 중인 것으로 알려졌다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;이중섭 화집부터 &apos;토지&apos; 에디션까지”… 와디즈, 제3회 &apos;삼무서점&apos; 오픈</title>
-			<link>https://zdnet.co.kr/view/?no=20261014152510</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261014152510</guid>
-			<author>백봉삼 기자</author>
-			<category>와디즈</category>
-			<category>기획전</category>
-			<category>펀딩</category>
-			<category>작가</category>
-			<category>창작</category>
-			<category>삼무서점</category>
-			<category>인터넷</category>
-			<pubDate>Wed, 14 Oct 2026 15:25:10 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/14/9ce2175aa8417e02d4b4ef3a36c75440.jpg" alt=""><p>와디즈가 오는 19일부터 11월 15일까지 출판·창작 기획전 &apos;삼무서점&apos;을 열고 최초 공개 대본집과 한정판 작품집 등 주요 프로젝트 펀딩을 진행한다.</p>
-<p>14일 회사에 따르면, 세 번째로 열리는 이번 기획전에서는 손글씨 작가 미꽃의 &apos;미꽃체&apos; 마스터 에디션과 드라마 &apos;유미의 세포들&apos; 무삭제 대본집, 1000부 한정으로 제작되는 미술사학자 최열의 &apos;이중섭 전작 화집&apos;이 단독 공개된다. 아울러 박경리 작가 탄생 100주년을 기념한 &apos;토지&apos; 아트 에디션을 비롯해 허영만 화백의 만화 &apos;각시탈&apos; 복간본, 황석영 중단편 에디션 등 문학·예술 거장들의 작품 펀딩이 순차적으로 이어진다.</p>
-<p>배우 김남길과 함께하는 &apos;길스토리&apos; 작가 후원 프로젝트를 통해 선정된 작가 10명의 도서 출간과 오디오북 제작도 함께 지원한다. 앞서 두 차례 진행된 삼무서점은 누적 펀딩액 43억원을 달성했으며, 참여 메이커의 42%가 첫 펀딩에 나선 신진 작가로 구성돼 창작자와 독자를 잇는 소통 무대로 자리잡았다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/14/9ce2175aa8417e02d4b4ef3a36c75440.jpg" alt="“작가가 먼저 찾는 곳” 와디즈 ‘삼무서점’…북펀딩 누적 43억 원 성과 잇는 세 번째 서가 19일 연다">
-<p>허지은 와디즈 최고운영책임자는 “작품을 간직하고 싶은 독자의 마음은 작가가 다음 작품을 만드는 힘이 된다”며 “앞으로도 작가가 새로운 작품에 꾸준히 도전하고, 독자의 발견이 지속적인 창작으로 이어지도록 무대를 넓혀가겠다”고 말했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
