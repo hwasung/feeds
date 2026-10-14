@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 14 Oct 2026 19:31:06 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 14 Oct 2026 20:30:56 +0900</lastBuildDate>
+		<item>
+			<title>佛 냉장설비 해킹, 국내도 안전지대 아니다…원격제어 보안 주의보</title>
+			<link>https://www.etnews.com/20261014000472</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261014000472</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 14 Oct 2026 20:02:47 +0900</pubDate>
+			<description><![CDATA[프랑스 전역에서 냉장·냉동 설비를 겨냥한 대규모 해킹 사고가 발생하면서 국내 식품 유통시설 보안에도 경고등이 켜졌다. 보안 업데이트가 중단된 구형 제어장치와 인터넷에 직접 노출된 원격 관리 시스템이 위험 요인으로 지목된다. 14일 프랑스 국가사이버보안청(ANSSI)에 따르면 냉장·냉동 설비를 겨냥한 사이버 공격으로 댄포스의 AK-SM·AK-SC 시리즈와 코프랜드·딕셀의 XWEB 시리즈 등 여러 제조사의 원격제어 장치가 침해된 것으로 확인됐다....]]></description>
+		</item>
+		<item>
+			<title>피지컬 AI 상용화 속도…“에이전트 시대, 추론 인프라가 경쟁력”</title>
+			<link>https://www.etnews.com/20261014000471</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261014000471</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 14 Oct 2026 19:59:51 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 디지털 공간을 넘어 물리적 세계에서 행동하는 피지컬 AI 기술의 상용화를 위해 '두뇌'에 해당하는 프런티어 AI 모델 개발과 추론 효율화가 핵심 과제로 떠올랐다. 전병곤 프렌들리AI 대표는 14일 서울 삼성동 코엑스에서 열린 '피지컬 AI 테크 데이'에서 “지금은 에이전트 시대”라며 “로봇의 두뇌를 구현하는 프런티어 AI 모델뿐 아니라 추론 인프라도 매우 중요하다”고 말했다. 과학기술정보통신부가 주최하고 정보통신산업진흥원(NI...]]></description>
+		</item>
 		<item>
 			<title>[사설] 현대차 인도 도전, 이제부턴 결실로</title>
 			<link>https://www.etnews.com/20261014000374</link>
@@ -249,23 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 14 Oct 2026 15:01:00 +0900</pubDate>
 			<description><![CDATA[한림대학교(총장 최양희)가 인공지능(AI) 교육을 대학 혁신의 핵심 전략으로 삼고 학부부터 대학원까지 이어지는 AI 인재양성 체계를 구축하고 있다. 전교생을 대상으로 AI 기초교육을 실시하는 동시에 전공별 맞춤형 AI 교육서비스를 개발하고 이를 국내외 대학과 공유하는 새로운 고등교육 모델을 추진하고 있다. 특히 최근 정부의 'AI중심대학'과 'AX대학원' 사업에 동시에 선정돼 총 367억원 규모의 정부 지원을 확보하면서 AI 교육·연구 역량을...]]></description>
-		</item>
-		<item>
-			<title>[기고] AI의 속도에 화이트해커의 경험을 더하라</title>
-			<link>https://www.etnews.com/20261014000318</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000318</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 14:53:54 +0900</pubDate>
-			<description><![CDATA[예고된 위협은 결국 현실이 됐다. 최근 금융권에서 불거진 AI 해킹 이슈는 공격의 속도가 얼마나 빨라질 수 있는지 보여줬다. 방어에도 AI가 필요한 시대임은 자명하다. AI는 사람이라면 여러 도구를 바꿔가며 며칠씩 확인할 범위를 짧은 시간에 탐색한다. 취약점이 있을 만한 지점을 추론하고 시스템 반응을 살핀 뒤 실패하면 조건을 바꿔 다시 들어온다. 공격 비용은 낮아지고 시도 횟수는 늘어난다. 방어자의 하루는 그대로인데 공격자의 하루만 길어진 셈이...]]></description>
-		</item>
-		<item>
-			<title>앤트로픽, 가전기기에 바이러스처럼 자가 복제되는 &apos;AI 웜&apos; 경고</title>
-			<link>https://www.etnews.com/20261014000313</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000313</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 14:47:06 +0900</pubDate>
-			<description><![CDATA[인간의 통제 없이 인공지능(AI) 모델이 스스로 배포되고 확산되는 자율 복제 및 적응(ARA) 현상이 현실화 될 수 있다는 경고가 나왔다. 앤트로픽이 AI 모델이 스마트TV와 오븐, 냉장고 등 인터넷에 가전 기기를 활용해 스스로 복제하며 퍼지는 'AI 웜(Worm)'의 출현 가능성을 제기한 것이다. 앤트로픽은 12일(현지시간) 공개한 연구 보고서에서 “소형 AI 모델이 스마트 오븐이나 저가 안드로이드 TV 박스 같은 상용 사물인터넷(IoT) 기...]]></description>
 		</item>
 	</channel>
 </rss>
