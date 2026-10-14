@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 14 Oct 2026 18:30:56 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 14 Oct 2026 19:31:06 +0900</lastBuildDate>
+		<item>
+			<title>[사설] 현대차 인도 도전, 이제부턴 결실로</title>
+			<link>https://www.etnews.com/20261014000374</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261014000374</guid>
+			<author>논설위원실</author>
+			<category>오피니언</category>
+			<pubDate>Wed, 14 Oct 2026 18:30:00 +0900</pubDate>
+			<description><![CDATA[현대자동차그룹이 인도 진출 30주년과 함께 마하라슈트라주 탈레가온에 푸네 신공장을 준공하고 본격적인 '연간 100만대 생산 체제'에 돌입했다. 기존 첸나이 1·2공장에 이어 첨단 스마트 거점인 푸네 공장이 가동됨으로써 현대차의 인도 현지 생산과 수출 전진기지 구축은 확고한 반석 위에 올라섰다. 동시에 현지 자동차 완성차 메이커 최초로 '승용차 누적 수출 400만대'라는 대기록을 달성한 것은 30년 전 과감했던 진출과 개척 노력이 이제 풍성한 결...]]></description>
+		</item>
 		<item>
 			<title>포티투마루, DMI서 AI 에이전트·초개인화 전략 공개</title>
 			<link>https://www.etnews.com/20261014000403</link>
@@ -257,15 +266,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 14 Oct 2026 14:47:06 +0900</pubDate>
 			<description><![CDATA[인간의 통제 없이 인공지능(AI) 모델이 스스로 배포되고 확산되는 자율 복제 및 적응(ARA) 현상이 현실화 될 수 있다는 경고가 나왔다. 앤트로픽이 AI 모델이 스마트TV와 오븐, 냉장고 등 인터넷에 가전 기기를 활용해 스스로 복제하며 퍼지는 'AI 웜(Worm)'의 출현 가능성을 제기한 것이다. 앤트로픽은 12일(현지시간) 공개한 연구 보고서에서 “소형 AI 모델이 스마트 오븐이나 저가 안드로이드 TV 박스 같은 상용 사물인터넷(IoT) 기...]]></description>
-		</item>
-		<item>
-			<title>[라이징 2026] 워크데이, AI &apos;사나&apos; 홈 배치…자율 업무환경 실현</title>
-			<link>https://www.etnews.com/20261014000309</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000309</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 14:42:34 +0900</pubDate>
-			<description><![CDATA[워크데이가 기업용 인공지능(AI) 에이전트 플랫폼 '사나'를 워크데이 홈 전면에 배치했다. 인사·재무·정보기술(IT) 등 기업 업무 전반을 AI 중심으로 지원한다. 아닐 부스리 워크데이 최고경영자(CEO)는 13일(현지시간) 미국 라스베이거스 베네시안 컨벤션센터에서 열린 '라이징 2026' 이노베이션 키노트에서 “사나는 워크데이에서 모든 업무를 시작하는 새로운 출발점”이라며 “사용자가 AI에 자연어로 지시하면 필요한 업무를 수행할 수 있다”고...]]></description>
 		</item>
 	</channel>
 </rss>
