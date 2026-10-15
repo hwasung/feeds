@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 15 Oct 2026 18:31:05 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 19:30:54 +0900</lastBuildDate>
+		<item>
+			<title>[2026 국감] KISA 사이버보안 대응체계 부실 지적…여야 한목소리</title>
+			<link>https://www.etnews.com/20261015000452</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000452</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 19:01:59 +0900</pubDate>
+			<description><![CDATA[잇따른 해킹과 개인정보 유출 사고로 국가 사이버보안 대응체계의 한계가 드러났다는 지적이 국회 국정감사에서 제기됐다. 여야는 한국인터넷진흥원(KISA)의 침해대응 시스템 노후화와 예산 부족, 국가 차원의 사이버보안 컨트롤타워 부재 등을 한목소리로 비판했다. 15일 국회 과학기술정보방송통신위원회의 KISA 국정감사에서 여야 의원들은 사이버 위협이 고도화되고 있지만 이를 뒷받침할 보안 인프라와 범정부 대응체계는 미흡하다고 지적했다. 김남국 더불어민주...]]></description>
+		</item>
 		<item>
 			<title>[사설] K증시, 충격을 경쟁력으로 메우자</title>
 			<link>https://www.etnews.com/20261015000364</link>
@@ -259,15 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 15 Oct 2026 12:05:17 +0900</pubDate>
 			<description><![CDATA[아이티센엔텍은 2027학년도 대학입시 논술전형을 준비하는 수험생을 위한 인공지능(AI) 기반 학습 서비스 'AI 논술 코치'를 출시했다고 15일 밝혔다. AI 논술 코치는 대학별로 서로 다른 논술 출제 방식과 평가 요소를 반영해 수험생이 지원 대학의 시험 조건에 맞춰 연습하고, AI를 통해 즉시 채점과 첨삭 피드백을 받을 수 있도록 개발한 서비스다. 아이티센엔텍이 공공 교육 분야에서 축적한 사업 경험과 AI 기술 역량을 바탕으로 직접 기획·개발...]]></description>
-		</item>
-		<item>
-			<title>비젠트로, 통합 비즈니스 솔루션 &apos;제니원(ZeniOne)&apos; GS인증 1등급 획득</title>
-			<link>https://www.etnews.com/20261015000216</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000216</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 15 Oct 2026 11:19:39 +0900</pubDate>
-			<description><![CDATA[비즈니스 정보기술(IT) 솔루션 전문기업 비젠트로(대표 김홍근)는 자사의 통합 비즈니스 솔루션 '제니원(ZeniOne) v1.0'으로 소프트웨어 품질인증(GS인증) 1등급을 획득했다고 15일 밝혔다. GS인증은 한국 정부(TTA 등)가 소프트웨어산업진흥법에 근거해 우수한 품질의 국산 소프트웨어에 부여하는 국가 인증 제도로, 실제 운영 환경과 유사한 조건에서 기능성, 신뢰성, 사용성 등 엄격한 품질 테스트를 거쳐 수여된다. 이번에 GS인증 1등...]]></description>
 		</item>
 	</channel>
 </rss>
