@@ -4,7 +4,119 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Thu, 15 Oct 2026 12:31:21 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 13:31:25 +0900</lastBuildDate>
+		<item>
+			<title>DB글로벌칩, &quot;미니 LED용 DDI·컨트롤러칩 내년 초 상용화 목표&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261015123712</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015123712</guid>
+			<author>장경윤 기자</author>
+			<category>DB글로벌칩</category>
+			<category>DB하이텍</category>
+			<category>팹리스</category>
+			<category>MCU</category>
+			<category>AI</category>
+			<category>네뷸라</category>
+			<category>피지컬</category>
+			<category>온디바이스</category>
+			<category>반도체</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Thu, 15 Oct 2026 13:25:09 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/64aeb70939fc8e48ff3bbb0842fe8303.jpg" alt=""><p>팹리스 기업 DB글로벌칩이 <span style="letter-spacing: 0.8px;">인공지능(AI)을 </span><span style="letter-spacing: 0.8px;">결합한 반도체 기술로 미니 발광다이오드(LED) 시장을 공략한다. DB글로벌칩 입장에서 신시장이다. </span><span style="letter-spacing: 0.8px;">이르면 내년 초 상용화가 목표다. </span></p>
+<p><span style="letter-spacing: 0.8px;">박찬호 DB글로벌칩 대표는 15일 서울 강남 코엑스에서 열린 &apos;제9회 반도체 산학연 교류 워크숍&apos;에서 </span><span style="letter-spacing: 0.8px;">차세대 반도체 사업전략을 공개했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/10/15/64aeb70939fc8e48ff3bbb0842fe8303.jpg" alt="박찬호 DB글로벌칩 대표가 15일 서울 강남 코엑스에서 열린 &apos;제9회 반도체 산학연 교류 워크숍&apos;에서 발표를 진행하고 있다(사진=지디넷코리아)">
+<p><span style="letter-spacing: 0.8px;">DB글로벌칩은 현재 주력인 디스플레이구동칩(DDI) 사업영역을 확대하기 위해 </span><span style="letter-spacing: 0.8px;">&apos;네뷸라 AI&apos;를 개발하고 있다. </span><span style="letter-spacing: 0.8px;">네뷸라 AI는 AI 학습 기능을 </span><span style="letter-spacing: 0.8px;">탑재해, 칩 성능과 </span><span style="letter-spacing: 0.8px;">전력효율을 높이는 일종의 알고리즘 구조다. 이를 구현하기 위해 마이크로컨트롤러유닛(MCU), 전력관리반도체(PMIC) 등 핵심 구동 기능을 하나의 칩에 통합 설계한다. </span></p>
+<p><span style="letter-spacing: 0.8px;">DB글로벌칩이 </span><span style="letter-spacing: 0.8px;">네뷸라 AI를 가장 먼저 </span><span style="letter-spacing: 0.8px;">적용할 </span><span style="letter-spacing: 0.8px;">것으로 기대하는</span><span style="letter-spacing: 0.8px;"> 분야는 미니 LED용 </span><span style="letter-spacing: 0.8px;">DDI와 </span><span style="letter-spacing: 0.8px;">컨트롤러 칩이다. 내부 테스트에서 </span><span style="letter-spacing: 0.8px;">네뷸라 AI를 적용한 칩은 기존 칩 대비 TV 전력사용량을 5% 절감했다. </span><span style="letter-spacing: 0.8px;">기기 동작온도는 26% 떨어졌다. </span></p>
+<p><span style="letter-spacing: 0.8px;">박 대표는 "네뷸라 AI 기반 미니 LED용 DDI는 연내 모듈 조립을 완료하고, 이후 잠재 고객과 평가하는 </span><span style="letter-spacing: 0.8px;">것이 목표"라며 "내년 중으로는 사업화가 될 수 있게끔 노력하고 있다"고 설명했다. DB글로벌칩은 네뷸라 AI 상표도 출원(신청)했다. </span></p>
+<p><span style="letter-spacing: 0.8px;">DB글로벌칩은 </span><span style="letter-spacing: 0.8px;">국내 </span><span style="letter-spacing: 0.8px;">8인치 </span><span style="letter-spacing: 0.8px;">파운드리 </span><span style="letter-spacing: 0.8px;">기업 </span><span style="letter-spacing: 0.8px;">DB하이텍의 팹리스 </span><span style="letter-spacing: 0.8px;">자회사다. </span><span style="letter-spacing: 0.8px;">지난 </span><span style="letter-spacing: 0.8px;">2023년 </span><span style="letter-spacing: 0.8px;">물적분할로 </span><span style="letter-spacing: 0.8px;">설립했다. 현재 DB글로벌칩의 주력 수익원은 </span><span style="letter-spacing: 0.8px;">삼성전자 스마트폰 유기발광다이오드(OLED)용 </span><span style="letter-spacing: 0.8px;">DDI다. 최근 스마트폰 시장 업황 부진과 금값 상승 등으로 DDI 사업 수익성이 나빠지고 있다. </span></p>
+<p><span style="letter-spacing: 0.8px;">상반기 DB글로벌칩 실적은 매출 998억원, 당기순손실 42억원이다. 지난해 연간으로 </span><span style="letter-spacing: 0.8px;">적자전환했</span><span style="letter-spacing: 0.8px;">다. 지난해 실적은 매출 1629억원, 영업손실 165억원, 당기순손실 149억원 등이다</span><span style="letter-spacing: 0.8px;">.</span></p>]]></description>
+		</item>
+		<item>
+			<title>드론 3대 레이저로 모두 잡았다…한화시스템 &apos;천광&apos; 시연 성공</title>
+			<link>https://zdnet.co.kr/view/?no=20261015132011</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015132011</guid>
+			<author>류은주 기자</author>
+			<category>한화시스템</category>
+			<category>천광</category>
+			<category>드론</category>
+			<category>요격</category>
+			<category>레이저</category>
+			<category>대공무기</category>
+			<category>IT 일반</category>
+			<pubDate>Thu, 15 Oct 2026 13:20:11 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/066693b0b1b7a7aae16edaf4ec976389.jpg" alt=""><p>한화시스템이 육군 훈련에서 레이저 대공무기 ‘천광’과 차량 탑재형 레이저포로 표적 드론 3대를 모두 요격했다.</p>
+<p>한화시스템은 지난 14일 육군본부가 주관한 ‘아미 타이거 플러스 미래전 통합 전투수행훈련’에서 두 무기체계의 드론 요격 시연을 마쳤다고 15일 밝혔다.</p>
+<p>이번 훈련은 첨단 기술을 적용한 전투 장비를 활용해 미래 전장에 필요한 작전 수행 능력을 점검하는 행사다. 김규하 육군참모총장과 군 관계자, 산·학·연 전문가 등 500여명이 참석했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/15/066693b0b1b7a7aae16edaf4ec976389.jpg" alt="육군본부 주관으로 14일 열린 ‘아미 타이거 플러스 미래전 통합 전투수행훈련’에서 드론 요격 시연을 수행한 레이저 대공무기 블록-I ‘천광’ (사진=한화시스템)">
+<p>시연에는 레이저 대공무기 블록-Ⅰ인 천광과 30kW급 전투차량 탑재형 고에너지 레이저포가 참여했다. 회사에 따르면 두 체계는 시연에 투입된 드론 3대를 모두 타격했다.</p>
+<p>천광은 국방과학연구소(ADD)가 개발하고 한화시스템이 시제업체로 참여한 레이저 대공무기다. 회사는 별도 탄약 대신 전력을 사용하며, 1회 발사 비용이 약 2000원으로 운용 비용이 낮다는 점을 강점으로 꼽았다.</p>
+<p>천광은 지난 9월 육군 승진훈련장에서 열린 ‘2026 국방 드론 기술전’에서도 드론 4대와 무인기 2대를 연속으로 요격했다.</p>
+<p>함께 시연한 30kW급 차량 탑재형 레이저포는 국방기술진흥연구소가 사업 관리를 맡고 한화시스템이 주관해 개발했다. 차량에 쉽게 실을 수 있도록 주요 부품의 크기와 무게를 줄였다. 고출력 운용 과정에서 발생하는 열을 제어하기 위해 물질의 상태가 변할 때 열을 흡수하는 원리를 이용한 ‘상변화 기반 냉각 기술’도 적용했다.</p>
+<p>한화시스템은 해외 고객을 겨냥한 50kW급 레이저 장갑차도 개발하고 있다. 지난달 국방 드론 기술전에서 선보인 이 체계는 고객 요구에 맞춰 기동성과 출력을 높이는 데 초점을 뒀으며, 2027년까지 개발할 예정이다. <span style="letter-spacing: 0.8px;">한화시스템은 천광과 50kW급 레이저 장갑차를 앞세워 해외 시장을 </span><span style="letter-spacing: 0.8px;">공략할 </span><span style="letter-spacing: 0.8px;">방침이다. </span></p>]]></description>
+		</item>
+		<item>
+			<title>류진 &quot;이제 기업의 시간&quot;…한미 재계, AI·조선 협력 구체화</title>
+			<link>https://zdnet.co.kr/view/?no=20261015131256</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015131256</guid>
+			<author>류은주 기자</author>
+			<category>한경협</category>
+			<category>한미재계회의</category>
+			<category>한미</category>
+			<category>반도체</category>
+			<category>조선</category>
+			<category>IT 일반</category>
+			<pubDate>Thu, 15 Oct 2026 13:12:56 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/d61e382018bff8a0fdbf1fe09e9adf07.jpg" alt=""><p>한미 경제계가 인공지능(AI)·반도체·조선 분야의 전략투자를 실행하기 위해 양국 정부에 신속한 인허가와 인력 교류 지원을 요청했다.</p>
+<p>한국경제인협회는 15일 서울 FKI타워 컨퍼런스센터에서 미국상공회의소와 ‘제36차 한미재계회의 총회’를 열었다. 양국 기업인들은 전략·첨단산업 협력 방안을 논의하고 투자 환경 개선을 요구하는 공동선언문을 채택했다.</p>
+<p>이번 회의는 양국 정부가 지난 1일 대미 전략투자 프로젝트를 발표한 이후 마련됐다. 경제계는 합의를 실제 투자로 연결하려면 기업이 사업을 예측하고 안정적으로 추진할 수 있는 환경이 필요하다고 강조했다. 공동선언문에는 인허가 신속 처리와 인력 교류를 위한 비자 문제 등 실질적인 지원을 요청하는 내용을 담았다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/15/d61e382018bff8a0fdbf1fe09e9adf07.jpg" alt="류진 한국경제인협회 회장(왼쪽)이 15일 FKI타워 컨퍼런스센터에서 열린 ‘제36차 한미재계회의 총회’에 참석해 에반 그린버그 미한재계회의 위원장과 악수하고 있다. (사진=한경협)">
+<p>류진 한경협 회장은 개회사에서 "양국 정부가 합의한 전략투자가 이제 본격적인 실행단계에 들어섰다"며 "정부가 마련한 협력의 틀을 실질적 성과로 만들어내는 주역은 바로 기업"이라고 말했다.</p>
+<p>류 회장은 한국수출입은행 통계를 인용해 2016~2025년 한국의 대미 직접투자가 총 2063억 달러에 달했다고 설명했다. 한경협 자체 조사에서는 최근 1년간 투자 이행액이 223억 달러로 집계됐다. 그는 한국 기업들이 미국 기업과 함께 미래 산업을 키우는 파트너 역할을 확대하겠다고 밝혔다.</p>
+<p>산업별 논의에서는 AI 확산에 따른 전력 수요와 조선업 협력 과제가 주요 의제로 다뤄졌다. ‘반도체부터 조선까지’를 주제로 열린 세션에서 참석자들은 첨단산업에 필요한 에너지 공급과 한미 조선 파트너십의 실행 방안을 점검했다. 배터리와 핵심 광물, 인력 협력도 논의 대상에 포함됐다.</p>
+<p>한국경제연구원과 산업연구원, 미국 전략국제문제연구소(CSIS) 등은 경제안보 관점에서 협력 방향을 살폈다. 별도 제약·바이오 세션에서는 핵심 의약품 공급망을 안정적으로 유지하고 공동 연구개발과 임상 협력을 확대하는 방안을 논의했다.</p>
+<p>김정관 산업통상부 장관은 기조연설에서 “과거에는 한미동맹이 양국 산업협력을 강화했다면, 이제는 산업협력이 한미동맹을 더욱 굳건하게 만드는 핵심 동력이 되고 있다”고 말했다. 이어 공급망 안정화와 AI·첨단기술 혁신, 첨단제조업 경쟁력 강화를 위한 기업들의 역할을 당부했다.</p>
+<p>미국 측 위원장인 에반 그린버그 처브그룹 회장도 기업들이 예측 가능한 환경에서 투자를 이어갈 수 있도록 민관 협력을 강화해야 한다는 데 뜻을 같이했다.</p>
+<p>총회에는 양국 정·재계 인사와 전문가 60여명이 참석했다. 한국에서는 류 회장과 김 장관, 조현 외교부 장관을 비롯해 조원태 한진그룹 회장, 성래은 영원무역그룹 부회장, 박승희 삼성전자 사장과 SK·현대차·LG 관계자 등이 자리했다. 미국에서는 그린버그 회장과 미셸 스틸 주한미국대사, 케빈 매카시 전 하원의장, 찰스 프리먼 미국상의 부회장 등이 참석했다.</p>
+<p>미국 중간선거를 앞두고 정치·정책 변화를 살펴보는 특별세션도 마련됐다. 매카시 전 하원의장이 연사로 나서 미국 대외정책 전망을 설명했다. 조현 장관은 오찬 기조연설에서 양국이 경제·기술·안보 분야에서 대체 불가능한 파트너로 발전하도록 노력하겠다고 밝혔다.</p>]]></description>
+		</item>
+		<item>
+			<title>강도 10배 &apos;슈퍼 얼음&apos; 나왔다…극지방 건축자재로 활용</title>
+			<link>https://zdnet.co.kr/view/?no=20261015125355</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015125355</guid>
+			<author>이정현 미디어연구소</author>
+			<category>슈퍼얼음</category>
+			<category>얼음</category>
+			<category>과학</category>
+			<pubDate>Thu, 15 Oct 2026 13:03:30 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/ebdfd73273673ca5e13b6d856b997656.jpg" alt=""><p>이스라엘 예루살렘 히브리 대학교 연구진이 식물성 결정과 특수 단백질을 첨가해 일반 얼음보다 약 10배 강하고 파손 전까지 70배 더 많은 에너지를 흡수할 수 있는 ‘슈퍼 얼음’을 개발했다고 과학매체 사이언스얼랏이 최근 보도했다.</p>
+<p>‘바이오파이크리트(BioPykrete)’로 명명된 이 신소재는 극지방 등 특수 환경 건축 자재로 활용될 전망이다. 이번 연구 결과는 국제 학술지 ‘콜로이드 및 서피스 B: 바이오인터페이스(Colloids and Surfaces B: Biointerfaces)’에 게재됐다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/15/ebdfd73273673ca5e13b6d856b997656.jpg" alt="이스라엘 예루살렘 히브리 대학교 연구진이 일반 얼음보다 약 10배 강한 슈퍼 얼음을 개발했다. (사진=예루살렘 히브리대학교)">
+<p>연구진은 “재조합 단백질 설계와 구조 공학 사이의 간극을 메워, 지구상에서 가장 극한 환경의 혹독한 조건을 견딜 수 있는 고성능 소재를 개발했다”고 설명했다.</p>
+<p>연구를 이끈 이도 브라스라브스키 생화학자는 “단순히 섬유를 얼음에 섞는 수준을 넘어 분자 수준에서 서로 다른 물질이 어떻게 결합하는지 제어하고자 했다”며 “이러한 분자 제어는 얼음의 강도뿐만 아니라 파쇄 방식까지 바꾼다. 갑자기 산산조각 나는 대신, 훨씬 많은 에너지를 흡수하며 점진적으로 변형된다”고 밝혔다.</p>
+<p>이번 기술의 주요 적용 대상은 기존 자재와 공법을 적용하기 어려운 북극이나 남극 등 외딴 춥고 척박한 지역의 건설 프로젝트다. 또, 콘크리트나 철강 대신 얼음과 식물성 셀룰로오스를 주재료로 사용하는 만큼, 탄소 발자국이 매우 적고 생분해성까지 갖춘 친환경 건축 자재가 될 수 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/15/dc98a7c3bce0ebe288079bf917e8caf8.webp" alt="슈퍼 얼음의 내부를 전자 현미경으로 관찰한 모습. 위쪽은 40배, 아래쪽은 90배 확대된 이미지다. (사진=예루살렘 히브리대학교)">
+<p>연구진은 논문을 통해 “건설 산업은 세계 경제의 초석이지만, 동시에 상당한 탄소 배출과 막대한 자원 고갈을 초래하는 대표적 환경 오염원”이라며 기술 개발의 배경을 짚었다.</p>
+<p>다만 바이오파이크리트가 실제 현장에 적용되기까지는 시간이 더 걸릴 것으로 보인다. 이번 연구는 소규모 개념 증명(PoC) 단계였으며, 장기간에 걸쳐 다양한 환경 조건에 노출되었을 때의 내구성을 검증하는 추가 연구가 필수적이다.</p>
+<p>연구진은 기존에 쓰이던 목재 펄프의 크고 불규칙한 섬유 대신 ‘셀룰로오스 나노결정’을 채택했다. 식물의 주요 구조 물질인 셀룰로오스는 나노결정 형태일 때 미세 강화제로 작용해 균열의 확산을 막는다. 여기에 ‘CBM3a-AFPIII’라 불리는 특수 단백질이 접착제 역할을 수행하며 셀룰로오스 나노결정과 얼음을 강력하게 결합시킨다. 연구진은 재료 조합과 공정을 미세 조정하면 얼음의 성능을 더욱 끌어올릴 수 있을 것으로 기대하고 있다</p>
+<p>연구진은 소재의 내구성 평가와 함께 바이오파이크리트 내에서 균열이 전파되는 경로를 상세히 분석하여, 자신들이 가정한 강화 메커니즘이 실제로 작동하는지 검증할 계획이다. 나아가 이러한 접근 방식은 포장재 및 건설업 전반에 걸쳐 완전히 새로운 가능성을 열어줄 것으로 기대된다.</p>]]></description>
+		</item>
+		<item>
+			<title>한국로봇융합연구원-한국소재융합연구원 맞손…차세대 로봇 소재 공동 개발</title>
+			<link>https://zdnet.co.kr/view/?no=20261015095222</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015095222</guid>
+			<author>진운용 기자</author>
+			<category>한국로봇융합연구원</category>
+			<category>한국소재융합연구원</category>
+			<category>로봇</category>
+			<category>소재</category>
+			<category>연구개발</category>
+			<category>IT 일반</category>
+			<pubDate>Thu, 15 Oct 2026 12:59:51 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/1832e70271d11171453153ee091d34b0.jpg" alt=""><p>한국로봇융합연구원(KIRO)은 지난 14일 부산 웨스틴조선 호텔에서 한국소재융합연구원(KIMCO)과 차세대 로봇용 첨단·친환경 소재 분야 공동연구 및 기술협력을 위한 업무협약을 체결했다고 15일 밝혔다.</p>
+<p>양 기관은 이번 협약으로 로봇 소재 분야를 공동 연구한다. 또한 연구시설과 장비를 함께 활용하고 선진 기술정보 공유와 인력 교류를 추진한다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/15/1832e70271d11171453153ee091d34b0.jpg" alt="한국로봇융합연구원은 지난 14일 한국소재융합연구원과 차세대 로봇용 첨단·친환경 소재 분야 공동연구 및 기술협력을 위한 업무협약(MOU)을 체결했다. (사진=한국로봇융합연구원)">
+<p>각 기관의 전문성을 바탕으로 협력 분야도 구체화한다. KIMCO는 탄성소재와 정밀화학소재 기술을 지원한다. KIRO는 로봇 설계·제어 및 첨단소재 적용 기술을 맡는다.</p>
+<p>강기원 KIRO 원장은 "로봇이 산업 현장에서 안정적으로 쓰이려면 성능을 높이는 소재 기술이 중요하다"며 "양 기관의 전문성을 연계해 차세대 로봇용 소재 연구성과가 실제 산업 현장에 적용되도록 힘쓰겠다"고 말했다.</p>]]></description>
+		</item>
 		<item>
 			<title>베슬AI &quot;2030년 GPU 20만 장 확보…글로벌 톱티어 네오클라우드 도약&quot;</title>
 			<link>https://zdnet.co.kr/view/?no=20261015115843</link>
@@ -601,131 +713,6 @@
 <p>-신뢰 체계: 데이터 품질·최신성·권한·출처를 검증하고, 에이전트의 판단과 실행을 감사할 수 있도록 한다.</p>
 <p>-성과 개선 체계: 에이전트 판단을 실제 업무 결과와 연결해 성과를 측정하고 개선한다.</p>
 <p>기업이 AI 에이전트를 경쟁우위로 발전시키려면 새로운 모델과 도구를 도입하는 데 그쳐서는 안 된다. 자사의 데이터를 신뢰할 수 있게 연결하고, 업무의 의미와 권한을 일관되게 정의하며, 실행 결과를 측정해 검증된 개선을 반영해야 한다. AI 에이전트 시대의 핵심 경쟁력은 모델을 보유하는 데서 끝나지 않는다. 기업 고유의 데이터와 지식을 실제 업무 성과로 전환하는 능력에 달려 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>오픈AI, 서울서 데브데이 개최…韓 개발자 기술 교류 확대</title>
-			<link>https://zdnet.co.kr/view/?no=20261015102313</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015102313</guid>
-			<author>김미정 기자</author>
-			<category>오픈AI</category>
-			<category>인공지능</category>
-			<category>AI</category>
-			<category>챗GPT</category>
-			<category>오픈AI 데브데이</category>
-			<category>개발자</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 15 Oct 2026 10:23:13 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/e589fdf1dd962aa41b4731c536a608b4.png" alt=""><p>오픈AI가 국내 개발자들의 인공지능(AI) 활용 지원과 협력 기반 넓히기에 나섰다.</p>
-<p>오픈AI는 오는 22일 서울 강남구에서 &apos;오픈AI 데브데이 익스체인지: 서울&apos;을 개최한다고 15일 밝혔다. 국내 개발자와 기술 창업자 등이 참석하며 오픈AI 엔지니어들이 기술 세션과 시연을 진행한다.</p>
-<p>서울 행사에서는 AI 에이전트 개발과 코덱스 보안, 실시간 음성·이미지 생성 기술 등을 다룬다. 챗GPT 플랫폼과 플러그인도 주요 주제로 논의된다. 오픈AI 관계자들은 개발 과정에서 발생하는 기술적 과제와 구현 방식을 소개하고 참가자들의 질문에 답할 예정이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/15/e589fdf1dd962aa41b4731c536a608b4.png" alt="오픈AI가 국내 개발자들의 인공지능(AI) 활용 지원과 협력 기반 넓히기에 나섰다. (사진=오픈AI)">
-<p>이날 앨버트 입 오픈AI 아시아태평양 테크니컬 석세스 총괄은 기조연설을 통해 회사 개발 방향을 소개한다. 보니 채터지 오픈AI API 응용 AI 엔지니어링 총괄과 코리 칭 오픈AI 개발자 경험 담당 등은 심화 기술 세션과 시연에 나선다.</p>
-<p>아마존웹서비스(AWS)와 LG CNS는 고객 사례 발표에 참여한다. 두 기업은 오픈AI 기술 활용 경험을 토대로 개발자와 고객사가 현장에 기술·서비스를 적용할 때 고려해야 할 사항과 사례를 공유할 계획이다.</p>
-<p>행사장에는 오픈AI와 참여 기업 시연 부스가 마련된다. 주제별 교류 테이블과 네트워킹 프로그램을 통해 참가자들이 프로젝트와 아이디어를 공유하고 협력 기회를 찾도록 지원한다.</p>
-<p>데브데이 익스체인지는 미국서 열린 오픈AI 연례 개발자 행사 &apos;데브데이&apos; 기술과 경험을 각국 개발자 커뮤니티에 공유하는 행사다. 올해는 서울을 포함한 세계 8개 도시에서 열리며 지역 개발자와 오픈AI 엔지니어 간 직접 소통에 중점을 둔다.</p>
-<p>앞서 오픈AI는 지난달 29일 미국 샌프란시스코에서 개최한 &apos;데브데이 2026&apos;에서 20개 이상의 주요 업데이트를 발표했다. 지속적인 업무를 수행하는 AI 에이전트 &apos;닷츠&apos;와 새 모델 &apos;GPT-6.1 솔&apos;을 비롯해 코덱스 클라우드 개발·코드 검토·보안 기능, &apos;에이전트 API&apos; 등을 공개했다.</p>
-<p>김경훈 오픈AI 코리아 총괄 대표는 "이번 데브데이 익스체인지가 한국 개발자들이 새로운 AI 기술을 직접 경험하고 이를 실제 제품과 서비스 개발로 연결하는 계기가 되기를 기대한다"고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>스마트폰 채팅 패턴에 하루 스트레스가 고스란히…</title>
-			<link>https://zdnet.co.kr/view/?no=20261015101439</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015101439</guid>
-			<author>박희범 기자</author>
-			<category>스마트폰</category>
-			<category>마이팅</category>
-			<category>스트레스</category>
-			<category>인공지능</category>
-			<category>KAIST</category>
-			<category>과학</category>
-			<pubDate>Thu, 15 Oct 2026 10:14:39 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/47c58d5c169c2446bfb3ac888f4a618a.png" alt=""><p>스마트폰 사용자의 채팅이나 검색, 결제 습관으로 스트레스 상태를 파악하는 기술이 개발됐다.</p>
-<p>이의진 KAIST AI컴퓨팅학과 교수 연구팀은 스마트폰에서 반복하는 행동을 자동으로 찾아내고, 행동별 수행 시간과 빈도, 문자 입력 패턴 등을 활용해 일일 스트레스 상태를 판별하는 기술(SHIRBT-MMF)을 개발했다고 15일 밝혔다.</p>
-<p>연구팀은 사용자 행동 분석을 위해 ‘멀티 레벨 순차 패턴 마이닝(ML-SPM)’ 기법을 활용했다. 반복되는 화면 전환 패턴을 찾아낸 뒤, 대규모 언어모델(LLM)을 활용했다.</p>
-<p>연구팀은 "분석결과 다른 이메일·웹브라우저·메신저 앱에서도 같은 행동을 일관되게 분류하는 평가에서 95% 이상의 정확도를 보였다"고 말했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/15/47c58d5c169c2446bfb3ac888f4a618a.png" alt="날짜와 스마트폰 사용 세션을 함께 고려해 반복 UI 시퀀스를 추출하는 다단계 순차 패턴 마이닝(ML-SPM) 과정을 나타낸 그림.(이미지=KAIST)">
-<p>연구팀은 20~30대 대학생과 직장인 26명의 실제 생활 데이터를 분석했다. 스트레스 자기평가와 스마트폰 기록이 모두 확보된 기간은 단기 참여자 16명이 평균 30.5일, 장기 참여자 10명이 평균 105.1일이었다.</p>
-<p>참가자들의 스마트폰 사용에서 확인된 반복 행동은 모두 29종이었다. 한 사람은 평균 약 7가지 행동을 일상적으로 반복했다.</p>
-<p>연구팀은 이러한 행동 패턴을 학습한 개인 맞춤형 인공지능으로 하루의 스트레스 여부를 판별했다. 가장 좋은 성능을 보인 모델의 평균 정확도는 단기 참여자 75.9%, 장기 참여자 73.8%로, 약 4번 중 3번을 맞힌 셈이다. 같은 인공지능 기법으로 앱 사용량을 분석한 기존 방식보다 각각 5.5%포인트, 3.5%포인트 높았다.</p>
-<p>이의진 KAIST 전산학부 교수는 “스마트폰을 단순히 사용 시간을 측정하는 기기가 아니라 개인의 의사소통과 정보 탐색, 금융 활동이 반복되는 생활 공간으로 바라봤다”며 “이번 연구는 복잡한 스마트폰 기록을 사람이 이해할 수 있는 행동 단위로 바꿔 장기간 정신건강 변화를 보다 안정적으로 분석할 수 있는 기반을 제시한 것”이라고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>‘GTA6’ 통째 유출 철회…사이버리크 &quot;일단은 멈춘다&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261015094036</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015094036</guid>
-			<author>이선민 기자</author>
-			<category>GTA6</category>
-			<category>락스타게임즈</category>
-			<category>유출</category>
-			<category>사이버리크</category>
-			<category>게임</category>
-			<pubDate>Thu, 15 Oct 2026 10:11:02 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/08/02/d964093286beb3087a467b027aad86f6.jpg" alt=""><p>락스타게임즈의 기대작 ‘GTA6(그랜드 테프트 오토 VI)’ 미공개 자료를 잇달아 유출해온 사이버리크가 게임 전체 빌드를 공개하려던 계획을 접었다. 대신 게임 후반부 장소로 추정되는 장면을 담은 영상을 공개하며 당분간 유출을 중단하겠다는 뜻을 내비쳤다.</p>
-<p>15일 유로게이머 등 외신에 따르면 사이버리크는 최근 GTA6의 마지막 임무 일부라고 주장하는 약 4분 분량의 영상을 새롭게 공개했다.</p>
-<p>영상을 직접 확인한 유로게이머는 실제 엔딩이나 마지막 컷신으로 볼 만한 장면은 담기지 않았다고 전했다. 다만 게임 후반부와 관련된 것으로 보이는 장소가 일부 등장해 스포일러가 될 가능성은 있다고 덧붙였다.</p>
-<img src="https://image.zdnet.co.kr/2025/08/02/d964093286beb3087a467b027aad86f6.jpg" alt="락스타게임즈 &apos;GTA6&apos;">
-<p>영상에는 게임 속 여러 장소와 도시를 상공에서 내려다본 장면 등이 담겼다. 다만 전후 맥락이 없어 영상만으로 실제 게임의 어느 부분인지 파악하기는 어려운 것으로 전해졌다.</p>
-<p>보도에 따르면 사이버리크는 이번 영상을 끝으로 당분간 GTA6 관련 자료 공개를 멈추겠다는 입장도 밝혔다. 이들은 홈페이지에 “유출은 여기서 멈춘다. 일단은(The leeks stop here. For now)”이라고 게시했다.</p>
-<p>앞서 사이버리크는 자신들과 연관된 암호화폐의 시가총액이 3000만달러에 도달하면 GTA6의 200GB 이상 전체 빌드를 공개하겠다고 예고했다. 처음부터 엔딩 크레디트까지 전체 스토리를 플레이할 수 있는 빌드를 확보하고 있다는 게 이들의 주장이었다.</p>
-<p>하지만 암호화폐 가격이 급락하면서 계획은 무산됐다. 사이버리크의 밈코인 시가총액은 한때 780만달러까지 치솟았지만 불과 사흘 만에 120만달러 수준으로 떨어졌다. 빌드 공개 조건으로 내걸었던 3000만달러에는 크게 못 미친다.</p>
-<p>사이버리크는 “3000만달러에 도달하지 못했기 때문에 빌드는 공개하지 않는다”며 “200GB가 넘는 파일을 익명으로 올리는 것은 상당한 위험을 감수해야 하는 일”이라고 밝혔다. 이어 목표 달성을 통해 이들이 추진하는 이른바 비밀 프로젝트의 자금을 확보할 수 있을 때만 위험을 감수할 가치가 있다는 취지다.</p>
-<p>사실상 암호화폐 흥행에 실패하면서 GTA6 전체 빌드 공개 카드도 거둬들인 셈이다. 암호화폐 시가총액에 맞춰 게임플레이 영상을 단계적으로 공개하려던 계획 역시 중단한 것으로 전해졌다.</p>
-<p>해당 암호화폐는 GTA6 유출 영상이 잇따라 공개되면서 한때 가격이 크게 올랐다. 특히 공동 주인공 루시아와 제이슨의 노출 장면 등이 담긴 미공개 영상이 풀린 시기와 맞물려 시가총액이 급등했지만 이후 상승분 대부분을 반납했다.</p>
-<p>사이버리크는 지난 8월부터 GTA6 미공개 자료를 잇달아 온라인에 올려왔다. 실제 게임플레이로 추정되는 영상과 전체 지도라고 주장하는 이미지를 공개한 데 이어 최근에는 약 25분 분량의 추가 게임플레이 영상도 유출했다.</p>
-<p>락스타게임즈의 모회사 테이크투 인터랙티브는 유출자 추적에 나선 상태다. 유로게이머에 따르면 테이크투는 사이버리크의 신원을 파악하기 위한 조사에 착수하고 디스코드와 마이크로소프트 등을 상대로 관련 정보를 확보하기 위한 법적 절차를 밟았다.</p>
-<p>사이버리크가 이번 선언을 끝으로 완전히 활동을 접을지는 미지수다. 지난 8월 첫 유출 이후 한동안 모습을 감췄다가 최근 다시 활동을 시작한 전력이 있어서다. 이번에도 “일단은”이라는 단서를 달아 추가 유출 가능성을 완전히 닫지는 않았다.</p>
-<p>GTA6는 오는 11월 19일 플레이스테이션5(PS5)와 엑스박스 시리즈 X·S로 출시될 예정이다.</p>]]></description>
-		</item>
-		<item>
-			<title>[AI는 지금] 앤트로픽, 매출 45% 뛰고 흑자…성장 이끈 비결은</title>
-			<link>https://zdnet.co.kr/view/?no=20261015100620</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015100620</guid>
-			<author>이나연 기자</author>
-			<category>앤트로픽</category>
-			<category>3분기</category>
-			<category>매출</category>
-			<category>IPO</category>
-			<category>AI</category>
-			<category>클로드</category>
-			<category>코딩</category>
-			<category>B2B</category>
-			<category>컴퓨팅</category>
-			<pubDate>Thu, 15 Oct 2026 10:10:50 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/01/20/a1f38ac326506839bbf46d0c4c5bad5f.png" alt=""><p>기업공개(IPO)를 앞둔 앤트로픽이 기업용 인공지능(AI) 수요 확대에 힘입어 올해 3분기 매출을 전 분기보다 45% 끌어올리고 조정 기준 흑자를 달성했다. AI 코딩 도구 &apos;클로드 코드&apos;와 기업 고객을 중심으로 사업을 확장한 결과로, 수익성 개선을 지속하는 것이 중장기 과제가 될 것으로 보인다.</p>
-<p><span style="letter-spacing: 0.8px;">14일(현지시간) 블룸버그통신에 따르면 앤트로픽은 이날 미국 샌프란시스코 본사에서 열린 투자자 설명회에서 올해 3분기 매출이 168억 달러를 기록했다고 밝혔다. 조정 매출총이익률은 85%, 조정 영업이익률은 11% 이상을 기록했으며 </span>잉여현금흐름도 플러스를 나타낸 것으로 전해졌다.</p>
-<p>앤트로픽의 매출은 올해 들어 빠르게 증가했다. 로이터통신에 따르면 1분기 47억 달러였던 매출은 2분기 116억 달러, 3분기 168억 달러까지 늘었다. 다만 2분기 매출이 전 분기보다 약 147% 증가한 것과 달리 3분기 증가율은 45%로 낮아지면서 성장 속도는 둔화한 것으로 나타났다.</p>
-<img src="https://image.zdnet.co.kr/2026/01/20/a1f38ac326506839bbf46d0c4c5bad5f.png" alt="앤트로픽 AI 모델 &apos;클로드&apos; (사진=미국 씨넷)">
-<p><span style="letter-spacing: 0.8px;">성장 배경으로는 기업용 AI와 코딩 도구 수요 확대가 꼽힌다. 앤트로픽은 지난 2월 공식 블로그를 통해 클로드 코드의 연환산 매출이 25억 달러를 돌파했다고 발표했다. 당시 클로드 코드의 기업용 구독은 연초 대비 4배 증가했으며 전체 매출에서 기업 고객이 차지하는 비중도 절반을 넘어섰다.</span></p>
-<p>기업 고객 기반도 빠르게 확대됐다. 앤트로픽에 따르면 지난 2월 기준 연간 100만 달러 이상을 지출하는 고객은 500곳을 넘어섰으며 포춘 선정 10대 기업 중 8곳이 클로드를 이용하고 있다. 기업들이 응용 프로그램 인터페이스(API), 클로드 코드, 기업용 클로드 등을 개별 업무에 도입한 뒤 조직 전반으로 활용 범위를 넓히는 방식이 성장에 기여했다는 설명이다.</p>
-<p>클라우드 유통망 확대도 매출 증가를 뒷받침했다. 앤트로픽은 아마존웹서비스(AWS), 구글클라우드, 마이크로소프트(MS) 애저 등 주요 클라우드 플랫폼을 통해 클로드 모델을 제공하고 있다. 로이터가 입수한 IPO 관련 서류에 따르면 지난해 앤트로픽 매출의 47%는 아마존과 구글의 클라우드 판매망을 통해 발생했다.</p>
-<p>매출 확대와 함께 수익성 지표도 개선됐다. 파이낸셜타임스(FT)에 따르면 앤트로픽은 3분기 컴퓨팅 비용 1달러당 1.7달러의 매출을 창출한 것으로 나타났다. 조정 영업이익률도 11% 수준을 기록하면서 AI 모델 개발과 운영에 투입되는 비용을 감당할 수 있는 수익 구조를 확보하는 데 진전을 보였다.</p>
-<p><span style="letter-spacing: 0.8px;">다만 조정 기준 흑자가 회계기준 순이익 흑자를 의미하는 것은 아니다. 블룸버그에 따르면 앤트로픽은 지난해 약 420억 달러의 순손실을 기록했으며 영업손실도 80억 달러를 넘어섰다. </span>최근 수익성 개선에도 불구하고 대규모 AI 인프라 투자 부담이 이어지는 만큼 안정적인 흑자 구조를 정착시키는 것이 필요한 상황이다. </p>
-<p><span style="letter-spacing: 0.8px;">앤트로픽은 이르면 오는 11월 9일이 포함된 주부터 IPO를 위한 공식 투자자 마케팅에 착수할 예정이다. 블룸버그는 일부 투자자들이 앤트로픽의 적정 기업가치를 </span><span style="letter-spacing: 0.8px;">1조 </span><span style="letter-spacing: 0.8px;">8000억~2조 달러 수준으로 평가하고 있다고 전했다. 다만 오픈AI와의 경쟁 심화, 메타의 신규 AI 모델 출시, AI 에이전트의 안전성 논란 등은 상장 과정에서 변수로 작용할 전망이다.</span></p>
-<p>앤트로픽은 기업 고객의 AI 활용 확대를 바탕으로 제품 개발과 인프라 투자를 이어갈 방침이다. <span style="letter-spacing: 0.8px;">크리슈나 라오 앤트로픽 최고재무책임자(CFO)는 지난 2월 대규모 투자 유치 당시에도 </span><span style="letter-spacing: 0.8px;">"투자 유치는 고객들로부터 확인한 높은 수요를 반영한다"며 "기업들이 의존하는 제품과 모델을 지속해서 개발하는 데 투자금을 활용할 것"이라고 밝혔다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>파두, &apos;OCP 2026&apos;서 세계 최초 파일 시맨틱 SSD 공개</title>
-			<link>https://zdnet.co.kr/view/?no=20261015095024</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261015095024</guid>
-			<author>전화평 기자</author>
-			<category>FSSSD</category>
-			<category>파두</category>
-			<category>SSD</category>
-			<category>서버</category>
-			<category>데이터센터</category>
-			<category>AI</category>
-			<category>효율</category>
-			<category>컨트롤러</category>
-			<category>전력</category>
-			<category>스토리지</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Thu, 15 Oct 2026 10:09:34 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/15/55f5342ed441b77a47373b379a3b9615.jpg" alt=""><p>데이터센터 반도체 기업 파두가 세계 최대 규모 개방형 데이터센터 기술 컨퍼런스 &apos;2026 OCP 글로벌 서밋&apos;에서 세계 최초로 &apos;파일 시맨틱 SSD(File-Semantic SSD, 이하 FS-SSD)&apos;를 공개했다고 15일 밝혔다.</p>
-<p>12~15일(현지시간) 미국 캘리포니아 산호세 컨벤션센터에서 개최된 이번 OCP 글로벌 서밋에서 파두는 단독 부스를 마련하고 핵심 기술을 선보였다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/15/55f5342ed441b77a47373b379a3b9615.jpg" alt="미국 캘리포니아 산호세컨벤션센터에서 열린 2026 OCP 글로벌 서밋에서 관람객들이 파두가 세계 최초로 공개한 ‘파일 시맨틱 SSD(File-Semantic SSD, 이하 FS-SSD)’ 시연을 살펴보고 있다.(사진=파두)">
-<p>파두가 세계 최초로 제시한 FS-SSD는 기존 스토리지와 달리 SSD 단에서 &apos;파일&apos; 개념을 직접 인식하고 관리하는 혁신적 구조 제품이다. 파두 6세대 컨트롤러에 전용 파일 처리 펌웨어를 적용해, 그동안 서버 중앙처리장치(CPU)와 운영체제가 전담하던 파일 주소 변환, 접근 권한 확인 등을 SSD 내부에서 직접 수행한다. 표준 NVMe 명령을 활용해 그래픽처리장치(GPU) 및 데이터처리장치(DPU) 등 가속기가 CPU를 거치지 않고 스토리지 파일에 직접 접근하도록 경로를 단축했다.</p>
-<p>최근 생성형 AI와 추론 모델 확산으로 고속 데이터 읽기·쓰기 요구가 급증하는 상황에서, FS-SSD는 GPU-CPU 간 상호작용 지연을 근본적으로 제거한다. 스토리지 서버 영역 CPU·메모리·소프트웨어 부하를 원천 차단해 전력 효율과 시스템 비용을 비약적으로 줄였다. 파두는 이 기술을 DPU 기반 호스트리스 스토리지 서버로 고도화해 OEM·ODM 파트너사에 레퍼런스 디자인을 제공할 방침이다.</p>
-<p>현장 Gen6 존에서는 6세대 컨트롤러 &apos;FC6161&apos; 기반 16TB SSD의 실시간 구동을 시연했다. 기존 Gen5 대비 최대 2.5배 향상된 처리성능과 동작 시 28W 미만의 탁월한 전력 효율성을 증명했다.</p>
-<p>남이현 파두 대표는 "AI 데이터센터 환경에서는 고성능뿐만 아니라 높은 전력효율과 안정적인 지연시간이 필수"라며 "검증된 컨트롤러 경쟁력을 바탕으로 FS-SSD 기반 AI 스토리지 솔루션 시장을 지속 선도하겠다"고 강조했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
