@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 15 Oct 2026 08:30:55 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 09:35:09 +0900</lastBuildDate>
+		<item>
+			<title>델 테크놀로지스, AI 데이터 플랫폼 고도화…에이전트 활용성 높인다</title>
+			<link>https://www.etnews.com/20261015000031</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000031</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 09:05:21 +0900</pubDate>
+			<description><![CDATA[델 테크놀로지스(Dell Technologies)가 기업 데이터에 의미와 맥락을 부여해 인공지능(AI) 에이전트 활용성과 신뢰성을 높이는 데이터 플랫폼 고도화에 나선다. 데이터 통합과 검색, 처리, 스토리지 기능을 강화해 기업이 AI 시스템을 실제 운영 환경에 보다 신속하게 적용하도록 지원한다. 델 테크놀로지스는 15일 '델 AI 데이터 플랫폼(Dell AI Data Platform)' 오케스트레이션 및 스토리지 기능을 대폭 확장한다고 밝혔다....]]></description>
+		</item>
 		<item>
 			<title>[라이징 2026] 워크데이 파트너 AI·SW기업 사이 대한항공 등장</title>
 			<link>https://www.etnews.com/20261015000004</link>
@@ -259,14 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 14 Oct 2026 15:35:07 +0900</pubDate>
 			<description><![CDATA[국가 핵심 기술과 연구성과를 보유한 정부출연연구기관을 겨냥한 해킹 시도가 1년 새 73% 급증했지만, 서버의 백신 설치율은 8.7%에 그친 것으로 나타났다. 정보보안 전담인력도 정부 최소기준의 절반에 못 미쳤다. 14일 국회 과학기술정보방송통신위원회 소속 김남국 더불어민주당 의원이 과학기술정보통신부와 국가과학기술연구회(NST)에서 제출받은 자료에 따르면 NST와 소관 출연연에서 탐지된 해킹 시도는 지난해 213건으로 전년 대비 73.2% 증가했...]]></description>
-		</item>
-		<item>
-			<title>[보안, 대한민국의 기회]〈4〉세계는 연합 대응 - 혼자 지킬 수 없어</title>
-			<link>https://www.etnews.com/20261014000345</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000345</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 15:24:53 +0900</pubDate>
-			<description><![CDATA[보안의 범위가 클라우드와 인공지능(AI), 소프트웨어 공급망으로 확장되면서 한 기업이나 기관이 필요한 기술과 정보, 경험을 모두 확보하기 어려워졌다. 글로벌 보안 생태계에서 다양한 연합체가 만들어지는 배경이다. 연합체마다 목적과 운영 방식은 서로 다르다. 가장 오래 검증된 유형은 정보공유형이다. 금융서비스 정보공유·분석센터(FS-ISAC)는 1999년 미국 금융부문 정보공유 조직으로 출발해 75개국 5000개 이상 기관이 참여하는 글로벌 네트워...]]></description>
 		</item>
 	</channel>
 </rss>
