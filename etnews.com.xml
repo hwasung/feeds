@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 15 Oct 2026 17:31:00 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 18:31:05 +0900</lastBuildDate>
+		<item>
+			<title>[사설] K증시, 충격을 경쟁력으로 메우자</title>
+			<link>https://www.etnews.com/20261015000364</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000364</guid>
+			<author>논설위원실</author>
+			<category>오피니언</category>
+			<pubDate>Thu, 15 Oct 2026 17:30:00 +0900</pubDate>
+			<description><![CDATA[한국 주식시장이 또다시 거센 유동성 폭풍에 휘말렸다. 15일 장 초반부터 코스피와 코스닥 지수가 동반 급락하며 양 시장 모두에 매도 사이드카와 서킷브레이커가 발동됐다. 미국 9월 소비자물가지수(CPI)가 시장 예상치를 웃돌며 미 연방준비제도(Fed)의 금리 인상 우려가 다시 불어닥친 탓이다. 문제는 악재가 터질 때마다 되풀이되는 우리 증시의 유독 취약한 변동성이다. 이번 급락은 분명 미국 물가 충격에서 비롯됐지만, 정작 원인을 제공한 뉴욕증시의...]]></description>
+		</item>
 		<item>
 			<title>메가존클라우드, AWS &apos;KPPL&apos; 3개 부문 우승</title>
 			<link>https://www.etnews.com/20261015000414</link>
@@ -24,7 +33,7 @@
 			<description><![CDATA[LG전자가 자체 로봇 인공지능(AI) 개발을 위해 구축하는 서울 양재 데이터팩토리를 산·학·연에 개방한다. LG전자 자체 로봇 학습뿐만 아니라 국내 기업의 로봇파운데이션모델(RFM) 개발과 검증에도 LG전자의 로봇 개발 인프라가 폭넓게 활용될 전망이다. LG전자는 연내 구축 완료하는 LG 데이터팩토리를 '개방형 로봇 AI 데이터팩토리'로 활용한다. 국내 기업이 개발한 다양한 휴머노이드 로봇의 행동데이터를 수집하고, 이를 외부 기업과 연구기관이...]]></description>
 		</item>
 		<item>
-			<title>개인정보위도 &apos;구글폼&apos; 개인정보 수집…위·수탁 관리 도마</title>
+			<title>보안인증 없는 구글폼…개보위 사업에 쓰였다</title>
 			<link>https://www.etnews.com/20261015000353</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261015000353</guid>
 			<author>박진형</author>
@@ -259,15 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 15 Oct 2026 11:19:39 +0900</pubDate>
 			<description><![CDATA[비즈니스 정보기술(IT) 솔루션 전문기업 비젠트로(대표 김홍근)는 자사의 통합 비즈니스 솔루션 '제니원(ZeniOne) v1.0'으로 소프트웨어 품질인증(GS인증) 1등급을 획득했다고 15일 밝혔다. GS인증은 한국 정부(TTA 등)가 소프트웨어산업진흥법에 근거해 우수한 품질의 국산 소프트웨어에 부여하는 국가 인증 제도로, 실제 운영 환경과 유사한 조건에서 기능성, 신뢰성, 사용성 등 엄격한 품질 테스트를 거쳐 수여된다. 이번에 GS인증 1등...]]></description>
-		</item>
-		<item>
-			<title>수산아이앤티, 美 씨패킷과 맞손…AI 네트워크 보안 시장 공략</title>
-			<link>https://www.etnews.com/20261015000198</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000198</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 15 Oct 2026 11:01:38 +0900</pubDate>
-			<description><![CDATA[수산아이앤티가 미국 네트워크 관측·분석 기업 씨패킷 네트웍스(cPacket Networks)와 글로벌 시장에서 공동 솔루션 공급 및 사업 협력을 위한 전략적 기술 파트너십을 체결했다고 15일 밝혔다. 양사는 수산아이앤티의 암호화 트래픽 복호화 기술과 씨패킷의 인공지능(AI) 기반 네트워크 분석 기술을 결합한다. 암호화된 통신을 복호화한 뒤 네트워크 데이터를 수집·분석해 보안 위협 탐지와 대응을 지원하는 것이 핵심이다. 양사 협력은 씨패킷이 싱가...]]></description>
 		</item>
 	</channel>
 </rss>
