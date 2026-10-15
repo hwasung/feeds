@@ -4,7 +4,196 @@
 		<title>ITFIND</title>
 		<link>https://www.itfind.or.kr/</link>
 		<description>ITFIND</description>
-		<lastBuildDate>Thu, 15 Oct 2026 07:02:06 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 16 Oct 2026 07:02:20 +0900</lastBuildDate>
+		<item>
+			<title>재귀적 검색증강생성 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=1120-2026-00531&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=1120-2026-00531&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[- 생성형 언어모델에 학습된 내재지식(parametric knowledge)과 외부지식(non-parametric knowledge)의 융합을 통해, 생성형 언어모델의 한계를 극복할 수 있는 재귀적 검색증강생성(Recursive Retrieval-Augmented Generation) 기술임.<br/>- 초거대 생성형 언어모델의 주요한 문제인 환각문제(hallucination)는 정보의 신뢰성이 중요한 지식중심의 태스크(knowledge intensive task)에서 치명적인 문제임. 환각문제를 해결하기 위한 주요한 기술로 검색증강생성 기술이 주목을 받고 있음.<br/>. 검색증강생성은 검색된 외부지식을 근거 컨텍스트로 활용하여 응답을 생성하는 기술로, 외부지식 검색이 핵심적인 기술임. 이를 위해서 사전검색기술(pre-retrieval), 사후검색기술(post-retrieval)에 대한 연구가 활발하게 진행되고 있음<br/>. 내재지식과 외부지식의 융합에는 지식충돌(knowledge conflict)이 발생하고 이를 해결하기 위해서, 다양한 검증방법(verification)에 대한 연구가 활발히 진행되고 있음.<br/>. 생성형 언어모델이 발표된 이후에 새롭게 생성된 최신지식에 대한 응답생성을 위해서는, 검색을 통해 최신지식을 수집하고 생성형 언어모델에 컨텍스트로 제공해야 최신지식에 대한 올바른 응답을 생성할 수 있음.]]></description>
+		</item>
+		<item>
+			<title>Ku 대역 GaN 증폭기 설계 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=3540-2026-01051&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=3540-2026-01051&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[- 상용 및 군용 통신, 레이더 등 시스템의 주파수 대역이 올라감에 따라 초고주파 대역에서 동작하는 GaN 증폭기 MMIC의 수요가 증가하고 있음.<br/>- 최근에는 GaN 소자 기술의 발전으로 더 높은 출력 전력을 낼 수 있는 증폭기 MMIC의 구현이 가능하게 되어 이에 대한 많은 연구가 진행되고 있음.<br/>- 특히 군용 통신 및 레이더 시스템에서는 기존에 사용되던 TWTA(진행파관 증폭기)를 GaN 증폭기를 이용한 SSPA로 대체하기 위한 연구 개발이 진행되고 있어 향후 GaN 증폭기 MMIC의 수요는 더욱 증가할 것으로 예상됨.<br/>- GaN 증폭기 기술은 기술 선진국으로부터 기술 이전을 받기가 매우 어려운 실정이며, 부품 또한 EL 품목으로 지정되어 수입에도 제한을 받음.]]></description>
+		</item>
+		<item>
+			<title>800Gbps LWDM8 광수신 서브모듈</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=7204-2026-01444&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=7204-2026-01444&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[- 본 이전기술은 과학기술정보통신부 방송통신산업기술개발사업 일환으로 수행하는 '데이터센터 내부 네트워크용 800Gbps 광트랜시버 기술 개발' 과제의 4차년도 연구 수행 및 결과물임<br/>- 기술명: 800Gbps LWDM8 광수신 서브모듈<br/>. 채널 수: 8 채널 (O-band LWDM8 파장)<br/>. 채널당 전송속도: 106 Gbps (PAM4)<br/>. 수광부: PIN-PD + TIA<br/>. Glass sub-mount(8채널 500 um pitch)<br/>. 8 채널 PIN-PD AuSn 본딩 기술(레이저 국부 가열)<br/>. LWDM8 DeMUX 광도파로 - PD 간 광 정렬 공정 기술<br/>. High speed PCB RF 전송선로 설계 기술<br/>. PIN-PD sub-mount 설계 기술]]></description>
+		</item>
+		<item>
+			<title>0.5㎛ Silicon CMOS 집적회로 공정 및 소자 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4012-2026-01111&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4012-2026-01111&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[- 0.5㎛ Si CMOS 기술은 NMOS와 PMOS를 기반으로 BJT, Diode, Resistor, Capacitor 등 다양한 능·수동소자를 단일 공정에서 구현할 수 있는 범용 집적회로 기반기술로서, Analog/Mixed-Signal IC, 센서 인터페이스, 특화 ASIC, 연구·교육용 IC 및 특수 목적 반도체 등 다양한 분야에 활용 가능한 성숙공정 기술임.<br/>- 본 기술은 단순한 단위공정 Recipe가 아니라 Well 형성, LOCOS Isolation, Gate Stack, LDD, Polysilicon Resistor, PIP Capacitor, ILD/IMD, Contact/Via 및 다층 금속배선 등으로 구성되는 CMOS 일괄공정 기술과 이에 대응하는 소자기술을 포함 하고 있어, 독립적인 CMOS 집적회로 설계·제작 기반을 구축하기 위한 핵심 기반기술에 해당함.]]></description>
+		</item>
+		<item>
+			<title>관심사 기반 문화유산 스토리 추천 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4250-2026-01741&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4250-2026-01741&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[본 기술은 문화유산의 특성과 관계를 학습한 지식그래프 임베딩 모델을 기반으로 사용자의 관심사, 관람 가능 시간, 현재 관람 중인 유물 또는 큐레이팅 로봇의 현재 위치를 입력받아 개인에게 적합한 문화유산 관람 목록을 생성하는 관심사 기반 추천 기술이다. 단순 인기순 또는 고정 코스 방식과 달리 관심사 유사도와 유물 간 유사도를 결합하고, 관람 가능 시간에 따라 추천 수를 조정하며, 로봇 이동 동선을 반영하여 추천 순서를 정렬한다.<br/>이전 대상에는 학습 및 실행 통합 코드, 학습된 네트워크와 가중치 데이터, 관련 기술문서, 특허 및 사용설명서가 포함된다. 추천 결과는 문화유산 스토리텔링 플랫폼, 전시안내 로봇, 키오스크, 모바일 및 웹 도슨트 서비스 등에 연계할 수 있으며, 기관별 소장품 데이터와 동선 코드를 반영하여 적용할 수 있다.]]></description>
+		</item>
+		<item>
+			<title>국방 메타버스 플랫폼 및 콘텐츠 제작 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4220-2026-01243&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4220-2026-01243&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[- 물리적으로 분리된 다수 사용자가 단일 가상공간에 동시 접속하여 협업·교육 훈련을 수행하는 실·가상 연동형 다중 사용자 XR 메타버스 플랫폼 기술<br/>- MRTK 기반 단일 프로젝트로 구현한 “XR통합솔루션”(XR클라이언트·앱서버·공간인식모듈)과 “웹관리서버”로 구성<br/>- 마커 기반 공간인식모듈로 실·가상 좌표계를 정합하고, R-UDP 기반 상태 동기화로 이기종 XR장치 사용자간 콘텐츠를 실시간 공유<br/>- 플랫폼 기반 우주상황인식 교육훈련 콘텐츠 「우주의 이해」를 제작하여 다중사용자 환경에서 검증]]></description>
+		</item>
+		<item>
+			<title>전통회화 작화지도 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4250-2026-01664&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4250-2026-01664&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[본 기술은 문화전승 관점에서 일반인 또는 미술전공 지망생이 정선, 김홍도 화풍을 재현하는 본인의 작품을 창작생성하고, 해당 아티스트 관점에서의 코멘트와 교정영역 가시화 정보를 제공받는 기술이다.]]></description>
+		</item>
+		<item>
+			<title>이종AI가속기 환경에서 분산 추론 가능한 RAG</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2120-2026-01931&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2120-2026-01931&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[본 기술이전의 대상은 위 연구개발 결과물 중 이종 가속기(CPU·GPU) 환경에서 RAG 파이프라인을 분산 추론하는 6단계 처리 파이프라인이다. 이 파이프라인은 어휘 검색, 의미 검색, 하이브리드 융합, 재순위, 프롬프트 생성, 답변 생성의 6개 모듈로 구성되며, 각 모듈은 분산 실행 프레임워크인 Ray에저 지원하는 actor 및 task 단위로 나누어진다. 그리고 각 모듈의 연산 특성과 하드웨어 친화도에 따라 적합한 가속기(CPU·GPU)에 배치·실행된다. 본 기술이전을 통해 이종 자원의 상보적 특성을 활용하여 자원 활용률과 처리 효율을 극대화하는 것을 지향한다.]]></description>
+		</item>
+		<item>
+			<title>영상 기반 작업자 안전 상황 인지 및 상태 추정 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2210-2026-02692&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2210-2026-02692&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 본 기술은 제조업 현장 운용 시 작업자의 안전 관리에 필요한 "영상 기반 작업자 안전 상황 인지 및 상태 추정 기술"에 관한 것임<br/>ㅁ "3D 패키징 후공정 혁신을 위한 AI융합 지능형 광학검사 제어 인터랙션 기술개발" 과제에서는 반도체 후공정 비전검사 장비의 운용·점검 환경에서 카메라 영상으로부터 작업자의 행동 상태를 추정하고 낙상 등 위험 상황을 인지하는 작업자 중심 지능형 안전 상황 인지 기술에 관한 연구를 수행하고 있음<br/>ㅁ 작업 영상으로부터 작업자의 자세를 17관절 skeleton 시계열로 추정·보정하고, 사전학습된 모션 표현 AI 모델과 학습된 분류 헤드로 단위 구간별 행동 상태(정상/위험)를 확률로 추정하는 것이 주요 기능임<br/>ㅁ 특히 별도 센서 부착 없이 카메라 영상만으로 동작하여 기존 작업 공정의 생산성 저하 없이 적용 가능하고, skeleton 기반 판단으로 조명, 복장, 배경 변화에강건하며 작업자 프라이버시 부담이 적은 것이 핵심 특징임<br/>ㅁ 구간 단위 위험 판정이 연속하여 지속될 때에만 위험 이벤트(시작·종료 시각)로 확정하는 2단계 구조로 순간적인 오인식에 의한 오경보를 줄이며, 인식 결과를 skeleton·판정 라벨·위험 확률 곡선이 표시된 주석 영상으로 제공하는 안전 상황 인지 기능이 본 기술이전의 주요 포함 기능임]]></description>
+		</item>
+		<item>
+			<title>산업안전,생활안전,도심안전을 위한 휴먼 행동 인식 Vision AI 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtg44RtVwVy6bPXgmN83NidhBp4k4xOMJa6cNwTl2BNTqDkFZhbQ%2BMYeDbT8TlaDX%2FriwwckDoNIx2IXGh0yHHuYogOK9aQ28klijTZyglBDljENaI4tWmGN5kORehdVfzJ8pt62LkPYOZ%2FTwqLzWdpJJXwNK%2FTV9fAiY4vE61c3TZvSWkavJQAm%2FBTSFutM0YCjYKgO40CZqWtuCmX3yLSMNg%2BBwyvOnUYe2znRmc5X27lVj8pgkcK9vT10zi1FzZTYN%2BxmTFeqVE%2FkWOZTkoGHCZQJbsa2llBim2v4wI%2FIvVtlN41CEzWigIhovQY%2F2YEJukkIaVQXssUaxKBhEl3SnPyzK8mjqUsa7eWgXSij0bj3tKUzEfEibtG4G49JOxyRyvl68QVn%2Ba61qcItHiNae4RpjDKFHtkWK4GEVSP%2FnDmThmFJBEIUPhxHjBLAHgujWVFWsUltrQKhIHknEfdy90XcpHmaxYl3w4RJmgNIOgj5FjKy9nckClSkGrvMthAhH7Y2m4CiYGo1p6orP6qw%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2520-2026-01921&amp;nowPage=2&amp;nowBlock=0&amp;admi</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtg44RtVwVy6bPXgmN83NidhBp4k4xOMJa6cNwTl2BNTqDkFZhbQ%2BMYeDbT8TlaDX%2FriwwckDoNIx2IXGh0yHHuYogOK9aQ28klijTZyglBDljENaI4tWmGN5kORehdVfzJ8pt62LkPYOZ%2FTwqLzWdpJJXwNK%2FTV9fAiY4vE61c3TZvSWkavJQAm%2FBTSFutM0YCjYKgO40CZqWtuCmX3yLSMNg%2BBwyvOnUYe2znRmc5X27lVj8pgkcK9vT10zi1FzZTYN%2BxmTFeqVE%2FkWOZTkoGHCZQJbsa2llBim2v4wI%2FIvVtlN41CEzWigIhovQY%2F2YEJukkIaVQXssUaxKBhEl3SnPyzK8mjqUsa7eWgXSij0bj3tKUzEfEibtG4G49JOxyRyvl68QVn%2Ba61qcItHiNae4RpjDKFHtkWK4GEVSP%2FnDmThmFJBEIUPhxHjBLAHgujWVFWsUltrQKhIHknEfdy90XcpHmaxYl3w4RJmgNIOgj5FjKy9nckClSkGrvMthAhH7Y2m4CiYGo1p6orP6qw%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2520-2026-01921&amp;nowPage=2&amp;nowBlock=0&amp;admi</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[행동 인식 기술은 다양한 센서에서 입력되는 사람의 동작과 관련된 정보를 분석하고 해석하여, 사람이 어떤 행동을 취하고 있는지를 판별하는 기술이다. 쉽게 말해, 기계가 사람의 움직임을 ‘보고’ 이해하도록 만드는 기술이다. 본 기술은 가정용 서비스 로봇, 지능형 CCTV, 서비스 로봇, 헬스케어, 스마트 인터랙션 등 다양한 분야에 적용 가능하며, 산업 전반에서 파급력이 큰 핵심 기술 중 하나이다.]]></description>
+		</item>
+		<item>
+			<title>소재 개발을 위한 디지털 데이터 플랫폼 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtg44RtVwVy6bPXgmN83NidhBp4k4xOMJa6cNwTl2BNTqDkFZhbQ%2BMYeDbT8TlaDX%2FriwwckDoNIx2IXGh0yHHuYogOK9aQ28klijTZyglBDljENaI4tWmGN5kORehdVfzJ8pt62LkPYOZ%2FTwqLzWdpJJXwNK%2FTV9fAiY4vE61c3TZvSWkavJQAm%2FBTSFutM0YCjYKgO40CZqWtuCmX3yLSMNg%2BBwyvOnUYe2znRmc5X27lVj8pgkcK9vT10zi1FzZTYN%2BxmTFeqVE%2FkWOZTkoGHCZQJbsa2llBim2v4wI%2FIvVtlN41CEzWigIhovQY%2F2YEJukkIaVQXssUaxKBhEl3SnPyzK8mjqUsa7eWgXSij0bj3tKUzEfEibtG4G49JOxyRyvl68QVn%2Ba61qcItHiNae4RpjDKFHtkWK4GEVSP%2FnDmThmFJBEIUPhxHjBLAHgujWVFWsUltrQKhIHknEfdy90XcpHmaxYl3w4RJmgNIOgj5FjKy9nckClSkGrvMthAhH7Y2m4CiYGo1p6orP6qw%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2310-2026-00671&amp;nowPage=2&amp;nowBlock=0&amp;admi</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtg44RtVwVy6bPXgmN83NidhBp4k4xOMJa6cNwTl2BNTqDkFZhbQ%2BMYeDbT8TlaDX%2FriwwckDoNIx2IXGh0yHHuYogOK9aQ28klijTZyglBDljENaI4tWmGN5kORehdVfzJ8pt62LkPYOZ%2FTwqLzWdpJJXwNK%2FTV9fAiY4vE61c3TZvSWkavJQAm%2FBTSFutM0YCjYKgO40CZqWtuCmX3yLSMNg%2BBwyvOnUYe2znRmc5X27lVj8pgkcK9vT10zi1FzZTYN%2BxmTFeqVE%2FkWOZTkoGHCZQJbsa2llBim2v4wI%2FIvVtlN41CEzWigIhovQY%2F2YEJukkIaVQXssUaxKBhEl3SnPyzK8mjqUsa7eWgXSij0bj3tKUzEfEibtG4G49JOxyRyvl68QVn%2Ba61qcItHiNae4RpjDKFHtkWK4GEVSP%2FnDmThmFJBEIUPhxHjBLAHgujWVFWsUltrQKhIHknEfdy90XcpHmaxYl3w4RJmgNIOgj5FjKy9nckClSkGrvMthAhH7Y2m4CiYGo1p6orP6qw%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2310-2026-00671&amp;nowPage=2&amp;nowBlock=0&amp;admi</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[본 이전기술은 소재 개발 과정에서 발생하는 실험·시뮬레이션 데이터를 체계적으로 활용하여 인공지능 기반 물성 예측, 실험 최적화 및 가상 실험을 지원하는 클라우드 기반 소재 디지털 데이터 플랫폼(KoMaP) 기술이다. 소재 개발에 필요한 AI 모델 구축과 실험 설계 과정을 자동화하여 개발 시간과 비용을 절감하고 소재 기업의 디지털 전환(AX)을 지원하는 것을 목적으로 한다.<br/>본 기술은 ① 소재 물성 예측 AX 서비스, ② 소재 실험 최적화 서비스, ③ 소재 물성 가상 실험 서비스, ④ 플랫폼 통합 관리 서비스로 구성된다. 소재 물성 예측 AX 서비스는 데이터 분석, 데이터 증강, AI 모델 학습·비교·선정, 가상 실험 및 모델 배포 기능을 제공한다. 소재 실험 최적화 서비스는 AI 기반 대리모델과 최적화 알고리즘을 활용하여 다음 실험 조건을 추천하고 실측 결과를 반복적으로 반영하는 폐루프 최적화를 지원한다. 소재 물성 가상 실험 서비스는 소재 데이터로 학습된 AI 모델을 활용하여 조성 및 공정 조건에 따른 물성을 예측한다. 또한 사용자별 데이터·모델 관리, AI 자산 패키지 관리, REST API 및 독립 실행 패키지 배포 기능을 제공하여 소재 기업이 별도의 AI 전문인력이나 복잡한 프로그래밍 없이 소재 개발에 AI 기술을 활용할 수 있도록 지원한다.]]></description>
+		</item>
+		<item>
+			<title>Laser-Assisted Bonding (LAB) 기반 접합 기술</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtg44RtVwVy6bPXgmN83NidhBp4k4xOMJa6cNwTl2BNTqDkFZhbQ%2BMYeDbT8TlaDX%2FriwwckDoNIx2IXGh0yHHuYogOK9aQ28klijTZyglBDljENaI4tWmGN5kORehdVfzJ8pt62LkPYOZ%2FTwqLzWdpJJXwNK%2FTV9fAiY4vE61c3TZvSWkavJQAm%2FBTSFutM0YCjYKgO40CZqWtuCmX3yLSMNg%2BBwyvOnUYe2znRmc5X27lVj8pgkcK9vT10zi1FzZTYN%2BxmTFeqVE%2FkWOZTkoGHCZQJbsa2llBim2v4wI%2FIvVtlN41CEzWigIhovQY%2F2YEJukkIaVQXssUaxKBhEl3SnPyzK8mjqUsa7eWgXSij0bj3tKUzEfEibtG4G49JOxyRyvl68QVn%2Ba61qcItHiNae4RpjDKFHtkWK4GEVSP%2FnDmThmFJBEIUPhxHjBLAHgujWVFWsUltrQKhIHknEfdy90XcpHmaxYl3w4RJmgNIOgj5FjKy9nckClSkGrvMthAhH7Y2m4CiYGo1p6orP6qw%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2410-2026-03814&amp;nowPage=2&amp;nowBlock=0&amp;admi</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtg44RtVwVy6bPXgmN83NidhBp4k4xOMJa6cNwTl2BNTqDkFZhbQ%2BMYeDbT8TlaDX%2FriwwckDoNIx2IXGh0yHHuYogOK9aQ28klijTZyglBDljENaI4tWmGN5kORehdVfzJ8pt62LkPYOZ%2FTwqLzWdpJJXwNK%2FTV9fAiY4vE61c3TZvSWkavJQAm%2FBTSFutM0YCjYKgO40CZqWtuCmX3yLSMNg%2BBwyvOnUYe2znRmc5X27lVj8pgkcK9vT10zi1FzZTYN%2BxmTFeqVE%2FkWOZTkoGHCZQJbsa2llBim2v4wI%2FIvVtlN41CEzWigIhovQY%2F2YEJukkIaVQXssUaxKBhEl3SnPyzK8mjqUsa7eWgXSij0bj3tKUzEfEibtG4G49JOxyRyvl68QVn%2Ba61qcItHiNae4RpjDKFHtkWK4GEVSP%2FnDmThmFJBEIUPhxHjBLAHgujWVFWsUltrQKhIHknEfdy90XcpHmaxYl3w4RJmgNIOgj5FjKy9nckClSkGrvMthAhH7Y2m4CiYGo1p6orP6qw%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=2410-2026-03814&amp;nowPage=2&amp;nowBlock=0&amp;admi</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o Laser-Assisted Bonding (LAB)와 기능성 소재를 기반으로 하여 디바이스를 기판 상에 접합함.<br/>o 상기 공정을 활용한 마이크로LED 모듈을 제공함.]]></description>
+		</item>
+		<item>
+			<title>CAP기반 지자체 예경보 연동용 통합 게이트웨이</title>
+			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=5110-2026-01037&amp;nowPage=1&amp;now</link>
+			<guid isPermaLink="true">https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=5110-2026-01037&amp;nowPage=1&amp;now</guid>
+			<author>한국전자통신연구원</author>
+			<category>IT동향정보</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[본 기술은 지방자치단체가 운영 및 관리하고 있는 이기종의 예경보시스템에게 공통경보프로토콜(CAP)기반 재난정보를 전달하는 기술로 재난정보 송수신 기능, 기존 예경보 시스템을 위한 재난정보 변환 기능, 재난정보 송출 결과 전송 기능, Keep Alive 기능 등을 포함하고 있음]]></description>
+		</item>
+		<item>
+			<title>제7부:  분야 [베트남 디렉토리 26-01호]</title>
+			<link>https://www.kocca.kr/shortUrl/V2Cq</link>
+			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/V2Cq</guid>
+			<author>한국콘텐츠진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[베트남의 애니메이션·캐릭터·IP 라이선싱 시장은 하나의 사업 단계가 주도하기보다, 애니메이션 제작사, 오리지널 캐릭터 IP 개발사, 완구·캐릭터 상품 제조·리테일, 아트토이·하비(취미·수집형상품) 브랜드, 라이선싱·유통 사업자 등이 참여하는 복합적인 산업 구조를 형성하고 있음. <br/><br/>베트남 시장에서 한국 애니메이션·캐릭터 IP 는 콘텐츠 시청을 넘어 상품화·라이선싱 등을 통해 사업 영역을 확장하고 있음. 키즈 애니메이션은 방송·OTT·유튜브 등을 통해 캐릭터 인지도를 형성하고, 이를 바탕으로 완구·문구·출판·의류 등 상품화와 라이선싱으로 확장됨]]></description>
+		</item>
+		<item>
+			<title>AX 전환의 성공 조건, 美 과학 이니셔티브 패키지, 中 &apos;신질생산력 발전 의견&apos; [AI·ICT Brief 2026-35호]</title>
+			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261015-000006</link>
+			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261015-000006</guid>
+			<author>정보통신기획평가원</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[Ⅰ  주요 이슈<br/><br/> 	1. AI 도입 확대와 성과의 간극, AX 전환의 성공 조건<br/><br/>Ⅱ	주요국 동향<br/> <br/> 	1. 미국, 60억 달러 이상 규모 과학 이니셔티브 패키지 발표<br/> 	2. 중국 ‘신질생산력 발전 의견’ 발표, 기술 자립과 투자 통제 병행<br/><br/>Ⅲ	ICT 부문별 모니터링<br/> <br/>Ⅳ	주요 ICT 행사 일정]]></description>
+		</item>
+		<item>
+			<title>英 정부, AI 사이버 방어 강화와 美 모델 접근권 회복 [글로벌 AI 동향(2026.10.15)]</title>
+			<link>https://www.globalict.kr/ai/globalAiInfo.do?menuCode=010600&amp;knwldNo=145943</link>
+			<guid isPermaLink="true">https://www.globalict.kr/ai/globalAiInfo.do?menuCode=010600&amp;knwldNo=145943</guid>
+			<author>정보통신산업진흥원</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[에이전트 사이버 침해 '불가피' 경고, 美 프런티어 모델 사전 평가 재개<br/> <br/>영국 AI 장관 나라얀(Narayan)은 10월 12일 AI 사이버 방어 강화 계획을 발표하며, 자율 AI 에이전트에 의한 침해가 불가피하다고 경고했다. 프런티어 AI 파일럿으로 취약점 1,000건 이상을 탐지하고 수정 기간을 50일에서 8일로 단축했으며, AISI는 미국의 17일간 차단 후 사전배포 평가권을 회복했다. 이를 계기로 프런티어 AI 평가권의 국가 간 배분이 거버넌스 핵심 의제로 부상하고 있다.]]></description>
+		</item>
+		<item>
+			<title>중국 마이크로드라마 시장의 AI 제작 확대와 배우 초상·콘텐츠 이슈 부상 [비즈니스 인사이트(2026-10-1호)]</title>
+			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261015-000012</link>
+			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261015-000012</guid>
+			<author>한국저작권위원회</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[배우 얼굴 이미지의 정식 계약을 통한 AI 활용<br/>중국 배우 첸이룽은 제작사와 얼굴 이미지 사용 계약을 체결하고 이를 기반으로 디지털 휴먼 제작을 추진함. AI 콘텐츠 제작에서 배우의 사전 동의와 초상 이용 범위를 계약으로 명확히 한 사례임.<br/><br/>본 보고서의 주요내용<br/>중국 마이크로드라마 시장은 생성형 AI 기반으로 빠르게 성장하고 있음. 동시에 배우의 얼굴·초상 등을 AI 콘텐츠에 활용하면서 관련 권리 문제도 부각되고 있음.<br/><br/>본 보고서의 시사점<br/>AI 기반 마이크로드라마 제작이 확대될수록 배우의 초상에 대한 사전 동의와 활용 범위를 명확히 하는 권리 관리 체계 마련의 중요성이 커지고 있음.]]></description>
+		</item>
+		<item>
+			<title>수노 v6 사례로 본 라이선스 음원 전면 재학습과 AI 생성 음원 관리 外 [저작권 이슈 브리프(2026-10-1호)]</title>
+			<link>https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56060&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=01&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</link>
+			<guid isPermaLink="true">https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56060&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=01&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</guid>
+			<author>한국저작권위원회</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 수노 v6 사례로 본 라이선스 음원 전면 재학습과 AI 생성 음원 관리<br/>AI 음악 생성 서비스의 학습 데이터 출처가 쟁점이 되면서, 수노는 2025년 11월 라이선스 기반 모델을 예고한 뒤 워너뮤직그룹, BMG, 빌리브와 계약을 맺어 학습 음원을 확보하고 있다. 수노는 2026년 9월 9일 v6 모델 3종을 공개하고 기존 모델을 폐기해, 기존 모델을 보완하는 대신 라이선스 데이터로 처음부터 다시 학습시키는 방식을 택했다. 구독 등급별 다운로드 제한과 파생 창작 기능도 도입했으나, 워터마킹과 핑거프린팅은 아직 계획 단계에 머물러 있다. 이에 따라 학습 범위는 계약 진행에 따라 달라지고, 산출물이 플랫폼 밖으로 유통되면 AI 생성 음원인지 확인하기 어렵다. 향후에는 식별 신호를 실제로 삽입하고 유통 단계에서 이를 확인할 수 있는 경로를 마련할 필요가 있다.<br/><br/>ㅁ AI 봇 일괄 차단의 한계 및 클라우드플레어의 용도별 트래픽 관리<br/>AI 봇이 웹사이트 콘텐츠를 수집해 학습이나 응답 생성에 활용하면서도 원문 웹사이트로 이용자를 유입시키지 않자, 웹사이트 소유자가 AI 봇을 일괄 차단하는 수단이 먼저 등장했다. 그러나 일괄 차단은 검색 노출과 학습 허용을 구분하지 못해, 소규모 웹사이트는 학습을 허용하거나 검색 노출을 포기해야 하는 양자택일에 놓였다. 이에 클라우드플레어는 봇의 이용 목적을 검색, 에이전트, 학습으로 구분해 관리하도록 하고, 2026년 9월 15일부터 광고 페이지에서는 학습과 에이전트 접근을 차단하는 기본값을 적용했다. 다만 검색과 학습을 겸하는 봇에는 가장 제한적인 규칙이 적용되고 robots.txt도 강제력이 없는 만큼, 봇 운영자가 이용 목적을 구분해 밝히고 이를 실제로 준수하는지 확인할 수단이 필요하다.<br/><br/>ㅁ 팬그램의 AI 생성 텍스트 탐지 기술과 신뢰성의 한계<br/>2026년 출판 분야에서 AI 생성 의혹이 잇따르며 출판사 아셰트가 공포소설 ‘샤이걸’의 출간을 취소하는 등 기존 출간 결정까지 번복되고 있다. 그러나 오픈AI는 워터마크 기술을 공개하지 않았고 출판사도 검수 방식을 거의 공개하지 않아, AI 생성 여부를 판별할 수단은 제한적이다. 이에 팬그램은 AI 사용 정도를백분율 탐지 점수로 제시하며 서브스택 통합과 문학 에이전시의 원고 분석으로 활용 범위를 넓혔다. 팬그램은 오탐률을 0.0041%까지 낮췄다고 밝혔지만, 가벼운 AI 편집은 과하게 판정하고 휴머나이저를 거친 AI 생성 텍스트는 대부분 놓치는 한계가 있다. 따라서 탐지 점수는 작업 이력 등 다른 근거와 함께 판단하는 보조 수단으로 활용할 필요가 있다.<br/><br/>ㅁ 유니파이드의 패키징 단계 C2PA 메타데이터 삽입과 라이브 영상 출처 증명 확대<br/>영상이 편집, 재패키징, AI 생성을 거쳐 여러 플랫폼으로 유통되면서 출처 기록과 편집 기록이 영상과 함께 전달되지 않아, 특히 라이브 채널과 속보 영상에서 출처를 확인하기 어려워지고 있다. 이에 유니파이드 스트리밍은 2026년 8월 배포 직전의 최종 패키징 단계에서 C2PA 메타데이터를 삽입하는 트러스티드 미디어를 공개했다. 이 도구는 발행자 신원, 출처 표기, 편집 맥락, AI 사용 공개 정보를 CDN 전송 직전에 삽입하고 영상 재생기에서 실시간으로 검증할 수 있게 해, 배포 경로를 새로 구축하지 않고도 기존 워크플로에 출처 증명을 가능케 했다. 또한 정적 이미지를 주로 다뤄 온 기존 C2PA 적용과 달리 스트림마다 동적으로 서명을 삽입해, 라이브 피드와 VOD, 광고 등이 섞인 혼합 선형 스트림까지 적용 범위를 넓혔다.<br/><br/>ㅁ 시스템별 로그 조사의 한계와 보호 시스템 간 데이터 연계 탐지로의 전환<br/>AI로 콘텐츠 불법 유통이 자동화되면서 사후 삭제는 확산 속도를 따라가지 못하고, 개별 로그 조사로는 여러 보호 시스템에 걸친 불법 유통 패턴을 파악하기 어려워지고 있다. 이에 오스트리아 미디어 기술 기업 빅블루마블은 2026년 9월 IBC2026에서 콘텐츠 보호 스위트의 AI 지원 탐지 및 추적 기능을 공개했다. 이 기능은 DRM, 동시 접속 보호, 포렌식 워터마킹의 행위 데이터를 종합해 계정 공유와 무단 재유통 패턴을 식별하고, 불법 스트림 녹화 영상의 워터마크를 분석해 유출 가입자나 세션을 특정한다. 이러한 결과를 각 보호 시스템의 집행 기능과 연계해 탐지부터 조치까지 하나의 절차로 연결한다. 다만 시연 단계인 만큼 실제 성과는 확인이 필요하며, 자동 대응이 확대될수록 운영자가 AI의 판단 근거를 확인하는 절차도 중요해진다.<br/><br/>ㅁ 주간 기술 동향<br/>생성형 AI로 이미지 일부를 바꾸거나 합성하는 일이 쉬워지면서, 특정 영역에만 워터마크를 삽입하는 로컬 워터마킹이 객체 단위의 출처 확인 수단으로 주목받고 있다. 그러나 기존 연구는 기술마다 평가 조건이 달라 강건성을 서로 비교하기 어려웠다. 이에 워터마킹 기술 5종에 55개 이미지 변형을 동일하게 적용해 페이로드 복원, 워터마크 영역의 위치 추정, 비가시성을 비교한 벤치마크가 제시되었다. 평가 결과 MaskWM이 가장 우수했으나 화질 저하도 가장 컸으며, 모든 기술이 정렬 변화와 생성형 편집에 취약했다. 특히 인페인팅은 워터마크 영역을 건드리지 않아도 이미지 전체를 다시 생성해 페이로드 복원을 실패하게 만들었다. 즉, 현재 로컬 워터마킹 기술은 실제 배포에 충분한 수준이 아니다.]]></description>
+		</item>
+		<item>
+			<title>불법 유통 대응의 공백과 워터마크를 통한 유출 출처 추적 [저작권 기술 트렌드(2026-8호)]</title>
+			<link>https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56061&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=06&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</link>
+			<guid isPermaLink="true">https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56061&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=06&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</guid>
+			<author>한국저작권위원회</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[2026년 7월 17일 개봉한 크리스토퍼 놀란 감독의 영화 ‘오디세이’가 개봉한지 일주일여만에 불법 복제본이 소셜 플랫폼 X에 업로드되는 사건이 벌어졌다. 해당 게시물은 삭제되기까지 약 두 시간 반 동안 210만 회가 넘는 조회 수를 기록했다. 배급사 유니버설 픽처스는 즉시 삭제 절차를 진행했고 게시 계정도 정지되었으나, 이튿날 또 다른 판본이 새로 올라왔다. 영화가 흥행을 이어 간 것과 별개로, 이 사건은 침해물을 찾아 지우는 사후 대응만으로는 유출을 근본적으로 해결할 수 없음을 보여 준다. 콘텐츠에 식별 정보를 미리 새겨 두고 유통된 사본에서 이를 읽어내는 워터마크 기술은 이 공백을 메우려는 시도다. 워터마크가 답할 수 있는 단계별 질문 유형과 워터마크에 지불해야 하는 대가를 규명한 이론 연구와, 화면 재촬영 환경에서 유출 지점을 지목하는 기술 연구를 본 보고서에서는 함께 살펴본다.]]></description>
+		</item>
+		<item>
+			<title>CXMT 여파 아시아 반도체주 급락, 아마존 Decart 인수 협상, MS Maia 300 공개 등 [글로벌 ICT 동향(2026. 10. 14.)]</title>
+			<link>https://www.globalict.kr/news/trend/daily.do?menuCode=010100&amp;knwldNo=145942</link>
+			<guid isPermaLink="true">https://www.globalict.kr/news/trend/daily.do?menuCode=010100&amp;knwldNo=145942</guid>
+			<author>정보통신산업진흥원</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 정책·규제<br/>#1 英 정부, AI 사이버 방어 강화 계획 발표하며 美 AI 모델 조기 접근권 유지<br/>#2 美 FCC, 중국 시험기관의 미국향 전자기기 인증 배제 표결 예고<br/><br/>ㅁ 시장·투자<br/>#3 中 CXMT 메모리 기술 진전과 AI 투자 회의론에 아시아 반도체주 동반 급락<br/>#4 아마존, AI 칩 최적화 스타트업 Decart 약 70억 달러 인수 협상<br/>#5 엔비디아, 중국 AI 칩 점유율 34%로 하락하고 화웨이가 28%로 2위 부상<br/>#6 Character.AI, 파산 신청하며 디즈니에 2,000만 달러 자산 매각 추진<br/><br/>ㅁ 기술·연구<br/>#7 MS, 차세대 AI 칩 Maia 300 공개하며 2027년 대량 배치 추진<br/>#8 애플, 스마트 디스플레이 HomeView 공개하며 스마트홈 시장 본격 진출<br/>#9 Anthropic, 소형 AI 모델의 가정용 IoT 기기 자가복제 가능성 경고<br/>#10 日 CEATEC 2026 개막, 제조 현장용 피지컬 AI 로봇 전시 전면 배치]]></description>
+		</item>
+		<item>
+			<title>글로벌 AI 벤처투자 동향과 투자 집중 구조: 국내 현황과 시사점 外 [월간 SW중심사회 2026년 10월호]</title>
+			<link>https://spri.kr/posts/view/24032?code=magazine&amp;s_year=&amp;data_page=1</link>
+			<guid isPermaLink="true">https://spri.kr/posts/view/24032?code=magazine&amp;s_year=&amp;data_page=1</guid>
+			<author>소프트웨어정책연구소</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[글로벌 AI 벤처투자 동향과 투자 집중 구조: 국내 현황과 시사점<br/><br/>본 보고서는 글로벌 및 국내 AI 벤처캐피털(VC) 투자를 국가·투자단계·기업·거래 규모·기술 분야별로 다차원 비교 분석하여, 투자 확대 이면의 자금 집중 구조와 국내 투자환경의 특성을 함께 조명한다. 글로벌 AI 벤처투자는 전체 VC 시장에서 차지하는 비중이 빠르게 확대되고 있다. 투자금액 비중은 2021년 23.5%에서 2026년 상반기 75.9%로 상승한 반면 거래건수 비중은 20.4%에서 36.6%로 비교적 완만하게 증가해, 최근 시장 확대가 거래건수 증가보다 개별 거래의 대형화에 크게 영향을 받은 것으로 나타났다.]]></description>
+		</item>
 		<item>
 			<title>생성형 AI 기반 VFX(특수효과) 자동 제작 기술</title>
 			<link>https://itec.etri.re.kr/httx/itec/sub02/sub02_01_1.do?ptSignature=z3rRkOUeo%2FAOo8iTvajQsCbNBQVA9oqd%2B4Nkb7QoA0Bzhopra8RUdbFXG2RdVgHCJ%2BmMvpSk69Q7aUM60SlnJVt6LKI1PeHstue8wO0%2FKdh%2B7zlJVN%2FNlcSFyRhqOoDRO5IlfM%2BqD%2FUFVNojD5giwTRUVHIu3JGN8AnknUW207jY%2FKPzx6gGAH%2Bg9owTtvDA4v1ES16wXZBNoU0jboI%2B%2FD1KomWKep2N3ukSdg0SpYoMDBx3PGqcgXEClbSPhOHtGKXYPRXyFTaDoi30bX6ymNycs7nNka9nJEsH3FgJCdNEANsrv82eqFP1F%2FsV8H%2BDkBVGjrWjTx%2FA6Gdknrbe5rY2NYds68gf53wN61Z8s6WG6x82hi3YmC5iJ3CB%2FOFC9IV1zrznWyQe42B4qFMLlm51v%2FFRsUdh0I9kP9k1MgHZ9RxiHbKohpAoiDlv2OXlp0srNCLWQ%2BSQR2lLeAw%2Bz6jTEI5hfqJP22Rebs0AJzHCPwgEwS1k1gpsv4hp0xhGNxooCgHiFXxLfyegQ4d6MLxEMX2wKg%2F46IKAZnVKzsQ9q5UuTMGnUHFV2D%2FRIYXyDrv0zbgpcsQ1JEoB0dAAsAn8s1aRTn1i75%2Fi34K1sxMCHLPaSKEIn3f7zmYRlG2TB3sJKuR0JqmeAh%2BuSVNcpo%2FujaIp0NWE%2FCS3dLvAg0p4s%2BscofAy0CyQABlxc0rXeivqLgxO2XTK%2FWgeKGVrxdYnUpeR97jpmYOyrA0YCfqC%2BMHJW4qcaHYltNiyUIuAcEvX42%2BAYJRPLJZv%2FHmsGQ%3D%3D&amp;csSignature=dnnjzP2gMhUYAJZktY%2B5vw%3D%3D&amp;t_id=4160-2026-00279&amp;nowPage=1&amp;now</link>
@@ -43,8 +232,8 @@
 		</item>
 		<item>
 			<title>캐나다의 수출 다변화 전략 추진 배경과 시사점</title>
-			<link>https://www.kiep.go.kr/gallery.es?mid=a10102060000&amp;bid=0029</link>
-			<guid isPermaLink="true">https://www.kiep.go.kr/gallery.es?mid=a10102060000&amp;bid=0029</guid>
+			<link>https://www.kiep.go.kr/gallery.es?mid=a10102030000&amp;bid=0004&amp;list_no=12644&amp;act=view</link>
+			<guid isPermaLink="true">https://www.kiep.go.kr/gallery.es?mid=a10102030000&amp;bid=0004&amp;list_no=12644&amp;act=view</guid>
 			<author>대외경제정책연구원</author>
 			<category>분석리포트</category>
 			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
@@ -87,27 +276,9 @@
 			<description><![CDATA[해상풍력을 비롯한 '블루 이코노미'가 빠르게 커지면서, 해저 지형과 케이블, 구조물 상태를 파악하기 위한 해양 데이터 수요도 함께 급증하고 있음. 그러나 전통적인 유인 탐사선은 운용 비용이 크고, 인력이 거친 해상에 직접 나가야 하며, 막대한 연료를 태운다는 한계가 있음. 본 기술은 사람이 타지 않는 무인 수상선(USV)을 위성으로 원격 조종하여, 기존 탐사선 대비 탄소 배출을 1,000분의 1 수준으로 줄이면서 해양 데이터를 안전하고 경제적으로 수집하는 플랫폼으로, 재생에너지 인프라 구축과 지속가능한 해양 개발에 기여할 수 있는 기술임.]]></description>
 		</item>
 		<item>
-			<title>미국의 M.AX 추진 동향과 제조 AI 플랫폼 경쟁</title>
-			<link>https://www.gtonline.or.kr/home/kor/M130166046/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82e6fc07c9c2a324733ed7bf287791ae&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;pageIndex=1</link>
-			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M130166046/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82e6fc07c9c2a324733ed7bf287791ae&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;pageIndex=1</guid>
-			<author>한국산업기술진흥원</author>
-			<category>분석리포트</category>
-			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[ㅁ 제조업 AI 대전환(M.AX)의 개념과 미국 제조업의 AI 전환<br/><br/>o M.AX의 등장과 패러다임 변화<br/>- 제조업은 디지털 전환과 스마트제조 단계를 거쳐 AI 중심의 제조업 대전환(M.AX)으로 진화하면서, AI를 활용한 설계·생산·품질·설비운영·공급망 관리 등 제조 전 과정의 지능화가 새로운 경쟁력으로 부상- 생성형 AI와 대규모 AI 모델의 발전으로 제조데이터 분석, 공정 최적화, 작업지원 및 자율제어 기술이 빠르게 고도화되면서 제조업의 운영방식과 가치사슬 전반을 AI 중심으로 재편하는 움직임 확대- M.AX는 단순 공정 자동화를 넘어 제조데이터, AI 모델, 디지털트윈, 클라우드, 로봇 및 자동화 설비를 통합하여 자율제조(Autonomous Manufacturing)를 구현하는 제조혁신 패러다임으로 발전]]></description>
-		</item>
-		<item>
-			<title>Hot Issue in Japan 10월1호 (일본 정책 및 경제동향)</title>
-			<link>https://www.kita.net/board/overseasMarket/overseasMarketDetail.do;JSESSIONID_KITA=84BC5D943B22F25936FCE9C9A2379ECC.Hyper?no=10499&amp;boardType=1</link>
-			<guid isPermaLink="true">https://www.kita.net/board/overseasMarket/overseasMarketDetail.do;JSESSIONID_KITA=84BC5D943B22F25936FCE9C9A2379ECC.Hyper?no=10499&amp;boardType=1</guid>
-			<author>한국무역협회</author>
-			<category>분석리포트</category>
-			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[[기업] 토이저러스, 경쟁 격화에 일본 사업 철수(닛케이, 9/30)<br/>[사회] 日, 10월 1일부터 주세·사회보험·최저임금 등 주요 제도 개편(아사히, 9/29)<br/>[경제] 日 금융당국, 은행 대출 데이터 외부 개방(닛케이, 10/7)<br/>[경제] 日 공정위, 맥주 4사 '30년 추적' 끝에 담합 혐의 강제 수사 착수(아사히, 10/7)<br/>[사설] 중국과의 대화를 끈기 있게 모색하라(닛케이, 10/3)]]></description>
-		</item>
-		<item>
 			<title>AI 데이터센터 반도체 경쟁, 칩을 넘어 이기종·개방형 시스템으로 [ICT SPOT ISSUE(2026-08호)]</title>
-			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261014-000001</link>
-			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261014-000001</guid>
+			<link>https://www.itfind.or.kr/streamdocs/view/sd;streamdocsId=S-Zuvg1omkFmrak3HAU0BpkUZlMZa0e9nDc5qmGasUk</link>
+			<guid isPermaLink="true">https://www.itfind.or.kr/streamdocs/view/sd;streamdocsId=S-Zuvg1omkFmrak3HAU0BpkUZlMZa0e9nDc5qmGasUk</guid>
 			<author>정보통신기획평가원</author>
 			<category>정기간행물</category>
 			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
@@ -148,6 +319,42 @@
 			<category>정기간행물</category>
 			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[ㅁ 최근 AI 산업에서는 토큰이 AI 서비스의 사용량·연산 규모·비용을 측정하는 핵심 단위로 활용되는 ‘토큰 이코노미(token economy)’가 부상<br/><br/>ㅁ 이러한 변화의 배경에는 AI 산업의 경쟁축이 모델 개발에서 서비스·수익화로 확장되고 AI의 활용 확대와 추론 모델·에이전트의 확산으로 추론 연산 수요가 증가하면서 비용구조까지 변화하는 구조적 전환이 존재<br/>ㅇ 토큰당 가격과 추론 비용은 빠르게 하락하고 있으나, AI 활용 확대에 따라 전체 토큰·연산 수요와 AI 지출은 오히려 증가<br/>ㅇ 특히, AI는 이용량과 과업 복잡성이 증가할수록 추가적인 연산과 비용이 발생하면서 과업 당 토큰·연산 투입량이 서비스 비용을 좌우하는 주요 변수로 부상<br/><br/>ㅁ 다만 토큰 자체가 AI의 지능이나 경제적 가치를 직접 의미하는 것은 아님<br/>ㅇ 동일한 토큰이라도 모델·과업·처리방식에 따라 비용과 가치가 상이<br/>ㅇ 따라서 공급자에게는 토큰이 원가와 자원 사용을 관리하는 핵심 단위로 기능하는 반면 고객에게는 토큰 자체보다 서비스·과업을 통해 얻는 가치가 비용 지불의 기준이 될 가능성<br/><br/>ㅁ 결국 토큰 이코노미의 핵심은 더 많은 토큰을 생산·소비하는 것 자체가 아니라, 증가하는 토큰 소비를 실제 경제적 가치와 수익으로 전환하는 데 있음<br/>ㅇ AI 산업화가 진전될수록 경쟁의 초점은 ‘토큰당 비용’에서 ‘과업당 비용’, ‘과업당 창출가치’로 확장될 가능성<br/>ㅇ 향후 AI 경쟁력은 AI를 실제 과업에 얼마나 효율적으로 적용하고, 이를 생산성 향상·서비스 가치·기업 수익으로 연결할 수 있는가에 의해 좌우될 것]]></description>
+		</item>
+		<item>
+			<title>캐나다의 수출 다변화 전략 추진 배경과 시사점</title>
+			<link>https://www.kiep.go.kr/gallery.es?mid=a10102060000&amp;bid=0029</link>
+			<guid isPermaLink="true">https://www.kiep.go.kr/gallery.es?mid=a10102060000&amp;bid=0029</guid>
+			<author>대외경제정책연구원</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o 2026년 8월 21일 미-캐 무역협상이 결렬된 이후 보복과 재보복 관세 부과가 이어지면서 갈등이 무역 분야를 넘어 정치적 마찰로 번지고 있음.<br/>- [관세 확대] 트럼프 2기 행정부는 출범 직후부터 대캐나다 관세를 지속적으로 확대해왔으며, 8월 22일 시행된 제338조 관세(약 200억 달러 규모 품목에 50% 부과)는 USMCA 적격 여부와 관계 없이 적용됨.<br/>- [무역협상 결렬] 캐나다는 △ 제3국 무역협정 체결권 제한, △ 자동차 관세 인하 혜택의 경차 차량 한정, △ 프랑스어·퀘백 문화 보호 규정 완화 요구가 핵심 산업과 주권을 침해한다고 판단하여 협상을 결렬시킴.<br/>- [보복관세] 협상 기간 중 유예되었던 제338조 관세가 발효되자 캐나다는 9월 8일 같은 규모의 보복과세를 발효했으며, 미국은 같은 날 추가 포고문 5건에 서명해 일부 품목 수입을 금지하고 관세 대상 목록을 조정<br/>- [정치적 마찰] 협상 결렬 직후 트럼프 대통령과 더그 포드 온타리오 주지사가 공개 설전을 벌였고, “51번째 주” 발언, 온타리오호(Lake Ontario)를 아메리카호(Lake America)로 개칭하는 행정명령 서명, 온타리오주의 반관세 광고, 미국산 불매 운동 확산이 겹치며 양국 간 정치적 마찰이 고조됨]]></description>
+		</item>
+		<item>
+			<title>미국의 M.AX 추진 동향과 제조 AI 플랫폼 경쟁</title>
+			<link>https://www.gtonline.or.kr/home/kor/M130166046/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82e6fc07c9c2a324733ed7bf287791ae&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;pageIndex=1</link>
+			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M130166046/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82e6fc07c9c2a324733ed7bf287791ae&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;pageIndex=1</guid>
+			<author>한국산업기술진흥원</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 제조업 AI 대전환(M.AX)의 개념과 미국 제조업의 AI 전환<br/><br/>o M.AX의 등장과 패러다임 변화<br/>- 제조업은 디지털 전환과 스마트제조 단계를 거쳐 AI 중심의 제조업 대전환(M.AX)으로 진화하면서, AI를 활용한 설계·생산·품질·설비운영·공급망 관리 등 제조 전 과정의 지능화가 새로운 경쟁력으로 부상- 생성형 AI와 대규모 AI 모델의 발전으로 제조데이터 분석, 공정 최적화, 작업지원 및 자율제어 기술이 빠르게 고도화되면서 제조업의 운영방식과 가치사슬 전반을 AI 중심으로 재편하는 움직임 확대- M.AX는 단순 공정 자동화를 넘어 제조데이터, AI 모델, 디지털트윈, 클라우드, 로봇 및 자동화 설비를 통합하여 자율제조(Autonomous Manufacturing)를 구현하는 제조혁신 패러다임으로 발전]]></description>
+		</item>
+		<item>
+			<title>Hot Issue in Japan 10월1호 (일본 정책 및 경제동향)</title>
+			<link>https://www.kita.net/board/overseasMarket/overseasMarketDetail.do;JSESSIONID_KITA=84BC5D943B22F25936FCE9C9A2379ECC.Hyper?no=10499&amp;boardType=1</link>
+			<guid isPermaLink="true">https://www.kita.net/board/overseasMarket/overseasMarketDetail.do;JSESSIONID_KITA=84BC5D943B22F25936FCE9C9A2379ECC.Hyper?no=10499&amp;boardType=1</guid>
+			<author>한국무역협회</author>
+			<category>분석리포트</category>
+			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[[기업] 토이저러스, 경쟁 격화에 일본 사업 철수(닛케이, 9/30)<br/>[사회] 日, 10월 1일부터 주세·사회보험·최저임금 등 주요 제도 개편(아사히, 9/29)<br/>[경제] 日 금융당국, 은행 대출 데이터 외부 개방(닛케이, 10/7)<br/>[경제] 日 공정위, 맥주 4사 '30년 추적' 끝에 담합 혐의 강제 수사 착수(아사히, 10/7)<br/>[사설] 중국과의 대화를 끈기 있게 모색하라(닛케이, 10/3)]]></description>
+		</item>
+		<item>
+			<title>AI 데이터센터 반도체 경쟁, 칩을 넘어 이기종·개방형 시스템으로 [ICT SPOT ISSUE(2026-08호)]</title>
+			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261014-000001</link>
+			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261014-000001</guid>
+			<author>정보통신기획평가원</author>
+			<category>정기간행물</category>
+			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ AI 데이터센터의 경쟁 기준 변화<br/>ㅇ 생성형 AI 서비스와 AI 에이전트가 확산되면서, 연산 수요가 학습 중심에서 반복적·복합적인 추론 연산으로 확장<br/>ㅇ 추론 규모가 커질수록 비용·전력 부담이 쌓여, AI 데이터센터의 설계 목표가 최대 연산 성능에서 토큰당 비용·전력 효율로 이동<br/>ㅇ 이에 이기종 컴퓨팅과 개방형 연결이 대안으로 떠오르며, 경쟁의 무게중심이 개별 칩에서 시스템 단위로 이동<br/><br/>ㅁ 이기종 컴퓨팅 ­ 연산 자원별 역할 분화<br/>ㅇ (GPU) 학습·범용 연산의 중심 지위 속, 엔비디아 주도에 AMD 추격과 인텔 재진입으로 랙 확장성·메모리·토큰당 비용까지 아우르는 종합 경쟁으로 전환<br/>ㅇ (NPU·ASIC) 추론 최적화 수요에 힘입어 자체 칩 개발이 하이퍼스케일러에서 AI 모델 기업으로 확산되고, 국내 NPU도 상용 서비스·해외 공급 단계로 진입<br/>ㅇ (CPU) 에이전트 확산으로 작업 제어·도구 호출 처리가 늘며 CPU 수요가 다시 커지고, Arm·x86 진영 간 아키텍처 경쟁이 본격화<br/><br/>ㅁ 개방형 시스템 ­ 칩을 넘어 시스템 경쟁으로<br/>ㅇ (개방 전략) 쟁점이 ‘개방 여부’에서 ‘연결 방식’으로 이동하며, 선별적 개방· 공동 표준·복수 생태계 연결 등으로 기업별 전략이 분화<br/>ㅇ (인터커넥트) 랙 내부 연결(스케일업)까지 UALink·ESUN 등 공동 표준 경쟁이 본격화되고, 거리·전력 한계를 보완하는 광 연결(CPO) 적용이 확대<br/>ㅇ (SW·메모리) 칩에 종속되지 않는 공통 SW 계층이 후발 칩의 진입 기반으로 떠오르고, 메모리는 계층화와 맞춤형 설계 중심으로 경쟁이 심화<br/><br/>ㅁ 시사점<br/>ㅇ 이기종 구성 확산으로 국산 AI 반도체가 추론 영역에서 시스템의 한 축을 맡을 기회 확대<br/>ㅇ 개방형 연결 표준 참여와 오픈소스 SW 연동 확보가 국산 칩 도입의 관건<br/>ㅇ 메모리 강점을 가속기·연결 기술과 연계해 시스템 단위 경쟁력으로 전환해야 할 것]]></description>
 		</item>
 		<item>
 			<title>Viettel Media 기업 탐방 [베트남 26-11호]</title>
@@ -247,213 +454,6 @@
 			<category>IT동향정보</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[미국 교육 업계에 'AI 튜터' 바람이 불고 있다. 생성형 AI가 일상 곳곳으로 빠르게 스며들면서, 그동안 비용과 시간 부담 탓에 일부 학생만 누릴 수 있던 1:1 맞춤 과외를 AI가 상당 부분 나눠 맡는 시대가 열리고 있다. AI를 '숙제를 대신 해주는 도구'로 경계하던 시선도 점차 '학습을 돕는 튜터'로 적극 활용하려는 쪽으로 옮겨가는 분위기다. 비영리 교육기관과 교육 출판 기업, AI 스타트업은 물론 빅테크까지 앞다퉈 시장에 뛰어들면서, AI 튜터를 둘러싼 경쟁도 한층 치열해지고 있다.<br/><br/>시장조사기관 그랜드뷰리서치(Grand View Research)에 따르면, 2025년 북미 AI 튜터 시장 규모는 7억4200만 달러로 전 세계 시장의 35.1%를 차지했으며, 2026년부터 2033년까지 연평균 28.5%의 가파른 성장이 전망된다. 생성형 AI가 일상 속으로 빠르게 들어오고 에듀테크 분야로 투자가 몰리면서, 학생 개개인에게 맞춘 학습 경험에 대한 기대감도 함께 커지고 있다. 높은 과외 비용 부담 속에 언제 어디서나 부담 없이 활용할 수 있는 AI 튜터가 새로운 학습 파트너로 주목받는 분위기다.]]></description>
-		</item>
-		<item>
-			<title>독일 자동차업계는 한국 부품사에 무엇을 원하나 - 프랑크푸르트 GP Europe 2026 현장에서 살펴본 기술협력과 공급망 진입 기회</title>
-			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244499&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</link>
-			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=1&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244499&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</guid>
-			<author>대한무역투자진흥공사</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[독일 자동차업계의 미래차 전환은 지금 어디쯤 와 있을까? 전기차 보급이 확대되는 가운데, 기업들은 미래 기술에 투자할 여력을 확보하는 동시에 생산비용과 공급망 부담을 줄여야 하는 과제를 안고 있다. 지난 9월 10일 프랑크푸르트 힐튼 시티센터에서 열린 ‘2026 한-유럽 미래차 글로벌 파트너링(GP Europe 2026)’에서도 이러한 고민이 주요 의제로 다뤄졌다. 이 행사에서 유럽 완성차·부품기업과 한국기업이 논의한 기술협력 방안과 공급 조건을 바탕으로 독일 미래차 시장의 변화와 우리 기업의 진출 방향을 살펴본다.]]></description>
-		</item>
-		<item>
-			<title>헝가리 의료현장에 스며드는 AI, 진단·수술·진료기록으로 확산</title>
-			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=2&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244517&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</link>
-			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=2&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244517&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</guid>
-			<author>대한무역투자진흥공사</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[의료인력 부족과 데이터 활용 제도 정비, AI 도입의 배경<br/><br/>헝가리 의료현장에서 인공지능(AI)을 활용하는 사례가 나타나고 있다. 헝가리 병원협회가 2026년 2월 25일 개최한 ‘AI와 로보틱스 2026’ 콘퍼런스에서 토트 가보르(Tóth Gábor) 협회장은 로봇수술과 진단 의사결정 지원, 데이터 기반 진료 과정 관리 등 다양한 기술이 이미 헝가리 의료기관에서 활용되고 있다고 밝혔다. 같은 시기 국가병원총국도 병원 내 AI 활용 현황을 파악하기 위한 조사에 착수했다]]></description>
-		</item>
-		<item>
-			<title>필코노미(Feel+Economy)로 부상하는 중국 AI 반려 로봇 시장</title>
-			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=3&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244598&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</link>
-			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=3&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244598&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</guid>
-			<author>대한무역투자진흥공사</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[중국 로봇 산업, '필코노미(Feel+Economy , 감정 경제)'와 함께 부상<br/><br/>감정 소비의 부상과 AI 기술의 폭발이라는 두 가지 동력에 힘입어, 정서적 반려를 핵심 기능으로 하는 AI 반려 로봇(AI companion robot)이 가정 생활 속으로 들어오는 속도가 빨라지고 있다. 데이터는 이러한 추세를 더 직관적으로 보여준다. 2025년 중국 AI 완구 온라인 시장 매출은 전년 대비 394.9% 폭증했으며, 그중 감정적 반려를 주력으로 하는 품목의 성장 속도가 가장 빨라 점유율이 7.0%에서 15.7%로 급등했다.]]></description>
-		</item>
-		<item>
-			<title>세계은행, 인도 등 남아시아 주요국 경제 전망 발표</title>
-			<link>https://www.kita.net/board/overseasMarket/overseasMarketDetail.do?no=10502&amp;boardType=1</link>
-			<guid isPermaLink="true">https://www.kita.net/board/overseasMarket/overseasMarketDetail.do?no=10502&amp;boardType=1</guid>
-			<author>한국무역협회</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[□ 10월 6일 세계은행(World Bank)은 남아시아 경제 업데이트(South Asia Economic Update)를 발간하여 인도를 비롯한 남아시아 주요국*의 최근 경제동향을 평가하고 향후 성장·물가·대외여건 등을 전망<br/><br/>   * 인도, 방글라데시, 스리랑카, 네팔, 부탄, 몰디브 포함. 2025년 7월부터 파키스탄과 아프가니스탄은 MENAAP(중동, 북아프리카, 파키스탄, 아프가니스탄)으로 분류됨<br/><br/>  ㅇ (경제) 2026~2027년 남아시아 지역은 연평균 6.8% 성장하며 신흥시장 및 개도국 지역 가운데 가장 높은 성장률을 유지할 것으로 전망<br/><br/>   - 엘니뇨에 따른 농업 피해, 높은 에너지 가격의 장기화, 글로벌 금융시장 불안 등이 성장세를 둔화시키는 주요 위험 요인으로 분석]]></description>
-		</item>
-		<item>
-			<title>엑스모(Eksmo)-AST 출판그룹 기업분석보고서 [러시아 26-04호]</title>
-			<link>https://www.kocca.kr/shortUrl/71Cq</link>
-			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/71Cq</guid>
-			<author>한국콘텐츠진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[대형 출판 포트폴리오와 유통 기반의 시장 경쟁력 <br/><br/>엑스모(Eksmo)-AST는 엑스모와 AST를 중심으로 다양한 출판 브랜드와 유통 채널을 연결한 러시아 최대급 출판그룹임. 대규모 발행 역량과 장르별 편집 조직을 바탕으로 상업 출판에서 강한 시장<br/>지위를 확보함. 한국 기업에는 번역 출판부터 디지털·2차 IP 활용까지 검토할 수 있는 현지 파트너로 의미가 있음]]></description>
-		</item>
-		<item>
-			<title>리키(Riki) 그룹 기업분석보고서 [러시아 26-03호]</title>
-			<link>https://www.kocca.kr/shortUrl/61Cq</link>
-			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/61Cq</guid>
-			<author>한국콘텐츠진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[장수 애니메이션 브랜드를 기반으로 한 통합 콘텐츠 기업<br/><br/>• 2003년 출발한 러시아 아동·가족 애니메이션 기업<br/>• 「스메샤리키」·「픽시키」 등 장수 브랜드와 연령별 콘텐츠 보유<br/>• 제작 스튜디오와 라이선싱 조직을 통해 콘텐츠 기획부터 사업화까지 수행<br/>• 주요 운영 법인은 「리키 프로듀싱 센터」이며 그룹 전체와 법인 실적은 구분 필요<br/>• 장편영화·음악·디지털 서비스와 해외 협업으로 브랜드 활용 범위 확대]]></description>
-		</item>
-		<item>
-			<title>러시아 구독경제와 생태계 전략 [러시아 26-02호]</title>
-			<link>https://www.kocca.kr/shortUrl/51Cq</link>
-			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/51Cq</guid>
-			<author>한국콘텐츠진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[반복 결제와 복합 혜택이 콘텐츠 소비의 기반으로 정착<br/><br/>생태계형 구독 매출이 증가했으며 구독료 인상도 시장 성장에 긍정적으로 작용함. 다만 명목 매출과 가입자·소비량을 구분하여 시장 변화의 방향을 평가해야 함.]]></description>
-		</item>
-		<item>
-			<title>러시아 디지털 출판시장의 변화[러시아 26-01호]</title>
-			<link>https://www.kocca.kr/shortUrl/41Cq</link>
-			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/41Cq</guid>
-			<author>한국콘텐츠진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[종이책 중심에서 디지털 콘텐츠가 공존하는 출판시장으로 전환 <br/><br/>러시아 출판시장은 여전히 종이책 중심이지만 전자책·오디오북의 성장으로 디지털 콘텐츠의 비중과 영향력이 확대되고 있음. 종이책 시장은 가격 상승의 영향을 크게 받는 반면, 디지털 시장은 구독과 이용시간 확대를 기반으로 성장하고 있음. 출판산업의 성장축이 발행·판매량에서 콘텐츠 이용으로 확대되는 변화가 나타남]]></description>
-		</item>
-		<item>
-			<title>독일 서빙·배송 로봇 시장동향</title>
-			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=4&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244410&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</link>
-			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=4&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244410&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</guid>
-			<author>대한무역투자진흥공사</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[세계 서비스로봇 시장은 물류·운송 분야를 중심으로 성장하고 있다. 국제로봇연맹(IFR)에 따르면 2024년 세계 전문 서비스로봇 판매량은 19만 9,000대 이상으로 전년 대비 9% 증가했다. 이 가운데 운송·물류용 로봇은 10만 2,900대로 14% 늘어 용도별 판매량 1위를 차지했다. 접객(Hospitality)용 로봇은 4만 2,000대 이상 판매돼 두 번째로 큰 용도를 유지했으나, 전년 대비 판매량은 11% 감소했다. 다만 접객용에는 안내·정보 제공·원격현전(텔레프레즌스) 로봇 등이 폭넓게 포함돼 있어, 이를 서빙로봇 시장 규모로 직접 해석하기에는 한계가 있다.<br/> <br/>독일의 상업용 서비스로봇 시장도 완만한 성장세를 보이고 있다. 시장조사기관 Statista는 2025년 독일 상업용 서비스로봇 시장 매출을 약 19억 8,000만 유로로 추정했으며, 이는 전년 대비 2.1% 증가한 규모다. 같은 해 판매량은 약 2만 대로 추정됐으며, 2026년에는 전체 시장 매출이 약 20억 7,000만 유로로 4.3% 증가할 것으로 전망된다.  현재 독일의 서빙·배송 로봇만을 별도로 집계한 공개 공식 시장통계는 확인되지 않는다. 다만 시장조사기관 MarketsandMarkets는 식음료, 의료, 소매, 우편 등 다양한 수요처를 포괄하는 독일 Delivery Robots 시장을 2025년 약 4,920만 달러로 추정했으며, 2030년에는 약 2억 1,470만 달러로 확대될 것으로 전망했다.]]></description>
-		</item>
-		<item>
-			<title>검색창 대신 ‘AI’에게 물어보는 호주의 새로운 쇼핑 방식</title>
-			<link>https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=3&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244562&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</link>
-			<guid isPermaLink="true">https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?pageNo=3&amp;pagePerCnt=10&amp;SITE_NO=3&amp;MENU_ID=170&amp;CONTENTS_NO=1&amp;bbsGbn=01&amp;bbsSn=243,254,403,257&amp;pNttSn=244562&amp;recordCountPerPage=10&amp;viewType=&amp;pNewsGbn=&amp;pStartDt=&amp;pEndDt=&amp;sSearchVal=&amp;pRegnCd=&amp;pNatCd=&amp;pKbcCd=&amp;pIndustCd=&amp;pHsCode=&amp;pHsCodeNm=&amp;pHsCdType=&amp;sSearchVal=</guid>
-			<author>대한무역투자진흥공사</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[호주에서 AI를 활용한 상품 탐색과 비교가 확산되면서 ‘에이전틱 커머스’가 새로운 유통 방식으로 부상하고 있다. Kmart, Woolworths 등 유통업체도 AI 쇼핑 기능을 확대하는 가운데, 한국 기업은 온라인 상품정보와 리뷰 등을 충실히 구축해 AI가 제품을 발견하고 추천할 수 있는 기반을 마련할 필요가 있다. <br/><br/>호주 소비자의 쇼핑 방식이 근본적으로 달라지고 있다. 과거에는 온라인 쇼핑 시 검색창에 원하는 제품명을 직접 입력한 뒤 여러 온라인몰을 방문해 가격과 제품 정보를 비교하는 방식이 일반적이었다. 그러나 최근에는 소비자가 원하는 상품의 이름을 정확히 알지 못하더라도 자신의 필요와 조건을 자연어로 설명하는 것만으로 원하는 제품을 찾을 수 있게 됐다. 예를 들어 “민감성 피부에 사용할 수 있는 SPF50+ 선크림을 30호주달러 이하로 찾아줘” 또는 “아침에 간단하게 먹을 수 있으면서 단백질 함량이 높은 한국식 간편식을 추천해줘”라고 요청하면, AI가 조건에 맞는 상품을 탐색하고 비교해 적합한 선택지를 제시하는 방식이다.]]></description>
-		</item>
-		<item>
-			<title>[워싱턴지부] 한국의 대미 투자 프로젝트 발표 관련 현지 동향</title>
-			<link>https://www.kita.net/board/overseasMarket/overseasMarketDetail.do?no=10496&amp;boardType=1</link>
-			<guid isPermaLink="true">https://www.kita.net/board/overseasMarket/overseasMarketDetail.do?no=10496&amp;boardType=1</guid>
-			<author>한국무역협회</author>
-			<category>IT동향정보</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[ㅁ 트럼프 美 대통령은 한·미 무역투자합의에 따른 관세 인하를 조건으로 한국이 약속한 총 3천500억 달러 규모의 대미 투자 중, 2천억 달러 상당의 전략투자 프로젝트를 발표(9/30, 수)<br/><br/>o 한·미 양국은 '25.11월 무역투자합의를 통해 ▲전략투자 2,000억 달러, ▲조선업 투자(MASGA) 1,500억 달러 등 총 3,500억 달러 규모의 대미 투자를 약속<br/><br/>- 동 투자와 연계해 美측은 상호관세를 25%→15%로 인하하고, 자동차·부품 등 주요 품목에 대한 Section 232 관세를 인하·조정하는 등 한국산 제품의 대미 수출 관세 부담을 완화]]></description>
-		</item>
-		<item>
-			<title>2026년 하반기 통신 산업 6대 트렌드와 AI 경쟁우위 확보 방안</title>
-			<link>https://www.deloitte.com/kr/ko/Industries/telecom-media-entertainment/perspectives/telecom-industry-6-trends-ai-competitive-advantage-2026.html</link>
-			<guid isPermaLink="true">https://www.deloitte.com/kr/ko/Industries/telecom-media-entertainment/perspectives/telecom-industry-6-trends-ai-competitive-advantage-2026.html</guid>
-			<author>Deloitte</author>
-			<category>분석리포트</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[통신 산업은 트래픽이 연 20%씩 늘어도 매출은 2%대 성장에 머무는 저성장 국면입니다. 네트워크 품질은 평준화됐고, AI 투자는 내부 효율화에 쏠려 있습니다. 경쟁우위는 AI 기술이 아니라 통신 고유 자산과 결합한 수익모델에서 나옵니다.<br/><br/>- 글로벌 통신 매출은 2024~2029년 연평균 2.67% 성장에 그치고, AI 배치의 81%는 내부 효율화 목적입니다.<br/>- 소비자 최대 77%가 통신사에 충성도가 없고, 연간 고객 이탈률은 22%입니다.<br/>- AI 데이터센터 투자는 확약 수요 없는 선행투자와 GPU 감가상각 리스크를 동반합니다.<br/>- 딜로이트는 AI-Ready Core, 통신자산 기반 AI 수익모델, 수요 기반 AIDC를 실행 과제로 제시합니다.<br/><br/>본 리포트를 통해 국내 통신사의 성장 영역과 실행 방향을 확인하세요.]]></description>
-		</item>
-		<item>
-			<title>생성형 인공지능 활용 음악의 학습 데이터 기여도 분석 [저작권 기술산업 분석 보고서]</title>
-			<link>https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56054&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</link>
-			<guid isPermaLink="true">https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56054&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</guid>
-			<author>한국저작권위원회</author>
-			<category>분석리포트</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[최근 생성형 인공지능을 활용한 음악이 국내 음원 차트에 진입하는 등 대중의 관심을 받고 있다. 또한 국내에서는 생성형 인공지능 활용 음악의 저작권 등록이 가능한지 그리고 저작권료를 받을 수 있는지에 대해 활발히 논의되고 있다.<br/>이러한 논의와 함께, 인공지능의 학습에 사용된 음악과 새롭게 생성된 음악 사이의 관계를 파악하는 것도 중요한 과제로 남아 있다.<br/>인공지능 모델은 여러 음악 자료를 학습하면서 음악의 특징과 패턴을 익히고 이를 바탕으로 새로운 음악을 생성하는데, 이 과정에서 개별 학습 데이터가 특정 생성 결과에 미친 영향을 추정하는 기술이 학습 데이터 기여도 분석이다.<br/>앞으로 생성형 인공지능 활용 음악을 둘러싼 논의와 함께 학습 데이터 기여도 분석에 관한 연구가 어떻게 발전해 나갈지 살펴볼 필요가 있다.]]></description>
-		</item>
-		<item>
-			<title>글로벌 제약산업 전시회 CPHI 2026_2026년 하반기 제약·바이오의 4대 테마</title>
-			<link>https://www.deloitte.com/kr/ko/Industries/life-sciences-health-care/perspectives/cphi-2026.html</link>
-			<guid isPermaLink="true">https://www.deloitte.com/kr/ko/Industries/life-sciences-health-care/perspectives/cphi-2026.html</guid>
-			<author>Deloitte</author>
-			<category>분석리포트</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[글로벌 공급망을 재편하는 3대 거시적 동인(지정학적 갈등, 차세대 치료제, 규제)이 글로벌 제약·바이오 공급망 재편을 이끌며, CPHI 2026에서는 이에 대한 대응 전략이 주요 아젠다로 부상할 전망입니다.<br/><br/>기업들은 제약·바이오 산업 안팎의 거시적 변화에 대응하기 위해 CPHI 2026 현장에서 밸류체인 내 유망 파트너사 및 전문가와 함께 해결책을 적극 모색할 것으로 예상됩니다.]]></description>
-		</item>
-		<item>
-			<title>EU는 「AI 법」 본격 시행, 미국은 AI 규제 완화 기조 주도 外 [SPRi AI BRIEF 2026년 10월호]</title>
-			<link>https://spri.kr/posts/view/24031?code=AI-Brief&amp;s_year=&amp;data_page=1</link>
-			<guid isPermaLink="true">https://spri.kr/posts/view/24031?code=AI-Brief&amp;s_year=&amp;data_page=1</guid>
-			<author>소프트웨어정책연구소</author>
-			<category>정기간행물</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[EU는 「AI 법」 본격 시행, 미국은 AI 규제 완화 기조 주도<br/><br/>ㅁ EU 「AI 법」의 투명성 의무가 2026년 8월 2일 적용 개시되었고, EU 집행위원회는 범용 AI 모델 의무 준수 여부를 확인하기 위해 전 세계 30여 개 범용 AI 모델 제공 기업에 정보 요청 전달<br/>ㅁ 미국은 G20 혁신 장관회의에서 특정 기술만을 겨냥한 신규 규제를 지양하는 '캐롤라이나 원칙'을 제시하였고, G20 회원국은 합의한 장관 성명에서 이 원칙을 참고해 각국 정책 체계를 수립하기로 함]]></description>
-		</item>
-		<item>
-			<title>美 기술기업 영주권 프로그램 중단, 오픈AI 매출 전망 하향, Anthropic AI 에이전트 허위 정보 제출 사고 등 [글로벌 ICT 동향(2026. 10. 12.)]</title>
-			<link>https://www.globalict.kr/news/trend/daily.do?menuCode=010100&amp;knwldNo=145933</link>
-			<guid isPermaLink="true">https://www.globalict.kr/news/trend/daily.do?menuCode=010100&amp;knwldNo=145933</guid>
-			<author>정보통신산업진흥원</author>
-			<category>정기간행물</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[ㅁ 정책·규제<br/>#1 美 행정부, MS·어도비 등 8개 기술기업 영주권 신청 프로그램 무기한 중단<br/>#2 中 당·국무원, 'AI 플러스' 전면 실행 지침 발표하며 맹목적 투자 억제 병행<br/>#3 印 정부, AI 안전·딥페이크 중심 규제 협의서 한 달 내 발표 예고<br/>#4 英 ICO, 아마존·구글·메타·오픈AI 등 10개 AI 기업과 개인정보 보호 정책 변경 합의<br/><br/>ㅁ 시장·투자<br/>#5 오픈AI, 연간 매출 전망을 500억 달러로 하향 제시하며 AI 투자 신뢰에 변동<br/>#6 호주 AI 기업 Firmus, 밸류에이션 우려로 IPO 철회 후 사모펀딩으로 전환<br/>#7 스페이스X, 엔비디아 AI 칩 구매 위해 400억 달러 규모 부채 조달 추진<br/>#8 中 AI 에이전트 Manus 모회사, 메타 인수 무산 후 5억 달러 이상 자금 조달<br/><br/>ㅁ 기술·연구<br/>#9 Anthropic, AI 에이전트 허위 정보 제출 사고로 내부 평가 인터넷 접속 전면 차단<br/>#10 MS 나델라, AI 모델에 인간이 통제하는 '긴급 중단' 시스템 구축 촉구]]></description>
-		</item>
-		<item>
-			<title>엔비디아, 이스라엘에 의료·과학 AI 연구그룹 설립 外 [글로벌 바이오헬스산업 동향 Vol.610]</title>
-			<link>https://www.khidi.or.kr/board/view?pageNum=1&amp;rowCnt=10&amp;no1=395&amp;linkId=48950869&amp;menuId=MENU01784&amp;maxIndex=00489508699998&amp;minIndex=00489485199998&amp;schType=0&amp;schText=&amp;schStartDate=&amp;schEndDate=&amp;boardStyle=&amp;categoryId=&amp;continent=&amp;country=</link>
-			<guid isPermaLink="true">https://www.khidi.or.kr/board/view?pageNum=1&amp;rowCnt=10&amp;no1=395&amp;linkId=48950869&amp;menuId=MENU01784&amp;maxIndex=00489508699998&amp;minIndex=00489485199998&amp;schType=0&amp;schText=&amp;schStartDate=&amp;schEndDate=&amp;boardStyle=&amp;categoryId=&amp;continent=&amp;country=</guid>
-			<author>한국보건산업진흥원</author>
-			<category>정기간행물</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[엔비디아, 이스라엘에 의료·과학 AI 연구그룹 설립<br/><br/>ㅁ 미국 AI 반도체 기업 엔비디아(NVIDIA)가 이스라엘에 의료·과학 AI 연구그룹 ‘응용 AI 아키텍처(Applied AI Architecture)’를 설립하여, △유전체 △신약개발 △신소재 분야 연구 인력 채용에 착수함<br/>ㅁ 해당 그룹은 엔비디아 이스라엘 개발센터에 소재하며 글로벌 최고기술책임자(Chief Technology Officer, CTO) 조직 산하로 운영되고, 현재 수 명인 연구진을 향후 1년 내 수십 명 규모로 확충할 계획임<br/>ㅁ 대표 프로젝트는 이스라엘 종합병원 셰바 메디컬 센터(Sheba Medical Center) 및 미국 종합병원 마운트 시나이 병원(Mount Sinai Hospital)과 공동개발 중인 유전체 파운데이션 모델(Genomic Foundation Model, GFM)*로, 아직 충분히 연구되지 않은 인간 유전체 약 98% 영역을 분석해 질병 예방과 진단 개선에 활용하는 것을 목표로 함<br/>* 인간 유전체 서열 데이터를 대규모로 사전 학습하여 질병 예측·진단 등 다양한 유전체 분석에 활용하는 AI 모델]]></description>
-		</item>
-		<item>
-			<title>태평양 도서국의 ICT 연결성 현황과 우리나라의 디지털 협력 방향 [KISDI PERSPECTIVES 2026-10-1]</title>
-			<link>http://www.kisdi.re.kr/report/view.do?key=m2102058837181&amp;masterId=4334696&amp;arrMasterId=4334696&amp;artId=1977256</link>
-			<guid isPermaLink="true">http://www.kisdi.re.kr/report/view.do?key=m2102058837181&amp;masterId=4334696&amp;arrMasterId=4334696&amp;artId=1977256</guid>
-			<author>정보통신정책연구원</author>
-			<category>정기간행물</category>
-			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[ㅁ 태평양 도서국은 지리적 고립성과 분산된 도서 구조로 인해 ICT 인프라 구축에 구조적 제약이 존재하나, 최근 해저케이블 구축·확장, 모바일 네트워크 확충, 저궤도 위성통신 도입 등을 통해 디지털 연결성이 점진적으로 개선되고 있음<br/><br/>ㅁ 태평양 도서국은 우리나라의 인도·태평양 지역 협력 확대와 함께 외교적 중요성이 높아지고 있는 지역으로, 기후변화·재난 대응, 해양, 디지털 전환 등 글로벌 현안에서 협력 필요성이 증대되고 있음<br/>ㅇ 특히 우리나라는 “2023년 한-태평양도서국 정상회의”를 계기로 태평양 도서국과의 협력 수준을 격상한 만큼, 우리나라의 강점을 활용하면서 지역의 실질적 수요에 부응할 수 있는 지속가능한 협력 분야를 발굴·확대할 필요<br/><br/>ㅁ 본고는 태평양 도서국의 ICT 연결성 현황과 국제사회의 디지털 협력 동향을 분석하고, 이를 바탕으로 우리나라의 대 태평양 디지털 협력 방향을 제시하였으며 주요 내용은 다음과 같음<br/>ㅇ 첫째, 태평양 도서국의 ICT 연결성은 해저케이블·위성통신·모바일망이 결합된 형태로 발전하고 있으나, 국가 간 연결성 격차와 실제 인터넷 이용 격차(Usage Gap)가 여전히 큰 과제로 남아 있음. 또한 단일 해저케이블 의존도가 높아 재난 시 통신망 복원력 확보가 중요한 정책 과제로 부상<br/>ㅇ 둘째, 국제기구와 주요 공여국은 디지털 연결성, 재난 대응, 디지털 포용을 중심으로 협력을 확대하고 있으며, PIF(태평양도서국포럼) ICT 장관회의와 ITU 태평양 현지사무소 설립추진 등 지역 차원의 디지털 협력 거버넌스도 점차 제도화 중<br/>ㅇ 셋째, 우리나라는 2023 한-태평양도서국 정상회의와 디지털 장관회의를 통해 본격적인 협력 기반을 마련하였으나, 주요 공여국과 비교할 때 사업 규모와 현지 협력 기반은 아직 제한적인 수준<br/><br/>ㅁ 이에 우리나라가 대규모 인프라 구축 중심의 협력보다는 전자정부, 디지털 정책, ICT 역량강화 등 비교우위 분야를 중심으로 국제기구 및 주요 공여국과의 협력을 확대하고, 기후재난 대응과 디지털 회복력, 지역 거버넌스와 연계한 중장기 협력체계를 구축할 필요가 있음을 제안<br/>ㅇ 이러한 협력은 태평양 도서국의 지속가능한 디지털 전환을 지원하는 동시에 우리나라의 대태평양 외교 및 국제 ICT 협력 네트워크를 확대하고, 국내 ICT 기업의 역내 진출 기반을 조성하는 등 상호호혜적 협력관계 발전에도 기여할 것으로 기대]]></description>
-		</item>
-		<item>
-			<title>미국 AI·반도체 산업 핵심자원 확보 전략과 공급망 재편 동향</title>
-			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82a32c5da1c52cded4778aaffb033d0f&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
-			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe82a32c5da1c52cded4778aaffb033d0f&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
-			<author>한국산업기술진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[ㅁ AI·반도체 산업 확산으로 핵심자원의 전략적 중요성 확대<br/><br/>o 생성형 AI와 고성능 컴퓨팅(HPC)의 확산으로 첨단 반도체뿐 아니라 데이터센터, 전력망, 에너지저장장치(ESS) 등 AI 인프라 전반에서 핵심자원 수요가 빠르게 증가<br/><br/>- AI 반도체 제조에는 갈륨(Ga), 게르마늄(Ge), 탄탈럼(Ta), 텅스텐(W), 희토류(REE) 등이 활용되며, 데이터센터구축에는 구리(Cu), 알루미늄(Al), 리튬(Li), 니켈(Ni), 흑연(Graphite) 등이 핵심 소재로 사용- AI 산업 경쟁력은 첨단 반도체 기술뿐 아니라 이를 안정적으로 생산·운영할 수 있는 핵심자원 공급망 확보 역량에 의해 좌우되는 구조로 변화하고 있으며, 핵심 광물은 첨단산업 경쟁력과 경제 안보를 동시에 뒷받침하는 전략 자산으로 부상]]></description>
-		</item>
-		<item>
-			<title>AI·로보틱스, 동남아 제조업 혁신 주도 外 [아세안ㆍ호주 산업ㆍ에너지 동향 2026-9월-3]</title>
-			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe46b441993763e08bdc198c47ffc67d69&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
-			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffe46b441993763e08bdc198c47ffc67d69&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
-			<author>한국산업기술진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[1. 베트남 FPT Software·말레이시아 UTP, 'Energy AI' 공동 연구소 설립<br/>-베트남 대표 IT 기업 FPT의 자회사 FPT 소프트웨어와 페트로나스(Petronas) 산하 페트로나스 기술대학교(UTP)가 말레이시아에 'Energy AI 공동 연구소(Corporate Lab)' 설립, 양측은 인공지능(AI) 및 디지털 기술을 에너지 산업에 접목하여 석유·가스 및 신재생에너지 분야의 디지털 전환을 가속화 계획 <br/>-연구소는 자산 최적화, 예측 정비, 에너지 효율성 제고 등 에너지 밸류체인 전반에 필요한 첨단 AI 솔루션 연구 및 상용화에 집중하며, UTP의 연구 역량 및 학술적 전문성과 FPT의 글로벌 IT 서비스 경험을 결합해 실질적인 산업용 AI 기술을 개발하는 데 주력할 방침 <br/>-양 기관은 공동 연구와 더불어 차세대 에너지 AI 전문 인력 양성을 위한 교육 프로그램도 추진 예정으로 이번 협업을 통해 베트남과 말레이시아 간의 첨단 기술 협력이 강화되고, 아세안 에너지 산업의 지속 가능한 성장과 친환경 전환(Green DX)을 이끄는 계기가 될 것으로 기대<br/><br/>2. AI·로보틱스, 동남아 제조업 혁신 주도<br/>-태국, 베트남, 인도네시아 등 동남아 주요 제조 거점이 단순 자동화를 넘어 피지컬 AI와 산업용 로봇을 적극 도입하고 있으며, 음성·제스처 제어 등 고도화된 인간-로봇 협업 기술을 통해 현장 작업 숙련 장벽을 낮추고 공정 효율성을 극대화 <br/>-AI 로봇 활용 확대에 따른 사이버 보안, 운항 안전성 등의 과제를 해결하기 위해 JS-SEZ(조호르 특별경제구역) 등에서는 데이터 프레임워크와 공유 플랫폼 구축을 추진 중으로 이를 통해 중소기업의 DX 투자 부담을 줄이고 기술 신뢰성 확보 지원 <br/>-피지컬 AI 및 로보틱스의 현장 안착은 글로벌 공급망 재편 속에서 동남아 제조 클러스터의 고부가가치화를 이끌 전망이며, 제조업체들은 선제적 인프라 투자와 인력 재교육을 통해 글로벌 경쟁력을 한층 강화할 것으로 기대<br/><br/>3. 싱가포르의 AI 미래:, 진정한 AI 전환, 단순 도구 도입·배포를 넘어서야<br/>-싱가포르 기업들의 인공지능(AI) 도입이 단순한 소프트웨어 배포나 단발성 도구 활용 수준에 그쳐서는 안 되며, 비즈니스 모델과 조직 운영 프로세스 전반을 재설계하는 근본적 전환으로 이어져야 한다는 지적 제기 <br/>-성공적인 AI 전환을 위해서는 고품질 데이터 인프라 확충, 엄격한 데이터 거버넌스 수립, 전사적인 디지털 역량 강화(Up-skilling)가 필수적이며 특히 리더십 차원에서 AI 전략을 핵심 사업 목표와 밀접하게 연계하고, 구성원들이 기술 변화에 유연하게 적응할 수 있는 조직 문화를 조성하는 것을 핵심 과제로 제시]]></description>
-		</item>
-		<item>
-			<title>말레이시아, 국가 반도체 전략(NSS) 가속화 및 생태계 고도화 外 [아세안ㆍ호주 산업ㆍ에너지 동향 2026-9월-1]</title>
-			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffef160ca5ea44a1bcf4b2b63b0d661df13&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
-			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffef160ca5ea44a1bcf4b2b63b0d661df13&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
-			<author>한국산업기술진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[1. 베트남, 희토류 정제·심층공정 기술 실증 시험 착수 승인<br/>-베트남 하노이시 인민위원회가 첨단 산업 및 공급망 내 고부가가치 창출을 위해 희토류 정제 및 심층공정 기술의 시험적 도입 및 실증을 승인 <br/>-이번 실증 사업은 환경오염을 최소화하는 친환경 추출·정제 기술력 검증과 안정적인 기술 표준 수립을 중점으로 두고 추진되며, 하노이 내 연구기관, 대학, 관련 기업  간 산학연 협력을 바탕으로 희토류 가공 수율을 높이고, 정제 과정에서 발생하는 부산물 처리 체계를 선제적으로 점검할 계획 <br/>-하노이시는 희토류 심공정 기술 내재화를 통해 글로벌 희토류 공급망 재편 속에서 전략적 입지를 대폭 강화하며, 고순도 희토류의 안정적 공급 체계가 마련될 경우 반도체, 전기차 배터리, 디스플레이 등 역내 첨단 제조업 유치 및 산업 고도화에 강력한 동력으로 작용할 계획 <br/><br/>2. 아세안·WEF, 최초의 디지털 경제 전망 보고서 발표 및 DEFA 이행 강조<br/>-동남아시아국가연합(ASEAN)과 세계경제포럼(WEF)이 공동으로 '아세안 디지털 경제 전망(ASEAN Digital Economy Outlook)' 보고서를 최초 발간하고, 아세안 디지털 경제 프레임워크 협정(DEFA)의 가시적 이행을 촉진하기 위한 정책적 협력을 본격화 <br/>-양 기관은 DEFA 실행을 위한 우선 과제로 안전한 국경 간 데이터 흐름, 신뢰할 수 있는 데이터 프라이버시 체계, 고도화된 생체인증 인프라 구축을 제시 <br/>-아세안을 단일 디지털 시장으로 묶어 2030년까지 역내 디지털 경제 규모를 대폭 확장하는 데 목적이 있으며, 회원국 간 디지털 격차 완화와 공동 표준 채택을 통해 역내 기업들의 글로벌 경쟁력을 강화하고 외국인 직접투자(FDI) 유치를 촉진하는 유의미한 계기가 될 것으로 전망<br/><br/>3. 말레이시아, 국가 반도체 전략(NSS) 가속화 및 생태계 고도화<br/>-말레이시아 정부가 글로벌 공급망 재편에 대응하여 국가 반도체 전략(NSS, National Semiconductor Strategy) 추진에 속도를 내고 있는 가운데 기존의 후공정 중심 구조에서 벗어나 IC 디자인, 첨단 패키징, 반도체 장비 및 소재 등 전반적인 반도체 가치사슬 고도화를 통해 고부가가치 첨단 산업국가로의 도약을 목표로 세움 <br/>-말레이시아 정부는 국내외 기업의 첨단 R&D 및 제조 시설 유치를 위해 다각적인 재정적·제도적 인센티브를 제공하는 동시에, 산업계 수요에 맞춘 고숙련 기술 인력 양성에 총력을 기울이며, 기술 내재화 및 공급망 진입을 적극 지원하여 역내 반도체 허브로서의 입지를 확고히 한다는 방침 <br/>-이를 통해, 미·중 기술 패권 경쟁 속에서 말레이시아가 글로벌 반도체 대체 생산 거점이자 핵심 파트너로서의 위치를 공고히 하는 데 기여할 것으로 평가되며, 이를 통해 기술 자립도를 높이고 고임금 일자리를 창출하는 등 지속 가능한 경제 성장의 견인차 역할을 할 것으로 전망]]></description>
-		</item>
-		<item>
-			<title>아세안, 인공지능 시대의 불균형 성장 전망 外 [아세안ㆍ호주 산업ㆍ에너지 동향 2026-9월-2]</title>
-			<link>https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffee77fc6bd9e4df33e43a740570a03b5fb&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</link>
-			<guid isPermaLink="true">https://www.gtonline.or.kr/home/kor/M252607133/board.do?deleteAt=N&amp;act=detail&amp;idx=cb00d1a0008a85e71a41b8741facbffee77fc6bd9e4df33e43a740570a03b5fb&amp;searchValue1=0&amp;searchKeyword=&amp;eSearchValue3=&amp;eSearchValue4=&amp;eSearchValue5=&amp;eSearchValue7=&amp;eSearchValue8=&amp;eSearchValue9=&amp;pageIndex=1</guid>
-			<author>한국산업기술진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[1. 인도네시아·싱가포르, 중소기업 수출 지원 AI 자문 플랫폼 도입<br/>-인도네시아와 싱가포르가 중소기업의 해외 시장 개척을 지원하는 AI 기반 자문 플랫폼을 공동 도입, 해당 플랫폼은 실시간 무역 데이터, 관세 및 규제 정보를 분석·제공하여 중소기업의 수출 행정 부담과 정보 비대칭을 최소화하는 데 중점을 두었음 <br/>-양국은 싱가포르의 디지털 인프라와 인도네시아의 중소기업 기반을 결합해 역내 디지털 무역 협력을 강화한다는 방침으로 이를 통해 중소기업의 글로벌 가치사슬(GVC) 편입을 가속화하고, 향후 아세안 전역으로 적용을 확대해 역내 교역 활성화를 이끌 것으로 기대<br/><br/>2. 필리핀, 아세안 역내 무역·투자 및 디지털 연계성 강화 추진<br/>-필리핀 정부가 아세안 회원국들과의 통상·투자 협력을 대폭 확대하고, 역내 디지털 연계성을 강화하기 위한 정책적 행보를 가속화 중 <br/>-필리핀은 디지털 무역 활성화를 목표로 국경 간 데이터 이동 자유화, 전자상거래 규제 표준화, 디지털 ID 및 인프라 연동을 적극 추진하며, 이와 함께 통관 절차의 디지털화와 비관세 장벽 완화를 통해 역내 교역 비용을 절감하고, 중소기업의 글로벌 가치사슬 진입을 실질적으로 지원하는 데 주력 <br/>-필리핀 정부는 디지털 및 친환경 전환 분야에서의 역내 협력을 바탕으로 제조, 정보통신기술(ICT), 물류 등 핵심 산업 부문으로의 외국인 직접투자(FDI) 유치를 확대한다는 방침으로 이러한 전략적 이행은 필리핀의 산업 경쟁력을 제고하는 동시에 아세안 경제공동체(AEC)의 하나의 시장 및 생산 거점 구축을 한층 앞당길 것으로 기대<br/><br/>3. 아세안, 인공지능 시대의 불균형 성장 전망<br/>-DBS·베인·브리엔스 보고서에 따르면 아세안 주요 6개국은 2026~2035년 연평균 4.8% 성장(지난 10년 4.1%)이 예상되나, AI 혁명과 구조적 차이로 역내 성장 격차 및 질적 양극화가 심화될 것으로 경고 <br/>-글로벌 AI·반도체 투자를 흡수한 싱가포르(OpenAI·Anthropic 유치)와 말레이시아(미·중 반도체 공급망 거점)가 최대 수혜국으로 꼽히며, 베트남 역시 견조한 제조업을 바탕으로 강력한 성장세를 유지할 전망 <br/>-반면 태국(고령화·가계부채·정치 불안), 인도네시아(포퓰리즘 재정·자본 유출 위험), 필리핀(AI 자동화에 따른 BPO 산업 위협)은 구조적 악재로 인해 성장 하방 리스크에 노출되어 있는 것으로 평가]]></description>
-		</item>
-		<item>
-			<title>글로벌 기후재원 확대와 투자·금융 질서 재편</title>
-			<link>https://www.konetic.or.kr/user/P/PA/PA005_R01.do?q=foot&amp;cntnsId=PA000005&amp;cntnsSn=8559&amp;cntnsIdUnit=PA000005&amp;cntnsId=PA000005&amp;cntnsSn=8559</link>
-			<guid isPermaLink="true">https://www.konetic.or.kr/user/P/PA/PA005_R01.do?q=foot&amp;cntnsId=PA000005&amp;cntnsSn=8559&amp;cntnsIdUnit=PA000005&amp;cntnsId=PA000005&amp;cntnsSn=8559</guid>
-			<author>한국환경산업기술원</author>
-			<category>분석리포트</category>
-			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[ㅁ 글로벌 기후재원 격차와 재원 질서 전환의 배경<br/>o 글로벌 기후재원은 2024년 최초로 2조 달러를 돌파했으나 필요액(2025~2030년 연평균 7조 8,000억 달러)의 4분의 1 수준에 머물러 있으며, 중국을 제외한 개도국은 2035년까지 연 1조 3,000억 달러의 외부 재원이 필요<br/>o 재원의 내부 구성은 완화 편중·적응 과소의 불균형을 보이고 있으며, 선진국 공여가 3년 연속 1,000억 달러를 초과했음에도 적응재원 2배 확대 목표의 달성은 불확실<br/>o 국제 기후재원 체제는 2009년 1,000억 달러 공약에서 출발해 2024년 NCQG의 이중 목표 채택, 2025년 바쿠-벨렝 로드맵 공개와 벨렝 패키지 채택으로 단계적으로 확장<br/>o 새 질서는 선진국 공공재원 총량 관리에서 금융시스템 전체의 재편으로 무게중심을 옮기는 전환점이며, 미국의 파리협정 탈퇴(2026년 1월 발효)라는 역풍 속에서 진행. 기후재원은 글로벌 자본의 흐름을 결정하는 투자·금융 질서 재편의 중심 의제로 부상]]></description>
 		</item>
 	</channel>
 </rss>
