@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Thu, 15 Oct 2026 07:01:17 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 18:01:38 +0900</lastBuildDate>
+		<item>
+			<title>Anthropic의 Central Library로 본 기업 AI의 조건, AI-Ready Data</title>
+			<link>https://www.skax.co.kr/insight/trend/3882/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3882/</guid>
+			<pubDate>Thu, 15 Oct 2026 10:47:32 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_Centrl-library-구축-사례로-본-데이터의-중요성.png"/></figure>Anthropic은 양질의 학습 데이터를 위해 종이책 수백만 권을 사들였지만, 기업에는 이미 외부에서 살 수 없는 고유한 '책'이 있습니다. 그 데이터를 AI가 바로 읽을 수 있는 상태로 바꾸려면 무엇이 필요할까요?]]></description>
+		</item>
 		<item>
 			<title>컴퓨터를 직접 조작하는 AI 에이전트 시대의 도입 전략과 기업의 AI Readiness</title>
 			<link>https://www.skax.co.kr/insight/trend/3880/</link>
