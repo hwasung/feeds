@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 15 Oct 2026 11:31:08 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 12:30:55 +0900</lastBuildDate>
+		<item>
+			<title>비젠트로, 통합 비즈니스 솔루션 &apos;제니원(ZeniOne)&apos; GS인증 1등급 획득</title>
+			<link>https://www.etnews.com/20261015000216</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000216</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 11:19:39 +0900</pubDate>
+			<description><![CDATA[비즈니스 정보기술(IT) 솔루션 전문기업 비젠트로(대표 김홍근)는 자사의 통합 비즈니스 솔루션 '제니원(ZeniOne) v1.0'으로 소프트웨어 품질인증(GS인증) 1등급을 획득했다고 15일 밝혔다. GS인증은 한국 정부(TTA 등)가 소프트웨어산업진흥법에 근거해 우수한 품질의 국산 소프트웨어에 부여하는 국가 인증 제도로, 실제 운영 환경과 유사한 조건에서 기능성, 신뢰성, 사용성 등 엄격한 품질 테스트를 거쳐 수여된다. 이번에 GS인증 1등...]]></description>
+		</item>
 		<item>
 			<title>수산아이앤티, 美 씨패킷과 맞손…AI 네트워크 보안 시장 공략</title>
 			<link>https://www.etnews.com/20261015000198</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 14 Oct 2026 16:46:08 +0900</pubDate>
 			<description><![CDATA[시큐아이(대표 정삼용)는 영문 사명을 'SECUI'에서 'SECUi'로 변경했다고 14일 밝혔다. 회사측에 따르면 이번 사명 변경은 영문 사명 'SECUi'의 발음 인지성을 높이는 동시에, 글로벌 보안 기업으로서의 시큐아이의 정체성을 명확히 하고 경쟁력을 강화하기 위해 추진됐다. 새롭게 공개된 CI는 기존 'SECUI'의 마지막 영문자 'I'를 소문자 'i'로 변경해 기존 브랜드의 연속성을 유지하고 지능형 보안을 의미하는 'Intelligenc...]]></description>
-		</item>
-		<item>
-			<title>ALTIBASE, IBM 리눅스원 5 기반 미션 크리티컬 데이터베이스 역량 뽐냈다</title>
-			<link>https://www.etnews.com/20261014000388</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000388</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:43:13 +0900</pubDate>
-			<description><![CDATA[알티베이스(ALTIBASE)가 14일 서울 호텔 나루 엠갤러리에서 열린 IBM 리눅스 원(LinuxONE) 5 기술 세미나에서 LinuxONE 기반 데이터베이스 솔루션을 소개하고, 미션 크리티컬 환경에 최적화된 기술 역량을 선보였다고 밝혔다. 이번 세미나는 'AI 시대, 미션 크리티컬 인프라의 새로운 기준 - IBM LinuxONE 5'를 주제로 열려 IT 관계자 약 60여 명이 참석했다. 행사는 한국IBM과 코오롱베니트가 주최하고 ALTIBA...]]></description>
 		</item>
 	</channel>
 </rss>
