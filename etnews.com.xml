@@ -4,7 +4,88 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 15 Oct 2026 10:31:04 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2026 11:31:08 +0900</lastBuildDate>
+		<item>
+			<title>수산아이앤티, 美 씨패킷과 맞손…AI 네트워크 보안 시장 공략</title>
+			<link>https://www.etnews.com/20261015000198</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000198</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 11:01:38 +0900</pubDate>
+			<description><![CDATA[수산아이앤티가 미국 네트워크 관측·분석 기업 씨패킷 네트웍스(cPacket Networks)와 글로벌 시장에서 공동 솔루션 공급 및 사업 협력을 위한 전략적 기술 파트너십을 체결했다고 15일 밝혔다. 양사는 수산아이앤티의 암호화 트래픽 복호화 기술과 씨패킷의 인공지능(AI) 기반 네트워크 분석 기술을 결합한다. 암호화된 통신을 복호화한 뒤 네트워크 데이터를 수집·분석해 보안 위협 탐지와 대응을 지원하는 것이 핵심이다. 양사 협력은 씨패킷이 싱가...]]></description>
+		</item>
+		<item>
+			<title>티오리, AI 해킹 도구 탐지 룰셋 무료 공개</title>
+			<link>https://www.etnews.com/20261015000197</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000197</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 11:01:17 +0900</pubDate>
+			<description><![CDATA[티오리가 인공지능(AI) 해킹 도구의 공격 흔적을 탐지할 수 있는 보안 규칙을 무료 공개했다. 최근 국내 금융권 침해사고에서 사용 흔적이 확인된 AI 도구 '아르텍스(ARTEX)' 등을 직접 분석한 결과를 바탕으로 개발했다. 티오리는 AI 기반 공격 도구를 분석한 백서를 발간하고, 보안관제에 활용할 수 있는 탐지 룰셋을 자사 깃허브(GitHub)에 공개했다고 15일 밝혔다. 티오리는 통제된 환경에서 아르텍스와 '사이버스트라이크AI'를 실행해 네...]]></description>
+		</item>
+		<item>
+			<title>샌즈랩, AI가 변형한 악성코드서 원본 흔적 찾아</title>
+			<link>https://www.etnews.com/20261015000190</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000190</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:53:19 +0900</pubDate>
+			<description><![CDATA[샌즈랩이 생성형 인공지능(AI)으로 변형한 악성코드에서도 원본과의 연관성을 파악할 수 있는 단서를 발견했다. AI가 악성코드의 구조와 작성 방식을 바꾸더라도 일정한 특징이 남는다는 사실을 실험으로 확인한 것이다. 샌즈랩은 14일(현지시간) 스페인 세비야에서 열린 국제 보안 콘퍼런스 '바이러스블러틴 2026(VB2026)'에서 관련 연구 성과를 발표했다. 이번 연구는 생성형 AI가 악성코드의 기능은 유지하면서 내부 코드와 구조를 바꿀 경우 기존...]]></description>
+		</item>
+		<item>
+			<title>파이오링크 &apos;블루헌터&apos;, 오픈소스 신규 취약점 28건 발굴</title>
+			<link>https://www.etnews.com/20261015000179</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000179</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:44:10 +0900</pubDate>
+			<description><![CDATA[파이오링크가 자체 개발한 지속적 위협 노출 관리(CTEM) 플랫폼 '블루헌터'를 활용해 기존에 알려지지 않은 오픈소스 소프트웨어 취약점 28건을 발견했다고 15일 밝혔다. 이 가운데 2건은 국제 공통 취약점 식별번호(CVE)가 할당됐으며, 관련 정보는 오는 12월 공개될 예정이다. 파이오링크 위협분석센터는 리눅스 환경에서 사용되는 오픈소스 서비스 10종과 콘텐츠 관리 시스템(CMS) 1종의 공격 표면과 소프트웨어 동작을 분석했다. 메모리 접근...]]></description>
+		</item>
+		<item>
+			<title>델, AI 데이터 플랫폼 고도화…에이전트 이해도 높인다</title>
+			<link>https://www.etnews.com/20261015000129</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000129</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:20:22 +0900</pubDate>
+			<description><![CDATA[델 테크놀로지스가 기업 데이터의 의미와 관계를 인공지능(AI) 에이전트에 제공하도록 '델 AI 데이터 플랫폼'의 데이터 처리·관리 및 스토리지 기능을 강화한다고 15일 밝혔다. 핵심은 △통합 시맨틱 계층 △엔터프라이즈 지식 그래프 △지식 에이전트다. 여러 시스템에 흩어진 데이터에 일관된 의미를 부여하고 관련 정보를 연결해 AI 응답 품질을 높이고 처리 비용을 줄리는 데 초점을 맞췄다. AI 에이전트는 여러 시스템의 데이터를 같은 기준으로 이해하...]]></description>
+		</item>
+		<item>
+			<title>에스더블유엠 김남곤 이사, 자율주행 기술개발 공로 국무총리 표창</title>
+			<link>https://www.etnews.com/20261015000124</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000124</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:19:27 +0900</pubDate>
+			<description><![CDATA[로보택시 기술기업 에스더블유엠(SWM.ai)은 김남곤 이사가 13일 서울 삼성동 코엑스에서 열린 '제21회 전자·IT의 날' 기념식에서 자율주행 기술개발과 상용화에 기여한 공로로국무총리 표창을 수상했다고 밝혔다. 김 이사는 2022년 에스더블유엠에 합류한 이후 자율주행 알고리즘 고도화와 데이터 인프라 구축을 총괄하며 로보택시 상용화를 이끌었다. 특히 2024년 9월 서울 강남에서 일반 시민을 대상으로 시작한 심야 자율주행 로보택시 서비스의 기술...]]></description>
+		</item>
+		<item>
+			<title>韓-美, 첨단 산업 협력 강화한다…류진 한경협 회장 “전략투자 본격 실행 단계”</title>
+			<link>https://www.etnews.com/20261015000122</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000122</guid>
+			<author>이호길</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:15:39 +0900</pubDate>
+			<description><![CDATA[한국과 미국 재계가 경제 협력·대미(對美) 투자 프로젝트 실천을 위해 의기투합했다. 한국경제인협회(한경협)는 15일 서울 영등포구 여의도 FKI타워에서 미국상공회의소와 '제36차 한미재계회의 총회'를 열고, 인공지능(AI)·반도체·배터리·조선·에너지 등 전략·첨단 산업 분야에서 긴밀한 협력을 약속했다. 류진 한경협 회장은 “양국 정부가 합의한 전략 투자가 이제 본격적인 실행단계에 들어섰다”며 “정부가 마련한 협력 틀을 실질적 성과로 만들어내는...]]></description>
+		</item>
+		<item>
+			<title>로제AI, 나스닥 상장 발판 글로벌 재난안전 AI 시장 공략 본격화</title>
+			<link>https://www.etnews.com/20261015000108</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000108</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:05:12 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기반 재난안전 기업 로제AI(Roze AI)가 미국 나스닥 상장을 계기로 글로벌 시장 진출과 사업 확장에 속도를 낸다. 화재 위험을 사전에 예측하는 독자 기술을 중심으로 해외 투자 유치와 기업 인수합병(M&A)을 추진하고 재난안전 분야의 글로벌 선도기업으로 도약한다는 전략이다. 조영진 로제AI 대표는 14일 롯데월드타워에서 열린 나스닥 상장 발표회에서 회사의 상장 추진 과정과 핵심 기술 경쟁력, 글로벌 사업 확대 계획 등을 공개...]]></description>
+		</item>
+		<item>
+			<title>한국AI융합기술인협회 등 4개 기관, &apos;AI 활용 노하우와 바이브코딩&apos; 특별 세미나 개최</title>
+			<link>https://www.etnews.com/20261015000105</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000105</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 15 Oct 2026 10:03:58 +0900</pubDate>
+			<description><![CDATA[생성형 인공지능(AI)이 직장인의 일상적인 업무 도구로 자리 잡으면서, AI를 얼마나 자주 사용하는가보다 AI를 활용해 실제 업무를 얼마나 효과적으로 수행하는가가 새로운 경쟁력으로 떠오르고 있다. 한국산업연합포럼, 한양사이버대 AX사업단, 한국디지털정책학회, 한국AI융합기술인협회는 지난 14일 서울 서초구 자동차회관에서 'AI를 잘 쓰는 직장인의 활용 노하우 최신 트렌드와 실무' 특별 세미나를 개최했다. 한국생성형AI연구원, 한국지식재산서비스협...]]></description>
+		</item>
 		<item>
 			<title>라온시큐어, 로봇에 &apos;디지털 신분증&apos; 부여…피지컬AI 보안기술 개발</title>
 			<link>https://www.etnews.com/20261015000102</link>
@@ -192,84 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 14 Oct 2026 16:43:13 +0900</pubDate>
 			<description><![CDATA[알티베이스(ALTIBASE)가 14일 서울 호텔 나루 엠갤러리에서 열린 IBM 리눅스 원(LinuxONE) 5 기술 세미나에서 LinuxONE 기반 데이터베이스 솔루션을 소개하고, 미션 크리티컬 환경에 최적화된 기술 역량을 선보였다고 밝혔다. 이번 세미나는 'AI 시대, 미션 크리티컬 인프라의 새로운 기준 - IBM LinuxONE 5'를 주제로 열려 IT 관계자 약 60여 명이 참석했다. 행사는 한국IBM과 코오롱베니트가 주최하고 ALTIBA...]]></description>
-		</item>
-		<item>
-			<title>[단독]마스턴투자운용·디지털엣지, 1조원대 &apos;파주 데이터센터&apos; 짓는다</title>
-			<link>https://www.etnews.com/20261014000339</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000339</guid>
-			<author>박두호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[마스턴투자운용과 글로벌 데이터센터 기업 디지털엣지코리아가 경기도 파주에 데이터센터를 구축한다. 마스턴이 투자자금 모집과 금융구조 설계를 맡고, 디지털엣지가 데이터센터 인프라 개발에 참여한다. 사업 규모는 1조원대로 추산된다. 14일 투자업계에 따르면 양사는 경기도 파주시 일대에서 이르면 내년 초 데이터센터 건설을 시작한다. 부지 면적은 2만9890㎡로 약 9000평 규모다. 개발기간은 2년가량으로 예상된다. 두 회사는 한국전력기술과 사업개발 협...]]></description>
-		</item>
-		<item>
-			<title>삼성전자, 반도체 협력사에 “AI로 장비 고장·오류 사전 대응” 주문...장비업계 기술 전략 바뀌나</title>
-			<link>https://www.etnews.com/20261014000307</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000307</guid>
-			<author>권동준</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[삼성전자가 국내외 주요 반도체 장비 협력사에 제조 공정 내 인공지능(AI) 적용을 주문했다. 반도체 장비 오류·결함을 사전에 파악, 인적 개입을 최소화하고 생산성을 대폭 끌어올리려는 시도다. 14일 업계에 따르면 삼성전자 DS부문은 주요 반도체 장비 협력사와 AI 기능 강화를 위한 협의에 착수했다. 어플라이드 머티어리얼즈·ASML·램리서치·도쿄일렉트론(TEL)·KLA 등 세계 상위 5대 장비사와 국내 핵심 협력사가 협의 대상에 포함된 것으로 알...]]></description>
-		</item>
-		<item>
-			<title>팔로알토 “AI 공격 대응, 보안 통합·자동화 필수”</title>
-			<link>https://www.etnews.com/20261014000382</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000382</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:23:23 +0900</pubDate>
-			<description><![CDATA[팔로알토 네트웍스가 인공지능(AI) 기반 사이버 공격에 대응하기 위해 선제적 위협 관리와 제로트러스트, AI 기반 보안관제 자동화, 보안 플랫폼 통합을 핵심 전략으로 제시했다. 팔로알토는 14일 서울 강남구 웨스틴 파르나스에서 사이버보안 콘퍼런스 '이그나이트 온 투어 서울'을 개최하고 AI 시대 기업 보안 전환 전략을 발표했다. 박상규 팔로알토 코리아 대표는 기업 보안 체계를 전반적으로 재정비하는 '사이버보안 트랜스포메이션(CX)'의 10가지...]]></description>
-		</item>
-		<item>
-			<title>[기고]금융정보 유출의 악순환, 오프라인 블록체인 기술에서 해법을 찾자</title>
-			<link>https://www.etnews.com/20261014000378</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000378</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 14 Oct 2026 16:16:48 +0900</pubDate>
-			<description><![CDATA[최근 잇따른 은행권 고객정보 유출은 금융 보안의 약한 고리를 드러냈다. 지난 9월 말 신한은행에서 2만5000여 명의 대출 관련 정보가 유출됐고, KB국민은행과 하나은행에서도 개인정보 유출이 확인됐다. 공격이 집중된 곳은 고객 계좌를 다루는 핵심 시스템이 아니었다. 대출모집인용 조회 서비스, 직원용 모바일 업무지원 시스템, 영업지원 시스템처럼 외부와 연결된 업무 서비스였다. 디지털 전환으로 편리함이 커진 만큼 접속 경로도 늘어난 것이다. 이제...]]></description>
-		</item>
-		<item>
-			<title>한국지역정보개발원, 하반기 정규직 신입사원 채용…총 6명 선발</title>
-			<link>https://www.etnews.com/20261014000376</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000376</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:15:40 +0900</pubDate>
-			<description><![CDATA[한국지역정보개발원(KLID)은 2026년 하반기 정규직 신입사원 공개채용을 진행한다고 14일 밝혔다. KLID는 전국 지방정부의 정보화와 디지털 전환을 지원하는 기관으로, 지역 디지털 플랫폼 구축, 행정 정보시스템 운영, 인공지능(AI) 기반 공공서비스 확산 등 지역 디지털 혁신을 선도하는 역할을 수행하고 있다. 이번 채용으로 정보시스템 분야 6명의 일반직 5급 정규직 신입사원을 선발한다. 담당 직무는 정보시스템 기획, 운영 및 사업 관리 등이...]]></description>
-		</item>
-		<item>
-			<title>“한국, 디지털 삶의 질 아시아 1위 지켰지만 AI·디지털 보안 순위 하락”</title>
-			<link>https://www.etnews.com/20261014000371</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000371</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:08:54 +0900</pubDate>
-			<description><![CDATA[사이버보안 기업 서프샤크가 발표한 제8회 '디지털 삶의 질 지수(DQL)'에서 한국이 세계 121개국 중 종합 11위(지난해 12위)에 올라 아시아 1위를 지켰다. 다만 인공지능(AI)과 디지털 보안 순위는 1년 새 나란히 하락했다. 5개 부문 중 순위가 가장 높은 분야는 AI(5위)다. 지난해 3위에서 두 계단 내려갔지만 여전히 분석 대상국 96%를 앞섰고, 일본(7위)과 중국(14위)보다도 높다. 인터넷 품질도 지난해 35위에서 올해 12위...]]></description>
-		</item>
-		<item>
-			<title>테라데이타, AI 성과 높일 &apos;기업 맥락&apos; 제시…“한국은 전략 시장”</title>
-			<link>https://www.etnews.com/20261014000369</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000369</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 14 Oct 2026 16:02:56 +0900</pubDate>
-			<description><![CDATA[테라데이타가 기업 데이터에 업무 맥락을 결합해 인공지능(AI) 투자와 사업 성과 간 격차를 줄이는 차세대 엔터프라이즈 AI 전략을 제시했다. 한국을 핵심 전략 시장으로 정하고 기술 인력과 파트너 생태계를 확충하는 등 투자를 확대할 방침이다. 14일 조쉬 애보트 테라데이타 아시아 태평양 및 일본 담당 부사장이 서울 여의도 하나증권빌딩에서 열린 그룹 인터뷰에서 기자들과 만나 차세대 엔터프라이즈 AI 비전과 한국 시장 성장 전략을 소개했다. 애보트...]]></description>
-		</item>
-		<item>
-			<title>[과학산책]전력·님비에 갇힌 데이터센터, 답은 지하에 있다</title>
-			<link>https://www.etnews.com/20261014000131</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000131</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 14 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 시대의 필수 인프라인 데이터센터는 말 그대로 '전기 먹는 하마'다. 일반 데이터센터의 서버 랙 하나가 5~10킬로와트(㎾)를 쓴다면, AI 데이터센터의 랙은 약 40~100㎾에 달한다. 국제에너지기구(IEA)에 따르면 AI 데이터센터 한 곳은 중소도시 규모인 약 10만 가구가 사용하는 수준의 전력을 소비한다. 앞으로 규모가 커질수록 전력 수요도 더 늘어날 전망이다. 특히 사용 전력의 약 40~50%가 냉각에 쓰인다는 점은 데이터...]]></description>
-		</item>
-		<item>
-			<title>[기고] 허위조작정보 자율규제 가이드라인, 왜 &apos;자율&apos;에 맡겼나</title>
-			<link>https://www.etnews.com/20261014000065</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261014000065</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 14 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[개정 정보통신망법이 지난 7월 7일 시행됐다. 불법정보 유형에 혐오표현이 추가됐고, 유통이 금지되는 '허위조작정보'가 신설됐다. 그런데 이 둘의 처리 방식은 결정적으로 다르다. 혐오표현은 방송미디어통신심의위원회라는 공적 기구의 심의 대상이 된 반면, 허위조작정보는 유통을 금지하면서도 그 판단은 플랫폼의 자율에 맡겼다. 이 차이는 중대한 입법적 선택이다. 이유는 개념 자체에 있다. 개정법상 허위조작정보는 단순히 틀린 정보가 아니다. 허위·조작임을...]]></description>
 		</item>
 	</channel>
 </rss>
