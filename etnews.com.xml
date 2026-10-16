@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 16 Oct 2026 21:45:35 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 17 Oct 2026 08:30:36 +0900</lastBuildDate>
+		<item>
+			<title>인천시, 창업기업 투자·판로 연결…스타트업위크 이틀간 일정 마무리</title>
+			<link>https://www.etnews.com/20261017000001</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261017000001</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 17 Oct 2026 07:36:25 +0900</pubDate>
+			<description><![CDATA[인천 스타트업의 투자·판로 개척을 위해 2000여명이 모였다. 인천시는 지난 14~15일 송도컨벤시아에서 '2026 인천스타트업위크(SURF 2026 INCHEON)'를 개최했다고 17일 밝혔다. 지역 스타트업과 창업지원기관, 투자자, 대·중견기업 등 25개 기관과 관계자 2000여명이 참여했다. 행사는 인천시와 인천지방중소벤처기업청이 공동 주최하고 인천창조경제혁신센터와 인천지역창업보육센터협의회가 공동 주관했다. '스타트업, 미래를 향해(Sta...]]></description>
+		</item>
 		<item>
 			<title>센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단</title>
 			<link>https://www.etnews.com/20261016000344</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 소개했다. 반도체 설계부터 AI 모델 최적화, 기기 적용까지 지원하는 기술이다. 기업은 에임퓨처의 설계자산을 활용해 제품에 필요한 AI 연산 기능을 반도체에 넣을 수 있다. 외부 서버와의 통신에만 의존하지 않고 가전제품이나 로봇 등 기기 내부에서 AI를 실행하는 데 쓰인다. 에임퓨처는 미국...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋] AI가 한 일 검증…아르바랩스코리아, &apos;아르바엣지&apos; 소개</title>
-			<link>https://www.etnews.com/20261015000051</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000051</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 실행 검증 기업 아르바랩스코리아(대표 리브스 애슐리)가 '2026 경기 스타트업 서밋'에서 엣지 AI 검증 솔루션 '아르바엣지'를 소개했다. 로봇이나 산업설비에 탑재된 AI가 실제로 어떤 모델을 실행하고 어떤 결과를 냈는지 확인하는 기술이다. 통신이 불안정하거나 끊긴 현장에서도 AI 실행 기록은 기기 내부에 남는다. 운영자는 이 기록을 설비의 작동 이력 점검이나 사고 원인 조사에 활용할 수 있다. 각 기기의 기록을 비교해 작동...]]></description>
 		</item>
 	</channel>
 </rss>
