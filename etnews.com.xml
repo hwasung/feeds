@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 16 Oct 2026 18:30:41 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 16 Oct 2026 21:45:35 +0900</lastBuildDate>
+		<item>
+			<title>센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단</title>
+			<link>https://www.etnews.com/20261016000344</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261016000344</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 16 Oct 2026 21:10:42 +0900</pubDate>
+			<description><![CDATA[센스톤이 인공지능(AI)과 로봇이 생산설비를 자율적으로 운영하는 무인공장 보안 기술 개발에 나선다. 산업설비에 전달되는 제어 명령의 출처와 권한을 검증해 비인가 명령이 실제 설비 작동으로 이어지기 전에 차단하는 기술이 핵심이다. 센스톤은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 '협업지능 시스템을 위한 피지컬AI 기반 다중 계층 보안 기술 개발' 국책과제에 공동연구개발기관으로 참여한다고 16일 밝혔다. 센스톤은 주관기관인 라온...]]></description>
+		</item>
 		<item>
 			<title>[기고] AI를 탑재한 디지털 트윈, 물리 세계를 통제한다</title>
 			<link>https://www.etnews.com/20261016000309</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 실행 검증 기업 아르바랩스코리아(대표 리브스 애슐리)가 '2026 경기 스타트업 서밋'에서 엣지 AI 검증 솔루션 '아르바엣지'를 소개했다. 로봇이나 산업설비에 탑재된 AI가 실제로 어떤 모델을 실행하고 어떤 결과를 냈는지 확인하는 기술이다. 통신이 불안정하거나 끊긴 현장에서도 AI 실행 기록은 기기 내부에 남는다. 운영자는 이 기록을 설비의 작동 이력 점검이나 사고 원인 조사에 활용할 수 있다. 각 기기의 기록을 비교해 작동...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋] 땅 조건 넣으니 도면 초안이 &apos;쓱&apos;…스타키움, &apos;아키파일럿&apos; 소개</title>
-			<link>https://www.etnews.com/20261015000047</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000047</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[건설테크 기업 스타키움(대표 이정완)이 '2026 경기 스타트업 서밋'에서 생성형 인공지능(AI) 건축설계 자동화 서비스 '아키파일럿'을 소개했다. 설계 요구와 대지 조건, 건축 관련 법규를 해석해 도면 작성을 지원하는 기술이다. 건축사나 설계 담당자가 조건을 입력하면 AI가 대지를 분석해 평면도 초안과 CAD·DXF 형식의 도면 작성을 돕는다. 설계자는 나온 도면을 검토·수정해 후속 작업에 활용할 수 있어, 반복적인 조건 확인과 초안 작성에...]]></description>
 		</item>
 	</channel>
 </rss>
