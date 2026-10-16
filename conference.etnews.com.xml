@@ -1,10 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>전자신문인터넷 행사</title>
-		<link>https://conference.etnews.com/conference.html</link>
-		<description>전자신문인터넷 행사</description>
-		<lastBuildDate>Fri, 16 Oct 2026 21:47:19 +0900</lastBuildDate>
+		<title>전자신문 컨퍼런스/웨비나</title>
+		<link>https://conference.etnews.com/</link>
+		<description>전자신문 컨퍼런스/웨비나</description>
+		<lastBuildDate>Fri, 16 Oct 2026 22:12:49 +0900</lastBuildDate>
+		<item>
+			<title>Cato AI Security: AI 시대를 위한 차세대 보안 소개</title>
+			<link>https://www.allshowtv.com/detail.html?idx=1755</link>
+			<guid isPermaLink="true">https://www.allshowtv.com/detail.html?idx=1755</guid>
+			<category>allshowTV</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:47 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+				<span class="label_day">D-5</span>
+                <a href="https://www.allshowtv.com/detail.html?idx=1755" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/09/28/cms_conference_list_28095938893420.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-21(수)</span>
+                <strong><a href="https://www.allshowtv.com/detail.html?idx=1755">Cato AI Security: AI 시대를 위한 차세대 보안 소개</a></strong>
+                <span class="category">allshowTV</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>AX &amp; 하이퍼오토메이션 코리아 2026-Fall</title>
+			<link>https://aiax.etnews.com/</link>
+			<guid isPermaLink="true">https://aiax.etnews.com/</guid>
+			<category>Conference</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:45 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+				<span class="label_day">D-7</span>
+                <a href="https://aiax.etnews.com/" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/09/15/cms_conference_list_15160640933693.png">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-23(금)</span>
+                <strong><a href="https://aiax.etnews.com/">AX &amp; 하이퍼오토메이션 코리아 2026-Fall</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>2026 K-opensource AX</title>
+			<link>https://sek.co.kr/2026/open-ax</link>
+			<guid isPermaLink="true">https://sek.co.kr/2026/open-ax</guid>
+			<category>Conference</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:44 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://sek.co.kr/2026/open-ax" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/15/cms_conference_list_15085131718641.png">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-28(수)</span>
+                <strong><a href="https://sek.co.kr/2026/open-ax">2026 K-opensource AX</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>전자신문 TECH SUMMIT 2026-차세대 반도체로 가속화하는 AI 혁명</title>
+			<link>https://www.sek.co.kr/2026/techsummit</link>
+			<guid isPermaLink="true">https://www.sek.co.kr/2026/techsummit</guid>
+			<category>Conference</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:43 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.sek.co.kr/2026/techsummit" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/06/cms_conference_list_06114625763267.png">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-28(수)</span>
+                <strong><a href="https://www.sek.co.kr/2026/techsummit">전자신문 TECH SUMMIT 2026-차세대 반도체로 가속화하는 AI 혁명</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>이노베이션 솔루션 데이 2026</title>
+			<link>https://www.sek.co.kr/2026/solution</link>
+			<guid isPermaLink="true">https://www.sek.co.kr/2026/solution</guid>
+			<category>Conference</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:42 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.sek.co.kr/2026/solution" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/08/cms_conference_list_08130447782983.png">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-29(목)</span>
+                <strong><a href="https://www.sek.co.kr/2026/solution">이노베이션 솔루션 데이 2026</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>공공 AX, 데이터 주권은 어떻게 확보하는가</title>
+			<link>https://www.allshowtv.com/detail.html?idx=1761</link>
+			<guid isPermaLink="true">https://www.allshowtv.com/detail.html?idx=1761</guid>
+			<category>allshowTV</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:41 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.allshowtv.com/detail.html?idx=1761" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/14/cms_conference_list_14093639753878.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-29(목)</span>
+                <strong><a href="https://www.allshowtv.com/detail.html?idx=1761">공공 AX, 데이터 주권은 어떻게 확보하는가</a></strong>
+                <span class="category">allshowTV</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>Better Software Testing Conference 2026 『제12회 국제 품질 테스팅 콘퍼런스』</title>
+			<link>https://www.sek.co.kr/2026/Bestcon</link>
+			<guid isPermaLink="true">https://www.sek.co.kr/2026/Bestcon</guid>
+			<category>Conference</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:40 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.sek.co.kr/2026/Bestcon" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/08/cms_conference_list_08105940698774.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-11-05(목)</span>
+                <strong><a href="https://www.sek.co.kr/2026/Bestcon">Better Software Testing Conference 2026 『제12회 국제 품질 테스팅 콘퍼런스』</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>하루 완성 CAE 세미나 2026 - 구조해석편</title>
+			<link>https://www.allshowtv.com/detail.html?idx=1758</link>
+			<guid isPermaLink="true">https://www.allshowtv.com/detail.html?idx=1758</guid>
+			<category>allshowTV</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:39 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.allshowtv.com/detail.html?idx=1758" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/12/cms_conference_list_12141445720010.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-11-11(수)</span>
+                <strong><a href="https://www.allshowtv.com/detail.html?idx=1758">하루 완성 CAE 세미나 2026 - 구조해석편</a></strong>
+                <span class="category">allshowTV</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>하루 완성 CAE 세미나 2026 - 유동해석편</title>
+			<link>https://www.allshowtv.com/detail.html?idx=1759</link>
+			<guid isPermaLink="true">https://www.allshowtv.com/detail.html?idx=1759</guid>
+			<category>allshowTV</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:38 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.allshowtv.com/detail.html?idx=1759" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/12/cms_conference_list_12141627696996.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-11-11(수)</span>
+                <strong><a href="https://www.allshowtv.com/detail.html?idx=1759">하루 완성 CAE 세미나 2026 - 유동해석편</a></strong>
+                <span class="category">allshowTV</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>하루 완성 CAE 세미나 2026 - 전자기장해석편</title>
+			<link>https://www.allshowtv.com/detail.html?idx=1760</link>
+			<guid isPermaLink="true">https://www.allshowtv.com/detail.html?idx=1760</guid>
+			<category>allshowTV</category>
+			<pubDate>Fri, 16 Oct 2026 22:12:37 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.allshowtv.com/detail.html?idx=1760" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/12/cms_conference_list_12141719567890.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-11-11(수)</span>
+                <strong><a href="https://www.allshowtv.com/detail.html?idx=1760">하루 완성 CAE 세미나 2026 - 전자기장해석편</a></strong>
+                <span class="category">allshowTV</span>
+              </div>
+            </li>]]></description>
+		</item>
 		<item>
 			<title>인더스트리 5.0 디지털 인사이트 2026</title>
 			<link>https://conference.etnews.com/conf_info.html?uid=526</link>
@@ -45,25 +237,41 @@
 			<title>Enterprise Ontology 웨비나 2026</title>
 			<link>https://conference.etnews.com/conf_info.html?uid=527</link>
 			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=527</guid>
+			<category>Conference</category>
 			<pubDate>Fri, 16 Oct 2026 21:47:16 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb ing"><img src="https://conference.etnews.com/images/conference/2026/527_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>Enterprise Ontology 웨비나 2026</dt>
-							<dd>일시 : 2026년 10월 22일(목) 13:30~17:00</dd>
-							<dd>장소 : 본 컨퍼런스는 온라인으로 진행됩니다.</dd>
-						</dl>]]></description>
+			<description><![CDATA[<li>
+              <figure>
+				<span class="label_day">D-6</span>
+                <a href="https://conference.etnews.com/conf_info.html?uid=527" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/10/02/cms_conference_list_02130757508611.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-22(목)</span>
+                <strong><a href="https://conference.etnews.com/conf_info.html?uid=527">Enterprise Ontology 웨비나 2026</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
 		</item>
 		<item>
 			<title>UX 기획·DESIGN.md 설계·AI 구현 전 과정 1-day 워크숍 with Claude Code·Codex</title>
 			<link>https://conference.etnews.com/conf_info.html?uid=512</link>
 			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=512</guid>
+			<category>Conference</category>
 			<pubDate>Fri, 16 Oct 2026 21:47:15 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb ing"><img src="https://conference.etnews.com/images/conference/2026/512_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>UX 기획·DESIGN.md 설계·AI 구현 전 과정 1-day 워크숍 with Claude Code·Codex</dt>
-							<dd>일시 : 2026년 10월 16일(금) 10:00~17:00</dd>
-							<dd>장소 : 위플레이스 강남2호점</dd>
-						</dl>]]></description>
+			<description><![CDATA[<li>
+              <figure>
+				<span class="label_day">D-Day</span>
+                <a href="https://conference.etnews.com/conf_info.html?uid=512" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/08/25/cms_conference_list_25093738114706.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-10-16(금)</span>
+                <strong><a href="https://conference.etnews.com/conf_info.html?uid=512">UX 기획·DESIGN.md 설계·AI 구현 전 과정 1-day 워크숍 with Claude Code·Codex</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
 		</item>
 		<item>
 			<title>AI 세컨드 브레인 만들기 1-day 워크숍 - LLM Wiki 기반 업무지식 축적·리서치·보고 자동화 과정</title>
@@ -243,126 +451,6 @@
 							<dt>바이브 시대의 UX·UI: 2026 하반기 트렌드와 AI 네이티브 실무 전략</dt>
 							<dd>일시 : 2026년 6월 29일(월) 14:00~18:00</dd>
 							<dd>장소 : 잠실 한국광고문화회관 2층 대회의실</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>기업 AI를 위한 온톨로지 기반 지식체계 설계·활용 실전 워크숍 - LLM·RAG·AI Agent가 이해하는 조직 지식 구조 만들기</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=494</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=494</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:59 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/494_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>기업 AI를 위한 온톨로지 기반 지식체계 설계·활용 실전 워크숍 - LLM·RAG·AI Agent가 이해하는 조직 지식 구조 만들기</dt>
-							<dd>일시 : 2026년 6월 17일(수) 10:00~17:00</dd>
-							<dd>장소 : 위플레이스 강남2호점</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>UX 기획·DESIGN.md 설계·AI 구현 전 과정 1-day 워크숍 with Claude Code·Codex</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=491</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=491</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:58 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/491_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>UX 기획·DESIGN.md 설계·AI 구현 전 과정 1-day 워크숍 with Claude Code·Codex</dt>
-							<dd>일시 : 2026년 6월 12일(금) 10:00~17:00</dd>
-							<dd>장소 : YBM the Biz 강남교육연수센터 3층</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>현업에서 바로 쓰는 AI 에이전트 하네스(Harness) 설계법</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=493</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=493</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:57 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/493_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>현업에서 바로 쓰는 AI 에이전트 하네스(Harness) 설계법</dt>
-							<dd>일시 : 2026년 6월 5일(금) 14:00~18:00</dd>
-							<dd>장소 : 강남 한국컨퍼런스센터 지하 2층 대강당 (강남역 도보 2분)</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>SECaaS Summit 2026</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=482</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=482</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:56 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/482_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>SECaaS Summit 2026</dt>
-							<dd>일시 : 2026년 5월 28일(목) 08:30~17:10</dd>
-							<dd>장소 : 웨스틴 서울 파르나스 LL 하모니볼룸</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>반복 업무의 종말! 일하는 방식을 리셋하라 - 클로드와 하네스로 구현하는 내(My) 업무 자동화</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=480</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=480</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:55 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/480_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>반복 업무의 종말! 일하는 방식을 리셋하라 - 클로드와 하네스로 구현하는 내(My) 업무 자동화</dt>
-							<dd>일시 : 2026년 5월 15일(금) 09:30~17:30</dd>
-							<dd>장소 : YBM the Biz 강남교육연수센터 4층 402호</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>AI 에이전트 주도 개발 실전 컨퍼런스:  에이전트 협업·하네스·개발 최전방(FDE)</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=490</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=490</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:54 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/490_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>AI 에이전트 주도 개발 실전 컨퍼런스:  에이전트 협업·하네스·개발 최전방(FDE)</dt>
-							<dd>일시 : 2026년 5월 14일(목) 14:00~18:00</dd>
-							<dd>장소 : 잠실 한국광고문화회관 2층 대회의실</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>클로드 코워크로 일하라 : 기업의 AI 전환(AX)을 위한 Claude 완전 활용법</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=483</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=483</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:53 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/483_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>클로드 코워크로 일하라 : 기업의 AI 전환(AX)을 위한 Claude 완전 활용법</dt>
-							<dd>일시 : 2026년 4월 29일(수) 14:00~18:00</dd>
-							<dd>장소 : 잠실 한국광고문화회관 2층 대회의실</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>AI 네이티브 기업 전환 사례 &amp; 전략 세미나</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=481</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=481</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:52 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/481_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>AI 네이티브 기업 전환 사례 &amp; 전략 세미나</dt>
-							<dd>일시 : 2026년 4월 23일(목) 14:00~18:00</dd>
-							<dd>장소 : 잠실 한국광고문화회관 2층 대회의실</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>AX 베스트 프랙티스 컨퍼런스</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=487</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=487</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:51 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/487_sns_image.jpg" alt="컨퍼런스 섬네일"></dd>
-							<dt>AX 베스트 프랙티스 컨퍼런스</dt>
-							<dd>일시 : 2026년 4월 23일(목) 10:00~17:00</dd>
-							<dd>장소 : 본 컨퍼런스는 온라인으로 진행됩니다.</dd>
-						</dl>]]></description>
-		</item>
-		<item>
-			<title>AX &amp; 하이퍼오토메이션 코리아 2026-Spring</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=479</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=479</guid>
-			<pubDate>Fri, 16 Oct 2026 21:46:50 +0900</pubDate>
-			<description><![CDATA[<dl>
-							<dd class="thumb close"><img src="https://conference.etnews.com/images/conference/2026/479_sns_image.png" alt="컨퍼런스 섬네일"></dd>
-							<dt>AX &amp; 하이퍼오토메이션 코리아 2026-Spring</dt>
-							<dd>일시 : 2026년 4월 17일(금) 9:30~17:00</dd>
-							<dd>장소 : 엘타워 6층 그레이스홀</dd>
 						</dl>]]></description>
 		</item>
 	</channel>
