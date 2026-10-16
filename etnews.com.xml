@@ -4,7 +4,15 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 16 Oct 2026 17:31:06 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 16 Oct 2026 18:30:41 +0900</lastBuildDate>
+		<item>
+			<title>[기고] AI를 탑재한 디지털 트윈, 물리 세계를 통제한다</title>
+			<link>https://www.etnews.com/20261016000309</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261016000309</guid>
+			<category>오피니언</category>
+			<pubDate>Fri, 16 Oct 2026 17:18:02 +0900</pubDate>
+			<description><![CDATA[현실 세계를 가상 공간에 복제하는 디지털 트윈이 인공지능(AI)과 결합하며 새로운 진화를 맞이하고 있다. 과거 단순한 '거울 세계'로서 관제에 머물렀던 디지털 트윈은 이제 공간을 이해하고 미래를 예측하며 물리 세계를 최적화·제어하는 '생성적 자율 디지털 트윈'으로 패러다임을 전환하고 있다. 이 혁신의 중심에는 AI가 3차원 공간 내 사물의 위치와 형태, 객체 간 기하학적 맥락을 스스로 지각하는 '공간 지능', 그리고 물리 법칙과 인과관계를 학습...]]></description>
+		</item>
 		<item>
 			<title>엣지에이아이·미 이피션트AI, 1000 TOPS급 피지컬 AI 반도체 공동개발</title>
 			<link>https://www.etnews.com/20261016000231</link>
@@ -263,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
 			<description><![CDATA[건설테크 기업 스타키움(대표 이정완)이 '2026 경기 스타트업 서밋'에서 생성형 인공지능(AI) 건축설계 자동화 서비스 '아키파일럿'을 소개했다. 설계 요구와 대지 조건, 건축 관련 법규를 해석해 도면 작성을 지원하는 기술이다. 건축사나 설계 담당자가 조건을 입력하면 AI가 대지를 분석해 평면도 초안과 CAD·DXF 형식의 도면 작성을 돕는다. 설계자는 나온 도면을 검토·수정해 후속 작업에 활용할 수 있어, 반복적인 조건 확인과 초안 작성에...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋] 유니유니, 카메라 없는 안전관리 &apos;새비&apos; 소개</title>
-			<link>https://www.etnews.com/20261015000019</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000019</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[카메라를 설치하기 어려운 공간의 안전을 관리하는 유니유니(대표 한수연)가 '2026 경기 스타트업 서밋'에서 비영상 인공지능(AI) 솔루션 '새비(SAVVY)'를 소개했다. 이용자의 사생활을 보호하면서 위험 상황을 알리는 기술이다. 새비는 화장실 이용자의 낙상·실신 징후나 불법촬영이 의심되는 행동을 감지해 관리 담당자에게 알린다. 병원·요양시설에서도 환자나 입소자의 응급 상황을 살피는 데 활용할 수 있다. 2020년 설립된 유니유니는 공간 안전...]]></description>
 		</item>
 	</channel>
 </rss>
