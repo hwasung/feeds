@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 16 Oct 2026 15:30:58 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 16 Oct 2026 16:31:02 +0900</lastBuildDate>
+		<item>
+			<title>직스테크놀로지, 한성대 학생들의 AI 실무교육 기회 넓힌다…10억 원 상당 SW 지원</title>
+			<link>https://www.etnews.com/20261016000256</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261016000256</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 16 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[직스테크놀로지는 16일 한성대학교와 AI 인재 양성 및 실무교육 지원을 위한 업무협약(MOU)을 체결했다고 밝혔다. 이날 협약에 따라 총 10억 원 상당의 직스캐드 AX(ZYXCAD AX), 직스 스페이스(ZYX SPACE), 다이브(DIVE)를 3년간 한성대에 무상 제공한다. 직스테크놀로지는 학생들이 국산 AI 솔루션으로 실무 역량을 쌓을 수 있도록 지원할 계획이다. 직스캐드 AX는 520가지 자동화 기능을 탑재한 국산 AI 기반 범용 CAD...]]></description>
+		</item>
 		<item>
 			<title>브릴스, 美 로봇 규제 대응 현지생산 박차…AMR부터 시작</title>
 			<link>https://www.etnews.com/20261016000210</link>
@@ -263,15 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 15 Oct 2026 22:54:11 +0900</pubDate>
 			<description><![CDATA[경기 시흥 지역 50여 개 기업이 청년부터 중장년까지 구직자를 만나 현장 채용 면접을 진행한다. 경기도와 경기도일자리재단(대표 윤덕룡), 시흥시는 오는 28일 정왕동 중앙공원에서 '경기도 5070 일자리박람회+시흥시 2040 일자리박람회'를 연다고 15일 밝혔다. 이 행사는 청년층의 첫 취업과 경력직 이직, 중장년층 재취업을 지원하기 위해 마련됐다. 참여기업 채용 예정 인원은 총 400명이다. 참여기업은 자동차부품·플라스틱·화장품 등 제조업을...]]></description>
-		</item>
-		<item>
-			<title>세일포인트, AI 보안도 AI에 맡긴다…자율형 에이전트 개발</title>
-			<link>https://www.etnews.com/20261015000469</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000469</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 15 Oct 2026 19:59:03 +0900</pubDate>
-			<description><![CDATA[세일포인트가 인공지능(AI)을 활용해 보안 위협 탐지부터 침해 차단, 접근 권한 검토까지 자동화하는 자율형 보안 에이전트 개발을 추진한다. 자율형 에이전트를 역할에 따라 레드·블루·그린 등 세 가지 범주로 나눠 신원 보안 업무에 적용한다는 구상이다. 찬드라 그나나삼반담 세일포인트 최고기술책임자(CTO)는 14일(현지시간) 온라인으로 진행한 투자자 대상 기술 설명회에서 “AI 보안을 위해 모든 과정에 사람을 개입시키는 방식으로는 더 이상 문제를...]]></description>
 		</item>
 	</channel>
 </rss>
