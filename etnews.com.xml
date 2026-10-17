@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 17 Oct 2026 12:30:40 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 17 Oct 2026 17:31:20 +0900</lastBuildDate>
+		<item>
+			<title>AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진</title>
+			<link>https://www.etnews.com/20261016000227</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261016000227</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 17 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[생성형 인공지능(AI)과 딥페이크 기술 발달로 CCTV 영상까지 정교하게 조작할 수 있는 상황에 직면하면서, 촬영 단계부터 영상의 출처와 위변조 여부를 확인하는 국제 표준화가 추진된다. 17일 업계에 따르면 글로벌 영상보안 표준단체 온비프(ONVIF)는 올해 연말 최종 규격 확정을 목표로 CCTV 영상 생성 단계에서 암호학적 서명을 적용하는 '미디어 사이닝 애드온(Media Signing Add-on)' 표준화를 추진하고 있다. 온비프는 지난...]]></description>
+		</item>
 		<item>
 			<title>[라이징 2026] 몬로이 워크데이 CTO “AI 속도조절보다 위험 통제가 시급”</title>
 			<link>https://www.etnews.com/20261016000226</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
 			<description><![CDATA[실내외 자율주행 로봇 개발기업 필드로(대표 송영은)가 '2026 경기 스타트업 서밋'에서 폐기물 수거 로봇을 주력 기술로 소개했다. 넓은 공간을 이동하며 사람이 반복하던 폐기물 수거·운반 업무를 자동화하기 위한 로봇이다. 공항과 물류시설처럼 이동 구역이 넓고 동선이 복잡한 공간에 적용할 수 있다. 필드로는 2025년 인천국제공항 폐기물 수거 로봇 개념검증(PoC) 대상으로 선정됐다. 개념검증은 실제 현장에서 로봇의 적용 가능성을 확인하는 절차다...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋] 문서 올리면 점자·음성으로…오리누, &apos;오리누닷에이아이&apos; 소개</title>
-			<link>https://www.etnews.com/20261015000056</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000056</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[일반 문서를 점자·음성 자료로 바꾸는 AI 기업 오리누(대표 구본경)가 '2026 경기 스타트업 서밋'에서 변환 플랫폼 '오리누닷에이아이(orinu.ai)'를 소개했다. 학교와 도서관, 공공기관이 시각장애인을 위한 자료를 필요한 때 제작하도록 돕는 서비스다. 담당자가 문서를 올리면 AI가 점자로 옮기고 음성 파일을 만든다. 점역 과정에서 오류가 의심되는 부분은 사람이 확인하도록 표시해 교정·검수 작업을 돕는다. 점자 변환에는 표와 수식 등 문서...]]></description>
 		</item>
 	</channel>
 </rss>
