@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 17 Oct 2026 08:30:36 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 17 Oct 2026 12:30:40 +0900</lastBuildDate>
+		<item>
+			<title>[라이징 2026] 몬로이 워크데이 CTO “AI 속도조절보다 위험 통제가 시급”</title>
+			<link>https://www.etnews.com/20261016000226</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261016000226</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 17 Oct 2026 12:00:00 +0900</pubDate>
+			<description><![CDATA[“최근 일탈 등 상황을 볼 때 기업용 인공지능(AI) 에이전트는 상당한 피해를 일으킬 가능성이 있습니다. 이론적 위협이 아닌 실제 위험인 만큼 통제장치 확보가 시급합니다.” 게이브 몬로이 워크데이 최고기술책임자(CTO)는 지난 14일(현지시간)부터 미국 라스베이거스에서 열린 '라이징 2026' 기간 전자신문과 인터뷰에서 “AI 도입과 성능 고도화에 앞서 기업 업무 규칙과 접근 권한을 준수하도록 설계하고, 개발단계부터 안전성에 대한 책임을 명확히...]]></description>
+		</item>
 		<item>
 			<title>인천시, 창업기업 투자·판로 연결…스타트업위크 이틀간 일정 마무리</title>
 			<link>https://www.etnews.com/20261017000001</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
 			<description><![CDATA[일반 문서를 점자·음성 자료로 바꾸는 AI 기업 오리누(대표 구본경)가 '2026 경기 스타트업 서밋'에서 변환 플랫폼 '오리누닷에이아이(orinu.ai)'를 소개했다. 학교와 도서관, 공공기관이 시각장애인을 위한 자료를 필요한 때 제작하도록 돕는 서비스다. 담당자가 문서를 올리면 AI가 점자로 옮기고 음성 파일을 만든다. 점역 과정에서 오류가 의심되는 부분은 사람이 확인하도록 표시해 교정·검수 작업을 돕는다. 점자 변환에는 표와 수식 등 문서...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로</title>
-			<link>https://www.etnews.com/20261015000053</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000053</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 '2026 경기 스타트업 서밋'에서 신경망처리장치(NPU) 설계자산(IP)과 시스템 통합 솔루션을 소개했다. 반도체 설계부터 AI 모델 최적화, 기기 적용까지 지원하는 기술이다. 기업은 에임퓨처의 설계자산을 활용해 제품에 필요한 AI 연산 기능을 반도체에 넣을 수 있다. 외부 서버와의 통신에만 의존하지 않고 가전제품이나 로봇 등 기기 내부에서 AI를 실행하는 데 쓰인다. 에임퓨처는 미국...]]></description>
 		</item>
 	</channel>
 </rss>
