@@ -4,7 +4,36 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Sat, 17 Oct 2026 14:30:57 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 17 Oct 2026 16:30:59 +0900</lastBuildDate>
+		<item>
+			<title>깃허브 &quot;AI시대 개발 환경, 명령에서 의도로&quot;…앰비언트 인텔리전스 제시</title>
+			<link>https://zdnet.co.kr/view/?no=20261017112854</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261017112854</guid>
+			<author>남혁우 기자</author>
+			<category>깃허브</category>
+			<category>코딩</category>
+			<category>프로그래밍</category>
+			<category>개발</category>
+			<category>코파일럿</category>
+			<category>컴퓨팅</category>
+			<pubDate>Sat, 17 Oct 2026 16:12:51 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/17/89a01431f3592df53649051b4abb5153.jpg" alt=""><p>인공지능(AI) 시대의 새로운 개발 환경으로 &apos;앰비언트 인텔리전스(Ambient Intelligence)&apos;가 제시됐다. AI 에이전트가 작업 계획과 실행, 검증을 맡고 개발자는 방향 설정과 결과 검토·통제에 집중하도록 한다는 구상이다.</p>
+<p>자연어로 코드를 생성하고 시제품을 만드는 데 주목한 바이브 코딩과 달리 에이전트를 실제 서비스 개발 흐름에 통합하고 개발자의 검토와 통제를 함께 중시한다는 점이 특징이다.</p>
+<p>17일 마틴 우드워드 깃허브 개발자 관계 부문 부사장은 공식 블로그를 통해 차세대 개발자 인터페이스로 앰비언트 인텔리전스를 소개했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/17/89a01431f3592df53649051b4abb5153.jpg" alt="깃허브가 AI시대 집중력 있는 개발을 위한 도구로 물리 키패드를 제시했다(이미지=로지텍)">
+<p>우드워드 부사장은 도구는 달라졌어도 개발자가 명령어와 단축키를 익혀 기계의 방식에 맞춰 일하는 관계는 오랫동안 이어져 왔다고 지적했다.</p>
+<p>그는 AI가 이런 관계를 바꾸고 있다며 "단지 더 빠른 코딩이 아니라 명령을 내리는 것에서 의도를 실행 가능하게 만드는 것으로의 전환"이라고 설명했다.</p>
+<p>핵심은 에이전트가 개발자가 정한 범위 안에서 작업하고, 결과를 개발자가 검토할 수 있도록 돌려준다는 점이다. 깃허브 코파일럿 코딩 에이전트는 이슈를 받아 격리된 환경에서 작업한 뒤 결과를 곧바로 코드에 반영하는 대신 풀 리퀘스트(PR) 형태로 제출한다. 코드를 반영할지는 개발자가 검토한 뒤 결정한다.</p>
+<p>앰비언트 인텔리전스는 이런 에이전트 활용을 개발 작업 흐름 전반으로 넓히려는 구상이다. 개발자가 작업을 멈추거나 별도의 절차를 거치지 않고 텍스트·음성·버튼 등으로 에이전트를 호출해, 작업 방향을 바꾸거나 중단된 작업을 이어가도록 하는 방식이다. 입력 방식이 달라져도 프로젝트의 맥락과 규칙을 바탕으로 작업이 이어지도록 하는 것이 관건이다.</p>
+<p>우드워드 부사장은 이를 위해 세 가지 계층이 필요하다고 설명했다. 텍스트와 음성, 물리적 컨트롤 등으로 의도를 전달하는 입력 방식(모달리티), 이를 바탕으로 작업을 계획하고 수행하는 실행 체계(하네스), 진행 상황을 확인하고 방향을 바꾸거나 결과를 승인하는 통제 수단(컨트롤 플레인)이다. 그는 "가장 좋은 제품은 통제권을 내주지 않으면서 이 세 층을 연결한다"고 말했다.</p>
+<p>이런 환경이 필요한 이유는 에이전트가 코드를 생성하는 것만으로 실제 개발 업무가 끝나지 않기 때문이다. 에이전트가 프로젝트 맥락과 규칙을 파악해 필요한 도구를 활용하고, 개발자는 그 과정과 결과를 살펴 필요한 시점에 개입할 수 있어야 한다.</p>
+<p>이를 위해 모델 컨텍스트 프로토콜(MCP)은 에이전트를 도구·서비스와 연결하고, 저장소 지침과 스킬은 프로젝트별 규칙을 전달하며, 훅(hook)은 작업 전후에 정책과 검증 절차를 적용한다. 반복적인 도구 조작은 줄이면서도 작업의 방향과 권한, 검증은 개발자가 통제할 수 있어야 한다는 것이다.</p>
+<p>우드워드 부사장은 이런 변화가 개발자의 역할을 줄이지 않고 오히려 키운다고 강조했다. 그는 "AI 에이전트는 차 한 잔 마시는 사이에 구현안 세 개를 만들어낼 수 있다"면서도 "그 추상화가 적절한지 마이그레이션이 안전한지 테스트가 의미 있는지 결과물이 실제로 문제를 해결하는지는 누군가 결정해야 한다"고 말했다.</p>
+<p>이어 "작업의 기계적인 부분이 위임되더라도 결과에 대한 책임은 개발자에게 남는다"며 이를 개발 업무에서 일어나는 가장 중요한 변화로 꼽았다. 에이전트가 코드를 빠르게 쏟아낼수록 무엇을 받아들일지 가려내는 판단력과 취향이 개발자의 경쟁력이 된다는 설명이다.</p>
+<p>우드워드 부사장은 앰비언트 컨트롤의 사례로 물리 키패드를 소개했다. 깃허브는 로지텍과 약 18개월간 협력해 키패드 버튼에 코파일럿 세션 시작·재개, 매개변수가 포함된 프롬프트 제출, IDE 명령 실행, 여러 단계의 작업 실행 등을 지정하는 방안을 마련했다. 자주 반복되는 작업을 버튼으로 호출해 불필요한 조작을 줄이고 개발자가 기획에 집중할 수 있도록 하려는 취지다.</p>
+<p>그는 "모든 개발자에게 책상 위 기기가 하나 더 필요한 것도 모든 방해 요소에 단축키가 필요한 것도 아니다"라며 "하지만 이 경험을 통해 개발자는 어떤 동작에 단축키를 줄지, 언제 키보드나 명령 팔레트, 음성이 더 나은지 스스로 정할 수 있다"고 설명했다.</p>
+<p>이어 "핵심은 작업 흐름을 유지하는 데 있다"며 "우리의 목표는 개발자가 집중력을 유지할 수 있도록 작업 주변의 마찰을 없애는 좋은 인터페이스를 제공하는 것"이라고 강조했다.</p>]]></description>
+		</item>
 		<item>
 			<title>오랑우탄 엄마도 자녀 &apos;놀이 약속&apos; 잡는다</title>
 			<link>https://zdnet.co.kr/view/?no=20261017103137</link>
@@ -334,18 +363,18 @@
 			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261017092606</guid>
 			<author>권봉석 기자</author>
 			<category>엔비디아</category>
+			<category>Arm</category>
+			<category>윈도</category>
+			<category>AI</category>
+			<category>에이수스</category>
 			<category>RTX 스파크</category>
 			<category>N1X</category>
 			<category>GB10</category>
 			<category>그레이스</category>
 			<category>블랙웰</category>
-			<category>Arm</category>
-			<category>윈도</category>
-			<category>AI</category>
 			<category>쿠다</category>
 			<category>DLSS</category>
 			<category>게이밍</category>
-			<category>에이수스</category>
 			<category>MSI</category>
 			<category>에이전틱 AI</category>
 			<category>AI PC</category>
@@ -372,8 +401,8 @@
 <img src="https://image.zdnet.co.kr/2026/10/17/1244567b93a15aeac41c1b959c6d7a60.jpg" alt="이이다 케이타 엔비디아 글로벌 콘텐츠 매니지먼트사업본부 부사장. (사진=지디넷코리아)">
 <p>RTX 스파크는 지포스 GPU DNA를 살려 DLSS 5 등 AI 기반 프레임 생성 기능 등을 현재 게임에서 그대로 실현할 수 있게 됐다. 윈도 온 Arm 환경에서 그간 게임 성능을 퀄컴 아드레노 GPU에 의존해야 했던 마이크로소프트에는 큰 구원 투수다.</p>
 <p>이이다 케이타 부사장은 "엔비디아에서 게이밍은 빼놓을 수 없는 영역이다. RTX 스파크에서는 최신 지포스 GPU에 기대하는 것처럼 4K 해상도에서 초당 100프레임 이상의 게임 플레이가 가능하다"고 설명했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/17/9902cf74f485d92dbc030b4f3db14fd4.jpg" alt="게임 &apos;신더시티&apos;를 소개하는 배재현 엔씨소프트 부사장(왼쪽), 이이다 케이타 엔비디아 부사장(오른쪽). (사진=지디넷코리아)">
-<p>신작 게임 &apos;신더시티&apos;를 개발중인 배재현 엔씨소프트 부사장(빅파이어 게임즈 대표)는 "RTX 스파크 기반 노트북은 배터리 상태에서도 높은 성능을 내는 제품이며 신더시티 역시 레이 트레이싱과 프레임 생성 기술인 DLSS, 리플렉스 등 다양한 기술을 적용하고 있다"고 밝혔다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/17/9902cf74f485d92dbc030b4f3db14fd4.jpg" alt="게임 &apos;신더시티&apos;를 소개하는 배재현 엔씨 부사장(왼쪽), 이이다 케이타 엔비디아 부사장(오른쪽). (사진=지디넷코리아)">
+<p>신작 게임 &apos;신더시티&apos;를 개발중인 배재현 엔씨 부사장(빅파이어 게임즈 대표)는 "RTX 스파크 기반 노트북은 배터리 상태에서도 높은 성능을 내는 제품이며 신더시티 역시 레이 트레이싱과 프레임 생성 기술인 DLSS, 리플렉스 등 다양한 기술을 적용하고 있다"고 밝혔다.</p>
 <p>주요 PC 제조사들은 RTX 스파크 기반 노트북 가격을 메모리 용량에 따라 책정했다. LPDDR5X 32GB 메모리 탑재 제품은 500만원대, 64GB 메모리 탑재 제품은 700만원대, 128GB 메모리 탑재 제품은 900만원대다.</p>
 <img src="https://image.zdnet.co.kr/2026/10/17/6e91dc36b36a5dadb800a385f31c4aae.jpg" alt="엔비디아는 이날 현장 판매도 함께 진행했다. (사진=지디넷코리아)">
 <p>이날 행사장에서는 에이전틱 AI와 컴피UI를 이용한 동영상 생성 시연으로 성능을 검토한 AI 플랫폼 개발사 관계자가 현장에서 두 대를 바로 구매하는 모습도 목격됐다.</p>
@@ -442,14 +471,14 @@
 			<category>팹리스</category>
 			<category>반도체ㆍ디스플레이</category>
 			<pubDate>Sat, 17 Oct 2026 09:22:13 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/17/44dd8d19ba2cdcbf9fcbb5d508795d61.png" alt=""><p><span style="letter-spacing: 0.8px;">LG전자가 대만 반도체 팹리스 기업 미디어텍의 자회사 HFI이노베이션(HFI Innovation)에 미국 영상 표준특허 110건을 양도했다. 앞서 미디어텍은 지난 5월 하순 HFI이노베이션이 LG전자로부터 특허를 5000만 달러(약 670억원)에 매입한다고 발표한 바 있다. </span></p>
-<p><span style="letter-spacing: 0.8px;">17일 미국 특허상표청에 따르면 LG전자는 지난 5월 하순 &apos;영상 코딩 시스템에서 화면 내 서브 파티션에 기반한 화면 내 예측방법 및 장치&apos;(출원번호 US19272030) 등 미국 특허 110건을 HFI이노베이션에 양도했다. 대부분 </span><span style="letter-spacing: 0.8px;">영상 표준특허다. </span></p>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/17/44dd8d19ba2cdcbf9fcbb5d508795d61.png" alt=""><p><span style="letter-spacing: 0.8px;">LG전자가 대만 반도체 팹리스 기업 미디어텍의 자회사 HFI이노베이션(HFI Innovation)에 미국 영상 표준특허 110건을 양도했다. 미디어텍은 지난 5월 29일 </span><span style="letter-spacing: 0.8px;">HFI이노베이션이 LG전자로부터 특허를 5000만 달러(약 670억원)에 매입한다고 발표한 바 있다. </span></p>
+<p><span style="letter-spacing: 0.8px;">17일 미국 특허상표청에 따르면 LG전자는 미디어텍이 발표한 것과 같은 날짜인 지난 5월 29일 </span><span style="letter-spacing: 0.8px;">&apos;영상 코딩 시스템에서 화면 내 서브 파티션에 기반한 화면 내 예측방법 및 장치&apos;(출원번호 US19272030) 등 미국 특허 110건을 HFI이노베이션에 양도했다. 대부분 </span><span style="letter-spacing: 0.8px;">영상 표준특허다. </span></p>
 <p><span style="letter-spacing: 0.8px;">특허 110건 중 등록특허는 81건, 아직 등록되지 않은 출원(신청)특허는 29건이다. 출원연도별 특허는 ▲2017년 1건 ▲2020년 2건 ▲2021년 8건 ▲2022년 39건 ▲2023년 15건 ▲2024년 18건 ▲2025년 23건 ▲2026년 4건 등이다. </span></p>
 <p><span style="letter-spacing: 0.8px;">2022년 출원이 39건으로 가장 많고, 2023년 이후 출원이 60건으로 절반 이상이다. 특허를 양도받은 HFI이노베이션이 특허권을 행사할 수 있는 기간도 그만큼 길다. 특허는 출원 후 20년간 권리를 행사할 수 있다. </span></p>
 <img src="https://image.zdnet.co.kr/2026/10/17/44dd8d19ba2cdcbf9fcbb5d508795d61.png" alt="(자료=미디어텍)">
-<p><span style="letter-spacing: 0.8px;">미디어텍은 지난 5월 하순 대만증권거래소 공시에서 자회사 HFI이노베이션이 LG전자에 5000만 달러(약 670억원)를 지급하고 특허를 인수한다고 밝힌 바 있다. 5000만 달러는 미국 특허 110건과, 유럽 등 다른 국가에 출원한 </span><span style="letter-spacing: 0.8px;">패밀리 특허를 모두 포함한 양수도 금액으로 </span><span style="letter-spacing: 0.8px;">보인다. </span></p>
+<p><span style="letter-spacing: 0.8px;">미디어텍은 지난 5월 29일 대만증권거래소 공시에서 자회사 HFI이노베이션이 LG전자에 5000만 달러(약 670억원)를 지급하고 특허를 인수한다고 밝힌 바 있다. 5000만 달러는 미국 특허 110건과, 유럽 등 다른 국가에 출원한 </span><span style="letter-spacing: 0.8px;">패밀리 특허를 모두 포함한 양수도 금액으로 </span><span style="letter-spacing: 0.8px;">보인다. </span></p>
 <p><span style="letter-spacing: 0.8px;">HFI이노베이션은 10년 전인 지난 2016년부터 미디어텍으로부터 미국 특허를 양수해 왔다. 2025~2026년 2년간 미디어텍으로 이전받은 미국 특허만 374건이다. 패밀리 특허까지 더하면 양도 특허는 더 많다. HFI이노베이션은 이미 유럽에서 화웨이, 스냅 등을 상대로 특허소송을 제기한 바 있다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/10/17/612b79cea954505ba85d44ce3f83c160.png" alt="미디어텍은 지난 5월 하순 대만증권거래소 공시에서 자회사 HFI이노베이션이 LG전자에 5000만 달러(약 670억원)를 지급하고 특허를 인수한다고 밝힌 바 있다. (자료=대만증권거래소)">
+<img src="https://image.zdnet.co.kr/2026/10/17/612b79cea954505ba85d44ce3f83c160.png" alt="미디어텍은 지난 5월 29일 대만증권거래소 공시에서 자회사 HFI이노베이션이 LG전자에 5000만 달러(약 670억원)를 지급하고 특허를 인수한다고 밝힌 바 있다. (자료=대만증권거래소)">
 <p><span style="letter-spacing: 0.8px;">LG전자는 2021년 휴대폰 사업에서 철수하고 2022년 사업목적에 특허 라이선스업을 추가한 뒤 특허를 꾸준히 양도하고 있다. LG전자가 휴대폰 사업에서 철수할 당시 보유하고 있던 전 세계 표준특허는 2만 4000여건으로 알려졌다. </span></p>
 <p><span style="letter-spacing: 0.8px;">그간 LG전자가 표준특허를 양도한 상대 중에선 중국 업체 비중이 크다. 화웨이 등 일부를 제외하면 </span><span style="letter-spacing: 0.8px;">중국 업체는 대체로 특허가 부족하다. LG전자가 미국 특허를 양도한 중국 업체는 ▲오포 55건(2023~2024년) ▲TCL킹 14건(2024년) ▲비보 47건(2024년) ▲샤오미 모바일 소프트웨어 59건(2025년) ▲아너 15건(2026년) 등이다. 이외에 LG전자가 미국 특허를 양도한 업체는 ▲타이사 리서치(Taissa Research) 83건(2022년) ▲노키아 298건(2025년) ▲토요타 16건(2026년) 등이다. </span></p>
 <p><span style="letter-spacing: 0.8px;">LG전자에서 특허를 매입한 상대 성격에 따라 특허분쟁 확대 가능성은 다르다</span><span style="letter-spacing: 0.8px;">. 화웨이에서 분사한 아너 같은 완제품 업체가 특허를 매입하면 제조업체를 겨냥한 특허분쟁 발생 가능성이 </span><span style="letter-spacing: 0.8px;">상대적으로 낮지만, </span><span style="letter-spacing: 0.8px;">제품을 만들지 않는 특허관리전문업체(NPE) 등이 </span><span style="letter-spacing: 0.8px;">특허를 매입하면 특허분쟁이 활발해질 수 있다. 수익화를 해야 하기 때문이다. </span></p>
@@ -781,35 +810,6 @@
 <img src="https://image.zdnet.co.kr/2026/07/08/e1ed6d7b8e24d4bf0af2f28ed5f6f85b.jpg" alt="AMD가 예측한 에이전틱 AI 관련 CPU:GPU 비율. (자료=AMD)">
 <p>특히 두 회사 모두 OCP 기반 개방형 랙 설계를 채택했다는 점도 주목된다. 데이터센터 사업자가 특정 시스템 구성에 종속되지 않고 CPU와 GPU 자원을 워크로드에 맞게 배치할 수 있도록 하겠다는 전략이다.</p>
 <p>다만 인텔과 AMD가 제시한 랙당 CPU 코어 수는 서로 다른 프로세서와 시스템 구성에 기반한 만큼 수치만으로 성능 우열을 판단하기는 어렵다. 실제 성능은 전력당 처리량, 메모리 및 입출력 성능, 동시 실행 가능한 에이전트 수 등에 따라 달라질 전망이다.</p>]]></description>
-		</item>
-		<item>
-			<title>中 장비기업, 韓 전력반도체 시장 두드린다…SK키파운드리·매그나칩 공급 추진</title>
-			<link>https://zdnet.co.kr/view/?no=20261016135335</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261016135335</guid>
-			<author>장경윤 기자</author>
-			<category>반도체</category>
-			<category>전력반도체</category>
-			<category>AMEC</category>
-			<category>SiC</category>
-			<category>GaN</category>
-			<category>SK키파운드리</category>
-			<category>매그나칩</category>
-			<category>파운드리</category>
-			<category>IDM</category>
-			<category>공급망</category>
-			<category>전력</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Fri, 16 Oct 2026 15:54:24 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/16/9f3f7ccec86f525f3fd1af4bfc5f3dd9.jpg" alt=""><p><span style="letter-spacing: 0.8px;">중국 반도체 장비기업 중웨이반도체(AMEC)가 한국 차세대 전력반도체 시장을 노린다. AMEC은 SK키파운드리·매그나칩 등과 전력반도체 핵심 제조장비 테스트에 돌입한 것으로 </span><span style="letter-spacing: 0.8px;">16일 파악됐다. </span></p>
-<p>AMEC은 반도체 전공정인 식각·증착장비가 주력이다. 램리서치·어플라이드머티어리얼즈(AMAT) 등 미국 반도체 장비업체 출신들이 공동 설립해 기술력을 키웠다. 대만 파운드리 TSMC에 최첨단 공정 건식 식각장비도 공급하고 하다. </p>
-<img src="https://image.zdnet.co.kr/2026/10/16/9f3f7ccec86f525f3fd1af4bfc5f3dd9.jpg" alt="중국 반도체 장비기업 AMEC 한국지사가 16~18일 서울 코엑스에서 개최된 &apos;SEDEX 2026&apos;에 첫 참가해 제품을 전시하고 있다(사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">AMEC이 SK키파운드리, 매그나칩과 테스트 중인 </span><span style="letter-spacing: 0.8px;">장비는 유기금속화학증착(MOCVD) 장비다. MOCVD는 금속 유기원료를 사용해 웨이퍼에 특정 박막을 형성하는 공정이다. </span><span style="letter-spacing: 0.8px;">다양한 반도체 제조에 활용하지만, 특히 탄화규소(SiC)·질화갈륨(GaN) 등 최첨단 전력반도체 분야에서 중요도가 높</span><span style="letter-spacing: 0.8px;">다. </span></p>
-<p><span style="letter-spacing: 0.8px;">SiC·GaN은 </span>기존 반도체 소재인 실리콘(Si) 대비 고온·고전압 내구성이 뛰어나다. 전력효율도 높다. 덕분에 전기차, 데이터센터, 산업용 시설, 통신 등 다양한 분야에서 수요가 증가하는 추세다. </p>
-<p>SK키파운드리, 매그나칩도 차세대 전력반도체 시장 잠재력에 주목해 시장 진출을 추진 중이다. SK키파운드리의 경우 올 상반기 <span style="letter-spacing: 0.8px;">신규 고객사로부터 1200V SiC 모스펫(MOSFET) 제품 개발을 수주한 바 있다. </span></p>
-<p><span style="letter-spacing: 0.8px;">국내 차세대 전력반도체 시장 본격 개화는 AMEC에</span><span style="letter-spacing: 0.8px;"> 기회</span><span style="letter-spacing: 0.8px;">다. AMEC은 </span><span style="letter-spacing: 0.8px;">중국 </span><span style="letter-spacing: 0.8px;">MOCVD </span><span style="letter-spacing: 0.8px;">시장 점유율이 매우 높지만, 한국</span><span style="letter-spacing: 0.8px;"> 시장에서 입지는 미미하다</span><span style="letter-spacing: 0.8px;">.</span><span style="letter-spacing: 0.8px;"> 장비 성능과 별개로 지정학 이슈가 AMEC 발목을 잡고 있다는 분석이 나온다. </span></p>
-<p><span style="letter-spacing: 0.8px;">AMEC은 삼성전자, SK하이닉스 등 국내 반도체 기업의 한국 팹에는 장비를 공급하지 못하고 있다. </span><span style="letter-spacing: 0.8px;">다만 SK하이닉스가 지난 2020년 하반기 인텔 낸드 사업부를 인수하면서 양수한 중국 다롄 공장에는 제품을 납품 중이다.</span></p>
-<p>AMEC이 SK키파운드리, 매그나칩 등에 장비를 공급하는 경우, 국내 반도체 시장과 접점을 확대할 수 있는 교두보로 활용할 수 있다. </p>
-<p><span style="letter-spacing: 0.8px;">반도체 업계 관계자는 "중국은 현지 정부 주도로 오래전부터 SiC·GaN 분야에 상당한 규모로 투자</span><span style="letter-spacing: 0.8px;">해 왔다"며 "이미 SiC·GaN 웨이퍼 등 소재 분야에서는 상당한 경쟁력을 갖췄고, 장비·소자 등에서도 약진할 가능성이 크다"고 설명했다. </span></p>]]></description>
 		</item>
 	</channel>
 </rss>
