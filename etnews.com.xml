@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 18 Oct 2026 08:30:39 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 18 Oct 2026 10:30:37 +0900</lastBuildDate>
+		<item>
+			<title>이삼오구,  SAP B1 구축 완료, 3PL·OMS 연계로 통합 재고관리 체계 마련</title>
+			<link>https://www.etnews.com/20261016000026</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261016000026</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 18 Oct 2026 10:00:00 +0900</pubDate>
+			<description><![CDATA[유통·이커머스 기업 이삼오구(2359)가 기존 전사자원관리(ERP) 시스템을 SAP 비즈니스 원(SAP B1)으로 전환하고, 다수의 제삼자물류(3PL) 및 주문관리시스템(OMS)을 연계한 통합 관리 체계를 추진한다고 18일 밝혔다. 이번 프로젝트는 SAP 파트너사 넥스비원(Nexvione)이 구축을 수행했으며, 이삼오구의 업무 프로세스에 맞춰 SAP B1을 구축하고 OMS 및 복수의 3PL 시스템과의 데이터를 연계했다. 이삼오구는 제품을 통해...]]></description>
+		</item>
+		<item>
+			<title>공무원이 만든 AI 서비스, 지재권·인센티브 방안 만든다</title>
+			<link>https://www.etnews.com/20261018000022</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261018000022</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 18 Oct 2026 09:48:23 +0900</pubDate>
+			<description><![CDATA[정부가 공무원의 인공지능(AI) 직접개발 산출물에 대한 권리 귀속과 보상·보호 기준을 제도화한다. 이르면 11월 관련 지침을 마련해 모든 공무원이 AI를 활용한 업무 혁신에 적극 참여할 수 있는 환경을 조성한다는 구상이다. 18일 업계에 따르면 행정안전부(행안부)는 '행정기관 및 공공기관 소속 직원의 인공지능을 활용한 직접개발 등에 관한 지침'을 고시로 준비하고 있다. 이르면 오는 11월 발표될 예정이다. 공공 '깃랩' 시범 운영 약 3개월 만...]]></description>
+		</item>
 		<item>
 			<title>AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진</title>
 			<link>https://www.etnews.com/20261016000227</link>
@@ -253,24 +271,6 @@
 			<category>오피니언</category>
 			<pubDate>Fri, 16 Oct 2026 05:00:00 +0900</pubDate>
 			<description><![CDATA[공장에 새 설비를 들여놓는 것과 생산성이 높아지는 것은 다른 문제다. 기계는 설치됐지만 정비 인력이 부족하거나 부품 조달이 늦으면 생산라인은 멈춘다. 구매자는 장비를 샀다고 생각하지만 실제로 필요한 것은 불량 없이 일정한 물량을 생산하는 능력이다. 설비갱신 정책이 구매 시점을 앞당기는 장치라면, 그다음 질문은 누가 설비의 성능을 오래 유지하고 그 책임으로 돈을 버느냐는 것이다. 중국의 서비스형 제조(服&#21153;型制造)는 이 지점을 겨냥한다...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋]기술은 투자로, 만남은 성장으로…경기 스타트업 서밋 &apos;성장의 환승역&apos;</title>
-			<link>https://www.etnews.com/20261015000429</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000429</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[제품을 선보이러 온 기업은 투자자를 찾고, 기술을 살피러 온 방문객은 사업협력 가능성을 가늠했다. 함께 일할 사람을 찾는 스타트업과 새로운 일터를 찾는 구직자도 마주했다. 경기도가 주최하고 경기도경제과학진흥원이 주관해 지난 14~15일 수원컨벤션센터에서 열린 '2026 경기 스타트업 서밋'은 기업의 다음 행선지를 잇는 '성장의 환승역'이었다. 전시부스에서는 기술의 쓰임을 보여주고, 기업설명회(IR) 무대에서는 고객과 시장, 성장 전략을 설명했다...]]></description>
-		</item>
-		<item>
-			<title>[2026 경기 스타트업 서밋] 필드로, 폐기물 수거에 자율주행로봇 적용</title>
-			<link>https://www.etnews.com/20261015000058</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000058</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 16 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[실내외 자율주행 로봇 개발기업 필드로(대표 송영은)가 '2026 경기 스타트업 서밋'에서 폐기물 수거 로봇을 주력 기술로 소개했다. 넓은 공간을 이동하며 사람이 반복하던 폐기물 수거·운반 업무를 자동화하기 위한 로봇이다. 공항과 물류시설처럼 이동 구역이 넓고 동선이 복잡한 공간에 적용할 수 있다. 필드로는 2025년 인천국제공항 폐기물 수거 로봇 개념검증(PoC) 대상으로 선정됐다. 개념검증은 실제 현장에서 로봇의 적용 가능성을 확인하는 절차다...]]></description>
 		</item>
 	</channel>
 </rss>
