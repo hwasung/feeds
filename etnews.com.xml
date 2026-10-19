@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 19 Oct 2026 12:31:11 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 19 Oct 2026 13:30:49 +0900</lastBuildDate>
+		<item>
+			<title>[관망경] 작은 보를 허무는 ESG</title>
+			<link>https://www.etnews.com/20261019000190</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261019000190</guid>
+			<author>이준희</author>
+			<category>오피니언</category>
+			<pubDate>Mon, 19 Oct 2026 12:53:24 +0900</pubDate>
+			<description><![CDATA[환경·사회·지배구조(ESG) 경영을 이야기하면 흔히 탄소부터 떠올린다. 온실가스 감축과 재생에너지 확대가 대표적이다. 하지만 물과 생태계, 생물다양성도 ESG의 중요한 영역이다. 전북 완주군 전주천에서 흥미로운 실험이 시작된다. 1970년대 중반 설치된 상죽음보를 철거해 끊어진 물길을 다시 잇는다. 길이 5.9m, 높이 2.2m의 작은 보지만 철거하면 하천 상·하류가 연결돼 수생생물의 이동과 서식공간 회복에 도움이 된다. 눈길을 끄는 것은 사업...]]></description>
+		</item>
 		<item>
 			<title>일레븐랩스, 대화만으로 에이전트 구축 &apos;아키텍트&apos; 알파 공개</title>
 			<link>https://www.etnews.com/20261019000178</link>
@@ -262,14 +271,6 @@
 			<category>오피니언</category>
 			<pubDate>Sun, 18 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[해외송금 비용은 국내 계좌이체에 비해 훨씬 높다. 세계은행에 따르면 소액 해외송금의 평균 비용(2025년 3분기 기준)은 무려 송금액의 6.36%다. 이는 송금 수수료뿐 아니라 중개 은행 및 환전 수수료, 현지 수취 비용 등 여러 단계의 비용이 붙기 때문이다. 세계은행과 국제결제은행(BIS)도 국경 간 결제가 국내 결제보다 고비용에다, 느리고 투명성도 낮다고 지적한다. 하지만, 최근 3~4년간 크로스보더 핀테크들이 등장하면서, 해외송금의 고비용...]]></description>
-		</item>
-		<item>
-			<title>[ET단상] AI 인프라 계획, 지금 시작해야 하는 이유</title>
-			<link>https://www.etnews.com/20261016000060</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261016000060</guid>
-			<category>오피니언</category>
-			<pubDate>Sun, 18 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)은 빠르게 진화하고 있다. 산업 전반에서 많은 조직이 AI를 중단 없이, 안전하게, 대규모로 운영해야 하는 시스템에 도입하고 있다. AI 도입이 가속화되면서 한 가지 사실이 분명해졌다. 인프라 계획을 더 이상 미룰 수 없다는 점이다. AI 워크로드는 클라우드, 데이터센터, 엣지 환경 전반에서 서로 더욱 긴밀하게 연결되고 분산되며, 실제 운영체계 안으로 통합되고 있다. 이제 인프라 계획을 수립하려면 갈수록 복잡해지는 환경에서 컴퓨팅...]]></description>
 		</item>
 	</channel>
 </rss>
