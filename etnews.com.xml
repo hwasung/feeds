@@ -4,7 +4,15 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 19 Oct 2026 18:30:43 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 07:30:40 +0900</lastBuildDate>
+		<item>
+			<title>[테크 차이나] 같은 부품, 다른 측정값…중국이 &apos;산업측정&apos;을 인프라로 키우는 이유</title>
+			<link>https://www.etnews.com/20261015000382</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000382</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 20 Oct 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[같은 부품을 두 공장에서 측정했는데 결과가 다르다면 어느 쪽을 믿어야 할까. 공급업체는 규격에 맞는다고 하고 고객은 불량이라고 판단한다. 측정기 자체 정확도, 측정환경, 시료를 다루는 방법과 계산방식이 다르면 모두 성실하게 검사해도 결론은 달라질 수 있다. 생산량이 커질수록 이 차이는 반품과 납기 지연, 불필요한 설비투자로 번진다. 제조업 신뢰는 완제품 인증서보다 훨씬 앞에서 만들어진다. 중국이 계량(&#35745;量·측정 정확성과 일관성을 확...]]></description>
+		</item>
 		<item>
 			<title>정동, 빛과 선율로 물든다…중구 &apos;정동야행&apos; 30일 개막</title>
 			<link>https://www.etnews.com/20261019000416</link>
@@ -261,15 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Mon, 19 Oct 2026 13:44:43 +0900</pubDate>
 			<description><![CDATA[회계감리는 재무제표의 숫자가 맞는지 여부만 확인하는 절차가 아니다. 문제된 거래가 실제로 어떤 구조였는지, 회사가 어떤 자료를 근거로 회계기준을 적용했는지, 감사인에게 어떤 자료를 제공했는지, 내부 승인과 감사절차가 어떻게 이루어졌는지, 경영진이 어느 시점에 무엇을 인지했는지까지 연결해 검토될 수 있다. 출발점은 거래 사실과 회계판단을 분리하는 것이다. 회계처리 오류가 발견됐다고 해서 곧바로 고의적인 법 위반이 확정되는 것은 아니다. 예를 들어...]]></description>
-		</item>
-		<item>
-			<title>[관망경] 작은 보를 허무는 ESG</title>
-			<link>https://www.etnews.com/20261019000190</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261019000190</guid>
-			<author>이준희</author>
-			<category>오피니언</category>
-			<pubDate>Mon, 19 Oct 2026 12:53:24 +0900</pubDate>
-			<description><![CDATA[환경·사회·지배구조(ESG) 경영을 이야기하면 흔히 탄소부터 떠올린다. 온실가스 감축과 재생에너지 확대가 대표적이다. 하지만 물과 생태계, 생물다양성도 ESG의 중요한 영역이다. 전북 완주군 전주천에서 흥미로운 실험이 시작된다. 1970년대 중반 설치된 상죽음보를 철거해 끊어진 물길을 다시 잇는다. 길이 5.9m, 높이 2.2m의 작은 보지만 철거하면 하천 상·하류가 연결돼 수생생물의 이동과 서식공간 회복에 도움이 된다. 눈길을 끄는 것은 사업...]]></description>
 		</item>
 	</channel>
 </rss>
