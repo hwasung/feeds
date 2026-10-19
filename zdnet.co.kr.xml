@@ -4,7 +4,95 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Mon, 19 Oct 2026 21:31:02 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 06:31:36 +0900</lastBuildDate>
+		<item>
+			<title>&quot;국내 보안기업 연대 경쟁력 높이고 글로벌로 진출해야&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261020021953</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261020021953</guid>
+			<author>박광하 기자</author>
+			<category>임종인</category>
+			<category>한국트러스트연합</category>
+			<category>KOTA</category>
+			<category>인터뷰</category>
+			<pubDate>Tue, 20 Oct 2026 05:56:13 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/20/72892d70b6bb8c9bdb9d20b814b371b5.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/20/72892d70b6bb8c9bdb9d20b814b371b5.jpg" alt="임종인 한국트러스트연합 설립준비위원장이 공급기업과 수요처, 학계 등의 보안 연대 필요성을 설명하고 있다. (사진=박광하 기자)">
+<p>국내 보안 기업들이 글로벌 보안 플랫폼과의 연동에 소극적인 상태가 지속될 경우 몇 년 안에 시장에서 설 자리를 잃게 될 것이란 경고가 나왔다.</p>
+<p>임종인 한국트러스트연합(KOTA) 설립준비위원장은 국내 보안 솔루션들이 표준화된 데이터 형식으로 서로 연동할 수 있도록 오픈소스 어댑터를 만들고 배포해야 한다면서 이 같은 전망을 내놨다. 한국형 오픈 보안 생태계 구축 없이는 한국 정보보호 산업의 미래 또한 없다는 이야기다.</p>
+<p>19일 서울 을지로 더그랜드롯데서울에서 만난 임 위원장은 22일 열리는 KOTA 발기인 대회를 앞두고 설립 취지를 설명했다. 그는 "국내 보안 기업이 글로벌 시장에 나갈 준비가 부족하다"고 짚었다. 한 예로 국내 업체의 보안 데이터가 오픈 사이버 시큐리티 스키마 프레임워크(OCSF) 표준 형식을 따르지 않는 점을 꼽았다.</p>
+<p>OCSF는 리눅스재단이 2022년부터 보급한 표준으로, 여러 글로벌 플랫폼 기업이 이 표준에 따른다는 설명이다. 반대로 저마다 비표준 독자 형식으로 데이터을 제공하는 국내 기업 솔루션은 글로벌 보안 플랫폼과의 연동 자체가 어렵다고 설명했다.</p>
+<p>임 위원장은 "글로벌 플랫폼과 데이터를 주고받을 수 없다면 결국엔 퇴출당할 수밖에 없다"면서 "(연동 없이) 버텨 본들 몇 년 안에 돈 되는 좋은 시장은 외산이 싹 쓸어버릴 것"이라고 내다봤다. 이미 금융권, 반도체, 제조업 등 굵직한 고객사들은 외산을 선택하고 있다는 설명도 덧붙였다.</p>
+<p>그는 "국내 업체들이 연동을 외면한 채 골목대장 노릇만 하고 있으니 해외 시장으로 진출하지도 못 하는 것"이라면서 공급기업, 수요처, 학계 당국간 연합이 필요다하도 강조했다. </p>
+<p>임 위원장은 기존 규칙 기반 제로트러스트 아키텍처의 한계도 짚었다. "보안 취약점을 노려 공격을 하는 AI는 공격 시도가 막히면 원인을 분석해 실시간으로 우회하므로 정적인 보안 도구로는 막을 수 없다"는 주장이다. 그는 대안으로 AI가 엔드포인트와 네트워크의 정보를 모아 판단하고 차단 명령까지 내리는 인지형 제로트러스트 아키텍처를 제시했다.</p>
+<p>국내 정보보호 솔루션이 글로벌 플랫폼과 연동할 수 있는 해법으로는 정부 주도의 오픈소스 어댑터 개발, 배포를 제안했다. 과학기술정보통신부가 국내 업체의 보안 데이터를 표준 형식으로 바꿔 주는 소프트웨어를 만들어 오픈소스로 배포하자는 것이다.</p>
+<p>각 기업이 자사 솔루션에 이 어댑터를 얹기만 하면 팔로알토네트웍스, 크라우드스트라이크 등과 연동하는 게 가능하다는 설명이다. 이를 두고 앤트로픽이 모델 컨텍스트 프로토콜(MCP)을 공개해 AI 서비스 연결의 표준이 된 방식과 비슷하다고도 말했다. 개별 기업이 이를 모두 개발, 보급하기는 어렵기 때문에 정부가 나설 필요가 있다고 강조했다.</p>
+<p>이어 "오픈소스 어댑터 등을 활용해 한국형 오픈 인지형 제로트러스트 생태계를 구축해야 한다"고 제언했다. 보안 AI 엔진은 정부가 개발 중인 보안 특화 독자 AI 모델을 얹으면 된다는 구상이다. 국내 솔루션이 이 생태계에서 먼저 시험받으며 글로벌 레퍼런스를 쌓을 수 있다고도 했다.</p>
+<p>임 위원장은 투트랙 전략의 근거로 전투기 국산화 성공 사례를 들었다. F-35 도입과 함께 독자 전투기 개발을 병행해 KF-21을 만들어 냈다는 것이다. 그는 "글로벌 보안 솔루션과 연계에서 더 나아가야 한다"면서 "국내 보안 연대에 기반한 독자 플랫폼이 없으면 &apos;한국 전투기&apos; 개발 없이 F-35 도입만 하는 꼴"이라고 비유했다. 자칫 &apos;한국형&apos;이 갈라파고스로 빠질 위험이 있지만 독자 한국형 플랫폼을 개발해야 &apos;인력&apos;과 &apos;기술&apos;이 남는다는 것이다. </p>
+<p>임 위원장은 KOTA가 협회가 아닌 포럼 성격을 지향한다면서 우선은 민간의 수요자, 공급기업이 협의하는 조직으로 운영할 계획이라고 말했다. 지금까지 모집한 약 40여 발기인은 수요 기업 13곳, 공급사 18곳, 학계 7명 등이다. 워킹그룹은 2개부터 구성하며 수요 기업이 아젠다를 내면 공급사에서 개념검증(PoC)을 거쳐 입증한다. 정부 부처와 공공기관의 참여는 조직의 틀이 잡힌 뒤 요청할 계획이다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/20/93bd9d38c5004f961453c112d362b943.jpg" alt="임종인 한국트러스트연합 설립준비위원장이 &quot;과기부 등 어느 곳도 국내 보안 산업 오픈 생태계 조성에 적극 나서지 않는다&quot;며 지적하고 있다. (사진=박광하 기자)">]]></description>
+		</item>
+		<item>
+			<title>머스크 &quot;미국 모든 어린이에 스페이스X 1주씩&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261019222531</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019222531</guid>
+			<author>김익현 미디어연구소장</author>
+			<category>일론 머스크</category>
+			<category>스페이스X</category>
+			<category>테슬라</category>
+			<category>IT 일반</category>
+			<pubDate>Mon, 19 Oct 2026 22:25:31 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/07/10/cf7565c9a603bc061be23e53311dc0f3.png" alt=""><p>일론 머스크가 내년에 미국 내 모든 어린이들에게 스페이스X 주식 최소 한 주를 줄 계획이라고 공언했다고 CNBC가 19일(현지시간) 보도했다.</p>
+<p>미국 증권거래위원회(SEC) 공시 자료에 따르면 머스크는 현재 스페이스X 주식 48억 주를 보유하고 있다. 미부여 주식과 스톡옵션까지 포함할 경우 머스크의 스페이스X 주식은 64억 주에 달한다.</p>
+<p>2025년 7월 1일 기준 미국 내 18세 이하 어린이는 7200만 명 수준이다.</p>
+<p>지난 주 금요일인 16일 스페이스X의 종가는 146.03달러였다. 따라서 18세 이하 어린이들에게 한 주씩 나눠줄 경우 총 105억 달러(약 14조원)를 기부하게 된다. </p>
+<img src="https://image.zdnet.co.kr/2025/07/10/cf7565c9a603bc061be23e53311dc0f3.png" alt="일론 머스크  (사진=xAI 라이브 캡처)">
+<p>머스크는 이날 자신의 엑스를 통해 "이것은 앞으로 있을 수많은 기부 중 첫 번째가 될 것"이라고 말했다. 하지만 그는 구체적으로 어떤 방식으로 주식을 나눠줄 지는 공개하지 않았다.</p>
+<p>테슬라 CEO이기도 한 일론 머스크는 지난 7월 이후 공화당 그룹에 총 2억7600만 달러 이상 기부했다. 덕분에 머스크는 2026년 중간선거 최대 기명 기부자로 이름을 올렸다.</p>
+<p>블룸버그 자료에 따르면 머스크의 순 자산은 현재 9천억 달러(1천196조원) 수준에 이른다. 머스크의 자산 중 스페이스X 주식은 7000억 달러로 절대 비중을 차지하고 있다.</p>]]></description>
+		</item>
+		<item>
+			<title>AI 모방작 우려에…日 &apos;드렁큰 갓데스 리플럭스&apos; 무료 데모 취소</title>
+			<link>https://zdnet.co.kr/view/?no=20261019214021</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019214021</guid>
+			<author>AI 에디터</author>
+			<category>AI 에디터</category>
+			<category>컴퓨팅</category>
+			<pubDate>Mon, 19 Oct 2026 21:40:21 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/19/ai704a77c1c5efc545409ea26cd07dc658.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/19/ai704a77c1c5efc545409ea26cd07dc658.jpg" alt="">
+<p>일본 게임 개발사 얼라이언스 아츠가 신작 &apos;드렁큰 갓데스 리플럭스(Drunken Goddess Reflux)&apos;의 무료 공개 데모를 취소했다고 미국 게임 매체 코타쿠가 현지 시각 10월 16일 보도했다.</p>
+<p>데모는 PC 게임 유통 플랫폼 스팀의 신작 체험 행사 &apos;스팀 넥스트 페스트&apos; 기간인 10월 19일 공개될 예정이었다. 얼라이언스 아츠는 약 20분 분량의 데모를 누구나 내려받을 수 있도록 배포할 계획이었으나, 제한된 인원만 참여하는 비공개 체험 행사로 변경했다. 얼라이언스 아츠는 스팀 공지에서 데모의 공개 배포를 취소하기로 결정했다고 밝혔다.</p>
+<p>얼라이언스 아츠는 이 게임의 연출과 게임 방식을 흉내 내거나 복제한 작품이 정식 출시 전에 AI로 빠르게 제작될 수 있다고 우려했다. 개발사는 당초 데모의 방송 송출과 일부 영상 공유를 제한하는 방안을 검토했지만, 작은 규모의 팀으로는 이를 관리하기 어렵다고 판단했다.</p>
+<p>드렁큰 갓데스 리플럭스는 지옥의 술집에서 술의 악마와 러시안룰렛 방식으로 술잔을 골라 마시는 생존 게임이다. 이용자는 도수가 다른 술잔을 고르며 대결하고, 라운드 사이에는 3D로 구현된 술집을 탐색하며 등장인물과 대화한다. 선택에 따라 서로 다른 결말 7종 가운데 하나에 도달하며, 정식 버전은 12월 8일 스팀에서 출시될 예정이다.</p>
+<p>자세한 내용은 <a href="https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794" target="_blank" rel="noopener noreferrer" style="letter-spacing: 0.8px; background-color: rgb(255, 255, 255); font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><strong>코타쿠</strong></a><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">에서 확인할 수 있다.</span></p>
+<p>이미지 출처: 얼라이언스 아츠</p>
+<p><a href="https://aimatters.co.kr/subscribe" target="_blank"></a></p>
+<p>■ 이 기사는 AI 전문 매체 ‘<a href="https://aimatters.co.kr/" target="_blank">AI 매터스</a>’와 제휴를 통해 제공됩니다. 기사는 클로드 3.5 소네트와 챗GPT를 활용해 작성되었습니다. (☞ <a href="https://aimatters.co.kr/?p=55676" target="_blank" rel="nofollow" class="link">기사 원문 바로가기</a>)</p>]]></description>
+		</item>
+		<item>
+			<title>[카드뉴스] 프랑스 폭동, 유럽은 난민을 어떻게 해야 할까요</title>
+			<link>https://zdnet.co.kr/view/?no=20261019092844</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019092844</guid>
+			<author>AMEET</author>
+			<category>프랑스</category>
+			<category>난민폭동</category>
+			<category>EU</category>
+			<category>컴퓨팅</category>
+			<pubDate>Mon, 19 Oct 2026 21:30:02 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/19/a6f407dc29933804b0ed809445468ee6.png" alt=""><p>안녕하세요, AMEET 기자입니다. </p>
+<img src="https://image.zdnet.co.kr/2026/10/19/a6f407dc29933804b0ed809445468ee6.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/19/4e2b1a437bad7ece400b8f70e308f195.png" alt="">
+<p>프랑스에서 폭동이 일어난 뒤 유럽이 난민의 문을 어떻게 할지 관심이 커지고 있는데요, 오늘은 그 배경과 선택지를 카드뉴스로 짚어봤어요. 최근 프랑스에서는 차별과 폭력을 멈추라는 시위가 열렸고, 이슬람계 시민들도 거리로 나왔어요. 한편 독일과 프랑스는 불법 이주를 막겠다며 이웃 나라와의 국경 검문을 다시 시작했어요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/19/5e309bdece051b99a676d2fc37ed72dc.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/19/592cd5c3ab758eb81d4bb73c239e62df.png" alt="">
+<p>난민이 생기는 뿌리를 보면 사헬 지대가 있어요. 이곳 1억 3,500만 명이 식량 위기와 분쟁 위험에 놓여 있는데요, 비가 오지 않거나 전쟁이 나면 사람들은 살던 곳을 떠날 수밖에 없어요. 기후 변화로 집을 잃은 사람 수도 해마다 사상 최고를 기록하고 있고요. 문제는 도착하는 곳이에요. 작은 식당에 손님이 한꺼번에 몰리면 주방이 멈추듯, 심사할 사람과 집이 모자라면 동네부터 힘들어져요. 심사가 밀리고 신원 확인 줄이 길어지고, 집과 복지가 부족해지면 불안이 커지고 극우 정당 지지로 이어지기도 해요. 그래서 치안이 먼저냐 보호가 먼저냐를 두고 전문가들도 둘로 갈렸어요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/19/c7b057b05119a759281efdebc8a95063.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/19/e45612cd2401fc3bbc02a8bda55d154d.png" alt="">
+<p>대안으로는 6개월 안에 한 사람씩 심사하는 방식이 나왔어요. 나라 이름만 보고 한꺼번에 막으면 국제법에 어긋나기 때문에, 개인별로 신원과 보호 자격을 확인하고 위험한 사람이나 중범죄 가담자는 한 명씩 판단해 배제하자는 거예요. 여기에 주거와 경찰 비용을 나눌 수 있도록 동네에 돈도 지원하자는 내용이에요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/19/db6ff08f67af197c8f3c2977c6c88995.png" alt="">
+<p>EU가 2016년 터키에 30억 유로를 지원했던 전례도 있고요. 결국 난민 문제는 받느냐 마느냐보다 얼마나, 어떻게 심사하느냐가 핵심이에요. 앞으로는 심사 기간과 동네 지원금이 제대로 지켜지는지 지켜봐 주세요. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!</p>
+<img src="https://image.zdnet.co.kr/2026/10/19/0e2b886714cc256ad8fdd2ddcea11b2f.png" alt="">
+<p>▶ 해당 보고서 보기 <a href="https://ameet.zdnet.co.kr/uploads/dcfd1378.html" target="_blank"></a><a target="_blank" href="https://ameet.zdnet.co.kr/uploads/8e44274a.html" class="link">https://ameet.zdnet.co.kr/uploads/8e44274a.html</a></p>
+<p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
+		</item>
 		<item>
 			<title>마크애니, AI 기본법 대응 돕는다…‘C2PA 패키지’ 지속 지원</title>
 			<link>https://zdnet.co.kr/view/?no=20261019210532</link>
@@ -38,7 +126,7 @@
 <img src="https://image.zdnet.co.kr/2026/07/01/a0fa24b7bf22a5d6953ffe9ad2efba90.png" alt="삼성전자 갤럭시A17 5G (사진=삼성전자)">
 <p><span style="letter-spacing: 0.8px;">삼성전자가 내년 OLED 갤럭시A 시리즈 출하량 목표를 낮춘 원인에 대해선 메모리 반도체 가격 상승이 가장 먼저 꼽힌다. 메모리 값 급등으로 </span><span style="letter-spacing: 0.8px;">올해 갤럭시A 시리즈 가격이 </span><span style="letter-spacing: 0.8px;">전작보다 10만원 이상 올랐고, 전 세계 중저가폰 시장도 크게 위축됐</span><span style="letter-spacing: 0.8px;">다. 삼성전자가 최근 부품 협력사에 전달한 올해 4분기 스마트폰 부품 발주량 전망치가 추석 연휴(9월 24~27일) 전에 제시한 것보다 20~30% 줄어든 것도 같은 이유다. </span></p>
 <p><span style="letter-spacing: 0.8px;">삼성전자 기준으로 플래그십 신제품이 없는 2분기와 4분기가 비수기이고 4분기에는 재고를 조정하는 것이 일반적이지만, 이를 고려해도 현재 </span><span style="letter-spacing: 0.8px;">재고가 </span><span style="letter-spacing: 0.8px;">많은 것으로 알려졌다. 스마트폰은 TV 등과 달리 제품 기술 변화가 빨라서 시간이 지날수록</span><span style="letter-spacing: 0.8px;"> 판매가 어려워진다. </span></p>
-<p><span style="letter-spacing: 0.8px;">메모리 값 상승과 함께 인쇄회로기판(PCB) 원재료인 동박적층판(CCL)용 유리섬유 등 부품 가격 상승과 수급 문제도 삼성전자 중저가폰 판매에 </span><span style="letter-spacing: 0.8px;">악영향을 미치고 있다. 팔면 팔수록 수익성이 나빠지는 구조다. </span></p>
+<p><span style="letter-spacing: 0.8px;">메모리 값 급등과 함께, 일본 닛토보가 주력으로 생산하는 인쇄회로기판(PCB) 원재료인 동박적층판(CCL)용 유리섬유(E-글래스) 등 부품 가격 상승과 수급 문제도 삼성전자 중저가폰 판매에 </span><span style="letter-spacing: 0.8px;">악영향을 미치고 있다. 팔면 팔수록 수익성이 나빠지는 구조다. </span></p>
 <p><span style="letter-spacing: 0.8px;">삼성전자가 내년 OLED 갤럭시A 시리즈 출하량 목표를 1억 2000만대에서 1억대로 낮추</span><span style="letter-spacing: 0.8px;">면서, 내년 전체 스마트폰 출하량 목표도 줄어들 가능성이 커졌다. 삼성전자는 당초 내년에 스마트폰을 2억 5000만대 이상 </span><span style="letter-spacing: 0.8px;">출하한다는 계획을 세웠지만, 이를 수정 중인 것으로 알려졌다. 당초 계획보다 2000만대 이상 줄어들 것이란 관측이 우세하다.</span></p>
 <p>삼성전자가 최근 협력사에 전달했다는 4분기 부품 발주량 전망치를 고려하면, 올해 연간 스마트폰 출하량 전망치는 2억 4000만대에서 2억 3000만대 초반으로 줄어든다. 스마트폰(MX)·네트워크사업부는 지난 2분기 7350억원 적자였다. 증권가에선 연간 4000억원 적자를 예상한다. 메모리 가격은 내년에도 오를 것이란 전망이 우세하다. </p>]]></description>
 		</item>
@@ -697,104 +785,6 @@
 <p>국립공원공단에 따르면 2014~2023년 국립공원 사망사고 167건 가운데 84건(50.3%)이 심장 돌연사였다. 등산 중 심정지 사고는 가을철 비중이 31.2%로 사계절 중 가장 높았다. 국립공원 주요 등산로와 대피소에는 AED 설치가 의무지만 산악지역 특성상 정기점검이 쉽지 않다. 한국산학기술학회 조사에서는 의무설치 기관 기기의 5.3%가 배터리 충전 문제나 패드 유효기간 초과 등 관리 문제를 안고 있는 것으로 드러났다.</p>
 <p>에스원의 AED 온라인 모니터링 서비스는 배터리와 패드 상태, 사용 가능 여부를 하루 한 번 자동 점검한다. 관리자는 현장에 상주하지 않아도 웹사이트나 모바일 앱에서 장비 상태, 사용 연한, 위치, 배터리 잔량을 실시간으로 확인할 수 있다. 전원 상태 변화나 장비 이탈 같은 이벤트가 발생하면 문자메시지, 이메일, 앱 푸시로 즉시 알린다. 관리자 대상 심폐소생술과 AED 사용법 교육도 지원한다.</p>
 <p>물리보안 업계에서는 AI 영상 분석이 사후 확인에서 사전 탐지·선제 대응으로 옮겨가고 있다. 비전언어모델(VLM)을 결합해 영상 맥락까지 해석하는 지능형 관제가 확산하는 추세가 대표적인 사례로 언급된다.</p>]]></description>
-		</item>
-		<item>
-			<title>[ZD SW 투데이] 펀진, 육군 훈련서 국방 AI 운용 검증 外</title>
-			<link>https://zdnet.co.kr/view/?no=20261019155558</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019155558</guid>
-			<author>이나연 기자</author>
-			<category>SW 투데이</category>
-			<category>펀진</category>
-			<category>뉴엔AI</category>
-			<category>원프레딕트</category>
-			<category>마키나락스</category>
-			<category>메가존소프트</category>
-			<category>솔트웨어</category>
-			<category>지브라 테크놀로지스</category>
-			<category>컴퓨팅</category>
-			<pubDate>Mon, 19 Oct 2026 16:23:58 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/19/b1008dde772128d81f84c5f1ba9dabeb.jpg" alt="">
-							<blockquote class="wp-block-quote is-style-large">
-								<p>지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 &apos;ZD SW 투데이&apos;를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]</p>
-
-							</blockquote>
-<p><b>◆펀진, 육군 아미 타이거 플러스 훈련서 국방 AI 운용 검증</b></p>
-<p>펀진이 지난 14일 경기도 양평종합훈련장에서 열린 육군 &apos;아미 타이거 플러스(Army TIGER+)&apos; 미래전 통합 전투수행훈련에 참가해 AI 기반 지휘결심지원체계 &apos;KWM(Kill-Web Matching)&apos;의 현장 운용을 검증했다. 클라우드형 &apos;KWM-CL&apos;과 통신 제한 환경에서도 독립 운용이 가능한 엣지클라우드형 &apos;KWM-onP&apos;를 선보였다.</p>
-<p>펀진은 정찰 자산의 표적 정보를 AI로 분석하고 대응 방책과 가용 자산을 추천하는 기능을 시연했다. 개발자와 전문인력을 현장에 투입해 시스템을 검증했으며, 신속사업을 통한 국방 AI 조기 도입과 반복적인 부대 실증의 필요성을 제시했다.</p>
-<p><b>◆뉴엔AI, K-뷰티엑스포서 AI 페르소나 정밀 분석 솔루션 공개</b></p>
-<p>뉴엔AI가 킨텍스에서 열린 &apos;2026 K-뷰티엑스포 코리아&apos;에 참가해 글로벌 뷰티 AI 플랫폼 &apos;뷰센스(VUSSENS)&apos;를 공개했다. 뷰센스는 미국 현지 소셜·이커머스 데이터를 분석해 인종·연령·피부 타입별 소비자 페르소나와 트렌드·성분·소비자 반응 간 상관관계를 파악하는 솔루션이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/19/b1008dde772128d81f84c5f1ba9dabeb.jpg" alt="(사진=뉴엔AI)">
-<p><span style="letter-spacing: 0.8px;">뉴엔AI는 틱톡·릴스 등 숏폼 영상의 행동·음성·자막을 동시에 분석하는 멀티모달 AI 엔진과 브랜드 진단·소비자 리뷰 분석 등을 지원하는 &apos;K-뷰티 인사이트&apos;도 선보였다. 이를 통해 글로벌 뷰티 기업의 시장 동향 파악과 마케팅 전략 수립을 지원한다.</span></p>
-<p><b>◆원프레딕트, FIX 2026서 제조 AI 기술 소개</b></p>
-<p>원프레딕트가 오는 21일부터 24일까지 대구 엑스코에서 열리는 &apos;2026 미래혁신기술박람회(FIX 2026)&apos;에 참가해 제조 AI 기술과 적용 사례를 선보인다. 실제 공장을 재현한 부스에서 설비·공정 데이터의 수집과 분석부터 설비 관리, 운영 판단까지 이어지는 과정을 시연할 예정이다.</p>
-<p>원프레딕트는 제조 데이터·인공지능 운영(MLOps) 플랫폼 &apos;싸이클론&apos;과 AI 기반 산업자산 통합관리 플랫폼 &apos;피디엑스(pdx)&apos;를 활용해 품질·에너지·정비·제어·생산 등 5개 영역의 AI 적용 사례를 소개한다. 이를 통해 공장 운영 전반을 AI 중심으로 연결하는 &apos;AI 네이티브 팩토리&apos; 구상을 제시한다.</p>
-<p><b>◆마키나락스, 산업AI 엑스포서 도면 AI 솔루션 시연</b></p>
-<p>마키나락스가 오는 21일부터 23일까지 경기 고양시 킨텍스에서 열리는 &apos;2026 산업AI 엑스포&apos;에 참가해 도면 AI 솔루션 &apos;드로우엑스(DrawX)&apos;를 선보인다. 드로우엑스는 도면의 재질·치수·형상 등을 AI로 분석해 검색·비교·원가 산정과 제작 가능 여부 판단을 지원하는 솔루션이다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/19/7c4bd433467dd8d584852e7567eae85c.png" alt="(사진=마키나락스)">
-<p><span style="letter-spacing: 0.8px;">마키나락스는 드로우엑스를 도입한 대기업 구매팀이 도면 검토·관리 시간을 최대 90% 단축하고, 다른 제조사는 견적 업무 투입 공수를 60% 절감한 사례를 소개한다. 전시 현장에서는 도면 검색·비교·분석 과정을 시연하고 제조업의 AI 전환(AX)을 위한 도면 데이터 활용 방안을 제시할 예정이다.</span></p>
-<p><b>◆지브라 테크놀로지스, &apos;레드닷 디자인 어워드 2026&apos; 3관왕</b></p>
-<p>지브라 테크놀로지스가 &apos;레드닷 디자인 어워드 2026&apos; 제품 디자인 부문에서 3개 상을 수상했다. 수상 제품은 AI 기반 모바일 컴퓨터 &apos;TC501·TC701&apos;과 충전 에코시스템, 웨어러블 컴퓨터 &apos;WS301·WS101&apos;, &apos;DS82&apos; 시리즈 스캐너다.</p>
-<p>지브라 테크놀로지스는 모바일 컴퓨터에 온디바이스 AI와 무선주파수인식(RFID) 기술을 적용하고, 웨어러블 기기에 음성 기반 AI와 핸즈프리 통신 기능을 탑재했다. DS82 시리즈에는 바코드 인식과 재고 관리 기능을 적용해 유통·물류·의료 등 산업 현장의 업무 효율성을 높이도록 설계했다.</p>]]></description>
-		</item>
-		<item>
-			<title>솔트웨어, 위즈 손잡고 클라우드·AI 보안 사업 확대</title>
-			<link>https://zdnet.co.kr/view/?no=20261019160842</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019160842</guid>
-			<author>이나연 기자</author>
-			<category>솔트웨어</category>
-			<category>위즈</category>
-			<category>클라우드</category>
-			<category>AI</category>
-			<category>보안</category>
-			<category>컴퓨팅</category>
-			<pubDate>Mon, 19 Oct 2026 16:08:42 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/19/27e2b7c27621ffe45d7b8bdf9acd027c.png" alt=""><p><span style="letter-spacing: 0.8px;">솔트웨어가 글로벌 클라우드 보안 기업 위즈(Wiz)와 손잡고 클라우드·인공지능(AI) 보안 사업을 확대한다. </span></p>
-<p><span style="letter-spacing: 0.8px;">솔트웨어는 위즈와 파트너십을 체결하고 기업 고객의 클라우드 및 AI 환경을 위한 통합 보안 서비스 제공에 나선다고 19일 밝혔다.</span></p>
-<p>위즈는 구글 클라우드의 클라우드·AI 보안 플랫폼 기업이다. 클라우드와 AI, 데이터, 사용자 계정 및 접근 권한, 워크로드 전반의 위험 요소를 통합적으로 파악할 수 있는 기술을 제공한다. <span style="letter-spacing: 0.8px;">소스코드부터 클라우드 인프라, 실제 서비스가 실행되는 런타임 환경까지 보안 정보를 연결해 취약점을 분석하고 위험 완화와 위협 대응을 자동화할 수 있도록 지원한다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/10/19/27e2b7c27621ffe45d7b8bdf9acd027c.png" alt="(사진=솔트웨어)">
-<p><span style="letter-spacing: 0.8px;">솔트웨어는 퍼블릭·프라이빗·하이브리드 클라우드 환경의 컨설팅과 구축, 운영을 수행해 왔다. 국내 대기업을 대상으로 아이덴티티 권한 관리(IGA)도 진행하고 </span><span style="letter-spacing: 0.8px;">있다. </span><span style="letter-spacing: 0.8px;">이번 협력을 계기로 보안 사업 영역을 기존 접근 권한 관리에서 소스코드와 클라우드 인프라, AI, 데이터, 워크로드, 런타임까지 확대한다.</span></p>
-<p>위즈 플랫폼을 활용해 클라우드 환경의 취약점과 설정 오류, 과도한 접근 권한, 민감 데이터 노출 등을 통합적으로 파악할 계획이다. 개별 위험 요소가 연결되면서 발생할 수 있는 공격 경로를 분석하고 우선 대응이 필요한 보안 위협도 식별한다.</p>
-<p><span style="letter-spacing: 0.8px;">이정근 솔트웨어 대표는 "생성형 AI와 AI 에이전트의 활용이 확대될수록 사용자와 접근 권한뿐 아니라 데이터, 클라우드 자산, 워크로드의 위험을 지속적으로 확인하고 관리해야 한다"며 "</span><span style="letter-spacing: 0.8px;">클라우드 구축·운영 및 아이덴티티 보안 역량에 위즈의 클라우드·AI 보안 기술을 결합해 고객이 시스템 설계부터 구축과 운영까지 일관된 보안 체계를 갖출 수 있도록 지원하겠다"고 말했다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>로바이, 中 링커봇과 맞손…로봇 자가학습 AI ‘로봇 아카데미’ 실물 검증</title>
-			<link>https://zdnet.co.kr/view/?no=20261019160646</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019160646</guid>
-			<author>백봉삼 기자</author>
-			<category>아카데미</category>
-			<category>하드웨어</category>
-			<category>로봇</category>
-			<category>AI</category>
-			<category>로바</category>
-			<category>링커</category>
-			<category>링커봇</category>
-			<category>인터넷</category>
-			<pubDate>Mon, 19 Oct 2026 16:06:46 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/19/01556646ab34db6e343a5d07c8c9a14c.jpg" alt=""><p>국내 피지컬 AI 스타트업 로바이가 중국 로봇 핸드 전문기업 링커봇과 손잡고 로봇이 스스로 자신의 신체 구조를 학습하는 AI 제어 기술의 실물 검증에 나선다.</p>
-<p>19일 회사에 따르면, 양사는 AI 기반 로봇 제어 기술의 적용 및 검증을 위한 업무협약(MOU)을 체결하고 링커봇의 상용 하드웨어에 로바이가 개발 중인 AI 자가탐색 제어 플랫폼 &apos;로봇 아카데미&apos;를 적용하기로 했다. </p>
-<p>검증 대상은 &apos;링커 핸드 O6&apos;, &apos;링커 핸드 L20 라이트&apos;, &apos;링커 암 P7&apos; 등 총 3개 제품이다. 글로벌 고자유도 로봇 핸드 시장 점유율 80% 이상을 차지하며 지난해 12월 누적 출하량 1만대를 돌파한 링커봇의 기기에 플랫폼을 적용해, 하드웨어 형태가 달라질 때마다 발생하는 제어 소프트웨어 재개발과 보정 부담을 AI 자율 학습으로 줄일 수 있는지 집중 점검한다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/19/01556646ab34db6e343a5d07c8c9a14c.jpg" alt="(왼쪽부터) 로바이 정원영 대표, 링커봇 장옌바이 공동창업자">
-<p>&apos;로봇 아카데미&apos;는 사람이 처음 운동을 배울 때 몸을 움직여 균형을 익히듯, 로봇이 사람의 개입 없이 스스로 관절과 구동 특성 등 물리적 구조를 탐색해 최적의 제어 능력을 체득하도록 돕는 기술이다. 양사는 서로 다른 구조의 로봇 핸드와 로봇 팔을 대상으로 기술 실효성을 평가한 뒤, 통합 솔루션 개발 및 공동 고객 발굴, 추가 기술 연동 등 후속 사업 협력까지 단계적으로 검토할 계획이다.</p>
-<p>정원영 로바이 대표는 “로봇이 실제 산업 현장과 일상에 폭넓게 도입되기 위해서는 뛰어난 하드웨어와 AI 모델뿐 아니라, 서로 다른 로봇을 효율적으로 제어할 수 있는 기술이 필요하다”며 “이번 링커봇과의 협력은 로봇 아카데미가 실제 상용 하드웨어에서도 적용될 수 있는지 확인하는 중요한 출발점”이라고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>김병구 박사, 원자력 30년 인생 책 한 권에 담아</title>
-			<link>https://zdnet.co.kr/view/?no=20261019085623</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261019085623</guid>
-			<author>박희범 기자</author>
-			<category>원자로계통설계</category>
-			<category>한국원자력연구원</category>
-			<category>원자력연</category>
-			<category>원전</category>
-			<category>APR1400</category>
-			<category>체코원전 수출</category>
-			<category>과학</category>
-			<pubDate>Mon, 19 Oct 2026 16:04:27 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/19/766c8ca36a7f0157ca21a32e41f5ea8b.png" alt=""><p><span style="letter-spacing: 0.8px;">김병구 한국원자력연구원 전 미래원자력기술개발단장이 30년간 근무하던 연구원 생활을 반추한 &apos;다시, 원자력을 묻는 시간- K원전에서 SMR까지-&apos;(지식과감성)를 출간한다고 19일 밝혔다.</span></p>
-<p>김 전 단장은 저서에서 우리나라가 원자력 기술을 도입해 독자적인 원전 설계기술을 확보하고, 해외 수출에 이르기까지의 과정을 경험을 토대로 저술했다. 한국형 원전의 성과뿐 아니라 변화하는 국제 원자력 시장에서 해결해야 할 과제와 미래 경쟁력도 함께 다뤘다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/19/766c8ca36a7f0157ca21a32e41f5ea8b.png" alt="김병구 한국원자력연구원 전 미래원자력기술개발단장.(사진=원자력연)">
-<p>김 전 단장은 지난 1963년 서울대학교 조선공학과에 입학했다. 1972년 미국 캘리포니아공과대학교에서 응용역학 전공으로 박사 학위를 취득했다. 미국 항공우주국(NASA) 제트추진연구소(JPL)에서 바이킹 프로젝트(Viking Project)에 참여했다. </p>
-<p>원자력연에서는 영광(한빛) 3·4호기 원자로계통설계 등 한국형 원전 설계기술 자립에 기여했다. 국제원자력기구(IAEA) 기술협력국장과 사우디아라비아 원자력자문관 등을 역임했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
