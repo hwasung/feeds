@@ -4,7 +4,114 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Mon, 19 Oct 2026 06:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 19 Oct 2026 12:30:54 +0900</lastBuildDate>
+		<item>
+			<title>세계 해운·항만 38곳 데이터 공개 예고 시한 오늘 밤… 한국 기업·기관 12곳 포함</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8032</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8032</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Mon, 19 Oct 2026 12:15:02 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261019121328_medbnbfu.jpg" alt="그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">그림=이미지크리에이터</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 세계 해운·항만·물류 관련 38개 기관의 데이터를 탈취했다고 주장한 협박 조직 n0n이 제시한 공개 시한이 19일 밤 도래한다. 명단에는 한국 기업·기관 12곳도 포함됐다. 대부분의 게시물에 적힌 시각은 19일 오후 1시 27분(UTC), 한국시간으로 밤 10시 27분이다. 다만 한 곳은 8분 이른 오후 1시 19분(UTC)으로 설정돼 있다.&nbsp;</p>
+<p><br /></p>
+<p>19일 오전 현재 해당 기업들이 침해나 데이터 유출을 공식 확인한 사례는 공개적으로 알려지지 않았다. 따라서 이번 사건은 확인된 해킹 피해가 아니라, n0n이 데이터를 보유했다고 주장하며 공개를 예고한 협박 사건으로 봐야 한다.</p>
+<h3>18개국&nbsp; 해운·항만·물류 관련 기관 38곳 포함</h3>
+<p>n0n은 10월 12일 18개국의 해운·항만·물류 관련 기관 38곳을 다크웹 유출 사이트에 올렸다. 명단에는 오션 네트워크 익스프레스(ONE), CULines, T.S. Lines와 부산신항만(Pusan Newport Company), BNCT 등이 포함됐다. 중국 크레인 제조업체 ZPMC와 동국제강처럼 해운·항만 운영사 외의 관련 기업도 이름을 올렸다. 안랩 시큐리티 인텔리전스 센터(ASEC)는 한국 항만·물류 관련 기업 12곳이 공격 대상 명단에 포함됐다고 전했다.&nbsp;</p>
+<p><br /></p>
+<p>이번 사건을 ‘랜섬웨어 공격’이라고 부르는 보도도 있지만, 현재까지 확인된 것은 데이터 공개를 내건 협박이다. 해운 전문 매체인 더 마리타임 이그제큐티브(The Maritime Executive)는 보안업체 SOCRadar의 분석을 인용해 n0n이 전통적인 방식으로 피해자 시스템을 암호화하기보다 관리자 도구를 활용해 데이터를 다루는 것으로 보인다고 전했다. 시스템 마비나 항만 운영 중단이 확인됐다는 뜻은 아니다.&nbsp;</p>
+<p><br /></p>
+<p>n0n은 이전에도 공개 시한을 압박 수단으로 사용했다. 사이버 보안업체 사이돔(Cydome)은 n0n이 10월 13일 일부 익명 게시물을 시한이 지난 뒤 몇 시간 안에 실제 피해자 이름으로 바꾼 사례가 있다고 전했다. 이에 따라 이번 시한도 실제 공개로 이어질지는 지켜봐야 하지만, 단순한 예고로 치부하기 어렵다는 평가가 나온다.&nbsp;</p>
+<h3>한국 해운 IT업체와 자료 연관성 제기</h3>
+<p>사이돔은 이번 자료가 서울에 본사를 둔 한국 해운·물류 소프트웨어 업체 사이버로지텍(CyberLogitec)과 관련됐을 가능성을 제기했다. 공개적으로 확인되는 고객 관계와 n0n이 게시한 샘플 파일을 분석한 결과, 명단에 오른 기관 중 최소 21곳이 사이버로지텍의 고객인 것으로 파악했다는 설명이다. 사이버로지텍은 유수홀딩스(EUSU Holdings) 계열사다.&nbsp;</p>
+<p><br /></p>
+<p>사이돔은 유출 자료가 여러 기업을 고객으로 둔 하나의 지원·프로젝트 자료 저장소에서 나왔을 가능성을 제시했다. 이 가설이 맞다면 38개 기업의 내부망이 각각 뚫렸다기보다, 한 업체의 자료나 공유 환경에서 고객 관련 정보가 함께 노출됐을 수 있다는 의미다. 그러나 사이돔은 어떤 시스템에 접근했는지, 실제 자료가 얼마나 유출됐는지는 확인하지 못했다고 밝혔다.&nbsp;</p>
+<p><br /></p>
+<p>사이돔이 검토한 샘플에는 계정 정보와 비밀번호, 개인정보, 전자문서교환(EDI) 자료, 시스템 문서가 포함됐을 가능성이 제기됐다. 파일 날짜는 2009년부터 2026년 8월까지로 일부는 오래된 자료일 수 있다. 다만 사이돔은 샘플의 진위를 인증할 수 없으며, 분석 내용은 모두 의혹으로 다뤄야 한다고 밝혔다.&nbsp;</p>
+<h3>자료 공개돼도 운영 피해와 구분해야</h3>
+<p>SOCRadar는 n0n이 보유했다고 주장한 자료 유형으로 EDI 메시지, 적하목록, 게이트 이동·장비 교환 기록, 터미널 시스템 구성 자료 등을 들었다. 자료 유형이 업무 정보에 집중됐다는 점은 공통 애플리케이션이나 시스템을 통한 노출 가능성을 제기하는 근거 중 하나지만, 이것만으로 침해 경로나 원인을 확정할 수는 없다.&nbsp;</p>
+<p><br /></p>
+<p>현재까지 공개된 보도에는 선박 운항, 크레인, 터미널 장비 등 운영기술(OT)이 공격받았거나 항만 운영에 차질이 생겼다는 확인된 내용이 없다. 관련 보도는 데이터 탈취와 공개 협박에 초점을 두고 있다. 자료가 실제로 공개되더라도 진위와 작성 시점, 개인정보 포함 여부를 따져야 하며, 데이터 유출 의혹을 운영 중단 피해로 확대 해석해서는 안 된다.&nbsp;</p>
+<p><br /></p>
+<p>시한 이후 확인할 핵심은 n0n이 실제 자료를 공개하는지, 공개 자료가 어느 기관에서 나온 것인지, 당사자와 관계 기관이 이를 확인하는지다. 한국 기업·기관이 다수 포함된 만큼, 이번 사건은 개별 기업의 침해 여부뿐 아니라 해운·항만 업무를 연결하는 소프트웨어와 협력업체 환경이 공급망 전체에 미칠 수 있는 위험도 드러내고 있다.</p>]]></description>
+		</item>
+		<item>
+			<title>[SF 분석] 브런슨 한미연합사령관의 입 논란 &quot;의도적 발언?&quot;...여권 강력 반발, 야권 속도 조절 주장</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8031</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8031</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>국방안보</category>
+			<category>20140925141441_2377</category>
+			<pubDate>Mon, 19 Oct 2026 12:06:38 +0900</pubDate>
+			<description><![CDATA[<p>
+   <br />
+</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2610/20261019115403_gsclvlqu.jpg" alt="20261019 브런슨 사령관.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">제이비어 브런슨 주한미군사령관이 14일(현지시간) 미국 워싱턴 D.C.에서 미 싱크탱크 ‘골드 국제전략연구소’가 주최한 세미나에서 연설을 하고 있다./사진=연합뉴스</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=강태임 기자] 제이비어 브런슨 주한미군사령관(유엔군사령관 겸 한미연합군사령관)의 잇따른 설화(舌禍)가 한반도 안보 정가를 강타하고 있다. 전시작전통제권(전작권) 전환 기준을 재설정해야 한다는 발언에 이어 “대한민국은 남쪽 철책선에서 시작한다”는 영토 주권 침해성 발언까지 쏟아내면서 파문이 걷잡을 수 없이 확산되는 모양새다. 단순한 표현의 실수를 넘어 미 트럼프 행정부 기조와 맞물린 미국의 대외 전략적 의도가 깔린 ‘계획된 발언’이 아니냐는 분석이 고개를 들고 있다.</p>
+<p>
+   <br />
+</p>
+<h3>헌법·영토 부정 발언에 여권·군 일제히 “사과·철회하라”</h3>
+<p>논란의 발단은 지난 10월 14일(현지시각) 미국 워싱턴 D.C.에서 미 싱크탱크 ‘골드 국제전략연구소’가 주최한 세미나였다. 이 자리에서 브런슨 사령관은 한반도 안보 환경 변화를 이유로 전작권 전환과 관련해 "조건이 확실히 변했다. 조건이 변했고 우리가 계획을 바꿨기 때문에 우리가 지켜야 하는 새 기준이 생겼다"고 언급하며 정부의 조기 전환 추진에 제동을 걸었다. 이어 비무장지대(DMZ)를 설명하는 과정에서는 "대한민국은 어디에서 시작해서 어디에서 끝나는가. 유엔군사령부의 관점에서 보면 내 생각에 대한민국은 남쪽 철책선에서 시작한다"고 말해 대한민국의 영토 주권을 정면으로 부정했다는 거센 비판을 자초했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://img1.yna.co.kr/photo/yna/YH/2026/10/07/PYH2026100714470001300_P4.jpg" alt="질의하는 더불어민주당 박선원 의원" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">더불어민주당 박선원 의원이 7일 서울 용산구 국방부에서 열린 국회 국방위원회의 국방부에 대한 국정감사에서 모형 권총을 들고 질의를 하고 있다./사진=연합뉴스</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>이 같은 발언이 알려지자 여권 정치권과 군 수뇌부는 주권 침해이자 선을 넘은 폭주로 규정하며 정면 대응에 나섰다. 박선원 더불어민주당 최고위원은 19일 최고위원회의에서 “대한민국 영토는 헌법에 규정돼 있다”며 “장군이면 장군답게 하라. 브런슨 사령관 본인이 해당 표현을 바로잡고 국민께 분명하게 설명하고 사과해야 한다”고 목소리를 높였다. 대통령국방정책특보인 김병주 민주당 의원 역시 YTN 라디오 등에 출연해 “유엔사령관으로서 아주 부적절하며 많이 오버하고 있다”고 직격하면서 “반드시 발언을 철회하고 국민 앞에 사과해야 마땅하다”고 촉구했다. 더불어민주당 진성준 국회 국방위원장도 “대한민국의 영토를 한반도와 그 부속도서로 규정한 헌법과 배치된다”며 사령관의 안보 인식을 바로잡아야 한다고 경고했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/001/2026/10/19/PYH2026092214680001301_P4_20261019113416675.jpg?type=w860" alt="지난 9월 대화하는 주한미군사령관- 김규하 육군참모총장(서울=연합뉴스) 이진욱 기자 = 제이비어 브런슨 주한미군사령관과 김규하 육군참모총장이 22일 서울 용산구 국방부에서 열린 강신철 국방부 장관 취임식에 참석해" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">지난 9월 대화하는 주한미군사령관- 김규하 육군참모총장/사진=연합뉴스</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>군 당국도 불쾌감을 숨기지 않았다. 김규하 육군참모총장은 19일 충남 계룡대에서 열린 국회 국방위원회 국정감사에서 브런슨 사령관의 영토 관련 언급에 대해 “동의하지 않는다”고 선을 그었다. 전작권 전환 기준 발언에 대해서도 “발언에 신중해야 한다”고 지적했다. 파문이 걷잡을 수 없이 커지자 유엔군사령부는 18일 공식 입장을 내고 “정전협정에 따라 부여된 DMZ 및 JSA 내 군사·행정적 책임을 설명한 것일 뿐 대한민국의 주권을 변경하거나 침해하려는 취지가 아니었다”고 해명에 나섰다. 국방부 역시 “개인 견해일 뿐 영토주권에 대한 정부의 입장은 확고하다”며 유감을 표명했다.</p>
+<p>
+   <br />
+</p>
+<h3>취임 직후부터 이어진 ‘중국 견제·전작권 견제’ 발언 일지</h3>
+<p>안보 전문가들은 브런슨 사령관의 이번 발언이 일회성 말실수가 아니라 취임 이후 지속되어 온 계산된 행보의 연장선이라고 본다. 2024년 12월 부임한 브런슨 사령관은 2025년 4월 한국의 전작권 환수 노력에 대해 "정치적 편의주의"라고 일축했다. 2026년 5월에는 "한국은 중국 입장에서 단검(dagger)"이라고 표현해 외교적 마찰을 빚은 바 있다.</p>
+<p>
+   <br />
+</p>
+<p>특히 지난 14일 세미나에서는 연합훈련 및 전략자산 배치와 관련해 "(한미 연합 훈련을) 한반도 전역을 쓰는 분산·기동형 훈련으로 바꿔야 한다", "한국의 방위 산업과 조선 역량을 지역 지속 지원 허브로 삼아야 한다", "다영역특임단(MDTF)의 한반도 배치는 절대적으로 매력적이다"라고 발언했다. "지도에 선 하나를 그어보면 베이징에서 서울까지의 거리를 확인할 수 있다"는 언급까지 더해져 주한미군과 한국군의 역할을 대중국 견제로 확장하려는 미 군부의 속내를 거침없이 드러냈다는 평가다.</p>
+<p>
+   <br />
+</p>
+<h3>정치권 시각차 속 미 트럼프 행정부의 ‘의도된 압박’ 분석</h3>
+<p>국내 야권의 시선은 다르다. 국민의힘은 브런슨 사령관의 전작권 관련 발언을 안보 현실에 비춰 수용해야 한다는 입장이다. 장동혁 국민의힘 대표는 "북한은 핵과 미사일 능력을 고도화하고 국경선 요새화를 강행하고 있다. 조건 없는 전작권 전환은 백해무익하다"고 주장했다. 박충권 수석대변인 역시 "전작권 전환은 정권의 치적 쌓기용 이벤트가 아니다"라며 속도전 중단을 요구했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://img3.yna.co.kr/photo/yna/YH/2026/08/20/PYH2026082011750001300_P4.jpg" alt="국민의힘 장동혁 대표" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">국민의힘 장동혁 대표./사진=연합뉴스 자료사진</figcaption>
+   </figure>
+   </div>
+<p>&nbsp;</p>
+<p>외교·안보 전문가들은 브런슨 사령관의 돌출 발언 배경에 미 트럼프 행정부의 전략적 계산이 깔려 있다고 분석한다. 미 트럼프 행정부의 '전략적 유연성' 강화 기조 속에서 주한미군의 역할을 대중국 견제로 확대하고 전작권 환수 협상에서 미국 측의 지렛대(Leverage)를 확보하려는 미 국방부의 대외 전략이 미군 사령관의 입을 통해 선제적으로 구체화된 '의도된 압박'일 가능성이 높다는 것이다. 헌법적 영토 주권과 문민통제의 원칙을 흔드는 외세 군사령관의 발언에 대해 여권과 군이 일제히 강력한 경고 메시지를 내놓으면서 향후 예정된 한미 국방장관 회담 등 양국 간 안보 협의 과정에서 진통이 예상된다.</p>]]></description>
+		</item>
 		<item>
 			<title>대만, 쉴드 AI V-BAT 정찰 드론 292대 도입 추진</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8030</link>
@@ -1549,109 +1656,6 @@
 <p>한반도 주변 정세 측면에서는 북한이 '화성-8형' 및 '화성-16나형' 등 HGV 형상 탄두를 탑재한 미사일 시험발사를 지속하며 안보 위협을 가시화하고 있다.</p>
 <p><br /></p>
 <p>대한민국은 이번 독자 시험발사 성공을 통해 기술 검증을 마무리함에 따라 한반도 전장 환경에서 강력한 억제력을 발휘할 고성능 전략 무기체계 실전 배치에 한 걸음 더 다가서게 됐다.</p>]]></description>
-		</item>
-		<item>
-			<title>[SF 포커스] 후티, 리야드 공항 공격 주장… 왜 사우디와 싸우나</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8002</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8002</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>밀리터리</category>
-			<category>20250407121048_4964</category>
-			<pubDate>Thu, 08 Oct 2026 18:43:51 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261008183941_hqvuxely.jpg" alt="예멘 후티 반군 대원. 사진=EPA 연합뉴스.jpg" style="width: 720px; height: 478px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">예멘 후티 반군 대원. 사진=EPA 연합뉴스</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 이란의 지원을 받는 예멘의 정치·무장조직 후티가 사우디 아라비아 수도 리야드의 킹칼리드 국제공항을 탄도미사일로 공격했다고 주장했다. 사우디가 지원하는 예멘 정부군이 후티를 상대로 대규모 공세에 나선 가운데, 충돌이 예멘의 지상전과 사우디의 민간 항공시설을 오가며 확대되고 있다.</p>
-<p><br /></p>
-<p>8일(현지시각) 로이터 통신에 따르면 후티는 이날 성명을 통해 킹칼리드 국제공항을 공격했다고 밝혔다. 로이터 보도 당시 사우디 측의 즉각적인 확인은 없었다. 앞서 사우디 민간항공총국(GACA)은 6~7일 킹칼리드 공항과 남부 아브하 공항에 대한 공격으로 각각 1명과 2명이 숨지고, 총 36명이 다쳤다고 발표했다. 이 피해 집계는 8일 후티가 주장한 공격과는 별개다.</p>
-<p><br /></p>
-<p>공역 경고는 이에 앞선 5일 나왔다. 후티 측 인도주의작전조정센터는 사우디 공역이 군사작전 지대가 될 수 있다며 항공사들에 운항 중단을 경고했다. 다만 이슬람 성지인 메카와 메디나 상공은 제외한다고 밝혔다.</p>
-<h3>정부군 공세와 국경 너머 보복 공격</h3>
-<p>최근 공격의 직접적인 배경은 사우디 주도 연합군의 공습과 예멘 정부군의 지상 공세다. AP통신에 따르면 예멘 정부군은 5일 홍해 연안에서 대규모 공세를 시작했다. 연합군은 ‘예멘의 새벽’ 작전에 전투기 100대를 투입했다고 밝혔으며, 예멘 지도부는 국가기관 복원과 수도 사나 탈환을 목표로 제시했다.</p>
-<p><br /></p>
-<p>후티도 공격을 사우디의 군사작전에 대한 대응으로 설명했다. 아나돌루통신에 따르면 후티 군 대변인 야히야 사리는 5일 사우디 공항과 석유시설, 군사시설을 공격했다고 주장하면서, 앞선 24시간 동안 사나 등 예멘 여러 지역을 겨냥한 사우디의 공습과 미사일 공격에 대응한 것이라고 밝혔다.</p>
-<p><br /></p>
-<p>전투의 주요 무대는 홍해와 아덴만을 잇는 바브엘만데브 해협 주변이다. 후티는 지난달 이 일대의 통제력을 확보했다고 주장했지만, 예멘 정부군은 최근 해협 인근과 모카항 주변 지역을 탈환했다고 발표했다. 후티는 정부군의 전과 발표를 부인했다. 홍해 전체를 후티가 장악한 것은 아니며, 주요 해상 관문과 예멘 연안의 통제권을 두고 전투가 이어지는 상황이다.</p>
-<p><br /></p>
-<p>양측의 적대는 2014년 후티의 사나 장악에서 본격화했다. 당시 압드라부 만수르 하디 대통령은 이후 남부 아덴을 거쳐 사우디로 피신했고, 사우디는 2015년 국제적으로 인정받는 예멘 정부를 복원한다는 목표로 군사개입했다. 후티에는 사우디가 자신들을 공격하는 전쟁 당사자였고, 사우디에는 남부 국경에서 세력을 넓히는 후티가 안보 위협이었다.</p>
-<p><br /></p>
-<p>2022년 유엔 중재 휴전으로 대규모 교전은 잦아들었다. 공식 휴전 기한이 만료된 뒤에도 상당 기간 소강상태가 유지됐지만, 평화협정으로 이어지지는 못했다. 올해 7월 13일에는 사우디 지원 예멘군이 이란 항공기의 착륙을 막겠다며 사나 공항 활주로를 공격했고, 후티는 사우디가 공항을 폭격했다고 비난하며 사우디로 미사일을 발사했다.</p>
-<p><br /></p>
-<p>최근에는 외부 지원도 확대되고 있다. 로이터는 7일 튀르키예가 사우디에 주로 방어·기술 지원을 보내고 있다고 보도했다. 사우디·튀르키예·파키스탄이 체결한 공동방위협정에 따른 지원 움직임으로, 예멘의 전투가 주변국의 군사적 이해관계와 더욱 깊게 연결되고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261008184116_yisqrnhf.jpg" alt="[그래픽] 후티 반군 홍해 요충지 장악 현황. 출처=연합뉴스.jpg" style="width: 720px; height: 685px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">[그래픽] 후티 반군 홍해 요충지 장악 현황. 출처=연합뉴스</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>민족·종교·병력으로 본 조직의 실체</h3>
-<p>후티는 민족이나 하나의 부족을 가리키는 이름이 아니다. 예멘 북부에서 성장한 정치·무장조직으로, 구성원은 주로 예멘의 아랍인이다. ‘후티’라는 명칭은 운동을 이끈 알후티 가문에서 나왔다. 이란의 지원을 받지만 이란인으로 구성된 조직은 아니다.</p>
-<p><br /></p>
-<p>초기 지도자인 후세인 알후티가 2004년 예멘 정부군과 싸우다 사망한 뒤 동생 압둘말리크 알후티가 조직을 이끌고 있다. 자체 명칭은 ‘안사르 알라(Ansar Allah)’로, ‘신의 지지자들’이라는 뜻이다.</p>
-<p><br /></p>
-<p>종교적 기반은 이슬람 시아파 내 별도 분파인 자이디파다. 예멘 북부에 오랜 기반을 둔 자이디파의 종교·문화 부흥운동에서 출발했으며, 중앙정부의 정치·경제적 소외와 사우디의 지원을 받는 종교세력의 영향력 확대에 반발하며 성장했다. 정부와 여러 차례 전쟁을 치르고 2011년 정치 혼란을 거치면서 군사적 영향력을 넓혔다.</p>
-<p><br /></p>
-<p>자이디파 신자가 모두 후티를 지지하는 것은 아니다. 후티는 다른 종교 집단에서도 구성원을 모집해 왔다. 조직의 결속에는 종교뿐 아니라 지역과 정치적 이해관계도 작용한다.</p>
-<p><br /></p>
-<p>유엔 예멘 전문가패널의 2024년 보고서에 제시된 전투원 추정치는 2015년 약 3만 명, 2022년 약 22만 명, 2024년 중반 약 35만 명이다. 다만 독립적으로 검증된 확정 수치가 아니며, 2026년 현재 병력이나 일반 지지자를 포함한 전체 조직원 수를 뜻하지도 않는다.</p>
-<p><br /></p>
-<p>후티는 사나와 예멘 북부의 넓은 지역에서 행정기구를 운영하는 사실상의 통치세력이기도 하다. 군사조직과 지역 통치 기능을 함께 갖췄지만, 국제적으로 인정받는 예멘 정부는 아니다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 729px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261008184212_iabanbln.jpg" alt="예멘 후티 반군. 사진=AP 연합뉴스.jpg" style="width: 729px; height: 486px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">예멘 후티 반군. 사진=AP 연합뉴스</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>종파보다 전략적 이해가 묶은 이란</h3>
-<p>후티와 이란은 모두 시아파 계열이지만 종파가 같다거나 종교적 지휘체계가 하나인 것은 아니다. 후티의 자이디파와 이란의 주류인 열두이맘파는 지도자의 계승과 권위에 관한 교리 등에 차이가 있다. 후티는 이란 최고지도자를 자신들의 최고 종교 권위로 명시적으로 인정하지 않는다.</p>
-<p><br /></p>
-<p>양측 관계에는 공동의 적과 군사적 이해관계가 작용한다. 사우디와 싸우는 후티에는 무기와 훈련 지원이 필요하고, 이란에는 사우디 남부와 홍해의 주요 항로에서 영향력을 행사할 수 있는 우군이 전략적 자산이다. 미국과 이스라엘에 대한 적대적 입장도 양측을 연결한다. 프랑스 르몽드는 후티가 이란에 비교적 적은 비용으로 사우디를 압박하고 바브엘만데브에서 영향력을 행사할 수단을 제공한다고 분석했다.</p>
-<p><br /></p>
-<p>미국은 이란이 후티에 무기·자금·훈련을 지원한다고 보고 있다. 유엔 예멘 전문가패널도 2024년 보고서에서 후티 전투원들이 이란이나 레바논 헤즈볼라 시설에서 훈련받고 있다고 지적했다. 후티는 이란의 대리세력이라는 규정을 부인하며 자체적으로 무기를 개발한다고 주장한다.</p>
-<p><br /></p>
-<p>후티의 출발점과 통치 기반은 예멘 내부에 있다. 이란과의 연대가 전력을 강화했지만, 후티는 예멘의 권력과 영토를 확보하려는 자체 목표도 추구한다. 최근 사우디 공항 공격은 이런 장기적 적대관계 위에 정부군의 대규모 공세와 홍해 연안의 통제권 다툼이 겹치며 확대되고 있다.</p>
-<p>&nbsp;</p>]]></description>
-		</item>
-		<item>
-			<title>美 공군, 신형 드론 &apos;스카이디오 X10D&apos; 2027년 실전 배치…교관 양성 착수</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8001</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8001</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>무기체계</category>
-			<category>20250407120846_2514</category>
-			<pubDate>Thu, 08 Oct 2026 12:52:47 +0900</pubDate>
-			<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;"><img src="https://www.securityfact.co.kr/data/tmp/2610/20261008124913_ygshrpdl.jpg" alt="20261008 미 공군 드론 교육.jpg" style="width: 640px; height: 865px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2027년 1월 전력화를 앞두고 미 공군 특별수사국(AFOSI)이 스카이디오 X10D 드론의 운용 및 교관 자격을 갖춘 특별요원을 교육했다. / 사진=미 공군</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>[시큐리티팩트=강태임 기자] 미 공군 특별수사국(AFOSI)이 신형 소형 무인항공기시스템(sUAS) '스카이디오 X10D(Skydio X10D)'의 2027년 1월 정식 실전 배치를 앞두고 본격적인 운용 및 교육 역량 강화에 나섰다.</p>
-<p><br /></p>
-<p>미 공군 및 외신에 따르면 AFOSI는 버지니아주 콴티코 본부에서 소속 특별요원 6명을 대상으로 일주일간 '교관 교육(Train-the-Trainer)' 프로그램을 진행하고 사상 첫 전문 교관 인증을 완료했다. 이번 교육을 수료한 요원들은 정식 전력화 시점에 맞춰 야전 기술작전 부대에 관련 운용 능력을 전파하는 역할을 맡게 된다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 640px;"><img src="https://media.defense.gov/2026/Oct/06/2004012574/700/700/0/261006-F-NK396-1001.JPG" style="width: 640px; height: 423px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">스카이디오사의 소형 드론인 '스카이디오 X10D'./사진=미 공군</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>이번에 전력화되는 스카이디오 X10D는 미국 드론 제조업체 스카이디오(Skydio)가 개발한 방산 및 공공 작전용 첨단 소형 드론이다. 약 2.1kg의 무게에 최고 시속 72km(45mph), 최대 40분의 비행 능력을 갖추고 있다. 엔비디아 제트슨 오린(NVIDIA Jetson Orin) GPU 기반의 인공지능(AI) 프로세서와 6개의 광각 나비게이션 카메라를 탑재해 360도 전방위 장애물 회피가 가능하다. GPS 신호가 교란되거나 전자기 간섭이 심한 전자전 환경에서도 자율 비행을 수행할 수 있다. 또한 고성능 광학·망원 카메라와 텔레다인 플리어(Teledyne FLIR)의 보손플러스(Boson+) 열화상 센서를 통합 장착해 야간 및 악천후 속에서도 정밀한 열화상 채증과 수색·정찰이 가능한 점이 핵심 특장점이다.</p>
-<p><br /></p>
-<p>이번 교관 양성 과정은 공중구역 관리, 미 연방항공청(FAA) 규정, 작전 계획 등 16시간의 이론 교육과 AFOSI 임무에 특화된 16시간의 실전 비행 훈련으로 구성됐다. 특히 약 400피트(120m) 고도에서 차량 번호판을 식별해 1마일(1.6km)가량 추적하는 훈련과 야간에 열화상 카메라로 산악 수풀 지역에 숨은 인원을 수색하는 등 실전적 시나리오가 포함됐다.</p>
-<p><br /></p>
-<p>AFOSI는 지난 2024년 캘리포니아주 에드워즈 공군기지 제111파견대에서 진행한 시범 프로그램을 시작으로 sUAS 운용 역량을 지속 검증해 왔다. 기술작전 프로그램 담당자인 스콧 자와키(Scott Zawacki) 특별요원은 "제111파견대가 범용적 확장을 위한 개념 검증을 성공적으로 확립했다"고 밝혔다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
