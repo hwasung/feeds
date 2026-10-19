@@ -4,7 +4,15 @@
 		<title>방위사업청 사전정보공개</title>
 		<link>https://www.dapa.go.kr/dapa/na/co/priorInfo.do?bbsSeq=243&amp;menuSeq=3049</link>
 		<description>방위사업청 사전정보공개</description>
-		<lastBuildDate>Wed, 14 Oct 2026 16:30:17 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 19 Oct 2026 17:30:15 +0900</lastBuildDate>
+		<item>
+			<title>한눈에 보는 이해충돌 (직무상 비밀)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59325&amp;menuSeq=3838&amp;bbsSeq=245</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59325&amp;menuSeq=3838&amp;bbsSeq=245</guid>
+			<author>황경태</author>
+			<category>행정감시 관련정보</category>
+			<pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
+		</item>
 		<item>
 			<title>KUH-1 비행훈련시뮬레이터(R&amp;D) 사업 2026년 패키지시설 사업 현황</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59310&amp;menuSeq=3802&amp;bbsSeq=362</link>
@@ -268,15 +276,6 @@
 			<category>사업정보</category>
 			<pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<p><p>소형무장헬기 패키지시설(설계 중) 사업현황('26.9월 기준)</p><br/></p>]]></description>
-		</item>
-		<item>
-			<title>특수작전용대형기동헬기 사업 추진 현황(’26년 9월)</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59206&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59206&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<author>김지원</author>
-			<category>사업정보</category>
-			<pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p><p>특수작전용대형기동헬기 사업 추진 현황(’26년 9월)</p><br/></p>]]></description>
 		</item>
 	</channel>
 </rss>
