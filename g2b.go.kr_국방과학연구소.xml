@@ -4,7 +4,16 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Tue, 20 Oct 2026 15:31:23 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 16:32:18 +0900</lastBuildDate>
+		<item>
+			<title>[등록공고][물품&#40;내자&#41;] 광펄스 측정기</title>
+			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01781582&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01781582&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Tue, 20 Oct 2026 15:39:29 +0900</pubDate>
+			<description><![CDATA[ • 공고번호: R26BK01781582<br/> • 마감일시: 2026-10-28 10:00<br/> • 개찰일시: 2026-10-28 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
+		</item>
 		<item>
 			<title>[사전규격][물품&#40;내자&#41;] 광파면 모사 및 보정용 적응 광학장비</title>
 			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00287538</link>
@@ -265,15 +274,6 @@
 			<category>사전규격</category>
 			<pubDate>Thu, 15 Oct 2026 19:57:47 +0900</pubDate>
 			<description><![CDATA[ • 참고번호: R26BD00285663<br/> • 공고/수요기관: 국방과학연구소]]></description>
-		</item>
-		<item>
-			<title>[사전규격][물품&#40;내자&#41;] 공용 컴퓨팅 시스템</title>
-			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00285583</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00285583</guid>
-			<author>국방과학연구소</author>
-			<category>사전규격</category>
-			<pubDate>Thu, 15 Oct 2026 17:16:04 +0900</pubDate>
-			<description><![CDATA[ • 참고번호: R26BD00285583<br/> • 공고/수요기관: 국방과학연구소]]></description>
 		</item>
 	</channel>
 </rss>
