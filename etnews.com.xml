@@ -4,7 +4,33 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 20 Oct 2026 21:30:38 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 06:30:46 +0900</lastBuildDate>
+		<item>
+			<title>[테크 차이나] 기업을 빼앗지 않고 함께 키울 수 있나…중국 공동산업거점 배분 실험</title>
+			<link>https://www.etnews.com/20261015000384</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261015000384</guid>
+			<category>오피니언</category>
+			<pubDate>Wed, 21 Oct 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[기업을 유치하는 지방정부의 익숙한 질문은 본사를 어디로 옮길 것인가다. 그러나 기업의 연구인력, 고객, 공장과 물류가 한 도시에 모두 모여야 하는 것은 아니다. 연구팀은 인재가 모이는 대도시를 원하고 생산 부문은 부지와 전력, 공급업체가 있는 지역을 찾는다. 주소를 옮겨야만 지원하는 방식은 기업의 성장보다 지자체 간 실적 경쟁을 앞세울 수 있다. 중국의 지역 간 공동산업거점 모델(&#39134;地&#32463;&#27982;)은 이 갈등을 다른...]]></description>
+		</item>
+		<item>
+			<title>에브리존, 인도네시아서 &apos;화이트디펜더&apos; 선보여…동남아 시장 확대</title>
+			<link>https://www.etnews.com/20261021000002</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261021000002</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 21 Oct 2026 01:22:56 +0900</pubDate>
+			<description><![CDATA[에브리존은 최근 인도네시아 보안 행사에서 안티랜섬웨어 솔루션 '화이트디펜더'를 선보이며 현지 시장 공략에 나섰다고 20일 밝혔다. 에브리존은 행사에서 현지 고객을 대상으로 세미나와 제품 교육을 진행하고, 랜섬웨어 대응 기술을 소개했다. 현지 파트너와 고객 교육·기술 지원 협력을 확대하고 제품 공급 기반을 강화할 계획이다. 화이트디펜더는 악성코드의 시그니처 대신 파일 암호화 등 의심 행위를 분석해 랜섬웨어를 탐지·차단한다. 공격 원인 프로세스를...]]></description>
+		</item>
+		<item>
+			<title>구글 클라우드, 영국 서비스 장애…서울리전 정상 가동</title>
+			<link>https://www.etnews.com/20261020000420</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261020000420</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 20 Oct 2026 21:36:24 +0900</pubDate>
+			<description><![CDATA[구글 클라우드 영국리전에서 서비스 장애가 발생했다. 영국 내 금융·온라인 서비스 등에 차질이 빚어진 것으로 나타났다. 20일 구글 클라우드 공식 서비스 상태 페이지에 따르면 영국 런던 리전(europe-west2)에서 전력 공급 문제로 클라우드 서비스 장애가 발생했다. 장애는 한국시간으로 이날 오후 3시 8분께 시작됐으며 구글 클라우드는 문제 해결을 위한 서비스 복구 작업을 진행 중이다. 이번 장애로 구글 컴퓨트 엔진, 구글 쿠버네티스 엔진(G...]]></description>
+		</item>
 		<item>
 			<title>한림대, &apos;KELI 얼라이언스&apos; 공식 출범…AI 교육 공동 개발·활용 확대</title>
 			<link>https://www.etnews.com/20261020000413</link>
@@ -242,33 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 20 Oct 2026 15:07:44 +0900</pubDate>
 			<description><![CDATA[한국인터넷진흥원(KISA)은 아시아·아프리카·중남미 정부 고위급 인사들과 사이버보안 정책 및 기술 협력 확대 방안을 논의했다고 20일 밝혔다. 이번 방문은 19~22일 서울에서 열리는 '글로벌 인공지능 및 디지털 서밋 2026'을 계기로 이뤄졌다. 이번 서밋은 세계은행과 한국 정부가 공동 개최하는 고위급 국제회의로, 인공지능(AI)과 디지털 기술을 활용한 개발도상국의 경제 성장과 일자리 창출 방안을 논의한다. 이를 계기로 모잠비크, 코스타리카,...]]></description>
-		</item>
-		<item>
-			<title>中 해커, AI로 1139건 대량 공격…건당 5달러·성공률 10%</title>
-			<link>https://www.etnews.com/20261020000300</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000300</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 15:05:54 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 에이전트를 활용한 사이버공격이 건당 평균 5달러의 이용 비용으로 약 10%의 성공률을 보이는 것으로 나타났다. 모의해킹이 아닌 실제 공격을 역추적 분석한 결과로 AI를 활용한 저비용 대량 해킹이 현실화했음을 보여준다. 미국 사이버보안 기업 노르포지(Norforge)는 19일(현지시간) 해커들이 사용하던 AI 기반 공격 도구 '케언(Cairn)'의 관리 패널 20여개를 추적해 분석한 결과를 공개했다. 노르포지는 공격 기록을 토대로...]]></description>
-		</item>
-		<item>
-			<title>가온아이, 국방사업부 신설…“군 AI·클라우드 사업 본격화”</title>
-			<link>https://www.etnews.com/20261020000295</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000295</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 14:59:51 +0900</pubDate>
-			<description><![CDATA[가온아이가 국방 분야 전담 조직인 국방사업부를 신설했다. 군 대상 인공지능(AI)과 클라우드 사업 확대를 위해서다. 국방 분야 전문가도 영입했다. 가온아이는 최근 국방 분야에서 지휘통제체계, 훈련·시뮬레이션, 문서·기록 관리 등 개별적으로 운영되던 시스템들을 AI 및 클라우드 기술과 결합하려는 흐름이 확산하고 있어 국방사업부를 신설했다고 20일 밝혔다. 회사는 국방 시스템통합(SI)과 군 핵심 지휘통제체계(C4I) 분야에서 각각 30년, 20년...]]></description>
-		</item>
-		<item>
-			<title>NC AI, 사운드·3D 제작 AI 서비스 &apos;바르코&apos; 구독 혜택 확대</title>
-			<link>https://www.etnews.com/20261020000293</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000293</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 14:57:22 +0900</pubDate>
-			<description><![CDATA[NC AI는 인공지능(AI) 기반 3D 제작 서비스 '바르코 3D'와 사운드 제작 서비스 '바르코 사운드' 구독 혜택을 확대한다고 20일 밝혔다. 바르코 3D는 텍스트나 이미지를 입력하면 3D 애셋을 생성하는 AI 서비스다. 최대 4K 해상도 텍스처로 사물의 표면과 질감을 구현한다. 바르코 사운드는 텍스트·이미지·영상의 맥락을 분석해 효과음과 배경음 등을 생성한다. 소리를 개별 트랙으로 분리해 볼륨 조절과 교체·삭제도 가능하다. 상품 개편에 맞...]]></description>
 		</item>
 	</channel>
 </rss>
