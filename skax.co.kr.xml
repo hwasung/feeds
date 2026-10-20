@@ -4,7 +4,14 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Thu, 15 Oct 2026 18:01:38 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 18:01:36 +0900</lastBuildDate>
+		<item>
+			<title>늘어나는 AI 추론 비용과 데이터 규제에 대응하는 워크로드별 인프라 전략</title>
+			<link>https://www.skax.co.kr/insight/trend/3884/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3884/</guid>
+			<pubDate>Tue, 20 Oct 2026 14:42:30 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_AI-워크로드-인프라.png"/></figure>2026년 추론 지출이 학습 지출을 넘어서고, 기업의 95%가 규제 문제로 AI 프로젝트를 지연하거나 취소한 경험이 있다고 답했습니다. 학습과 추론, RAG를 하나의 환경에 몰아넣지 않으려면 무엇을 기준으로 나눠야 할까요?]]></description>
+		</item>
 		<item>
 			<title>Anthropic의 Central Library로 본 기업 AI의 조건, AI-Ready Data</title>
 			<link>https://www.skax.co.kr/insight/trend/3882/</link>
