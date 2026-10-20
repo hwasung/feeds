@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 21 Oct 2026 06:30:46 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 08:30:42 +0900</lastBuildDate>
+		<item>
+			<title>엘리스 상장 첫날 -32% 외신도 주목…“AI 투자 우려 증폭”</title>
+			<link>https://www.etnews.com/20261021000010</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261021000010</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 21 Oct 2026 08:01:02 +0900</pubDate>
+			<description><![CDATA[한국 인공지능(AI) 인프라 기업 엘리스 주가가 코스닥 상장 첫날 30% 넘게 폭락한 가운데 주요 외신들이 이를 글로벌 AI 투자 열풍에 대한 경고 신호로 해석하며 비중 있게 다뤘다. 한국 증시가 글로벌 AI 투자 열풍의 바로미터 중 하나로 여겨지는 상황에서 비교적 작은 기업의 상장 성적마저 세계 금융시장의 주요 관심사로 떠오른 것이다. 블룸버그통신은 20일(현지시간) 'AI 기업의 상장 참패, AI 투자 열풍 종말 우려 자극'이라는 제목의 기...]]></description>
+		</item>
+		<item>
+			<title>앤트로픽, 상반기 매출 1500% 급증에도 107조원 순손실</title>
+			<link>https://www.etnews.com/20261021000007</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261021000007</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 21 Oct 2026 07:48:21 +0900</pubDate>
+			<description><![CDATA[기업공개(IPO)가 임박한 앤트로픽이 올해 상반기 1500%의 매출 증가세를 보이고도 100조원 이상의 손실을 기록한 것으로 나타났다. 월스트리트저널은(WSJ)은 앤트로픽이 올해 상반기에 지난해 같은 기간 11억달러의 15배에 달하는 163억달러(약 21조6000억원)의 매출을 올렸다고 증권신고서(S-1)를 입수해 20일(현지시간) 보도했다. 그러나 이와 같은 기록적인 매출 성장 속에서도 앤트로픽은 같은 기간 807억달러(약 107조원)의 순손...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 기업을 빼앗지 않고 함께 키울 수 있나…중국 공동산업거점 배분 실험</title>
 			<link>https://www.etnews.com/20261015000384</link>
@@ -250,24 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 20 Oct 2026 15:23:22 +0900</pubDate>
 			<description><![CDATA[나루씨큐리티가 인공지능(AI)으로 웹 로그를 분석해 과거 침해 흔적부터 현재 진행 중인 공격, 향후 공격 가능성까지 평가하는 구독형 보안 서비스를 선보인다. 나루씨큐리티는 AI 기반 웹 침해평가 서비스 '제로티카(ZeroTiCA) 라이트 웹'을 출시한다고 20일 밝혔다. 기존 방화벽 로그 중심의 침해평가 기술을 웹 영역으로 확장한 것이다. 제로티카 라이트 웹은 기업의 웹 서버와 서비스에서 발생하는 대규모 로그를 AI로 분석해 공격 흔적과 이상...]]></description>
-		</item>
-		<item>
-			<title>세계 중소·중견기업 86% &apos;사이버 사고&apos; 경험…금전 피해도</title>
-			<link>https://www.etnews.com/20261020000314</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000314</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 15:17:58 +0900</pubDate>
-			<description><![CDATA[세계 중소·중견기업의 정보기술(IT)·보안 담당자 10명 중 8명 이상이 최근 1년간 사이버 사고를 경험한 것으로 나타났다. 금전적 손실은 물론 복구할 수 없는 데이터·자산 피해까지 발생해 기업 운영에 상당한 부담을 주고 있다는 분석이다. 카스퍼스키는 세계 18개국에서 실시한 '글로벌 중소·중견기업(SMB) 위협 현황' 조사 결과를 20일 발표했다. 조사에 참여한 직원 500명 미만 기업의 IT·보안 담당자 616명 가운데 86%는 최근 1년간...]]></description>
-		</item>
-		<item>
-			<title>KISA, 코스타리카·벨리즈 등과 사이버보안 협력 확대</title>
-			<link>https://www.etnews.com/20261020000304</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000304</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 15:07:44 +0900</pubDate>
-			<description><![CDATA[한국인터넷진흥원(KISA)은 아시아·아프리카·중남미 정부 고위급 인사들과 사이버보안 정책 및 기술 협력 확대 방안을 논의했다고 20일 밝혔다. 이번 방문은 19~22일 서울에서 열리는 '글로벌 인공지능 및 디지털 서밋 2026'을 계기로 이뤄졌다. 이번 서밋은 세계은행과 한국 정부가 공동 개최하는 고위급 국제회의로, 인공지능(AI)과 디지털 기술을 활용한 개발도상국의 경제 성장과 일자리 창출 방안을 논의한다. 이를 계기로 모잠비크, 코스타리카,...]]></description>
 		</item>
 	</channel>
 </rss>
