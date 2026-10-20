@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 20 Oct 2026 18:30:56 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 19:30:44 +0900</lastBuildDate>
+		<item>
+			<title>노타, 美  Arm 개발자 워크숍서 AI 최적화 기술 시연</title>
+			<link>https://www.etnews.com/20261020000386</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261020000386</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 20 Oct 2026 18:57:01 +0900</pubDate>
+			<description><![CDATA[노타가 미국 새너제이에서 열린 'Arm 크리에이트 2026' 워크숍에서 세계 각국 개발자들에 인공지능(AI) 최적화 플랫폼 '넷츠프레소' 기반 실습을 지원했다고 20일 밝혔다. 이번에 활용한 AI 모델 옵티마이저는 개발자가 AI 모델을 하드웨어(HW) 환경에 맞춰 최적화할 수 있도록 지원하는 도구다. Arm AI 포털 핵심 구성요소로, 노타 넷츠프레소 기술을 기반으로 구축됐다. 참가자들은 AI 모델 옵티마이저로 모델을 최적화하고 실행 결과를 확...]]></description>
+		</item>
+		<item>
+			<title>올트먼 오픈AI CEO, &apos;IAEA형 국제기구&apos; 등 AI 안전 3대 시나리오 제안</title>
+			<link>https://www.etnews.com/20261020000385</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261020000385</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 20 Oct 2026 18:54:54 +0900</pubDate>
+			<description><![CDATA[샘 올트먼 오픈AI 최고경영자(CEO)가 직원들에 인공지능(AI) 안전 관리를 위한 세 가지 방안을 제시한 것으로 나타났다. 국제원자력기구(IAEA)와 유사한 국제기구 설립 추진이 대표적이다. 19일(현지시간) 미국 IT 매체 디인포메이션 등 외신은 소식통들을 인용해 지난주 올트먼 CEO가 직원들에 AI 안전 확보를 위한 3개 시나리오를 설명했다고 보도했다. 먼저 IAEA처럼 AI 안전 기준을 수립하고 감독하는 국제기구를 설립하는 방안이다. 소...]]></description>
+		</item>
+		<item>
+			<title>국가AI전략위, 강원도 정책현장 방문…하정우 “AI 성과 일상·산업과 연결”</title>
+			<link>https://www.etnews.com/20261020000383</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261020000383</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 20 Oct 2026 18:30:31 +0900</pubDate>
+			<description><![CDATA[하정우 부위원장 등 국가인공지능전략위원회가 19~20일 강원특별자치도 내 인공지능(AI) 정책현장을 방문했다. '대한민국 대도약 3대 메가프로젝트'에 포함된 GS의 동해 AI 데이터센터 추진 상황을 점검하고 AI 기본의료, AI 교통, 청년 AI 인재 양성 등 '대한민국 AI행동계획' 주요 과제가 5극 3특 한 축인 강원도에서 어떻게 구현되고 있는지 직접 살피고, 현장의 생생한 목소리를 정책에 반영하기 위해 마련됐다. 하 부위원장은 첫 일정으로...]]></description>
+		</item>
 		<item>
 			<title>정보보호 공시 의무 확대…내년부터 모든 상장사 적용</title>
 			<link>https://www.etnews.com/20261020000376</link>
@@ -242,33 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 20 Oct 2026 14:56:43 +0900</pubDate>
 			<description><![CDATA[SAP코리아가 관리 체계가 따라가지 못해 투자 유치나 상장, 글로벌 진출에서 어려움을 겪는 중소·중견기업을 위한 지원 프로그램 'SAP NEXT 100'을 선보였다. 파트너사와 함께 성장 진단·도입 지원 패키지를 단계적으로 제공해, 성장 초기부터 디지털 기반을 갖추도록 돕는다. SAP코리아는 20일 서울 여의도 IFC 더 포럼에서 기자간담회를 열고 이 프로그램을 공개했다. 지원 대상은 NICE평가정보 기준 중소·중견기업 중 SAP 퍼블릭 클라우...]]></description>
-		</item>
-		<item>
-			<title>한국, 미국·중국·영국 등 6개국과 &apos;AI 준비도&apos; 최상위 평가</title>
-			<link>https://www.etnews.com/20261020000289</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000289</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 14:50:52 +0900</pubDate>
-			<description><![CDATA[한국이 글로벌 인공지능(AI) 성숙도 평가에서 미국·중국·영국 등과 함께 최상위그룹에 처음 진입했다. 독자 AI 모델 개발 역량과 컴퓨팅 인프라 확충을 위한 대규모 공공 투자가 주효했던 것으로 해석된다. 보스턴컨설팅그룹(BCG)은 20일 'AI 성숙도 매트릭스 2026' 보고서를 발표하고 우리나라와 일본을 최상위 그룹인 'AI 파이오니어'에 새롭게 포함했다고 밝혔다. BCG가 보고서를 작성한 지 2년 만의 성과다. AI 파이오니어는 AI 준비도...]]></description>
-		</item>
-		<item>
-			<title>대규모 공공 정보화사업 첫 실태조사 착수…200개 사업 현장 목소리 제도개선 근거로</title>
-			<link>https://www.etnews.com/20261020000285</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000285</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 14:44:28 +0900</pubDate>
-			<description><![CDATA[정부가 대규모 공공 정보화사업 전반에 대한 실태조사에 착수한다. 조사 규모는 최소 200개로 발주·사업수행·감리 등 사업 단계별 이해관계자의 목소리를 취합·분석해 제도 개선의 근거로 삼는다. 한국지능정보사회진흥원(NIA)은 20일 '대규모 정보화사업 실태분석 및 개선방안' 용역의 제안요청서를 사전 공개했다. 사업은 기획예산처와 과학기술정보통신부 등 관계 부처가 공공 정보화사업 제도 개선 필요성에 공감하면서 추진됐다. 사업비는 약 9000만원,...]]></description>
-		</item>
-		<item>
-			<title>아우토크립트, 테크브레이크스루 선정 &apos;올해의 자동차 사이버보안 기업&apos;</title>
-			<link>https://www.etnews.com/20261020000280</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000280</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 14:35:50 +0900</pubDate>
-			<description><![CDATA[아우토크립트(대표 이석우·김덕수)는 미국 시장조사 업체 테크브레이크스루(Tech Breakthrough)가 주관하는 어워즈에서 '올해의 자동차 사이버보안 기업'으로 선정됐다고 20일 밝혔다. 자동차 및 운송 산업 분야에서 선도적 기술을 선보인 기업을 선정하는 상에서 아우토크립트는 차량 생애주기 전반에 걸친 사이버보안 기술과 통합 엔지니어링 역량을 인정 받았다고 설명했다. 아우토크립트는 2020년과 2021년 '올해의 자동차 사이버보안 기업'에...]]></description>
 		</item>
 	</channel>
 </rss>
