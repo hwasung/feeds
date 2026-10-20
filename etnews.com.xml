@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 20 Oct 2026 19:30:44 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 21:30:38 +0900</lastBuildDate>
+		<item>
+			<title>한림대, &apos;KELI 얼라이언스&apos; 공식 출범…AI 교육 공동 개발·활용 확대</title>
+			<link>https://www.etnews.com/20261020000413</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261020000413</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 20 Oct 2026 20:33:51 +0900</pubDate>
+			<description><![CDATA[한림대학교가 대학과 기업, 연구기관이 인공지능(AI) 교육 서비스를 공동 개발하고 검증·활용하는 협력체계 구축에 나섰다. 한림대(총장 최양희)는 20일 서울 용산 서울드래곤시티 그랜드볼룸에서 '2026 KELI 국제 심포지엄 및 데모데이'를 개최하고 고등교육 AI 협력체인 '켈리 얼라이언스(KELI Alliance)'를 공식 출범시켰다고 밝혔다. 'AI로 연결하는 고등교육 혁신 생태계'를 주제로 열린 행사에는 국내외 대학과 에듀테크 기업, 공공...]]></description>
+		</item>
 		<item>
 			<title>노타, 美  Arm 개발자 워크숍서 AI 최적화 기술 시연</title>
 			<link>https://www.etnews.com/20261020000386</link>
@@ -260,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 20 Oct 2026 14:57:22 +0900</pubDate>
 			<description><![CDATA[NC AI는 인공지능(AI) 기반 3D 제작 서비스 '바르코 3D'와 사운드 제작 서비스 '바르코 사운드' 구독 혜택을 확대한다고 20일 밝혔다. 바르코 3D는 텍스트나 이미지를 입력하면 3D 애셋을 생성하는 AI 서비스다. 최대 4K 해상도 텍스처로 사물의 표면과 질감을 구현한다. 바르코 사운드는 텍스트·이미지·영상의 맥락을 분석해 효과음과 배경음 등을 생성한다. 소리를 개별 트랙으로 분리해 볼륨 조절과 교체·삭제도 가능하다. 상품 개편에 맞...]]></description>
-		</item>
-		<item>
-			<title>SAP코리아, 성장기업 지원 &apos;SAP NEXT 100&apos; 선보여…8개월간 진단부터 안정화까지</title>
-			<link>https://www.etnews.com/20261020000292</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261020000292</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 20 Oct 2026 14:56:43 +0900</pubDate>
-			<description><![CDATA[SAP코리아가 관리 체계가 따라가지 못해 투자 유치나 상장, 글로벌 진출에서 어려움을 겪는 중소·중견기업을 위한 지원 프로그램 'SAP NEXT 100'을 선보였다. 파트너사와 함께 성장 진단·도입 지원 패키지를 단계적으로 제공해, 성장 초기부터 디지털 기반을 갖추도록 돕는다. SAP코리아는 20일 서울 여의도 IFC 더 포럼에서 기자간담회를 열고 이 프로그램을 공개했다. 지원 대상은 NICE평가정보 기준 중소·중견기업 중 SAP 퍼블릭 클라우...]]></description>
 		</item>
 	</channel>
 </rss>
