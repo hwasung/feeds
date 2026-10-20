@@ -4,7 +4,48 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Tue, 20 Oct 2026 09:30:35 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2026 10:30:37 +0900</lastBuildDate>
+		<item>
+			<title>부산신항만·동국제강 등 한국 12곳… 자료 유출 여부 확인 안 돼</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8036</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8036</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Tue, 20 Oct 2026 10:07:00 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://securityfact.co.kr/data/tmp/2610/20261020100452_kpyfdnxg.jpg" alt="항만 물류 시스템을 배경으로 해운·항만 관련 자료 유출 우려를 시각화한 AI 생성 이미지. 그림=챗GPT.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">항만 물류 시스템을 배경으로 해운·항만 관련 자료 유출 우려를 시각화한 AI 생성 이미지. 그림=챗GPT</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 부산신항만과 동국제강을 비롯해 논(n0n)의 해킹 협박 명단에 오른 한국 기업·기관 12곳의 자료가 실제 공개됐는지는 아직 확인되지 않았다. 협박 조직 논(n0n)이 부산신항만·동국제강 등 한국 기업·기관 12곳을 명단에 올리고 제시한 자료 공개 시한 19일 밤이 지났다. 그러나 20일 오전까지 공개적으로 확인한 자료에서는 해당 명단의 파일 공개나 당사자의 데이터 유출 확인을 찾지 못했다. 사이버 위협정보 업체 소크레이더(SOCRadar)의 추적 기록에서도 부산신항만과 동국제강 게시물은 침해가 확인된 상태가 아니라 논의 ‘주장(Claimed)’으로 분류돼 있다.</p>
+<p>
+   <br />
+</p>
+<p>논은 지난 12일 18개국의 해운·항만·물류 관련 기관 38곳을 다크웹 유출 사이트에 올렸다. 안랩 시큐리티 인텔리전스 센터(ASEC)는 한국 항만·물류 관련 기업 12곳이 명단에 포함됐다고 집계했다. 부산신항만, 비엔씨티(BNCT), MGNP, GNCNet/DGT Busan, 폴라리스쉬핑, 동아탱커, 삼주마리타임, 고려훼리, 새한마린, 유수로지스틱스, BKH ICD, 동국제강 등이다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>해외 명단에는 오션 네트워크 익스프레스(ONE), CULines, T.S. Lines와 부산신항만 등이 포함됐다. 중국 크레인 제조업체 ZPMC와 동국제강처럼 해운사나 항만 운영사가 아닌 기업도 이름을 올렸다. 논이 대부분의 게시물에 제시한 공개 시한은 19일 오후 1시 27분(UTC), 한국시간 밤 10시 27분이었다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>이번 사건은 현재까지 자료 공개를 내건 협박으로 확인되고 있다. 더 마리타임 이그제큐티브(The Maritime Executive)는 SOCRadar 분석을 인용해 논이 피해자 시스템을 전통적인 방식으로 암호화하기보다 관리자 도구를 활용해 데이터를 다루는 것으로 보인다고 전했다. 해운·항만 운영 중단이 확인됐다는 발표는 공개 자료에서 찾지 못했다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>논이 이전에 시한 압박을 실제 공개로 이어간 사례는 있다. 사이돔(Cydome)은 논이 10월 13일 일부 익명 게시물의 시한이 지난 뒤 몇 시간 안에 피해자 이름으로 바꾼 사례를 전했다. SOCRadar도 기존 피해자 가운데 Chibitek의 자료가 유출된 것으로 추적했다. 다만 이 전례만으로 이번 한국 기업·기관의 자료가 공개됐다고 볼 수는 없다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>사이버로지텍(CyberLogitec)과 관련한 의혹도 제기돼 있다. 사이돔은 명단에 오른 기관 가운데 최소 21곳이 사이버로지텍의 고객사이며, 논이 게시한 샘플 파일명에도 관련 업체명과 제품명이 나타난다고 분석했다. 사이돔은 고객 지원·프로젝트 자료가 한 환경에서 노출됐을 가능성을 제시했지만, 접근된 시스템과 유출 범위는 확인하지 못했다고 밝혔다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>따라서 현재 확인된 것은 한국 기업·기관 12곳을 포함한 38개 기관의 명단 게시와 논의 자료 공개 협박이다. 한국 대상 자료의 실제 공개 여부와 출처·진위는 아직 확인되지 않았다.</p>]]></description>
+		</item>
 		<item>
 			<title>RTX·록히드마틴 재블린 합작사, 미군과 발사 장치 계약</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8035</link>
@@ -142,31 +183,46 @@
 			<category>20171121074254_1125</category>
 			<pubDate>Mon, 19 Oct 2026 12:15:02 +0900</pubDate>
 			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261019121328_medbnbfu.jpg" alt="그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://securityfact.co.kr/data/tmp/2610/20261019121328_medbnbfu.jpg" alt="그림=이미지크리에이터.jpg" style="width: 720px; height: 480px;" />
       <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">그림=이미지크리에이터</figcaption>
-      </figure>
+   </figure>
    </div>
 <p>&nbsp;</p>
 <p>[시큐리티팩트=최미옥 기자] 세계 해운·항만·물류 관련 38개 기관의 데이터를 탈취했다고 주장한 협박 조직 n0n이 제시한 공개 시한이 19일 밤 도래한다. 명단에는 한국 기업·기관 12곳도 포함됐다. 대부분의 게시물에 적힌 시각은 19일 오후 1시 27분(UTC), 한국시간으로 밤 10시 27분이다. 다만 한 곳은 8분 이른 오후 1시 19분(UTC)으로 설정돼 있다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>19일 오전 현재 해당 기업들이 침해나 데이터 유출을 공식 확인한 사례는 공개적으로 알려지지 않았다. 따라서 이번 사건은 확인된 해킹 피해가 아니라, n0n이 데이터를 보유했다고 주장하며 공개를 예고한 협박 사건으로 봐야 한다.</p>
 <h3>18개국&nbsp; 해운·항만·물류 관련 기관 38곳 포함</h3>
 <p>n0n은 10월 12일 18개국의 해운·항만·물류 관련 기관 38곳을 다크웹 유출 사이트에 올렸다. 명단에는 오션 네트워크 익스프레스(ONE), CULines, T.S. Lines와 부산신항만(Pusan Newport Company), BNCT 등이 포함됐다. 중국 크레인 제조업체 ZPMC와 동국제강처럼 해운·항만 운영사 외의 관련 기업도 이름을 올렸다. 안랩 시큐리티 인텔리전스 센터(ASEC)는 한국 항만·물류 관련 기업 12곳이 공격 대상 명단에 포함됐다고 전했다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>이번 사건을 ‘랜섬웨어 공격’이라고 부르는 보도도 있지만, 현재까지 확인된 것은 데이터 공개를 내건 협박이다. 해운 전문 매체인 더 마리타임 이그제큐티브(The Maritime Executive)는 보안업체 SOCRadar의 분석을 인용해 n0n이 전통적인 방식으로 피해자 시스템을 암호화하기보다 관리자 도구를 활용해 데이터를 다루는 것으로 보인다고 전했다. 시스템 마비나 항만 운영 중단이 확인됐다는 뜻은 아니다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>n0n은 이전에도 공개 시한을 압박 수단으로 사용했다. 사이버 보안업체 사이돔(Cydome)은 n0n이 10월 13일 일부 익명 게시물을 시한이 지난 뒤 몇 시간 안에 실제 피해자 이름으로 바꾼 사례가 있다고 전했다. 이에 따라 이번 시한도 실제 공개로 이어질지는 지켜봐야 하지만, 단순한 예고로 치부하기 어렵다는 평가가 나온다.&nbsp;</p>
 <h3>한국 해운 IT업체와 자료 연관성 제기</h3>
 <p>사이돔은 이번 자료가 서울에 본사를 둔 한국 해운·물류 소프트웨어 업체 사이버로지텍(CyberLogitec)과 관련됐을 가능성을 제기했다. 공개적으로 확인되는 고객 관계와 n0n이 게시한 샘플 파일을 분석한 결과, 명단에 오른 기관 중 최소 21곳이 사이버로지텍의 고객인 것으로 파악했다는 설명이다. 사이버로지텍은 유수홀딩스(EUSU Holdings) 계열사다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>사이돔은 유출 자료가 여러 기업을 고객으로 둔 하나의 지원·프로젝트 자료 저장소에서 나왔을 가능성을 제시했다. 이 가설이 맞다면 38개 기업의 내부망이 각각 뚫렸다기보다, 한 업체의 자료나 공유 환경에서 고객 관련 정보가 함께 노출됐을 수 있다는 의미다. 그러나 사이돔은 어떤 시스템에 접근했는지, 실제 자료가 얼마나 유출됐는지는 확인하지 못했다고 밝혔다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>사이돔이 검토한 샘플에는 계정 정보와 비밀번호, 개인정보, 전자문서교환(EDI) 자료, 시스템 문서가 포함됐을 가능성이 제기됐다. 파일 날짜는 2009년부터 2026년 8월까지로 일부는 오래된 자료일 수 있다. 다만 사이돔은 샘플의 진위를 인증할 수 없으며, 분석 내용은 모두 의혹으로 다뤄야 한다고 밝혔다.&nbsp;</p>
 <h3>자료 공개돼도 운영 피해와 구분해야</h3>
 <p>SOCRadar는 n0n이 보유했다고 주장한 자료 유형으로 EDI 메시지, 적하목록, 게이트 이동·장비 교환 기록, 터미널 시스템 구성 자료 등을 들었다. 자료 유형이 업무 정보에 집중됐다는 점은 공통 애플리케이션이나 시스템을 통한 노출 가능성을 제기하는 근거 중 하나지만, 이것만으로 침해 경로나 원인을 확정할 수는 없다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>현재까지 공개된 보도에는 선박 운항, 크레인, 터미널 장비 등 운영기술(OT)이 공격받았거나 항만 운영에 차질이 생겼다는 확인된 내용이 없다. 관련 보도는 데이터 탈취와 공개 협박에 초점을 두고 있다. 자료가 실제로 공개되더라도 진위와 작성 시점, 개인정보 포함 여부를 따져야 하며, 데이터 유출 의혹을 운영 중단 피해로 확대 해석해서는 안 된다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>시한 이후 확인할 핵심은 n0n이 실제 자료를 공개하는지, 공개 자료가 어느 기관에서 나온 것인지, 당사자와 관계 기관이 이를 확인하는지다. 한국 기업·기관이 다수 포함된 만큼, 이번 사건은 개별 기업의 침해 여부뿐 아니라 해운·항만 업무를 연결하는 소프트웨어와 협력업체 환경이 공급망 전체에 미칠 수 있는 위험도 드러내고 있다.</p>]]></description>
 		</item>
 		<item>
@@ -1541,57 +1597,6 @@
 <p>이와 함께 프랑스와 우크라이나는 주요 정밀 무기 체계의 '현지 생산 라이선스 승인 절차(Licensing process)'에 착수했다. 승인 대상에는 AASM 정밀유도 자공폭탄, 아스터 30 방공 미사일, 스칼프/스톰 섀도우(SCALP/Storm Shadow) 공대지 순항 미사일이 포함되어 있어 우크라이나는 단순 무기 수입국에서 유럽 방산 생산 거점으로 전환하는 기반을 마련했다.</p>
 <p><br /></p>
 <p>보트랭 장관은 "우크라이나를 지원하는 것이 곧 유럽 전체의 안보를 방어하는 길임을 명확히 인지하고 있다"고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>네덜란드 인텔릭, AI 방공 플랫폼 ‘넥서스’ 우크라 전선 배치… “700여 드론 통합 지휘”</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8006</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8006</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>뉴테크</category>
-			<category>20250407121910_3900</category>
-			<pubDate>Mon, 12 Oct 2026 12:12:52 +0900</pubDate>
-			<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2610/20261012121035_pkhzyczx.jpg" alt="20261012 네덜란드 인텔릭.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">네덜란드 방산 기업 인텔릭(Intelic)이 AI 기반 '넥서스(Nexus)' 시스템의 명령 제어 테스트를 진행하고 있는 가운데 한 엔지니어가 요격 드론을 들고 있다. /사진=로이터</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>[시큐리티팩트=강태임 기자] 네덜란드 대표 방산 소프트웨어 기업이 네덜란드 국방부의 투자를 바탕으로 인공지능(AI) 기반 드론 요격 시스템을 개발해 우크라이나 전선에 실전 배치하며 지휘통제 체계 혁신을 이끌고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://framerusercontent.com/images/lLjrBgOa9efZ2X3RO0VG6orMA.png?width=1448&amp;height=1086" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">네덜란드 국방부는 인텔릭社에 3천만 유로 이상을 투자하기로 했다./사진=인텔릭</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>로이터 통신 등 외신에 따르면 네덜란드 암스테르담에 본사를 둔 소프트웨어 전문 기업 '인텔릭(Intelic, 구 아발로 AI)'은 최근 네덜란드 북해 연안의 폐쇄된 공군기지에서 '제트 추진 고속 드론 요격' 및 '타사 레이더·정찰드론·고속요격드론을 단일 제어판으로 통합 자동화하는 최신 기능'을 검증하는 시연 테스트를 진행했다.</p>
-<p><br /></p>
-<p>이번 시험에서 인텔릭의 AI 방공 플랫폼 '넥서스(Nexus)'는 타사 레이더와 감지기, 카메라 등 다종의 센서가 수집한 데이터를 AI로 통합 분석해 가상 적기를 식별했다. 이어 정찰 드론이 이미지 인식 기술로 해당 표적이 적 드론임을 최종 확인한 후 고속 요격 드론을 발사해 성공적으로 제압했다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://framerusercontent.com/images/hWJz41XohBpieaWDv0givYakgw.png?width=3420&amp;height=1908" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">인텔릭과 유럽 협력사들이 단일 지휘통제 플랫폼을 통해 다가오는 드론 위협을 탐지·식별하고 즉각 대응하는 시연에 성공했다./사진=인텔릭</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p>인텔릭의 '넥서스' 기본 지휘통제(C2) 플랫폼은 이미 2024년 11월 우크라이나 당국과 첫 실전 상용 계약을 체결한 이후 전선에 도입되기 시작했다. 이어 2025년 5월 키이우 현지 사무소를 개소하고 우크라이나 군 전장관리시스템인 '델타(Delta)'와 연동하여 서로 다른 제조사의 드론·센서를 하나의 시스템으로 통합하는 지휘통제 라이선스를 공급하며 실전 운용을 지원해 왔다.</p>
-<p><br /></p>
-<p>이처럼 이미 전선에서 검증받은 넥서스 시스템은 우크라이나군 전장관리시스템인 '델타(Delta)'를 보완하며 핵심적 역할을 수행 중이다. 또한 드론 무기체계의 빠른 기술 발전으로 인해 하드웨어가 쉽게 노후화되는 한계를 소프트웨어 업데이트를 통해 극복하고 신규 무기 체계를 신속하게 연동할 수 있는 유연성을 제공한다.</p>
-<p><br /></p>
-<p>모리츠 코르탈스 알테스(Maurits Korthals Altes) 인텔릭 최고경영자(CEO)는 "비행 중인 표적을 고속으로 타격하기 위해 드론 자체에 AI를 탑재하는 방식 외에도 현장 지휘관의 의사결정을 지원하는 AI가 매우 중요하다"며 "제트 추진 드론처럼 초고속으로 침투하는 위협에 대응할 때는 인간이 수동으로 제어하기 어렵기 때문에 한층 고도화된 자율 시스템이 필수적"이라고 강조했다.</p>
-<p><br /></p>
-<p>유럽 방산 시장에는 현재 700개 이상의 드론 제조업체가 존재하지만 제조사마다 제어 방식과 화면이 달라 전장에서 이들 플랫폼 간 상호운용성을 확보하는 데 어려움을 겪어왔다. 우크라이나 여단들 역시 서로 다른 업체에서 제작한 드론을 각각 운용해야 하는 불편함이 있었다.</p>
-<p><br /></p>
-<p>인텔릭의 아니카 켐프터(Anika Kempter) 수석 소프트웨어 엔지니어는 "넥서스는 서로 다른 제조사의 드론과 센서를 단일 지휘통제 화면에 통합·연결하는 '연결 조직(Connecting Tissue)' 역할을 한다"며 "기존 메신저나 전화 통화에 의존하던 의사결정 체계를 자동화 시스템으로 대체함으로써 드론 포착부터 요격까지 걸리는 시간을 분 단위로 단축해 생존율을 크게 높일 수 있다"고 설명했다.</p>
-<p><br /></p>
-<p>앞으로 인텔릭의 넥서스 플랫폼은 대규모 실전 데이터 수집 및 후속 통합 작업의 성능 검증 결과에 따라 유럽 방공망 통합 표준 적용 여부가 최종 결정될 전망이다. 특히 고가의 전통적 지대공 미사일 소모를 줄이고 샤헤드 등 대량 드론 공격에 대응하는 비용 효율적 대안으로 주목받고 있다. 다만 근본적인 레이더 자산 및 요격체 절대량 부족을 대체하기에는 한계가 있다는 군사 전문가들의 평가도 함께 제기되고 있다.</p>
-<p><br /></p>
-<p>한편 독일 키일 세계경제연구소(Kiel Institute)에 따르면 유럽 국가들의 대(對)우크라이나 드론 지원은 2022년 4억 유로(약 6015억 원)에서 2025년 12억 유로(약 1조 8045억 원)로 급증했다. 2026년 들어서 처음 4개월 동안 16억 유로(약 2조 4060억 원)를 기록했다. 네덜란드 정부는 2022년 이후 우크라이나 드론 프로그램에만 약 14억 유로(약 2조 1053억 원)를 투입했으며 총 125억 유로(약 18조 7973억 원) 규모의 군사 지원을 통해 약 100만 대의 드론을 제공하는 등 유럽 내 드론 지원을 선도하고 있다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
