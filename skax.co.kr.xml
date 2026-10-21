@@ -4,7 +4,35 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Tue, 20 Oct 2026 18:01:36 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 18:02:12 +0900</lastBuildDate>
+		<item>
+			<title>[리포트 다운로드] AI 규제 원년, ISO 42001 기반 인공지능 경영시스템(AIMS) 구축 | 10월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3900/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3900/</guid>
+			<pubDate>Wed, 21 Oct 2026 10:15:19 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/4.-CS-썸네일600x400.png"/></figure>한국 AI 기본법과 EU AI Act가 전면 시행되면서, AI 시스템 하나에도 여러 법규가 동시에 적용되는 복합 규제 환경이 열렸습니다. 부서별로 흩어진 통제를 하나의 체계로 묶으려면 무엇부터 세워야 할까요?]]></description>
+		</item>
+		<item>
+			<title>[리포트 다운로드] AI 시대의 Market Intelligence: 정보 수집을 넘어 상시 의사결정 지원 체계로 | 10월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3898/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3898/</guid>
+			<pubDate>Wed, 21 Oct 2026 09:55:21 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/3.-IPT_썸네일600x400.png"/></figure>불확실성이 상시화된 경영환경에서, 정해진 주제를 정기 보고로 정리하는 MI는 이미 알려진 변화만 따라갑니다. 정보를 모으는 MI를 의사결정을 움직이는 MI로 바꾸려면 어떤 구조가 필요할까요?]]></description>
+		</item>
+		<item>
+			<title>[리포트 다운로드] sLLM 확산 시대, 기업의 시스템 개발구축환경은 어떻게 달라지고 있는가 | 10월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3896/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3896/</guid>
+			<pubDate>Wed, 21 Oct 2026 09:44:42 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/2.-AI-썸네일600x400.png"/></figure>AI가 코드를 쓰고 사람이 검수하는 시대에도 성과는 평등하지 않습니다. 같은 모델을 내려받아도 격차가 벌어지는 이유는 모델이 아니라, 자사의 표준과 수십 년의 암묵지를 AI가 읽을 수 있는 자산으로 정비했는지에 있습니다.]]></description>
+		</item>
+		<item>
+			<title>[리포트 다운로드] AI 도입 이후의 과제: AI Platform Operations로 전환하는 기업 AI 운영 전략 | 10월 MI리포트</title>
+			<link>https://www.skax.co.kr/insight/trend/3894/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3894/</guid>
+			<pubDate>Wed, 21 Oct 2026 09:29:43 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/1.-AI_썸네일600x400.png"/></figure>인프라에 장애가 없어도 답변이 업무 기준을 벗어나고, 멈춘 곳이 없어도 토큰 비용은 급증합니다. PoC를 넘어 AI를 전사로 확산하려면 무엇을 운영 대상으로 삼고 어떤 지표로 판단해야 할까요?]]></description>
+		</item>
 		<item>
 			<title>늘어나는 AI 추론 비용과 데이터 규제에 대응하는 워크로드별 인프라 전략</title>
 			<link>https://www.skax.co.kr/insight/trend/3884/</link>
