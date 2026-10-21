@@ -4,7 +4,65 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Wed, 21 Oct 2026 10:30:36 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 13:30:33 +0900</lastBuildDate>
+		<item>
+			<title>러시아 해킹그룹, NATO 회원국 조선업체 침입… 내부망 접근 시도</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8042</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8042</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Wed, 21 Oct 2026 12:46:43 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261021124131_uzfvmhga.jpg" alt="독일 TKMS 조선소. 이번 APT28 공격의 피해 업체와 TKMS의 관련성은 확인되지 않았다. 출처=TKMS.jpg" style="width: 720px; height: 480px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">독일 TKMS 조선소. 이번 APT28 공격의 피해 업체와 TKMS의 관련성은 확인되지 않았다. 출처=TKMS</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 러시아 해킹그룹 APT28이 유럽의 NATO 회원국 2곳에서 해군 조선업체와 군용 항공기 엔진 제조사, 법 집행기관을 겨냥한 사이버 첩보 활동을 벌인 것으로 조사됐다.&nbsp;</p>
+<p><br /></p>
+<p>시만텍은 20일(현지시각) 공개한 보고서에서 조선업체 직원이 악성 워드 문서를 연 뒤 해커들이 해당 컴퓨터에 침입해 내부망에 접근할 통로를 만들려 한 정황을 공개했다.</p>
+<p><br /></p>
+<p>세 기관과 두 국가의 이름은 공개되지 않았다. 세 표적 가운데 조선업체에서 확인된 침입 과정은 자세히 공개됐지만, 공격자가 민감한 자료를 실제로 훔쳤는지는 확인되지 않았다.</p>
+<h3>악성 워드 문서가 해킹의 출발점</h3>
+<p>시만텍에 따르면 조선업체에서 첫 감염이 확인된 날은 2026년 7월 24일이다. 사용자가 이메일에 첨부된 워드 문서를 열자 컴퓨터에 '후크엣지(Hookedge)'라는 악성코드가 설치됐다. 후크엣지는 해커가 감염된 컴퓨터에 원격으로 명령을 보내고, 실행 결과를 받아볼 수 있게 하는 일종의 뒷문 프로그램이다.</p>
+<p><br /></p>
+<p>문서에는 매크로라는 자동 실행 기능이 악용됐다. 매크로 코드를 잘게 나눠 숨겼다가 실행될 때 다시 조합하는 방식으로 보안 프로그램의 탐지를 피하려 한 것으로 분석됐다. 문서가 열리자 컴퓨터 안에 후크엣지를 작동시키는 여러 파일이 만들어졌다. 그중 하나는 VBS 형식의 시작용 스크립트였다. VBS는 윈도우에서 간단한 명령을 실행하는 스크립트 형식이다.&nbsp;</p>
+<p><br /></p>
+<p>후크엣지는 해커의 지시를 받기 위해 '웹훅 사이트(webhook.site)'를 이용했다. 이 사이트는 원래 개발자가 인터넷으로 오가는 요청을 시험할 때 쓰는 정상적인 서비스다. 해커들은 이곳에 명령을 올리고 감염된 컴퓨터에서 나온 결과를 받는 통로로 악용했다.</p>
+<p><br /></p>
+<p>악성코드는 마이크로소프트 엣지를 화면 바깥의 아주 작은 창으로 실행해 이 사이트와 통신했다. 컴퓨터 사용자가 브라우저 창을 알아채기 어려운 방식이다. 이후 감염된 컴퓨터의 사용자와 인터넷 설정, 실행 중인 프로그램, 문서 폴더 등을 살폈다. 드롭박스, 구글, 마이크로소프트, 메가 같은 서비스에 접속할 수 있는지도 확인했다. 이는 외부와 통신할 수 있는 경로를 살핀 것으로 보이지만, 이 단계만으로 자료가 유출됐다고 볼 수는 없다.&nbsp;</p>
+<h3>감염된 컴퓨터 거쳐 내부망 접근 시도</h3>
+<p>7월 27일부터 해커들은 웹훅 사이트 대신 자신들이 관리하는 인터넷 주소를 후속 통신에 사용했다. 공격자는 감염된 컴퓨터에 자신의 접속용 열쇠 파일을 넣고, 그 컴퓨터를 거쳐 회사 내부망 쪽으로 연결되는 통로를 만들었다. 보안 보고서에서 이를 SSH 터널이라고 부른다. 쉽게 말해 해커가 감염된 컴퓨터를 발판 삼아 회사 안쪽으로 들어갈 수 있도록 만든 우회 통로다.</p>
+<p><br /></p>
+<p>시만텍은 공격자가 터널을 만든 다음 날인 7월 28일 `ssh.exe`라는 연결 프로그램을 강제로 종료한 사실도 확인했다. 따라서 터널이 구축된 것은 맞지만, 오랫동안 계속 열려 있었다고 단정할 수는 없다. 공격자는 그 사이 내부 컴퓨터의 이름을 조회하는 등 네트워크를 살폈다.&nbsp;</p>
+<p><br /></p>
+<p>공격자는 파워셸(PowerShell)이라는 윈도우 명령·관리 도구도 이용했다. 짧은 스크립트를 실행해 감염된 컴퓨터 안에 임시 서버를 만들고, 컴퓨터가 스스로 로그인 인증을 하도록 유도했다. 이때 NTLM 인증 응답이라는 로그인 확인 정보가 포착되도록 스크립트가 짜여 있었다. NTLM은 윈도우에서 사용자 신원을 확인하는 방식으로, 인증 응답은 비밀번호 그 자체는 아니다. 해커가 이를 확보하면 비밀번호를 추측하거나 다른 시스템에 로그인을 시도하는 데 이용할 가능성이 있다.</p>
+<p><br /></p>
+<p>시만텍은 스크립트가 인증 시도를 최대 네 차례까지 받도록 설정된 사실을 확인했다. 그러나 응답이 실제로 수집됐는지, 이를 이용해 다른 계정이나 컴퓨터에 접근했는지는 밝혀지지 않았다.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261021124313_yzvzikda.jpg" alt="러시아 해킹그룹의 사이버 공격 분석 이미지. 출처=시만텍.jpg" style="width: 720px; height: 472px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">러시아 해킹그룹의 사이버 공격 분석 이미지. 출처=시만텍</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>메모리에서 실행하는 새 도구 발견</h3>
+<p>시만텍은 'ld.exe'라는 새 도구도 발견했다. 보안 분석에서는 이런 도구를 리플렉티브 로더라고 부른다. 쉽게 말해 다른 악성 파일을 풀어 컴퓨터의 작업 공간인 메모리에서 실행시키는 프로그램이다. 일반 파일처럼 완전히 풀린 악성코드를 저장장치에 남기지 않고 실행할 수 있어 분석과 탐지가 어려워질 수 있다.</p>
+<p><br /></p>
+<p>이 도구는 'Events.dat'라는 암호화된 파일과 이를 풀기 위한 열쇠를 함께 받아 작동했다. 여기서 복호화는 열쇠를 이용해 잠겨 있는 파일의 내용을 푸는 것을 뜻한다. 시만텍은 ld.exe가 7월 30일 오후 이미 컴퓨터에 들어와 있었고, 7월 31일 오전 이름이 바뀐 뒤 실행된 것으로 파악했다.</p>
+<p><br /></p>
+<p>시만텍은 도구의 작동 방식과 복호화 열쇠는 확인했지만, 실제로 실행될 다음 단계의 악성 파일인 페이로드(payload)는 확보하지 못했다. 따라서 그 파일이 어떤 기능을 했는지는 알 수 없다.&nbsp;</p>
+<p><br /></p>
+<p>후크엣지 실행 스크립트와 새 도구는 8월 말에도 해당 컴퓨터에서 확인됐고, 관련 스크립트는 9월 24일 다시 관찰됐다. 다만 이 흔적만으로 해커가 두 달 내내 해당 컴퓨터를 직접 조작했거나 회사 내부망을 계속 장악했다고 단정할 수는 없다.&nbsp;</p>
+<h3>루마니아·스페인·튀르키예 정부·기관 겨냥도</h3>
+<p>후크엣지는 이번에 처음 발견된 악성코드는 아니다. 레코디드 퓨처(Recorded Future)의 인식트 그룹은 2026년 8월 27일 후크엣지를 처음 공개적으로 분석했다. 이들의 보고서는 2025년 9월 말부터 2026년 4월 초까지 루마니아·스페인·튀르키예의 정부·외교기관을 겨냥한 활동을 다뤘다.</p>
+<p><br /></p>
+<p>레코디드 퓨처는 후크엣지와 APT28이 과거 사용한 '헤드레이스(HEADLACE)'라는 악성코드 사이에 코드와 작동 방식의 유사성이 있다고 밝혔다. 이를 포함한 여러 근거를 바탕으로 해당 활동이 블루델타(BlueDelta)의 소행일 가능성을 중간 수준의 확신으로 평가했다. 블루델타는 레코디드 퓨처가 APT28과 겹치는 활동을 추적할 때 쓰는 이름이다. 시만텍은 이번 보고에서 후크엣지와 관련된 방산·법 집행기관 표적 및 조선업체 침입 후 활동을 새로 공개했다. 다만 앞서 보고된 세 나라의 피해 기관과 이번 표적 기관이 같은 곳이라는 뜻은 아니다.&nbsp;</p>
+<p><br /></p>
+<p>시만텍은 조선·항공 엔진 제조와 법 집행 분야를 함께 겨냥한 점이 유럽의 정부·방위 관련 정보를 수집하려는 활동과 부합한다고 분석했다. 하지만 해커들이 어떤 자료를 노렸는지, 실제로 정보를 빼냈는지는 확인되지 않았다. 현재 확인된 것은 조선업체 컴퓨터 침입과 내부망 접근 시도, 로그인 인증 정보를 얻으려 한 정황, 그리고 정체가 밝혀지지 않은 악성 파일 실행 도구의 사용이다.&nbsp;</p>]]></description>
+		</item>
 		<item>
 			<title>미국 &quot;한때 스스로가 지켜냈던 규범과 동맹을 버리고 있다&quot;...디펜스원 보도</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8041</link>
@@ -13,72 +71,46 @@
 			<category>국방안보</category>
 			<category>20140925141441_2377</category>
 			<pubDate>Wed, 21 Oct 2026 10:25:01 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<p style="text-align: center;">
-   <img src="https://www.securityfact.co.kr/data/tmp/2610/20261021101923_vvwngzsi.png" alt="20261021 카타르.png" style="width: 640px; height: 360px;" />
-</p>
-<p>
-   <br />
-</p>
-<p>
-   <br />
-</p>
+			<description><![CDATA[<p><br /></p>
+<p style="text-align: center;"><img src="https://www.securityfact.co.kr/data/tmp/2610/20261021101923_vvwngzsi.png" alt="20261021 카타르.png" style="width: 640px; height: 360px;" /></p>
+<p><br /></p>
+<p><br /></p>
 <p>[시큐리티팩트=강지현 기자] 새로운 군사 역량에 대한 접근성이 과거 어느 때보다 쉬워진 반면 오랜 기간 국제 질서를 유지해 온 국제 규범과 인도주의 법의 영향력은 급격히 약화되고 있다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>미 안보 전문 매체 디펜스원(Defense One)은 19일(현지시간)부터 21일까지 카타르 도하에서 수판 센터(Soufan Center)와 카타르 국제안보연구소(QIASS) 주최로 열린 '글로벌 안보 포럼(Global Security Forum)' 소식을 전하며 포럼에 참석한 세계 각국의 외교관과 안보 전문가, 구호 활동가들이 한목소리로 “미국이 제2차 세계대전 이후 스스로 구축하고 지켜왔던 규범과 동맹 체제를 스스로 무너뜨리고 있다”고 진단했다고 20일(현지시간) 보도했다.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 883px;">
-      <img src="https://cdn.defenseone.com/media/img/cd/2026/10/20/GettyImages_2240369625/860x394.jpg?1792540380" alt="Hamas members hand over some of the 20 Israeli hostages to International Committee of the Red Cross teams as part of a ceasefire and hostage-prisoner exchange agreement between Hamas and Israel on October 13, 2025 in Gaza." style="width: 100%; height: auto;" />
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://cdn.defenseone.com/media/img/cd/2026/10/20/GettyImages_2240369625/860x394.jpg?1792540380" alt="Hamas members hand over some of the 20 Israeli hostages to International Committee of the Red Cross teams as part of a ceasefire and hostage-prisoner exchange agreement between Hamas and Israel on October 13, 2025 in Gaza." style="width: 100%; height: auto;" />
       <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2025년 가자지구에서 활동중인 국제적십자 모습/아나톨루 게티이미지</figcaption>
-   </figure>
-</div>
+      </figure>
+   </div>
 <p>&nbsp;</p>
 <h3>"외교와 대화의 무력화"… 흔들리는 미 안보 우산에 중동·유럽 동맹 재검토</h3>
 <p>디펜스원에 따르면 피에르 크랜뷜(Pierre Krähenbühl) 국제적십자위원회(ICRC) 사무총장은 포럼에서 "오늘날 수많은 사례에서 분쟁이 최우선 해결책이 되고 있으며 외교와 대화는 정당성을 잃어가고 있다"고 지적했다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>특히 존 서워스(Sir John Sawers) 전 영국 해외정보국(MI6) 부장은 미국이 스스로 설계하고 막대한 이득을 누려온 규칙 기반 시스템에 대해 신뢰를 잃어가고 있다고 비판했다. 서워스 전 부장은 사우디아라비아, 카타르, 아랍에미리트(UAE) 등 걸프 국가들이 기존의 대미 안보 의존 정책을 재검토하고 있다며 "미국은 이들 국가의 안보 보증인이었으나 지난 6개월간 이들이 겪은 공격은 결국 미국이 시작한 이란과의 선택적 전쟁(war of choice)에 의해 촉발된 것"이라고 짚었다. 유럽의 재무장에 대해서도 "트럼프의 압박 때문이 아니라 러시아의 위협이 커진 반면 미국의 신뢰성이 예전만 못하기 때문"이라고 분석했다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>타레크 미트리(Tarek Mitri) 레바논 부총리는 "이스라엘의 사례처럼 공격적인 전쟁을 벌이는 국가에는 동맹이 필요하지 않다. 오늘날 세계에서 동맹은 주로 방어적 성격을 띠기 때문"이라며 방어적 동맹 체제의 무력화를 꼬집었다.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 883px;">
-      <img src="https://www.qatarliving.com/_next/image?url=https%3A%2F%2Fcdn-content.qatarliving.com%2Farticles%2Ffeatured%2F1792464241709-f9142f14-727c-46aa-92fb-5fb64f605ab4.png&amp;w=1366&amp;q=80" alt="Deputy Prime Minister and Minister of State for Defense Affairs: Qatar Continues to Strengthen Defence Capabilities While Upholding Mediation and Dialogue" style="width: 100%; height: auto;" />
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.qatarliving.com/_next/image?url=https%3A%2F%2Fcdn-content.qatarliving.com%2Farticles%2Ffeatured%2F1792464241709-f9142f14-727c-46aa-92fb-5fb64f605ab4.png&amp;w=1366&amp;q=80" alt="Deputy Prime Minister and Minister of State for Defense Affairs: Qatar Continues to Strengthen Defence Capabilities While Upholding Mediation and Dialogue" style="width: 100%; height: auto;" />
       <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">글로벌 안보 포럼에서 발언하는 셰이크 사우드 빈 압둘라만 알 타니 카타르 부총리 겸 국방장관/출처=카타르 리빙(Qatar Living)</figcaption>
-   </figure>
-</div>
+      </figure>
+   </div>
 <p>&nbsp;</p>
 <p>개최국인 카타르 역시 중재자 역할이 더 이상 안보를 담보하지 못함을 경험했다. 셰이크 사우드 빈 압둘라만 알 타니 카타르 부총리 겸 국방장관은 "2025년 이스라엘의 공격에 이어 6개월 뒤 이란의 공격을 받았다"며 "중재자가 공격받은 것은 사상 처음 있는 일"이라고 토로했다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>톰 바랙(Tom Barrack) 미 시리아·이라크 특사는 휴전과 호르무즈 해협 재개통 등 외교적 해결책을 제시하면서도 단기 타결 가능성에는 선을 그었다. 닉 워너(Nick Warner) 전 호주 국가정보국(ONI) 국장은 "이란과의 전쟁이 어떻게 끝날 것인가에 대한 답은 '끝나지 않는다'는 것"이라며 장기적 혼란을 전망했다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <h3>한미 간 미묘한 신경전… ‘전략적 자율성’ 확보 시급해진 한국</h3>
 <p>이러한 글로벌 동맹 구도의 균열은 비단 중동과 유럽만의 문제가 아니다. 최근 한미 관계 역시 방위비 분담금 증액 요구, 미·중 갈등 국면에서의 동맹 역할 확대 강요, 방산 및 첨단기술 주권 문제를 둘러싸고 미묘한 신경전과 기류 변화가 이어지고 있다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>미국이 자국 우선주의 기조를 강화하며 전통적 동맹국들에게 더 많은 안보 부담과 정치적 결단을 요구함에 따라 한국 역시 ‘미국의 완전한 안보 우산’에만 의존하기 어려운 현실에 직면했다. 한반도를 둘러싼 미·중·러의 강대국 패권 다툼 속에서 미국의 안보 공약 가변성이 커짐에 따라 대한민국 안보의 독자적 대응력 마련이 최우선 과제로 떠오르고 있다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>전문가들은 중동과 유럽 국가들이 안보 불안 속에서 자체 국방력을 강화하고 방산 투자를 늘리는 것처럼 한국 역시 강력한 자체 무기체계 구축과 K-방산의 기술 자립을 가속화해야 한다고 입을 모은다.</p>
-<p>
-   <br />
-</p>
+<p><br /></p>
 <p>미국이 구축했던 동맹 질서가 흔들리고 외교 대신 무력이 앞서는 시대, 한국 역시 한미동맹의 틀을 유지하면서도 독자적인 안보 자율성과 방위 산업 역량을 극대화하는 냉정한 국익 중심의 전략이 절실한 시점이다.</p>]]></description>
 		</item>
 		<item>
@@ -1486,61 +1518,6 @@
 <p>록히드마틴은 연간 PAC-3 생산량을 기존 600발 수준에서 2000발로 크게 늘리는 7년 프레임워크 협정을 바탕으로 PAC-3 엣지의 양산 및 공급 속도 가속화에 박차를 가할 계획이다.</p>
 <p><br /></p>
 <p>회사측은 2027년부터 PAC-3 엣지의 본격적인 실사격 시험에 돌입할 예정이다. 미 육군이 제시한 목표 배치 시점은 2031년이지만 록히드마틴은 개발 및 검증 기간을 단축해 2020년대 말(2029~2030년 무렵)부터 조기 실전 배치가 가능하도록 추진한다는 방침이다.</p>]]></description>
-		</item>
-		<item>
-			<title>이탈리아-튀르키예 신형 드론 &apos;아스토레 레반테&apos;에 MBDA 무장 탑재 검토</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8012</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8012</guid>
-			<author>sbtm2epdl@gmail.com 강지현 기자</author>
-			<category>무기체계</category>
-			<category>20250407120846_2514</category>
-			<pubDate>Tue, 13 Oct 2026 17:50:50 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2610/20261013174830_zcxkppux.jpg" alt="20261013 아스토레 레반테.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 7월 22일 영국 런던 인근에서 열린 판버러 국제 에어쇼 2026에 레오나르도(Leonardo), LBA 시스템즈, 바이카르(Baykar)의 함재형 무인 전투 항공기(UCAV) '아스토레 레반테(Astore Levante)'가 전시되어 있다./사진=게티이미지</figcaption>
-   </figure>
-   </div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=강지현 기자] 이탈리아 공군이 튀르키예 바이카르(Baykar)와 이탈리아 레오나르도(Leonardo)가 공동 제작 중인 신형 무인전투기 '아스토레 레반테(Astore Levante)'에 유럽 방산기업 MBDA의 무장을 탑재하기 위한 시험을 진행하고 있다고 미 군사전문 매체 디펜스뉴스가 보도했다.</p>
-<p>
-   <br />
-</p>
-<p>13일(현지시간) 이 매체에 따르면 이탈리아 공군은 튀르키예의 TB-3를 기반으로 개발되어 바이카르와 레오나르도의 합작법인인 LBA 시스템즈(LBA Systems)가 이탈리아 현지에서 조립하는 아스토레 레반테 드론 6대를 우선 도입할 예정이다.</p>
-<p>
-   <br />
-</p>
-<h3>튀르키예제 기본 무장 외 유럽제 연동…MQ-1 프레데터 대체 및 조종사 훈련용 활용</h3>
-<p>아스토레 레반테는 전장 8.35m, 날개폭 14m의 중형 무인전투기다. 최대이륙중량 약 1.45톤~1.6톤에 280kg에 달하는 무장 및 첨단 센서를 탑재할 수 있다. 접이식 날개와 단거리 이착륙(STOL) 기술을 적용해 단거리 비행갑판을 갖춘 함정에서도 자유롭게 운용 가능하다. 24시간 이상의 장기 체공 능력과 위성통신(SATCOM) 기반의 원거리 작전 통제 역량을 갖춘 것이 핵심 강점이다.</p>
-<p>&nbsp;</p>
-<p>아스토레 레반테에는 레오나르도의 첨단 센서가 탑재된다. 다만 지난 7월 판버러 에어쇼에서 처음 공개될 당시에는 로켓산(Roketsan)의 MAM 계열 유도폭탄과 바이카르의 KEMANKES-1 미니 크루즈 미사일 등 튀르키예제 무장과 함께 전시된 바 있다.</p>
-<p>
-   <br />
-</p>
-<p>12일 로마에서 열린 연설에서 안토니오 콘세르바 이탈리아 공군참모총장(대장)은 다양한 무장 공급업체의 적용 가능성을 열어두었다. 그는 "현재 결정된 바는 없으며 기본 무장은 튀르키예제이지만 MBDA 및 이탈리아 중소 방산기업들과도 무장 연동 관련 활동을 진행 중"이라고 밝혔다.</p>
-<p>
-   <br />
-</p>
-<p>콘세르바 총장은 신형 드론이 2026년 말 또는 2027년 초까지 감항 인증을 받을 예정이라고 확인했다. 유럽 내 감항 인증은 유럽 시장 판매 및 판촉 활동을 위한 필수 전제 조건이다.</p>
-<p>
-   <br />
-</p>
-<p>이탈리아 공군은 우선 드론 2대로 구성된 시스템 3세트(총 6대)를 주문할 예정이다. 콘세르바 총장은 "향후 전력 확충 여부를 검토할 것이며 아스토레 레반테는 기존 공군의 프레데터(MQ-1)를 대체하게 될 것"이라고 설명했다. 이 드론들은 ISR(정보·감시·정찰) 및 지상군 무장 지원 임무뿐만 아니라 무인기 조종사 양성을 위한 훈련용으로도 활용된다.</p>
-<p>
-   <br />
-</p>
-<h3>6세대 전투기 GCAP 사업, 독일 참여 가능성에 "전략적 파트너로서 환영"</h3>
-<p>한편 이탈리아, 영국, 일본이 공동 추진 중인 6세대 전투기 프로그램 GCAP(Global Combat Air Programme)에 독일이 참여할 가능성에 대해 콘세르바 총장은 찬성 입장을 표명했다.</p>
-<p>
-   <br />
-</p>
-<p>그는 "독일은 위대한 국가이자 전략적 파트너"라며 "정치적·산업적 합의가 필요하겠지만 내년에 퇴역할 토네이도(Tornado)와 현재 국방 및 억제력의 중추인 유로파이터(Eurofighter)를 통해 이미 독일과 성공적으로 협력해 온 만큼 어떤 발전이든 긍정적으로 바라볼 것"이라고 강조했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
