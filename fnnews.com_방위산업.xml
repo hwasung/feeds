@@ -4,7 +4,17 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Wed, 21 Oct 2026 14:31:26 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 18:31:29 +0900</lastBuildDate>
+		<item>
+			<title>KAI, 우주 궤도서 AI 위성 자율운영 실증 성공</title>
+			<link>https://www.fnnews.com/news/202610211824556492</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202610211824556492</guid>
+			<author>정원일</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Wed, 21 Oct 2026 18:24:56 +0900</pubDate>
+			<description><![CDATA[한국항공우주산업(KAI)이 우주 궤도에서 위성의 고장 원인과 대응책을 스스로 분석하는 인공지능(AI) 기술 검증에 성공했다. 지상국의 분석에 의존하던 위성 운영 방식을 고도화하고, 이상 상황에 대한 대응 속도를 높일 기반을 마련했다는 평가다. KAI는 지난 20일 큐브위성 'BEE-1012'에 탑재한 자체 개발 AI 모듈로 위성 자율운영 기술의 시범 임무를 성공적으로 수행했다고 21일 밝혔다. BEE-1012는 지난 7일 누리호 5차 발사를 통해 우주에 진입했다. 이번 실증은 위성에 탑재된 AI가 데이터를 직접 처리하는 'AI 온보드 프로세싱' 기술을 검증하는 데 초점을 맞췄다. 지상국에서 가상의 고장 신호를 보내자 AI 모듈이 고장의 원인과 영향 범위를 분석한 뒤 대응책을 담은 기술 보고서를 생성해 지상국으로 전송했다. 기존 위성은 이상이 발생하면 관련 데이터...]]></description>
+		</item>
 		<item>
 			<title>우주서 위성 고장 대응책도 스스로…KAI, 자체 AI 기술 실증 성공</title>
 			<link>https://www.fnnews.com/news/202610210948494967</link>
@@ -114,18 +124,6 @@ LIG D&A와 두산에너빌리티는 지난 19일 경기 성남시 분당두산�
 ■현대위아 방산사업 인수…현대차그룹 방산 역량 일원화
 현대로템은 19일 이사회를 열고 현대위아 특수사업부를 3583억8600만원에 인수하기로 결정했다고 공시했다.  인수는 자산과 부채, 인력, 지식재산권 등을 포괄적으로 넘겨받는 영업양수도 방식으로 진행된다.
 현대위아 특수사업부는 국내 유일의 대구경 화포 전문 제조사로 K2 전차...]]></description>
-		</item>
-		<item>
-			<title>LIG D&amp;A, 조직개편 단행…7개 부문 중 4개 부문장 교체</title>
-			<link>https://www.fnnews.com/news/202610191516249301</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202610191516249301</guid>
-			<author>정원일</author>
-			<category>산업|대기업</category>
-			<category>산업</category>
-			<pubDate>Mon, 19 Oct 2026 15:24:42 +0900</pubDate>
-			<description><![CDATA[[파이낸셜뉴스]LIG 디펜스&에어로스페이스(LIG D&A)가 준법경영 강화와 글로벌 사업 확대를 위한 조직개편을 단행했다. 7개 사업·경영 부문 가운데 4개 부문장을 새로 임명해 경영진 쇄신을 도모하고 내부통제 기능을 강화한 것이 핵심이다. 해외시장 개척을 위한 전담 조직도 확대한다.
-LIG D&A는 급변하는 경영·사업 환경에 대응하기 위해 전사 조직개편을 실시했다고 19일 밝혔다. 이번 개편은 준법 및 내부통제 기능 확립, 경영 전문성 강화, 글로벌 시장 확대에 초점을 맞췄다. 개편된 조직은 오는 11월 2일부터 운영된다.
-우선 7개 사업·경영 부문 가운데 4개 부문장을 새로 임명해 경영진 쇄신에 나선다. 아울러 대표이사 직속으로 '총괄 체제'를 도입한 것도 눈에 띈다. 사업총괄과 운영총괄을 각각 신설해 사업과 경영 전반의 전문성...]]></description>
 		</item>
 	</channel>
 </rss>
