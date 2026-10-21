@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 21 Oct 2026 18:30:49 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 19:30:41 +0900</lastBuildDate>
+		<item>
+			<title>[2026 국감] 개인정보 유출 조사 전 자료 은닉·폐기 제재 공백…“법 개정 필요”</title>
+			<link>https://www.etnews.com/20261021000450</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261021000450</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 21 Oct 2026 18:22:42 +0900</pubDate>
+			<description><![CDATA[개인정보 유출 사고에 대한 조사 착수 전 관련 자료를 은닉하거나 폐기하는 행위를 제재할 수 있도록 법적 근거를 마련해야 한다는 지적이 나왔다. 송경희 개인정보보호위원장도 현행 제재 수단이 불충분하다며 제도 개선 필요성에 공감했다. 송 위원장은 21일 국회 정무위원회 종합국정감사에서 더불어민주당 강준현 의원이 조사 착수 전 자료 은닉·폐기 행위에 대한 제재 필요성을 지적하자 제도 개선에 동의했다. 강 의원은 “조사 전에 자료를 은폐하면 제재할 방...]]></description>
+		</item>
 		<item>
 			<title>세일즈포스, AI 마케팅 기업 브레이즈 56억6000만달러에 인수</title>
 			<link>https://www.etnews.com/20261021000445</link>
@@ -123,7 +132,7 @@
 			<description><![CDATA[비상교육이 전국 유아교육기관 대상 '2027 유아 프로그램 설명회'를 개최한다. 대전을 시작으로 서울, 경기, 부산, 대구, 전남광주 등 전국 주요 지역을 순회하며 새학기를 준비하는 원장과 교사에 주요 프로그램을 소개하고 현장 의견을 청취한다. 이번 설명회는 지난달 개최한 '유아교육기관 경영자 포럼' 연장선이다. 디지털 환경에 익숙하고 자녀 교육의 과정과 성과를 투명하게 확인하고 싶어하는 학부모 세대를 고려, 교육 환경 변화에 유아교육기관이 대...]]></description>
 		</item>
 		<item>
-			<title>中 커넥티드카 국가보안시설 출입관리 강화…국정원, 주요 기관에 IoT 보안 지침 내렸다</title>
+			<title>中 커넥티드카 경보…국가보안시설 문턱 높였다</title>
 			<link>https://www.etnews.com/20261021000282</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261021000282</guid>
 			<author>류근일</author>
@@ -258,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 21 Oct 2026 15:23:12 +0900</pubDate>
 			<description><![CDATA[사이버보안 전문기업 위라나는 최근 핵심 정보기술(IT) 자산 식별부터 공격 경로 분석, 대응 우선순위 및 조치 비용 관리까지 통합 지원하는 보안 서비스 '위라나 포인트 커넥션'을 출시했다고 21일 밝혔다. 해당 서비스는 AI를 악용한 사이버 공격이 고도화되는 가운데, 기업과 기관이 미관리 자산을 포함한 전체 IT 자산의 상태와 취약점을 파악하고, 핵심 정보로 이어질 수 있는 공격 경로를 정밀 분석하도록 지원한다. 실제 시스템에서 발생하는 행위와...]]></description>
-		</item>
-		<item>
-			<title>채널코퍼레이션, 전화 상담 AI &apos;보이스 알프&apos; 출시</title>
-			<link>https://www.etnews.com/20261021000371</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000371</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 21 Oct 2026 15:17:54 +0900</pubDate>
-			<description><![CDATA[채널코퍼레이션이 인공지능(AI)으로 고객 전화 상담을 자동화하는 음성 AI 에이전트 '보이스 알프(Voice ALF)'를 정식 출시했다고 21일 밝혔다. 보이스 알프는 고객과 음성으로 대화하며 상담 업무를 수행하는 생성형 AI 에이전트다. 기존 채팅 상담 AI 에이전트 '알프'의 서비스 영역을 전화로 확장했다. 고객 문의 전화에 응대하는 인바운드 상담과 AI가 고객에게 먼저 전화를 거는 '알프 마케팅' 기능을 지원한다. 고객이 기업 홈페이지에...]]></description>
 		</item>
 	</channel>
 </rss>
