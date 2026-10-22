@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 22 Oct 2026 12:30:42 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 13:30:47 +0900</lastBuildDate>
+		<item>
+			<title>AI에 묻기 전 내 생각부터…인천교육청, 읽걷쓰AI 수업 현장 실험</title>
+			<link>https://www.etnews.com/20261020000288</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261020000288</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 13:00:00 +0900</pubDate>
+			<description><![CDATA[인천시교육청이 10개 정책학교에서 학생의 사고력과 주도성을 기르는 인공지능(AI) 수업 모델을 검증한다. 인천시교육청은 조병영 한양대 교수 연구팀 주관으로 정책학교와 일반학교를 비교해 '읽걷쓰AI' 교수학습 모델의 효과를 분석하고 있다고 20일 밝혔다. 연구 대상은 유치원과 초·중·고·특수학교를 포함한 정책학교 10곳과 대조군인 일반학교다. 학생이 AI에 답을 구하는 데 그치지 않고 스스로 질문하고 결과를 검증하도록 설계한 수업이 실제 학습에...]]></description>
+		</item>
 		<item>
 			<title>강원 창업 도전자 949명, &apos;모두의 창업&apos; 1라운드 진출</title>
 			<link>https://www.etnews.com/20261022000198</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 21 Oct 2026 17:10:37 +0900</pubDate>
 			<description><![CDATA[인공지능 전환(AX) 자율제조 솔루션 전문기업 인터엑스(INTERX·대표 박정윤)는 지난 19일 서울 양재동 엘타워에서 열린 '2026년 산업통상부-삼성전자 기술나눔 행사'에서 삼성전자가 보유한 음성인식 관련 특허 '전자장치 및 그 제어방법(KR 10-2632388)'의 특허양도증을 받았다고 21일 밝혔다. 인터엑스는 핵심기술 역량과 기술사업화 가능성에 대한 심의를 거쳐 해당 특허권의 무상 양도 대상 기업으로 최종 선정됐다. 이를 계기로 확보하...]]></description>
-		</item>
-		<item>
-			<title>[사설] 국가주요시설, IoT 출입 방화벽 세우자</title>
-			<link>https://www.etnews.com/20261021000394</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000394</guid>
-			<author>논설위원실</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 21 Oct 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[영상 촬영이 가능한 커넥티드 차량부터 스마트글라스(안경), 링(반지)까지 온갖 스마트기기가 사람과 함께 움직이는 시대다. 이런 상황에 국가정보원이 중앙부처를 비롯해 지방자치단체, 공공기관에 카메라와 통신기능을 탑재한 스마트기기의 출입 보안을 강화한 지침을 내렸다고 한다. 최근 국회 국정감사에서도 군 주요 시설이나 발전소 등에 중국산 커넥티드차량이 제한 없이 출입해온 사실이 드러나며 안보 공백 우려가 크게 고조된 상황에서 뒤늦은 감이 있지만 마땅...]]></description>
 		</item>
 	</channel>
 </rss>
