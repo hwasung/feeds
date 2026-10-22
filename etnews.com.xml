@@ -4,7 +4,52 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 22 Oct 2026 16:30:41 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 17:30:43 +0900</lastBuildDate>
+		<item>
+			<title>[사설] 모든 곳이 보안 취약점이라 여기자</title>
+			<link>https://www.etnews.com/20261022000386</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000386</guid>
+			<author>논설위원실</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[전 세계 웹사이트와 주요 인프라의 뼈대를 이루는 프로그래밍 언어 PHP에서 치명적인 보안 취약점이 발견돼 우리나라도 민관이 긴급 대응에 나섰다. 유럽과 일본 정부가 발빠르게 정부·공공사이트와 잠재적 타깃 사이트를 잠정 폐쇄한 데 이어 한국 정부도 사이버위기 단계를 '주의'로 높여 발령했다. 국내외 호스팅업체도 긴급 패치에 나서는 한바탕 소동 속, 이번 사태는 인공지능(AI)시대 사이버 보안 이슈의 진화된 한 단면을 드러냈다는 점에서 단순히 넘길...]]></description>
+		</item>
+		<item>
+			<title>[단독] SK텔레콤, 하이닉스 AI협력 전담 &apos;Hy-TF&apos; 신설...TF장에 유경상 CIC장</title>
+			<link>https://www.etnews.com/20261022000325</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000325</guid>
+			<author>박준호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 16:30:00 +0900</pubDate>
+			<description><![CDATA[SK텔레콤이 SK하이닉스 반도체 공장 인공지능(AI) 사업 협력을 전담할 태스크포스(TF)를 꾸린 것으로 확인됐다. 양사가 협업 중인 디지털 트윈과 데이터 플랫폼 사업을 고도화하는 카운터파트 역할을 맡는다. 첨단 제조분야인 반도체 팹 지원 과정에서 쌓은 AI·데이터 기술력을 기업간거래(B2B) 신사업 발굴로 확장한다. 22일 SK텔레콤은 최근 AI 사내회사(CIC) 산하에 'Hy-TF'를 신설했다. TF는 정식 조직개편을 거치지 않은 내부 임시...]]></description>
+		</item>
+		<item>
+			<title>개인정보위, PHP 취약점 개인정보 유출 경고</title>
+			<link>https://www.etnews.com/20261022000414</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000414</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 16:24:30 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 'PHP2Shell' 보안 취약점으로 대규모 개인정보 유출이 발생할 수 있다며 공공기관과 민간기업에 긴급 보호조치를 당부했다고 22일 밝혔다. 지난 21일 공개된 PHP2Shell은 별도 인증 없이 웹서버에서 악성 명령을 실행할 수 있는 취약점이다. 웹서버뿐 아니라 연결된 데이터베이스(DB)에 저장된 개인정보까지 유출될 위험이 있다. 특히 PHP 기반 DB 관리도구인 'phpMyAdmin'이 외부에 노출되거나 과도한 접근권한...]]></description>
+		</item>
+		<item>
+			<title>스틸리언, &apos;PHP2Shell&apos; 취약점 무료 점검 서비스 공개</title>
+			<link>https://www.etnews.com/20261022000410</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000410</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 16:20:43 +0900</pubDate>
+			<description><![CDATA[스틸리언은 22일 웹사이트 주소(URL) 입력만으로 'PHP2Shell' 취약점 영향 여부를 확인할 수 있는 무료 온라인 서비스를 시작했다. 이용자는 스틸리언 홈페이지 내 전용 페이지에 접속해 점검 대상 웹사이트 주소만 입력하면 된다. 별도 프로그램 설치 없이 취약한 PHP 버전 사용 여부를 확인할 수 있다. PHP2Shell은 웹사이트 개발에 널리 쓰이는 프로그래밍 언어 PHP에서 발견된 치명적인 보안 취약점 2건(CVE-2026-109618...]]></description>
+		</item>
+		<item>
+			<title>美 보안업계 “PHP 보안 결함, AI 없으면 발견 못했다”</title>
+			<link>https://www.etnews.com/20261022000406</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000406</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 16:06:30 +0900</pubDate>
+			<description><![CDATA[전세계 웹사이트에 비상을 부른 PHP 보안 취약점 발견은 인공지능(AI) 도움이 없었다면 불가능한 일이었다고 미 일간 월스트리트저널(WSJ)이 보도했다. 22일 WSJ에 따르면 'PHP2셸' 보안 취약점은 보안업체 캘리프(Calif)의 연구원 라이언 오스틴이 지난 8월 오픈AI의 AI 모델 'GPT-5.6 Sol'을 활용해 PHP 소스코드를 점검하던 중 발견했다. 오픈AI는 오픈소스 소프트웨어의 보안 문제를 찾아 해결하도록 지원하는 활동의 일환...]]></description>
+		</item>
 		<item>
 			<title>[기고] 노벨 과학상, 내년을 기약하며</title>
 			<link>https://www.etnews.com/20261022000102</link>
@@ -224,51 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 11:16:53 +0900</pubDate>
 			<description><![CDATA[국내 대표 도메인 등록대행사 가비아(대표 김홍국·원종홍)는 국제인터넷주소관리기구(ICANN)에 신규 일반 최상위도메인(gTLD) '.HAN'을 단독 신청했다고 22일 밝혔다. 회사측은 신규 gTLD는 '.com', '.net'처럼 인터넷 주소의 맨 뒤에 위치하는 최상위도메인이다. '.HAN'이 도입되면 'kpop.han', 'bibimbap.han', 'seoul-tour.han'처럼 '.han'으로 끝나는 인터넷 주소를 만들 수 있게 된다고...]]></description>
-		</item>
-		<item>
-			<title>[ET톡]단일종목 레버리지가 남긴 것</title>
-			<link>https://www.etnews.com/20261022000174</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000174</guid>
-			<author>김신영</author>
-			<category>오피니언</category>
-			<pubDate>Thu, 22 Oct 2026 11:09:24 +0900</pubDate>
-			<description><![CDATA[단일종목 레버리지 상품 후폭풍이 거세다. 삼성전자와 SK하이닉스 주가 상승률의 2배를 얻을 수 있다는 희망은 사라지고 개인투자자 손실만 6조원 넘게 쌓였다. 단일종목 레버리지 상품은 상장 과정부터 성급하게 진행됐다. 상장지수펀드(ETF) 평균 상장일은 평균 62일이지만 단일종목 레버리지 상품은 29일로 짧았다는 점이 드러났다. 이찬진 금융감독원장도 상장 일정을 맞추느라 심사를 서둘렀다고 인정했다. 상품 출시 두 달이 지난 뒤 국내 증시 변동성을...]]></description>
-		</item>
-		<item>
-			<title>현대오토에버, 차세대 치안 솔루션 선봬…순찰 로봇·AI 결합</title>
-			<link>https://www.etnews.com/20261022000157</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000157</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 10:52:12 +0900</pubDate>
-			<description><![CDATA[현대오토에버가 순찰로봇과 인공지능(AI) 영상분석, 통합관제를 결합한 치안·보안 솔루션을 선보였다. 현대오토에버는 지난 21일 개막한 '2026 국제치안산업대전'에서 차세대 치안·보안 솔루션을 선보였다고 22일 밝혔다. △순찰로봇 △AI 영상분석 △관제 기능을 결합한 이 솔루션은 CCTV와 순찰 인력이 닿기 어려운 사각지대와 인력 운용 공백을 지원한다. 현대오토에버는 현대자동차·기아 로보틱스랩의 모바일 로봇 플랫폼 '모베드(MobED)'를 순찰...]]></description>
-		</item>
-		<item>
-			<title>서울, 英 옵서버 선정 &apos;세계 3대 AI 도시&apos;…AI 도입·활용 역량 1위</title>
-			<link>https://www.etnews.com/20261022000156</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000156</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 10:52:10 +0900</pubDate>
-			<description><![CDATA[서울시는 서울이 영국 옵서버의 '2026 AI 도시지수(AI Cities Index)'에서 종합 3위, AI 도입·활용 분야 세계 1위에 올랐다고 22일 밝혔다. 옵서버의 '2026 AI 도시지수'는 전 세계 36개국 57개 도시를 대상으로 AI 투자, 혁신, 도입·활용 등 3개 분야, 50개 지표를 종합 평가한다. 서울은 미국 샌프란시스코(1위), 뉴욕(2위)에 이어 종합 3위를 기록하며 베이징(4위), 파리(5위), 런던(6위)을 앞섰다....]]></description>
-		</item>
-		<item>
-			<title>KT클라우드, 50㎿ 규모 안산 AIDC 착공…수도권 AI 인프라 공급 확대</title>
-			<link>https://www.etnews.com/20261022000143</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000143</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 10:38:00 +0900</pubDate>
-			<description><![CDATA[KT클라우드가 수도권 인공지능(AI) 인프라 공급 확대와 고밀도 AI 서버 수요에 대응하기 위해 AI 데이터센터 확중에 나선다. KT클라우드는 50메가와트(㎿) 규모의 '안산 AIDC' 착공에 나선다고 22일 밝혔다. 이번 사업은 KT클라우드가 추진 중인 2031년 1기가와트(GW) 인공지능 데이터센터(AIDC) 공급 전략의 일환이다. 수도권 내 고밀도 AI 인프라 공급 기반을 확충하기 위한 프로젝트다. KT클라우드는 안산 AIDC를 비롯한 신...]]></description>
-		</item>
-		<item>
-			<title>포스코퓨처엠, 팔란티어 AI 플랫폼 도입…배터리 소재 사업 혁신</title>
-			<link>https://www.etnews.com/20261022000111</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000111</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 10:13:49 +0900</pubDate>
-			<description><![CDATA[포스코퓨처엠이 미국 팔란티어와 계약을 맺고 인공지능(AI) 플랫폼을 도입해 배터리 소재 사업 전반에 혁신을 추진한다고 21일 밝혔다. 팔란티어는 기업 데이터를 통합·분석해 의사결정을 지원하는 소프트웨어 기업이다. 포스코퓨처엠은 데이터 운영·분석 플랫폼 '파운드리'와 생성형 AI 기반 업무 자동화를 지원하는 'AIP'를 도입한다. 포스코퓨처엠은 이차전지 산업에서 소재 공급자를 넘어 산업 생태계를 이끄는 기업으로 도약하는 게 목표다. 이를 위해 지...]]></description>
 		</item>
 	</channel>
 </rss>
