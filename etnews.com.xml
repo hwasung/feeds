@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 22 Oct 2026 17:30:43 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 18:30:46 +0900</lastBuildDate>
+		<item>
+			<title>특허 검색에서 기업 업무 전환으로… 워트인텔리전스, LESI에서 &apos;IP-AX&apos; 전략 소개</title>
+			<link>https://www.etnews.com/20261022000452</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000452</guid>
+			<author>이원지</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 17:22:22 +0900</pubDate>
+			<description><![CDATA[특허 AI 기업 워트인텔리전스(대표 윤정호)가 기업 지식재산 업무의 AI 전환을 뜻하는 'IP-AX'를 글로벌 지식재산ㆍ라이선싱 전문가들에게 소개한다. 특허 검색 도구의 활용을 넘어 연구개발과 지식재산 조직의 업무에 AI를 어떻게 적용할 것인지가 핵심이다. 워트인텔리전스는 오는 24일 서울 여의도 국회의원회관에서 열리는 'LESI YMC 아시아태평양 컨퍼런스 2026'에 후원사로 참여한다. 워트인텔리전스 윤정호 대표는 패널 연사로 나서 'IP-...]]></description>
+		</item>
+		<item>
+			<title>나무AX, &apos;재팬 IT 위크 어텀 2026&apos; 참가…日 시장 공략 박차</title>
+			<link>https://www.etnews.com/20261022000446</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000446</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 17:18:12 +0900</pubDate>
+			<description><![CDATA[나무AX(옛 나무기술)는 지난 21일부터 오는 23일까지 일본 마쿠하리 멧세에서 열리는 '재팬 IT 위크 어텀 2026'에 일본법인과 함께 참가했다고 22일 밝혔다. 재팬 정보기술(IT) 위크는 소프트웨어 개발과 IT 인프라, 정보보안 등 기업의 시스템 구축·운영 기술을 다루는 일본 대표 IT 전시회다. 나무AX는 한국관 내 전시 부스에서 사내 데이터를 활용한 업무 자동화와 분산된 클라우드 자원 관리를 위한 제품군을 제시하며 현지 시장 공략에...]]></description>
+		</item>
 		<item>
 			<title>[사설] 모든 곳이 보안 취약점이라 여기자</title>
 			<link>https://www.etnews.com/20261022000386</link>
@@ -118,7 +136,7 @@
 			<description><![CDATA[로그인 없이 서버를 장악할 수 있는 치명적 결함이 발견된 PHP와 관련해 한국에 정식 수정판이 나오지 않는 구버전을 쓰는 서버가 2만4591대에 이른다는 분석 결과가 나왔다. 21일(현지시간) 프랑스 보안업체 시벨앙젤은 전 세계에서 PHP를 노출한 서버는 약 224만대라고 밝혔다. 시벨앙젤이 보안검색엔진 쇼단(Shodan)의 지난 20일 기준 자료를 토대로 분석한 내용이다. 이 중 버전이 확인된 약 150만대 가운데 88만3717대(59%)가...]]></description>
 		</item>
 		<item>
-			<title>PHP 보안 취약점 발견에 세계가 비상…“韓, 위험 호스트 세계 6위 규모”</title>
+			<title>“韓, PHP 취약 호스트 11만개 달해”</title>
 			<link>https://www.etnews.com/20261022000351</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261022000351</guid>
 			<author>박진형</author>
@@ -251,24 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 11:52:29 +0900</pubDate>
 			<description><![CDATA[강원창조경제혁신센터(대표 이해정)는 중소벤처기업부가 추진하는 2차 '모두의 창업 프로젝트'에서 강원권 창업 도전자 949명이 1라운드 진출자로 선정됐다고 밝혔다. 이번 2차 모집에는 강원권에서 총 7547건의 창업 아이디어가 접수됐다. 일반·기술트랙 6391건, 로컬트랙 1156건으로 전국 접수 건수의 8.1%를 차지했다. 1·2차 누적 접수 건수는 11539건이다. 일반·기술트랙 접수 실적은 전국 17개 시도 가운데 4위, 비수도권에서는 2위...]]></description>
-		</item>
-		<item>
-			<title>연세대 포털 해킹에 졸업·재학생 1만여명 개인정보 유출</title>
-			<link>https://www.etnews.com/20261022000182</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000182</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 11:19:36 +0900</pubDate>
-			<description><![CDATA[연세대 포털 서비스 해킹으로 재학생과 졸업생 등 1만여명 개인정보가 유출된 것으로 나타났다. 연세대 정보통신처는 22일 “연세 포털서비스에 대한 외부 비인가 접근으로 일부 구성원 개인정보가 유출된 사실이 확인됐다”며 학내 개인정보 유출 관련 공지했다. 현재까지 확인된 유출 정보는 재학생과 졸업생 학번과 휴대전화번호, 이메일, 일부 시스템 관리 정보 등이다. 연세대는 주민등록번호 등 고유 식별정보와 민감정보는 포함되지 않았다고 부연했다. 연세대는...]]></description>
-		</item>
-		<item>
-			<title>가비아, 한국 문화 담은 신규 최상위도메인 &apos;.HAN&apos; 신청</title>
-			<link>https://www.etnews.com/20261022000179</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000179</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 11:16:53 +0900</pubDate>
-			<description><![CDATA[국내 대표 도메인 등록대행사 가비아(대표 김홍국·원종홍)는 국제인터넷주소관리기구(ICANN)에 신규 일반 최상위도메인(gTLD) '.HAN'을 단독 신청했다고 22일 밝혔다. 회사측은 신규 gTLD는 '.com', '.net'처럼 인터넷 주소의 맨 뒤에 위치하는 최상위도메인이다. '.HAN'이 도입되면 'kpop.han', 'bibimbap.han', 'seoul-tour.han'처럼 '.han'으로 끝나는 인터넷 주소를 만들 수 있게 된다고...]]></description>
 		</item>
 	</channel>
 </rss>
