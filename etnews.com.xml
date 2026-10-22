@@ -4,7 +4,70 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 22 Oct 2026 14:30:53 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 15:30:45 +0900</lastBuildDate>
+		<item>
+			<title>시선AI, 日 &apos;AI 원격의료 플랫폼&apos; 출시…헬스케어 시장 공략</title>
+			<link>https://www.etnews.com/20261022000329</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000329</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:55:14 +0900</pubDate>
+			<description><![CDATA[시선AI가 인공지능(AI) 원격의료 플랫폼을 일본에 출시하며 의료·바이오 시장 진출을 본격화한다. 시선AI는 일본 최대 IT 전시회 '재팬 IT 위크 어텀 2026'에서 AI 원격의료 플랫폼 '씨유헬스(SEEU Health)'를 공개했하고 일본 시장에 출시했다고 22일 밝혔다. 씨유헬스는 비전 AI 기술로 환자의 생체신호를 측정하고 비대면 진료를 지원하는 플랫폼이다. 혈압·심박수·호흡수·산소포화도 측정, 음성 대화 기반 AI 문진, 전자의무기록...]]></description>
+		</item>
+		<item>
+			<title>[이슈플러스] 10년 묵은 PHP 결함, AI가 뚫었다</title>
+			<link>https://www.etnews.com/20261022000328</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000328</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:54:53 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 10년 넘게 PHP에 숨어 있던 보안 결함의 치명적인 위험성을 밝혀냈다. AI를 활용하면 오랫동안 발견되지 않았거나 공격이 어려웠던 취약점도 단기간에 뚫을 수 있다는 사실이 입증된 것이다. 이는 보안 연구 성과인 동시에 해커들도 AI를 무기로 새로운 공격에 나설 수 있다는 경고다. ◇비밀번호 없이 서버 장악…어떻게 가능했나 글로벌 보안업체 위즈(Wiz)는 PHP 취약점을 악용해 관리자 아이디나 비밀번호 없이 서버에서 악성 코드...]]></description>
+		</item>
+		<item>
+			<title>[이슈플러스] PHP 해킹 비상, 어떻게 막나…구형 웹사이트 &apos;보안 사각지대&apos;</title>
+			<link>https://www.etnews.com/20261022000327</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000327</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:54:29 +0900</pubDate>
+			<description><![CDATA[웹사이트 개발에 널리 쓰이는 PHP에서 치명적인 보안 취약점이 발견되면서, 장기간 관리되지 않은 홈페이지와 중소기업의 보안 사각지대를 점검해야 한다는 지적이 나온다. 인공지능(AI)을 활용한 취약점 발굴이 확대되는 데 맞춰 선제적인 점검체계를 갖춰야 한다는 제언도 제기됐다. 22일 보안업계는 PHP를 사용하는 시스템을 빠짐없이 파악하고, 보안 패치를 적용하는 것이 급선무라고 강조했다. 즉각적인 업데이트가 어렵다면 외부 접속을 차단하거나 서비스를...]]></description>
+		</item>
+		<item>
+			<title>KOSA·메가존, 파키스탄 정보기술통신부과 소버린 AI 간담회 개최</title>
+			<link>https://www.etnews.com/20261022000309</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000309</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:38:01 +0900</pubDate>
+			<description><![CDATA[한국인공지능·소프트웨어산업협회(KOSA)와 메가존클라우드는 지난 21일 과천 메가존산학연센터에서 파키스탄 정보기술통신부(MoITT) 장관 등과 소버린 인공지능(AI) 협력을 위한 간담회를 개최했다고 22일 밝혔다. 이번 간담회는 지난 9월 사우디아라비아 리야드에서 열린 글로벌 기술 전시회 LEAP 2026에서 시작된 협력 논의의 연장선에서 마련됐다. 당시 KOSA는 풀스택 AI 컨소시엄의 주관기업인 메가존클라우드 및 참여기업들과 공동관을 운영했...]]></description>
+		</item>
+		<item>
+			<title>메가존클라우드, AWS 거브클라우드 리셀러 획득…美 공공 진출 기반 마련</title>
+			<link>https://www.etnews.com/20261022000305</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000305</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:31:38 +0900</pubDate>
+			<description><![CDATA[메가존클라우드가 미국 정부·공공기관과 방산 등 높은 수준의 보안 및 규제 준수가 요구되는 시장에 진출할 수 있는 기반을 마련했다. 메가존클라우드는 아마존웹서비스(이하 AWS)의 '공인 정부 리셀러' 자격을 획득했다고 22일 밝혔다. 미국 공공부문 및 규제 산업 고객을 대상으로 AWS 거브클라우드(GovCloud) (US)를 공급할 수 있는 자격을 확보한 것이다. AWS GovCloud (US)는 미국 정부와 규제 산업이 요구하는 보안·컴플라이언...]]></description>
+		</item>
+		<item>
+			<title>KLID, &apos;제5회 AI 지역혁신 글로벌 포럼&apos; 개최…&apos;지방행정 AX&apos; 청사진 제시</title>
+			<link>https://www.etnews.com/20261022000298</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000298</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:24:39 +0900</pubDate>
+			<description><![CDATA[한국지역정보개발원(KLID)은 서울 프레지던트호텔에서 '제5회 인공지능(AI) 지역혁신 글로벌 포럼'을 성황리에 개최했다고 22일 밝혔다. 'AI로 구현하는 지역 AI 전환(AX)'를 주제로 열린 이번 포럼은 AI 기술을 통한 지방행정 고도화와 지역사회의 실질적 변화 방안을 모색하고자 마련됐다. 이번 행사는 개발원과 독일 프리드리히 나우만재단이 공동 주최하고 행정안전부가 후원했으며, 국내외 AI 전문가와 지방정부 관계자 등 80여 명이 참석했다...]]></description>
+		</item>
+		<item>
+			<title>이상현 KCC정보통신 회장, &apos;대한민국 CEO 대상&apos; 사회공헌 부문 대상</title>
+			<link>https://www.etnews.com/20261022000288</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000288</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 14:10:31 +0900</pubDate>
+			<description><![CDATA[이상현 KCC정보통신·KCC오토그룹 회장이 20일 서울 서초구 마리나파크에서 열린 '제3회 CEO의 날'행사에서 '2026 대한민국 CEO 대상' 사회공헌 리더 부문 대상을 수상했다. 대한민국 CEO 대상은 산업 발전과 사회공헌 등에 기여한 경영자를 선정해 수여하는 상이다. 올해는 12개 부문에서 경영자 17명이 수상했다. 이 회장은 3대에 걸친 나눔의 정신을 계승하고 장학사업을 비롯한 교육·문화·복지 분야에서 사회공헌 활동을 펼친 공로를 인정...]]></description>
+		</item>
 		<item>
 			<title>[데스크라인]추격자와 파괴자</title>
 			<link>https://www.etnews.com/20261022000263</link>
@@ -209,68 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 07:41:23 +0900</pubDate>
 			<description><![CDATA[경기 화성특례시가 폐쇄회로(CC)TV 관제요원에게 인공지능(AI) 영상분석의 오류를 가려내는 실무교육을 실시했다. 시는 지난 15일과 21일 AI혁신센터 AI허브에서 '2026년 CCTV 관제요원 직무교육'을 진행했다고 22일 밝혔다. 교육은 AI 영상분석 기술의 원리와 한계를 이해하고, 사건·사고와 재난 상황에서 정확하게 판단하고 대응하는 능력을 높이는 데 초점을 맞췄다. 실제 관제 업무에 활용할 수 있도록 사례 분석과 실습을 중심으로 구성했...]]></description>
-		</item>
-		<item>
-			<title>AI가 발견한 PHP 치명적 취약점…전 세계 웹사이트 해킹 비상</title>
-			<link>https://www.etnews.com/20261022000012</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000012</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 07:38:08 +0900</pubDate>
-			<description><![CDATA[전 세계 웹사이트에서 널리 사용되는 프로그래밍 언어 'PHP'에서 치명적인 보안 취약점 2건이 발견돼 해킹 비상이 걸렸다. 인공지능(AI)을 활용해 10년 넘게 확인되지 않았던 결함을 찾아낸 가운데 해커들의 공격 시도까지 포착되면서 각국 정부와 보안업체들이 긴급 대응에 나섰다. 21일(현지시간) 월스트리트저널(WSJ)과 로이터통신 등에 따르면 PHP 개발진은 별도 인증 없이 원격으로 악성 코드를 실행하거나 서버를 장악할 수 있는 취약점 2건을...]]></description>
-		</item>
-		<item>
-			<title>[테크 차이나] 혁신을 주문하기 전에 평가표부터…중국 국유기업 성과·보상 개혁</title>
-			<link>https://www.etnews.com/20261015000387</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261015000387</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 22 Oct 2026 05:00:00 +0900</pubDate>
-			<description><![CDATA[중국 국유기업이 첨단기술에 투자한다는 발표는 익숙하다. 그러나 투자금이 배정됐다고 어려운 연구가 시작되는 것은 아니다. 올해 이익을 줄이면 경영진의 평가가 나빠지고, 실패하면 국유자산 손실 책임이 따르며, 성공해도 연구자의 보상이 작다면 조직은 검증된 사업을 고른다. 혁신의 병목은 연구실 밖의 평가표에 있을 수 있다. 중국의 국유기업 혁신정책을 자금 공급만으로 읽어서는 안 되는 이유다. 어느 산업에 투자하는가와 함께 누가 어떤 기준으로 의사결정...]]></description>
-		</item>
-		<item>
-			<title>[기후테크, 산업을 바꾸다⑦]디밀리언, AI·로봇으로 배터리 해체·진단…1호기 현장 실증</title>
-			<link>https://www.etnews.com/20261021000239</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000239</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 04:00:00 +0900</pubDate>
-			<description><![CDATA[전기차에서 사용을 마친 배터리에도 에너지가 남아 있다. 다시 쓸 수 있는 배터리를 가려내려면 감전·화재 위험에 유의해 팩을 해체하고 상태를 측정해야 한다. 제조 특화 인공지능(AI) 기업 디밀리언(대표 한요한)은 이 과정을 로봇과 AI로 연결하는 시스템 '배턴(BATON)'을 개발하며 배터리 재제조 현장에서 실증하고 있다. 성균관대 연구실을 기반으로 출발한 디밀리언은 제조 현장의 데이터를 AI의 판단과 설비 동작으로 연결하는 기술을 개발해 왔다...]]></description>
-		</item>
-		<item>
-			<title>경기경제청, 안산 ASV에 일본기업 초청…첨단산업 새로운 투자 모색</title>
-			<link>https://www.etnews.com/20261021000461</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000461</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 21 Oct 2026 22:20:30 +0900</pubDate>
-			<description><![CDATA[경기경제자유구역청이 안산사이언스밸리(ASV)지구의 첨단산업 투자 유치를 위해 일본기업을 초청했다. 경기경제자유구역청은 21일 안산 ASV지구 일원에서 일본기업과 투자 관계기관 관계자 17명이 참석한 현장 투자설명회를 개최했다. 이번 설명회는 인공지능(AI)·첨단로봇·스마트제조 분야의 신규 투자수요를 발굴하고 한·일 기업 간 협력을 확대하기 위해 마련됐다. 경기경제청은 지역 산학연 연구개발 기반과 일본기업의 첨단소재·정밀기계·제조기술을 연계하는...]]></description>
-		</item>
-		<item>
-			<title>[2026 국감] 개인정보 유출 조사 전 자료 은닉·폐기 제재 공백…“법 개정 필요”</title>
-			<link>https://www.etnews.com/20261021000450</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000450</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 21 Oct 2026 18:22:42 +0900</pubDate>
-			<description><![CDATA[개인정보 유출 사고에 대한 조사 착수 전 관련 자료를 은닉하거나 폐기하는 행위를 제재할 수 있도록 법적 근거를 마련해야 한다는 지적이 나왔다. 송경희 개인정보보호위원장도 현행 제재 수단이 불충분하다며 제도 개선 필요성에 공감했다. 송 위원장은 21일 국회 정무위원회 종합국정감사에서 더불어민주당 강준현 의원이 조사 착수 전 자료 은닉·폐기 행위에 대한 제재 필요성을 지적하자 제도 개선에 동의했다. 강 의원은 “조사 전에 자료를 은폐하면 제재할 방...]]></description>
-		</item>
-		<item>
-			<title>세일즈포스, AI 마케팅 기업 브레이즈 56억6000만달러에 인수</title>
-			<link>https://www.etnews.com/20261021000445</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000445</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 21 Oct 2026 17:53:45 +0900</pubDate>
-			<description><![CDATA[글로벌 고객관계관리(CRM) 시장의 공룡 세일즈포스가 인공지능(AI) 기반 마케팅 솔루션 기업 '브레이즈'를 5억6000만달러(7500억원)에 인수한다. 세일즈포스는 21일(현지시간) 브레이즈의 A종 보통주를 주당 47.50달러에 전량 현금으로 매수하기로 합의했다고 공식 발표했다. 이는 전날 브레이즈 종가에 58%에 달하는 프리미엄을 얹은 금액이다. 파격적인 인수 소식이 전해지자 이날 나스닥 시장에서 브레이즈 주가는 51.70% 폭등한 45.5...]]></description>
-		</item>
-		<item>
-			<title>제논, 인니 &apos;나이키 신발&apos; 품질검사 AI 양산 검증 통과</title>
-			<link>https://www.etnews.com/20261021000444</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261021000444</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 21 Oct 2026 17:42:46 +0900</pubDate>
-			<description><![CDATA[제논이 인도네시아에서 스포츠 브랜드 '나이키'의 신발 제조 공정에 적용할 인공지능(AI) 품질검사 기술의 양산 검증을 통과했다고 21일 밝혔다. 제논은 나이키 신발 밑창의 불량 여부를 자동 판별하는 AI 비전 검사 기술을 개발했다. 고해상도 카메라와 전용 조명으로 촬영한 제품 표면을 AI가 분석해 불량 부위를 식별한다. 양산 검증에서 두 가지 제품 스타일에 대한 불량 탐지율이 각각 99.7%, 99.2%를 기록하며 나이키 풋웨어의 최종 검증을...]]></description>
 		</item>
 	</channel>
 </rss>
