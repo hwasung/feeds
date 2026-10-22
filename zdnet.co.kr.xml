@@ -4,7 +4,25 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Thu, 22 Oct 2026 19:32:47 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 20:31:08 +0900</lastBuildDate>
+		<item>
+			<title>AI 모델 연결 도구 라이트LLM 해킹…비밀번호 빼내는 악성 코드 배포</title>
+			<link>https://zdnet.co.kr/view/?no=20261022193126</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261022193126</guid>
+			<author>AI 에디터</author>
+			<category>AI 에디터</category>
+			<category>컴퓨팅</category>
+			<pubDate>Thu, 22 Oct 2026 19:31:26 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/22/aia5d746fbd999a588436f4f8b3204d9e7.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/22/aia5d746fbd999a588436f4f8b3204d9e7.jpg" alt="">
+<p>여러 AI 모델 서비스를 하나의 방식으로 연결하는 오픈소스 도구 라이트LLM(LiteLLM)의 1.107.0 버전에 악성 코드가 포함돼 배포됐다. 소프트웨어 공급망 보안 업체 세이프뎁(SafeDep)이 현지 시각 10월 21일 분석 결과를 공개했다. 라이트LLM은 개발자가 오픈AI와 앤트로픽 등 여러 AI 서비스를 같은 방식으로 사용하도록 돕는 도구다.</p>
+<p>테크크런치에 따르면 공격자는 파이썬 패키지 저장소 PyPI와 도커 허브, 깃허브 컨테이너 저장소에 변조된 파일을 업로드했다. 악성 코드는 파이썬이 실행될 때마다 작동해 SSH 키와 클라우드 접속 정보, 개발 자동화용 비밀 값, AI 서비스 인증 정보, 브라우저에 저장된 비밀번호를 수집한다. 수집한 정보는 암호화한 뒤 라이트LLM 공식 주소와 비슷한 가짜 주소로 전송한다.</p>
+<p>함께 설치되는 백도어는 1시간마다 깃허브 파일에서 명령 서버 주소를 읽고, 정보 수집을 반복하며 외부 코드를 내려받아 실행한다. 백도어는 공격자가 시스템에 몰래 원격 접속할 수 있게 하는 악성 프로그램이다. 세이프뎁은 공식 소스 코드에 없는 설정 문구가 배포 파일에 추가된 점을 근거로, 배포 과정이 침해됐거나 PyPI 계정 정보가 도난당한 것으로 추정했다.</p>
+<p>세이프뎁은 1.106.2 버전과 1.107.0 정식 출시 전 시험판 2종은 정상이라고 밝혔다. 설치 폴더에 cook.pth와 cook.py, sitecustomize.py 파일이 있으면 감염 흔적으로 볼 수 있다. 라이트LLM은 악성 버전과 컨테이너 이미지를 삭제하고 대응 안내를 공개했다. 테크크런치는 같은 날 PHP와 노드js에서도 심각한 보안 결함이 공개돼 기업 보안팀의 대응 부담이 증가했다고 전했다.</p>
+<p>자세한 내용은 <a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/" target="_blank" rel="noopener noreferrer" style="letter-spacing: 0.8px; background-color: rgb(255, 255, 255); font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><strong>세이프뎁</strong></a><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">에서 확인할 수 있다.</span></p>
+<p>이미지 출처: 라이트LLM</p>
+<p><a href="https://aimatters.co.kr/subscribe" target="_blank"></a></p>
+<p>■ 이 기사는 AI 전문 매체 ‘<a href="https://aimatters.co.kr/" target="_blank">AI 매터스</a>’와 제휴를 통해 제공됩니다. 기사는 클로드 3.5 소네트와 챗GPT를 활용해 작성되었습니다. (☞ <a href="https://aimatters.co.kr/?p=56308" target="_blank" rel="nofollow" class="link">기사 원문 바로가기</a>)</p>]]></description>
+		</item>
 		<item>
 			<title>[카드뉴스]유럽의 마지막 페니실린 공장이 문 닫을 위기에요</title>
 			<link>https://zdnet.co.kr/view/?no=20261022130235</link>
@@ -213,16 +231,16 @@
 			<category>반도체ㆍ디스플레이</category>
 			<pubDate>Thu, 22 Oct 2026 17:59:32 +0900</pubDate>
 			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/07/09/b5bfd3e735683be2856ea0936e190a32.png" alt=""><p>삼성디스플레이와 톱텍의 위약벌(계약파기위약금) 청구소송 항소심에서 삼성디스플레이가 BOE와 체결한 특허 라이선스 계약서 원본 제출 여부가 쟁점으로 부상했다. </p>
-<p>삼성디스플레이는 지난해 4분기 미국 국제무역위원회(ITC) 영업비밀침해조사 절차 중 BOE로부터 특허 로열티를 받는 부분과 관련해 작성한 합의서를 금액 등 일부를 가림처리한 뒤 수원고등법원에 제출했는데, 톱텍은 가림처리한 부분을 모두 공개해야 한다고 주장하고 있다. </p>
+<p>삼성디스플레이는 항소심 재판부인 수원고등법원에, 지난해 4분기 미국 국제무역위원회(ITC) 영업비밀침해조사 절차 중 BOE로부터 특허 로열티를 받는 것과 관련해 작성한 합의서를 금액 등 일부를 가림처리한 뒤 제출한 바 있다. 톱텍은 항소심에서 가림처리한 부분을 모두 공개해야 한다고 주장하고 있다. </p>
 <p><span style="letter-spacing: 0.8px;">9일 수원고법에서 열린 </span><span style="letter-spacing: 0.8px;">위약벌청구소송 항소심 변론기일에서도 양측은 비슷한 주장을 되풀이했다. </span></p>
 <p><span style="letter-spacing: 0.8px;">이날 톱텍은 재판부에 "삼성디스플레이가 BOE와 체결한 특허 라이선스 계약서 원본에 대해 문서제출명령을 내려달라"고 요청했다. 앞서 톱텍은 지난 7월 </span><span style="letter-spacing: 0.8px;">변론기일에서 "</span><span style="letter-spacing: 0.8px;">BOE와 (톱텍이) 공동으로 불법행위를 해서 손해배상해야 한다고 </span><span style="letter-spacing: 0.8px;">(삼성디스플레이가) 주장하려면 BOE에서 어떤 부분 성격의 돈을 (삼성디스플레이가) 얼마나 받았는지 밝혀야 할 부분이 있다"고 밝힌 바 있다. </span></p>
 <p>이날 <span style="letter-spacing: 0.8px;">삼성디스플레이는 "</span><span style="letter-spacing: 0.8px;">BOE와 체결한 </span><span style="letter-spacing: 0.8px;">비밀유지계약(NDA) 때문에 계약서 원본을 제출하는 것은 어렵다</span><span style="letter-spacing: 0.8px;">"며 "BOE가 (삼성디스플레이에) 지급키로 한 금원의 법적 성격은 사건 본질과 무관하다"고 맞섰다. 이어</span><span style="letter-spacing: 0.8px;"> "</span><span style="letter-spacing: 0.8px;">계약서에는 전 세계에 걸친 비즈니스 관련 조항이 </span><span style="letter-spacing: 0.8px;">포함돼있어 공개하기 어렵다"고 덧붙였다. </span></p>
 <p><span style="letter-spacing: 0.8px;">지난 7월 삼성디스플레이는 </span><span style="letter-spacing: 0.8px;">"ITC 분쟁 절차를 종결하기 위해 제출했던 것과 동일하게 (수원고법에) 제출했다"며 "계약 효력 문제 때문에 (금액을 밝히기는) 어려울 것 같다"고 밝힌 바 있다. </span>삼성디스플레이는 BOE와 3년여간 벌였던 특허분쟁을 지난해 4분기 합의종결했다. </p>
 <p>이날 <span style="letter-spacing: 0.8px;">재판부는 "(해당 계약서에 대한) </span><span style="letter-spacing: 0.8px;">문서제출명령을 내릴지 여부를 아직 결정하진 않았다"며 "</span><span style="letter-spacing: 0.8px;">양측은 선례 등을 참고해 의견을 제출하라"고 밝혔다</span><span style="letter-spacing: 0.8px;">. 다음 변론기일은 12월에 열린다. </span></p>
 <img src="https://image.zdnet.co.kr/2026/07/09/b5bfd3e735683be2856ea0936e190a32.png" alt="수원법원 (사진=지디넷코리아)">
-<p>1심에선 삼성디스플레이가 일부 승소했다. 지난해 10월 <span style="letter-spacing: 0.8px;">수원지방법원은 </span><span style="letter-spacing: 0.8px;">톱텍에 "삼성디스플레이에 위약벌 35억원과 손해배상액 81억원 등 116억원과 지연이자를 지급하라"고 판결했다. 삼성디스플레이는 지난 2024년 위약벌청구소송 전체 청구금액을 당초 36억원에서 730억원으로 높인 바 있다. </span><span style="letter-spacing: 0.8px;">730억원의 20%에 해당하는 금액을 1심에서 인정받았다. </span></p>
-<p>1심 판결에 대해 삼성디스플레이와 톱텍 모두 항소했다. 톱텍은 지난 7월 항소심 변론기일에서 "(소송 쟁점인 합착장비는) 말단 기술에 불과하고 (삼성디스플레이의) 패널 제조, 판매량 감소와 관련한 영업비밀 침해 기여율은 미미하다"며 "(1심 재판부) 손해액 81억원도 과다하다"고 주장했다. </p>
-<p>이번 사건은 삼성디스플레이가 과거 삼성전자 스마트폰 유기발광다이오드(OLED) 측면에 &apos;엣지&apos;(edge)를 구현하기 위해 톱텍과 합착(라미네이션) 장비를 함께 개발했는데, 톱텍이 관련 기술을 중국 BOE 등으로 유출했다고 주장하며 시작한 민·형사분쟁 중 일부다. </p>
+<p>1심에선 삼성디스플레이가 일부 승소했다. 지난해 10월 <span style="letter-spacing: 0.8px;">수원지방법원은 </span><span style="letter-spacing: 0.8px;">톱텍에 "삼성디스플레이에 위약벌 35억원과 손해배상액 81억원 등 116억원과 지연이자를 지급하라"고 판결했다. 삼성디스플레이는 </span><span style="letter-spacing: 0.8px;">소송 전체 청구금액을 당초 36억원에서 지난 2024년 730억원으로 높인 바 있다. </span></p>
+<p><span style="letter-spacing: 0.8px;">1심 판결에 대해 삼성디스플레이와 톱텍 모두 항소했다. 톱텍은 지난 7월 항소심 변론기일에서 "(소송 쟁점인 합착장비는) 말단 기술에 불과하고 (삼성디스플레이의) 패널 제조, 판매량 감소와 관련한 영업비밀 침해 기여율은 미미하다"며 "(1심 재판부) 손해액 81억원도 과다하다"고 주장했다. </span></p>
+<p>이번 사건은 삼성디스플레이가 과거 삼성전자 스마트폰 유기발광다이오드(OLED) 측면 &apos;엣지&apos;(edge)를 구현하기 위해 톱텍과 합착(라미네이션) 장비를 함께 개발했는데, 톱텍이 관련 기술을 중국 BOE 등으로 유출했다고 주장하며 시작한 민·형사분쟁 중 일부다. </p>
 <p>2018년 시작한 형사사건에선 2023년 톱텍 경영진 유죄가 확정됐다. 2023년 7월 대법원 2부(천대엽·조재연·민유숙·이동원 대법관)는 OLED 합착 기술 유출 사건 상고심에서 톱텍 경영진의 부정경쟁방지법 위반 혐의를 유죄라고 판단했던 수원고법 판결을 확정했다. 방인복 톱텍 사업총괄 등은 실형이 확정됐고, 복역을 마쳤다.</p>
 <p><span style="letter-spacing: 0.8px;">2019년 시작된 민사사건 중 위약벌청구소송 1심 판결(삼성디스플레이 일부 승소)이 지난해 10월 나왔고, 수원고법에서 항소심이 열리고 있다. 특허침해소송 1심에선 지난 6월 삼성디스플레이가 일부 승소했다. 이 사건도 양측이 항소했다. </span></p>]]></description>
 		</item>
@@ -753,29 +771,6 @@
 <p>또 ‘우주산업의 혁신과 성장’ 세션에서는 박재필 우주항공청 규제심사위원회 위원이 ‘글로벌 우주 안보 변화와 국내 우주 산업 생태계 대응 방향성’을 주제로 발표했다.</p>
 <p> 이어진 토론에는 김선우 세종대학교 AI로봇학과 교수, 김이을 쎄트렉아이 대표, 유경덕 LIG D&amp;A 위성체계 단장, 황의호 한국수자원공사 위성연구소장이 참여, 우주산업 생태계와 민간기업 경쟁력 강화 방안을 논의했다. </p>
 <p>한국우주안보학회 이재우 회장은 “튼튼한 우주산업 생태계가 있어야 자주적인 우주안보 역량을 확보할 수 있다"며 이번 토론회가 정부와 국회, 산업계, 학계 간 협력을 강화하고 대한민국이 우주강국으로 도약하기 위한 정책적 해법을 모색하는 계기가 될 수 있기를 기대한다"고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>글로벌테크놀로지, 현대차기아에 스마트 LED 납품</title>
-			<link>https://zdnet.co.kr/view/?no=20261022153120</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261022153120</guid>
-			<author>전화평 기자</author>
-			<category>반도체</category>
-			<category>LED</category>
-			<category>모빌리티</category>
-			<category>현대모비스</category>
-			<category>글로벌테크놀로지</category>
-			<category>전장</category>
-			<category>협력</category>
-			<category>신뢰</category>
-			<category>국내</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Thu, 22 Oct 2026 16:03:33 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/22/080fccd42198b96f764886e7f75c1276.jpg" alt=""><p>발광다이오드(LED) 구동 반도체 팹리스 글로벌테크놀로지가 현대차·기아에 <span style="letter-spacing: 0.8px;">무드램프용 스마트 LED 모듈(ID804)을 납품한다. 연내 양산 예정이다. 글로벌테크놀로지가 모빌리티 부품을 양산하는 것은 이번이 처음이다. </span></p>
-<p><span style="letter-spacing: 0.8px;">김민선 글로벌테크놀로지 대표는 지난 21일 열린 현</span><span style="letter-spacing: 0.8px;">대모비스 차량용 반도체 포럼 &apos;오토 세미콘 코리아(ASK)&apos;에서 </span><span style="letter-spacing: 0.8px;">현대모비스 협력사례를 공개하며 이러한 </span><span style="letter-spacing: 0.8px;">내용을 밝혔다. </span><span style="letter-spacing: 0.8px;">ASK는 현대모비스가 주도하는 국내 차량용 반도체 생태계 조성</span><span style="letter-spacing: 0.8px;"> 민간 협력 포럼이다. </span></p>
-<p>글로벌테크놀로지는 앞으로 전원·통신 통합 반도체, 차세대 통신(CAN) 칩, 디스플레이 백라이트유닛(BLU) 구동 IC 등으로 포트폴리오를 확대할 계획이다. 행사장 전시 부스에서 구동 IC 설계부터 패키징, 광학 설계, 모듈 제작 등 역량을 부각했다. ID804 모듈을 비롯해 마이크로 LED 모듈, 마이크로 CED(CMOS Emitting Device) 360, 초소형 패키지 히든 디스플레이, 오토모티브 BLU 등 구동을 시연했다. </p>
-<img src="https://image.zdnet.co.kr/2026/10/22/080fccd42198b96f764886e7f75c1276.jpg" alt="김민선 글로벌테크놀로지 대표가 발표하는 모습.(사진=글로벌테크놀로지)">
-<p>김민선 대표는 포럼에서 신사업 진입장벽인 신뢰성 인증, 기능안전, 개발체계, 표준 등 난관을 현대모비스와 함께 극복한 과정을 공유했다. 글로벌테크놀로지는 AEC-Q100 등 전장 신뢰성 규격에 맞춰 평가체계를 구축하고, ISO 26262 기능안전 표준을 설계 단계부터 반영하는 등 전사 프로세스를 정비했다.</p>
-<p><span style="letter-spacing: 0.8px;">김민선 </span><span style="letter-spacing: 0.8px;">대표는 "현대모비스 ASK 생태계의 명확한 방향 제시와 협력 덕분에 진입장벽이 높은 전장 시장에 안착했다"며 "첫 양산을 발판으로 제품군을 넓히고 국내 모빌리티 반도체 생태계 강화에 기여하겠다"고 말했다.</span></p>]]></description>
 		</item>
 	</channel>
 </rss>
