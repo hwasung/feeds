@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 22 Oct 2026 18:30:46 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2026 19:31:01 +0900</lastBuildDate>
+		<item>
+			<title>中·日 정부, PHP 취약점에 신속 대응 촉구…“일본 PHP 의존도 높아”</title>
+			<link>https://www.etnews.com/20261022000469</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261022000469</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 22 Oct 2026 18:44:29 +0900</pubDate>
+			<description><![CDATA[프로그래밍 언어 PHP에서 치명적인 보안 취약점이 발견되자 중국·일본 정부도 보안 경고를 발표하고 이용자들에게 신속한 업데이트를 권고했다. 특히 일본어로 된 웹사이트의 절반가량이 PHP를 쓴 대표적 웹사이트 제작 도구 워드프레스에 기반해 만들어지면서 일본 주요 기업들의 온라인 사이트 운영에 대규모 차질이 빚어지고 있다. 22일 요미우리신문과 NHK 등에 따르면 일본의 독립행정법인 정보처리추진기구는 전날 PHP를 이용하고 있는 웹사이트 운영자 등...]]></description>
+		</item>
 		<item>
 			<title>특허 검색에서 기업 업무 전환으로… 워트인텔리전스, LESI에서 &apos;IP-AX&apos; 전략 소개</title>
 			<link>https://www.etnews.com/20261022000452</link>
@@ -33,13 +42,13 @@
 			<description><![CDATA[전 세계 웹사이트와 주요 인프라의 뼈대를 이루는 프로그래밍 언어 PHP에서 치명적인 보안 취약점이 발견돼 우리나라도 민관이 긴급 대응에 나섰다. 유럽과 일본 정부가 발빠르게 정부·공공사이트와 잠재적 타깃 사이트를 잠정 폐쇄한 데 이어 한국 정부도 사이버위기 단계를 '주의'로 높여 발령했다. 국내외 호스팅업체도 긴급 패치에 나서는 한바탕 소동 속, 이번 사태는 인공지능(AI)시대 사이버 보안 이슈의 진화된 한 단면을 드러냈다는 점에서 단순히 넘길...]]></description>
 		</item>
 		<item>
-			<title>[단독] SK텔레콤, 하이닉스 AI협력 전담 &apos;Hy-TF&apos; 신설...TF장에 유경상 CIC장</title>
+			<title>[단독] SK텔레콤, 하이닉스 AI협력 전담 &apos;Hy-TF&apos; 가동...TF장에 유경상 CIC장</title>
 			<link>https://www.etnews.com/20261022000325</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261022000325</guid>
 			<author>박준호</author>
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[SK텔레콤이 SK하이닉스 반도체 공장 인공지능(AI) 사업 협력을 전담할 태스크포스(TF)를 꾸린 것으로 확인됐다. 양사가 협업 중인 디지털 트윈과 데이터 플랫폼 사업을 고도화하는 카운터파트 역할을 맡는다. 첨단 제조분야인 반도체 팹 지원 과정에서 쌓은 AI·데이터 기술력을 기업간거래(B2B) 신사업 발굴로 확장한다. 22일 SK텔레콤은 최근 AI 사내회사(CIC) 산하에 'Hy-TF'를 신설했다. TF는 정식 조직개편을 거치지 않은 내부 임시...]]></description>
+			<description><![CDATA[SK텔레콤이 SK하이닉스 반도체 공장 인공지능(AI) 사업 협력을 전담할 태스크포스(TF)를 꾸린 것으로 확인됐다. 양사가 협업 중인 디지털 트윈과 데이터 플랫폼 사업을 고도화하는 카운터파트 역할을 맡는다. 첨단 제조분야인 반도체 팹 지원 과정에서 쌓은 AI·데이터 기술력을 기업간거래(B2B) 신사업 발굴로 확장한다. SK텔레콤은 최근 AI 사내회사(CIC) 산하에 'Hy-TF'를 가동했다. TF는 정식 조직개편을 거치지 않은 내부 임시조직으로...]]></description>
 		</item>
 		<item>
 			<title>개인정보위, PHP 취약점 개인정보 유출 경고</title>
@@ -260,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 13:00:00 +0900</pubDate>
 			<description><![CDATA[인천시교육청이 10개 정책학교에서 학생의 사고력과 주도성을 기르는 인공지능(AI) 수업 모델을 검증한다. 인천시교육청은 조병영 한양대 교수 연구팀 주관으로 정책학교와 일반학교를 비교해 '읽걷쓰AI' 교수학습 모델의 효과를 분석하고 있다고 20일 밝혔다. 연구 대상은 유치원과 초·중·고·특수학교를 포함한 정책학교 10곳과 대조군인 일반학교다. 학생이 AI에 답을 구하는 데 그치지 않고 스스로 질문하고 결과를 검증하도록 설계한 수업이 실제 학습에...]]></description>
-		</item>
-		<item>
-			<title>강원 창업 도전자 949명, &apos;모두의 창업&apos; 1라운드 진출</title>
-			<link>https://www.etnews.com/20261022000198</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000198</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 11:52:29 +0900</pubDate>
-			<description><![CDATA[강원창조경제혁신센터(대표 이해정)는 중소벤처기업부가 추진하는 2차 '모두의 창업 프로젝트'에서 강원권 창업 도전자 949명이 1라운드 진출자로 선정됐다고 밝혔다. 이번 2차 모집에는 강원권에서 총 7547건의 창업 아이디어가 접수됐다. 일반·기술트랙 6391건, 로컬트랙 1156건으로 전국 접수 건수의 8.1%를 차지했다. 1·2차 누적 접수 건수는 11539건이다. 일반·기술트랙 접수 실적은 전국 17개 시도 가운데 4위, 비수도권에서는 2위...]]></description>
 		</item>
 	</channel>
 </rss>
