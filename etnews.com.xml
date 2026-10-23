@@ -4,7 +4,33 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 23 Oct 2026 09:30:52 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 10:31:01 +0900</lastBuildDate>
+		<item>
+			<title>[기고]PHP2Shell 대응, 경고보다 실질적 방어체계가 먼저다</title>
+			<link>https://www.etnews.com/20261023000032</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000032</guid>
+			<category>오피니언</category>
+			<pubDate>Fri, 23 Oct 2026 09:31:26 +0900</pubDate>
+			<description><![CDATA[PHP2Shell 취약점이 공개된 이후 긴급 보안 경고와 웹사이트 운영 중단 소식이 이어지고 있다. 중대한 취약점에 신속하게 대응하는 것은 당연하다. 그러나 모든 기업이 서비스를 중단하고 보안 패치가 완료되기만을 기다릴 수는 없다. 중요한 것은 이미 알려진 대응 방법을 현장에서 실행하는 일이다. 2021년 Log4Shell과 2022년 Spring4Shell 사태에서도 보안업계는 웹방화벽(WAF) 차단 규칙을 배포하고 신속한 패치를 권고했다....]]></description>
+		</item>
+		<item>
+			<title>포시에스, 베트남 타이탄과 손잡고 의료 전자문서 시장 공략</title>
+			<link>https://www.etnews.com/20261023000028</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000028</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 09:22:22 +0900</pubDate>
+			<description><![CDATA[전자문서 솔루션 전문기업 포시에스가 베트남 타이탄 테크놀로지 코퍼레이션(Titan Technology Corporation)과 전략적 파트너십을 체결하고 해외 의료기관의 디지털 전환 시장 공략에 나선다. 포시에스는 베트남 호찌민에 위치한 타이탄 본사에서 양사 간 협약을 체결하고 의료기관의 각종 종이 서류를 전자문서로 전환하는 의료 페이퍼리스 사업을 공동 추진하기로 했다고 밝혔다. 협약식에는 탄 응우옌(Thanh Nguyen) 타이탄 대표 등이...]]></description>
+		</item>
+		<item>
+			<title>[꿈을 향한 교육] 경기대 대플센터, 한봄고 &apos;모두의 특강&apos; 실시</title>
+			<link>https://www.etnews.com/20261023000027</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000027</guid>
+			<author>추경애</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 09:20:23 +0900</pubDate>
+			<description><![CDATA[경기대학교 대학일자리플러스센터(이하 대플센터)는 지난 21일 경기 수원시 한봄고등학교 1학년 재학생을 대상으로 '중소기업 이해 및 미래 진로 설계' 주제의 '모두의 특강' 행사를 가졌다. 이번 특강 교육은 졸업을 앞둔 예비 취업생을 위한 그간 교육과 달리, 진로 탐색을 시작하는 1학년 학생들이 중소기업과 직업계고 취업을 올바르게 이해하고 장기적인 커리어 방향을 설계할 수 있도록 구성됐다. 교육에선 중소기업에 대한 편견을 바로잡고 특성화고 출신...]]></description>
+		</item>
 		<item>
 			<title>“똑똑한 AI”를 넘어 “안전한 AI로”, 이노테나 지능형 데이터 거버넌스 제시</title>
 			<link>https://www.etnews.com/20261022000472</link>
@@ -241,33 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 14:54:29 +0900</pubDate>
 			<description><![CDATA[웹사이트 개발에 널리 쓰이는 PHP에서 치명적인 보안 취약점이 발견되면서, 장기간 관리되지 않은 홈페이지와 중소기업의 보안 사각지대를 점검해야 한다는 지적이 나온다. 인공지능(AI)을 활용한 취약점 발굴이 확대되는 데 맞춰 선제적인 점검체계를 갖춰야 한다는 제언도 제기됐다. 22일 보안업계는 PHP를 사용하는 시스템을 빠짐없이 파악하고, 보안 패치를 적용하는 것이 급선무라고 강조했다. 즉각적인 업데이트가 어렵다면 외부 접속을 차단하거나 서비스를...]]></description>
-		</item>
-		<item>
-			<title>KOSA·메가존, 파키스탄 정보기술통신부과 소버린 AI 간담회 개최</title>
-			<link>https://www.etnews.com/20261022000309</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000309</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 14:38:01 +0900</pubDate>
-			<description><![CDATA[한국인공지능·소프트웨어산업협회(KOSA)와 메가존클라우드는 지난 21일 과천 메가존산학연센터에서 파키스탄 정보기술통신부(MoITT) 장관 등과 소버린 인공지능(AI) 협력을 위한 간담회를 개최했다고 22일 밝혔다. 이번 간담회는 지난 9월 사우디아라비아 리야드에서 열린 글로벌 기술 전시회 LEAP 2026에서 시작된 협력 논의의 연장선에서 마련됐다. 당시 KOSA는 풀스택 AI 컨소시엄의 주관기업인 메가존클라우드 및 참여기업들과 공동관을 운영했...]]></description>
-		</item>
-		<item>
-			<title>메가존클라우드, AWS 거브클라우드 리셀러 획득…美 공공 진출 기반 마련</title>
-			<link>https://www.etnews.com/20261022000305</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000305</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 14:31:38 +0900</pubDate>
-			<description><![CDATA[메가존클라우드가 미국 정부·공공기관과 방산 등 높은 수준의 보안 및 규제 준수가 요구되는 시장에 진출할 수 있는 기반을 마련했다. 메가존클라우드는 아마존웹서비스(이하 AWS)의 '공인 정부 리셀러' 자격을 획득했다고 22일 밝혔다. 미국 공공부문 및 규제 산업 고객을 대상으로 AWS 거브클라우드(GovCloud) (US)를 공급할 수 있는 자격을 확보한 것이다. AWS GovCloud (US)는 미국 정부와 규제 산업이 요구하는 보안·컴플라이언...]]></description>
-		</item>
-		<item>
-			<title>KLID, &apos;제5회 AI 지역혁신 글로벌 포럼&apos; 개최…&apos;지방행정 AX&apos; 청사진 제시</title>
-			<link>https://www.etnews.com/20261022000298</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000298</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 14:24:39 +0900</pubDate>
-			<description><![CDATA[한국지역정보개발원(KLID)은 서울 프레지던트호텔에서 '제5회 인공지능(AI) 지역혁신 글로벌 포럼'을 성황리에 개최했다고 22일 밝혔다. 'AI로 구현하는 지역 AI 전환(AX)'를 주제로 열린 이번 포럼은 AI 기술을 통한 지방행정 고도화와 지역사회의 실질적 변화 방안을 모색하고자 마련됐다. 이번 행사는 개발원과 독일 프리드리히 나우만재단이 공동 주최하고 행정안전부가 후원했으며, 국내외 AI 전문가와 지방정부 관계자 등 80여 명이 참석했다...]]></description>
 		</item>
 	</channel>
 </rss>
