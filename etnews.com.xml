@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 23 Oct 2026 15:30:46 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 16:30:42 +0900</lastBuildDate>
+		<item>
+			<title>금융·통신·보안기업 뭉쳐 AI 보안 공동 검증…KOTA 설립 추진</title>
+			<link>https://www.etnews.com/20261023000301</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000301</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 15:55:37 +0900</pubDate>
+			<description><![CDATA[금융·통신기업과 보안기업, 학계 전문가들이 인공지능(AI) 보안 기술을 공동 연구하고 검증하는 민간 연합체 설립에 나섰다. 개별 보안 제품의 성능뿐 아니라 여러 기술을 연계했을 때 실제 업무 환경에서 작동하는지도 검증한다는 구상이다. 한국트러스트연합(KOTA) 설립준비위원회는 지난 22일 발기인대회를 열고 AI·디지털 환경의 복합적인 보안 문제에 대응하기 위한 협력체 설립을 추진한다고 밝혔다. 설립 준비에는 교보생명, iM뱅크, 카카오뱅크, 한...]]></description>
+		</item>
+		<item>
+			<title>안랩, &apos;테크 서밋 2026&apos; 개최…AI 보안 강화 전략 공유</title>
+			<link>https://www.etnews.com/20261023000289</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000289</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 15:44:35 +0900</pubDate>
+			<description><![CDATA[안랩은 지난 22일 서울 양재동 엘타워에서 고객사 대상 기술 콘퍼런스 '안랩 테크 서밋 2026'을 개최했다고 23일 밝혔다. 행사에는 공공·금융·제조·정보기술(IT) 등 다양한 분야의 고객사 보안 실무자 160여명이 참석했다. 안랩은 인공지능(AI)을 중심으로 한 보안 강화 전략과 2027년 제품·서비스 로드맵을 공유하고, 최신 사이버 위협 대응 방안을 소개했다. 주요 발표 주제는 자체 AI 플랫폼 '안랩 AI 플러스'를 비롯해 확장 탐지·대...]]></description>
+		</item>
+		<item>
+			<title>이글루, &apos;클라우드 기반의 로그 관리 서버&apos; 특허 취득</title>
+			<link>https://www.etnews.com/20261023000283</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000283</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 15:37:30 +0900</pubDate>
+			<description><![CDATA[이글루코퍼레이션은 네트워크 장애 발생 시에도 보안 로그를 수집하고 발생 순서대로 저장하는 '클라우드 기반의 로그 관리 서버' 특허를 취득했다고 23일 밝혔다. 이글루코퍼레이션은 보안정보이벤트관리(SIEM)와 보안 운영·위협 대응 자동화(SOAR), AI 기반 보안 분석 기술을 개발하는 사이버보안 전문기업이다. 클라우드 보안관제를 비롯해 기업·기관의 보안 위협 탐지와 분석, 대응을 지원하는 다양한 보안 솔루션과 서비스를 제공하고 있다. 이번 특허...]]></description>
+		</item>
+		<item>
+			<title>정부, AIDC 건립 문턱 낮춘다…소부장·솔루션에 2000억 지원</title>
+			<link>https://www.etnews.com/20261023000261</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000261</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 15:07:03 +0900</pubDate>
+			<description><![CDATA[정부가 인공지능 데이터센터(AIDC) 건립을 가로막는 각종 규제를 정비하고 AIDC 생태계 전반을 지원하는 방안을 내놨다. 사업자의 인허가 절차를 간소화하고, 관련 소부장·솔루션 기업에는 2000억원 규모 신규 사업을 추진한다. 23일 과학기술정보통신부(이하 과기정통부)는 대통령 주재 제2차 규제합리화위원회(이하 규합위)를 통해 'AIDC 생태계 지원 방안'을 발표했다고 밝혔다. 생태계 구성 주체를 △AIDC 구축 사업자 △AIDC 소부장·솔루...]]></description>
+		</item>
 		<item>
 			<title>인티그리트, 로봇 인지·판단·행동 핵심기술 특허 4건 확보…차세대 휴머노이드 AI 플랫폼 개발</title>
 			<link>https://www.etnews.com/20261023000259</link>
@@ -236,39 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 16:20:43 +0900</pubDate>
 			<description><![CDATA[스틸리언은 22일 웹사이트 주소(URL) 입력만으로 'PHP2Shell' 취약점 영향 여부를 확인할 수 있는 무료 온라인 서비스를 시작했다. 이용자는 스틸리언 홈페이지 내 전용 페이지에 접속해 점검 대상 웹사이트 주소만 입력하면 된다. 별도 프로그램 설치 없이 취약한 PHP 버전 사용 여부를 확인할 수 있다. PHP2Shell은 웹사이트 개발에 널리 쓰이는 프로그래밍 언어 PHP에서 발견된 치명적인 보안 취약점 2건(CVE-2026-109618...]]></description>
-		</item>
-		<item>
-			<title>美 보안업계 “PHP 보안 결함, AI 없으면 발견 못했다”</title>
-			<link>https://www.etnews.com/20261022000406</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000406</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 16:06:30 +0900</pubDate>
-			<description><![CDATA[전세계 웹사이트에 비상을 부른 PHP 보안 취약점 발견은 인공지능(AI) 도움이 없었다면 불가능한 일이었다고 미 일간 월스트리트저널(WSJ)이 보도했다. 22일 WSJ에 따르면 'PHP2셸' 보안 취약점은 보안업체 캘리프(Calif)의 연구원 라이언 오스틴이 지난 8월 오픈AI의 AI 모델 'GPT-5.6 Sol'을 활용해 PHP 소스코드를 점검하던 중 발견했다. 오픈AI는 오픈소스 소프트웨어의 보안 문제를 찾아 해결하도록 지원하는 활동의 일환...]]></description>
-		</item>
-		<item>
-			<title>[기고] 노벨 과학상, 내년을 기약하며</title>
-			<link>https://www.etnews.com/20261022000102</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000102</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[올해도 기다리던 노벨 과학상 수상 소식은 들려오지 않았다. 올해 노벨 과학상은 빛으로 뇌 속 신경세포를 제어하는 광유전학 기술을 발전시킨 3명의 미국과 독일 과학자, 남극의 거대한 얼음덩이로 중성미자의 측정을 가능하게 한 미국의 물리학자, 유기합성에서 비선형 효과와 비대칭 자기촉매 작용을 발견한 프랑스와 일본 과학자에게 돌아갔다. 빛을 이용해 특정 신경세포가 행동·감정·기억에 미치는 영향을 밝힐 수 있게 한 기술, 얼음덩이로 만든 아이스큐브(I...]]></description>
-		</item>
-		<item>
-			<title>[전대진의 AI시대 스토리노믹스] 〈3〉디렉터가 된 창작자들:무엇을 버릴 것인가</title>
-			<link>https://www.etnews.com/20261022000039</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000039</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 22 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[남이 스쿼트하는 걸 아무리 봐도 내 근육은 1g도 안 붙는다. 내 발로 뛰고 내 몸으로 무게를 견뎌야 한다. 다만 아무렇게나 뛰면 안 되고, 내 몸에 맞는 기구를 고르고 속도를 조절해야 한다. 처음부터 무거운 걸 들면 다치고, 너무 가벼운 걸 들면 시간만 흐른다. 헬스장에 가장 오래 다니는 사람이 가장 좋은 코치를 만난 사람이 아니라, 가장 정직하게 자기 무게를 마주한 사람이다. 창작도 똑같다. 다만 방향이 다르다. 몸은 내가 뛰어야 커지지만,...]]></description>
-		</item>
-		<item>
-			<title>[ET단상] 침묵하는 청소년의 위기 신호, 뇌과학 기반 &apos;선제적 안전망&apos;으로 찾아야</title>
-			<link>https://www.etnews.com/20261022000096</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000096</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 22 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[한국의 OECD 자살률 1위라는 비극은 20년 가깝게 이어지고 있다. 더 뼈아픈 대목은 10~20대 젊은 층의 사망원인 1위가 자살이라는 사실이다. 의료기술의 발달로 신체적 건강수명은 꾸준히 늘었지만, 마음의 건강 영역에서는 참담한 성적표를 받고 있다. 질병과 재난으로부터 국민을 보호하는 '생명안전 복지국가'를 미래상으로 제시한다면, 정신건강 체계의 확립 없이는 그 그림을 완성할 수 없다. 문제의 핵심은 현행 지원체계가 '스스로 상태를 말할 수...]]></description>
 		</item>
 	</channel>
 </rss>
