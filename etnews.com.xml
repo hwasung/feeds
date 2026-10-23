@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 23 Oct 2026 18:30:43 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 19:31:51 +0900</lastBuildDate>
+		<item>
+			<title>낮엔 상담사, 밤엔 AI로 교대…부천시, 카카오톡 행정상담 체계 개편</title>
+			<link>https://www.etnews.com/20261023000347</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000347</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 18:10:09 +0900</pubDate>
+			<description><![CDATA[경기 부천시가 카카오톡으로 24시간 행정 상담을 제공한다. 시는 카카오톡 채널 상담 체계를 개편해 근무 시간에는 전문 상담사와 바로 연결하고, 야간과 주말·공휴일에는 생성형 인공지능(AI) 챗봇이 응대하도록 했다고 23일 밝혔다. 이번 개편은 2023년 7월 시작한 카카오톡 채팅 상담의 연결 절차를 줄이고, 상담사가 근무하지 않는 시간에도 행정 정보를 안내하기 위해 이뤄졌다. 근무 시간에는 기존 선택형 챗봇 메뉴를 거치지 않고 전문 상담사와 바...]]></description>
+		</item>
 		<item>
 			<title>가천대, 지역청년 취업 지원…AI 실무·자격증 비대면 교육과정 운영</title>
 			<link>https://www.etnews.com/20261023000344</link>
@@ -263,15 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 18:44:29 +0900</pubDate>
 			<description><![CDATA[프로그래밍 언어 PHP에서 치명적인 보안 취약점이 발견되자 중국·일본 정부도 보안 경고를 발표하고 이용자들에게 신속한 업데이트를 권고했다. 특히 일본어로 된 웹사이트의 절반가량이 PHP를 쓴 대표적 웹사이트 제작 도구 워드프레스에 기반해 만들어지면서 일본 주요 기업들의 온라인 사이트 운영에 대규모 차질이 빚어지고 있다. 22일 요미우리신문과 NHK 등에 따르면 일본의 독립행정법인 정보처리추진기구는 전날 PHP를 이용하고 있는 웹사이트 운영자 등...]]></description>
-		</item>
-		<item>
-			<title>특허 검색에서 기업 업무 전환으로… 워트인텔리전스, LESI에서 &apos;IP-AX&apos; 전략 소개</title>
-			<link>https://www.etnews.com/20261022000452</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000452</guid>
-			<author>이원지</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 17:22:22 +0900</pubDate>
-			<description><![CDATA[특허 AI 기업 워트인텔리전스(대표 윤정호)가 기업 지식재산 업무의 AI 전환을 뜻하는 'IP-AX'를 글로벌 지식재산ㆍ라이선싱 전문가들에게 소개한다. 특허 검색 도구의 활용을 넘어 연구개발과 지식재산 조직의 업무에 AI를 어떻게 적용할 것인지가 핵심이다. 워트인텔리전스는 오는 24일 서울 여의도 국회의원회관에서 열리는 'LESI YMC 아시아태평양 컨퍼런스 2026'에 후원사로 참여한다. 워트인텔리전스 윤정호 대표는 패널 연사로 나서 'IP-...]]></description>
 		</item>
 	</channel>
 </rss>
