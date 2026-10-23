@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 24 Oct 2026 06:31:13 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 24 Oct 2026 07:31:29 +0900</lastBuildDate>
+		<item>
+			<title>[ET톡] 연구현장 국감, 보다 본질에 다가가길</title>
+			<link>https://www.etnews.com/20261023000201</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000201</guid>
+			<author>김영준</author>
+			<category>오피니언</category>
+			<pubDate>Sat, 24 Oct 2026 07:00:00 +0900</pubDate>
+			<description><![CDATA[지난 20일 대전에서 열린 국가과학기술연구회(NST)·정부출연연구기관(출연연) 등에 대한 과학기술정보방송통신위원회 국정감사는 예년보다는 차분했다는 평이다. 피감 대상을 고압적인 태도로 몰아세우거나, 비판 내용 자체에 공감하기 어려운 경우가 없진 않았다. 다만 눈살을 찌푸리게 하는 대목이 '상대적으로 적었다'는 얘기가 출연연에서도 나온다. 같은 과방위 국감이지만, 다른 자리에서는 고성이 수시로 터져 나오고 여야 대립이 극한 상황으로까지 치달았던...]]></description>
+		</item>
 		<item>
 			<title>[보도 그 후] KERIS, E-ADS 논란에 교육청 RFP서 배제 요청…시장 보호책도 검토</title>
 			<link>https://www.etnews.com/20261023000256</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 23 Oct 2026 09:20:23 +0900</pubDate>
 			<description><![CDATA[경기대학교 대학일자리플러스센터(이하 대플센터)는 지난 21일 경기 수원시 한봄고등학교 1학년 재학생을 대상으로 '중소기업 이해 및 미래 진로 설계' 주제의 '모두의 특강' 행사를 가졌다. 이번 특강 교육은 졸업을 앞둔 예비 취업생을 위한 그간 교육과 달리, 진로 탐색을 시작하는 1학년 학생들이 중소기업과 직업계고 취업을 올바르게 이해하고 장기적인 커리어 방향을 설계할 수 있도록 구성됐다. 교육에선 중소기업에 대한 편견을 바로잡고 특성화고 출신...]]></description>
-		</item>
-		<item>
-			<title>“똑똑한 AI”를 넘어 “안전한 AI로”, 이노테나 지능형 데이터 거버넌스 제시</title>
-			<link>https://www.etnews.com/20261022000472</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000472</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 23 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[신입사원과 임원이 사내 AI에 같은 질문을 던진다. “내년도 사업계획을 알려줘.” AI가 미공개 경영전략과 부서별 예산을 담아 두 사람에게 동일한 답변을 제공한다면 어떨까. 내용이 정확하더라도 질문한 사람에게 해당 정보를 볼 권한이 없다면 적절한 답변이라고 보기 어렵다. 최근 보안 및 내부 정보 유출 우려로 사내 AI 도입을 망설이는 기업이 늘어나는 가운데, 기업용 AI에서는 '얼마나 정확하게 답하는가'와 함께 '누구에게 어디까지 알려줄 수 있...]]></description>
 		</item>
 	</channel>
 </rss>
