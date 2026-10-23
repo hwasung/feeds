@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 23 Oct 2026 10:31:01 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 11:30:37 +0900</lastBuildDate>
+		<item>
+			<title>숭실대 창업동아리 시너지, 피지컬 AI 기업 왓츠랩과 협력</title>
+			<link>https://www.etnews.com/20261023000095</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000095</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 10:36:07 +0900</pubDate>
+			<description><![CDATA[숭실대학교(총장 이윤재)는 창업동아리 '시너지'가 피지컬 인공지능(AI) 스타트업 왓츠랩과 기업미션프로젝트 추진을 위한 업무협약을 체결했다고 밝혔다. 왓츠랩은 장갑형 햅틱 컨트롤러 '에어글러브 아틀라스'를 개발하는 피지컬 AI 분야 스타트업이다. 올해 8월 중소벤처기업부의 기술창업 지원 프로그램인 팁스(TIPS)에 선정됐다. 이번 프로젝트는 대학생들이 스타트업의 실제 경영 과제를 수행하며 산업 현장의 실무 경험을 쌓을 수 있도록 마련됐다. 시너...]]></description>
+		</item>
+		<item>
+			<title>[기고] 반도체로 여는 전남광주 100년, 이제 시민이 나설 때다</title>
+			<link>https://www.etnews.com/20261023000014</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000014</guid>
+			<author>김한식</author>
+			<category>오피니언</category>
+			<pubDate>Fri, 23 Oct 2026 10:33:46 +0900</pubDate>
+			<description><![CDATA[전남광주의 경제 지도를 근본적으로 뒤바꿀 역사적 도전이 시작됐다. 대한민국 첨단산업의 새로운 성장축이 될 '전남광주 반도체 클러스터' 조성이 본격화하고 있다. 이는 단순한 대규모 생산시설 유치를 넘어, 청년 인구 유출과 양질의 일자리 부족이라는 지역의 오랜 구조적 한계를 극복하고 미래 첨단산업의 중심지로 도약할 절호의 기회다. 이 시대적 전환점 앞에 '전남광주반도체포럼'이 닻을 올렸다. 포럼은 담론을 나누는 정책 토론의 장을 넘어, 기업과 시민...]]></description>
+		</item>
+		<item>
+			<title>엔키화이트햇, &apos;PHP2Shell&apos; 취약점 무료 진단 도구 공개</title>
+			<link>https://www.etnews.com/20261023000089</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000089</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 10:29:05 +0900</pubDate>
+			<description><![CDATA[엔키화이트햇은 PHP의 고위험 보안 취약점 'PHP2Shell' 노출 여부를 확인할 수 있는 무료 진단 스캐너와 취약점 분석 보고서를 23일 공개했다. PHP2Shell은 웹사이트 개발에 널리 사용되는 PHP에서 발견된 취약점으로, 공격자가 별도의 인증 없이 원격에서 악성 코드를 실행할 수 있다. 국제 보안 취약점 평가체계(CVSS) 4.0 기준 위험도는 9.2점이다. 해당 취약점은 CVE-2026-109618과 CVE-2026-109619로...]]></description>
+		</item>
+		<item>
+			<title>“AI 시대, 오픈소스가 답이다”…28일 &apos;K-오픈소스 AX&apos; 서 노하우 공유</title>
+			<link>https://www.etnews.com/20261023000078</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000078</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 23 Oct 2026 10:19:49 +0900</pubDate>
+			<description><![CDATA[오픈소스를 활용한 기업의 인공지능 전환(AX) 전략과 실전 도입 방안을 모색하는 자리가 마련된다. 소프트웨어 관리부터 AI 데이터 플랫폼, 데이터베이스(DB) 인프라, 보안까지 오픈소스 기반 AX 확산에 필요한 기술과 운영 전략을 논의한다. 전자신문과 한국오픈소스협회는 오는 28일 서울 강남구 한국과학기술회관 대회의실에서 '2026 K-opensource AX'를 개최한다. '오픈소스 AX: 실전 도입과 산업확장 전략'을 주제로 열리는 이번 행...]]></description>
+		</item>
 		<item>
 			<title>[기고]PHP2Shell 대응, 경고보다 실질적 방어체계가 먼저다</title>
 			<link>https://www.etnews.com/20261023000032</link>
@@ -39,15 +75,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 23 Oct 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[신입사원과 임원이 사내 AI에 같은 질문을 던진다. “내년도 사업계획을 알려줘.” AI가 미공개 경영전략과 부서별 예산을 담아 두 사람에게 동일한 답변을 제공한다면 어떨까. 내용이 정확하더라도 질문한 사람에게 해당 정보를 볼 권한이 없다면 적절한 답변이라고 보기 어렵다. 최근 보안 및 내부 정보 유출 우려로 사내 AI 도입을 망설이는 기업이 늘어나는 가운데, 기업용 AI에서는 '얼마나 정확하게 답하는가'와 함께 '누구에게 어디까지 알려줄 수 있...]]></description>
-		</item>
-		<item>
-			<title>[기고] 반도체로 여는 전남광주 100년, 이제 시민이 나설 때다</title>
-			<link>https://www.etnews.com/20261023000014</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261023000014</guid>
-			<author>김한식</author>
-			<category>오피니언</category>
-			<pubDate>Fri, 23 Oct 2026 08:50:53 +0900</pubDate>
-			<description><![CDATA[전남광주의 경제 지도를 근본적으로 뒤바꿀 역사적 도전이 시작됐다. 대한민국 첨단산업의 새로운 성장축이 될 '전남광주 반도체 클러스터' 조성이 본격화하고 있다. 이는 단순한 대규모 생산시설 유치를 넘어, 청년 인구 유출과 양질의 일자리 부족이라는 지역의 오랜 구조적 한계를 극복하고 미래 첨단산업의 중심지로 도약할 절호의 기회다. 이 시대적 전환점 앞에 '전남광주반도체포럼'이 닻을 올렸다. 포럼은 담론을 나누는 정책 토론의 장을 넘어, 기업과 시민...]]></description>
 		</item>
 		<item>
 			<title>데이터독, 클라우드 보안기업 업윈드에 5.3조원 인수 제안</title>
@@ -240,33 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 22 Oct 2026 15:04:31 +0900</pubDate>
 			<description><![CDATA[씽크포비엘이 인공지능(AI) 신뢰성 기술 상용화를 위한 국제 협력을 강화한다. 씽크포비엘은 프랑스 AI 강건성 평가 기업 '누말리스(Numalis)' 등 국제 AI 기업과 신뢰성 기술 협력을 추진한다고 22일 밝혔다. 자체 데이터 충실도 진단 도구 '리인(Re:In)'과 누말리스의 AI 모델 강건성 평가 도구 '사임풀(Saimple)'을 결합한 통합 플랫폼을 개발한다. AI 시험 조건을 설계하고 해당 조건에서 모델이 안정적으로 작동하는지 평가하...]]></description>
-		</item>
-		<item>
-			<title>시선AI, 日 &apos;AI 원격의료 플랫폼&apos; 출시…헬스케어 시장 공략</title>
-			<link>https://www.etnews.com/20261022000329</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000329</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 14:55:14 +0900</pubDate>
-			<description><![CDATA[시선AI가 인공지능(AI) 원격의료 플랫폼을 일본에 출시하며 의료·바이오 시장 진출을 본격화한다. 시선AI는 일본 최대 IT 전시회 '재팬 IT 위크 어텀 2026'에서 AI 원격의료 플랫폼 '씨유헬스(SEEU Health)'를 공개했하고 일본 시장에 출시했다고 22일 밝혔다. 씨유헬스는 비전 AI 기술로 환자의 생체신호를 측정하고 비대면 진료를 지원하는 플랫폼이다. 혈압·심박수·호흡수·산소포화도 측정, 음성 대화 기반 AI 문진, 전자의무기록...]]></description>
-		</item>
-		<item>
-			<title>[이슈플러스] 10년 묵은 PHP 결함, AI가 뚫었다</title>
-			<link>https://www.etnews.com/20261022000328</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000328</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 14:54:53 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)이 10년 넘게 PHP에 숨어 있던 보안 결함의 치명적인 위험성을 밝혀냈다. AI를 활용하면 오랫동안 발견되지 않았거나 공격이 어려웠던 취약점도 단기간에 뚫을 수 있다는 사실이 입증된 것이다. 이는 보안 연구 성과인 동시에 해커들도 AI를 무기로 새로운 공격에 나설 수 있다는 경고다. ◇비밀번호 없이 서버 장악…어떻게 가능했나 글로벌 보안업체 위즈(Wiz)는 PHP 취약점을 악용해 관리자 아이디나 비밀번호 없이 서버에서 악성 코드...]]></description>
-		</item>
-		<item>
-			<title>[이슈플러스] PHP 해킹 비상, 어떻게 막나…구형 웹사이트 &apos;보안 사각지대&apos;</title>
-			<link>https://www.etnews.com/20261022000327</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000327</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 22 Oct 2026 14:54:29 +0900</pubDate>
-			<description><![CDATA[웹사이트 개발에 널리 쓰이는 PHP에서 치명적인 보안 취약점이 발견되면서, 장기간 관리되지 않은 홈페이지와 중소기업의 보안 사각지대를 점검해야 한다는 지적이 나온다. 인공지능(AI)을 활용한 취약점 발굴이 확대되는 데 맞춰 선제적인 점검체계를 갖춰야 한다는 제언도 제기됐다. 22일 보안업계는 PHP를 사용하는 시스템을 빠짐없이 파악하고, 보안 패치를 적용하는 것이 급선무라고 강조했다. 즉각적인 업데이트가 어렵다면 외부 접속을 차단하거나 서비스를...]]></description>
 		</item>
 	</channel>
 </rss>
