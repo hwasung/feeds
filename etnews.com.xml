@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 24 Oct 2026 12:30:34 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 24 Oct 2026 13:30:38 +0900</lastBuildDate>
+		<item>
+			<title>[ET시선]코스피 급락 속 여당의 &apos;1만피&apos; 낙관론</title>
+			<link>https://www.etnews.com/20261023000264</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000264</guid>
+			<author>정치연</author>
+			<category>오피니언</category>
+			<pubDate>Sat, 24 Oct 2026 13:00:00 +0900</pubDate>
+			<description><![CDATA[코스피가 5500선까지 밀렸다. 이달 초 7000선을 웃돌던 지수가 불과 3주 만에 20% 넘게 하락하면서 국내 증시의 변동성이 커지고 투자자들의 불안도 깊어지고 있다. 이런 상황에서 집권 여당 대변인이 내년 코스피 1만 포인트를 기대한다고 밝혔다. 주가의 장기적인 상승 가능성을 제시할 수는 있다. 그러나 시장이 급격히 흔들리는 시점에 정치권이 먼저 내놓아야 할 것은 장밋빛 전망이 아니라 현실에 대한 냉정한 진단과 구체적인 대응책이다. 최근 조...]]></description>
+		</item>
 		<item>
 			<title>PHP 취약점 악용한 공격 계획 포착…북한 해킹조직 연계 여부 주목</title>
 			<link>https://www.etnews.com/20261024000009</link>
@@ -265,14 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 23 Oct 2026 10:19:49 +0900</pubDate>
 			<description><![CDATA[오픈소스를 활용한 기업의 인공지능 전환(AX) 전략과 실전 도입 방안을 모색하는 자리가 마련된다. 소프트웨어 관리부터 AI 데이터 플랫폼, 데이터베이스(DB) 인프라, 보안까지 오픈소스 기반 AX 확산에 필요한 기술과 운영 전략을 논의한다. 전자신문과 한국오픈소스협회는 오는 28일 서울 강남구 한국과학기술회관 대회의실에서 '2026 K-opensource AX'를 개최한다. '오픈소스 AX: 실전 도입과 산업확장 전략'을 주제로 열리는 이번 행...]]></description>
-		</item>
-		<item>
-			<title>[기고]PHP2Shell 대응, 경고보다 실질적 방어체계가 먼저다</title>
-			<link>https://www.etnews.com/20261023000032</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261023000032</guid>
-			<category>오피니언</category>
-			<pubDate>Fri, 23 Oct 2026 09:31:26 +0900</pubDate>
-			<description><![CDATA[PHP2Shell 취약점이 공개된 이후 긴급 보안 경고와 웹사이트 운영 중단 소식이 이어지고 있다. 중대한 취약점에 신속하게 대응하는 것은 당연하다. 그러나 모든 기업이 서비스를 중단하고 보안 패치가 완료되기만을 기다릴 수는 없다. 중요한 것은 이미 알려진 대응 방법을 현장에서 실행하는 일이다. 2021년 Log4Shell과 2022년 Spring4Shell 사태에서도 보안업계는 웹방화벽(WAF) 차단 규칙을 배포하고 신속한 패치를 권고했다....]]></description>
 		</item>
 	</channel>
 </rss>
