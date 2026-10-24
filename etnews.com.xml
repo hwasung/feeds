@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 24 Oct 2026 10:30:44 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 24 Oct 2026 12:30:34 +0900</lastBuildDate>
+		<item>
+			<title>PHP 취약점 악용한 공격 계획 포착…북한 해킹조직 연계 여부 주목</title>
+			<link>https://www.etnews.com/20261024000009</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261024000009</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 24 Oct 2026 11:31:47 +0900</pubDate>
+			<description><![CDATA[세계 웹사이트에서 널리 사용되는 프로그래밍 언어 PHP의 보안 취약점을 악용한 사이버 공격을 준비하는 정황이 포착됐다. 한국어를 사용하는 조직원들이 정부와 금융기관 등을 주요 표적으로 논의한 것으로 파악됐다. 북한 배후 해킹조직인 라자루스 그룹과의 연관성도 제기됐지만, 직접적인 연계 여부는 아직 확인되지 않았다. 24일 보안업계에 따르면 싱가포르 사이버보안 기업 사이퍼마(CYFIRMA)는 익명성이 보장되는 폐쇄형 네트워크 'I2P'에서 한국어를...]]></description>
+		</item>
 		<item>
 			<title>[人사이트] 최영화 블루그린링크 대표 “바이오가스 발전 국산화…물 넘어 에너지로 도약”</title>
 			<link>https://www.etnews.com/20261023000091</link>
@@ -264,15 +273,6 @@
 			<category>오피니언</category>
 			<pubDate>Fri, 23 Oct 2026 09:31:26 +0900</pubDate>
 			<description><![CDATA[PHP2Shell 취약점이 공개된 이후 긴급 보안 경고와 웹사이트 운영 중단 소식이 이어지고 있다. 중대한 취약점에 신속하게 대응하는 것은 당연하다. 그러나 모든 기업이 서비스를 중단하고 보안 패치가 완료되기만을 기다릴 수는 없다. 중요한 것은 이미 알려진 대응 방법을 현장에서 실행하는 일이다. 2021년 Log4Shell과 2022년 Spring4Shell 사태에서도 보안업계는 웹방화벽(WAF) 차단 규칙을 배포하고 신속한 패치를 권고했다....]]></description>
-		</item>
-		<item>
-			<title>포시에스, 베트남 타이탄과 손잡고 의료 전자문서 시장 공략</title>
-			<link>https://www.etnews.com/20261023000028</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261023000028</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 23 Oct 2026 09:22:22 +0900</pubDate>
-			<description><![CDATA[전자문서 솔루션 전문기업 포시에스가 베트남 타이탄 테크놀로지 코퍼레이션(Titan Technology Corporation)과 전략적 파트너십을 체결하고 해외 의료기관의 디지털 전환 시장 공략에 나선다. 포시에스는 베트남 호찌민에 위치한 타이탄 본사에서 양사 간 협약을 체결하고 의료기관의 각종 종이 서류를 전자문서로 전환하는 의료 페이퍼리스 사업을 공동 추진하기로 했다고 밝혔다. 협약식에는 탄 응우옌(Thanh Nguyen) 타이탄 대표 등이...]]></description>
 		</item>
 	</channel>
 </rss>
