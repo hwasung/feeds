@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 25 Oct 2026 18:31:13 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 25 Oct 2026 19:30:21 +0900</lastBuildDate>
+		<item>
+			<title>오라클 AI 월드 25일 개막…AI 중심 비즈니스 전략·미래 비전 제시</title>
+			<link>https://www.etnews.com/20261025000100</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261025000100</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 25 Oct 2026 18:46:45 +0900</pubDate>
+			<description><![CDATA[오라클이 데이터·애플리케이션·클라우드 인프라를 아우르는 인공지능(AI) 전략을 공개한다. 기업의 AI 도입을 실질적인 비즈니스 성과로 연결하는 방안을 제시한다. 오라클은 25일(현지시간)부터 28일까지 미국 라스베이거스 베네시안 컨벤션 & 엑스포 센터에서 '오라클 AI 월드 2026'을 개최한다. 오라클AI 월드는 클라우드 인프라, 데이터베이스, 애플리케이션 및 AI 기술 전반에 걸친 오라클의 최신 혁신과 전략을 소개하는 글로벌 행사다. 올해...]]></description>
+		</item>
 		<item>
 			<title>[대한민국 SNS 대상] 강진군, 직접 운영과 디자인 개선으로 SNS 소통</title>
 			<link>https://www.etnews.com/20261022000369</link>
@@ -259,15 +268,6 @@
 			<category>오피니언</category>
 			<pubDate>Sat, 24 Oct 2026 13:00:00 +0900</pubDate>
 			<description><![CDATA[코스피가 5500선까지 밀렸다. 이달 초 7000선을 웃돌던 지수가 불과 3주 만에 20% 넘게 하락하면서 국내 증시의 변동성이 커지고 투자자들의 불안도 깊어지고 있다. 이런 상황에서 집권 여당 대변인이 내년 코스피 1만 포인트를 기대한다고 밝혔다. 주가의 장기적인 상승 가능성을 제시할 수는 있다. 그러나 시장이 급격히 흔들리는 시점에 정치권이 먼저 내놓아야 할 것은 장밋빛 전망이 아니라 현실에 대한 냉정한 진단과 구체적인 대응책이다. 최근 조...]]></description>
-		</item>
-		<item>
-			<title>PHP 취약점 악용한 공격 계획 포착…북한 해킹조직 연계 여부 주목</title>
-			<link>https://www.etnews.com/20261024000009</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261024000009</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sat, 24 Oct 2026 11:31:47 +0900</pubDate>
-			<description><![CDATA[세계 웹사이트에서 널리 사용되는 프로그래밍 언어 PHP의 보안 취약점을 악용한 사이버 공격을 준비하는 정황이 포착됐다. 한국어를 사용하는 조직원들이 정부와 금융기관 등을 주요 표적으로 논의한 것으로 파악됐다. 북한 배후 해킹조직인 라자루스 그룹과의 연관성도 제기됐지만, 직접적인 연계 여부는 아직 확인되지 않았다. 24일 보안업계에 따르면 싱가포르 사이버보안 기업 사이퍼마(CYFIRMA)는 익명성이 보장되는 폐쇄형 네트워크 'I2P'에서 한국어를...]]></description>
 		</item>
 	</channel>
 </rss>
