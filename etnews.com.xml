@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 25 Oct 2026 07:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 25 Oct 2026 09:30:22 +0900</lastBuildDate>
+		<item>
+			<title>아란타 &apos;위즈헬퍼원&apos;, 조달청 10월 주목상품 선정</title>
+			<link>https://www.etnews.com/20261023000016</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000016</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 25 Oct 2026 09:01:00 +0900</pubDate>
+			<description><![CDATA[원격접속 통제 및 보안 솔루션 전문기업 아란타(대표 윤상권)는 온라인 용역통제시스템 '위즈헬퍼원(WizHelperOne)'이 조달청의 '2026년 10월 주목상품'에 선정됐다고 25일 밝혔다. 위즈헬퍼원은 외부 유지보수 업체가 공공기관이나 기업의 내부 정보시스템에 원격으로 접속할 때 발생할 수 있는 보안 위험을 관리하는 솔루션이다. 국가 사이버보안 기본지침의 원격접속 관련 보안 요구사항을 준수하며 작업 신청과 승인부터 사용자·단말 검증, 접속...]]></description>
+		</item>
 		<item>
 			<title>램파드, 글로벌 위협정보 연계해 네트워크 성능·보안 통합 분석 강화</title>
 			<link>https://www.etnews.com/20261024000040</link>
@@ -265,15 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 23 Oct 2026 13:30:43 +0900</pubDate>
 			<description><![CDATA[더존비즈온이 법무법인 세종과 손잡고 기업의 인공지능(AI) 거버넌스 구축과 규제 대응을 지원한다. 더존비즈온은 서울 종로구 법무법인 세종 사무실에서 법무법인(유한) 세종과 AI 거버넌스·컴플라이언스 분야 상호협력 협약(MOU)을 체결했다고 23일 밝혔다. 이번 협약으로 양사는 기업들이 AI 전환(AX)를 추진하는 과정에서 요구되는 AI 거버넌스·컴플라이언스, 보안체계 구축, 법률 리스크 관리 등 관련 법률자문 수요에 공동으로 대응하는 협력 체계...]]></description>
-		</item>
-		<item>
-			<title>숭실대 창업동아리 시너지, 피지컬 AI 기업 왓츠랩과 협력</title>
-			<link>https://www.etnews.com/20261023000095</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261023000095</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 23 Oct 2026 10:36:07 +0900</pubDate>
-			<description><![CDATA[숭실대학교(총장 이윤재)는 창업동아리 '시너지'가 피지컬 인공지능(AI) 스타트업 왓츠랩과 기업미션프로젝트 추진을 위한 업무협약을 체결했다고 밝혔다. 왓츠랩은 장갑형 햅틱 컨트롤러 '에어글러브 아틀라스'를 개발하는 피지컬 AI 분야 스타트업이다. 올해 8월 중소벤처기업부의 기술창업 지원 프로그램인 팁스(TIPS)에 선정됐다. 이번 프로젝트는 대학생들이 스타트업의 실제 경영 과제를 수행하며 산업 현장의 실무 경험을 쌓을 수 있도록 마련됐다. 시너...]]></description>
 		</item>
 	</channel>
 </rss>
