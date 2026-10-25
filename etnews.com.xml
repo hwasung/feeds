@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 25 Oct 2026 14:30:22 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 25 Oct 2026 15:30:24 +0900</lastBuildDate>
+		<item>
+			<title>네이블, 산업용 5G 넘어 &apos;AI 인프라&apos; 시장 공략…반도체·철도·금융 레퍼런스 기반 사업 확장</title>
+			<link>https://www.etnews.com/20261023000244</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000244</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 25 Oct 2026 14:22:00 +0900</pubDate>
+			<description><![CDATA[네이블은 통신 핵심 소프트웨어 개발 경험과 5G 특화망(이음5G) 구축 레퍼런스를 바탕으로 산업용 AI 인프라 사업 확대를 추진한다고 25일 밝혔다. 산업 현장의 인공지능(AI) 활용이 확대되면서 로봇과 설비, 센서, AI 시스템을 안정적으로 연결하는 통신 인프라의 중요성이 커지는 만큼 관련 시장에 대한 축적된 경험을 바탕으로 이 시장을 공략한다는 복안이다. 네이블은 2022년 8월 5G 특화망 기간통신사업자로 등록한 이후 의료·철도·반도체 제...]]></description>
+		</item>
 		<item>
 			<title>육·해·공에 흩어진 GPU 통합…국방AI데이터센터 밑그림 착수</title>
 			<link>https://www.etnews.com/20261023000175</link>
@@ -265,15 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 23 Oct 2026 15:44:35 +0900</pubDate>
 			<description><![CDATA[안랩은 지난 22일 서울 양재동 엘타워에서 고객사 대상 기술 콘퍼런스 '안랩 테크 서밋 2026'을 개최했다고 23일 밝혔다. 행사에는 공공·금융·제조·정보기술(IT) 등 다양한 분야의 고객사 보안 실무자 160여명이 참석했다. 안랩은 인공지능(AI)을 중심으로 한 보안 강화 전략과 2027년 제품·서비스 로드맵을 공유하고, 최신 사이버 위협 대응 방안을 소개했다. 주요 발표 주제는 자체 AI 플랫폼 '안랩 AI 플러스'를 비롯해 확장 탐지·대...]]></description>
-		</item>
-		<item>
-			<title>이글루, &apos;클라우드 기반의 로그 관리 서버&apos; 특허 취득</title>
-			<link>https://www.etnews.com/20261023000283</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261023000283</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 23 Oct 2026 15:37:30 +0900</pubDate>
-			<description><![CDATA[이글루코퍼레이션은 네트워크 장애 발생 시에도 보안 로그를 수집하고 발생 순서대로 저장하는 '클라우드 기반의 로그 관리 서버' 특허를 취득했다고 23일 밝혔다. 이글루코퍼레이션은 보안정보이벤트관리(SIEM)와 보안 운영·위협 대응 자동화(SOAR), AI 기반 보안 분석 기술을 개발하는 사이버보안 전문기업이다. 클라우드 보안관제를 비롯해 기업·기관의 보안 위협 탐지와 분석, 대응을 지원하는 다양한 보안 솔루션과 서비스를 제공하고 있다. 이번 특허...]]></description>
 		</item>
 	</channel>
 </rss>
