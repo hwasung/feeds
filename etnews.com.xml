@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 26 Oct 2026 06:30:23 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2026 08:30:26 +0900</lastBuildDate>
+		<item>
+			<title>“실무형 SW·보안 인재 키운다”…다올티에스·단국대·팔로알토 네트웍스 3자 협력</title>
+			<link>https://www.etnews.com/20261026000001</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000001</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 07:48:37 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 플랫폼 선도기업인 다올티에스(대표 홍정화)는 지난 7일 단국대 AI융합대학(학장 최종무), 글로벌 사이버보안 기업 팔로알토네트웍스코리아(지사장 박상규)와 SW 분야 인재 양성 및 연구개발을 위한 3자 교류협력 협약(MOU)을 체결했다고 밝혔다. 이번 협약은 세 기관 간 긴밀한 교류를 통해 공동 발전을 이루고, 사이버보안 분야 전문 인재를 체계적으로 양성하기 위한 상호협력체계를 구축하기 위해 마련됐다. 협약에 따라 3개 기관은 각...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 채권으로 모은 돈이 벤처로 간다…중국 혁신채권 설계와 만기 위험</title>
 			<link>https://www.etnews.com/20261015000396</link>
@@ -258,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sat, 24 Oct 2026 21:57:55 +0900</pubDate>
 			<description><![CDATA[네트워크 성능분석 전문기업 램파드가 글로벌 사이버 위협 인텔리전스 기업 그룹아이비(Group-IB)의 침해지표(IOC) 정보를 연계해 네트워크 성능과 보안 위협을 통합 분석하는 기능을 선보인다. 램파드(대표 김신규)는 패킷 기반 네트워크 성능 모니터링 및 진단(NPMD) 솔루션 'AI LAMPAD'에 그룹아이비의 IOC 인텔리전스를 결합한 신규 보안 분석 기능을 추가할 계획이라고 24일 밝혔다. 이번 기능은 기존 AI LAMPAD가 제공하는 네...]]></description>
-		</item>
-		<item>
-			<title>“한국, AI &apos;모럴 리더십&apos; 잡아야”…안전·신뢰를 수출 경쟁력으로</title>
-			<link>https://www.etnews.com/20261023000248</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261023000248</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sat, 24 Oct 2026 15:00:00 +0900</pubDate>
-			<description><![CDATA['모럴(도덕적) 리더십'을 바탕으로 인공지능(AI) 안전성과 신뢰를 확보하는 것이 한국 AI 산업의 새로운 경쟁력이 될 수 있다는 분석이 나왔다. AI 안전과 신뢰를 규제 대응 차원에 머물게 하지 않고, 세계 시장 진출을 위한 차별화된 경쟁력으로 활용해야 한다는 것이다. 전자신문 창간 44주년 특별기획 'AI 세이프가드' 기획 마무리 좌담회 참석자들은 글로벌 AI 주도권 경쟁 속에서 한국이 차별화한 위상을 확보하기 위한 전략을 논의했다. 변순용...]]></description>
 		</item>
 	</channel>
 </rss>
