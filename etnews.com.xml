@@ -4,7 +4,51 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 26 Oct 2026 10:30:52 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2026 11:30:48 +0900</lastBuildDate>
+		<item>
+			<title>티오리, &apos;Node2Shell&apos; 긴급 대응 가이드 공개</title>
+			<link>https://www.etnews.com/20261026000159</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000159</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 10:58:16 +0900</pubDate>
+			<description><![CDATA[티오리는 Node.js에서 발견된 보안 취약점 'Node2Shell(CVE-2026-111497)'을 자체 재현·검증하고 대응 가이드를 공개했다고 26일 밝혔다. Node2Shell은 웹 서버와 백엔드 개발에 사용되는 Node.js의 Brotli 압축 해제 모듈에서 발생하는 취약점으로 지난 21일 공개됐다. 공격자가 조작된 압축 데이터를 전송하면 서버 장애가 발생할 수 있으며, 특정 조건에서는 메모리 정보 유출이나 원격 코드 실행으로 이어질 가...]]></description>
+		</item>
+		<item>
+			<title>다올티에스·단국대·팔로알토, SW·사이버보안 인재 양성 협력</title>
+			<link>https://www.etnews.com/20261026000151</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000151</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 10:53:29 +0900</pubDate>
+			<description><![CDATA[다올티에스는 단국대 AI융합대학, 팔로알토네트웍스코리아와 소프트웨어(SW)·사이버보안 분야 전문인재 양성 및 공동 연구개발을 위한 3자 업무협약(MOU)을 체결했다고 26일 밝혔다. 이번 협약에 따라 세 기관은 각자 보유한 교육 인프라와 보안 기술 역량을 활용해 산업 현장에서 요구하는 실무형 인재 양성에 협력한다. 주요 협력 분야는 △SW·사이버보안 기술 및 연구개발 사업 공동 참여 △실무 역량을 갖춘 전문인재 양성 △교육·연구 인프라 공동 활...]]></description>
+		</item>
+		<item>
+			<title>윙사이드, 첫 전기차 충전소 개소…AI 기반 충전 인프라 사업 본격화</title>
+			<link>https://www.etnews.com/20261026000145</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000145</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 10:47:58 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기반 전기차 충전 인프라 전문기업 윙사이드(WINGSIDE)가 첫 전기차 충전소를 개소하고 충전 인프라 운영사업에 본격 진출했다. 윙사이드(대표 신유선)는 올해 1월 설립된 이후 약 10개월 만에 AI기반 충전소 통합 운영 플랫폼과 이용자·유지보수·충전사업자(CPO) 전용 모바일 애플리케이션을 개발·출시한 데 이어 자체 충전소 운영까지 사업 영역을 확대했다고 26일 밝혔다. 윙사이드는 전기차 충전시장의 경쟁력이 충전기 설치 규모...]]></description>
+		</item>
+		<item>
+			<title>오픈AI, 스타트업 AI 서비스 지원 &apos;모델 마스터즈&apos; 국내 첫 개최</title>
+			<link>https://www.etnews.com/20261026000132</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000132</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 10:40:57 +0900</pubDate>
+			<description><![CDATA[오픈AI가 국내 스타트업 인공지능(AI) 서비스 개발을 지원하는 '오픈AI 모델 마스터즈'를 국내에서 처음 개최했다. 총 11개 기업이 참여해 오픈AI 모델로 개발한 서비스를 선보였으며 영상 이해 기반 AI 편집 솔루션을 소개한 컷백이 1위를 차지했다. 모델 마스터즈는 AI 활용 아이디어를 실제 제품과 기능으로 구현하고 사업 현장 문제 해결로 연결하도록 지원하는 프로그램이다. 오픈AI는 벤처캐피털(VC)이 추천한 스타트업에 API 크레딧을 제공...]]></description>
+		</item>
+		<item>
+			<title>[기고]신뢰를 공격하는 시대, 공급망 보안의 기준이 바뀌고 있다</title>
+			<link>https://www.etnews.com/20261023000084</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261023000084</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 26 Oct 2026 10:25:00 +0900</pubDate>
+			<description><![CDATA[AI 공격 시대, 공급망 보안은 구성요소를 운영 자산과 연결하는 데서 시작한다 새 취약점이 공개되거나 공급업체가 침해를 공지하면 조직은 먼저 '그 구성요소가 우리 어느 운영 자산에 들어 있는가'에 답해야 한다. 이 질문에 답하지 못하면 패치도 격리도 시작할 수 없다. 여기에 악성 패키지, 변조된 빌드, 탈취된 유지관리자 계정처럼 CVE 검색만으로는 보이지 않는 위험도 존재한다. 따라서 소프트웨어 자재명세서(SBOM)는 구성요소 목록에 그치지 않...]]></description>
+		</item>
 		<item>
 			<title>한국승강기안전공단, 부패방지경영시스템 인증</title>
 			<link>https://www.etnews.com/20261026000063</link>
@@ -225,50 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 25 Oct 2026 18:00:00 +0900</pubDate>
 			<description><![CDATA[경기도의회가 '2026 대한민국 SNS대상'에서 비영리부문 대상을 차지했다. 9년 연속 수상 기록이다. 도민 눈높이에 맞춘 다양한 콘텐츠로 의정정보를 쉽고 친근하게 전달하며 꾸준히 소통해 온 노력이 수상으로 이어졌다. 도의회는 블로그와 인스타그램, 페이스북 등 다양한 SNS 채널을 통해 의정활동과 주요 조례를 도민 눈높이에 맞춰 전달해 온 점에서 좋은 평가를 받았다. 특히 올해는 인공지능(AI) 기술을 접목한 새로운 영상 콘텐츠로 홍보 영역을...]]></description>
-		</item>
-		<item>
-			<title>[대한민국 SNS 대상]은평구, 주민 일상 담은 콘텐츠로 SNS 소통 성과</title>
-			<link>https://www.etnews.com/20261022000363</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000363</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 25 Oct 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[서울 은평구가 '제16회 2026 대한민국 SNS대상'에서 공공부문 종합대상인 과학기술정보통신부 장관상을 수상했다. 전국 자치구 가운데 공공부문 종합대상을 받은 것은 은평구가 처음이다. 은평구는 인스타그램과 페이스북, 블로그, 카카오톡 채널, 당근, 유튜브 등 다양한 SNS를 통해 구정 소식과 생활정보를 전달하고 있다. 특히 지역의 일상과 사계절 풍경을 담은 현장 중심 콘텐츠로 주민들의 공감을 이끌어낸 점이 주요 수상 요인으로 꼽혔다. 대표적인...]]></description>
-		</item>
-		<item>
-			<title>[대한민국 SNS 대상]LG유플러스, 채널별 차별화 전략으로 브랜드 공감·참여 확대</title>
-			<link>https://www.etnews.com/20261022000361</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000361</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 25 Oct 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[LG유플러스는 지난해 통신정보서비스 부문 대상에 이어 올해 기업부문 최고상을 받으며 디지털 소통 역량을 인정받았다. LG유플러스는 브랜드 슬로건 '심플리 유플러스(Simply. U+)'를 바탕으로 공식 소셜미디어 채널을 고객 경험 중심의 플랫폼으로 발전시켜 왔다. 일방적 정보 전달에서 벗어나 고객의 일상과 관심사를 브랜드 메시지에 연결하고 공감과 참여를 이끄는 콘텐츠를 확대하는 데 주력했다. 특히 복잡한 통신 서비스와 기술을 고객 눈높이에 맞춰...]]></description>
-		</item>
-		<item>
-			<title>[대한민국 SNS 대상] 새만금개발청, 눈높이 콘텐츠로 소통</title>
-			<link>https://www.etnews.com/20261022000359</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000359</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 25 Oct 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[새만금개발청(청장 문성요)이 2026 대한민국 SNS 대상에서 공공부문(정부부처) 최우수상을 수상했다. 새만금개발청은 '국민과 함께 성장하는 새만금개발청'을 핵심 방향으로 삼아, 변화하는 SNS 환경과 국민의 콘텐츠 소비 경향을 반영한 다양한 소통 콘텐츠를 선보인 점에서 좋은 평가를 받았다. 특히 정책을 일방적으로 전달하는 방식에서 벗어나 국민이 쉽고 재미있게 이해하고 직접 참여할 수 있도록 SNS 채널을 운영해 호평을 받았다. 새만금개발청은...]]></description>
-		</item>
-		<item>
-			<title>[대한민국 SNS 대상] 해남군, 딱딱한 홍보에 재미와 감성 더해</title>
-			<link>https://www.etnews.com/20261022000357</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000357</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 25 Oct 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[해남군이 2026 대한민국 SNS 대상에서 기초지자체(군) 부문 대상을 받았다. 2년 연속 대상 수상이다. 해남군은 전남광주통합특별시내 광역 및 기초자치단체 중 유일하게 대상의 영예를 안으며, 차별화된 SNS 콘텐츠 기획력과 군민 중심의 소통 역량을 인정받았다. 해남군은 '땅끝에서 피어나는 인공지능(AI) 혁신, 미래를 여는 해남군'을 주제로, 대한민국의 시작 해남의 매력을 다양한 디지털 콘텐츠에 담아내며 SNS를 군민과 관광객이 함께 즐기는...]]></description>
-		</item>
-		<item>
-			<title>[대한민국 SNS 대상]은평구청·LG유플러스 종합대상 수상</title>
-			<link>https://www.etnews.com/20261022000355</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261022000355</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 25 Oct 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[한국소셜콘텐츠진흥협회가 주관하는 '2026 대한민국 SNS대상'에서 서울 은평구청과 LG유플러스가 각각 공공부문과 기업부문 종합대상을 차지했다. 대한민국 SNS대상은 기업과 공공기관의 소셜네트워크서비스(SNS) 활용 성과를 종합적으로 평가하고 우수 사례를 발굴하기 위해 2011년 제정된 시상제도다. 고객 및 국민과 활발하게 소통하는 기업과 기관을 선정해 온라인 소통문화 발전과 SNS 운영 개선을 유도하고 있다. 올해 기업부문에서는 iM금융그룹과...]]></description>
 		</item>
 	</channel>
 </rss>
