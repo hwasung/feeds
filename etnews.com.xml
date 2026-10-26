@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 27 Oct 2026 06:30:29 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 08:30:26 +0900</lastBuildDate>
+		<item>
+			<title>오픈AI, 비용 효율 높인 &apos;GPT-6.1 테라&apos; 공개…시각·조작 강화</title>
+			<link>https://www.etnews.com/20261027000006</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000006</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 08:00:47 +0900</pubDate>
+			<description><![CDATA[오픈AI가 인공지능(AI) 시각적 이해와 컴퓨터 조작 능력을 강화한 최신 모델 'GPT-6.1 테라(Terra)'를 공개했다. 기존 모델보다 성능을 높이면서 사용 비용을 절반으로 낮춘 '가성비(가격 대비 성능)' 모델로 기업의 AI 기반 업무 자동화 수요를 공략한다. 오픈AI는 26일(현지시간) GPT-6.1 테라 출시를 공식화했다. 이미지와 화면을 이해하고 실제 애플리케이션을 조작하는 모델이다. 제안서 작성과 기술 도면 분석, 양식 입력, 영...]]></description>
+		</item>
+		<item>
+			<title>뉴엔AI, 넷플릭스코리아와 브랜드 파트너십 성과 분석에 &apos;맞손&apos;</title>
+			<link>https://www.etnews.com/20261026000403</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000403</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 08:00:00 +0900</pubDate>
+			<description><![CDATA[산업 맞춤형 인공지능(AI) 기술 기업 뉴엔AI(대표 배성환)는 넷플릭스코리아와 브랜드 파트너십 성과 분석을 위한 데이터 협업을 진행한다고 27일 밝혔다. 뉴엔AI는 넷플릭스코리아가 전개하는 브랜드 파트너십 캠페인과 연계 프로모션의 온라인 화제성 및 소비자 반응을 정밀하게 측정·지원한다. 최근 엔터테인먼트 산업 내 브랜드 간 협업 캠페인이 다각화됨에 따라, 객관적인 데이터를 바탕으로 소비자 반응을 포착하고 캠페인의 실질적인 파급 효과를 검증하는...]]></description>
+		</item>
+		<item>
+			<title>앤트로픽, 나스닥 상장 시동…AI 등 기업가치 1991조원 전망</title>
+			<link>https://www.etnews.com/20261027000004</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000004</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 07:36:32 +0900</pubDate>
+			<description><![CDATA[앤트로픽이 미국 나스닥 상장을 공식화했다. 기업가치가 1조5000억달러(약 1991조원)로 예상된 가운데 급성장한 실적과 막대한 인공지능(AI) 인프라 투자 부담이 동시에 거론되고 있다. AI 산업 수익성과 기업가치 등을 가늠할 초대형 기업공개(IPO)가 될 것으로 보인다. 26일(현지시간) 로이터·월스트리트저널 등 외신에 따르면 앤트로픽은 이날 미국 증권거래위원회(SEC)에 IPO를 위한 S-1 증권신고서를 공개 제출했다고 발표했다. 상장 예...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 보세구는 창고가 아니다…수리·연구개발을 묶는 중국 통관 설계</title>
 			<link>https://www.etnews.com/20261015000398</link>
@@ -241,33 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 14:20:32 +0900</pubDate>
 			<description><![CDATA[제조 인공지능 전환(AX) 전문기업 위즈코어가 온톨로지 기반의 데이터 통합을 통해 자율제조를 구현하는 기술 전략을 제시했다. 위즈코어는 지난 21일 경기 고양시 킨텍스에서 열린 '2026 산업AI EXPO'의 AI-Tech 세미나에 참가했다고 밝혔다. 이날 박덕근 위즈코어 AI Factory 부문대표는 '설계부터 제조까지, 자율제조를 완성하는 데이터 구조 혁신'을 주제로 발표하며 제조 현장의 데이터 연결과 맥락 이해를 통한 자율제조 구현 방안을...]]></description>
-		</item>
-		<item>
-			<title>“AI로 해킹 막아도 DB 뚫리면 끝…데이터 보안 강화해야”</title>
-			<link>https://www.etnews.com/20261026000289</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000289</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 14:15:20 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)이 해킹을 자동화하면서 공격 탐지·차단뿐 아니라 개인정보를 직접 보호하는 데이터베이스(DB) 보안을 강화해야 한다는 주장이 나왔다. 공격자가 내부 시스템에 침입하더라도 중요 정보를 빼내지 못하도록 데이터 자체를 보호해야 한다는 것이다. 천정희 크립토랩 대표(서울대 수리과학부 교수)는 최근 인터뷰를 통해 “AI 기반 취약점 탐지 기술 고도화도 필요하지만, 방어 AI가 공격 AI를 항상 이길 수는 없다”며 “공격자가 침입하더라도 개인...]]></description>
-		</item>
-		<item>
-			<title>토마토시스템, 창립26주년 기념 행사 개최… “UI/UX·AI·디지털 헬스케어 중심 중장기 성장 전략 제시”</title>
-			<link>https://www.etnews.com/20261026000288</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000288</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 14:14:46 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 소프트웨어 및 디지털 헬스케어 전문기업 토마토시스템(대표 조길주·이강찬)이 창립 26주년을 맞아 지난 23일 서울 용산 CGV에서 전 임직원이 함께하는 기념 행사를 개최했다고 26일 밝혔다. 행사는 한 해 동안 본사 및 지방 사업장, 고객사 프로젝트 현장에서 헌신해 온 임직원에게 감사의 뜻을 전하고, 구성원 간 화합과 소통을 도모하기 위해 마련됐다. 행사는 조길주 대표이사의 경영 성과 및 향후 사업 방향 발표로 시작됐다. 조 대...]]></description>
-		</item>
-		<item>
-			<title>아이스크림에듀, 이투스 손잡았다…정승제·이지영 강의 &apos;홈런&apos; 연동</title>
-			<link>https://www.etnews.com/20261026000280</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000280</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 14:01:24 +0900</pubDate>
-			<description><![CDATA[아이스크림에듀가 이투스에듀와 제휴해 중등 스마트러닝 서비스 '아이스크림 홈런 중등'에 이투스 특별관을 오픈했다. 아이스크림에듀는 중학교 내신 관리 강화와 상위권 진입, 고등학교 교과 과정 대비와 개념 학습에 도움을 주기 위해 이투스에듀와 결합상품을 만들고 이같은 서비스를 선보였다. 이투스 특별관은 정승제·이지영 등 이투스 대표 스타 강사 강의 등 중등부터 고등까지 모든 학년 전강좌를 제공한다. 내년 3월 고1 학력평가를 대비할 수 있도록 학습...]]></description>
 		</item>
 	</channel>
 </rss>
