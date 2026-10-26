@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 26 Oct 2026 17:30:29 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2026 19:30:30 +0900</lastBuildDate>
+		<item>
+			<title>금융권 해킹 보험사로 확산…SW·여행업계도 침해사고 잇따라</title>
+			<link>https://www.etnews.com/20261026000437</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000437</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 18:57:48 +0900</pubDate>
+			<description><![CDATA[미래에셋생명에서 개인정보 유출 정황이 포착되면서 금융권 사이버 침해사고가 보험업계로 번졌다. 또 기업용 소프트웨어(SW) 업체와 여행 플랫폼에서도 침해사고가 잇따라 발생했고, 기존 피해 기업에서도 추가 정보 유출이 확인되며 피해 규모가 커졌다. 26일 업계에 따르면 미래에셋생명은 지난 25일 일부 시스템에서 이상 징후를 발견하고 금융감독원 등에 침해사고를 신고했다. 이는 보험업계 첫 침해사고다. 공격자는 고객 청약시스템과 홈페이지 일부 시스템을...]]></description>
+		</item>
 		<item>
 			<title>[사설] 정보보호, 보험 안전망도 중요하다</title>
 			<link>https://www.etnews.com/20261026000358</link>
@@ -260,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 13:27:22 +0900</pubDate>
 			<description><![CDATA[이스트소프트는 실시간 대화형 인공지능(AI) 아바타 서비스 '페르소 인터랙티브'를 기반으로 지자체와 공공기관 시장 공략을 본격화하고 있다고 26일 밝혔다. 페르소 인터랙티브는 대형언어모델(LLM)과 AI 아바타 기술을 결합해 이용자와 실시간 양방향 대화를 지원하는 서비스다. 검색증강생성(RAG) 기술을 활용해 기관별 데이터베이스에 저장된 정보를 바탕으로 답변할 수 있으며, 100개 이상의 언어를 지원한다. 회사는 키오스크뿐 아니라 기관별 홈페이...]]></description>
-		</item>
-		<item>
-			<title>윈즈, AI 플랫폼 &apos;AIONA&apos; GS 1등급 인증…공공·기업 AI 시장 공략 본격화</title>
-			<link>https://www.etnews.com/20261026000231</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000231</guid>
-			<author>이원지</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 13:16:58 +0900</pubDate>
-			<description><![CDATA[기업용 AI 플랫폼은 단일 모델의 응답 기능뿐 아니라 기존 업무 자료와 다양한 작업 도구를 어떤 방식으로 연결하는지도 중요한 설계 요소로 다뤄진다. 여러 AI 모델을 통합하는 서비스에서는 모델별 기능 차이와 업데이트 주기, 외부 서비스 연동 방식 등을 고려한 운영 체계가 필요하다. 이러한 가운데 AI 서비스 보안 전문기업 윈즈는 자사가 개발한 AI 플랫폼 아이오나가 GS 1등급 인증을 획득했다고 밝혔다. GS인증은 과학기술정보통신부가 주관하는...]]></description>
 		</item>
 	</channel>
 </rss>
