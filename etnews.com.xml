@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 26 Oct 2026 16:30:27 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2026 17:30:29 +0900</lastBuildDate>
+		<item>
+			<title>[사설] 정보보호, 보험 안전망도 중요하다</title>
+			<link>https://www.etnews.com/20261026000358</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000358</guid>
+			<author>논설위원실</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[연이어 터진 개인정보 유출 사고와 인공지능(AI) 해킹 공격으로 사회적 불안감이 고조되고 있다. 정보기술(IT)기업, 통신사, 유통 대기업은 물론 최근엔 OTT와 금융권에 이르기까지 산업 전반이 사이버공격 표적이 됐다. 하지만 거듭되는 침해 사고에도 불구하고 이를 예방하고 사후 피해 배상이나 기업 복구를 뒷받침할 보험시스템은 아직도 걸음마 수준조차 벗어나지 못한 실정이라 한다. 관련 전문가 추산에 따르면 우리나라 사이버보험 연간 시장 규모는 6...]]></description>
+		</item>
+		<item>
+			<title>[인터뷰]신윤재 CGN TV 감독 “지울 수 없는 방송 자산, 저장 방식부터 바꿨다”</title>
+			<link>https://www.etnews.com/20261026000155</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000155</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[“방송 콘텐츠는 시간이 지났다고 버릴 수 있는 데이터가 아닙니다. 매주 새로운 영상이 쌓이지만 과거 영상도 언제든 다시 활용할 수 있어야 합니다. 저장 용량은 계속 늘어나는데 비용과 관리 부담까지 커지는 것이 가장 큰 고민이었습니다.” CGN TV 신윤재 감독은 방송 아카이브 시스템을 전면 개편하게 된 배경을 이같이 설명했다. 기독교 방송사 CGN은 예배와 설교, 다큐멘터리, 교육 등 다양한 콘텐츠를 제작하고 있다. 이러한 영상은 방송 이후에도...]]></description>
+		</item>
+		<item>
+			<title>미래에셋생명, 개인정보 유출사고…보험사도 뚫렸다</title>
+			<link>https://www.etnews.com/20261026000406</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000406</guid>
+			<author>박진혁</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 16:48:18 +0900</pubDate>
+			<description><![CDATA[미래에셋생명은 일부 시스템 침해 사고로 고객 신용정보가 유출됐다고 26일 밝혔다. 올해 금융권 해킹사고가 연이어 발생하는 가운데, 보험업권에서 해킹으로 개인정보가 유출된 건 처음이다. 회사는 이날 새벽 개인정보 유출을 확인했고, 현재 외부 전문기관과 사고를 분석해 정확한 유출 대상과 항목을 파악 중이다. 미래에셋생명은 이번 개인정보 유출 상황을 엄중히 받아들이고 고객정보 보호와 피해를 최소화하겠다는 입장이다. 미래에셋생명은 이날 홈페이지를 통해...]]></description>
+		</item>
 		<item>
 			<title>아우토크립트, ITS 세계총회서 C-ITS 보안 구축 소개</title>
 			<link>https://www.etnews.com/20261026000385</link>
@@ -31,6 +58,14 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[지난해 말 유럽에서 중국산 전기버스의 원격 접속 및 데이터 유출 구조가 확인되며 논란이 일었으나, 국내에서는 1년이 다 되도록 관련 조사가 진행되지 않은 것으로 나타났다. 특정 브랜드의 개별적 결함이 아닌 중국 전기버스 제조사 전반의 구조적 문제에서 비롯된 만큼 한국 내 도입 차량에 대한 실태 파악이 시급하다는 지적이 제기된다. 26일 관련 당국에 따르면 지난해 중국산 전기버스의 텔레매틱스 단말기(T-BOX)를 통한 정보 유출이 확인됐지만 국내...]]></description>
+		</item>
+		<item>
+			<title>[ET시론] AI 사업의 성패는 운영에서 갈린다</title>
+			<link>https://www.etnews.com/20261026000070</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000070</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[전통적인 패키지 소프트웨어(SW)는 납품과 검수를 마치는 시점에 완성된다. 요구사항에 명시된 기능이 정해진 대로 작동하는지 확인하고 나면, 이후의 일은 운영 중에 발견되는 결함을 고치고 필요한 기능을 조금씩 보완하는 수준에 머무르기 때문이다. 그러나 데이터를 학습해 확률적으로 판단하는 인공지능(AI)는 사정이 전혀 다르다. AI는 납품하는 날부터 서서히 낡아 가는데, 세상이 바뀌고 데이터의 성격이 달라지면 어제까지 정확하던 모델이 오늘은 그럴듯...]]></description>
 		</item>
 		<item>
 			<title>[신SW상품대상 10월 추천작] 고려소프트웨어 &apos;유니크빔&apos;</title>
@@ -60,28 +95,12 @@
 			<description><![CDATA[두루에너아이는 소스코드 보안약점과 오픈소스 취약점, 안전 관련 코딩표준 위반을 함께 점검하는 통합 정적분석 솔루션 '엑스펙AI 소스코드 진단(SAST)/오픈소스 진단(SCA) 버전 1.0'을 출품했다. 엑스펙AI는 소스코드를 실행하지 않고 SAST과 SCA, 코딩표준 검증, 품질 지표 측정을 하나의 플랫폼으로 통합했다. 압축한 소스코드를 한 번 올리면 네 영역의 결과를 하나의 화면과 보고서로 확인할 수 있다. 그간 개발 현장에서는 보안 점검과...]]></description>
 		</item>
 		<item>
-			<title>[ET시론] AI 사업의 성패는 운영에서 갈린다</title>
-			<link>https://www.etnews.com/20261026000070</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000070</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[전통적인 패키지 소프트웨어(SW)는 납품과 검수를 마치는 시점에 완성된다. 요구사항에 명시된 기능이 정해진 대로 작동하는지 확인하고 나면, 이후의 일은 운영 중에 발견되는 결함을 고치고 필요한 기능을 조금씩 보완하는 수준에 머무르기 때문이다. 그러나 데이터를 학습해 확률적으로 판단하는 인공지능(AI)는 사정이 전혀 다르다. AI는 납품하는 날부터 서서히 낡아 가는데, 세상이 바뀌고 데이터의 성격이 달라지면 어제까지 정확하던 모델이 오늘은 그럴듯...]]></description>
-		</item>
-		<item>
-			<title>[기고] K팔란티어, 설계와 생산을 잇는 데서 시작해야</title>
-			<link>https://www.etnews.com/20261026000161</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000161</guid>
+			<title>[조현래의 콘텐츠 脈] 〈21〉사투리가 한류 콘텐츠와 관광자원이 된다고?</title>
+			<link>https://www.etnews.com/20261026000083</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000083</guid>
 			<category>오피니언</category>
 			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[정부가 민간의 혁신기술을 안보역량과 산업 성장으로 이어 가려는 '한국형 팔란티어(K-Palantir)' 육성을 추진하고 있다. 이 구상이 산업 현장에 뿌리내리려면 방산과 첨단산업을 뒷받침하는 제조 소프트웨어(SW)에 주목해야 한다. 정교한 설계를 실제 생산으로 구현하고, 요구한 품질의 제품을 안정적으로 공급하는 능력이 산업 경쟁력과 안보역량을 함께 지탱하기 때문이다. 제조현장의 데이터는 부족하지 않다. 캐드(CAD) 도면, 작업지시서, 설비 운...]]></description>
-		</item>
-		<item>
-			<title>[전문가 기고] 은행권 해킹 &apos;뚫려도 지키는 보안&apos;이 필요하다</title>
-			<link>https://www.etnews.com/20261026000148</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000148</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[최근 은행권에서 해킹과 개인정보 유출 우려를 낳는 사고가 잇따르면서 금융소비자의 불안이 커지고 있다. 금융기관은 계좌와 거래내역뿐 아니라 주민등록번호, 연락처, 인증정보 등 삶과 직결된 민감한 정보를 보관한다. 이런 정보는 한번 유출되면 비밀번호처럼 간단히 바꾸기 어렵고, 보이스피싱·명의도용·불법 대출 같은 2차 피해로 이어질 수 있다. 사고가 발생할 때마다 해당 기관의 문제로만 볼 일이 아니다. 공공기관과 금융권은 지금 즉시 중요정보 보호체계...]]></description>
+			<description><![CDATA[지난주 부산에서 '글로벌 유스 한류 포럼 및 한류체험 빌리지(K-Culture Experience Village)'가 개최됐다. 케이브릿지 인터내셔널(K-Bridge International·대표 김기헌)이 기획한 것으로, 한류 교육과 관광을 연계해 체험하는 새로운 형태의 체류형 관광 프로그램이다. 세계 청년들이 한류를 매개로 일정 기간 지역에 머무르면서 서로 교류하고, 한국 문화를 직접 배우며 체험할 기회의 장을 제공한다. 한류와 관광의 새로...]]></description>
 		</item>
 		<item>
 			<title>[ET단상] 전기차 국내 생산 지원, 자동차 부품산업의 버팀목</title>
@@ -92,12 +111,20 @@
 			<description><![CDATA[세계 자동차 산업의 경쟁 구도가 빠르게 바뀌고 있다. 전동화 전환에 따라 주요국과 글로벌 기업이 미래차 주도권 확보에 나서면서 우리 자동차 산업도 국내 생산 기반을 유지하고 미래 경쟁력을 확보해야 하는 과제를 안았다. 특히 중국 완성차는 가격뿐 아니라 기술과 품질, 상품성에서도 경쟁력을 높이며 세계 시장에서 영향력을 확대하고 있다. 중국 자동차 산업 경쟁력은 장기간에 걸친 기업의 투자와 정부의 정책적 지원이 축적된 결과다. 거대한 내수 시장과...]]></description>
 		</item>
 		<item>
-			<title>[조현래의 콘텐츠 脈] 〈21〉사투리가 한류 콘텐츠와 관광자원이 된다고?</title>
-			<link>https://www.etnews.com/20261026000083</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000083</guid>
+			<title>[전문가 기고] 은행권 해킹 &apos;뚫려도 지키는 보안&apos;이 필요하다</title>
+			<link>https://www.etnews.com/20261026000148</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000148</guid>
 			<category>오피니언</category>
 			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[지난주 부산에서 '글로벌 유스 한류 포럼 및 한류체험 빌리지(K-Culture Experience Village)'가 개최됐다. 케이브릿지 인터내셔널(K-Bridge International·대표 김기헌)이 기획한 것으로, 한류 교육과 관광을 연계해 체험하는 새로운 형태의 체류형 관광 프로그램이다. 세계 청년들이 한류를 매개로 일정 기간 지역에 머무르면서 서로 교류하고, 한국 문화를 직접 배우며 체험할 기회의 장을 제공한다. 한류와 관광의 새로...]]></description>
+			<description><![CDATA[최근 은행권에서 해킹과 개인정보 유출 우려를 낳는 사고가 잇따르면서 금융소비자의 불안이 커지고 있다. 금융기관은 계좌와 거래내역뿐 아니라 주민등록번호, 연락처, 인증정보 등 삶과 직결된 민감한 정보를 보관한다. 이런 정보는 한번 유출되면 비밀번호처럼 간단히 바꾸기 어렵고, 보이스피싱·명의도용·불법 대출 같은 2차 피해로 이어질 수 있다. 사고가 발생할 때마다 해당 기관의 문제로만 볼 일이 아니다. 공공기관과 금융권은 지금 즉시 중요정보 보호체계...]]></description>
+		</item>
+		<item>
+			<title>[기고] K팔란티어, 설계와 생산을 잇는 데서 시작해야</title>
+			<link>https://www.etnews.com/20261026000161</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000161</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[정부가 민간의 혁신기술을 안보역량과 산업 성장으로 이어 가려는 '한국형 팔란티어(K-Palantir)' 육성을 추진하고 있다. 이 구상이 산업 현장에 뿌리내리려면 방산과 첨단산업을 뒷받침하는 제조 소프트웨어(SW)에 주목해야 한다. 정교한 설계를 실제 생산으로 구현하고, 요구한 품질의 제품을 안정적으로 공급하는 능력이 산업 경쟁력과 안보역량을 함께 지탱하기 때문이다. 제조현장의 데이터는 부족하지 않다. 캐드(CAD) 도면, 작업지시서, 설비 운...]]></description>
 		</item>
 		<item>
 			<title>세일즈인사이트, &apos;CRM+AI 결합&apos; 서비스 출시</title>
@@ -242,33 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 13:16:58 +0900</pubDate>
 			<description><![CDATA[기업용 AI 플랫폼은 단일 모델의 응답 기능뿐 아니라 기존 업무 자료와 다양한 작업 도구를 어떤 방식으로 연결하는지도 중요한 설계 요소로 다뤄진다. 여러 AI 모델을 통합하는 서비스에서는 모델별 기능 차이와 업데이트 주기, 외부 서비스 연동 방식 등을 고려한 운영 체계가 필요하다. 이러한 가운데 AI 서비스 보안 전문기업 윈즈는 자사가 개발한 AI 플랫폼 아이오나가 GS 1등급 인증을 획득했다고 밝혔다. GS인증은 과학기술정보통신부가 주관하는...]]></description>
-		</item>
-		<item>
-			<title>브라질 대선서 룰라 대통령 당선…통산 4선</title>
-			<link>https://www.etnews.com/20261026000212</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000212</guid>
-			<author>송윤섭</author>
-			<category>오피니언</category>
-			<pubDate>Mon, 26 Oct 2026 12:59:51 +0900</pubDate>
-			<description><![CDATA[루이스 이나시우 룰라 다시우바 브라질 대통령이 25일(현지시간) 치러진 브라질 대선 결선투표에서 플라비우 보우소나루 상원의원을 꺾고 통산 4선에 성공했다. 대표적인 좌파로 꼽히는 룰라 대통령의 당선으로 도널드 트럼프 미국 대통령 집권 후 중남미 대륙에 확산되는 블루타이드(우파 집권 물결)에도 제동이 걸리게 됐다. 브라질 고등선거재판소에 따르면 룰라 대통령은 이날 개표율 99.93% 기준 51.77%의 득표율로, 48.23%에 그친 보우소나루 후...]]></description>
-		</item>
-		<item>
-			<title>아이엘, 피지컬AI 운영 데이터 플랫폼 &apos;피데이텀&apos; 공개</title>
-			<link>https://www.etnews.com/20261026000209</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000209</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 12:58:46 +0900</pubDate>
-			<description><![CDATA[아이엘이 산업 현장에서 로봇이 생성하는 운영 데이터를 인공지능(AI) 학습 자산으로 활용하는 피지컬AI 데이터 플랫폼 '피데이텀(PHYDATUM)'을 공개했다고 26일 밝혔다. 피데이텀은 로봇의 작업·이동·상태·장애·복구 등의 데이터를 수집·표준화하고 AI 학습과 성능 개선에 활용하는 통합 플랫폼이다. 로봇이 작업할수록 데이터가 축적되고, 이를 활용해 AI 성능을 높여 다시 현장에 적용하는 구조다. 아이엘은 자동차부품 제조 현장에서 휴머노이드...]]></description>
-		</item>
-		<item>
-			<title>로그프레소, &apos;PHP2Shell 스캐너&apos; 공개…내부망 취약점 점검</title>
-			<link>https://www.etnews.com/20261026000174</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000174</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 11:21:57 +0900</pubDate>
-			<description><![CDATA[로그프레소는 PHP 원격 코드 실행 취약점 'PHP2Shell'을 진단하는 'PHP2Shell 스캐너' 앱을 공개했다고 26일 밝혔다. PHP2Shell은 웹 개발 언어 PHP에서 발견된 원격 코드 실행 취약점 2건(CVE-2026-109618, CVE-2026-109619)을 말한다. 특정 조건에서 인증받지 않은 공격자가 서버에서 악성 코드를 실행할 수 있으며, 위험도는 최고 수준인 9.2점으로 평가됐다. 로그프레소 스캐너는 로그프레소 보안관...]]></description>
 		</item>
 	</channel>
 </rss>
