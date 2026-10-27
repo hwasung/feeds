@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 27 Oct 2026 13:30:27 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 14:31:11 +0900</lastBuildDate>
+		<item>
+			<title>지란지교, 생성형 AI 보안 솔루션 &apos;AX필터 2.0&apos; GS인증 1등급</title>
+			<link>https://www.etnews.com/20261027000272</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000272</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 14:00:56 +0900</pubDate>
+			<description><![CDATA[지란지교소프트는 생성형 인공지능(AI) 정보 유출 방지 솔루션 'AX필터(AXFILTER) 2.0'이 굿소프트웨어(GS)인증 1등급을 획득했다고 27일 밝혔다. 지란지교소프트는 개인정보 유출 방지와 데이터 보안 기술을 기반으로 공공·금융·의료·교육 분야에 개인정보 보호 및 정보 유출 방지 솔루션을 공급하는 기업이다. AX필터 2.0은 직원이 생성형 AI에 입력하는 프롬프트를 외부로 전송하기 전에 검사해 개인정보를 마스킹하거나 전송을 차단하는 솔...]]></description>
+		</item>
+		<item>
+			<title>[오라클 AI 월드 2026]오라클, &apos;일하는 AI&apos;로 기업 혁신…보안·통제로 신뢰 뒷받침</title>
+			<link>https://www.etnews.com/20261027000264</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000264</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 13:58:42 +0900</pubDate>
+			<description><![CDATA[오라클이 기업용 인공지능(AI)을 정보 제공과 업무 보조를 넘어 실제 업무를 수행하는 기술로 발전시키겠다는 청사진을 제시했다. AI의 데이터 접근과 업무 수행을 통제할 수 있는 기반을 갖추고, 인프라부터 데이터베이스(DB), 애플리케이션까지 연결해 실질적인 비즈니스 성과를 내겠다는 구상이다. 마이크 시실리아 오라클 최고경영자(CEO)는 26일(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026' 기조연설에서 'AI가 비즈니스를 이...]]></description>
+		</item>
 		<item>
 			<title>이파피루스, PyMuPDF 2.0 버전 업데이트… 3개 패키지 하나로 통합</title>
 			<link>https://www.etnews.com/20261027000227</link>
@@ -254,23 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[지난해 말 유럽에서 중국산 전기버스의 원격 접속 및 데이터 유출 구조가 확인되며 논란이 일었으나, 국내에서는 1년이 다 되도록 관련 조사가 진행되지 않은 것으로 나타났다. 특정 브랜드의 개별적 결함이 아닌 중국 전기버스 제조사 전반의 구조적 문제에서 비롯된 만큼 한국 내 도입 차량에 대한 실태 파악이 시급하다는 지적이 제기된다. 26일 관련 당국에 따르면 지난해 중국산 전기버스의 텔레매틱스 단말기(T-BOX)를 통한 정보 유출이 확인됐지만 국내...]]></description>
-		</item>
-		<item>
-			<title>[ET시론] AI 사업의 성패는 운영에서 갈린다</title>
-			<link>https://www.etnews.com/20261026000070</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000070</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[전통적인 패키지 소프트웨어(SW)는 납품과 검수를 마치는 시점에 완성된다. 요구사항에 명시된 기능이 정해진 대로 작동하는지 확인하고 나면, 이후의 일은 운영 중에 발견되는 결함을 고치고 필요한 기능을 조금씩 보완하는 수준에 머무르기 때문이다. 그러나 데이터를 학습해 확률적으로 판단하는 인공지능(AI)는 사정이 전혀 다르다. AI는 납품하는 날부터 서서히 낡아 가는데, 세상이 바뀌고 데이터의 성격이 달라지면 어제까지 정확하던 모델이 오늘은 그럴듯...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 10월 추천작] 고려소프트웨어 &apos;유니크빔&apos;</title>
-			<link>https://www.etnews.com/20261026000320</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000320</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[고려소프트웨어는 교량과 터널 등 사회기반시설(SOC)의 현장 점검부터 상태 평가, 보수비용 산출, 이력 관리까지 지원하는 디지털 트윈 기반 통합 관리 플랫폼 '유니크빔(UniKBIM)'을 출품했다. 유니크빔은 단순히 건설정보모델링(BIM) 데이터를 시각화하는 수준을 넘어 현장 점검과 손상 정보를 연계해 시설물의 건설·운영 과정에서 발생하는 데이터를 하나의 체계로 관리하는 것이다. 교량·터널 관리에 특화한 모바일 점검 기능이 특징이다. 글로벌 B...]]></description>
 		</item>
 	</channel>
 </rss>
