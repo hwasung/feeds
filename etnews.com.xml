@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 27 Oct 2026 18:31:35 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 19:30:28 +0900</lastBuildDate>
+		<item>
+			<title>NIPA, AI·SW 기업지원 성과관리 개선… 한준호 “과기부 실행계획으로 이어져야”</title>
+			<link>https://www.etnews.com/20261027000436</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000436</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 18:17:42 +0900</pubDate>
+			<description><![CDATA[정보통신산업진흥원(NIPA)이 인공지능(AI)·소프트웨어(SW) 기업별 누적 지원이력과 성장성과를 연계해 관리하는 종합관리 방안을 마련했다. 정부 지원이 여러 사업에 걸쳐 이뤄지는 만큼 기업별 지원 규모와 매출·투자유치·고용 등 성과를 함께 살펴 지원의 실효성을 높이겠다는 취지다. 한준호 더불어민주당 의원실은 한 의원의 국정감사 질의 이후 NIPA가 이 같은 내용의 'AI·SW 기업 지원사업 종합관리 방안'을 제출했다고 27일 밝혔다. 한 의원...]]></description>
+		</item>
+		<item>
+			<title>“韓 PHP 보안패치율 3.9% 그쳐”…정부, 대응 독려</title>
+			<link>https://www.etnews.com/20261027000434</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000434</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 18:10:02 +0900</pubDate>
+			<description><![CDATA[국내 인터넷에 공개된 PHP 서비스의 보안패치 적용률이 3.9%에 그친 것으로 나타났다. 미국과 일본 등 주요국보다 현저히 낮은 수준으로, 치명적인 보안 취약점이 공개된 이후에도 상당수 서비스가 패치되지 않은 상태다. 27일 미국 사이버보안 기업 센시스(Censys)의 국가별 PHP 보안패치 현황에 따르면 국내에서 취약한 버전을 사용한 이력이 확인된 PHP 서비스는 50만8709개다. 이 가운데 보안패치 적용이 확인된 서비스는 1만9737개로,...]]></description>
+		</item>
+		<item>
+			<title>제논, 기업용 보안 AI 가드레일 솔루션 &apos;젠가드&apos; 출시</title>
+			<link>https://www.etnews.com/20261027000431</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000431</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 18:04:59 +0900</pubDate>
+			<description><![CDATA[제논은 생성형 인공지능(AI) 서비스의 보안 위협에 대응하는 AI 가드레일 솔루션 '젠가드(GenGuard)'를 출시했다고 26일 밝혔다. 기업 환경과 보안 정책에 맞춰 AI 서비스의 입력과 응답을 판정·차단하는 기술이 특징이다. 생성형 AI 플랫폼 '제노스(GenOS)'에 탑재된 가드레일 기능을 독립 솔루션으로 개발했다. 별도 모델 학습 없이 자연어로 보안 정책을 설정할 수 있다. 명령에 따라 AI 요청과 응답을 통제하고, 유해 콘텐츠와 AI...]]></description>
+		</item>
 		<item>
 			<title>엘리스그룹, 청소년 에이전트 AI 해커톤 &apos;메이커톤&apos; 성료</title>
 			<link>https://www.etnews.com/20261027000426</link>
@@ -245,33 +272,6 @@
 			<category>오피니언</category>
 			<pubDate>Tue, 27 Oct 2026 14:30:11 +0900</pubDate>
 			<description><![CDATA[글로벌 자동차 업계에 신차 개발 기간 단축이 핵심 경쟁력으로 부상했다. 현대차그룹은 인공지능(AI)을 활용, 신차 개발 속도를 4년에서 2년여로 단축할 계획이다. 폭스바겐그룹은 개발 기간을 3년 이하로 줄이고, 미국 제너럴모터스(GM)는 4년 이상 걸리던 차량 개발 기간을 2년으로 단축하겠다는 목표를 공개했다. AI는 신차 개발뿐 아니라 생산 현장에서도 변화를 이끌고 있다. 차량 불량을 감지하고 설비 고장을 예측하며 공정 낭비를 줄인다. 개발부...]]></description>
-		</item>
-		<item>
-			<title>커머스 AI &apos;인덴트M&apos; 공개…“K브랜드 72개국 진출 지원”</title>
-			<link>https://www.etnews.com/20261027000286</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000286</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 14:08:26 +0900</pubDate>
-			<description><![CDATA[인덴트코퍼레이션이 세계 72개국에서 인플루언서 마케팅 기획과 실행을 지원하는 인공지능(AI) 에이전트 '인덴트M'을 공개했다. 윤태석 인덴트코퍼레이션 대표는 27일 서울 서대문구 피알브릿지 스토리움에서 열린 '인덴트M 론칭 기자간담회'에서 “1인 브랜드가 매출 1조원을 달성할 수 있는 엔진을 만드는 것이 비전”이라며 “이를 위해 인간 마케터의 반복적인 운영 업무를 AI가 대신 수행하는 인덴트M을 출시한다”고 밝혔다. 인덴트M은 마케팅 전략에 따...]]></description>
-		</item>
-		<item>
-			<title>서울시, 청년 AI 이용권 재추진…오세훈 “예산 통과되면 1월 집행”</title>
-			<link>https://www.etnews.com/20261027000281</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000281</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 14:05:37 +0900</pubDate>
-			<description><![CDATA[서울시가 청년 50만명에게 1년간 고성능 인공지능(AI) 이용권과 맞춤형 교육을 지원하는 '청년 AI 성장권 지원 시범사업'을 재추진한다. 지난달 서울시의회에서 관련 예산이 삭감되면서 연내 사업이 무산된 가운데 지원 내용을 구체화해 내년도 본예산 반영을 추진한다. 오세훈 서울시장은 27일 서울시청에서 대학생, 기업·대학 관계자 등 100여 명이 참석한 가운데 열린 청년 AI 성장권 지원 시범사업 설명회에서 “청년들이 AI를 활용해 새로운 가능성...]]></description>
-		</item>
-		<item>
-			<title>국내 보안기업, &apos;PHP2Shell&apos; 긴급 대응…무료 점검부터 해킹 차단까지</title>
-			<link>https://www.etnews.com/20261027000277</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000277</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 14:04:32 +0900</pubDate>
-			<description><![CDATA[국내 정보보호기업들이 치명적인 PHP 보안 취약점 'PHP2Shell'에 대응하기 위해 무료 점검 도구와 대응 가이드를 공개하고 공격 탐지·차단 기술을 제공하는 등 피해 확산 방지에 나섰다. 한국정보보호산업협회(KISIA)는 27일 국내 보안기업들이 PHP2Shell 취약점 분석부터 공격 차단, 침해 징후 확인까지 다각적인 대응 활동을 전개하고 있다고 밝혔다. PHP는 웹사이트와 웹 애플리케이션 개발에 널리 사용되는 서버 측 프로그래밍 언어로,...]]></description>
 		</item>
 	</channel>
 </rss>
