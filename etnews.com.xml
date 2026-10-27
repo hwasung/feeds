@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 27 Oct 2026 12:30:22 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 13:30:27 +0900</lastBuildDate>
+		<item>
+			<title>이파피루스, PyMuPDF 2.0 버전 업데이트… 3개 패키지 하나로 통합</title>
+			<link>https://www.etnews.com/20261027000227</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000227</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 12:59:08 +0900</pubDate>
+			<description><![CDATA[문서 인공지능(AI) 전문기업 이파피루스(대표 김정희)는 글로벌 다운로드 누적 12억 건을 돌파한 오픈소스 문서 처리 라이브러리 PyMuPDF를 2.0 버전으로 업데이트했다고 27일 밝혔다. 이번 업데이트의 통합이다. 그동안 별도 패키지로 제공되던 대규모 언어모델(LLM)용 데이터 변환 도구 PyMuPDF4LLM과 레이아웃 분석 엔진 PyMuPDF Layout을 PyMuPDF 하나로 합쳤다. 기존에는 개발자가 세 패키지 가운데 필요한 기능을 골...]]></description>
+		</item>
+		<item>
+			<title>캔바, 한국은 &apos;톱5&apos; 시장…AI 기반 디자인 연간 1억개 생성</title>
+			<link>https://www.etnews.com/20261027000221</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000221</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 12:20:52 +0900</pubDate>
+			<description><![CDATA[“한국 이용자들은 캔바 성장을 이끄는 톱5 시장입니다. 지난 12개월 간 1억개의 디자인이 캔바로 생성되는 등 빠른 성장세를 보이고 있습니다.” 김대현 캔바 코리아 지사장은 27일 서울 중구 위워크에서 열린 간담회에서 “캔바는 인공지능(AI) 기반 디자인부터 문서 작성, 프레젠테이션, 웹사이트 제작까지 지원하는 통합 업무 플랫폼으로 진화하고 있다”며 이같이 밝혔다. 국내에서는 교육부 등과 협력에 기반해 교육용 캔바 '캔바 에듀' 이용자들이 지속...]]></description>
+		</item>
 		<item>
 			<title>경희대, 전문가 8명과 AI·병원경영 대응 전략 논의</title>
 			<link>https://www.etnews.com/20261027000161</link>
@@ -253,24 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[고려소프트웨어는 교량과 터널 등 사회기반시설(SOC)의 현장 점검부터 상태 평가, 보수비용 산출, 이력 관리까지 지원하는 디지털 트윈 기반 통합 관리 플랫폼 '유니크빔(UniKBIM)'을 출품했다. 유니크빔은 단순히 건설정보모델링(BIM) 데이터를 시각화하는 수준을 넘어 현장 점검과 손상 정보를 연계해 시설물의 건설·운영 과정에서 발생하는 데이터를 하나의 체계로 관리하는 것이다. 교량·터널 관리에 특화한 모바일 점검 기능이 특징이다. 글로벌 B...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 10월 추천작] 링키솔루션 &apos;마이두&apos;</title>
-			<link>https://www.etnews.com/20261026000317</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000317</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[링키솔루션은 여러 인공지능(AI) 모델을 한 화면에서 활용해 업무 계획부터 실행, 문서 생성까지 지원하는 데스크톱 소프트웨어(SW) '마이두(myDoo) 버전 2.2.3'을 출품했다. 마이두는 사용자가 목표를 제시하면 AI가 계획을 세우고 전문 에이전트가 작업을 수행하는 제품이다. 한글(HWPX)·엑셀·PDF 파일을 직접 생성해 AI 답변을 사람이 별도 문서로 옮기는 수고를 줄였다. 여러 AI와 도구를 연결해 실제 업무를 완수하는 '나만의 AI...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 10월 추천작] 두루에너아이 &apos;엑스펙AI SAST/SCA&apos;</title>
-			<link>https://www.etnews.com/20261026000316</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000316</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[두루에너아이는 소스코드 보안약점과 오픈소스 취약점, 안전 관련 코딩표준 위반을 함께 점검하는 통합 정적분석 솔루션 '엑스펙AI 소스코드 진단(SAST)/오픈소스 진단(SCA) 버전 1.0'을 출품했다. 엑스펙AI는 소스코드를 실행하지 않고 SAST과 SCA, 코딩표준 검증, 품질 지표 측정을 하나의 플랫폼으로 통합했다. 압축한 소스코드를 한 번 올리면 네 영역의 결과를 하나의 화면과 보고서로 확인할 수 있다. 그간 개발 현장에서는 보안 점검과...]]></description>
 		</item>
 	</channel>
 </rss>
