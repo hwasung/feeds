@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 27 Oct 2026 11:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 12:30:22 +0900</lastBuildDate>
+		<item>
+			<title>경희대, 전문가 8명과 AI·병원경영 대응 전략 논의</title>
+			<link>https://www.etnews.com/20261027000161</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000161</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 11:04:28 +0900</pubDate>
+			<description><![CDATA[의료산업 전문가 8명이 인공지능(AI) 활용과 병원경영 전략을 논의한다. 경희대학교는 경영대학원 의료경영MBA(주임교수 김용태)가 오는 11월7일 오후 오비스홀에서 '2026 의료경영MBA 학술세미나'를 개최한다고 27일 밝혔다. '의료경영의 천재들(SEASON 1)'을 주제로 의료기관과 제약·헬스케어 산업의 AI 활용, 디지털 전환(DX), 지역의료와 병원 운영의 대응 방안을 다룬다. 신현경 아크릴 부대표가 '사는 AI, 만드는 AI'로 발표...]]></description>
+		</item>
 		<item>
 			<title>중국 로봇기업 3개사 한국 찾는다</title>
 			<link>https://www.etnews.com/20261027000157</link>
@@ -262,14 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[두루에너아이는 소스코드 보안약점과 오픈소스 취약점, 안전 관련 코딩표준 위반을 함께 점검하는 통합 정적분석 솔루션 '엑스펙AI 소스코드 진단(SAST)/오픈소스 진단(SCA) 버전 1.0'을 출품했다. 엑스펙AI는 소스코드를 실행하지 않고 SAST과 SCA, 코딩표준 검증, 품질 지표 측정을 하나의 플랫폼으로 통합했다. 압축한 소스코드를 한 번 올리면 네 영역의 결과를 하나의 화면과 보고서로 확인할 수 있다. 그간 개발 현장에서는 보안 점검과...]]></description>
-		</item>
-		<item>
-			<title>[조현래의 콘텐츠 脈] 〈21〉사투리가 한류 콘텐츠와 관광자원이 된다고?</title>
-			<link>https://www.etnews.com/20261026000083</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000083</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 26 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[지난주 부산에서 '글로벌 유스 한류 포럼 및 한류체험 빌리지(K-Culture Experience Village)'가 개최됐다. 케이브릿지 인터내셔널(K-Bridge International·대표 김기헌)이 기획한 것으로, 한류 교육과 관광을 연계해 체험하는 새로운 형태의 체류형 관광 프로그램이다. 세계 청년들이 한류를 매개로 일정 기간 지역에 머무르면서 서로 교류하고, 한국 문화를 직접 배우며 체험할 기회의 장을 제공한다. 한류와 관광의 새로...]]></description>
 		</item>
 	</channel>
 </rss>
