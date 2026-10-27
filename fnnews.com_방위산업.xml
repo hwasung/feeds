@@ -4,7 +4,21 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Tue, 27 Oct 2026 15:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 16:30:34 +0900</lastBuildDate>
+		<item>
+			<title>한화시스템 3Q 영업익, 전년比 60%↑..중동·KF-21 쌍끌이</title>
+			<link>https://www.fnnews.com/news/202610271603299007</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202610271603299007</guid>
+			<author>김윤호</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Tue, 27 Oct 2026 16:06:17 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]한화시스템 3·4분기 영업이익이 전년 동기 대비 60.5% 급증한 991억원을 기록했다. 중동 수출과 한국형 전투기 KF-21 양산이 주요 동력원이 됐다.
+한화시스템은 27일 매출액 8316억원에 영업이익 991억원 3·4분기 잠정실적을 발표했다. 전년 동기 대비 매출은 30%, 영업이익은 무려 60.5%나 치솟은 것이다.
+호실적의 배경에는 먼저 중동 수출이 있다. 한화시스템은 아랍에미리트(UAE)와 사우디아라비아, 이라크 등에 천궁-II 다기능레이다(MFR)를 대규모 수출했다. 또 KF-21 양산에 따라 탑재되는 능동전자주사식 위상배열(AESA) 레이다와 항전장비 실적도 성장을 견인했다.
+정보통신기술(ICT) 부문에서는 한화생명 차세대 시스템과 한화필리조선소 전사적자원관리(ERP) 시스템 등 계열사 사업이 주로 이뤄졌다.
+향후 성장세도 견조할 전망이다. 3&middo...]]></description>
+		</item>
 		<item>
 			<title>한화오션 3Q 영업익, 전년比 68%↑..고선가 수주에 성장세 뚜렷</title>
 			<link>https://www.fnnews.com/news/202610271520262579</link>
@@ -115,19 +129,6 @@ KAI는 공군과 함께 21~23일 경남 사천에서 제15회 K-TCG 및 제9회 
 			<category>산업</category>
 			<pubDate>Wed, 21 Oct 2026 18:24:56 +0900</pubDate>
 			<description><![CDATA[한국항공우주산업(KAI)이 우주 궤도에서 위성의 고장 원인과 대응책을 스스로 분석하는 인공지능(AI) 기술 검증에 성공했다. 지상국의 분석에 의존하던 위성 운영 방식을 고도화하고, 이상 상황에 대한 대응 속도를 높일 기반을 마련했다는 평가다. KAI는 지난 20일 큐브위성 'BEE-1012'에 탑재한 자체 개발 AI 모듈로 위성 자율운영 기술의 시범 임무를 성공적으로 수행했다고 21일 밝혔다. BEE-1012는 지난 7일 누리호 5차 발사를 통해 우주에 진입했다. 이번 실증은 위성에 탑재된 AI가 데이터를 직접 처리하는 'AI 온보드 프로세싱' 기술을 검증하는 데 초점을 맞췄다. 지상국에서 가상의 고장 신호를 보내자 AI 모듈이 고장의 원인과 영향 범위를 분석한 뒤 대응책을 담은 기술 보고서를 생성해 지상국으로 전송했다. 기존 위성은 이상이 발생하면 관련 데이터...]]></description>
-		</item>
-		<item>
-			<title>우주서 위성 고장 대응책도 스스로…KAI, 자체 AI 기술 실증 성공</title>
-			<link>https://www.fnnews.com/news/202610210948494967</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202610210948494967</guid>
-			<author>정원일</author>
-			<category>산업|대기업</category>
-			<category>산업</category>
-			<pubDate>Wed, 21 Oct 2026 14:15:54 +0900</pubDate>
-			<description><![CDATA[[파이낸셜뉴스]한국항공우주산업(KAI)이 우주 궤도에서 위성의 고장 원인과 대응책을 스스로 분석하는 인공지능(AI) 기술 검증에 성공했다 지상국의 분석에 의존하던 위성 운영 방식을 고도화하고, 이상 상황에 대한 대응 속도를 높일 기반을 마련했다는 평가다.
-KAI는 지난 20일 큐브위성 'BEE-1012'에 탑재한 자체 개발 AI 모듈로 위성 자율운영 기술의 시범 임무를 성공적으로 수행했다고 21일 밝혔다. BEE-1012는 지난 7일 누리호 5차 발사를 통해 우주에 진입했다.
-이번 실증은 위성에 탑재된 AI가 데이터를 직접 처리하는 'AI 온보드 프로세싱' 기술을 검증하는 데 초점을 맞췄다. 지상국에서 가상의 고장 신호를 보내자 AI 모듈이 고장의 원인과 영향 범위를 분석한 뒤 대응책을 담은 기술 보고서를 생성해 지상국으로 전송했다.
-기존 위성은 이상이 발생하면 관...]]></description>
 		</item>
 	</channel>
 </rss>
