@@ -4,7 +4,160 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 27 Oct 2026 16:30:29 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 17:30:31 +0900</lastBuildDate>
+		<item>
+			<title>[AI 막는 AI] 파이오링크, AI로 취약점 검증부터 해킹 차단까지</title>
+			<link>https://www.etnews.com/20261027000376</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000376</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 해킹 공격이 취약점 탐색부터 공격경로 설계, 침투 시도까지 자동화하면서 기업의 보안 대응 부담이 커지고 있다. 공격자는 외부에 노출된 취약점을 빠르게 찾아내지만, 방어자는 수많은 취약점에서 실제 위험을 선별하고 공격을 차단하는 데 상당한 시간과 인력을 투입해야 한다. 기존 보안체계로는 자동화된 공격 속도를 따라가기 어렵다는 지적이다. 파이오링크는 이러한 격차를 줄이는 해법으로 △지속적 위협 노출관리(CTEM)를 통한 선...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] MS, &apos;프로젝트 퍼셉션&apos; 외부 넘어 내부 AI 에이전트까지 보호</title>
+			<link>https://www.etnews.com/20261027000375</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000375</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[AI 모델이 더욱 강력해지면서 AI 안전과 보안을 둘러싼 과제도 복잡해지고 있다. 기존 AI 보안이 위협 행위자가 AI를 공격에 활용하는 외부 위험에 주로 초점을 맞췄다면, 이제는 기업 내부에서 데이터와 시스템에 접근해 업무를 수행하는 AI 에이전트까지 지속적으로 감독하고 보호해야 할 필요성이 커지고 있다. 마이크로소프트는 이런 상황에서 위험을 지속적으로 인식하고, 보안 맥락을 기반으로 추론하며, 필요한 조치를 머신 속도로 실행하는 새로운 사이...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 지니언스, AI 보안 플랫폼으로 해킹 탐지·대응 자동화</title>
+			<link>https://www.etnews.com/20261027000359</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000359</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[지니언스가 인공지능(AI) 기반 통합 보안 플랫폼을 앞세워 AI 해킹 대응 역량을 강화하고 있다. 기존 네트워크 접근제어(NAC)와 단말 탐지·대응(EDR) 기술을 AI 기반 플랫폼과 연계해 위협 탐지부터 분석·대응까지 통합하는 전략이다. 핵심은 AI 네이티브 기반 개방형 보안 통합 플랫폼 '넥서스 프레임워크'와 이를 기반으로 제공하는 '지니언스 시큐리티 플랫폼(GSP)'이다. 넥서스 프레임워크는 개별 운영해 온 보안 솔루션을 단일 플랫폼에서...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] SK쉴더스, 제로트러스트로 AI 보안 사각지대 해소</title>
+			<link>https://www.etnews.com/20261027000358</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000358</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[SK쉴더스가 자체 개발한 제로트러스트 방법론 'SKZT'와 국내외 보안기업의 솔루션을 결합해 인공지능(AI) 시대의 보안 사각지대 해소에 나섰다. 기업의 자산 현황과 데이터 흐름, 접근권한 등을 진단하고 고객별 환경에 맞는 보안체계를 설계·구축하는 것이 핵심이다. SK쉴더스는 SKZT를 기반으로 자산 현황과 데이터 흐름, 접근권한, 보안정책 등을 종합 진단하고 전환 전략 수립부터 운영체계 정착까지 아우르는 컨설팅을 제공하고 있다. 기업별 업무...]]></description>
+		</item>
+		<item>
+			<title>지오멕스소프트, AI 스마트관제 중심 사업 재편…의료·국방·도로관리로 확장</title>
+			<link>https://www.etnews.com/20261027000351</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000351</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[공간정보 기반 스마트관제 전문기업 지오멕스소프트가 인공지능(AI)과 디지털트윈 기술을 중심으로 사업 영역 확대에 나선다. 기존 공공 CCTV 통합관제 시장에서 확보한 기술력과 고객 기반을 활용해 의료·헬스케어와 국방, 도로관리 등으로 AI 솔루션 적용 분야를 넓히고 해외시장 진출도 본격화한다는 전략이다. 지오멕스소프트(대표 안상섭)는 최근 강원 춘천시 스카이컨벤션에서 개최한 'GMX 테크 포워드(TECH FORWARD) 2026'에서 이 같은...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 세일포인트, AI 에이전트 권한 추적부터 차단까지 자동화</title>
+			<link>https://www.etnews.com/20261027000226</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000226</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[AI 에이전트 도입이 확산하면서 기업 내부 시스템과 데이터에 접근하는 에이전트 보안 관리가 새로운 과제로 떠올랐다. AI 에이전트가 자율적으로 업무를 수행하는 만큼 기존 사람 중심의 계정·권한 관리체계만으로는 정보 유출 위험에 대응하는 데 한계가 있다. 세일포인트의 '2026 아이덴티티 보안의 미래' 보고서에 따르면 조사 대상 기업 약 80%가 AI 에이전트를 도입했다. AI 에이전트의 97%는 민감한 기업 데이터 접근권한을 보유했지만 '최소...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 이글루, 에이전틱 SOC로 보안 관제·위협 대응 자동화</title>
+			<link>https://www.etnews.com/20261027000222</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000222</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[보안 위협 탐지부터 분석, 보고서 발송까지 12초. 평균 30분이 걸리던 보안 업무를 자동화 기술 도입으로 효율화했다. 전체 대응 건수 중 자동 대응 비율은 기존 0%에서 83%로 확대됐다. 이글루코퍼레이션이 자체 인공지능(AI)통합보안센터에서 보안 운영·위협대응 자동화(SOAR) 솔루션을 도입해 거둔 성과다. 이글루코퍼레이션은 AI 에이전트가 새로운 공격을 스스로 분석하고 대응 정책까지 생성하는 '에이전틱 보안운영센터(SOC)' 체계를 구축했...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 안랩, AI로 보안경보 분석부터 대응까지</title>
+			<link>https://www.etnews.com/20261027000212</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000212</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[한 달 동안 보안 센서 20개에서 발생한 경보는 약 197만건. 인공지능(AI)은 이 가운데 16건을 선별했고, 13건이 실제 위협으로 확인됐다. 안랩이 제시한 'AI 네이티브 센서' 분석 사례다. AI가 위험 가능성이 큰 사건을 추려내 보안 담당자가 주요 위협에 집중하도록 지원하는 방식이다. AI가 사이버 공격의 속도와 규모를 키우면서 방어체계에도 변화가 요구되고 있다. 공격자는 AI로 취약점 분석과 공격경로 검증, 피싱·악성코드 제작 등을...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 스틸리언, AI로 취약점 찾고 웹·API 공격까지 방어</title>
+			<link>https://www.etnews.com/20261027000192</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000192</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[소프트웨어(SW)의 소스코드가 없어도 인공지능(AI)으로 보안 취약점을 찾아내고 공격 가능성까지 검증한다. 웹사이트에서는 이용자의 마우스 이동과 클릭 패턴을 분석해 자동화된 공격을 식별한다. 스틸리언이 AI 기반 취약점 분석 솔루션 '에일리언레이'와 웹 보안 솔루션 '웹수트'를 통해 구현하는 보안 기술이다. 공격자 관점의 해킹 전문성과 AI 분석 기술을 결합해 취약점 탐지부터 실제 공격 차단까지 대응 범위를 넓혔다. AI가 취약점 탐색과 공격...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] S2W 퀘이사, AI로 흩어진 위협 연결…실제 공격 위험 가려낸다</title>
+			<link>https://www.etnews.com/20261027000180</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000180</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 사이버 공격이 고도화하면서 기업의 보안 대응 부담이 커지고 있다. 외부에 노출된 서버의 취약점과 유출된 임직원 계정, 공격 그룹의 활동을 각각 탐지하더라도 실제 침해로 이어질 가능성을 판단하려면 추가 분석이 필요하다. 흩어진 정보를 연결해 기업에 미칠 위험과 대응 순서를 파악하는 것이 과제다. 에스투더블유(S2W)는 이러한 문제를 해결할 AI 기반 노출 위험 관리 플랫폼 '퀘이사(QUAXAR)'를 제시한다. 공격표면관리...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 태니엄, AI로 보안 위협 잡고 &apos;섀도 AI&apos;까지 찾아낸다</title>
+			<link>https://www.etnews.com/20261027000111</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000111</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[새로운 보안 취약점이 발견됐다. 우리 회사 PC와 서버 중 위험한 장비는 몇 대일까. 이미 공격받은 흔적은 없는지, 어디부터 패치해야 할까. 과거에는 보안 담당자가 여러 관리 화면을 오가며 답을 찾아야 했다. 이제는 인공지능(AI)에 질문해 영향받는 단말을 찾고 대응 방안까지 검토할 수 있다. 태니엄이 제시한 AI 기반 보안·IT 운영 플랫폼 '태니엄 아틀라스'의 활용 시나리오다. 보안 담당자가 복잡한 명령어나 여러 관리 도구를 사용하지 않고도...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 에버스핀, 웹 보안구조 수시로 바꿔 AI 공격 차단</title>
+			<link>https://www.etnews.com/20261027000078</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000078</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[티켓 예매 플랫폼 티켓링크는 에버스핀의 웹 보안 솔루션 '에버세이프 웹'을 도입해 약 3개월간 비정상 접속 6975만건을 차단했다. 매크로와 스크래핑 등 자동화된 접근을 통제해 정상 이용자의 예매 기회를 보호하고, 반복 요청으로 인한 서버 부담을 줄일 수 있었다. 자동화 공격은 인공지능(AI)의 발전으로 한층 정교해지고 있다. AI 기반 도구가 웹서비스 구조와 응용프로그램인터페이스(API) 호출 방식을 분석하고 요청 생성·반복까지 수행하면서 공...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 위협 현실화…사이버 방어도 AI가 필수</title>
+			<link>https://www.etnews.com/20261027000012</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000012</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기술이 급격하게 발전하면서 사이버 보안 위협이 현실화되고 있다. 앤트로픽의 '클로드 미토스'가 27년간 발견되지 않았던 취약점까지 찾아낸 데 이어, 최근 국내 금융권에서는 AI 기반 침투테스트 도구 '아르텍스'를 활용한 공격 정황이 포착됐다. AI가 취약점 발견부터 공격 실행까지 수행하는 시대가 열리면서 방어체계도 AI 중심으로 전환해야 한다는 목소리가 커지고 있다. AI 해킹 확산은 통계로도 확인된다. IBM이 지난 7월 발표...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 쿼드마이너, 맥락데이터 기반 AI 보안 강화 해법 제시</title>
+			<link>https://www.etnews.com/20261026000436</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000436</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)으로 공격을 탐지하고 스스로 대응하는 보안체계를 구상할 때 먼저 확인해야 할 질문이 있다. AI가 무엇을 근거로 위협을 가려내고 어느 범위까지 조치할 수 있느냐는 것이다. 쿼드마이너는 AI 모델 성능뿐 아니라 판단을 뒷받침할 맥락데이터를 먼저 확보해야 한다는 접근법을 제시했다. 사이버 위협 가능성이 있다는 경보만으로는 어떤 자료가 오갔는지, 평소와 다른 행위인지까지 알기 어렵다. 판단 근거가 부족한 상태에서 자동화만 확대하면 분석...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 일루미오, 마이크로세그멘테이션으로 AI 해킹 &apos;내부 확산&apos; 끊는다</title>
+			<link>https://www.etnews.com/20261026000435</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000435</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 사이버 공격이 고도화하면서 침입 이후 피해 확산을 차단하는 보안 기술이 주목받고 있다. 기계 속도의 공격을 예방과 탐지만으로 대응하는 데 한계가 있기 때문이다. 마이크로세그멘테이션 전문기업 일루미오는 '침해는 피할 수 없어도 사이버 재해는 막을 수 있다'는 원칙 아래 침해 확산 차단에 집중하고 있다. 2013년 설립된 일루미오는 IP 주소 대신 위치·환경·애플리케이션·역할 등 레이블을 기준으로 보안 정책을 정의하는 '레...]]></description>
+		</item>
+		<item>
+			<title>[AI 막는 AI] 로그프레소, AI 에이전트로 탐지부터 대응까지 보안 자동화</title>
+			<link>https://www.etnews.com/20261026000434</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261026000434</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 사이버 공격이 정교해지고 빨라지면서 보안관제 조직의 부담도 커지고 있다. 보안 담당자는 끊임없이 발생하는 경보에서 실제 위협을 가려내 대응 여부를 결정해야 한다. 전문 인력이 부족한 조직은 야간과 휴일까지 같은 수준의 관제 체계를 유지하기도 어렵다. 탐지 이후 조사와 대응이 담당자의 수작업에 의존할수록 위협에 대처하는 시간은 길어진다. 로그프레소는 이러한 상황을 타개할 보안 운영 업무 AI 에이전트 플랫폼 'AIP'를...]]></description>
+		</item>
+		<item>
+			<title>[사설] 韓, 원전 글로벌 리더십 세우자</title>
+			<link>https://www.etnews.com/20261027000389</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000389</guid>
+			<author>논설위원실</author>
+			<category>오피니언</category>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[27일 대한민국 인천광역시에서 개막한 '국제원자력기구(IAEA) 원자력 장관회의'는 원자력 분야에서 60여년만에 반전되듯 달라진 우리나라의 글로벌 위상을 극명히 보여준다. 한국전쟁 직후 극심한 전력난 속에서 국제사회의 원조와 기술 지원을 받아 연구용 원자로를 들여왔던 한국이 이제는 세계 원자력 정책과 기술 협력을 주도하는 리더의 위치에 올랐다. 우리나라는 이미 아랍에미리트(UAE) 바라카 원전과 체코 신규 원전 수주 등을 통해 세계 최정상급 제...]]></description>
+		</item>
 		<item>
 			<title>[대학 AI 콜로키움] ① 폭넓은 AI 활용 고려한 강의·평가 재설계…기초교육 강화해야</title>
 			<link>https://www.etnews.com/20261027000327</link>
@@ -24,20 +177,20 @@
 			<description><![CDATA[“로봇산업이 이제 꽃을 피우려는 시점에 중국의 물량·저가 공세가 동시에 밀려오고 있습니다. 지금이 정말 중요한 골든타임입니다.” 배석태 한국AI·로봇산업협회 상근부회장은 최근 국내 로봇산업 생태계 활성화를 위해 분주하게 움직이고 있다. 지난 6월 취임 이후 전국 로봇기업 현장을 직접 찾아 업계의 애로사항을 듣고, 대기업과 중소기업 간 협력 확대부터 인재 양성, 지역 제조업의 로봇 전환까지 다양한 지원책을 추진하고 있다. 인공지능(AI)과 휴머노...]]></description>
 		</item>
 		<item>
-			<title>[이영의 넥스트 거버넌스] 〈30〉한국증시와 프랑스의 분노</title>
-			<link>https://www.etnews.com/20261027000010</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000010</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 27 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[올해 아무 관련 없어 보이는 두 사건이 하나의 장면으로 겹쳐 보였다. 여의도 증시의 급등락과 바다 건너 프랑스 거리의 분노다. 대한민국 경제는 기록적인 숫자를 쏟아내고 있다. OECD는 올해 한국의 경제성장률 전망치를 3.7%까지 끌어올렸다. G20 국가 중 가장 큰 상향 폭이다. 수출도 사상 최고치를 경신했고 증시 역시 기록적인 상승세를 보였다. 그러나 수출을 주도한 반도체 산업의 호황은 증시에서 삼성전자와 SK하이닉스에 대한 투자 집중으로...]]></description>
-		</item>
-		<item>
 			<title>[전문가 기고]플랫폼 수수료 규제, 비용·편익 검증부터</title>
 			<link>https://www.etnews.com/20261027000008</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261027000008</guid>
 			<category>오피니언</category>
 			<pubDate>Tue, 27 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[7~8월 부처별 대통령 업무보고 이후 플랫폼 규제 논의가 다시 속도를 내고 있다. 공정거래위원회가 플랫폼 사업자의 중개수수료율에 직접 개입할 가능성을 내비친 데 이어, 유럽식 사전규제를 참고한 금지행위 규정의 도입까지 거론 중이다. 고물가와 경기 침체로 어려움을 겪는 소상공인의 부담을 덜어주기 위한 취지는 충분히 공감할 만하다. 다만 과거 사례를 돌아보면, 정부가 규제로 시장 가격에 직접 개입해 당초 의도한 효과를 거둔 적은 손에 꼽을 정도이고...]]></description>
+		</item>
+		<item>
+			<title>[이영의 넥스트 거버넌스] 〈30〉한국증시와 프랑스의 분노</title>
+			<link>https://www.etnews.com/20261027000010</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000010</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 27 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[올해 아무 관련 없어 보이는 두 사건이 하나의 장면으로 겹쳐 보였다. 여의도 증시의 급등락과 바다 건너 프랑스 거리의 분노다. 대한민국 경제는 기록적인 숫자를 쏟아내고 있다. OECD는 올해 한국의 경제성장률 전망치를 3.7%까지 끌어올렸다. G20 국가 중 가장 큰 상향 폭이다. 수출도 사상 최고치를 경신했고 증시 역시 기록적인 상승세를 보였다. 그러나 수출을 주도한 반도체 산업의 호황은 증시에서 삼성전자와 SK하이닉스에 대한 투자 집중으로...]]></description>
 		</item>
 		<item>
 			<title>앤트로픽, 글로벌 AI 모델 기업 첫 상장 도전…역대 최대 규모 주목</title>
@@ -119,158 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 27 Oct 2026 14:00:56 +0900</pubDate>
 			<description><![CDATA[지란지교소프트는 생성형 인공지능(AI) 정보 유출 방지 솔루션 'AX필터(AXFILTER) 2.0'이 굿소프트웨어(GS)인증 1등급을 획득했다고 27일 밝혔다. 지란지교소프트는 개인정보 유출 방지와 데이터 보안 기술을 기반으로 공공·금융·의료·교육 분야에 개인정보 보호 및 정보 유출 방지 솔루션을 공급하는 기업이다. AX필터 2.0은 직원이 생성형 AI에 입력하는 프롬프트를 외부로 전송하기 전에 검사해 개인정보를 마스킹하거나 전송을 차단하는 솔...]]></description>
-		</item>
-		<item>
-			<title>[오라클 AI 월드 2026]오라클, &apos;일하는 AI&apos;로 기업 혁신…보안·통제로 신뢰 뒷받침</title>
-			<link>https://www.etnews.com/20261027000264</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000264</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 13:58:42 +0900</pubDate>
-			<description><![CDATA[오라클이 기업용 인공지능(AI)을 정보 제공과 업무 보조를 넘어 실제 업무를 수행하는 기술로 발전시키겠다는 청사진을 제시했다. AI의 데이터 접근과 업무 수행을 통제할 수 있는 기반을 갖추고, 인프라부터 데이터베이스(DB), 애플리케이션까지 연결해 실질적인 비즈니스 성과를 내겠다는 구상이다. 마이크 시실리아 오라클 최고경영자(CEO)는 26일(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026' 기조연설에서 'AI가 비즈니스를 이...]]></description>
-		</item>
-		<item>
-			<title>이파피루스, PyMuPDF 2.0 버전 업데이트… 3개 패키지 하나로 통합</title>
-			<link>https://www.etnews.com/20261027000227</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000227</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 12:59:08 +0900</pubDate>
-			<description><![CDATA[문서 인공지능(AI) 전문기업 이파피루스(대표 김정희)는 글로벌 다운로드 누적 12억 건을 돌파한 오픈소스 문서 처리 라이브러리 PyMuPDF를 2.0 버전으로 업데이트했다고 27일 밝혔다. 이번 업데이트의 통합이다. 그동안 별도 패키지로 제공되던 대규모 언어모델(LLM)용 데이터 변환 도구 PyMuPDF4LLM과 레이아웃 분석 엔진 PyMuPDF Layout을 PyMuPDF 하나로 합쳤다. 기존에는 개발자가 세 패키지 가운데 필요한 기능을 골...]]></description>
-		</item>
-		<item>
-			<title>캔바, 한국은 &apos;톱5&apos; 시장…AI 기반 디자인 연간 1억개 생성</title>
-			<link>https://www.etnews.com/20261027000221</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000221</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 12:20:52 +0900</pubDate>
-			<description><![CDATA[“한국 이용자들은 캔바 성장을 이끄는 톱5 시장입니다. 지난 12개월 간 1억개의 디자인이 캔바로 생성되는 등 빠른 성장세를 보이고 있습니다.” 김대현 캔바 코리아 지사장은 27일 서울 중구 위워크에서 열린 간담회에서 “캔바는 인공지능(AI) 기반 디자인부터 문서 작성, 프레젠테이션, 웹사이트 제작까지 지원하는 통합 업무 플랫폼으로 진화하고 있다”며 이같이 밝혔다. 국내에서는 교육부 등과 협력에 기반해 교육용 캔바 '캔바 에듀' 이용자들이 지속...]]></description>
-		</item>
-		<item>
-			<title>경희대, 전문가 8명과 AI·병원경영 대응 전략 논의</title>
-			<link>https://www.etnews.com/20261027000161</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000161</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 11:04:28 +0900</pubDate>
-			<description><![CDATA[의료산업 전문가 8명이 인공지능(AI) 활용과 병원경영 전략을 논의한다. 경희대학교는 경영대학원 의료경영MBA(주임교수 김용태)가 오는 11월7일 오후 오비스홀에서 '2026 의료경영MBA 학술세미나'를 개최한다고 27일 밝혔다. '의료경영의 천재들(SEASON 1)'을 주제로 의료기관과 제약·헬스케어 산업의 AI 활용, 디지털 전환(DX), 지역의료와 병원 운영의 대응 방안을 다룬다. 신현경 아크릴 부대표가 '사는 AI, 만드는 AI'로 발표...]]></description>
-		</item>
-		<item>
-			<title>중국 로봇기업 3개사 한국 찾는다</title>
-			<link>https://www.etnews.com/20261027000157</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000157</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 11:02:55 +0900</pubDate>
-			<description><![CDATA[중국 주요 로봇기업이 경북 제조기업·대학·연구기관과 피지컬 AI분야 협력을 논의한다. 현장 작업 데이터를 로봇 학습과 실증에 연결하는 방안을 심도 있게 논의할 방침이다. 도봇(DO BOT), 매트릭스 로보틱스(MATRIX Robotics), 엔진AI(ENGINE AI) 3사는 29일 롯데호텔 서울에서 열리는 '2026 경상북도 제3회 미래전략 산업혁신 투자포럼'에 참석해 패널토론과 특별발표를 진행한다. 발표자는 데이비드 웨이 도봇 아시아태평양...]]></description>
-		</item>
-		<item>
-			<title>MS, 직원 6만명에 희망퇴직 제안…“AI 투자 효율성 제고”</title>
-			<link>https://www.etnews.com/20261027000113</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000113</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 10:28:42 +0900</pubDate>
-			<description><![CDATA[마이크로소프트(MS)가 전 세계 직원 약 6만명에게 희망퇴직을 제안했다. 인공지능(AI) 인프라 투자 효율성을 높이기 위한 조치로 풀이된다. 26일(현지시간) 월스트리트저널(WSJ) 등 외신에 따르면 MS는 미국·영국·캐나다·인도 등 4개국 직원 일부 대상 새로운 '자발적 퇴사 프로그램(VEO)'을 시행한다. 대상 직원은 6월 말 기준 전체 직원 22만3000명의 약 27%에 해당한다. 사내 직급 체계상 70레벨 이하 직원으로 부사장급 임원도...]]></description>
-		</item>
-		<item>
-			<title>한림대·울산대, 지역 사립대학 초광역 협력체계 구축</title>
-			<link>https://www.etnews.com/20261027000100</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000100</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 10:15:44 +0900</pubDate>
-			<description><![CDATA[한림대학교(총장 최양희)와 울산대학교(총장 오연천)가 지역 사립대학의 경쟁력 강화를 위한 초광역 고등교육 협력체계 구축에 나섰다. 한림대는 26일 울산대 교무회의실에서 '초광역 고등교육 협력 생태계 조성을 위한 업무협약'을 체결했다고 밝혔다. 이번 협약은 학령인구 감소와 수도권 집중으로 지역대학의 위기가 심화되는 가운데 대학 간 자원 공유와 공동 대응을 통해 지속가능한 발전 기반을 마련하기 위해 추진됐다. 양 대학은 강원권과 부산·울산·경남권을...]]></description>
-		</item>
-		<item>
-			<title>쿠도커뮤니케이션, 9년 연속 정기 공채…2027년 신입·경력 채용</title>
-			<link>https://www.etnews.com/20261027000093</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000093</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 10:09:30 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)·정보통신기술(ICT) 전문기업 쿠도커뮤니케이션이 11월 1일부터 15일까지 '2027 신입·경력 공개채용'을 실시한다. 쿠도커뮤니케이션(대표 김용식)은 2018년부터 9년 연속 정기 공개채용을 이어오며 청년 인재의 취업 기회를 확대하고 전문인력 육성에 힘써왔다. 이번 채용에서도 신입과 경력 인재를 함께 모집해 AI·ICT 주요 사업 분야의 경쟁력을 강화할 계획이다. 신입 모집 분야는 AX 사업부 IT 솔루션 영업·자바(JAVA)...]]></description>
-		</item>
-		<item>
-			<title>강원대·국립순천대, 초광역 창업 협력체계 구축</title>
-			<link>https://www.etnews.com/20261027000086</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000086</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 10:02:43 +0900</pubDate>
-			<description><![CDATA[강원대학교 춘천캠퍼스 KNU창업혁신원(원장 최용석)은 최근 춘천캠퍼스 글로벌경영관에서 국립순천대학교 창업지원단과 유망 창업자 발굴·육성 및 지역 간 창업생태계 교류 확대를 위한 업무협약을 체결했다. 이번 협약은 양 대학이 보유한 창업지원 인프라와 기술, 인적자원을 연계해 강원과 전남을 잇는 초광역 창업 협력 네트워크를 구축하기 위해 마련됐다. 양 기관은 학생과 교원, 지역 유망 창업자를 공동 발굴하고 성장 단계별 맞춤형 지원을 추진한다. 선배...]]></description>
-		</item>
-		<item>
-			<title>LG CNS, 준법경영 시스템 국제표준 인증 획득... AI·클라우드·데이터센터 등 주요 사업 컴플라이언스 체계 확립</title>
-			<link>https://www.etnews.com/20261027000054</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000054</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 10:00:00 +0900</pubDate>
-			<description><![CDATA[LG CNS가 고객·투자자·협력사 등 다양한 이해관계자가 신뢰할 수 있는 준법경영 시스템을 국제적으로 인정받았다. LN CNS는 준법경영 시스템 국제표준 'ISO 37301' 인증을 획득했다고 27일 밝혔다. ISO 37301은 기업 및 단체가 법률, 규제, 사내 규정, 윤리 기준 등 컴플라이언스 의무를 체계적으로 준수·관리할 수 있도록 국제표준화기구가 제정한 표준이다. 이번 심사는 국제표준 심사 전문기관인 로이드인증원(LRQA)이 맡았다. L...]]></description>
-		</item>
-		<item>
-			<title>AI 큐레이터가 상품 추천 …롯데 칼리버스·백화점, 시시호시 협업</title>
-			<link>https://www.etnews.com/20261027000073</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000073</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 09:46:18 +0900</pubDate>
-			<description><![CDATA[롯데이노베이트 자회사 칼리버스가 AI 큐레이션과 몰입형 쇼핑 경험을 결합해 유통 분야 인공지능 전환(AX)에 속도를 낸다. 패션·가전·스포츠에 이어 라이프스타일까지 적용 범위를 넓히며 롯데 유통 계열사와의 협업을 확대하고 있다. 칼리버스는 롯데백화점의 라이프스타일 편집숍 '시시호시(SISIHOSI)'와 협업해 롯데백화점몰 모바일 앱에 '시시호시 이머시브 스토어'를 선보였다고 27일 밝혔다. 지난 7월 첫 서비스를 시작한 이후 네 번째 협업 사례...]]></description>
-		</item>
-		<item>
-			<title>[알림] 2027년 공공 정보화 사업계획 한자리에…&apos;제28회 공공솔루션마켓&apos; 개최</title>
-			<link>https://www.etnews.com/20261027000071</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000071</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 09:44:41 +0900</pubDate>
-			<description><![CDATA[전자신문은 한국IT서비스산업협회와 내달 19일 서울 삼성동 코엑스 그랜드볼룸에서 'NEXT PUBLIC INNOVATION : AI로 완성하는 국가 대전환'을 주제로 '제28회 공공솔루션마켓'을 개최합니다. 2012년부터 이어져 온 공공솔루션마켓은 정부 부처와 지방자치단체, 공공기관 정보화 담당자 및 민간 IT기업 관계자 등 매년 800명 이상이 참여하는 국내 최대 규모 공공정보화 전문 컨퍼런스입니다. 공공 디지털 혁신을 위한 정책과 최신 기술...]]></description>
-		</item>
-		<item>
-			<title>베스핀글로벌, 삼성증권 AI 레디 데이터 플랫폼으로 오라클 파트너 어워드 수상</title>
-			<link>https://www.etnews.com/20261027000060</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000060</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 09:33:50 +0900</pubDate>
-			<description><![CDATA[베스핀글로벌이 오라클 자율운영 AI 데이터베이스를 기반으로 금융권의 데이터 주권과 보안 요구를 반영한 AI-레디 데이터 플랫폼 구축 사례로 '2026 오라클 파트너 어워드' APAC 데이터 플랫폼 브레이크스루 부문에서 수상했다. 시상식은 25일(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026'에서 진행됐다. 이번 수상에는 삼성증권의 AI-레디 데이터 플랫폼 구축 사례가 주요 레퍼런스로 반영됐다. 이번 사례의 핵심은 금융사가 보...]]></description>
-		</item>
-		<item>
-			<title>모두스원, AI 기반 차세대 원격접근제어 솔루션 출시…글로벌 시장 공략</title>
-			<link>https://www.etnews.com/20261027000055</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000055</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 09:30:10 +0900</pubDate>
-			<description><![CDATA[원격접근제어 전문기업 모두스원이 인공지능(AI)을 접목한 차세대 원격접근제어 솔루션 '게이트원(GATEONE) AI V3.0'을 출시하고 글로벌 보안시장 공략에 나섰다. 모두스원은 지난 20일 한국에 이어 22일 싱가포르에서 글로벌 고객을 대상으로 출시 세미나를 개최하고 신제품의 주요 기능과 기술적 특징을 소개했다고 밝혔다. 출시 행사에서는 기존 접근제어 환경에서 탐지하기 어려웠던 사용자 이상행위를 AI로 조기에 파악할 수 있다는 점에 고객의...]]></description>
-		</item>
-		<item>
-			<title>셀렉트스타, 모델 자동 선택하는 디시전 AI &apos;다비&apos; 공개</title>
-			<link>https://www.etnews.com/20261027000013</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000013</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 08:42:55 +0900</pubDate>
-			<description><![CDATA[셀렉트스타는 인공지능(AI) 의사결정을 지원하는 디시전 AI 모델 '다비(DAVI)'를 공개했다고 26일 밝혔다. 디시전 AI는 주어진 상황을 분석해 가장 적절한 답을 제시하는 판단 특화 AI 모델이다. 다비는 질문의 난이도를 분석해 적절한 AI 모델을 선택하거나 AI 답변의 적절성을 평가한다. AI 에이전트의 작업 성공 가능성을 예측하는 데도 활용할 수 있다. 성능 검증을 위해 타입세이프AI의 모델 '제브(Jev)'와 5개 영역에서 비교 평가...]]></description>
-		</item>
-		<item>
-			<title>오픈AI “수학·컴퓨터과학·물리 난제 해결”…노벨상 수상자가 검증한다</title>
-			<link>https://www.etnews.com/20261027000007</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000007</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 08:11:53 +0900</pubDate>
-			<description><![CDATA[오픈AI가 인공지능(AI)을 활용해 수학·컴퓨터과학·물리학 분야 오랜 난제 3건에 대한 새로운 증명을 도출했다고 발표했다. 오픈AI는 26일(현지시간) 홈페이지를 통해 조화해석, 계산복잡도 이론, 양자장론 등 3개 분야에서 자체 AI 모델이 새로운 연구 성과를 도출했다고 밝혔다. 수십 년간 풀리지 않았던 수학적 추측을 해결하고 컴퓨터과학계에서 널리 받아들여진 가설을 증명했다는 것이다. 노벨물리학상 수상자와 주요 가설 제안자 등 세계적 석학들이...]]></description>
-		</item>
-		<item>
-			<title>오픈AI, 비용 효율 높인 &apos;GPT-6.1 테라&apos; 공개…시각·조작 강화</title>
-			<link>https://www.etnews.com/20261027000006</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000006</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 27 Oct 2026 08:00:47 +0900</pubDate>
-			<description><![CDATA[오픈AI가 인공지능(AI) 시각적 이해와 컴퓨터 조작 능력을 강화한 최신 모델 'GPT-6.1 테라(Terra)'를 공개했다. 기존 모델보다 성능을 높이면서 사용 비용을 절반으로 낮춘 '가성비(가격 대비 성능)' 모델로 기업의 AI 기반 업무 자동화 수요를 공략한다. 오픈AI는 26일(현지시간) GPT-6.1 테라 출시를 공식화했다. 이미지와 화면을 이해하고 실제 애플리케이션을 조작하는 모델이다. 제안서 작성과 기술 도면 분석, 양식 입력, 영...]]></description>
 		</item>
 	</channel>
 </rss>
