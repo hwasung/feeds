@@ -4,7 +4,27 @@
 		<title>ZDNet Korea</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>ZDNet Korea</description>
-		<lastBuildDate>Wed, 28 Oct 2026 20:31:09 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 28 Oct 2026 21:31:15 +0900</lastBuildDate>
+		<item>
+			<title>뱅크오브아메리카, 고객에 &quot;AI 비서에 은행 비밀번호 주지 말라&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261028212659</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261028212659</guid>
+			<author>AI 에디터</author>
+			<category>AI 에디터</category>
+			<category>컴퓨팅</category>
+			<pubDate>Wed, 28 Oct 2026 21:26:59 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/28/ai0d13dd204a3adb9bed2a3fc3a5654e1a.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/28/ai0d13dd204a3adb9bed2a3fc3a5654e1a.jpg" alt="">
+<p>미국 대형 은행 뱅크오브아메리카가 고객들에게 AI 비서나 AI 에이전트에 은행 아이디와 비밀번호를 알려 주지 말라고 안내했다. 테크크런치는 현지 시각 10월 27일 뱅크오브아메리카가 &apos;AI 시대의 금융 자산 보호&apos;라는 제목의 이메일을 고객들에게 일괄 발송했다고 보도했다.</p>
+<p>뱅크오브아메리카는 이메일에서 아이디와 비밀번호를 다른 사람이나 외부 서비스와 공유하지 말라고 당부했으며, 고객 대신 업무를 처리해 주겠다는 AI 도구와 에이전트도 공유 금지 대상에 포함했다. 뱅크오브아메리카는 로그인 정보를 공유하면 그 접근으로 발생한 거래는 고객 책임이라고 밝혔다.</p>
+<p>테크크런치는 은행 계정 정보를 넘겨받은 AI 에이전트가 고객이 모르는 사이 금융 거래를 실행할 수 있다고 설명했다. 은행이 에이전트의 접속을 계좌 탈취 시도로 판단해 계정을 잠글 수도 있고, AI 비서에 보안 결함이 있으면 로그인 정보가 해커에게 유출될 수도 있다. 테크크런치에 따르면 대부분의 미국 은행 약관도 고객이 로그인 정보를 준 상대의 행위에 대해 고객에게 책임을 묻는다.</p>
+<p>은행들은 AI가 스스로 물건을 고르고 결제하는 &apos;에이전트 결제&apos;를 어떻게 받아들일지 아직 검토하고 있다. 악시오스도 은행들이 허가받지 않은 AI 에이전트의 고객 계좌 접근 문제로 고심하고 있다고 보도했다. 뱅크오브아메리카는 테크크런치의 논평 요청에 답하지 않았다.</p>
+<p>자세한 내용은 <a href="https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/" target="_blank" rel="noopener noreferrer" style="letter-spacing: 0.8px; background-color: rgb(255, 255, 255); font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><strong>테크크런치</strong></a><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">에서 확인할 수 있다.</span></p>
+<p><strong>▶︎ 관련 기사:</strong></p>
+<p><a href="https://aimatters.co.kr/news-report/56563/" target="_blank" rel="noopener noreferrer">1패스워드, 비밀번호 노출 없이 AI 에이전트 로그인 지원</a></p>
+<p>이미지 출처: Kiran891 / Wikimedia Commons (CC BY-SA 4.0)</p>
+<p><a href="https://aimatters.co.kr/subscribe" target="_blank"></a></p>
+<p>■ 이 기사는 AI 전문 매체 ‘<a href="https://aimatters.co.kr/" target="_blank">AI 매터스</a>’와 제휴를 통해 제공됩니다. 기사는 클로드 3.5 소네트와 챗GPT를 활용해 작성되었습니다. (☞ <a href="https://aimatters.co.kr/?p=57334" target="_blank" rel="nofollow" class="link">기사 원문 바로가기</a>)</p>]]></description>
+		</item>
 		<item>
 			<title>천문연, 암흑물질 새 가설 제시…&quot;표준 우주론 다시 쓸까&quot;</title>
 			<link>https://zdnet.co.kr/view/?no=20261028195654</link>
@@ -770,29 +790,6 @@
 <p>다만 이런 앱의 탐지 결과를 전적으로 신뢰하기는 어렵다. 스마트 안경 착용자가 블루투스 기능을 꺼놓으면 감지되지 않을 수 있고, 스마트 안경이 아닌 기기를 스마트 안경으로 잘못 인식하는 오탐 가능성도 있기 때문이다. 따라서 앱은 주변의 스마트 안경 존재 여부를 확인하는 보조 수단으로 활용하는 것이 바람직하다.</p>
 <p>주변 사람이 AI 안경을 착용했다는 이유만으로 곧바로 의심하거나 대립하는 것은 피해야 한다. 누군가 수상한 행동을 한다면 우선 거리를 두고, 미행 등 실제 위협이 있다고 판단되면 경찰에 신고하는 것이 좋다.</p>
 <p>기밀 유지가 중요한 회의나 행사에서는 스마트 안경 착용을 허용하지 않는다는 방침을 사전에 명확히 안내하는 것도 방법이다. 몰래 녹음하거나 촬영하는 행위가 의심되더라도 섣불리 상대방을 추궁하기보다는 침착하게 대응하는 것이 중요하다고 엔가젯은 전했다.</p>]]></description>
-		</item>
-		<item>
-			<title>클레빌, 팁스 선정...퍼스널 모빌리티 기술 개발 추진</title>
-			<link>https://zdnet.co.kr/view/?no=20261028165531</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261028165531</guid>
-			<author>방은주 기자</author>
-			<category>클레빌</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 28 Oct 2026 16:55:31 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/28/f97231ac57cdc4c4d58ce390add2d835.png" alt=""><p>자율주행 기술 전문기업 클레빌(CLABIL)이 변환조향 기술을 기반으로 축적해온 자율주행 기술을 퍼스널 모빌리티 영역으로 확대한다.</p>
-<p>28일 회사에 따르면, 클레빌은 중기부의 민간투자주도형 기술창업지원 프로그램 TIPS(팁스)에 최종 선정, 산업용 자율주행 로봇 분야에서 확보한 기술을 기반으로 실내·외 환경을 연속적으로 이동할 수 있는 자율주행 퍼스널 모빌리티 기술 개발에 나선다.</p>
-<p>클레빌은 창업 초기부터 실내·외의 다양한 비정형 환경에 대응할 수 있는 모빌리티 플랫폼 기술 개발을 추진해왔다. 정형화된 공간뿐 아니라 경사, 단차, 협소 공간 등 다양한 주행환경에 유연하게 대응할 수 있는 이동 플랫폼을 구현하기 위해 자체 변환조향(Transform Steering) 기술을 개발하고 지속적으로 고도화해왔다.</p>
-<p>이와 함께 다양한 실내·외 산업현장에 자율주행 로봇 솔루션을 적용하며 위치 인식, 환경 인지, 주행 제어, 자율주행 소프트웨어와 통합 운영·관제에 이르는 기술과 현장 경험을 축적해왔다. 클레빌이 산업용 자율주행 로봇에서 탑승형 퍼스널 모빌리티로 기술 영역을 확장할 수 있는 배경에는 변환조향 기반 모빌리티 플랫폼과 자율주행·관제 기술을 함께 확보해온 기술 전략이 있다고 회사는 밝혔다.</p>
-<p>자율주행 로봇과 탑승형 모빌리티는 사용 목적과 요구 성능에는 차이가 있지만, 주행 플랫폼을 제어하고 주변 환경을 인식해 목적지까지 안전하게 이동한다는 점에서 상당 부분 핵심 기술을 공유한다.</p>
-<p>클레빌은 이러한 공통 기술을 기반으로 기존 산업현장 물류와 작업을 위한 이동에서 사람의 이동을 지원하는 영역까지 자율주행 기술의 활용 범위를 확대한다는 전략이다.</p>
-<p>이번 TIPS 과제에서는 창업 초기부터 개발해온 모빌리티 플랫폼 기술과 산업현장에서 축적한 자율주행 기술을 탑승 환경에 맞게 고도화한다. 사람이 직접 탑승하는 모빌리티는 산업용 자율주행 로봇보다 높은 수준의 주행 안정성과 안전성이 요구되며, 보행자와 다양한 이동체가 함께 이동하는 환경에 대한 대응 능력과 사용자 편의성도 중요하다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/28/f97231ac57cdc4c4d58ce390add2d835.png" alt="">
-<p>클레빌은 이번 연구개발을 통해 실내와 실외의 서로 다른 환경에서도 안정적으로 이동할 수 있는 연속 자율주행 기술을 고도화하고, 실제 생활환경에서 사용할 수 있는 자율주행 퍼스널 모빌리티 기술을 확보할 계획이다.</p>
-<p>또한 자율주행 기능과 함께 모빌리티 호출, 목적지 설정, 상태 확인, 운행 관리 등을 연계한 통합 운영·관제 기술을 적용해 실제 서비스 환경에서 활용 가능한 자율주행 모빌리티 시스템으로 발전시킬 예정이다.</p>
-<p>클레빌은 "이번 TIPS 선정은 단순히 신규 모빌리티 개발이 아닌, 창업 초기부터 개발해온 변환조향 기반 모빌리티 플랫폼과 산업현장에서 축적한 자율주행·관제 기술을 사람의 이동 영역까지 확장하는 계기"라며 "향후에는 병원·요양시설·공공시설 등 이동 지원 수요가 있는 환경을 중심으로 자율주행 퍼스널 모빌리티의 적용 가능성을 검증하고, 산업용 자율주행 로봇과 퍼스널 모빌리티를 아우르는 자율주행 기술 사업으로 확장해 나갈 계획"이라고 밝혔다.</p>
-<p>한편 클레빌은 최근 투자유치 이후 기존 자율주행 로봇 사업의 산업 적용을 확대하는 동시에, 보유한 변환조향 기반 모빌리티 플랫폼과 자율주행 기술을 활용한 퍼스널 모빌리티 분야 기술 개발 및 사업화에도 속도를 내고 있다.</p>
-<p>클레빌은 “창업 초기부터 실내·외의 다양한 환경에 대응할 수 있는 변환조향 기반 모빌리티 플랫폼 기술을 개발해왔고, 다양한 산업현장에서 자율주행과 관제 기술을 축적해왔다”며 “이러한 하드웨어와 소프트웨어의 공통 기술 기반을 바탕으로 자율주행 로봇을 넘어 사람이 직접 탑승하는 퍼스널 모빌리티까지 기술의 적용 영역을 확대하려 한다”고 말했다. 이어 “이번 TIPS 과제를 통해 탑승 환경에서 요구되는 주행 안정성과 안전성을 한 단계 더 고도화하고, 실내와 실외를 연결하는 자율주행 기술을 기반으로 새로운 이동 서비스를 만들어 나갈 계획”이라고 밝혔다.</p>
-<p>클레빌은 변환조향 기반 모빌리티 플랫폼과 자율주행 소프트웨어, 통합 운영·관제 기술을 자체 개발하고 있다. 실내·외 다양한 산업현장에서 축적한 기술과 적용 경험을 기반으로 산업용 자율주행 로봇에서 퍼스널 모빌리티까지 자율주행 기술을 적용하는 영역을 확대하고 있다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
