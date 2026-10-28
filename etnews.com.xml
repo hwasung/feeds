@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 28 Oct 2026 17:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 28 Oct 2026 18:31:26 +0900</lastBuildDate>
+		<item>
+			<title>“말만 하면 버스 안내 끝”… 서울시 최초 &apos;대화형 AI 음성인식 정류장&apos;, 청량리에서 첫 운영</title>
+			<link>https://www.etnews.com/20261028000451</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261028000451</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 28 Oct 2026 17:23:50 +0900</pubDate>
+			<description><![CDATA[서울 동대문구 청량리역 버스환승센터에 서울시 최초로 '말로 묻고 말로 답을 듣는' AI 음성인식 스마트 정류장이 문을 열었다. 비아이씨엔에스(대표 이원철)는 지난 22일 청량리역 버스환승센터에 AI 음성인식 키오스크를 설치하고, 본격적인 실증사업에 들어갔다고 28일 밝혔다. 지난 1월 동대문구와 체결한 'AI 기반 스마트 포용도시 구현을 위한 대화형 AI 키오스크 구축' 업무협약에 따른 첫 현장 설치다. 이용 방법은 간단하다. 키오스크 앞에서...]]></description>
+		</item>
 		<item>
 			<title>[2026 K-오픈소스 AX] 데브스택 “AI 시대 제로데이 위협, 멀티 에이전트 협업으로 대응해야”</title>
 			<link>https://www.etnews.com/20261028000045</link>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 28 Oct 2026 14:08:16 +0900</pubDate>
 			<description><![CDATA[샘 올트먼 오픈AI 최고경영자(CEO)가 기업의 단기 인공지능(AI) 활용에서 생산성 향상보다 보안 위협 대응을 우선해야 한다고 강조했다. AI가 기존 시스템에 숨어 있던 취약점을 빠르게 드러내는 만큼, 기업도 이를 신속히 수정하고 악용을 차단할 대응체계를 갖춰야 한다는 진단이다. 올트먼 CEO는 27일(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026'에서 클레이 마고요크 오라클 CEO와 대담을 나누며 AI 시대 보안 과제에...]]></description>
-		</item>
-		<item>
-			<title>롯데이노베이트, AI 커넥티드카로 모빌리티 사업 확장 속도</title>
-			<link>https://www.etnews.com/20261028000269</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261028000269</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 28 Oct 2026 14:00:23 +0900</pubDate>
-			<description><![CDATA[롯데이노베이트가 AI 커넥티드카 분야로 기술 협력을 확대하며 미래 모빌리티 사업 성장에 속도를 낸다. 자율주행과 지능형 교통 인프라 분야에서 축적한 사업 역량을 바탕으로 기술개발부터 실증, 국내외 사업화까지 성장 기반을 넓혀간다는 전략이다. 롯데이노베이트는 27일 인천 파라다이스시티에서 열린 '2026 커넥티드 모빌리티 얼라이언스 총회'에서 'AI 커넥티드카 기술개발 협력 및 인천 미래 모빌리티 거점 조성을 위한 업무협약'을 체결했다. 이번 협...]]></description>
 		</item>
 	</channel>
 </rss>
