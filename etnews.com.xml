@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 28 Oct 2026 18:31:26 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 28 Oct 2026 19:30:21 +0900</lastBuildDate>
+		<item>
+			<title>제20회 과학기술혁신대상 시상식 개최…19개 프로젝트 수상</title>
+			<link>https://www.etnews.com/20261028000463</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261028000463</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 28 Oct 2026 18:23:04 +0900</pubDate>
+			<description><![CDATA[한국정보과학진흥협회(이사장 박승진)는 27일 경기도 과천시 메가존산학연센터에서 '제20회 과학기술혁신대상' 시상식을 개최했다. 올해로 20회를 맞은 과학기술혁신대상은 과학기술과 인공지능(AI)을 활용해 산업과 사회의 혁신을 이끈 기업과 기관, 단체의 성과를 발굴하는 행사다. 한국정보과학진흥협회와 전자신문이 공동 주최하고 디지털인사이트, 과학기술정보통신인증원, 한국머신비전산업협회가 공동 주관했다. 올해는 AI 산업혁신, AI 공공·사회혁신, AI...]]></description>
+		</item>
 		<item>
 			<title>“말만 하면 버스 안내 끝”… 서울시 최초 &apos;대화형 AI 음성인식 정류장&apos;, 청량리에서 첫 운영</title>
 			<link>https://www.etnews.com/20261028000451</link>
@@ -174,7 +183,7 @@
 			<description><![CDATA[쿠도커뮤니케이션(대표 김용식)은 국내 독점 총판을 맡고 있는 글로벌 오픈소스 보안 전문기업 턱스케어(TuxCare)의 PHP 보안 지원 솔루션을 통해, 지원 종료(EOL) PHP를 운영하는 국내 기업의 보안 공백을 줄이기 위한 대응 방안을 제시했다. 최근 웹서비스 개발에 널리 사용되는 PHP에서 원격 코드 실행으로 이어질 수 있는 'PHP2Shell' 취약점이 공개되면서 기업과 기관의 신속한 보안 업데이트 필요성이 커지고 있다. 이후 별도의 신...]]></description>
 		</item>
 		<item>
-			<title>은행 이어 증권·보험·코인까지 뚫렸다…금감원 “해킹 최고 경계령”</title>
+			<title>은행 이어 증권·보험·코인까지 뚫렸다…국가안보실 2차 피해 차단 만전 주문</title>
 			<link>https://www.etnews.com/20261028000394</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261028000394</guid>
 			<author>류태웅</author>
@@ -262,15 +271,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 28 Oct 2026 14:09:15 +0900</pubDate>
 			<description><![CDATA[오픈AI는 국내 기업의 인공지능(AI) 활용을 지원하는 실무 워크숍 '빌더 부트캠프 서울'을 개최했다고 28일 밝혔다. 이번 행사는 개발자 대상 워크숍 '데브데이(DevDay)'의 후속 행사로 지난 27일 개최됐다. 제조·통신·정보기술(IT) 서비스·소비재·AI 분야 기업 연구개발(R&D) 담당자 등 실무자 40여명이 참여했다. 기업의 업무 병목을 파악하고 AI 적용 과제를 선정하는 '솔루션 스코핑'을 진행했다. 기대 효과와 난이도, 기술·운영...]]></description>
-		</item>
-		<item>
-			<title>[오라클 AI 월드 2026] 샘 올트먼 오픈AI CEO “기업 AI 활용, 당장 생산성보다 보안 대응 우선”</title>
-			<link>https://www.etnews.com/20261028000285</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261028000285</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 28 Oct 2026 14:08:16 +0900</pubDate>
-			<description><![CDATA[샘 올트먼 오픈AI 최고경영자(CEO)가 기업의 단기 인공지능(AI) 활용에서 생산성 향상보다 보안 위협 대응을 우선해야 한다고 강조했다. AI가 기존 시스템에 숨어 있던 취약점을 빠르게 드러내는 만큼, 기업도 이를 신속히 수정하고 악용을 차단할 대응체계를 갖춰야 한다는 진단이다. 올트먼 CEO는 27일(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026'에서 클레이 마고요크 오라클 CEO와 대담을 나누며 AI 시대 보안 과제에...]]></description>
 		</item>
 	</channel>
 </rss>
