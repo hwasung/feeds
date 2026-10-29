@@ -4,7 +4,15 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 29 Oct 2026 19:30:22 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 06:30:24 +0900</lastBuildDate>
+		<item>
+			<title>[테크 차이나] 부품 이름을 맞추다…중국 MRO가 주문을 모으는 법</title>
+			<link>https://www.etnews.com/20261027000122</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000122</guid>
+			<category>오피니언</category>
+			<pubDate>Fri, 30 Oct 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[같은 베어링이 한 공장에서는 제조사 품번, 다른 곳에서는 설비 이름, 또 다른 곳에서는 현장 별칭으로 등록돼 있다면 세 주문은 서로 다른 수요로 남는다. 공급자는 각각 견적을 내고 공장은 제각기 재고를 쌓는다. 중국의 산업재 플랫폼이 풀려는 문제는 이 흩어진 주문을 같은 물건의 수요로 읽어 내는 것이다. 상품의 이름을 맞추는 작업이 구매와 보관, 배송을 함께 처리할 규모를 만든다. 유지·보수·운영 자재를 뜻하는 MRO에는 공구·안전용품·세정제·...]]></description>
+		</item>
 		<item>
 			<title>엑스엘에이트, 강릉 ITS 세계총회 &apos;AI 통번역&apos; 지원</title>
 			<link>https://www.etnews.com/20261029000464</link>
@@ -259,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 29 Oct 2026 14:11:34 +0900</pubDate>
 			<description><![CDATA[클라우데라가 기업의 AI 애플리케이션 개발·배포를 앞당기는 엔비디아 에이전트 툴킷 기반 AI 솔루션 포트폴리오 '클라우데라 블루프린트'를 선보이고, 민감 데이터를 옮기지 않고도 퍼블릭 클라우드·온프레미스·엣지 어디서나 AI를 구현할 수 있도록 지원한다. 클라우데라는 기존 'ML 프로젝트용 액셀러레이터(AMPs)'에 엔비디아 에이전트 툴킷으로 구축한 '엔비디아 AI 블루프린트'를 새롭게 더한 '클라우데라 블루프린트'를 출시했다고 29일 밝혔다....]]></description>
-		</item>
-		<item>
-			<title>다우기술, 166개 팀 참여 &apos;AI 활용 경진대회&apos; 개최… 현업 AX 확산</title>
-			<link>https://www.etnews.com/20261029000301</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000301</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 14:08:49 +0900</pubDate>
-			<description><![CDATA[다우기술은 계열사 임직원의 AI 활용 역량을 높이고 실제 업무에 적용 가능한 AI 활용 사례를 발굴하기 위해 '2026 다우키움 AI 활용 경진대회'를 개최했다고 29일 밝혔다. 이 달 15일 열린 이번 대회에는 총 166개 팀이 참가해 생성형 AI를 활용한 업무 혁신과 신규 고객 서비스 아이디어를 선보였다. 참가 분야는 AI를 활용해 업무 효율과 생산성을 높이는 '내부 업무 활용'과 AI를 기반으로 새로운 고객 경험과 가치를 만드는 '외부 고...]]></description>
 		</item>
 	</channel>
 </rss>
