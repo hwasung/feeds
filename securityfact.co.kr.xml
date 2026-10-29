@@ -4,7 +4,41 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Thu, 29 Oct 2026 08:31:10 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 29 Oct 2026 10:31:00 +0900</lastBuildDate>
+		<item>
+			<title>FBI, &apos;단속 회피&apos; 내건 방탄 호스팅 버추얼라인 도메인 압수</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8068</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8068</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Thu, 29 Oct 2026 09:45:29 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2610/20261029094306_63975b49.jpg" alt="도메인 압수 통지서. 출처=미국 법무부.jpg" style="width: 720px; height: 407px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:justify;">도메인 압수 통지서. 출처=미국 법무부</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 미국 연방수사국(FBI)이 범죄 고객에게 수사기관의 단속을 피하도록 서버를 옮겨주겠다고 광고한 호스팅 업체 버추얼라인(Virtualine)의 대표 도메인을 압수했다. 미국 수사당국은 이 업체가 아동 성착취물 유통을 지원하고 범죄 고객의 자금을 세탁한 혐의를 제기했다.</p>
+<p><br /></p>
+<p>28일(현지시각) 보안 전문매체 헬프넷시큐리티 보도에 따르면, 미 버지니아 동부 연방검찰은 법원의 허가를 받아 버추얼라인의 도메인 'virtualine.net'을 압수했다고 밝혔다. FBI 워싱턴 지부가 수사를 주도했으며 독일 헤센 경찰, 네덜란드 중부 경찰, 영국 국가범죄청(NCA)과 민간 보안업계가 협력했다.&nbsp;</p>
+<p><br /></p>
+<p>버추얼라인은 웹사이트 운영에 필요한 서버와 도메인 등록 등을 제공하는 이른바 '방탄 호스팅' 업체다. 방탄 호스팅은 불법 콘텐츠 신고나 수사기관의 삭제 요청을 무시하며 범죄 사이트가 계속 운영되도록 돕는 서비스를 뜻한다.</p>
+<p><br /></p>
+<p>법무부가 공개한 법원 기록에 따르면 버추얼라인은 사이버범죄 포럼에서 고객을 모집하며 피싱과 카드 사기 등에 자사 서비스를 이용할 수 있다고 광고했다. 지난 3월에는 수사기관의 공식 요청이 들어오면 고객의 서버 기반 시설을 자사와 무관한 유령회사로 옮긴 뒤 다시 가동해준다는 '추가 보호 플랜'을 내걸었다.&nbsp;</p>
+<p><br /></p>
+<p>수사당국은 버추얼라인이 아동 관련 콘텐츠를 금지한다고 공지하면서도 실제로는 미성년자 성착취물과 동의 없이 유포된 사적 영상 등을 거래하는 범죄 포럼을 지원했다고 밝혔다.</p>
+<p><br /></p>
+<p>올해 1월부터 여러 나라 경찰과 미국 실종·착취아동방지센터(NCMEC), 피해자 측 변호사의 경고를 받고도 서비스를 중단하지 않았다는 것이다. 법무부는 버추얼라인이 해당 포럼의 새 사이트 구축까지 도왔으며, 발표 당시에도 이를 호스팅하고 있었다고 설명했다.</p>
+<p><br /></p>
+<p>자금세탁 혐의도 제기됐다. 법무부는 버추얼라인이 범죄 고객에게 비트코인으로 대금을 받은 뒤 자금의 출처를 감추기 위해 세탁했다고 밝혔다.&nbsp;</p>
+<p><br /></p>
+<p>수사를 지원한 블록체인 분석업체 체이널리시스는 버추얼라인의 결제 주소가 랜섬웨어 운영자, 정보 탈취용 기반 시설, 러시아어 사이버범죄 포럼, 사기·피싱 관련 주소와 직접 연결돼 있다고 분석했다.&nbsp;</p>
+<p><br /></p>
+<p>이번 조치가 업체의 모든 서버와 서비스를 폐쇄한 것은 아니다. 보안업체 사일런트 푸시에 따르면 버추얼라인과 연계된 오메가테크 네트워크는 압수 이후에도 일부 접속이 가능했다. 다만 외부에서 확인되는 네트워크 연결 범위는 크게 줄었다.</p>
+<p><br /></p>
+<p>버추얼라인은 압수 몇 시간 뒤 다른 도메인에 공개서한을 올려 혐의를 부인했다. 사일런트 푸시는 업체가 이름과 웹사이트를 바꿔 사업을 이어갈 수 있다는 입장을 밝혔으며, 텔레그램에서도 고객 데이터가 안전하다고 주장했다고 전했다.&nbsp;</p>]]></description>
+		</item>
 		<item>
 			<title>캐나다 봄바르디에, BAE시스템즈와 차세대 전투항공 손 잡는다</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8067</link>
@@ -1480,62 +1514,6 @@
 </p>
 <p>BAE시스템즈는 생산을 늘리는 한편 미 전쟁부와 다년 계약을 협상할 예정이다. 동맹국 몫의 추가 생산은 각국이 해외 군사 판매(FMS)를 통해 공식 수요를 요청해야 가능하다.&nbsp;</p>
 <p>&nbsp;</p>]]></description>
-		</item>
-		<item>
-			<title>안두릴, 유럽서 요격미사일 현지 생산 타진… 폴란드와 ‘스틸핀’ 협력 모색</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8038</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8038</guid>
-			<author>sbtm2epdl@gmail.com 강지현 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Tue, 20 Oct 2026 13:48:17 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2610/20261020134622_xvczvrat.jpg" alt="20261020 안두릴.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">차세대 지대공 요격미사일 '스틸핀(Steelfin)'/출처=안두릴</figcaption>
-   </figure>
-   </div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=강지현 기자] 미국 첨단 방산기업 안두릴(Anduril)이 최근 공개한 차세대 지대공 요격미사일 '스틸핀(Steelfin)'을 향후 유럽 현지에서 직접 생산하는 방안을 추진한다. 우크라이나와 중동 지역 분쟁이 장기화되면서 전 세계적으로 방공 요격미사일 재고가 바닥나고 납기 지연이 심화하자 유럽 국가들이 추진 중인 '방산 자립 및 현지 생산 확대' 흐름에 발맞추려는 전략으로 풀이된다.</p>
-<p>
-   <br />
-</p>
-<p>19일(현지시간) 로이터 통신에 따르면 브라이언 모란(Brian Moran) 안두릴 유럽 담당 부사장은 인터뷰를 통해 "스틸핀과 같은 요격 역량이 폴란드 정부 및 현지 방산업계와 함께 협력할 수 있는 주요 분야가 되기를 기대한다"며 "유럽 파트너 및 고객들과 스틸핀 생산 협력을 적극적으로 검토할 것"이라고 밝혔다.</p>
-<p>
-   <br />
-</p>
-<h3>모듈형 대량생산 체계 ‘스틸핀’… 기존 패트리어트 대비 가격 낮춰 보완</h3>
-<p>안두릴이 이달 초 전격 공개한 '스틸핀'은 순항미사일부터 탄도미사일까지 다양한 공중 위협에 대응할 수 있도록 설계된 대량생산형 지대공 요격미사일이다.</p>
-<p>
-   <br />
-</p>
-<p>스틸핀은 1단 부스터와 2단 종말 요격체로 구성된 2단 분리형 모듈식 구조를 갖췄다. 공통 탐색기(Seeker)와 오픈 아키텍처 소프트웨어를 적용해 부품 수급 불안을 줄이고 패트리어트 등 기존 고가 요격미사일 대비 약 3분의 1 수준의 저렴한 비용으로 대량 공급이 가능한 것이 특징이다. 스틸핀은 오는 2027년 본격적인 비행 시험에 돌입할 예정이다.</p>
-<p>
-   <br />
-</p>
-<p>모란 부사장은 "스틸핀은 패트리어트와 같은 기존 미사일 방어 체계를 대체하는 것이 아니라 이를 보완해 비용 효율적인 방공망을 구축할 수 있는 체계"라고 설명했다.</p>
-<p>
-   <br />
-</p>
-<h3>PGZ·WZL-2와 논의… 방산 주권과 비용 간 균형 강조</h3>
-<p>안두릴은 이미 자사의 '바라쿠다-500(Barracuda-500)' 순항미사일을 폴란드 현지에서 생산하기 위해 국영 방산그룹인 PGZ(Polska Grupa Zbrojeniowa)와 논의를 진행해 왔다. 모란 부사장은 이러한 협력 경험이 스틸핀의 현지 생산 프로젝트로 이어지는 발판이 될 것으로 보고 있다.</p>
-<p>
-   <br />
-</p>
-<p>특히 PGZ와 그 산하 항공정비 전문 기업 WZL-2는 한국의 K2 전차(현대로템), K9 자주포(한화에어로스페이스), FA-50 경공격기(KAI) 현지 양산 및 후속 군수지원(MRO) 분야에서 한국 방산기업들과도 밀접한 협력 관계를 맺고 있는 폴란드 방위산업의 핵심 거점이다.</p>
-<p>
-   <br />
-</p>
-<p>NATO 회원국 중 경제 규모 대비 최고 수준의 국방비를 지출하는 폴란드는 해외 공급망 의존도를 낮추고 자국 내 생산 기지를 확대하는 데 주력하고 있다. 이에 대해 모란 부사장은 "PGZ 및 WZL-2, 폴란드 정부와의 논의는 현지 생산 비중, 납품 속도, 폴란드 군의 구체적 요구사항 간의 균형을 맞추는 데 초점이 맞춰져 있다"고 전했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
