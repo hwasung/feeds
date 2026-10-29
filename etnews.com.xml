@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 29 Oct 2026 12:30:19 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 29 Oct 2026 13:30:22 +0900</lastBuildDate>
+		<item>
+			<title>인티큐브·제네시스 코리아, 금융권 AI·클라우드 기반 CX 혁신 전략 공유</title>
+			<link>https://www.etnews.com/20261029000229</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261029000229</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 29 Oct 2026 12:14:43 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 콘택트센터 솔루션 전문 기업 인티큐브(대표 조형석)와 제네시스 코리아(Genesys Korea, 지사장 김동욱)는 지난 28일 여의도 콘래드 서울에서 금융권 C레벨 및 주요 임원을 초청해 '금융 CXO 조찬 간담회'를 공동 개최했다고 밝혔다. '규제에서 현실로:한국 금융 산업의 CX+AI 혁신'을 주제로 열린 이번 행사는 금융권의 AI 및 클라우드 도입을 둘러싼 규제·보안 이슈를 점검하고, 기술 혁신을 실질적인 고객경험 개선과...]]></description>
+		</item>
 		<item>
 			<title>[오라클 AI 월드 2026] 고쿨나타 수석 부사장 “AI로 온톨로지 구축…기업 업무 이해 뒷받침”</title>
 			<link>https://www.etnews.com/20261029000189</link>
@@ -264,15 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 28 Oct 2026 17:23:50 +0900</pubDate>
 			<description><![CDATA[서울 동대문구 청량리역 버스환승센터에 서울시 최초로 '말로 묻고 말로 답을 듣는' AI 음성인식 스마트 정류장이 문을 열었다. 비아이씨엔에스(대표 이원철)는 지난 22일 청량리역 버스환승센터에 AI 음성인식 키오스크를 설치하고, 본격적인 실증사업에 들어갔다고 28일 밝혔다. 지난 1월 동대문구와 체결한 'AI 기반 스마트 포용도시 구현을 위한 대화형 AI 키오스크 구축' 업무협약에 따른 첫 현장 설치다. 이용 방법은 간단하다. 키오스크 앞에서...]]></description>
-		</item>
-		<item>
-			<title>[2026 K-오픈소스 AX] 데브스택 “AI 시대 제로데이 위협, 멀티 에이전트 협업으로 대응해야”</title>
-			<link>https://www.etnews.com/20261028000045</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261028000045</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 28 Oct 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)이 소프트웨어 취약점을 찾아내고 공격까지 자동화하는 시대에는 여러 전문 AI 에이전트가 협업해 취약점을 분석하고 검증하되 실제 대응은 사람의 승인과 통제 아래 이뤄지는 새로운 보안 체계가 필요하다는 제언이 나왔다. 장승욱 데브스택 대표는 전자신문과 오픈소스산업협회가 28일 서울 과학기술회관에서 공동 개최한 'K-OPENSOURCE AX 2026'에서 오픈소스 기반 에이전트 협업형 보안 관리 플랫폼 '메타옵스(MetaOps)' 구현...]]></description>
 		</item>
 	</channel>
 </rss>
