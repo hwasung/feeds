@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 30 Oct 2026 06:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 08:30:24 +0900</lastBuildDate>
+		<item>
+			<title>아마존, AWS 매출 39% 급증…현금흐름은 악화</title>
+			<link>https://www.etnews.com/20261030000006</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000006</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 07:50:35 +0900</pubDate>
+			<description><![CDATA[아마존의 아마존웹서비스(AWS)가 인공지능(AI) 수요 확대에 힘입어 약 5년 만에 최고 성장률을 기록했다. 다만 AI 인프라 투자 부담이 커지면서 잉여현금흐름 적자도 확대됐다. 아마존은 29일(현지시간) 3분기 매출이 전년 동기 대비 12% 증가한 2019억달러(약 293조원)를 기록했다고 발표했다. 주당순이익(EPS)은 1.89달러로 시장 예상치인 매출 2022억달러, EPS 1.97달러를 모두 밑돌았다. AWS는 3분기 매출이 전년 동기...]]></description>
+		</item>
+		<item>
+			<title>MS, AI 투자 확대로 9년 만에 회사채 33조원 발행</title>
+			<link>https://www.etnews.com/20261030000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000005</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 07:49:30 +0900</pubDate>
+			<description><![CDATA[글로벌 빅테크 기업을 중심으로 인공지능(AI) 인프라 투자가 확대되는 가운데 마이크로소프트(MS)가 투자 자금 확보를 위해 9년 만에 회사채 발행에 나섰다. 29일(현지시간) 블룸버그통신에 따르면 MS는 미국 채권시장에서 최소 250억달러(약 34조원) 규모의 투자등급 회사채를 조달할 계획이다. MS가 미국에서 회사채 발행에 나선 것은 2017년 이후 처음이다. 채권은 만기 2년부터 40년까지 총 10개 종목으로 발행된다. 2066년 만기인 4...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 부품 이름을 맞추다…중국 MRO가 주문을 모으는 법</title>
 			<link>https://www.etnews.com/20261027000122</link>
@@ -249,24 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 29 Oct 2026 14:24:51 +0900</pubDate>
 			<description><![CDATA[대학 인공지능(AI) 전공교육이 AI 기술 전문가 양성에서 나아가 산업현장 문제를 해결할 수 있는 융합 인재 양성으로 확대돼야 한다는 공감대가 형성됐다. 지난 27일 한양대에서 열린 'AI 교육혁신 콜로키움' 2차 간담회에서는 '대학 강점을 살린 전공 특화형 AX(AI전환) 인재양성'을 주제로 수도권 12개 AI·소프트웨어(SW)중심대학이 교육혁신 사례와 발전 방향을 논의했다. 입학 당시 전공이나 AI 중심 획일적인 교육과정보다 대학이 경쟁력을...]]></description>
-		</item>
-		<item>
-			<title>KOSA, 美 진출 &apos;AI 혁신 액셀러레이터&apos; 참여 희망기업 사전 신청 접수</title>
-			<link>https://www.etnews.com/20261029000305</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000305</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 14:14:33 +0900</pubDate>
-			<description><![CDATA[한국인공지능·소프트웨어산업협회(KOSA)가 국내 AI·디지털 기업의 미국 동부 시장 진출을 돕는 'AI 혁신 액셀러레이터(AIIA)' 프로그램의 참여 희망기업 사전 신청을 연중 상시 접수한다고 29일 밝혔다. KOSA는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 AIIA 프로그램의 사전 신청 접수를 시작했다. 사전 신청은 정식 모집공고에 앞서 기업 정보와 참여 의사를 미리 제출하는 예비 신청이다. 기업은 미국 법인 설립 여부,...]]></description>
-		</item>
-		<item>
-			<title>클라우데라, 엔비디아 에이전트 툴킷 기반 &apos;클라우데라 블루프린트&apos; 출시</title>
-			<link>https://www.etnews.com/20261029000302</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000302</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 14:11:34 +0900</pubDate>
-			<description><![CDATA[클라우데라가 기업의 AI 애플리케이션 개발·배포를 앞당기는 엔비디아 에이전트 툴킷 기반 AI 솔루션 포트폴리오 '클라우데라 블루프린트'를 선보이고, 민감 데이터를 옮기지 않고도 퍼블릭 클라우드·온프레미스·엣지 어디서나 AI를 구현할 수 있도록 지원한다. 클라우데라는 기존 'ML 프로젝트용 액셀러레이터(AMPs)'에 엔비디아 에이전트 툴킷으로 구축한 '엔비디아 AI 블루프린트'를 새롭게 더한 '클라우데라 블루프린트'를 출시했다고 29일 밝혔다....]]></description>
 		</item>
 	</channel>
 </rss>
