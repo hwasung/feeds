@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 30 Oct 2026 08:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 09:30:23 +0900</lastBuildDate>
+		<item>
+			<title>이노테나-모티프테크놀로지스, 폐쇄망 AI 문서중앙화 솔루션 공동 개발</title>
+			<link>https://www.etnews.com/20261030000014</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000014</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능 전환(AX) 전문기업 이노테나(대표 김인수·윤영호)와 AI 딥테크 기업 모티프테크놀로지스(대표 임정환)가 외부 인터넷 연결 없이 생성형 AI를 활용할 수 있는 지능형 문서중앙화 솔루션 개발에 나선다. 양사는 최근 이노테나 본사에서 폐쇄망 AI 기반 지능형 문서중앙화 사업 협력을 위한 업무협약(MOU)을 체결했다. 이번 협약에 따라 이노테나의 통합 정보보안 브랜드 '엠파워(Mpower)'와 모티프테크놀로지스의 독자 AI 파운데이션 모델...]]></description>
+		</item>
+		<item>
+			<title>위세아이텍-아이노션, AI 플랫폼 해외 시장 진출 협력</title>
+			<link>https://www.etnews.com/20261030000016</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000016</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 08:57:46 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)·데이터 플랫폼 전문기업 위세아이텍이 AI 데이터센터 풀스택 기업 아이노션과 손잡고 미국과 중남미 AI 시장 공략에 나선다. 위세아이텍(대표 김다산·이제동)은 아이노션(대표 김창수)과 AI 플랫폼 및 컴퓨팅 인프라 기반의 글로벌 사업 확대를 위한 전략적 업무협약(MOU)을 체결했다고 30일 밝혔다. 이번 협약은 위세아이텍의 AI 플랫폼 기술과 아이노션의 AI 컴퓨팅 인프라 구축 역량을 결합해 통합 AI 서비스를 개발하고 해외 사업...]]></description>
+		</item>
 		<item>
 			<title>아마존, AWS 매출 39% 급증…현금흐름은 악화</title>
 			<link>https://www.etnews.com/20261030000006</link>
@@ -249,24 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 29 Oct 2026 14:45:48 +0900</pubDate>
 			<description><![CDATA[국내 유망 디지털 기업이 일본 도쿄에 모여 현지 기업과 비즈니스 교류를 펼친 결과, 총 450억원이 넘는 수출 상담 성과를 끌어냈다. 정보통신산업진흥원(NIPA)은 국내 디지털 기업의 현지 진출을 지원하기 위해 지난 28일부터 이틀간 일본 도쿄에서 '일본 시장개척단' 활동을 추진했다고 29일 밝혔다. 일본은 탄탄한 제조업 및 로봇·정밀기계 산업 기반을 바탕으로 최근 산업 전반의 디지털 전환(DX)과 인공지능(AI) 기술 도입을 적극 추진 중인...]]></description>
-		</item>
-		<item>
-			<title>PHP 취약점 악용해 서버 25대 장악 정황…한국도 공격 표적</title>
-			<link>https://www.etnews.com/20261029000323</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000323</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 14:25:25 +0900</pubDate>
-			<description><![CDATA[최근 발견된 PHP 취약점을 악용한 사이버 공격으로 미국 정부 관련 시스템을 포함한 서버 25대가 장악된 정황이 포착됐다. 한국과 미국, 일본, 대만의 방화벽 240대가 공격 대상에 포함됐으며, 일부 시스템에서는 내부 관리 서버까지 침투한 것으로 분석됐다. 29일 이스라엘 사이버보안 기업 드림의 보안 연구조직 드림 리서치에 따르면 공격자는 지난 23~24일 전 세계 방화벽 약 1만9000대를 탐색한 뒤 한국 등 4개국에 있는 장비 240대를 공...]]></description>
-		</item>
-		<item>
-			<title>[대학 AI 콜로키움] ② 전공 특화 AX 인재 양성…현장 문제 해결 역량 키워야</title>
-			<link>https://www.etnews.com/20261029000322</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000322</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 14:24:51 +0900</pubDate>
-			<description><![CDATA[대학 인공지능(AI) 전공교육이 AI 기술 전문가 양성에서 나아가 산업현장 문제를 해결할 수 있는 융합 인재 양성으로 확대돼야 한다는 공감대가 형성됐다. 지난 27일 한양대에서 열린 'AI 교육혁신 콜로키움' 2차 간담회에서는 '대학 강점을 살린 전공 특화형 AX(AI전환) 인재양성'을 주제로 수도권 12개 AI·소프트웨어(SW)중심대학이 교육혁신 사례와 발전 방향을 논의했다. 입학 당시 전공이나 AI 중심 획일적인 교육과정보다 대학이 경쟁력을...]]></description>
 		</item>
 	</channel>
 </rss>
