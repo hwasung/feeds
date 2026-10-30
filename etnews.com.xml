@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 30 Oct 2026 13:30:44 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 14:30:43 +0900</lastBuildDate>
+		<item>
+			<title>다인리더스, 국가생산성대회 &apos;AI 선도기업&apos; 국무총리표창 수상</title>
+			<link>https://www.etnews.com/20261030000227</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000227</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 13:51:45 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 커리어플랫폼 전문기업 다인리더스(대표 임무호)는 '제50회 국가생산성대회'에서 특별상인 'AI 선도기업' 부문 국무총리표창을 수상했다고 밝혔다. 국가생산성대상은 산업통상부가 주최하고 한국생산성본부가 주관하는 정부포상 제도로, 혁신적인 경영활동과 생산성 향상을 통해 국가 경제 발전에 기여한 기업 및 단체를 선정해 포상한다. 다인리더스는 AI와 교육데이터를 기반으로 대학 디지털 전환을 선도하고, 학생 학습·역량·진로·취업 데이터를...]]></description>
+		</item>
+		<item>
+			<title>디에스앤지, 고려대학교 &apos;2026 InThon&apos;에 NVIDIA HGX B300 8-GPU서버 지원</title>
+			<link>https://www.etnews.com/20261030000221</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000221</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 13:48:09 +0900</pubDate>
+			<description><![CDATA[디에스앤지(대표이사 서정열)는 10월 31일부터 11월 1일까지 고려대학교 정보대학이 개최하는 '2026 InThon' 해커톤·데이터톤 대회에 NVIDIA HGX B300 8-GPU 서버 2대를 후원한다고 30일 밝혔다. 올해 4회째를 맞은 대회는 고려대학교 정보대학, 정보대학 학생회, AI 중심대학이 공동 주관한다. SW·AI 전공 학생 약 150명이 해커톤과 데이터톤에 나눠 참가하며, 해커톤 팀은 주제에 맞춰 실제로 동작하는 앱이나 웹 서비...]]></description>
+		</item>
 		<item>
 			<title>라온로보틱스, 3분기 영업익 39억…전년 비 259% ↑</title>
 			<link>https://www.etnews.com/20261030000186</link>
@@ -254,23 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[지난해 큰맘 먹고 도입한 인공지능(AI) 툴이 벌써 옛날 기술처럼 느껴질 만큼 기술 변화가 빠르다. 이제 리스크는 AI 모델 자체에 있지 않다. AI 에이전트가 기업의 데이터와 인프라에 연결되는 순간, 모델의 문제는 곧 데이터의 문제가 되고 결국 비즈니스 전체의 위협으로 번지게 된다. 티빙이 발표한 개인정보 유출사고 조사 결과는 변화한 위험 환경을 단적으로 보여준다. 공격자는 '개발자 접속키'를 탈취해 내부 시스템에 무단으로 접근했고, 약 39...]]></description>
-		</item>
-		<item>
-			<title>[人사이트] 정철 한경연 원장 “뉴 K-인더스트리, 축적된 제조 역량에 AI·청정에너지 결합해야”</title>
-			<link>https://www.etnews.com/20261026000003</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261026000003</guid>
-			<author>이호길</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[“'뉴 K-인더스트리'는 새로운 유망 산업 육성을 넘어 기존 산업 강점을 신성장 동력으로 발전시키는 전략입니다. 축적된 제조 역량에 인공지능(AI)과 청정에너지·서비스를 결합하면 새로운 부가가치를 창출할 수 있습니다.” 정철 한국경제인협회(한경협) 연구총괄대표 겸 한국경제연구원(한경연) 원장은 “산업 경쟁 단위가 개별 제품에서 기술과 인프라 등 산업 생태계 전체로 변화하고 있다”며 “AI 전환(AX)·녹색 전환(GX)·서비스 혁신(SX)이라는...]]></description>
-		</item>
-		<item>
-			<title>[ET단상]사람을 닮는 로봇을 넘어, 사람을 뛰어넘는 로봇으로</title>
-			<link>https://www.etnews.com/20261029000143</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000143</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[휴머노이드가 사람처럼 걷고, 물건을 집고, 집안일을 하는 영상을 심심치 않게 볼 수 있다. 사람의 대규모 동작 데이터에 기반한 학습 기술이 로봇에 적용되며 로봇 기술 개발의 방향 자체가 사람을 닮는 쪽으로 집중되고 있고, 피지컬 인공지능(AI) 경쟁 역시 휴머노이드와 이를 사람처럼 제어하기 위한 AI 모델을 중심으로 펼쳐지고 있다. 그런데 사람을 닮는 것이 곧 로봇의 목표는 아니다. 로봇을 현장에 투입하는 이유는 결국 사람보다 빠르거나, 정확하...]]></description>
 		</item>
 	</channel>
 </rss>
