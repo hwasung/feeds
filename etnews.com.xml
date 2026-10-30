@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 30 Oct 2026 11:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 12:30:32 +0900</lastBuildDate>
+		<item>
+			<title>KOSA, 獨 AI협회와 산업 협력… 한·독 AI 협력 물꼬</title>
+			<link>https://www.etnews.com/20261030000179</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000179</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 11:48:10 +0900</pubDate>
+			<description><![CDATA[한국인공지능·소프트웨어산업협회(KOSA)가 독일 AI협회와 손잡고 한·독 AI 산업 협력에 속도를 낸다. KOSA는 30일 서울 그랜드 인터컨티넨탈 파르나스에서 열린 '제19회 아시아·태평양 독일경제회의(APK 2026)' 계기에 독일 AI협회와 '한·독 AI 산업 협력을 위한 업무협약(MOU)'을 체결했다. 이 자리에는 메르츠 독일 연방총리와 고경석 주독일대사 등이 임석했으며, 조준희 KOSA 회장과 아니카 폰 무티우스 독일 AI협회 이사 등...]]></description>
+		</item>
+		<item>
+			<title>제타큐브, SONiC 네트워크 접목한 &apos;AI 토큰 팩토리&apos; 사업 본격화</title>
+			<link>https://www.etnews.com/20261030000155</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000155</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 11:06:41 +0900</pubDate>
+			<description><![CDATA[AI 인프라 전문기업 제타큐브(대표 조정현)가 글로벌 오픈 네트워킹 기업 아스터퓨전(Asterfusion)과 한국 총판 계약을 체결하고 AI 데이터센터 및 AI 토큰 팩토리(AI Token Factory) 시장 공략에 본격적으로 나선다고 30일 밝혔다. 양사는 이번 계약을 통해 아스터퓨전의 유무선 네트워크 제품군을 국내에 공급하는 한편, 제타큐브의 초소형 AI 데이터센터 솔루션 'NANODC(나노디씨)'에 최적화된 고성능 네트워크 스위치를 공동...]]></description>
+		</item>
 		<item>
 			<title>피앤피시큐어, FISCON 2026서 AI 기반 화면정보 보호 기술 선보인다</title>
 			<link>https://www.etnews.com/20261030000149</link>
@@ -251,22 +269,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[“핵융합은 언제 전기를 만들 수 있는가.” 연구 현장에서 가장 자주 받는 질문이다. 핵융합에너지는 우리 사회가 원할 때 실현될 수 있을 것이다. 그렇다면, '사회가 원할 때'란 언제일까. 어떤 상황이 사회가 원하는 상황일까. 기존 에너지의 수용성과 공급이 한계에 이를 때일 것이다. 이와 더불어 핵융합 에너지 실현을 위해 필요한 경제적 정책적 지원에 대해 구성원 대다수가 기꺼이 동의할 때라고 말할 수 있을 것이다. 인공지능(AI) 활용의 급속한...]]></description>
-		</item>
-		<item>
-			<title>[정구민의 테크읽기] 배터리 산업, 피지컬 AI에서 새로운 성장 동력을 찾다</title>
-			<link>https://www.etnews.com/20261029000075</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000075</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[배터리 산업은 전기차를 넘어 중장비·로봇·휴머노이드·도심항공교통(UAM)·전기추진선박 등 다양한 산업으로 확산되고 있다. '제2의 반도체' 산업으로 불리며 성장하던 우리나라 배터리 산업은 최근 중국 기업의 가격 경쟁력과 리튬인산철(LFP) 배터리의 시장 확대, 주요 자동차 제조사의 중국산 배터리 채택 증가 등으로 새로운 도전에 직면했다. 도약을 위한 신성장 동력을 찾아야 하는 상황이다. 최근 주요 전시회와 업체 발표에서는 우리나라 배터리 회사의...]]></description>
-		</item>
-		<item>
-			<title>[김장현의 테크와 사람] 〈112〉수출호황 시대, 환호 대신 초격차 영역 확대를</title>
-			<link>https://www.etnews.com/20261029000017</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000017</guid>
-			<category>오피니언</category>
-			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[한국 수출이 사상 최대 호황을 맞고 있다. AI 데이터센터 수요 급증에 힘입은 반도체 수출이 폭발적으로 늘었고, 삼성전자는 3분기 영업이익 107조4000억 원이라는 큰 성취를 이뤄냈다. 국가 경상수지 흑자도 사상 최대 수준에 이르렀다. 2분기 중국에 이은 세계 2위 경상수지 흑자 데이터는 눈을 의심케 할 정도다. 그러나 이 호황을 한국 경제의 전성기로 읽고 환호하기는 이르다. 최근 수출 성장은 반도체, 그중에서도 극소수 대기업이 주도하고 있다...]]></description>
 		</item>
 	</channel>
 </rss>
