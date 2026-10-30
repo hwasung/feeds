@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 30 Oct 2026 15:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 16:30:25 +0900</lastBuildDate>
+		<item>
+			<title>KAIST·뉴톤, &apos;탄소 버티컬 AI&apos; 개발 맞손…글로벌 탄소시장 정조준</title>
+			<link>https://www.etnews.com/20261030000272</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000272</guid>
+			<author>이준희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 15:30:48 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 복잡한 글로벌 탄소시장과 기후정책을 분석하고 국가·지역별 기후변화 대응 시나리오까지 제시하는 '탄소 버티컬 AI' 개발이 본격화한다. 기후·에너지 정책 연구 역량에 온톨로지(Ontology)와 지식그래프(Knowledge Graph), 그래프 기반 검색증강생성(GraphRAG) 등 AI 기술을 결합해 탄소 감축·제거 크레딧 분석부터 정책 설계까지 지원하는 것이 목표다. 한국과학기술원(KAIST) 녹색성장지속가능대학원(원장 엄지...]]></description>
+		</item>
+		<item>
+			<title>지니언스 “내부망 PHP 장비 96% 취약점 노출…자산 점검 시급”</title>
+			<link>https://www.etnews.com/20261030000260</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000260</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 15:09:01 +0900</pubDate>
+			<description><![CDATA[기업 내부망에서 PHP를 구동하는 장비 상당수가 최근 발견된 고위험 보안 취약점 'PHP2Shell'에 노출돼 있다는 분석이 나왔다. 외부에 공개된 웹서버뿐 아니라 내부망의 네트워크 저장장치(NAS), 공유기, 보안 장비까지 점검해야 한다는 조언이다. 지니언스는 클라우드 네트워크접근제어(NAC) 플랫폼에 연동된 기업 고객의 장비 식별 데이터를 분석한 결과, 내부망에서 PHP를 구동하는 장비의 96%가 PHP2Shell 취약점에 노출된 것으로 나...]]></description>
+		</item>
 		<item>
 			<title>한국딥러닝, IBK기업은행과 VLM 기반 보이스피싱 피해구제 자동화</title>
 			<link>https://www.etnews.com/20261030000255</link>
@@ -255,24 +273,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 29 Oct 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[플래티어는 29일 '이노베이션 솔루션 데이 2026'에서 인공지능(AI) 에이전트를 실제 업무에 안착시키기 위한 핵심 전략과 자사 에이전틱 AI 플랫폼 '엑스젠'을 선보였다. 손성준 플래티어 파트리더는 이날 'AI 에이전트, 모델보다 일하는 환경이 중요하다' 발표에서 “AI 도입 단계는 달라도 기업의 공통 과제는 도입 자체가 아닌 지속적인 업무 활용”이라며 “워크플로우를 설계하는 AI에서 업무를 이해하고 수행하는 AI로 전환해야 한다”고 말했다...]]></description>
-		</item>
-		<item>
-			<title>[이노베이션 솔루션 데이 2026] 영림원소프트랩, ERP 넘어 HR·협업 통합 플랫폼으로 기업 경영 혁신</title>
-			<link>https://www.etnews.com/20261029000179</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000179</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[영림원소프트랩이 전사적자원관리(ERP)와 인사관리(HR), 협업 솔루션을 연계한 통합 업무 환경을 앞세워 기업 경영 혁신 전략을 제시했다. 인사관리 업무의 효율화를 넘어 임직원의 근태·급여·평가부터 조직 내 소통과 협업까지 하나의 플랫폼으로 연결하고, 인공지능(AI)을 접목해 기업 운영 전반의 생산성을 높인다는 구상이다. 임승환 영림원소프트랩 BPO플랫폼사업단 상무는 29일 전자신문사와 한국정보산업연합회가 공동 주최한 '이노베이션 솔루션 데이...]]></description>
-		</item>
-		<item>
-			<title>[사설] 공학이 바꿀 미래, 우리가 답해야</title>
-			<link>https://www.etnews.com/20261029000395</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000395</guid>
-			<author>논설위원실</author>
-			<category>오피니언</category>
-			<pubDate>Thu, 29 Oct 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[삼성전자가 3분기 실적 발표를 통해 분기 매출액이 200조원에 육박하고, 글로벌 테크기업 최초로 분기 영업이익 100조원을 돌파하는 경이로운 이정표를 세웠다. 연일 K-반도체의 압도적 경쟁력이 입증되고 있지만, 우리의 시선과 질문은 결코 현재 성과에만 머물러 있을 수 없다. 반도체 호황이 당장의 국가 재정과 산업 생태계를 풍요롭게 할지라도, 기술 패권 전쟁과 산업 지형이 급격히 재편되는 글로벌 시장에서 미래의 성패는 물론 생존조차 여전히 불확실...]]></description>
 		</item>
 	</channel>
 </rss>
