@@ -4,7 +4,16 @@
 		<title>방위사업청 사전정보공개</title>
 		<link>https://www.dapa.go.kr/dapa/na/co/priorInfo.do?bbsSeq=243&amp;menuSeq=3049</link>
 		<description>방위사업청 사전정보공개</description>
-		<lastBuildDate>Thu, 29 Oct 2026 17:30:13 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 14:30:16 +0900</lastBuildDate>
+		<item>
+			<title>방위사업청 주관 위원회 운영현황 공개(26년 9월)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59389&amp;menuSeq=3784&amp;bbsSeq=243</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59389&amp;menuSeq=3784&amp;bbsSeq=243</guid>
+			<author>정규환</author>
+			<category>주요정책정보</category>
+			<pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[<p><p>방위사업청 주관 위원회 운영현황 공개(26년 9월)</p><br/></p>]]></description>
+		</item>
 		<item>
 			<title>단거리공대공유도탄-Ⅱ 사업내역서</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59377&amp;menuSeq=3802&amp;bbsSeq=362</link>
@@ -141,6 +150,15 @@
 			<description><![CDATA[<p><p>실증사업 소요연구용역 제안요청서(월드모델 연구)입니다.</p><br/></p>]]></description>
 		</item>
 		<item>
+			<title>소형무장헬기 패키지시설(종합) 사업현황(&apos;26.10월 기준)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59390&amp;menuSeq=3802&amp;bbsSeq=362</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59390&amp;menuSeq=3802&amp;bbsSeq=362</guid>
+			<author>전명진</author>
+			<category>사업정보</category>
+			<pubDate>Fri, 23 Oct 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[<p>소형무장헬기 패키지시설(종합) 사업현황('26.10월 기준)</p>]]></description>
+		</item>
+		<item>
 			<title>방위사업청 청사신축 하도급공사 계약자료(&apos;26. 10. 21. 기준)</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59338&amp;menuSeq=3829&amp;bbsSeq=244</link>
 			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59338&amp;menuSeq=3829&amp;bbsSeq=244</guid>
@@ -239,15 +257,6 @@
 			<pubDate>Fri, 16 Oct 2026 09:00:00 +0900</pubDate>
 		</item>
 		<item>
-			<title>KUH-1 비행훈련시뮬레이터(R&amp;D) 사업 2026년 패키지시설 사업 현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59310&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59310&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<author>전다빈</author>
-			<category>사업정보</category>
-			<pubDate>Wed, 14 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<p>KUH-1 비행훈련시뮬레이터(R&amp;D) 사업 2026년 패키지시설 사업 현황입니다.</p>]]></description>
-		</item>
-		<item>
 			<title>2026년 상반기 예산성과금 심사 결과</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59308&amp;menuSeq=3847&amp;bbsSeq=246</link>
 			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59308&amp;menuSeq=3847&amp;bbsSeq=246</guid>
@@ -264,15 +273,6 @@
 			<category>기타 공개정보</category>
 			<pubDate>Wed, 14 Oct 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[<p><p>2025회계연도 재정 성과보고서(요약)</p><br/></p>]]></description>
-		</item>
-		<item>
-			<title>KUH-1 비행훈련시뮬레이터(R&amp;D) 사업 2026년 사업 현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59309&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59309&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<author>전다빈</author>
-			<category>사업정보</category>
-			<pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p>KUH-1 비행훈련시뮬레이터(R&amp;D) 사업 2026년 사업 현황입니다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
