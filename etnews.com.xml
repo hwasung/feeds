@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 30 Oct 2026 14:30:43 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 30 Oct 2026 15:30:37 +0900</lastBuildDate>
+		<item>
+			<title>한국딥러닝, IBK기업은행과 VLM 기반 보이스피싱 피해구제 자동화</title>
+			<link>https://www.etnews.com/20261030000255</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000255</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 15:01:19 +0900</pubDate>
+			<description><![CDATA[한국딥러닝은 IBK기업은행 금융소비자지원부와 금융권 최초 시각행동모델(VLM) 기반 보이스피싱 피해구제 업무 자동화를 구현해 서류 처리시간을 88% 줄였다고 30일 밝혔다. 기존 보이스피싱 피해구제 업무는 팩스로 접수된 서류를 직원이 직접 확인하고 입력하는 수작업 방식으로 골든타임 내 신속한 대응에 어려움이 있었다. 양사는 이를 해결하기 위해 한국딥러닝의 VLM 기반 금융 특화 AI 에이전트 '딥 에이전트 for 금융'을 적용했다. 서류 인식·...]]></description>
+		</item>
+		<item>
+			<title>AI반도체 관측부터 클라우드 서비스까지… &apos;openKcloud DevDay 2026&apos; 내달 10일 개최</title>
+			<link>https://www.etnews.com/20261030000252</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000252</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 14:41:58 +0900</pubDate>
+			<description><![CDATA['AI로 연결되는 클라우드'를 주제로, 국산 AI반도체 기반 클라우드 인프라의 효율적인 운영과 AI 서비스 구현을 위한 핵심 기술을 공유하는 장이 열린다. 한국인공지능클라우드산업협회(KACI)는 오픈클라우드(openKcloud) 커뮤니티가 주관하는 'openKcloud DevDay 2026' 컨퍼런스가 오는 11월 10일 서울 ST센터 중회의실3에서 열린다고 30일 밝혔다. 이번 컨퍼런스는 '모두를 위한 AI, 관측에서 서비스까지 - AI로 연...]]></description>
+		</item>
+		<item>
+			<title>[신간] AI 해킹 대응 실전서 &apos;금융권 AI 리스크관리와 사이버 보안 전략&apos;</title>
+			<link>https://www.etnews.com/20261030000234</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000234</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 30 Oct 2026 14:12:35 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)을 활용한 사이버 공격에 대응하고 금융기관의 보안 위험을 체계적으로 관리하기 위한 실무 전략을 담은 책이 나왔다. 출판사 진한엠앤비는 이기혁 중앙대 융합보안학과 교수와 조병윤 한국보안정책개발원 정책실장이 공동 집필한 '금융권 AI 리스크관리와 사이버 보안 전략'을 출간한다고 30일 밝혔다. 최근 금융권에서 침해사고가 잇따르는 가운데 공격자 관점에서 보안 위협을 분석하고, 금융기관이 위험을 사전에 진단하고 대응체계를 구축할 수 있는...]]></description>
+		</item>
 		<item>
 			<title>다인리더스, 국가생산성대회 &apos;AI 선도기업&apos; 국무총리표창 수상</title>
 			<link>https://www.etnews.com/20261030000227</link>
@@ -246,32 +273,6 @@
 			<category>오피니언</category>
 			<pubDate>Thu, 29 Oct 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[삼성전자가 3분기 실적 발표를 통해 분기 매출액이 200조원에 육박하고, 글로벌 테크기업 최초로 분기 영업이익 100조원을 돌파하는 경이로운 이정표를 세웠다. 연일 K-반도체의 압도적 경쟁력이 입증되고 있지만, 우리의 시선과 질문은 결코 현재 성과에만 머물러 있을 수 없다. 반도체 호황이 당장의 국가 재정과 산업 생태계를 풍요롭게 할지라도, 기술 패권 전쟁과 산업 지형이 급격히 재편되는 글로벌 시장에서 미래의 성패는 물론 생존조차 여전히 불확실...]]></description>
-		</item>
-		<item>
-			<title>변리사회, 대규모 &apos;지식재산 법률위원회&apos; 신설 추진…산업계·학계 역량 총결집</title>
-			<link>https://www.etnews.com/20261029000431</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000431</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 16:41:54 +0900</pubDate>
-			<description><![CDATA[대한변리사회가 변리사와 학계 전문가가 참여하는 대규모 '지식재산 법률위원회'를 신설한다. 지식재산 제도설계와 입법 과정에 적극 참여해, 필요한 제도를 먼저 설계하고 법률 개정으로 이어가겠다는 취지다. 전종학 회장은 28일 서울 그랜드 워커힐에서 열린 '2026 KINPA Conference' 기조대담에서 김용선 지식재산처장, 김민태 한국지식재산협회(KINPA) 회장과 함께, 변리사법에 근거한 법정단체로서 제도설계와 입법 협력의 역할을 강화하겠다...]]></description>
-		</item>
-		<item>
-			<title>[ET시론] 담대한 투자와 &apos;산업 실행&apos;의 전면화, 독보적 피지컬 AI 1강 여는 승부수</title>
-			<link>https://www.etnews.com/20261029000287</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000287</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[10월 중순 서울 코엑스에서 열린 '피지컬 AI 테크 위크'와 '얼라이언스 데이' 현장은 대한민국 산업계의 뜨거운 열기로 가득 찼다. 출범 1년 만에 430여 개 산·학·연·관 주체가 결집한 '피지컬 AI 얼라이언스'를 구심점으로, 물리적 세계로 걸어 나온 인공지능(AI)의 현주소와 대한민국 기술 동맹의 저력을 확인했다. 그간 우리의 AI 정책과 산업이 개별 공정에서 기술적 가능성을 타진하는 실증(PoC)에 무게를 두었다면, 이제는 산업 전반의...]]></description>
-		</item>
-		<item>
-			<title>[기고] 사람을 넘어 AI 에이전트까지 제로 트러스트를 확장하라</title>
-			<link>https://www.etnews.com/20261029000156</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000156</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 29 Oct 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[지난해 큰맘 먹고 도입한 인공지능(AI) 툴이 벌써 옛날 기술처럼 느껴질 만큼 기술 변화가 빠르다. 이제 리스크는 AI 모델 자체에 있지 않다. AI 에이전트가 기업의 데이터와 인프라에 연결되는 순간, 모델의 문제는 곧 데이터의 문제가 되고 결국 비즈니스 전체의 위협으로 번지게 된다. 티빙이 발표한 개인정보 유출사고 조사 결과는 변화한 위험 환경을 단적으로 보여준다. 공격자는 '개발자 접속키'를 탈취해 내부 시스템에 무단으로 접근했고, 약 39...]]></description>
 		</item>
 	</channel>
 </rss>
