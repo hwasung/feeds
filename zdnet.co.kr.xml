@@ -4,7 +4,308 @@
 		<title>지디넷코리아</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>지디넷코리아</description>
-		<lastBuildDate>Fri, 30 Oct 2026 20:31:01 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 31 Oct 2026 09:31:06 +0900</lastBuildDate>
+		<item>
+			<title>에이아이매틱스가 &apos;월드모델&apos;로 제조 현장 문제 푸는 법</title>
+			<link>https://zdnet.co.kr/view/?no=20261030170909</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030170909</guid>
+			<author>류승현 기자</author>
+			<category>에이아이매틱스</category>
+			<category>AI</category>
+			<category>심전도</category>
+			<category>부정맥</category>
+			<category>로드스코프</category>
+			<category>월드모델</category>
+			<category>인터뷰</category>
+			<category>제조</category>
+			<category>공장</category>
+			<category>검사</category>
+			<category>불량</category>
+			<category>수율</category>
+			<category>인터넷</category>
+			<category>인터뷰</category>
+			<pubDate>Sat, 31 Oct 2026 08:41:36 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/dc4b8fa6eefac6c880837be7a54dbf43.jpg" alt=""><p>공장에서 불량품을 찾아내는 AI를 만들려면 불량 데이터가 필요하다. 하지만 현장에서는 이를 충분히 확보하기부터 어렵다. 불량 발생 빈도가 낮고, 문제가 생긴 제품도 바로 수리해 납품해야 하기 때문이다. 에이아이매틱스는 정상 제품의 패턴을 먼저 익혀 여기서 벗어난 부분을 찾는 방식으로 해법을 모색했다.</p>
+<p>채정훈 에이아이매틱스 AI미래기술개발그룹장은 지난 26일 지디넷코리아와 만나 “처음에는 결함 데이터를 일정 이상 모아 달라고 요청했지만, 아예 줄 수 없다는 고객들도 있었다”며 “현장에서는 정상 데이터는 줄 수 있지만 결함 데이터는 줄 수 없다는 상황을 파악하고, 그에 맞는 솔루션을 만들었다”고 말했다.</p>
+<p>차량용 AI 블랙박스 ‘로드스코프’로 영상 인식 기술을 쌓아온 에이아이매틱스는 공장 검사와 헬스케어 등으로 사업을 넓히고 있다. 이를 연결하는 핵심 기술은 ‘월드모델’(AI가 인간처럼 현실 세계 물리 법칙과 인과관계를 학습해 내부에 가상의 세상을 구축하고, 직접 겪어보지 않고도 자신의 행동에 따라 일어날 미래 상황을 미리 시뮬레이션하고 예측하는 AI의 내부 뇌)이다. 영상과 신호에서 기본적인 패턴과 관계를 먼저 학습해, 사고나 결함처럼 데이터가 드문 상황에서도 AI를 적용하는 데 초점을 맞추고 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/dc4b8fa6eefac6c880837be7a54dbf43.jpg" alt="에이아이매틱스 채정훈 그룹장.(사진=지디넷코리아)">
+<p>에이아이매틱스의 비전 검사 장비 ‘AIM-T1’은 카메라로 제품을 촬영해 흠집과 파손 등 불량을 찾아낸다. 스마트폰용 인쇄회로기판(PCB)과 카메라 모듈, 지문인식 센서 등 전자부품이 주요 검사 대상이다. 회사에 따르면 3㎛급 미세 결함을 0.1초 안에 판정하며 하루 최대 7만 5000개를 검사할 수 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/04/15/ce0e871db87830300846e23bfa3a3de2.png" alt="회사의 비전 검사 장비 AIM-T1. (사진=에이아이매틱스)">
+<p>채 그룹장은 AI 검사의 강점으로 일관성을 꼽았다. 사람이 반복 작업 중 피로를 느끼거나 집중력이 떨어지는 상황에서도 같은 기준으로 검사를 이어갈 수 있다는 설명이다.</p>
+<p>그는 “결과를 일관되게 뽑는 데는 AI가 훨씬 유리하다”며 고객사 한 생산라인에서 장비 도입 후 기존 약 40명이 맡던 작업을 2명이 운영하게 된 사례를 소개했다.</p>
+<p>공장은 생산 제품이 바뀔 때마다 검사 환경도 다시 맞춰야 한다. 제품을 고정하는 틀인 지그를 교체하고, 카메라와 조명을 조정한 뒤 새 데이터를 확보해 AI를 학습시키는 과정이 필요하다. 기존에는 여기에 짧게는 3일, 길게는 2주가 걸렸다.</p>
+<p>AIM-T1은 지그를 교체해 새 제품에 대응하도록 설계했다. 월드모델을 활용해 학습에 필요한 데이터와 시간도 줄였다. 현재 수 시간 안에 새 제품 검사에 적용할 수 있으며, 회사는 학습부터 배포까지 1시간 이내로 단축하는 것을 목표로 하고 있다.</p>
+<p>현장마다 다른 판정 기준을 맞추는 작업도 중요하다. 불량을 놓치는 ‘미검’과 정상 제품을 불량으로 판단하는 ‘과검’을 줄이려면 검사원의 경험과 실제 데이터를 반영해야 한다.</p>
+<p>채 그룹장은 “기준이 명확하게 있는 것처럼 보여도 실제 현장에서는 작업자와 노하우에 따라 다르다”며 “새로운 결함이 나오고 제품도 바뀌기 때문에 이를 맞추는 작업에 집중했다”고 설명했다.</p>
+<p>차량용 솔루션은 졸음운전과 휴대전화 사용, 전방주시 태만, 신호위반 등을 감지해 경고한다. 회사가 제시한 한국교통안전공단 노선버스 500대 실증 자료에 따르면 2024년 6~12월 사업에서 졸음운전은 99.7%, 교통사고는 29.2% 감소했다.</p>
+<p>도입 초기에는 감시받는다는 운전자들의 불만도 있었다. 회사는 경고가 필요한 상황과 경보음을 조정하며 현장 의견을 반영했다. 채 그룹장은 “운전자가 이럴 때 울려줬으면 좋겠다고 하는 상황들을 정리했다”며 안전운전 습관을 형성하는 것이 제품의 목표라고 말했다.</p>
+<p>이런 기능을 작은 기기에서 구현하기 위해 AI 모델도 처음부터 용도에 맞춰 설계했다. 자체 모델 ‘에임넷(aimNet)’은 1MB급으로 경량화해 기기 안에서 영상을 처리한다.</p>
+<p>채 그룹장은 “처음부터 목표와 제약 사항을 정해놓고 모델을 설계한다”며 “고해상도 이미지를 빠르게 처리해야 하는 업무에 맞춰 최적화하기 때문에 기존에 속도 문제로 AI를 도입하기 어려웠던 분야에도 적용할 수 있다”고 설명했다.</p>
+<p>차량과 공장, 의료 분야는 필요한 데이터를 확보하기 어렵다는 공통점이 있다. 교통사고와 제품 결함은 드물게 발생하고, 의료 데이터는 전문가가 판독 결과를 붙이는 데도 비용이 든다.</p>
+<p>에이아이매틱스는 정답이 붙지 않은 영상과 신호로 먼저 학습한 뒤, 소량의 정답 데이터로 개별 업무를 익히는 월드모델 기반 접근법을 활용하고 있다.</p>
+<p>채 그룹장은 이를 아이가 주변 환경을 배우는 과정에 빗댔다. 가까운 물체는 크게 보이고, 물체를 놓으면 아래로 떨어진다는 관계를 경험으로 익힌 다음 새로운 일을 배우는 것과 비슷하다는 설명이다.</p>
+<p>그는 “사람이 빠르게 적응할 수 있는 이유는 이미 사전 지식이 있는 상태에서 배우기 때문”이라며 “그런 사전 지식 상태를 만들어 놓는 것이 월드모델”이라고 말했다.</p>
+<p>차량 영상에서는 시간에 따른 맥락을 파악하는 데 활용한다. 보복운전처럼 사진 한 장으로 판단하기 어려운 상황은 앞뒤 움직임을 함께 살펴야 한다. 회사 측은 차량 이벤트 15종 인식 시험에서 월드모델을 적용한 자체 모델의 성능이 비교 모델보다 높게 나타났다고 설명했다.</p>
+<p>학습 데이터도 무작정 쌓기보다 AI가 혼동하는 사례와 처음 접하는 유형을 골라 확보한다. 드물게 나타난 새 결함은 생성형 AI로 유사 데이터를 만들어 학습을 보강한다. 헬스케어에서는 관계사와 협업해 장기간의 심전도 기록에서 부정맥 의심 구간을 찾아 판독을 돕는 기술도 개발하고 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/23a901739e964abfed400e103f521f6a.png" alt="회사의 부정맥 진단 AI 모델은 AI가 심전도 신호를 분석한다. (사진=에이아이매틱스)">
+<p>채 그룹장은 AI의 개별 성능을 높인 다음에는 전체 작업 흐름을 살펴야 한다고 강조했다. 결함 인식 속도가 빨라지자 장비를 준비하는 시간이 새로운 병목으로 떠올랐고, 이를 해결하기 위해 하드웨어와 소프트웨어를 함께 개선한 AIM-T1을 개발했다는 설명이다.</p>
+<p>그는 “전체 과정이 다 끝나야 제품 하나가 나오는데 특정 과정만 100배, 1000배 빨라진다고 전체가 그만큼 개선되는 것은 한계가 있다”면서 공정 전반의 효율화가 필요하다고 말했다.</p>
+<p>다음 과제로는 공정 사이의 물류 자동화를 꼽았다. 생산과 검사 등 개별 공정에 이어 자재를 옮기는 작업까지 연결하겠다는 구상이다. 회사는 공정 운영 플랫폼과 개발 중인 로봇팔 탑재 자율이동로봇을 연계해 자율운영 공장을 단계적으로 구현할 계획이다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/62f3e5d51e8ecbc76b99f502658b11d4.jpg" alt="에이아이매틱스가 보유하고 있는 특허증이 본사 건물에 진열돼 있다.(사진=지디넷코리아)">
+<p>에이아이매틱스는 이 과정에서 쌓은 기술을 바탕으로 2028년까지 여러 산업에 적용할 수 있는 범용 월드모델을 확보하는 것을 목표로 하고 있다.</p>
+<p>채 그룹장은 “각 공정은 이미 높은 수준으로 자동화돼 있지만 이를 연결하는 물류에는 비어 있는 부분이 있다”며 “고객이 적은 데이터만으로도 AI를 현장에 빠르게 적용할 수 있도록 하는 것이 목표”라고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>&quot;주머니에 쏙&quot;…초소형 군용 정찰 드론 주목</title>
+			<link>https://zdnet.co.kr/view/?no=20261030171114</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030171114</guid>
+			<author>이정현 미디어연구소</author>
+			<category>블랙호넷4</category>
+			<category>정찰드론</category>
+			<category>드론</category>
+			<category>초소형드론</category>
+			<category>홈/모바일</category>
+			<pubDate>Sat, 31 Oct 2026 08:01:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/fd93422c3727f20d7d6522b010225cca.jpg" alt=""><p>총알이 빗발치는 전쟁터에서 한 병사가 주머니에서 장난감처럼 생긴 드론을 꺼낸다. 이 작은 드론은 적의 눈을 피해 정찰 임무를 수행하는 첨단 군사 장비다.</p>
+<p>IT매체 BGR은 오랜 시간 전장에서 운용되어 온 초소형 정찰 드론 &apos;블랙 호넷(Black Hornet)&apos;을 29일(현지시간) 소개했다.</p>
+<p>미국 육군은 2016년부터 초소형 드론 기술을 시험하기 시작했으며, 2년 뒤인 2018년 실전 배치했다. 이후 여러 차례 성능 개선을 거친 최신 모델 블랙 호넷 4는 2023년 출시됐다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/fd93422c3727f20d7d6522b010225cca.jpg" alt="장난감처럼 작은 초소형 정찰 드론 (사진=텔레다인 플리어 유튜브)">
+<p>블랙 호넷 4의 무게는 약 70g에 불과하며, 20초 이내에 이륙할 수 있다. 1200만 화소 카메라와 저조도 환경에서도 촬영할 수 있는 고해상도 열화상 카메라를 탑재해 주야간 정찰 임무를 수행한다.</p>
+<p>최대 비행 속도는 초속 10m다. 단일 로터 방식으로 작동해 비행 소음이 거의 발생하지 않는 것도 특징이다. 이를 통해 적에게 발각될 위험을 줄이면서 주변 정보를 수집할 수 있다. 조종자는 핸드 컨트롤러로 드론을 조작하며, 촬영 영상은 태블릿으로 실시간 전송된다. 장애물 회피 기능을 갖췄으며, 최대 2㎞ 거리까지 비행할 수 있다. 한 번 충전하면 약 30분간 비행할 수 있고, 최대 25노트의 강풍과 비에도 견딜 수 있다.</p>
+<p>블랙 호넷은 미군의 아프가니스탄 전쟁 당시 근거리 정찰 임무에 투입되는 등 다양한 군사 작전에서 활용됐다. 최근에는 노르웨이와 영국이 우크라이나에 이 드론을 지원하면서 우크라이나-러시아 전쟁에서도 정찰 임무를 수행하고 있다.</p>
+<p>장난감처럼 작고 가벼운 외형과 달리 블랙 호넷의 가격은 상당히 비싸다. 공식 판매 가격은 공개되지 않았지만, 지금까지 알려진 정보를 종합하면 대당 2만8000~3만 달러(약 3750만~4018만원)에 이르는 것으로 추정된다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/05060ccc396e874ab5730518acabfff5.jpg" alt="블랙 호넷 나노 드론 (사진= 플리어 시스템즈)">
+<p>가격이 높은 주요 원인 중 하나는 극도로 작은 크기다. 카메라와 센서, 통신 장치, 비행 제어 장치 등 정교한 부품을 손바닥만 한 기체에 집약하려면 고도의 설계 및 제조 기술이 필요하다. 군사용 장비라는 특성도 가격에 영향을 미친다. 엄격한 성능 테스트와 신뢰성 검증은 물론 소프트웨어 개발, 유지•보수, 운용 교육 등에 드는 비용도 제품 가격에 반영되기 때문이다.</p>
+<p>블랙 호넷은 2007년 설립된 노르웨이 업체 프록스 다이내믹스(Prox Dynamics)가 처음 개발했다. 이후 2016년 미국 방위 기술 기업 플리어 시스템즈(FLIR systems)가 프록스 다이내믹스를 인수했다. 현재 블랙 호넷 4는 미국의 텔레다인 플리어 디펜스(Teledyne FLIR Defense)가 생산하고 있다.</p>
+<p>최근 전장에 로봇과 자율 무기가 도입되면서 블랙 호넷도 다른 무인 시스템과 연계해 활용되고 있다. 플리어 시스템즈는 블랙 호넷을 자사의 지상 로봇 &apos;퍼스트룩 125&apos;와 결합해 공중과 지상에서 동시에 정찰할 수 있는 체계를 선보였다. 이 같은 조합은 공중 드론과 지상 로봇이 전장에서 서로의 한계를 보완하며 협력할 수 있음을 보여준다. 다만 관련 기술이 발전하면서 무인 시스템 간 역할 분담에도 변화가 생길 수 있다.</p>
+<p>군용 로봇이 갈수록 정교해지면서 블랙 호넷과 같은 별도의 정찰 드론이 앞으로도 필수적인 역할을 할 수 있을지에 대한 의문도 제기된다. 로봇공학과 인공지능(AI) 기술이 발전하면 지상 로봇이 스스로 주변 환경을 분석하고 필요한 정보를 수집하는 수준에 도달할 수 있기 때문이다. 이 경우 독립적으로 운용되는 정찰 드론에 대한 의존도가 낮아질 가능성도 있다.</p>
+<iframe width="720" src="https://www.youtube.com/embed/qTqultCEN1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>그러나 초소형 드론은 지상 로봇이 제공하기 어려운 시야를 확보할 수 있다는 점에서 여전히 중요한 역할을 할 것으로 전망된다. 지상 로봇은 건물이나 지형 등 장애물에 가로막혀 주변 상황을 파악하는 데 한계가 있지만, 드론은 상공에서 조용히 움직이며 넓은 범위를 살필 수 있다.</p>
+<p>향후에는 지상 로봇이 지금보다 더 작은 드론을 자체 시스템에 탑재하거나, 고성능 센서로 주변 환경을 직접 탐색하는 방식으로 발전할 수도 있다. 이 경우 블랙 호넷과 같은 독립형 정찰 드론의 역할은 달라질 수 있다. 그럼에도 현재로서는 블랙 호넷이 전장에서 병사들의 또 다른 눈 역할을 하며, 적의 위치와 주변 상황을 파악해 작전 수행과 병력 안전에 기여하는 중요한 장비라고 BGR은 전했다.</p>]]></description>
+		</item>
+		<item>
+			<title>삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나</title>
+			<link>https://zdnet.co.kr/view/?no=20261030193751</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030193751</guid>
+			<author>이정현 미디어연구소</author>
+			<category>삼성전자</category>
+			<category>폴더블폰</category>
+			<category>갤럭시Z폴드9울트라</category>
+			<category>홈/모바일</category>
+			<pubDate>Sat, 31 Oct 2026 07:59:14 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/18/32bf14260103151f426ef4f8d36983e5.jpg" alt=""><p>삼성전자가 내년에 출시할 차세대 플래그십 폴더블폰 ‘갤럭시Z폴드9 울트라’의 사양 정보가 벌써부터 나오고 있다.</p>
+<p>IT매체 샘모바일은 30일(현지시간) 지금까지 나온 소문을 종합해 갤럭시Z폴드9 울트라가 전작과 비교해 어떤 변화를 보일지 전망하는 기사를 게재했다. </p>
+<p><b>■ 디자인</b>·<b>디스플레이</b></p>
+<img src="https://image.zdnet.co.kr/2026/09/18/32bf14260103151f426ef4f8d36983e5.jpg" alt="갤럭시S26 울트라 (사진=씨넷)">
+<p>갤럭시Z폴드9 울트라는 전작인 갤Z폴드8 울트라와 마찬가지로 세로로 긴 폼팩터를 채택할 가능성이 높다고 해당 매체는 전했다. 전•후면에는 코닝 고릴라 글래스를 적용하고 고급 알루미늄 프레임을 사용하며, 애플 아이폰 듀오와 마찬가지로 IP68 등급의 방진·방수 기능을 지원할 것으로 예상된다.</p>
+<p>두께 9㎜ 이하의 초슬림·초경량 디자인을 채택하고 측면에는 지문인식 센서를 탑재할 가능성이 높다. 후면 카메라 모듈도 기존 세로형 배열에서 직사각형 형태로 변경될 수 있다는 전망이 나온다.</p>
+<p>디스플레이는 6.5인치 커버 화면과 8인치 내부 폴더블 화면으로 구성될 전망이다. 두 화면 모두 다이내믹 AMOLED 2X 패널을 적용하고, 최대 밝기 3000니트 이상과 HDR10+ 콘텐츠 재생을 지원할 것으로 보인다고 샘모바일은 전했다.</p>
+<p><b>■ 카메라</b></p>
+<p>갤Z폴드9 울트라는 후면에 트리플 카메라를 탑재할 것으로 예상된다. 최근 삼성의 카메라 기술 발전 추세를 고려하면 광학식 손떨림 보정(OIS)을 지원하는 2억 화소 메인 카메라와 자동초점(AF) 기능을 갖춘 5000만 화소 초광각 카메라, OIS를 지원하는 5000만 화소 망원 카메라가 탑재될 가능성이 거론된다. 전면에는 각각 커버 디스플레이와 내부 폴더블 화면에 배치되는 1200만 화소 카메라 2개가 탑재될 수 있다.</p>
+<p>동영상 촬영 기능도 강화될 전망이다. 모든 카메라가 4K 해상도에서 초당 60프레임(60fps) 촬영을 지원하고, 후면 메인 카메라와 초광각 카메라는 8K 해상도에서 초당 30프레임(30fps) 촬영이 가능할 것으로 예상된다.</p>
+<p>전문가급 영상 제작을 위한 APV(Advanced Professional Video) 포맷도 지원할 수 있다. 로그(Log) 촬영 기능과 내장 LUT(룩업 테이블)를 활용하면 색 보정에 유리한 플랫 프로파일이나 사용자가 원하는 색상 프로파일을 적용해 영상을 촬영할 수 있다.</p>
+<p><b>■ 하드웨어 사양</b></p>
+<p>갤럭시Z폴드9 울트라에는 퀄컴의 차세대 프로세서인 스냅드래곤 8 엘리트 익스트림 6세대가 탑재될 것으로 예상된다. 2나노 공정으로 제조되는 이 칩은 전작에 탑재된 프로세서보다 CPU 성능과 GPU 성능이 향상되고 연결성도 강화될 것으로 전망된다.</p>
+<p>메모리는 12GB 또는 16GB LPDDR6 램을 탑재하고, 저장 공간은 256GB·512GB·1TB 중에서 선택할 수 있을 것으로 보인다. 저장장치는 차세대 규격인 UFS 5.0을 지원할 가능성이 제기된다.</p>]]></description>
+		</item>
+		<item>
+			<title>AI로 게임 만들고 로봇과 대화…깃허브가 넓힌 개발 생태계</title>
+			<link>https://zdnet.co.kr/view/?no=20261031030544</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261031030544</guid>
+			<author>김미정 기자</author>
+			<category>깃허브 유니버스</category>
+			<category>깃허브</category>
+			<category>GitHub</category>
+			<category>AI</category>
+			<category>인공지능</category>
+			<category>엔비디아</category>
+			<category>피그마</category>
+			<category>디자인</category>
+			<category>코딩</category>
+			<category>코파일럿 퓨전</category>
+			<category>오픈AI</category>
+			<category>앤트로픽</category>
+			<category>모델</category>
+			<category>컴퓨팅</category>
+			<pubDate>Sat, 31 Oct 2026 03:05:44 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/31/ab4f04f84b5e3979a0b32f8d71675ad1.jpg" alt=""><p>[샌프란시스코(미국)=김미정 기자] 깃허브 개발 생태계가 코드 작성과 관리를 넘어 디자인과 로봇 구현 등으로 넓어지고 있다. </p>
+<p>깃허브는 29일까지 미국 샌프란시스코 포트넘매이슨에서 열린 &apos;깃허브 유니버스 26&apos;에 전시장을 마련했다. AI 코딩을 활용한 게임 제작부터 디자인 구현, 로봇과의 상호작용까지 새로운 개발 사례를 공유했다.</p>
+<p><span style="letter-spacing: 0.8px;">깃허브 부스는 </span><span style="letter-spacing: 0.8px;">신기능 설명을 듣는 공간과 코파일럿 </span><span style="letter-spacing: 0.8px;">앱을 </span><span style="letter-spacing: 0.8px;">직접 </span><span style="letter-spacing: 0.8px;">사용할 </span><span style="letter-spacing: 0.8px;">수 </span><span style="letter-spacing: 0.8px;">있는 </span><span style="letter-spacing: 0.8px;">공간으로 </span><span style="letter-spacing: 0.8px;">이뤄졌다. </span></p>
+<img src="https://image.zdnet.co.kr/2026/10/31/ab4f04f84b5e3979a0b32f8d71675ad1.jpg" alt="&apos;깃허브 유니버스 26&apos; 전시장 전경. (사진=지디넷코리아 DB)">
+<p>&apos;언더 더 후드(Under the Hood)&apos;는 깃허브 직원들이 코파일럿 신기능을 시연하는 장소다. 이날 소개한 기능은 작업에 맞는 AI 모델을 자동으로 골라주는 &apos;코파일럿 퓨전&apos;이었다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/9ec127f3a6103004c26eb7fd63ae19c4.jpg" alt="언더 더 후드는 깃허브 직원들이 코파일럿 신기능을 시연하는 장소다. (사진=지디넷코리아 DB)">
+<p>코파일럿 퓨전은 이용자가 모델별 특성을 일일이 비교하지 않아도 요청한 작업에 적합한 모델을 선택한다. 특정 모델을 쓰고 싶다면 자동 선택 기능을 끄고 직접 지정할 수도 있다. 직원은 "퓨전을 활용하면 AI 크레딧 사용량을 최대 60% 줄일 수 있다"고 안내했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/880df6fa07e6ebdcfde6b101a8bc5413.jpg" alt="깃허브 관계자가 &apos;코파일럿 퓨전&apos; 기능을 시연하고 있다. (사진=지디넷코리아 DB)">
+<p>이번 행사에서 공개된 &apos;코파일럿 앱&apos;도 부스에서 시연됐다. 코파일럿 앱은 별도 코드 편집기를 열지 않고도 AI와 대화하며 소프트웨어를 개발할 수 있는 앱이다. 부스에서는 이용자가 작업을 요청하고, AI 계획과 결과를 확인하는 과정을 시연했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/1fc3d7466202bbaddd2b1fddc376a22d.jpg" alt="&apos;코파일럿 앱&apos;은 별도 코드 편집기를 열지 않고도 AI와 대화하며 소프트웨어를 개발할 수 있다. (사진=지디넷코리아 DB)">
+<p>관계자는 이용자가 작업에 개입하는 정도에 따라 앱을 사용하는 방식을 소개했다. 그는 "사용자는 AI 질문에 답하며 단계별로 개발을 진행할 수 있다"며 "AI가 만든 개발 계획을 먼저 살펴보고 수정한 뒤 구현을 맡길 수도 있다"고 말했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/0ca07997ffaccf81519e62cf42a813a5.jpg" alt="코파일럿 앱의 &apos;오토파일럿&apos; 기반으로 게임을 제작한 장면. (사진=지디넷코리아 DB)">
+<p>그는 작업 전반을 AI에 맡기는 &apos;오토파일럿&apos;도 선보였다. 이는 이용자가 목표를 전달하면 AI가 작업을 수행하고, 이용자는 완성된 결과만 확인하는 방식이다.</p>
+<p>이날 관계자는 코파일럿 앱에 &apos;팩맨 게임을 만들고 준비가 되면 알려달라&apos;고 요청했다. 이때 이용자는 완성된 게임 결과만 확인하면 됐다. </p>
+<p>그는 "AI에 요청한 작업이 실제로 즐길 수 있는 게임으로 구현되는 모습을 소개한 것"이라며 "방문객이 직접 체험하며 코파일럿 활용 방법을 익히도록 했다"고 설명했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/0a1234d1953d01495be45dbc27f97cbc.jpg" alt="방문객이 로봇과 대화하며 요청을 음성으로 전달하는 모습. (사진=지디넷코리아 DB)">
+<p>엔비디아는 부스에서 오픈소스 AI 모델을 활용한 로봇 시연을 선보였다. 해당 로봇은 소형 AI 컴퓨터 &apos;DGX 스파크&apos;와 연결돼, 방문객 사진을 촬영하고 요청에 맞춰 새로운 이미지를 만들었다. 음성 합성과 이미지 생성 작업은 현장의 DGX 스파크에서 처리한다.</p>
+<p>엔비디아 관계자는 "개발자들이 오픈소스 AI 모델과 엔비디아의 컴퓨터를 활용해 사람 요청에 반응하는 서비스를 만드는 방식을 보여준 것"이라며 "<span style="letter-spacing: 0.8px;">오픈소스 모델과 개발 도구에 관심을 가진 개발자들에게는 여러 AI 기능을 결합한 활용 사례를 보여준 셈"이라고 강조했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/10/31/0b1e537889aea330f70530f0f57aeaa4.jpg" alt="오픈소스 AI 모델과 엔비디아 컴퓨팅을 활용해 제작한 방문객 애니메이션. (사진=지디넷코리아 DB)">
+<p>그는 이번 행사에 오픈소스 개발자들이 많이 모이는 만큼 엔비디아가 어떤 개발 프로젝트를 진쟁 중인지 알리기 위해 이번 부스를 꾸렸다고 밝혔다. </p>
+<p>그는 <span style="letter-spacing: 0.8px;">오픈소스 프로젝트 &apos;오픈셸(Openshell)&apos;을 엔비디아 대표 기여 사례로 소개했다. </span>오픈셸은 엔비디아가 AI 에이전트를 안전하게 실행하기 위해 공개한 오픈소스 소프트웨어다.</p>
+<p><span style="letter-spacing: 0.8px;">그는 "우리는 개발자들이 있는 곳에 직접 찾아왔다"며 "우리 기술을 보여주고 피드백을 받아 제품 개선하는 것이 목적"이라고 말했다. </span></p>
+<img src="https://image.zdnet.co.kr/2026/10/31/3f6b8cfef1057f26c62ed20e9af98e05.jpg" alt="깃허브는 피그마 서비스 내에서 코딩과 디자인을 연결하는 역할을 한다. (사진=지디넷코리아 DB)">
+<p>피그마 부스에서는 디자인 도구 안으로 들어온 깃허브를 만날 수 있었다. </p>
+<p>깃허브에 저장된 코드를 피그마로 가져와 시제품으로 살펴보고, 피그마에서 코드 변경 사항을 검토해달라는 요청까지 보내는 방식이다. 디자인을 개발자에게 전달하는 데서 끝내지 않고, 실제 코드를 바탕으로 제품을 함께 다듬도록 연결했다.</p>
+<p>이러한 연계는 디자인과 구현 결과를 맞추는 작업을 돕는다. 디자이너는 기존 코드로 구현한 화면을 바탕으로 작업하고, 수정한 내용을 개발 과정으로 이어갈 수 있다. 디자인과 개발이 별도로 진행되면서 생기는 간극을 줄이려는 접근이다.</p>
+<p>깃허브 코파일럿이 피그마의 디자인 정보를 활용하는 연결도 소개했다. AI가 외부 도구와 데이터를 활용하도록 하는 모델 컨텍스트 프로토콜(MCP)을 통해, 코파일럿이 디자인 맥락을 참고해 코드를 작성하도록 지원한다는 설명이다.</p>
+<p>피그마 관계자는 “개발자가 디자인을 더 많이 하고 디자이너도 코드를 더 많이 다루면서 역할의 경계가 흐려지고 있다”며 “앞으로 연결이 더 늘어날 것”이라고 말했다.</p>
+<p>피그마가 개발 도구와의 연결을 보여줬다면, 엔비디아는 개발자가 자사 기술로 무엇을 만들 수 있는지 로봇으로 풀어냈다. 부스에는 소형 AI 컴퓨터 ‘DGX 스파크’와 연결한 로봇을 마련했다.</p>]]></description>
+		</item>
+		<item>
+			<title>깃허브 제품 부사장 &quot;AI 코딩 가성비 시대 이끌 것&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261031015613</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261031015613</guid>
+			<author>김미정 기자</author>
+			<category>깃허브 유니버스 26</category>
+			<category>AI</category>
+			<category>인공지능</category>
+			<category>깃허브</category>
+			<category>GitHub</category>
+			<category>코파일럿 프로젝트</category>
+			<category>코파일럿 퓨전</category>
+			<category>모델</category>
+			<category>오픈AI</category>
+			<category>앤트로픽</category>
+			<category>컴퓨팅</category>
+			<category>인터뷰</category>
+			<pubDate>Sat, 31 Oct 2026 01:56:13 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/31/c519d682db963dca9f71245bc12718f8.jpg" alt=""><p><span style="letter-spacing: 0.8px;">[샌프란시스코(미국)=김미정 기자] "웹사이트에서 글자 한 줄을 수정하는 데 가장 비싼 인공지능(AI) 모델을 사용할 필요는 없습니다. 기업이 AI 개발 도구를 효율적으로 활용하려면 작업에 적합한 모델을 선택하고 비용을 통제할 수 있어야 합니다."</span></p>
+<p>루이스 비텐코트-에밀리오 깃허브 제품 부문 수석부사장(SVP)은 최근 미국 샌프란시스코에서 열린 &apos;깃허브 유니버스 2026&apos; 현장에서 지디넷코리아와 만나 이같이 밝혔다.</p>
+<p>비텐코트-에밀리오 수석부사장은 AI 에이전트 활용이 늘면서 기업 비용 부담도 커지고 있다고 진단했다. 개발자가 간단한 코드 수정에도 고성능 AI 모델을 사용하면 불필요한 지출이 발생할 수 있어 작업 난도에 따라 모델을 다르게 활용해야 한다는 설명이다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/2a4b0511abdda01cd5831751556dd8fe.jpg" alt="루이스 비텐코트-에밀리오 깃허브 제품 부문 수석부사장(SVP)이 &apos;코파일럿 퓨전&apos; 기능을 설명하고 있다. (사진=지디넷코리아 DB)">
+<p>그는 특히 기존 멀티모델 환경에서는 개발자가 어떤 모델을 사용할지 직접 판단해야 한다는 점을 한계로 꼽았다. AI 모델마다 성능과 가격이 달라 작업에 맞지 않는 모델을 선택하면 비용이 늘거나 결과물의 품질이 떨어질 수 있기 때문이다.</p>
+<p><span style="letter-spacing: 0.8px;">깃허브는 이런 비용 문제를 해결하기 위해 </span><span style="letter-spacing: 0.8px;">이번 행사에서</span><span style="letter-spacing: 0.8px;"> &apos;코파일럿 퓨전&apos;을 공개했다. 퓨전은 개발자가 여러 AI 모델을 직접 비교하지 않아도 작업에 적합한 모델을 자동으로 조합해 개발 업무를 처리하도록 </span><span style="letter-spacing: 0.8px;">지원한다. </span></p>
+<p>퓨전의 작동 원리는 업무에 따라 적합한 인력을 배치하는 방식과 비슷하다. <span style="letter-spacing: 0.8px;">개발자가 프로젝트를 전달하면 퓨전은 여러 AI 에이전트를 실행하고, 각 작업에 적합한 모델을 활용해 결과물을 만든 뒤 하나로 통합한다.</span></p>
+<p>개발자는 비용과 성능의 균형을 우선할지, 고성능 모델 활용을 중시할지 선택할 수 있다. 다만 개별 작업마다 모델을 일일이 지정할 필요는 없다.</p>
+<p>깃허브는 이런 방식이 실제 개발 비용을 얼마나 줄이는지도 시험했다. 소프트웨어 개발 벤치마크를 활용해 AI가 주어진 작업을 정확하게 완료했는지 확인하고, 작업에 사용한 토큰과 처리 시간을 측정했다.</p>
+<p>비텐코트-에밀리오 수석부사장은 "주요 벤치마크에서 작업 완료 점수가 8.7포인트(p) 높게 나타났다"며 "최첨단 AI 모델을 사용하는 방식과 비교해 비용은 77% 낮았다"고 밝혔다.</p>
+<p>그는 퓨전이 개발자 모델 선택 부담도 줄일 것으로 기대했다. 실제 코파일럿 사용자 61%는 여러 AI 모델을 사용하고 있으며, 유료 개발자 중 63%는 한 달에 적어도 한 번 자동 모델 선택 기능을 이용하고 있는 것으로 나타났다.</p>
+<p>비텐코트-에밀리오 수석부사장은 "다수 개발자는 기본 설정이나 자동 모델 선택 기능을 사용한다"며 "퓨전을 통해 하나의 프로젝트에서 여러 모델이 활용되는 모습을 경험하면 각 모델의 장단점도 자연스럽게 이해하게 될 것"이라고 내다봤다.</p>
+<p>그는 "개발자에게 다양한 모델을 선택할 권한을 주는 것은 좋지만, 어떤 작업에 어떤 모델을 사용해야 하는지 판단할 책임도 함께 늘어난다"며 "퓨전은 이런 부담을 줄이면서 여러 모델 장점을 활용하도록 설계했다"고 강조했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/31/c519d682db963dca9f71245bc12718f8.jpg" alt="비텐코트-에밀리오 수석부사장은 기업 과제로 거버넌스와 비용 관리 체계인 핀옵스(FinOps)를 꼽았다. (사진=지디넷코리아 DB)">
+<p><span style="letter-spacing: 0.8px;">깃허브는 AI 에이전트가 수행할 수 있는 개발 업무도 확대하고 있다. 기업이 AI 사용을 통제하는 동시에 여러 에이전트를 활용해 복잡한 개발 프로젝트까지 처리할 수 있도록 지원하려는 것이다.</span></p>
+<p>대표 기능이 올해 공개한 &apos;코파일럿 프로젝트&apos;다. 지난해 발표한 &apos;에이전트HQ&apos;가 개발자에게 다양한 AI 에이전트를 선택할 수 있는 환경을 제공했다면, 코파일럿 프로젝트는 여러 에이전트가 개발 프로젝트를 나눠 수행하도록 지원한다.</p>
+<p>예를 들어 여러 코드 저장소를 수정해야 하는 프로젝트가 있다면 각 저장소에 AI 에이전트를 배정할 수 있다. 에이전트들은 서로 다른 AI 모델을 사용해 작업을 동시에 진행하고, 코파일럿 프로젝트는 이들 작업을 조율한다.</p>
+<p>비텐코트-에밀리오 수석부사장은 이런 변화가 개발자 역할에도 영향을 미칠 것으로 내다봤다. AI 모델 하나에 작업을 지시하던 방식에서 벗어나 여러 에이전트 업무를 관리하는 방향으로 개발 방식이 바뀐다는 것이다.</p>
+<p>그는 "기존에는 개발자가 하나의 모델과 대화하면서 한 번에 하나의 작업을 해결했다"며 "이제는 여러 에이전트에 업무를 배분하고 작업을 조율하는 엔지니어링 매니저와 같은 역할을 하게 될 것"이라고 전망했다.</p>
+<p>이어 "우리는 개발자에게 가장 효과적이고 가성비 높은 도구를 선택할 수 있도록 지원하고 있다"며 "앞으로도 사람과 AI 에이전트가 한곳에서 협력하며 소프트웨어를 개발할 수 있도록 플랫폼을 키울 것"이라고 강조했다.</p>]]></description>
+		</item>
+		<item>
+			<title>깃허브 &quot;올해 韓 이용자 350만 명…정부 AI 정책 영향&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261030234712</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030234712</guid>
+			<author>김미정 기자</author>
+			<category>깃허브 유니버스 26</category>
+			<category>깃허브</category>
+			<category>AI</category>
+			<category>인공지능</category>
+			<category>개발자</category>
+			<category>옥토버스</category>
+			<category>GitHub</category>
+			<category>컴퓨팅</category>
+			<category>인터뷰</category>
+			<pubDate>Fri, 30 Oct 2026 23:47:12 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/85d4d529eefbaedcc3664b791a91757b.jpg" alt=""><p>[샌프란시스코(미국)=김미정 기자] "<span style="font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; letter-spacing: 0.8px;">한국 깃허브 개발자 수가 1년 만에 100만 명 이상 증가해 350만 명을 넘어섰습니다. 한국에서 깃허브를 사용하는 조직과 코드 저장소도 함께 늘고 있습니다. 전 세계에서 나타나는 개발 생태계 성장이 한국에서도 확인됐습니다</span><span style="font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; letter-spacing: 0.8px;">."</span></p>
+<p>탈라 카라드셰 깃허브 비즈니스 인사이트 부문 수석 디렉터는 최근 미국 샌프란시스코에서 열린 &apos;깃허브 유니버스 2026&apos;에서 지디넷코리아와 만나 한국 개발 생태계 성장세를 이같이 평가했다. 카라드셰 디렉터는 깃허브가 매년 발간하는 개발자 동향 보고서 &apos;옥토버스&apos; 작성에 참여하고 있다.</p>
+<p><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">카라드셰 디렉터는 인공지능(AI) 기술 발전으로 소프트웨어 개발에 참여하는 사람이 늘고 있다고 설명했다. 전문 개발자뿐 아니라 프로그래밍을 배우는 학생과 일반인도 AI 도구를 활용해 개발에 참여하면서 깃허브 이용자가 증가하고 있다는 것이다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/10/30/85d4d529eefbaedcc3664b791a91757b.jpg" alt="탈라 카라드셰 깃허브 비즈니스 인사이트 부문 수석 디렉터가 한국 개발 생태계가 성장세를 보이고 있다고 주장했다. (사진=지디넷코리아 DB)">
+<p>그는 "깃허브 개발자는 전문 소프트웨어 엔지니어일 수도 있지만, 기술 전문가가 아니더라도 호기심을 가지고 새로운 것을 배우려는 사람일 수도 있다"며 "한국에서도 더 많은 사람이 깃허브에 가입해 새로운 기술을 탐색하고 있다"고 설명했다.</p>
+<p>실제 깃허브가 지난 27일 발표한 &apos;옥토버스 2026&apos; 보고서에 따르면 올해 9월 기준 전 세계 깃허브 개발자는 2억 2500만 명을 넘어섰다. 미국이 3830만 명으로 가장 많았고 인도 3200만 명, 중국 1240만 명, 브라질 120만 명, 일본 715만 명 순이었다.</p>
+<p>한국은 개발자 수뿐 아니라 실제 코드 활동에서도 높은 순위를 기록한 것으로 나타났다. 보고서에 따르면 한국은 코드 푸시 부문에서 세계 7위에 올랐다. 미국과 인도, 중국, 브라질, 독일, 영국에 이어 프랑스와 일본보다 높은 순위를 차지했다.</p>
+<p>코드 푸시는 개발자가 작성하거나 수정한 코드를 깃허브 서버에 올리는 작업이다. 공개 저장소에 코드를 올리면 다른 개발자들도 해당 코드를 확인하고 활용할 수 있어 오픈소스 생태계의 활동 수준을 보여주는 지표로 활용된다.</p>
+<p>카라드셰 디렉터는 "한국 개발자들은 비공개 저장소뿐 아니라 공개 저장소에서도 활발하게 활동하고 있다="며 "코드를 공유하면서 글로벌 개발자 커뮤니티에 기여하고 있다는 점이 인상적"이라고 평가했다.</p>
+<p>이어 "한국 깃허브 개발자 수가 일본 절반 수준이지만, 공개 저장소 코드 푸시 순위에서는 일본보다 앞섰다"며 "이는 한국 개발자들이 자신들의 코드를 외부에 공개하고 다른 개발자들과 공유하는 활동에 적극적으로 참여하고 있다는 의미"라고 덧붙였다. </p>
+<img src="https://image.zdnet.co.kr/2026/10/30/c75bda721ad1a16825e7d7f7722d4831.jpg" alt="카라드셰 디렉터는 한국 개발 생태계가 성장한 배경으로 정부의 AI 인재 육성 정책에 주목했다. (사진=지디넷코리아 DB)">
+<p>카라드셰 디렉터는 한국 개발 생태계가 성장한 배경으로 정부의 AI 인재 육성 정책에 주목했다. 정부가 AI 교육과 기술 지원을 확대하면서 더 많은 사람이 개발에 참여할 수 있다는 설명이다.</p>
+<p>깃허브의 &apos;옥토버스 2026&apos; 보고서도 아시아태평양 지역의 개발자 증가 요인으로 정부 AI 인프라와 인재 육성 투자를 꼽았다. 특히 한국에서는 정부 주도 AI 인재 육성 프로그램에 주목했다. 일본은 AI 인프라 투자, 인도네시아는 디지털 경제 성장을 주요 특징으로 제시했다.</p>
+<p>카라드셰 디렉터는 "한국과 일본 모두 정부 차원에서 AI 산업을 지원하고 있다"며 "한국에서는 정부 주도의 지원 정책이 개발자 생태계의 성장으로 이어지고 있을 가능성이 있다"고 분석했다.</p>
+<p><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">그는 한국 개발 생태계가 지속적으로 성장하려면 학생들의 AI 기술 접근성을 높여야 한다고 제언했다. 특히 최신 AI 기술을 이용하는 데 드는 비용을 낮추고 교육기관에 대한 투자를 확대할 필요가 있다고 강조했다.</span></p>
+<p><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">카라드셰 디렉터는 "현</span><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">재 최첨단 AI 기술을 활용하는 비용은 학생</span><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"> 소득만으로 감당하기 여전히 높은 수준"이라고 지적했다.</span></p>
+<p>이어 "더 어린 나이부터 학생들이 기술에 호기심을 갖고 직접 활용할 수 있도록 정부는 교육기관에 투자해야 한다"며 "비용 부담 없이 AI를 경험할 수 있는 환경이 중요하다"고 강조했다.</p>
+<p><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">카라드셰 디렉터는 앞으로 AI 에이전트가 더 많은 개발 업무를 수행하면서 개발자 역할도 달라질 것으로 전망했다.</span></p>
+<p>그는 "내년에는 개발자들은 AI를 통해 얼마나 더 많은 일을 수행하고 위험을 줄였는지 확인하고 싶을 것"이라며 "AI 에이전트 신뢰가 높아지면서 개발자 역할이 어떻게 변화하는지도 중요한 관전 요소가 될 것"이라고 내다봤다.</p>]]></description>
+		</item>
+		<item>
+			<title>머스크·저커버그, AI 대신 &apos;초지능&apos; 사용…트럼프 영향</title>
+			<link>https://zdnet.co.kr/view/?no=20261030222234</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030222234</guid>
+			<author>김익현 미디어연구소장</author>
+			<category>초지능</category>
+			<category>AI</category>
+			<category>SI</category>
+			<category>일론 머스크</category>
+			<category>마크 저커버그</category>
+			<category>도널드 트럼프</category>
+			<category>컴퓨팅</category>
+			<pubDate>Fri, 30 Oct 2026 22:23:08 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2024/08/01/75930f35133a2b0fd039e8cb66a73b5c.jpg" alt=""><p>실리콘밸리에서 친 트럼프 성향이 강한 일론 머스크와 마크 저커버그가 인공지능(AI) 대신 초지능(SI)이란 용어를 사용해 눈길을 끌었다.</p>
+<p>CNBC에 따르면 저커버그는 지난 21일(현지시간) 메타 실적 발표 컨퍼런스콜에서 “개인의 초지능을 모든 사람에게 전달하는 것이 목표다”라고 강조했다.</p>
+<p>당시 저커버그는 AI란 용어 대신 SI를 사용해 눈길을 끌었다. 물론 메타는 지난 해 이미 메타 초지능 연구소(Meta Superintelligence Labs)란 조직을 만들었기 때문에 저커버그의 초지능 용어 사용이 트럼프 방침 때문인지는 명확하지 않은 상황이다.</p>
+<img src="https://image.zdnet.co.kr/2024/08/01/75930f35133a2b0fd039e8cb66a73b5c.jpg" alt="일론 머스크 테슬라 CEO와 마크 저커버그 메타 CEO">
+<p>또 다른 친트럼프 성향 경영자인 일론 머스크 역시 ‘초지능’이란 용어를 사용했다.</p>
+<p>머스크는 이달 초 스페이스X의 AI 사업 부문 명칭을 스페이스X SI로 변경했다.</p>
+<p>하지만 그는 테슬라 컨퍼런스 콜에선 휴머노이드 로봇에 대해 언급하면서 AI와 SI를 함께 사용해 눈길을 끌었다.</p>
+<p>당시 머스크는 “일부 휴머노이드 로봇은 매우 인상적이다”면서 “하지만 그들은 진정한 고급 AI나 SI를 사용하지는 않는다”고 말했다.</p>
+<p>둘의 이 같은 행보는 미국 정부 공식 문서에서 AI란 용어 사용을 금지한 트럼프의 방침과 맞물려 관심을 끌고 있다.</p>
+<p>트럼프 대통령은 9월부터 AI 명칭 변경을 추진해왔다. 트루스소셜에서 AI 대체 용어를 묻는 투표를 진행했으며, 유엔총회 연설에서는 &apos;인공(artificial)&apos;이라는 단어가 지능을 가짜처럼 보이게 한다고 주장하기도 했다.</p>
+<p>당시 그는 미국의 모든 문서에서 SI라는 명칭을 사용하겠다는 뜻을 밝혔다.</p>
+<p>트럼프는 이런 공언을 곧바로 행동에 옮겼다. &apos;초지능 시대의 개막(Inaugurating the Era of Super Intelligence)&apos;이란 행정명령에 서명한 것. 리 행정명령은 연방기관이 공식 서신과 웹사이트, 보고서, 정책 문서 등에서 AI 대신 SI라는 용어를 사용하도록 규정했다. 행 법률에서 규정한 AI의 정의는 그대로 SI에 적용하도록 했다.</p>
+<p>트럼프의 이런 행보에도 불구하고 다른 실리콘밸리 경영자들은 여전히 AI 용어 사용을 고집하고 있다고 CNBC가 전했다.</p>
+<p>보도에 따르면 앤디 재시 AWS CEO, 사티아 나델라 MS CEO, 순다르 피차이 알파벳 CEO 등은 여전히 실적 발표 컨퍼런스콜에서 AI를 사용해 눈길을 끌었다.</p>]]></description>
+		</item>
+		<item>
+			<title>엔비디아, 40개 언어 받아쓰는 오픈 음성인식 모델 공개</title>
+			<link>https://zdnet.co.kr/view/?no=20261030214136</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030214136</guid>
+			<author>AI 에디터</author>
+			<category>AI 에디터</category>
+			<category>컴퓨팅</category>
+			<pubDate>Fri, 30 Oct 2026 21:41:36 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/29/ai4e6bffb1346c9734c8a10d18fb2c0048.jpg" alt=""><img src="https://image.zdnet.co.kr/2026/10/29/ai4e6bffb1346c9734c8a10d18fb2c0048.jpg" alt="">
+<p>엔비디아가 현지 시각 10월 28일 음성을 글로 옮기는 오픈 가중치 AI 모델 &apos;네모트론 3.5 트랜스크라이브(Nemotron 3.5 Transcribe)&apos;를 공개했다. 오픈 가중치 모델은 학습을 마친 모델 파일을 공개해 누구나 내려받아 실행할 수 있는 모델이다. 네모트론 3.5 트랜스크라이브는 40개 언어 받아쓰기를 지원하고, 영어와 대부분의 지원 언어 사이 음성 번역도 처리한다.</p>
+<p>전체 매개변수는 약 340억 개지만, 작업마다 일부 전문가 모듈만 작동하는 전문가 혼합(MoE) 구조여서 실제 연산에 참여하는 매개변수는 약 43억 개다. 최대 1시간 분량의 녹음을 한 번에 처리하고, 화자를 구분해 누가 말했는지 표시한다. 테크크런치는 최대 8명의 화자를 구분할 수 있다고 전했으며, 실시간 음성은 지원하지 않고 녹음 파일만 처리한다고 설명했다.</p>
+<p>엔비디아가 공개한 단어 오류율은 영어 오픈 ASR 9개 데이터셋 평균 4.71%, 7개 언어 평균 4.62%를 기록했다. 단어 오류율은 받아쓴 결과에서 틀린 단어의 비율로, 낮을수록 정확하다. 여러 사람이 대화하는 녹음 평가에서는 15.80%로 기존 최고 공개 결과인 16.83%보다 낮았다.</p>
+<p>모델은 H100 80GB GPU 한 장에서 실행할 수 있고, 로봇용 컴퓨터 젯슨 AGX 토르와 개인용 AI 컴퓨터 DGX 스파크에서도 구동된다. 라이선스는 상업적 이용을 허용하는 &apos;OpenMDW-1.1&apos;이며 허깅페이스에서 내려받을 수 있다. 용량을 줄인 FP8과 NVFP4 버전도 함께 제공되며, 엔비디아는 RTX PRO 6000 GPU 한 장에서 1초에 약 2,238초 분량의 음성을 처리했다고 밝혔다. 엔비디아는 회의록과 의료 기록 받아쓰기 서비스를 주요 용도로 제시했고, 업종별 전문 용어를 추가 학습할 수 있는 음성 데이터셋 &apos;그래너리(Granary)&apos; 2버전도 함께 공개했다.</p>
+<p>음성 AI 시장에서는 이달 미스트랄이 받아쓰기 모델 &apos;복스트랄 3&apos;를 공개했고, 일레븐랩스도 음성 에이전트용 실시간 모델을 출시하는 등 경쟁이 이어지고 있다.</p>
+<p>자세한 내용은 <a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B" target="_blank" rel="noopener noreferrer" style="letter-spacing: 0.8px; background-color: rgb(255, 255, 255); font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><strong>허깅페이스</strong></a><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">에서 확인할 수 있다.</span></p>
+<p>이미지 출처: 엔비디아</p>
+<p><a href="https://aimatters.co.kr/subscribe" target="_blank"></a></p>
+<p>■ 이 기사는 AI 전문 매체 ‘<a href="https://aimatters.co.kr/" target="_blank">AI 매터스</a>’와 제휴를 통해 제공됩니다. 기사는 클로드 3.5 소네트와 챗GPT를 활용해 작성되었습니다. (☞ <a href="https://aimatters.co.kr/?p=57567" target="_blank" rel="nofollow" class="link">기사 원문 바로가기</a>)</p>]]></description>
+		</item>
+		<item>
+			<title>[카드뉴스] 우리 집에 도둑이 들었는데 아무도 모른다면</title>
+			<link>https://zdnet.co.kr/view/?no=20261030110220</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030110220</guid>
+			<author>AMEET</author>
+			<category>AI해킹</category>
+			<category>해킹</category>
+			<category>컴퓨팅</category>
+			<pubDate>Fri, 30 Oct 2026 21:37:07 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/2326302b9d28fdfbaf153c58da617fab.png" alt=""><p>안녕하세요, AMEET 기자입니다. </p>
+<img src="https://image.zdnet.co.kr/2026/10/30/2326302b9d28fdfbaf153c58da617fab.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/30/77e34ca7bdb87ebb797abcd1989227a7.png" alt="">
+<p>최근 기업들이 해킹당했다는 소식이 많이 들리고 있죠. 그런데 우리 집에 도둑이 들었는데 아무도 모른다면 얼마나 아찔할까요? 기업 해킹의 진짜 문제는 바로 이렇게 &apos;몰래 머무는 침입자&apos;예요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/30/db7eaa140a8b262b60598682d68736df.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/30/26e3b74c057cfc0aa02680624a132c95.png" alt="">
+<p>요즘은 AI 덕분에 해킹 도구를 만들기가 훨씬 쉬워졌는데요, AI가 가짜 메일을 대신 써 주고 보안이 약한 곳도 빨리 찾아주다 보니 해커가 되는 문턱이 확 낮아졌어요. 게다가 다크웹에서는 기업 데이터베이스 한 건이 수백~수천 달러에 팔리기 때문에, 해커들은 포기하지 않고 계속 문을 두드리고 있어요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/4b1be012e81a40d4fbe8a93dfda390bc.png" alt="">
+<p>이렇게 해킹 건수가 폭발적으로 늘고 있지만 아직  들키지 않고 숨어 다니는 도둑이 더 많을 수 있다는게 문제에요. 도둑들의 잠입 솜씨가 좋아졌다는 점을 눈여겨봐야 해요. 알려진 악당 사진만 보는 경비원은 변장한 도둑을 놓치잖아요? 옛 보안 방식도 이미 알려진 악성코드만 잡아내서, AI로 모양을 계속 바꾼 새 공격은 그냥 지나가 버리고, 침입자는 안에서 횡적 이동을 하며 돌아다녀도 들키지 않아요.</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/a3e9c4d48c9b764037cb0e3eb01602f2.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/10/30/ab6081b68c5f4240711fab80bcda8701.png" alt="">
+<p>그렇다면 어떻게 대비해야 할까요? 비싼 AI 방어막을 먼저 도입할지, 기본부터 챙길지 의견이 갈렸는데요, AI패널 6명 중 4명은 기본 격리를 먼저 하자고 했어요. 작은 회사는 비싼 장비를 다룰 사람이 없기 때문이에요. 그래서 30일 안에 쓰지 않는 계정을 지우고 2단계 인증을 걸고, 90일 안에 핵심 DB를 사무용 네트워크와 분리해 로그를 보관하고, 1년 안에 행동 분석 솔루션을 검토하는 순서를 제안했어요. </p>
+<img src="https://image.zdnet.co.kr/2026/10/30/b1a382762f57b976100ae8d4c033befb.png" alt="">
+<p>무서워하기보다 숨은 침입을 찾고 막을 길을 좁히는 게 중요해요. 오늘 우리 회사 계정 목록부터 한번 열어 보세요. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!</p>
+<img src="https://image.zdnet.co.kr/2026/10/30/7bb606642085a235c1b620fff2b9ce9a.png" alt="">
+<p>▶ 해당 보고서 보기 <a href="https://ameet.zdnet.co.kr/uploads/dcfd1378.html" target="_blank"></a><a target="_blank" href="https://ameet.zdnet.co.kr/uploads/43080bfd.html" class="link">https://ameet.zdnet.co.kr/uploads/43080bfd.html</a></p>
+<p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
+		</item>
 		<item>
 			<title>10월 D램 가격 5.7% 상승…낸드는 보합 전환</title>
 			<link>https://zdnet.co.kr/view/?no=20261030163628</link>
@@ -571,248 +872,6 @@
 <p>ED138의 발견은 베라 루빈 천문대의 관측 성능을 보여주는 사례이기도 하다. 지난 6월 말 공식 운영을 시작한 이 천문대는 3일에 한 번씩 남반구 하늘 전체를 관측하며 방대한 데이터를 수집할 예정이다.</p>
 <p>외신들은 앞으로 10년간 이어질 베라 루빈의 관측을 통해 태양계의 새로운 천체가 잇따라 발견될 가능성에도 주목했다.</p>
 <iframe width="720" src="https://www.youtube.com/embed/GScw6xLHPp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></description>
-		</item>
-		<item>
-			<title>두산, 美 방산 보안 인증 컨설팅 자격 확보…국내 기업 진출 지원</title>
-			<link>https://zdnet.co.kr/view/?no=20261030163842</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030163842</guid>
-			<author>김동원 기자</author>
-			<category>두산</category>
-			<category>두산 디지털이노베이션BU</category>
-			<category>국방</category>
-			<category>CMMC</category>
-			<category>컴퓨팅</category>
-			<pubDate>Fri, 30 Oct 2026 16:39:08 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/c2dc1a4f99acd1745e407e68ecaeb72c.png" alt=""><p>두산이 미국 방산시장 진출을 준비하는 국내 기업을 대상으로 사이버보안 인증 컨설팅 사업을 확대한다.</p>
-<p>두산 디지털이노베이션BU(DDI)는 미국 사이버보안 성숙도 모델 인증(CMMC) 공식 인정기구인 &apos;사이버 AB&apos;로부터 등록 컨설팅 기관(RPO) 자격을 취득했다고 30일 밝혔다. 국내 방산·제조기업을 대상으로 보안 수준 진단부터 인증 평가 준비와 사후 관리까지 지원할 계획이다.</p>
-<p>CMMC는 미국 국방부 공급망에 참여하는 기업이 일정 수준 이상 사이버보안 역량을 갖췄는지 확인하는 제도다. 설계도면과 기술자료 등 민감한 정보가 외부로 유출되지 않도록 보호하는 데 목적이 있다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/30/c2dc1a4f99acd1745e407e68ecaeb72c.png" alt="두산 디지털이노베이션BU는 미국 사이버보안 성숙도 모델 인증(CMMC) 공식 인정기구인 &apos;사이버 AB&apos;로부터 등록 컨설팅 기관 자격을 취득했다고 밝혔다. (사진=챗GPT 활용)">
-<p><span style="letter-spacing: 0.8px;">미국은 2025년 11월부터 CMMC를 단계적으로 도입했다. 다만 올해 7월 당초 11월 시행할 예정이던 2단계 요구사항 적용을 중단하고 제도 전반을 재검토하기로 했다. 현재 1단계 자체평가 요건은 유지되고 있으며 기업별 계약 조건에 따라 필요한 보안 요건을 확인해야 한다.</span></p>
-<p>이번에 DDI가 취득한 RPO는 기업이 CMMC 요건을 충족하도록 준비 과정을 돕는 컨설팅 기관 자격이다. 실제 인증 심사를 수행하는 평가기관과는 구분된다. 사이버 AB가 정한 요건을 충족한 기관은 공식 등록기관 명단에 이름을 올린다.</p>
-<p>DDI는 CMMC 등록 실무자 자격을 보유한 전문 컨설턴트와 글로벌 IT 인프라 운영 경험을 활용해 기업별 맞춤형 서비스를 제공할 계획이다. 기존 보안 체계를 진단하고 부족한 부분을 파악한 뒤 필요한 시스템 구축과 개선 작업을 지원한다.</p>
-<p>인증 평가에 필요한 증빙자료를 준비하고 전문 평가기관과 연계해 제3자 평가에도 대응한다. 컨설팅이 끝난 뒤에는 기업이 자체적으로 보안 수준을 점검하고 관리하도록 지원할 예정이다.</p>
-<p>국내 기업 환경에 맞춘 컨설팅 체계도 마련했다. DDI는 중앙대학교 산업보안학과 및 보안대학원과 협력해 CMMC 컨설팅 방법론과 서비스를 공동 개발했다.</p>
-<p>해당 방법론은 평가 범위 설정부터 보안 요구사항 진단, 개선 과제 이행, 증빙자료 확보와 모의평가, 실제 평가 대응과 사후 관리까지 5단계로 구성된다. 기업별로 현재 보안 수준과 인증 요건 사이에 어떤 차이가 있는지 분석하고 필요한 조치를 단계적으로 수행하는 방식이다.</p>
-<p>DDI는 이번 자격 취득을 계기로 미국 방산 공급망 진출을 추진하는 국내 기업 보안 인증 준비를 지원하고 관련 컨설팅 사업을 확대할 방침이다.</p>
-<p>이정환 DDI 전무는 "미국 방산 공급망에 참여하려는 국내 기업에 CMMC는 꾸준히 준비해야 할 보안 기준"이라며 "기업별 업무 환경과 보안 수준을 정확히 진단해 준비 과제를 구체적으로 제시하고 기업이 인증 이후에도 자체적으로 보안 수준을 관리할 수 있는 역량을 갖추도록 지원하겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>KRISS, 제주서 국방연구개발협의회 발족</title>
-			<link>https://zdnet.co.kr/view/?no=20261030163528</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030163528</guid>
-			<author>박희범 기자</author>
-			<category>한국표준과학연구원</category>
-			<category>국방연구전략포럼</category>
-			<category>국방연구개발협의회</category>
-			<category>PBS</category>
-			<category>정부출연연구기관</category>
-			<category>출연연</category>
-			<category>국방</category>
-			<category>과학</category>
-			<pubDate>Fri, 30 Oct 2026 16:35:28 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/9e6ac0de5059fee103728607bad70cef.jpg" alt=""><p>한국표준과학연구원(KRISS)은 30일 제주에서 국방연구전략포럼을 개최하고, 18개 출연연구기관이 참여하는 과학기술분야 정부출연연구기관 국방연구개발협의회를 발족했다.</p>
-<p>이 포럼은 한국국방기술학회 추계학술대회 특별세션으로 마련됐다. 포럼에서는 출연연 국방연구개발협의회 발족 및 국방 R&amp;D 발전 방향·융합 소요 발굴에 대해 논의했다.</p>
-<p>포럼 1부 첫 행사로 진행된 국방연구개발협의회 발족식에서는 강노원 표준연 성과정책본부장이 초대회장으로 선출됐다. 또 국방분야 사업 경험이 많은 한국과학기술연구원(KIST)을 간사기관으로 정했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/30/9e6ac0de5059fee103728607bad70cef.jpg" alt="30일 제주서 출연연 국방R&D협의회가 발족됐다. 참석자들이 기념촬영했다.(사진=KRISS)">
-<p>협의회는 올해 첫 사업으로 출연연 국방 R&amp;D 역량 지도와 국방활용 유망기술 100선 목록을 만들 계획이다. 또 PBS(연구과제중심제) 폐지 등 연구 운영환경 변화에 발맞춰 과제 수행 현장의 애로사항을 공동 조사할 예정이다.</p>
-<p>이외에 국방기술개발사업 내 ‘출연연 참여 전용트랙’ 신설을 적극 추진할 방침이다.</p>
-<p>이어진 포럼 1부 주제 발표 세션에서는 포스트 PBS(연구과제중심제) 시대, 출연연의 국방 R&amp;D 역할과 과제를 주제로 3건의 발표가 이루어졌다.</p>
-<p>2부에서는 출연연 국방R&amp;D 발전을 위한 좌담회가 정책제안 형태로 진행됐다. 또 3부에서는 기관간 국방 R&amp;D 공동 협력 방안을 논의하는 &apos;기술교류<span style="letter-spacing: 0.8px;">&apos;세션이 진행됐다.</span></p>
-<p>한편 KRISS는 지난 2024년 &apos;국방 양자 컴퓨팅 &amp; 센싱 기술 특화연구센터&apos;를 개소했다. 올해 6월에는 국군의무사령부와 업무협약을 체결하고, 군 병원 MRI·CT 품질관리체계 구축을 진행 중이다.</p>]]></description>
-		</item>
-		<item>
-			<title>놓치면 안 될 핵심 SW 소식 한눈에 보기</title>
-			<link>https://zdnet.co.kr/view/?no=20261030161724</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030161724</guid>
-			<author>김동원 기자</author>
-			<category>ZD SW 투데이</category>
-			<category>핑거</category>
-			<category>리모</category>
-			<category>티젠소프트</category>
-			<category>솔트웨어</category>
-			<category>한컴케어링크</category>
-			<category>컴퓨팅</category>
-			<pubDate>Fri, 30 Oct 2026 16:33:55 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/2849dfb766cd98ba6b6a4d7d5dc683fc.png" alt="">
-							<blockquote class="wp-block-quote is-style-large">
-								<p>지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 &apos;ZD SW 투데이&apos;를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. <b>[편집자주]</b></p>
-
-							</blockquote>
-<p><b>◆비비드, 총상금 2000만원 AI 영상 공모전 개최</b></p>
-<p>AI 영상 제작 플랫폼 비비드(VIVID)가 30일부터 12월 13일까지 AI 영상 공모전 &apos;리플레이(RE)&apos; 출품작을 접수한다. 총상금은 2000만원으로 정식 이용 허락을 받은 지식재산(IP) 6종을 활용해 새로운 영상을 만드는 공모전이다.</p>
-<p>참여 IP는 리센느 리브·메이의 &apos;리트와 메트&apos;, 김성모 작가의 &apos;럭키짱&apos;, &apos;패트와 매트&apos;, &apos;더 나이트&apos;, &apos;위리이야기&apos;, &apos;이카루스&apos;다. 참가자는 IP별 제작 가이드와 허용 범위에 맞춰 생성형 AI 영상을 제작하면 된다. &apos;럭키짱&apos; 명대사를 실사 영상처럼 재해석하거나 &apos;이카루스&apos; 대본을 영상으로 구현하는 등의 미션을 제공한다.</p>
-<p>비비드는 앞서 황찬성과 노라조의 디지털 초상을 활용한 AI 광고 공모전을 진행했다. 이번에는 만화와 캐릭터 등으로 소재를 넓혔으며 세부 내용은 공식 공모전 페이지에서 확인할 수 있다.</p>
-<p><b>◆핑거·리모, 임직원 AI 교육서 업무 도구 45개 제작</b></p>
-<p>핑거가 AI 기업 리모와 임직원 100여명을 대상으로 AI 전환 교육과 해커톤을 진행했다. 핵심인력이 지난 6개월간 참여한 10회 교육을 바탕으로 지난 19일과 23일 서울 여의도와 을지로에서 전사 교육을 실시했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/30/2849dfb766cd98ba6b6a4d7d5dc683fc.png" alt="핑거는 AI 기업 리모와 임직원 100여명을 대상으로 AI 전환 교육과 해커톤을 진행했다. (사진=핑거)">
-<p><span style="letter-spacing: 0.8px;">참가자는 프롬프트 작성과 AI·업무 도구 연결, 반복 업무 자동화 등을 익히고 업무용 AI 도구를 제작했다. 해커톤에서는 회의록과 주간보고 작성, 제안서·견적 업무, 소프트웨어 테스트, 인사·경영기획 등에서 45개 결과물을 선보였다. AI 심사 에이전트의 1차 평가와 심사위원 평가를 종합해 8개 수상작을 선정했다.</span></p>
-<p>핑거는 결과물을 사내 AI 활용 체계 &apos;원핑거&apos;에 모아 전 직원이 활용하는 공통 업무 자산으로 발전시킬 계획이다. 내년에도 부서별 업무에 맞춘 AI 교육을 이어간다.</p>
-<p><b>◆한컴케어링크, 건강검진 플랫폼 &apos;케어해&apos; ISMS-P 획득</b></p>
-<p>한컴케어링크의 건강검진 예약 플랫폼 &apos;케어해&apos;가 한국인터넷진흥원(KISA)으로부터 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증을 획득했다. 인증 범위는 케어해 서비스 운영 전반이며 유효기간은 2029년 10월 6일까지다.</p>
-<p>케어해는 전국 500여개 제휴 검진기관을 기반으로 연간 20만명 이상이 이용하는 플랫폼이다. 검진기관 비교·예약과 AI 맞춤형 검진 항목 설계, 최대 10년치 검진 결과 조회·비교 등을 지원한다.</p>
-<p>한컴케어링크는 이번 인증을 바탕으로 기업·기관 대상 건강검진 사업을 확대할 계획이다. 매년 사후 심사를 받고 서비스 기획부터 배포까지 개발 전 과정에 보안 검토를 적용해 개인정보 보호 체계를 강화한다.</p>
-<p><b>◆솔트웨어, 데이터브릭스 행사서 기업 AI 활용 방안 제시</b></p>
-<p>솔트웨어가 서울 양재동 엘타워에서 열린 데이터브릭스 &apos;데이터+AI 러닝 페스티벌&apos;에 스폰서로 참가했다. 데이터 플랫폼 도입부터 분석과 AI 활용, 운영까지 단계별 지원 방안을 소개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/30/61dd509242eaa987529f1339a0f12c5b.jpg" alt="솔트웨어는 서울 양재동 엘타워에서 열린 데이터브릭스 &apos;데이터+AI 러닝 페스티벌&apos;에 스폰서로 참가했다. (사진=솔트웨어)">
-<p><span style="letter-spacing: 0.8px;">솔트웨어는 클라우드와 기업 내부 서버에 분산된 데이터를 연결하고 업무 환경에 맞는 플랫폼을 구축하는 방안을 제시했다. 폐쇄망에서도 사용하는 &apos;사피-ADP(Sapie-ADP)&apos;도 선보였다. 이 솔루션은 일상 언어로 정보를 조회하고 AI 에이전트로 업무를 자동화하며 기업 접근 권한과 보안 정책에 따라 AI 활용을 통제한다.</span></p>
-<p>이정근 솔트웨어 대표는 "솔트웨어는 데이터브릭스와의 협력을 바탕으로 고객의 데이터 환경에 적합한 AI 활용 기반을 구축하고, 기업이 데이터와 AI를 실질적인 업무 성과로 연결할 수 있도록 지원하겠다"고 말했다.</p>
-<p><b>◆티젠소프트, 기재부 &apos;지식배움터&apos; 동영상 서비스 구축</b></p>
-<p>티젠소프트가 기획재정부 신규 업무시스템 &apos;지식배움터&apos;에 동영상 등록·변환·스트리밍 솔루션 &apos;TG 1st Movie&apos;를 구축했다. 기관 구성원이 교육 영상과 업무 지식 콘텐츠를 이용하고 공유하는 환경을 마련했다.</p>
-<p>이 솔루션은 대용량 영상 업로드와 재생 형식 변환, 영상 정보 자동 등록, 웹·모바일 스트리밍을 지원한다. 별도 프로그램 설치 없이 영상을 올리고 다양한 기기에서 재생할 수 있다. AI 음성 인식으로 자막과 시간 정보를 자동 생성하고 편집하는 기능도 제공한다.</p>
-<p>티젠소프트는 콘텐츠 추천과 유사 영상 검색, 이용 통계 자동 분석 등 AI 기능을 연구·개발하며 공공기관과 기업의 온라인 교육·지식 공유 서비스를 고도화할 계획이다.</p>]]></description>
-		</item>
-		<item>
-			<title>삼성전자, 오우라와 美 특허분쟁…어떻게 될까</title>
-			<link>https://zdnet.co.kr/view/?no=20261030134011</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030134011</guid>
-			<author>이기종 기자</author>
-			<category>삼성전자</category>
-			<category>홈/모바일</category>
-			<pubDate>Fri, 30 Oct 2026 16:33:39 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/07/14/5e7031a467404bc39eb9ac02cc10207a.png" alt=""><p><span style="letter-spacing: 0.8px;">삼성전자가 오우라를 상대로 미국 국제무역위원회(ITC)에서 벌이고 있는 스마트링 특허침해조사 1차 결론이 3주 뒤 나온다. ITC에서 삼성전자가 </span><span style="letter-spacing: 0.8px;">오우라 특허를 침해했다는 판단이 나오면 </span><span style="letter-spacing: 0.8px;">갤럭시링 </span><span style="letter-spacing: 0.8px;">수입금지명령을 받을 수 있다. </span></p>
-<p><span style="letter-spacing: 0.8px;">30일 업계에 따르면 ITC는 오우라가 지난해 11월 삼성전자 등을 상대로 제기한 특허침해조사 1차 결론을 다음달 20일 발표할 예정이다. 오우라는 해당 분쟁에서 삼성전자가 특허 8건을 침해했다고 주장했다가 4건은 </span><span style="letter-spacing: 0.8px;">취하했고, </span><span style="letter-spacing: 0.8px;">현재 4건을 놓고 다투고 있다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/07/14/5e7031a467404bc39eb9ac02cc10207a.png" alt="삼성전자 갤럭시링 （사진＝삼성전자）">
-<p><span style="letter-spacing: 0.8px;">쟁점 특허 4건 중 1건(US11,868,178)은 </span><span style="letter-spacing: 0.8px;">특허심판원(PTAB)이 일부 청구항(권리범위)이 유효라고 판단했고, 삼성전자는 연방항소법원에 항소했다. 나머지 특허 3건에 대해선 삼성전자가 특허청에 결정계 재심사를 청구했다. 특허권자를 압박하는 힘은 특허심판원 무효심판이 크지만 지난해 하반기부터 무효심판 개시율이 크게 떨어져 특허청 결정계 재심사를 활용하는 사례가 늘었다. </span></p>
-<p><span style="letter-spacing: 0.8px;">하지만 특허청 결정계 재심사 결론이 나오기 전에 ITC가 1차 결론을 발표할 가능성이 크다. 결정계 재심사 개시 후 결론 도출까지 일반적으로 1년 이상 걸린다. </span></p>
-<p><span style="letter-spacing: 0.8px;">관심사는 ITC 1차 결론에서 삼성전자가 오우라 특허를 침해했다는 판단이 나올지 여부다. ITC는 1차 결론 발표 후 4개월 뒤 최종 결론을 발표하지만 1차 결론이 </span><span style="letter-spacing: 0.8px;">뒤집히는 경우는 적다. </span></p>
-<p><span style="letter-spacing: 0.8px;">특허 침해 판단이 나와도 당장 </span><span style="letter-spacing: 0.8px;">삼성전자가 입을 타격은 크지 않다. 업계 한 관계자는 "갤럭시링 판매량이 적고, 삼성전자 주력품이 아니어서 오우라 특허 침해로 판단되더라도 타격은 크지 않을 것"이라고 밝혔다. 삼성전자는 지난 2024년 갤럭시링 첫 번째 제품 출시 후 후속 모델을 내놓지 않았다. </span><span style="letter-spacing: 0.8px;">판매량도 많지 않았다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/10/30/c1899e37d892e8a07b4a96f4148daf0c.png" alt="">
-<p><span style="letter-spacing: 0.8px;">다만 스마트링은 향후 헬스케어 시장에서 중요성이 커질 수 있다는 기대를 받는</span><span style="letter-spacing: 0.8px;">다</span><span style="letter-spacing: 0.8px;">. 혈류 등 사용자 건강정보 측정 정확도가 </span><span style="letter-spacing: 0.8px;">스마트링이 </span><span style="letter-spacing: 0.8px;">스마트워치보다 높기 때문이다. 특허 침해로 판단되면 </span><span style="letter-spacing: 0.8px;">삼성전자는 향후 갤럭시링 판매량에 비례해 </span><span style="letter-spacing: 0.8px;">로열티를 오우라에 지급해야 할 수 있다. </span></p>
-<p>오우라는 삼성전자를 상대로 텍사스동부연방법원에 특허침해소송도 제기했다. 해당 소송에 사용한 특허 8건은, 오우라가 삼성전자를 상대로 ITC에 특허침해조사를 신청할 때 사용했던 특허와 같다. </p>
-<p>삼성전자는 ITC에서 불리한 결론이 나오면 연방항소법원에 항소할 수 있다. 삼성전자가 특허청 결정계 재심사에서 유리한 결론을 받으면, ITC 사건과 관련해선 항소 단계에서 활용할 수 있을 것으로 예상된다. </p>
-<img src="https://image.zdnet.co.kr/2026/10/30/f31a6429e439c75972810a141711c77b.png" alt="">
-<p><span style="letter-spacing: 0.8px;">삼성전자도 오우라를 상대로 ITC 특허침해조사, 연방법원 특허침해소송을 제기했다. 삼성전자가 신청한 </span><span style="letter-spacing: 0.8px;">ITC 특허침해조사 1차 결론은 내년 1월 나올 예정이다. 오우라가 삼성전자에 제기한 </span><span style="letter-spacing: 0.8px;">ITC 특허침해조사 최종 결론(내년 3월)이 나오는 시점보다 빠르다. </span></p>
-<p>앞서 2024년 5월~2025년 1월 삼성전자는 오우라 특허 11건을 상대로 특허심판원에 무효심판을 청구한 바 있다. <span style="letter-spacing: 0.8px;">특허심판원은 오우라 특허 6건은 무효, 5건은 유효라고 판단했다. 유효라고 판단된 5건에 대해 삼성전자는 연방항소법원에 항소했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">삼성전자는 갤럭시링 출시를 앞둔 지난 2024년 5월 오우라 특허를 상대로 특허심판원에 무효심판을 접수하면서, 캘리포니아동부연방법원에 비침해확인소송을 함께 제기한 바 있다. 비침해확인소송은 상대 특허를 침해하지 않았다는 판단을 구하는 분쟁</span><span style="letter-spacing: 0.8px;">인데, 삼성전자가 졌다</span><span style="letter-spacing: 0.8px;">. 삼성전자는 패소 후 연방항소법원에 항소했다가 취하했다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>포스코퓨처엠, LG엔솔에도 LFP 양극재 공급…국내 3사 확보</title>
-			<link>https://zdnet.co.kr/view/?no=20261030155643</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030155643</guid>
-			<author>김윤희 기자</author>
-			<category>포스코퓨처엠</category>
-			<category>양극재</category>
-			<category>LFP</category>
-			<category>LG에너지솔루션</category>
-			<category>배터리</category>
-			<category>인조흑연</category>
-			<category>음극재</category>
-			<category>IT 일반</category>
-			<pubDate>Fri, 30 Oct 2026 16:33:32 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/22/1bac59d342456fcdd4c105defed20955.jpg" alt=""><p>포스코퓨처엠이 LG에너지솔루션에도 리튬·인산·철(LFP) 양극재를 공급하게 되면서 국내 배터리 3사를 고객사로 확보했다.</p>
-<p>30일 포스코퓨처엠은 LG에너지솔루션과 ‘미래 협력 MOU’를 체결하고 전기차(EV)·에너지저장장치(ESS) 시장과 글로벌 통상환경에 공동 대응하기 위한 협력 체계를 강화하기로 했다고 밝혔다.</p>
-<p>이날 합의에 따라 포스코퓨처엠은 내년부터 2033년까지 7년간 총 72만톤 규모의 양·음극재를 LG에너지솔루션에 공급하게 될 전망이다. 양사는 양·음극재 제품 다변화와 공급 로드맵을 구체화해 연내 정식 계약을 체결할 계획이다.</p>
-<p><span style="letter-spacing: 0.8px;">이번 협력에 따라 포스코퓨처엠은 </span><span style="letter-spacing: 0.8px;">LFP 양극재</span><span style="letter-spacing: 0.8px;">와 인조흑연 음극재 신규 공급선으로 LG에너지솔루션을 확보하게 됐다. 이전부터 공급하던 </span><span style="letter-spacing: 0.8px;">울트라 하이니켈 양극재도 포함해 논의한다.</span><span style="letter-spacing: 0.8px;"> 나트륨(소듐)이온배터리 양극재와 실리콘 음극재 등 차세대 소재에 대한 기술 협력도 추진한다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/09/22/1bac59d342456fcdd4c105defed20955.jpg" alt="포항 영일만 4산단에 위치한 포스코퓨처엠 포항 양극재 공장 전경">
-<p><span style="letter-spacing: 0.8px;">삼원계 </span><span style="letter-spacing: 0.8px;">니켈·코발트·망간(</span><span style="letter-spacing: 0.8px;">NCM</span><span style="letter-spacing: 0.8px;">) 양극재는 중·장기적으로 폐배터리에서 추출한 회수 금속 사용을 확대해 원가 경쟁력을 더욱 높이는 방안을 추진한다. 여기에 최근 수요가 급증하고 있는 LFP 양극재까지 협력 범위를 넓히기로 했다.</span></p>
-<p>우선 포스코퓨처엠은 포항 양극재 공장 하이니켈 삼원계 양극재 생산라인을 LFP 양극재 생산라인으로 전환하는 작업을 속도감 있게 추진해 내년 초부터 LG에너지솔루션에 LFP 양극재를 본격 공급한다는 계획이다.</p>
-<p>향후에는 포스코그룹의 아르헨티나 염호 리튬을 활용하는 신공법을 개발해 원가경쟁력과 품질을 더욱 향상시킨 차세대 LFP 양극재를 공급한다는 방침이다.</p>
-<p>포스코퓨처엠은 삼성SDI, SK온에 이어 LG에너지솔루션과도 LFP 양극재 공급 협력을 맺게 됐다. SK온과는 내년부터 2029년까지 3년간 1조 1000억원 규모, 삼성SDI와는 내년부터 2032년까지 6조원 규모 공급 계약을 체결한 바 있다.</p>
-<p>국내 배터리 3사가 미국 시장에서 LFP 생산능력을 경쟁적으로 확대하는 가운데, 공급망 규제를 염두해 국산 양극재를 조달하는 과정에서 이번 협력이 추진된 것으로 분석된다. 마찬가지로 LFP 양극재를 양산 중인 국내 기업 엘앤에프도 삼성SDI, SK온 수주를 확보했으며, LG에너지솔루션과도 공급을 협의하는 것으로 업계에서 알려졌다. </p>
-<p>포스코퓨처엠은 배터리 급속 충전 성능과 수명 향상에 유리해 수요가 꾸준히 증가하고 있는 인조흑연 음극재를 한국과 베트남에서 생산해 LG에너지솔루션에 공급한다. <span style="letter-spacing: 0.8px;">인조흑연 </span><span style="letter-spacing: 0.8px;">음극재의 </span><span style="letter-spacing: 0.8px;">경우 </span><span style="letter-spacing: 0.8px;">지난 </span><span style="letter-spacing: 0.8px;">3월 </span><span style="letter-spacing: 0.8px;">글로벌 </span><span style="letter-spacing: 0.8px;">자동차 </span><span style="letter-spacing: 0.8px;">기업을 고객사로 밝힌 데 이어 추가 수주를 확보하게 됐다.</span></p>
-<p>양사는 나트륨이온전지(SIB)용 소재, 울트라 하이니켈 양극재, 실리콘음극재 등 미래 배터리 소재에 대한 기술개발과 공급도 협력하고, 미국 금지외국기관(PFE) 요건 도입, 유럽 산업가속화법(IAA) 발표 등 글로벌 공급망 관련 이슈가 예상되거나 발생하는 경우 공동 대응방안을 모색하는 등 통상환경 변화에도 선제적으로 대응해 나가기로 했다.</p>
-<p>포스코퓨처엠은 리튬 염호, 흑연 광산 등 포스코그룹 내 밸류체인을 기반으로 양·음극재 사업의 경쟁력을 지속 강화해 그룹 내 전략자원 핵심기업으로서 입지를 더욱 공고히 한다는 방침이다.</p>]]></description>
-		</item>
-		<item>
-			<title>GS네오텍, AWS AI 에이전트 인증 확보…제조·유통시장 공략</title>
-			<link>https://zdnet.co.kr/view/?no=20261030162715</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030162715</guid>
-			<author>김동원 기자</author>
-			<category>GS네오텍</category>
-			<category>AWS</category>
-			<category>아마존베드록</category>
-			<category>에이전틱 AI 컴피턴시</category>
-			<category>컴퓨팅</category>
-			<pubDate>Fri, 30 Oct 2026 16:27:29 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/30/7de7e56f5ec50be614d035907bb8d6d0.jpg" alt=""><p>GS네오텍이 기업 업무를 직접 수행하는 인공지능(AI) 에이전트 구축부터 운영과 보안 관리까지 사업 영역을 넓힌다.</p>
-<p>GS네오텍은 아마존웹서비스(AWS)의 &apos;에이전틱 AI 컴피턴시&apos; 컨설팅 서비스 부문 인증을 취득했다고 30일 밝혔다. 기존 생성형 AI 컴피턴시에 이어 기업용 AI 에이전트 구축과 운영 분야에서도 AWS가 요구하는 기술 역량을 검증받았다.</p>
-<p>에이전틱 AI 컴피턴시는 기업이 원하는 업무를 AI가 스스로 판단하고 수행하도록 시스템을 구축할 수 있는 전문 파트너를 인증하는 제도다. 단순히 질문에 답하는 AI를 넘어 실제 업무를 처리하는 에이전트를 설계하고 안전하게 운영할 수 있는지 평가한다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/30/7de7e56f5ec50be614d035907bb8d6d0.jpg" alt="GS네오텍은 AWS &apos;에이전틱 AI 컴피턴시&apos; 컨설팅 서비스 부문 인증을 취득했다. (사진=GS네오텍)">
-<p><span style="letter-spacing: 0.8px;">GS네오텍은 이번 심사에서 AI 프로젝트 추진 방법부터 모델 선정, 데이터 보안, 운영 전환과 사후 지원까지 전반적인 역량을 평가받았다. 실제 고객사에 구축한 사례를 바탕으로 보안과 신뢰성, 운영 능력도 입증했다.</span></p>
-<p>기술 평가는 추론과 개발 도구, 시스템 간 연동, 보안, 책임 있는 AI, 컴퓨팅 등 6개 영역에서 진행됐다. GS네오텍은 아마존 베드록과 세이지메이커 AI를 활용한 모델 구축 역량을 비롯해 여러 AI 에이전트가 협업하고 외부 업무 시스템과 정보를 주고받도록 연결하는 기술을 인정받았다.</p>
-<p>보안 관리 능력도 평가 대상에 포함됐다. AI 에이전트가 기업 데이터에 접근할 때 필요한 권한을 제한하고 실행 과정을 확인하는 기능, 실제 업무 환경에 AI 시스템을 배포하고 관리하는 기술 등을 검증받았다.</p>
-<p>GS네오텍은 이번 인증을 계기로 기업용 AI 에이전트 사업을 확대할 계획이다. 기업이 사용하는 전사적자원관리(ERP)와 고객관계관리(CRM) 시스템에 AI를 연결해 자료 검색뿐 아니라 여러 업무를 연속해서 처리하도록 지원한다.</p>
-<p>AI 에이전트를 구축한 뒤 안정적으로 운영하는 서비스도 강화한다. GS네오텍은 클라우드 관리 서비스 사업에서 쌓은 경험을 활용해 에이전트 권한 관리와 실행 기록 점검, 비용 관리, 장애 대응 등을 아우르는 &apos;에이전트옵스&apos; 체계를 운영할 방침이다.</p>
-<p>기업에서는 AI 에이전트가 업무를 수행하는 과정에서 여러 시스템에 접근하고 외부 도구를 사용할 수 있다. 이에 따라 어떤 정보를 이용하고 어떤 작업을 실행했는지 확인하는 관리 체계가 필요하다. GS네오텍은 이러한 요구에 맞춰 AI 구축부터 운영·관제까지 지원 범위를 넓힌다.</p>
-<p>우선 미디어와 게임, 제조, 유통, 에너지 분야를 중심으로 사업을 확대한다. 고객 상담과 사내 지식 검색, IT 운영 자동화 등 산업별 업무에 맞춘 AI 에이전트 구축 사례를 확보할 계획이다.</p>
-<p>서비스 범위도 도입 전략 수립부터 아마존 베드록 에이전트코어 기반 시스템 구축, 통합 운영과 관제까지 확대한다. GS네오텍은 이를 통해 기업이 AI 에이전트를 시험하는 단계를 넘어 실제 업무에 활용하도록 지원할 방침이다.</p>
-<p>서정인 GS네오텍 IT사업본부장은 "에이전틱 AI는 기업의 일하는 방식을 근본적으로 혁신하는 기술이지만 실질적인 비즈니스 성과로 이어지기 위해서는 보안과 권한 관리, 책임 있는 AI 설계가 전제되어야 한다"며 "AWS로부터 공인받은 기술 방법론과 GS네오텍의 클라우드 운영 노하우를 결합해 기업들이 AI 에이전트를 안정적으로 도입하고 디지털 경쟁력을 강화할 수 있도록 전방위로 지원하겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>SOOP, 3분기 영업익 145억원…전년비 59.9%↓</title>
-			<link>https://zdnet.co.kr/view/?no=20261030161556</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030161556</guid>
-			<author>박서린 기자</author>
-			<category>플랫폼</category>
-			<category>광고</category>
-			<category>콘텐츠</category>
-			<category>SOOP</category>
-			<category>동영상 스트리밍</category>
-			<category>스트리머</category>
-			<category>인터넷</category>
-			<pubDate>Fri, 30 Oct 2026 16:18:09 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/02/12/c4179a5766948a2b0b932813a1a088f9.jpg" alt=""><p>SOOP이 스트리머의 활동 무대 다변화로 플랫폼, 광고를 포함한 전 부문에서 수익이 하락했다. 이는 올해 3분기 매출과 영업이익 감소로 이어졌으며, 수익은 줄어든 반면 영업비용은 소폭 늘어났다. </p>
-<p>SOOP은 30일 연결 기준 3분기 매출 1057억원, 영업이익 145억원을 기록했다고 공시했다. 매출과 영업이익은 전년 동기 대비 각각 16%, 59.9% 감소했다. </p>
-<p>당기순이익은 106억원으로 지난해 같은 기간 보다 64% 떨어졌다. </p>
-<img src="https://image.zdnet.co.kr/2026/02/12/c4179a5766948a2b0b932813a1a088f9.jpg" alt="SOOP CI. (사진=SOOP)">
-<p><span style="letter-spacing: 0.8px;">부문별로 보면 광고 매출은 368억원으로 집계됐다</span><span style="letter-spacing: 0.8px;">. FC 온라인과 발로란트 VCT 부산 로드쇼 등 주요 게임 리그·대형 행사를 중심으로 브랜드 캠페인이 전개되고, 게임사 신작과 대형 캠페인, 기업 대상 오프라인 마케팅 프로젝트가 늘어난 영향이다. </span></p>
-<p><span style="letter-spacing: 0.8px;">대회 제작·운영과 쇼케이스, 팝업 등 게임사 연계 행사가 늘며 콘텐츠형 광고 매출은 195억원을 기록했다.</span></p>
-<p>SOOP은 4분기 주요 스트리머의 활동 재개와 연말 시즌 브랜드 마케팅 수요에 대응한다. ASL과 LCK·LoL 월드 챔피언십, 글로벌 e스포츠, 여자프로배구 등 주요 콘텐츠로 이용자 접점을 넓히고, 외부 파트너와의 협업 기회를 확대할 계획이다.</p>
-<p>스트리머 생태계 활성화를 위한 지원 체계도 강화한다. 지난 9월 스트리머의 누적 활동 성과를 인증하고 지속적인 활동 동기를 높이는 &apos;엠블럼 시스템&apos;을 도입했으며, 10월부터는 MCN과 파트너 스트리머가 참여하는 &apos;파트너스 멘토링&apos;을 운영하고 있다. </p>
-<p>이를 통해 신규·복귀 스트리머의 콘텐츠 기획과 플랫폼 적응을 지원하고 안정적인 활동 기반을 마련할 방침이다.</p>
-<p>서비스 측면에서는 올해 연말 사용자 인터페이스(UI)·사용자 경험(UX) 개편안을 공유하고, 2027년부터 단계적으로 적용할 계획이다. 콘텐츠 탐색과 이용 편의성을 개선해 유저가 원하는 콘텐츠를 보다 쉽게 발견하고 즐길 수 있도록 할 방침이다.</p>
-<p>광고 사업에서는 SOOP과 계열사의 광고·마케팅 역량을 결집한 통합 마케팅 브랜드 &apos;수피어&apos;의 2027년 1분기 공식 출시를 목표로 한다. 콘텐츠·스트리머·광고주를 연결하고 퍼포먼스 마케팅 역량을 결합한 통합 제안·운영 체계를 구축할 계획이다.</p>
-<p><span style="letter-spacing: 0.8px;">SOOP은 지난 9월 발행주식총수의 약 2.7%에 해당하는 자기주식 30만6375주를 소각했다. 현재 고배당기업 요건을 충족하고 있는 SOOP은 연결 당기순이익의 25% 이상을 현금배당하는 원칙을 이어가고 앞으로도 고배당기업 지위를 유지할 수 있는 배당 방안을 마련할 계획이다.</span></p>
-<p><span style="letter-spacing: 0.8px;">아울러 잔여 자기주식 활용과 중장기 자본배분을 포함한 기업가치 제고 방안을 마련해 시장과 적극 소통할 예정이다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>효성중공업, 3분기 영업익 10.8%↑…美 빅테크 공급계약 확대</title>
-			<link>https://zdnet.co.kr/view/?no=20261030161108</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030161108</guid>
-			<author>류은주 기자</author>
-			<category>효성중공업</category>
-			<category>실적</category>
-			<category>3분기</category>
-			<category>수주</category>
-			<category>전력기기</category>
-			<category>IT 일반</category>
-			<pubDate>Fri, 30 Oct 2026 16:11:08 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/09/15/8ff77fd2315fbd0416f715f74b944b28.jpg" alt=""><p>효성중공업이 물류 차질에 따른 일부 매출 지연에도 3분기 수익성 개선에 성공했다. 미국발 고수익 수주가 확대되면서 수주잔고는 18조 9000억원으로 역대 최대치를 기록했다.</p>
-<p>효성중공업은 30일 연결 기준 3분기 매출 1조 7406억원, 영업이익 2435억원을 기록했다고 공시했다. 전년 동기 대비 각각 7.2%, 10.8% 증가했다. 당기순이익은 2263억원으로 49.1% 늘었다. 다만, 전분기와 비교하면 매출은 3.2% 증가했지만 영업이익은 7.9% 감소했다.</p>
-<img src="https://image.zdnet.co.kr/2026/09/15/8ff77fd2315fbd0416f715f74b944b28.jpg" alt="미국 송전망에 설치된 효성중공업 765kV 초고압변압기">
-<p>중공업 부문에서는 중동 정세와 미국 태풍 등으로 물류 차질이 발생해 일부 매출 반영이 늦어졌다. 회사는 지연된 매출이 4분기에 반영될 것으로 예상했다.</p>
-<p>수주는 큰 폭으로 증가했다. 회사에 따르면 3분기 신규 수주는 3조 2331억원으로 전년 동기 대비 122% 늘었다. 수주잔고도 71% 증가한 18조 9000억원으로 역대 최고치를 경신했다.</p>
-<p>미국에서는 빅테크 기업 두 곳과 총 3800억원 규모 초고압변압기 공급계약을 체결하는 등 고수익 수주가 늘고 있다. 효성중공업은 이 같은 수주 확대를 바탕으로 향후에도 견조한 실적을 이어갈 것으로 전망했다.</p>
-<p>건설 부문은 일부 현장의 공사원가 상승이 반영되면서 일시적으로 이익이 둔화했다고 설명했다. 회사는 보수적인 선별 수주를 통해 사업 위험을 관리할 방침이다.</p>]]></description>
-		</item>
-		<item>
-			<title>[종합] 현대오토에버, 3분기 매출 늘었지만 수익성 둔화…4분기 AI·SDV 성장 주목</title>
-			<link>https://zdnet.co.kr/view/?no=20261030154709</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261030154709</guid>
-			<author>남혁우 기자</author>
-			<category>현대오토에버</category>
-			<category>데이터센터</category>
-			<category>현대차그룹</category>
-			<category>인공지능</category>
-			<category>로보틱스</category>
-			<category>소프트웨어 중심 자동차</category>
-			<category>SDV</category>
-			<category>컴퓨팅</category>
-			<pubDate>Fri, 30 Oct 2026 15:58:46 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/07/31/65fd2fc842d214771d401ba9b8baa416.jpg" alt=""><p>현대오토에버가 클라우드와 차세대 전사적자원관리(ERP) 사업 성장에 힘입어 올해 3분기 두 자릿수 매출 증가율을 기록했지만 수익성은 뒷걸음질쳤다. 차량 소프트웨어(SW) 사업 부진과 일부 계약 연기가 실적에 부담으로 작용한 가운데 현대차그룹의 인공지능(AI) 데이터센터 투자와 소프트웨어 중심 자동차(SDV)·로보틱스 사업 확대가 향후 성장 동력으로 떠오르고 있다.</p>
-<p>현대오토에버는 30일 잠정 실적 공시를 통해 올해 3분기 연결 기준 매출 1조2247억원, 영업이익 689억원을 기록했다고 밝혔다. 매출은 전년 동기 대비 16.2% 증가했지만 영업이익은 2.6% 감소했다. 영업이익률도 6.7%에서 5.6%로 하락했다.</p>
-<img src="https://image.zdnet.co.kr/2026/07/31/65fd2fc842d214771d401ba9b8baa416.jpg" alt="(사진=현대오토에버)">
-<p>사업별로는 SI와 ITO로 구성된 엔터프라이즈IT 부문 매출이 1조248억원으로 지난해 같은 기간보다 19.7% 증가했다. 주요 고객사의 클라우드 도입과 차세대 전사적자원관리(ERP) 시스템 전환 등 디지털 전환 투자가 확대된 영향이다.</p>
-<p>반면 차량SW 부문은 전년 동기 대비 0.8% 증가한 1999억원 매출을 기록했다. 미국 관세와 지정학적 리스크 등으로 수익성이 악화됐으며 엔터프라이즈IT 사업에서도 일부 계약이 4분기로 연기되면서 영업이익에 영향을 미쳤다.</p>
-<p>현대오토에버 관계자는 일부 기업 IT 계약이 4분기로 이연되면서 3분기 수익성에 영향을 미쳤다고 설명했다. 다만 이연된 계약이 반영되는 4분기에는 실적이 어느 정도 회복될 가능성이 있다고 내다봤다.</p>
-<p>올해 1~3분기 누적 매출은 3조4111억원으로 전년 동기 대비 16.4% 증가했다. 누적 영업이익은 1806억원으로 1.0% 늘었다.</p>
-<p>중장기적으로는 현대차그룹 AI 데이터센터 구축이 새로운 성장 동력으로 주목받는다. 현대차그룹은 2027년부터 새만금 AI 데이터센터 건설을 시작해 2029년 가동할 계획이다. </p>
-<p>삼성증권은 현대오토에버가 그래픽처리장치(GPU) 공급과 데이터센터 소프트웨어 개발, 클라우드 운영 등에 참여하면서 SI·ITO 매출을 확대할 것으로 전망했다.</p>
-<p>실제 현대오토에버는 지난 7월 현대차와 기아를 대상으로 약 3650억원 규모 GPU 서버 통합 구매 및 공급 계약을 체결했다. 삼성증권은 향후 데이터센터 구축 과정에서 2027년부터 2029년까지 GPU 구매 대행으로 약 5조원의 매출이 발생할 수 있다고 추정했다.</p>
-<p>현대차그룹이 주도하는 소프트웨어 중심 자동차(SDV)와 로보틱스 사업에서도 현대오토에버의 역할 확대가 예상된다. 현대오토에버는 차량 제어 미들웨어 &apos;모빌진&apos;을 비롯해 차량과 클라우드를 연결하고 소프트웨어 업데이트와 데이터를 관리하는 기술을 확보하고 있기 때문이다.</p>
-<p><span style="letter-spacing: 0.8px;">이현욱 IBK투자증권 애널리스트는 현대오토에버를 현대차그룹 로보틱스 밸류체인의 시스템통합 담당 기업으로 분류했다. 향후 그룹 공장에 로봇 도입이 확대되면 생산 시스템 연계와 통합 운영 분야에서 사업 기회가 늘어날 가능성이 있다.</span></p>
-<p>삼성증권은 현대오토에버 영업이익이 올해 2770억원에서 2027년 3550억원, 2028년 5360억원으로 증가할 것으로 전망했다. 영업이익률도 같은 기간 5.7%에서 8.0%로 개선될 것으로 예상했다. 이는 3분기 실적 발표 이전에 제시된 추정치다.</p>
-<p>임은영 삼성증권 연구원은 "현대오토에버는 현대차그룹의 데이터센터 구축의 최대 수혜주"라며 "데이터센터 규모가 커질수록 현대오토에버의 SI 매출과 ITO 매출 확대 예상한다"고 분석했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
