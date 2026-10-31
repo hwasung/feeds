@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 31 Oct 2026 09:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 31 Oct 2026 18:31:14 +0900</lastBuildDate>
+		<item>
+			<title>[ET시선] &apos;퍼스트 무버&apos; 제네시스의 시간이 시작됐다</title>
+			<link>https://www.etnews.com/20261030000163</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261030000163</guid>
+			<author>함봉균</author>
+			<category>오피니언</category>
+			<pubDate>Sat, 31 Oct 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[완성차 업체의 신차 기술 발표회는 대개 결점 없는 성공 신화로 채워진다. 화려한 수식어와 장밋빛 스펙, 경쟁 모델을 압도했다는 데이터가 화면을 가득 채우는 것이 관행이다. 그러나 최근 열린 제네시스 GV90 기술 설명회의 공기는 사뭇 달랐다. 연단에 오른 연구개발(R&D) 실무 책임자들의 입에서 가장 먼저 쏟아져 나온 단어는 뜻밖에도 '실패'와 '시행착오'였다. 제네시스가 '퍼스트 무버(First Mover)'의 반열에 올라섰음을 가장 확연하게...]]></description>
+		</item>
 		<item>
 			<title>[ET톡] 이제 다시 투자의 시간</title>
 			<link>https://www.etnews.com/20261030000215</link>
@@ -265,15 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능 전환(AX) 전문기업 이노테나(대표 김인수·윤영호)와 AI 딥테크 기업 모티프테크놀로지스(대표 임정환)가 외부 인터넷 연결 없이 생성형 AI를 활용할 수 있는 지능형 문서중앙화 솔루션 개발에 나선다. 양사는 최근 이노테나 본사에서 폐쇄망 AI 기반 지능형 문서중앙화 사업 협력을 위한 업무협약(MOU)을 체결했다. 이번 협약에 따라 이노테나의 통합 정보보안 브랜드 '엠파워(Mpower)'와 모티프테크놀로지스의 독자 AI 파운데이션 모델...]]></description>
-		</item>
-		<item>
-			<title>위세아이텍-아이노션, AI 플랫폼 해외 시장 진출 협력</title>
-			<link>https://www.etnews.com/20261030000016</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000016</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 08:57:46 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)·데이터 플랫폼 전문기업 위세아이텍이 AI 데이터센터 풀스택 기업 아이노션과 손잡고 미국과 중남미 AI 시장 공략에 나선다. 위세아이텍(대표 김다산·이제동)은 아이노션(대표 김창수)과 AI 플랫폼 및 컴퓨팅 인프라 기반의 글로벌 사업 확대를 위한 전략적 업무협약(MOU)을 체결했다고 30일 밝혔다. 이번 협약은 위세아이텍의 AI 플랫폼 기술과 아이노션의 AI 컴퓨팅 인프라 구축 역량을 결합해 통합 AI 서비스를 개발하고 해외 사업...]]></description>
 		</item>
 	</channel>
 </rss>
