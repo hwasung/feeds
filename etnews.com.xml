@@ -4,7 +4,15 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 01 Nov 2026 18:31:20 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 06:30:24 +0900</lastBuildDate>
+		<item>
+			<title>[테크 차이나] 작은 주문 묶는 중국 PCB, 이익은 준비시간에서 갈린다</title>
+			<link>https://www.etnews.com/20261027000123</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000123</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 02 Nov 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[서로 다른 기업이 전자회로 기판 다섯 장씩을 주문한다. 주문마다 판재를 자르고 생산자료를 만들고 설비를 준비한다면 기판보다 준비에 시간이 더 들 수 있다. 중국 전자제조 플랫폼은 이 작은 주문을 생산조건에 맞춰 큰 공정에 태운다. 고객이 늘수록 재료와 설비의 준비를 함께 쓸 조합도 많아진다. 작은 수요가 제조의 규모로 바뀌는 지점이다. 인쇄회로기판인 PCB는 부품을 올리고 전기적으로 연결하는 전자제품의 바탕이다. 설계를 바꿀 때마다 적은 수량을...]]></description>
+		</item>
 		<item>
 			<title>정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥</title>
 			<link>https://www.etnews.com/20261030000273</link>
@@ -261,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 01 Nov 2026 08:10:45 +0900</pubDate>
 			<description><![CDATA[계명대학교가 단순한 기술 도입을 넘어 교육·연구·행정 등 대학 운영 전반을 인공지능(AI) 기반으로 혁신하는 'AI 대전환(AX)'을 선언하며, 인간 중심의 가치를 바탕으로 한 미래 대학의 새로운 비전을 제시했습니다. 계명대(총장 신일희)가 교육·연구·행정 전반을 인공지능(AI) 기반으로 전환하는 대학 차원의 AI 대전환(AX)을 공식 선언했다. 단순한 기술 도입을 넘어 대학 운영 방식과 교육 환경의 변화를 추진하고, 인간 중심의 가치를 바탕으...]]></description>
-		</item>
-		<item>
-			<title>샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화</title>
-			<link>https://www.etnews.com/20261031000056</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261031000056</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 06:00:00 +0900</pubDate>
-			<description><![CDATA[샘 올트먼 오픈AI 최고경영자(CEO)가 방한해 삼성전자와 SK그룹을 찾았다. 지난 7월 정부 주도 '샌프란시스코 AI 서밋'에 이어 양측 인공지능(AI)·반도체 협력 강화 차원으로 풀이된다. 1일 업계에 따르면 올트먼 CEO는 지난달 30일 1박 2일 일정으로 한국을 찾아 삼성·SK 경영진과 연쇄 회동을 가졌다. 지난해 10월 방한 이후 1년 만에 서울을 찾은 것이다. 앞서 6월 삼성·네이버·카카오 등을 찾을 예정이었으나 한 차례 연기된 바...]]></description>
 		</item>
 	</channel>
 </rss>
