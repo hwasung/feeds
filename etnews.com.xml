@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 02 Nov 2026 06:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 07:30:22 +0900</lastBuildDate>
+		<item>
+			<title>AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지</title>
+			<link>https://www.etnews.com/20261102000003</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000003</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 02 Nov 2026 06:51:56 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 산업에 천문학적인 자금이 유입되면서 월가에서 투자 손실에 대비하려는 움직임이 본격화하고 있다. AI 투자가 기대만큼의 수익으로 이어질지 불확실성이 커지자 주식과 채권은 물론 AI 반도체(GPU) 사용료 하락 위험까지 헤지하려는 수요가 늘고 있다. 월스트리트저널(WSJ)은 지난달 31일(현지시간) AI 관련 기업에 투자한 개인투자자와 기술기업 임원들이 풋옵션과 신용부도스와프(CDS) 등 금융상품을 활용해 자산 가격 하락에 대비하고...]]></description>
+		</item>
+		<item>
+			<title>北 가상자산 8조원대 탈취…비트코인은 테슬라 보유량 추월</title>
+			<link>https://www.etnews.com/20261102000002</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000002</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 02 Nov 2026 06:45:43 +0900</pubDate>
+			<description><![CDATA[북한 연계 해킹조직이 가상화폐 거래소 바이낸스에서 빼돌린 비트코인이 미국 전기차업체 테슬라와 엘살바도르 정부의 보유량을 크게 웃도는 것으로 집계됐다. 탈취한 비트코인만으로도 북한의 연간 상품 수출액의 3배에 이르는 자산을 확보했다. 1일(현지시간) 가상화폐 전문매체 코인데스크와 코인텔레그래프 등에 따르면 지난달 29일 발생한 바이낸스 해킹으로 유출된 비트코인은 1만8270개다. 개당 7만8500달러를 적용하면 약 14억달러(약 1조8701억원)...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 작은 주문 묶는 중국 PCB, 이익은 준비시간에서 갈린다</title>
 			<link>https://www.etnews.com/20261027000123</link>
@@ -251,24 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 01 Nov 2026 10:20:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 기반 전기차 충전 운영 플랫폼 전문기업 윙사이드가 전기이륜차 제조기업 럭스일렉트라와 손잡고 배달 라이더를 위한 충전 인프라 구축에 나선다. 윙사이드(대표 신유선)는 럭스일렉트라(대표 박진하)와 전기이륜차 충전 인프라 구축 및 친환경 이륜차 보급 확대를 위한 업무협약(MOU)을 체결했다고 1일 밝혔다. 이번 협약은 전기이륜차 보급의 걸림돌로 지적되는 충전 인프라 부족 문제를 해소하고 배달 라이더의 운행 환경에 적합한 충전 서비스를...]]></description>
-		</item>
-		<item>
-			<title>[르포] AI가 전력 관리하고 장애 예측…KT클라우드 AI 데이터센터 시동</title>
-			<link>https://www.etnews.com/20261101000005</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261101000005</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[30일 서울 양천구 KT클라우드 목동2데이터센터. 거대 인공지능(AI) 서버들이 뿜어내는 열기를 식히기 위한 냉각장치 소음이 울려 퍼졌다. 순찰을 시작한 자율주행 로봇은 센서를 가동해 화재감지기와 AI·열화상 카메라로 AI 서버의 전력·온도·습도 등 상태를 살폈다. 로봇의 실시간 점검 데이터는 곧바로 중앙 관제 화면에 선명하게 표시됐다. 이곳은 KT클라우드가 지난 25년간 축적해 온 데이터센터 설계·구축·운영 노하우를 집약해 차세대 인공지능 데...]]></description>
-		</item>
-		<item>
-			<title>“인간 중심의 미래 대학”…계명대, AI 대전환 비전 선포</title>
-			<link>https://www.etnews.com/20261101000006</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261101000006</guid>
-			<author>정재훈</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 08:10:45 +0900</pubDate>
-			<description><![CDATA[계명대학교가 단순한 기술 도입을 넘어 교육·연구·행정 등 대학 운영 전반을 인공지능(AI) 기반으로 혁신하는 'AI 대전환(AX)'을 선언하며, 인간 중심의 가치를 바탕으로 한 미래 대학의 새로운 비전을 제시했습니다. 계명대(총장 신일희)가 교육·연구·행정 전반을 인공지능(AI) 기반으로 전환하는 대학 차원의 AI 대전환(AX)을 공식 선언했다. 단순한 기술 도입을 넘어 대학 운영 방식과 교육 환경의 변화를 추진하고, 인간 중심의 가치를 바탕으...]]></description>
 		</item>
 	</channel>
 </rss>
