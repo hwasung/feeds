@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 31 Oct 2026 18:31:14 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 01 Nov 2026 09:30:24 +0900</lastBuildDate>
+		<item>
+			<title>[르포] AI가 전력 관리하고 장애 예측…KT클라우드 AI 데이터센터 시동</title>
+			<link>https://www.etnews.com/20261101000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261101000005</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 01 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[30일 서울 양천구 KT클라우드 목동2데이터센터. 거대 인공지능(AI) 서버들이 뿜어내는 열기를 식히기 위한 냉각장치 소음이 울려 퍼졌다. 순찰을 시작한 자율주행 로봇은 센서를 가동해 화재감지기와 AI·열화상 카메라로 AI 서버의 전력·온도·습도 등 상태를 살폈다. 로봇의 실시간 점검 데이터는 곧바로 중앙 관제 화면에 선명하게 표시됐다. 이곳은 KT클라우드가 지난 25년간 축적해 온 데이터센터 설계·구축·운영 노하우를 집약해 차세대 인공지능 데...]]></description>
+		</item>
+		<item>
+			<title>“인간 중심의 미래 대학”…계명대, AI 대전환 비전 선포</title>
+			<link>https://www.etnews.com/20261101000006</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261101000006</guid>
+			<author>정재훈</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 01 Nov 2026 08:10:45 +0900</pubDate>
+			<description><![CDATA[계명대학교가 단순한 기술 도입을 넘어 교육·연구·행정 등 대학 운영 전반을 인공지능(AI) 기반으로 혁신하는 'AI 대전환(AX)'을 선언하며, 인간 중심의 가치를 바탕으로 한 미래 대학의 새로운 비전을 제시했습니다. 계명대(총장 신일희)가 교육·연구·행정 전반을 인공지능(AI) 기반으로 전환하는 대학 차원의 AI 대전환(AX)을 공식 선언했다. 단순한 기술 도입을 넘어 대학 운영 방식과 교육 환경의 변화를 추진하고, 인간 중심의 가치를 바탕으...]]></description>
+		</item>
+		<item>
+			<title>샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화</title>
+			<link>https://www.etnews.com/20261031000056</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261031000056</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 01 Nov 2026 06:00:00 +0900</pubDate>
+			<description><![CDATA[샘 올트먼 오픈AI 최고경영자(CEO)가 방한해 삼성전자와 SK그룹을 찾았다. 지난 7월 정부 주도 '샌프란시스코 AI 서밋'에 이어 양측 인공지능(AI)·반도체 협력 강화 차원으로 풀이된다. 1일 업계에 따르면 올트먼 CEO는 지난달 30일 1박 2일 일정으로 한국을 찾아 삼성·SK 경영진과 연쇄 회동을 가졌다. 지난해 10월 방한 이후 1년 만에 서울을 찾은 것이다. 앞서 6월 삼성·네이버·카카오 등을 찾을 예정이었으나 한 차례 연기된 바...]]></description>
+		</item>
+		<item>
+			<title>AI 보안 경쟁 축 &apos;탐지→자동 대응&apos;…시장 성장도 가속</title>
+			<link>https://www.etnews.com/20261031000030</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261031000030</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 31 Oct 2026 22:30:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기반 사이버 공격으로 인해 세계 보안시장의 경쟁 축이 위협 탐지·분석에서 실시간 차단과 자동 대응으로 이동하고 있다. AI가 취약점 발견과 공격을 가속하면서 기존의 수동 분석과 패치 중심 대응에 한계가 드러났기 때문이다. 최근 실적을 발표한 포티넷과 테너블, F5는 AI 공격 확산에 따라 보안 대응 방식이 바뀌었다고 밝혔다. 포티넷은 기존에는 개별 보안 솔루션으로 위협을 탐지·분석했다면, 이제 여러 보안 기능을 통합하고 대응 속...]]></description>
+		</item>
 		<item>
 			<title>[ET시선] &apos;퍼스트 무버&apos; 제네시스의 시간이 시작됐다</title>
 			<link>https://www.etnews.com/20261030000163</link>
@@ -238,42 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 30 Oct 2026 09:35:05 +0900</pubDate>
 			<description><![CDATA[산업용 사물인터넷(IoT) 및 엣지 컴퓨팅 전문기업 어드밴텍(Advantech)이 퀄컴의 드래곤윙(Dragonwing) QCS6490 프로세서를 탑재한 산업용 스마트 패널 PC 'TPC-200W' 시리즈를 출시했다. TPC-200W 시리즈는 최대 12 TOPS(초당 12조번 연산)의 온디바이스 인공지능(AI) 처리 성능을 지원하는 제품이다. 클라우드 연결에 대한 의존도를 낮추면서 산업 현장에서 AI 추론과 실시간 데이터 처리를 수행할 수 있도록...]]></description>
-		</item>
-		<item>
-			<title>엔코아·베스핀글로벌, 공공 AI 시장 확대 전략적 업무 협약</title>
-			<link>https://www.etnews.com/20261030000035</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000035</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 09:32:06 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)·데이터 전문기업 엔코아가 AI 서비스 전문기업 베스핀글로벌과 손잡고 공공 AI 시장 공략에 나선다. 양사의 데이터 플랫폼과 AI 에이전트 기술을 연계해 공공기관의 AI 업무 자동화와 서비스 고도화를 지원한다. 엔코아는 베스핀글로벌과 공공 AI 시장 확대를 위한 전략적 업무협약(MOU)을 체결했다고 30일 밝혔다. 이번 협력은 엔코아의 AI 레디 데이터(AI Ready Data) 역량과 베스핀글로벌의 AI 에이전트 구축·운영 역량...]]></description>
-		</item>
-		<item>
-			<title>위즈코어, 159억원 규모 AI 팩토리 선도프로젝트 주관기업 선정</title>
-			<link>https://www.etnews.com/20261030000033</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000033</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 09:29:48 +0900</pubDate>
-			<description><![CDATA[제조 인공지능 전환(AX) 전문기업 위즈코어가 산업통상부의 '2026년 AI 팩토리 선도프로젝트' 주관기업으로 선정돼 LG이노텍 광학모듈 생산공정의 자율제조 시스템 개발에 나선다. 위즈코어는 '피지컬 AI 기반 광학모듈 경화공정 자율제조 시스템 개발' 과제의 주관기업으로 선정됐다고 30일 밝혔다. 이번 과제에는 위즈코어를 비롯해 LG이노텍과 구미전자정보기술원(GERI) 등이 참여한다. 총사업비는 159억원이며 2029년까지 광학모듈 경화공정의...]]></description>
-		</item>
-		<item>
-			<title>[영상] 광운대, AI·로봇 미래교육 비전 선포…3대 핵심 전략 발표</title>
-			<link>https://www.etnews.com/20261030000023</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000023</guid>
-			<author>최순호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 09:08:14 +0900</pubDate>
-			<description><![CDATA[광운대학교는 29일 서울 노원구 광운대학교 광운스퀘어에서 '광운 AI·로봇 미래교육 비전 선포식'을 개최했다. 이날 윤도영 광운대 총장은 키노트에서 '사람을 키우는 AI 로봇 대학, 세계로 나아가는 로봇 광운'을 새로운 미래교육 비전으로 제시했다. 이를 실현하기 위한 3대 핵심 전략으로 '산업과 함께 키우는 피지컬 AI 인재양성', '누구에게나 열린 AI 로봇 교육', '세계와 함께 성장하는 글로벌 로봇 광운'을 발표했다. 또한 청소년 미래인재...]]></description>
-		</item>
-		<item>
-			<title>이노테나-모티프테크놀로지스, 폐쇄망 AI 문서중앙화 솔루션 공동 개발</title>
-			<link>https://www.etnews.com/20261030000014</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000014</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능 전환(AX) 전문기업 이노테나(대표 김인수·윤영호)와 AI 딥테크 기업 모티프테크놀로지스(대표 임정환)가 외부 인터넷 연결 없이 생성형 AI를 활용할 수 있는 지능형 문서중앙화 솔루션 개발에 나선다. 양사는 최근 이노테나 본사에서 폐쇄망 AI 기반 지능형 문서중앙화 사업 협력을 위한 업무협약(MOU)을 체결했다. 이번 협약에 따라 이노테나의 통합 정보보안 브랜드 '엠파워(Mpower)'와 모티프테크놀로지스의 독자 AI 파운데이션 모델...]]></description>
 		</item>
 	</channel>
 </rss>
