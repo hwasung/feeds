@@ -4,7 +4,24 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 01 Nov 2026 12:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 01 Nov 2026 15:30:22 +0900</lastBuildDate>
+		<item>
+			<title>[정유신의 핀테크스토리]AI 에이전트가 여는 금융의 &apos;생산성 혁명&apos;</title>
+			<link>https://www.etnews.com/20261101000068</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261101000068</guid>
+			<category>오피니언</category>
+			<pubDate>Sun, 01 Nov 2026 14:00:00 +0900</pubDate>
+			<description><![CDATA[금융산업의 인공지능(AI) 활용이 AI에이전트의 등장으로 새로운 전환점을 맞고 있다. 생성형 AI를 이용할 때는 사람이 개별 업무마다 지시해야 했지만, AI 에이전트는 목표만 주어지면 여러 단계의 업무를 스스로 연결해서 처리하기 때문이다. 예컨대 고객이 대출을 신청하면 AI가 소득과 신용정보를 분석해 적합한 상품을 추천하고 심사에 필요한 절차까지 연결해 수행하는 식이다. 이러한 변화는 단순한 업무 자동화를 넘어 금융회사의 생산성과 비용구조, 나...]]></description>
+		</item>
+		<item>
+			<title>정부 &apos;온AI&apos; 기능 확대…업무망서 검색·보고서 작성 지원</title>
+			<link>https://www.etnews.com/20261101000083</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261101000083</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 01 Nov 2026 12:25:59 +0900</pubDate>
+			<description><![CDATA[행정안전부는 공무원이 정부 업무망에서 인공지능(AI)을 활용해 최신 인터넷 정보를 검색하고 한글 보고서 초안까지 작성할 수 있도록 '온AI' 기능을 확대한다고 1일 밝혔다. 행안부는 지난달부터 도입한 'AI 웹검색'을 통해 업무망에서 최신 정책 자료와 언론 기사 등 인터넷상의 정보를 반영한 답변을 받을 수 있도록 했다. 별도 외부망을 오가지 않고도 최신 동향을 조사·분석할 수 있으며, AI 답변과 함께 제공되는 QR코드를 스마트폰으로 촬영하면...]]></description>
+		</item>
 		<item>
 			<title>“회의 많이 한다고 일 더 되나”…원격회의 앱 &apos;줌&apos;, AI로 업무방식 바꾼다</title>
 			<link>https://www.etnews.com/20261101000046</link>
@@ -255,24 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 30 Oct 2026 20:36:45 +0900</pubDate>
 			<description><![CDATA[LG CNS는 지난 3분기 영업이익이 1382억원으로 전년 동기 대비 15% 증가한 것으로 잠정 집계됐다고 30일 공시했다. 같은기간 매출은 1조6643억원으로 9.3% 늘었다. 사업별로 보면 3분기 인공지능(AI)·클라우드 분야 매출은 전년 동기 대비 9.3% 증가한 9615억원을 기록했다. AI 인프라 사업에서 성과가 이어진 영향이다. 삼송 AI데이터센터 구축·운영을 비롯해 LG CNS가 위탁 운영 중인 AI데이터센터의 코로케이션 매출이 증...]]></description>
-		</item>
-		<item>
-			<title>트릴리온랩스, AI 에이전트·OCR 최적화 해커톤 개최</title>
-			<link>https://www.etnews.com/20261030000344</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000344</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 18:00:48 +0900</pubDate>
-			<description><![CDATA[트릴리온랩스가 '2026 트릴리온 에이전트 AI 해커톤'을 다음달 19~20일 서울 강남구 드림플러스에서 개최한다. 트릴리온랩스 오픈소스 모델을 활용해 인공지능(AI) 에이전트를 개발하는 것이 해커톤 핵심이다. AI 에이전트 개발과 광학문자인식(OCR) 모델 성능 최적화 두 트랙으로 진행된다. AI 에이전트 트랙에서는 의사결정 모델 'Zoro-1'을 활용해 자율형 AI 에이전트를 개발한다. Zoro-1은 디퓨전 거대언어모델(LLM) 기반 텍스트...]]></description>
-		</item>
-		<item>
-			<title>KAIST·뉴톤, &apos;탄소 버티컬 AI&apos; 개발 맞손…글로벌 탄소시장 정조준</title>
-			<link>https://www.etnews.com/20261030000272</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000272</guid>
-			<author>이준희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 30 Oct 2026 15:30:48 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)이 복잡한 글로벌 탄소시장과 기후정책을 분석하고 국가·지역별 기후변화 대응 시나리오까지 제시하는 '탄소 버티컬 AI' 개발이 본격화한다. 기후·에너지 정책 연구 역량에 온톨로지(Ontology)와 지식그래프(Knowledge Graph), 그래프 기반 검색증강생성(GraphRAG) 등 AI 기술을 결합해 탄소 감축·제거 크레딧 분석부터 정책 설계까지 지원하는 것이 목표다. 한국과학기술원(KAIST) 녹색성장지속가능대학원(원장 엄지...]]></description>
 		</item>
 	</channel>
 </rss>
