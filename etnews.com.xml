@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 02 Nov 2026 11:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 12:30:24 +0900</lastBuildDate>
+		<item>
+			<title>서울시, 청년 AI·데이터 분석으로 소상공인 성장 전략 발굴</title>
+			<link>https://www.etnews.com/20261102000210</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000210</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 02 Nov 2026 11:35:44 +0900</pubDate>
+			<description><![CDATA[서울시와 서울AI재단이 서울신용보증재단과 함께 '2026 AI·빅데이터 기반 소상공인 매출 증대 프로젝트'를 성료했다. 총 97개팀 경쟁에서 본선 평가를 거쳐 소상공인 점포의 현안을 AI와 데이터로 분석해 맞춤형 개선전략을 제시한 우수청년팀 10개 팀을 선정했다. 청년팀은 서울 소재 소상공인 점포를 1대 1로 연결, 실제 점포의 문제를 분석하고 현장에서 활용할 수 있는 전략을 제안했다. 참여 청년팀은 약 3개월간 데이터 분석·AI활용·마케팅 교...]]></description>
+		</item>
 		<item>
 			<title>어빌리티시스템즈, 상포테크놀로지와 총판협약…국내 가상화·HCI 시장 공략</title>
 			<link>https://www.etnews.com/20261102000164</link>
@@ -261,15 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 01 Nov 2026 12:00:00 +0900</pubDate>
 			<description><![CDATA[대학 인공지능(AI) 교육이 지역산업의 문제를 해결하고 지역의 새로운 성장동력을 만드는 역할로 확대되고 있다. 대학별 강점과 지역 특화산업을 결합한 교육을 확대하고 기업의 실제 수요를 교육 과정에 반영해 창업·취업까지 연결해야한다는 제언이 나왔다. 지난 28일 목원대에서 열린 'AI 교육혁신 콜로키움' 3차 간담회에서는 충청권 13개 AI·소프트웨어(SW)중심대학이 지역문제 해결을 위한 지역·특화산업 연계 추진 방향을 논의했다. 참석자들은 대학...]]></description>
-		</item>
-		<item>
-			<title>[오라클 AI 월드 2026] AI 성과 확인한 오라클…한국서도 &apos;업무 속 AI&apos; 확산</title>
-			<link>https://www.etnews.com/20261101000003</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261101000003</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[“지난해에는 인공지능(AI) 시대에 나아갈 방향을 제시했다면, 이번 오라클 AI 월드를 통해 실제로 그 길을 걷고 있다는 점을 가장 크게 느꼈습니다.” 김성하 한국오라클 지사장은 이번 행사를 AI가 기업 업무를 바꾸는 모습을 확인한 자리로 평가하며 이같이 말했다. 김 사장과 나정옥 한국오라클 부사장은 지난달 25일부터 28일까지(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026' 기간 기자단과 만나 행사 주요 발표의 의미와 국내...]]></description>
 		</item>
 	</channel>
 </rss>
