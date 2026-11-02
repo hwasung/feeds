@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 02 Nov 2026 10:30:25 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 11:30:31 +0900</lastBuildDate>
+		<item>
+			<title>어빌리티시스템즈, 상포테크놀로지와 총판협약…국내 가상화·HCI 시장 공략</title>
+			<link>https://www.etnews.com/20261102000164</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000164</guid>
+			<author>조호현</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 02 Nov 2026 10:47:01 +0900</pubDate>
+			<description><![CDATA[어빌리티시스템즈(대표 신재일)가 글로벌 IT 인프라 솔루션 기업 상포테크놀로지와 총판협약을 체결하고 국내 가상화 및 클라우드 인프라 시장 공략에 나선다고 2일 밝혔다. 상포테크놀로지는 HCI, 가상 데스크톱 인프라, 차세대 방화벽 등 다양한 IT 인프라 솔루션을 제공하는 글로벌 기업이다. 협약에 따라 어빌리티시스템즈는 상포의 서버 가상화 솔루션 aSV(하이퍼바이저)와 하이퍼컨버지드 인프라(HCI) 솔루션을 국내 시장에 공급한다. 이를 통해 기존...]]></description>
+		</item>
+		<item>
+			<title>[ET톡] 금융권 해킹, 2차 피해 막아야</title>
+			<link>https://www.etnews.com/20261102000155</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000155</guid>
+			<author>류태웅</author>
+			<category>오피니언</category>
+			<pubDate>Mon, 02 Nov 2026 10:42:53 +0900</pubDate>
+			<description><![CDATA[지난달 1일 신한은행에서 시작된 해킹 사고가 한 달째 이어지며 금융권 전반으로 번지고 있다. KB국민·하나은행에 이어 저축은행과 캐피탈, 최근에는 증권사와 가상자산거래소까지 뚫렸다. 금융위원회에 따르면 지난달 중순까지 16개 금융회사에서 약 10만건의 개인정보가 새 나갔다. 국가안보실은 지난달 28일 긴급점검회의를 열고 2차 피해 차단을 주문했다. 당국은 아직 고객 자금이 빠져나간 사례는 없다고 설명한다. 안심하기는 이르다. 이름과 주소, 연락...]]></description>
+		</item>
+		<item>
+			<title>에스비티글로벌, 한국전력기술 재무회계시스템 고도화 완료</title>
+			<link>https://www.etnews.com/20261102000121</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000121</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 02 Nov 2026 10:22:00 +0900</pubDate>
+			<description><![CDATA[정보기술(IT) 솔루션 전문기업 에스비티글로벌이 한국전력기술의 재무회계관리시스템(iKOER) 고도화 사업을 성공적으로 완료했다고 2일 밝혔다. 이번 사업은 한국전력기술의 기존 전사적자원관리(ERP) 시스템을 최신 버전인 'SAP S/4HANA 2025'로 전환하는 프로젝트다. 에스비티글로벌은 지난 3월부터 약 8개월간 인프라 교체와 SAP 컨설팅, 라이선스 공급 등 사업 전반을 단독 수행했다. 특히 회사 측에 따르면 공공기관 최초로 SAP S/...]]></description>
+		</item>
+		<item>
+			<title>아이엘, 로보월드서 휴머노이드 제조 실증·공연 선보인다</title>
+			<link>https://www.etnews.com/20261102000096</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000096</guid>
+			<author>김명희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 02 Nov 2026 10:07:37 +0900</pubDate>
+			<description><![CDATA[아이엘그룹이 오는 4일부터 7일까지 경기 고양시 킨텍스에서 열리는 '2026 로보월드'에 참가해 휴머노이드 제조 현장 실증 기술과 공연·체험 서비스를 선보인다. 아이엘과 관계사 아이엘로보틱스는 킨텍스 제1전시장 3홀에 공동 부스를 마련하고 산업용 피지컬AI 사업과 휴머노이드 렌탈·판매 사업을 소개한다. 아이엘은 자동차 전장 제조 계열사 아이엘모빌리티의 사출 생산라인을 테스트베드로 활용한 휴머노이드 공정 적용 실증(POC) 현황을 공개한다. 공정...]]></description>
+		</item>
 		<item>
 			<title>LG CNS, 국내 기업 최초 해외 AIDC 구축…인니 교두보로 글로벌 시장 공략</title>
 			<link>https://www.etnews.com/20261102000017</link>
@@ -234,42 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 01 Nov 2026 12:00:00 +0900</pubDate>
 			<description><![CDATA[“지난해에는 인공지능(AI) 시대에 나아갈 방향을 제시했다면, 이번 오라클 AI 월드를 통해 실제로 그 길을 걷고 있다는 점을 가장 크게 느꼈습니다.” 김성하 한국오라클 지사장은 이번 행사를 AI가 기업 업무를 바꾸는 모습을 확인한 자리로 평가하며 이같이 말했다. 김 사장과 나정옥 한국오라클 부사장은 지난달 25일부터 28일까지(현지시간) 미국 라스베이거스에서 열린 '오라클 AI 월드 2026' 기간 기자단과 만나 행사 주요 발표의 의미와 국내...]]></description>
-		</item>
-		<item>
-			<title>[2026 정보과학 인재양성 우수학교·교사 공모전] AI 역량 강화 앞장선 학교 2곳·교사 7명 선정</title>
-			<link>https://www.etnews.com/20261030000361</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000361</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[“신문으로 세상을 읽고 데이터로 문제를 해결하며 모든 교사와 학생이 함께하는 AI 융합교육을 실천했습니다.” 포항 오천고 “기사 분석과 정보 검증에 인공지능(AI) 피드백을 연결해 학생들의 비판적 사고력과 자기표현 역량을 길렀습니다.” 대현중 박정아 교사 “정답 대신 힌트를 주는 AI 챗봇으로 학생들이 스스로 오류를 해결하고 기술이 누구를 위한 것인지 고민하도록 했습니다.” 충현중 송민정 교사 “신문 읽기와 AI 윤리 교육을 선플 활동에 접목해...]]></description>
-		</item>
-		<item>
-			<title>[2026 정보과학 인재양성 우수학교·교사 공모전] 교육부 장관상 등 수상자</title>
-			<link>https://www.etnews.com/20261030000346</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000346</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[2026년 정보과학 인재양성 우수학교·교사 공모전에서 교육부 장관상과 전자신문·더존비즈온·웹케시그룹 대표상 수상자로 선정된 학교·교사의 신문활용교육(NIE)·인공지능(AI) 교육 등 우수 활동내역을 공유한다. ◇교육부 장관상 [학교부문] 포항 오천고 포항 오천고등학교는 전체 교원·전교생이 함께하는 'AI: All In' 교육과정을 운영했다. 농어촌 일반고 교육 여건을 넘어 모든 교사와 학생이 AI를 활용해 사회 문제를 탐구하고 해결하는 방식이다...]]></description>
-		</item>
-		<item>
-			<title>[사설] 피지컬AI로봇 대중화 빨리 가자</title>
-			<link>https://www.etnews.com/20261030000322</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000322</guid>
-			<author>이진호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[인류의 기술 발전사를 돌이켜보면, 새로운 시대의 문을 연 거대한 혁신은 늘 놀이와 학습의 경계를 넘나드는 친숙한 경험을 통해 대중의 삶 속으로 스며들었다. 개인용 컴퓨터(PC)가 처음 보급되던 시절, 대중은 조악한 그래픽의 게임과 간단한 코딩 학습을 즐기며 디지털 시대를 자연스럽게 습득했다. 스마트폰 역시 앱 생태계라는 흥미로운 놀이터를 거쳐 인류의 필수품으로 자리 잡았다. 기술 혁신은 거창한 산업적 선언보다 대중이 직접 만지고, 경험하고, 즐...]]></description>
-		</item>
-		<item>
-			<title>[취업걱정 없는 명품학교] 〈518〉 경복비즈니스고등학교</title>
-			<link>https://www.etnews.com/20261030000174</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000174</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 01 Nov 2026 11:59:00 +0900</pubDate>
-			<description><![CDATA[서울 강서구에 위치한 경복비즈니스고등학교(교장 백상욱)는 바른 인성과 독창적인 전문성을 갖춘 비즈니스 리더를 양성해 온 명문 특성화고다. '지성·덕성·건강'이라는 교훈 아래, 시대를 앞서가는 직업교육을 통해 사회가 필요로 하는 실무형 인재를 배출하며 역사와 전통을 쌓아가고 있다. 경복비즈니스고 교육은 단순히 최첨단 디지털 기술을 가르치는 데 그치지 않는다. 기술을 통해 이웃을 돕고 사회적 가치를 창출하는 '따뜻한 인재'를 육성하는 것이 핵심 철...]]></description>
 		</item>
 	</channel>
 </rss>
