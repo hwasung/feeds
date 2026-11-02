@@ -4,7 +4,15 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Mon, 19 Oct 2026 18:02:47 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2026 08:02:38 +0900</lastBuildDate>
+		<item>
+			<title>“Epoch을 2배로 늘려줘” — 메신저와 LLM Agent로 MLOps Workflow 이어가기</title>
+			<link>https://techblog.samsung.com/blog/article/102</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/102</guid>
+			<author>김현지</author>
+			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/102" alt="">]]></description>
+		</item>
 		<item>
 			<title>JEV의 판정 계약을 사내 LLM에 적용하기</title>
 			<link>https://techblog.samsung.com/blog/article/101</link>
