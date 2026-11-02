@@ -4,7 +4,205 @@
 		<title>지디넷코리아</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>지디넷코리아</description>
-		<lastBuildDate>Mon, 02 Nov 2026 14:31:16 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 15:31:25 +0900</lastBuildDate>
+		<item>
+			<title>우주로 간 토종 NPU, 위성 데이터 처리 수초로 줄였다</title>
+			<link>https://zdnet.co.kr/view/?no=20261102113420</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102113420</guid>
+			<author>전화평 기자</author>
+			<category>모빌린트</category>
+			<category>NPU</category>
+			<category>우주</category>
+			<category>AI</category>
+			<category>데이터</category>
+			<category>제품</category>
+			<category>반도체</category>
+			<category>궤도</category>
+			<category>온보드AI</category>
+			<category>FDIR</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Mon, 02 Nov 2026 15:21:45 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/e54fd6a6357ff3ae03d04bb0779a4e4e.jpg" alt=""><p>"기존 위성은 고용량 로우(Raw) 데이터를 통신 대역폭 제약 속에서 지상국으로 전부 다운링크해야 해 지연이 극심했습니다. 모빌린트 NPU(신경망처리장치) 기반 온보드 AI가 정착되면 위성이 스스로 중요 이벤트를 판단해 연산 결과만 즉시 직송하는 체계로 패러다임이 전면 전환될 것입니다."</p>
+<p><span style="letter-spacing: 0.8px;">박주현 모빌린트 연구기획 본부장은 최근 지디넷코리아와 인터뷰에서 누리호 5차 발사를 통해 우주로 향한 자사 NPU 기술의 차별점을 이같이 강조했다. 데이터 수집부터 분석까지 수일이 걸리던 위성 데이터 처리 과정을 수초 단위로 단축하는 혁신이 핵심이다.</span></p>
+<p><span style="letter-spacing: 0.8px;">모빌린트는 이번 누리호 5차 발사의 부탑재위성(BEE-1012)에 자사 대표 NPU &apos;레귤러스(REGULUS)&apos; 기반 보드 2종을 탑재했다. 국내 기업이 독자 설계한 NPU가 실제 궤도 위성에 탑재돼 우주 공간으로 쏘아올려진 것은 대한민국 AI 반도체 산업 역사상 최초의 사례다. 해당 보드는 우주의약 실증 실험 영상 분석과 온보드 데이터 처리를 전담하게 된다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/02/e54fd6a6357ff3ae03d04bb0779a4e4e.jpg" alt="박주현 모빌린트 연구기획 본부장이 최근 지디넷코리아와 인터뷰에서 누리호 5차 발사를 통해 우주로 향한 자사 NPU 기술의 차별점을 설명하고 있다. (사진=모빌린트)">
+<p>우주 환경은 상용 칩이 구동되기 가장 까다로운 시험대다. 진공 상태 특성상 대류를 통한 방열이 불가능하고, 태양광 및 제한된 배터리에 의존해야 해 엄격한 초저전력 운용이 필수적이다. 특히 우주 방사선으로 인한 비트 반전(SEU) 등 소프트 에러는 반도체 오작동의 주된 원인으로 꼽힌다.</p>
+<p><span style="letter-spacing: 0.8px;">박 본부장은 "방사선을 맞은 순간 1이 0이 되거나 파형이 찌그러지는 현상들이 발생하며, 자칫 위성 전체의 제어에 치명적인 영향을 줄 수도 있다"고 우주 환경의 한계를 설명했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">모빌린트는 레귤러스 칩의 독보적인 전력 대 성능비(TOPS/W)와 시스템 레벨의 동적 전력 관리 알고리즘을 통해 열 제어 부담을 최소화했다. 발사 시 발생하는 물리적 충격에 대비해 러기드(Ruggedized) 내환경 설계를 적용했으며, 우주 궤도 환경에서 고장 감지·진단·복구(FDIR) 기법을 효과적으로 실증하고 연구할 수 있는 구조를 채택했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/08/13/fbf5fc40a0708506cff6cc5a5d5be5f9.jpg" alt="모빌린트의 AI 칩 레귤러스. (사진=모빌린트)">
+<p>러기드 내환경 설계는 극한의 환경(충격, 진동, 고온, 저온, 습기, 먼지 등)에서도 시스템이나 기기가 오작동 없이 안정적으로 작동하도록 제품을 기획하고 제작하는 공학적 설계 기법이다</p>
+<p>그는 "이번 실증 동안 위성으로부터 수신되는 FDIR 연산 및 고장 대응 분석 데이터는 향후 출시될 차세대 우주 전용 NPU 제품 및 시스템 개발에 핵심 자산으로 적극 반영할 계획"이라고 밝혔다.</p>
+<p>모빌린트는 이번 우주 실증을 통해 우주 및 방산 업계에서 가장 중시하는 &apos;스페이스 헤리티지(우주 검증 이력)&apos;를 확보하게 됐다. 보수적인 체계 업체들의 특성상, 실제 극한 환경에서 제대로 작동했는지를 증명하는 이력이 제품 선택의 최우선 기준이 되기 때문이다.</p>
+<p><span style="letter-spacing: 0.8px;">박 본부장은 "우주 궤도는 세상에서 가장 가혹한 엣지 환경"이라며 "우주 실증을 거쳤다는 사실은 모빌린트 NPU의 내환경성과 신뢰성이 최고 수준에 도달했음을 입증하는 강력한 품질 보증 마크"라고 강조했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/02/fad96723690ae601f7568a71a82497be.jpg" alt="박주현 모빌린트 연구기획 본부장이 본지와 인터뷰하는 모습. (사진=모빌린트)">
+<p>이러한 신뢰성은 고도의 안정성을 요구하는 국방 방위산업은 물론 스마트 팩토리, 자율주행 로봇, 드론 등 기존 지상 온디바이스 및 엣지 AI 사업에서도 시너지를 낼 것으로 기대된다. 모빌린트가 단순한 우주 진출 이벤트를 넘어 지상과 우주를 아우르는 전방위적 사업 확장을 구상하는 이유다.</p>
+<p><span style="letter-spacing: 0.8px;">박 본부장은 "이번 궤도 실증 성공을 기점으로 우주 검증 이력을 확보한 국내 유일의 NPU 팹리스로서 국내외 체계종합업체(SI) 및 위성 제조 기업들과의 협력을 대폭 확대할 것"이라며 "지상의 스마트 기기부터 우주 공간의 위성에 이르기까지 인공지능 연산의 핵심 신경망 역할을 담당하는 세계 최고 수준의 온디바이스·엣지 AI 선도 기업으로 도약하겠다"고 포부를 밝혔다.</span></p>]]></description>
+		</item>
+		<item>
+			<title>소아 검체 검사, 성인과 다른데 동일 적용 일괄 인하 문제</title>
+			<link>https://zdnet.co.kr/view/?no=20261102151405</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102151405</guid>
+			<author>조민규 기자</author>
+			<category>소아</category>
+			<category>간호사</category>
+			<category>채혈</category>
+			<category>의료</category>
+			<category>수가</category>
+			<category>건강보험</category>
+			<category>헬스케어</category>
+			<pubDate>Mon, 02 Nov 2026 15:14:05 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/b3464d23700074ca5dbbef80f851d84a.jpg" alt=""><p>“소아의 검사는 시작부터 성인과 다르다는 점이 고려돼야 한다”</p>
+<p>검체 검사의 수가 개편에 대해 의료계가 일률적인 삭감이 아닌, 환자에 따른 검사 차이가 반영돼야 한다는 주장이다.</p>
+<p>대한소아청소년병원협회는 최근 건강보험정책심의위원회가 의결한 검체검사 수가 인하와 관련해 성인과 아이를 동일한 기준으로 보는 것은 소아의료 현장의 검사를 충분히 고려하지 못한 결과로 반드시 개선돼야 한다고 주장했다.</p>
+<p>대한소아청소년병원협회(이하 협회)는 2일 “정부가 내년 1월부터 혈액검사 등 검체검사 수가를 평균 28% 낮춘다고 발표했는데 이는 성인의 전체 검사의 비용과 수익을 기준으로 판단해 연령 구분 없이 같은 비율로 삭감하는 방식”이라며 “소아의 검사는 시작부터 다르다는 점을 감안해야 한다”고 밝혔다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/02/b3464d23700074ca5dbbef80f851d84a.jpg" alt="">
+<p>이어 “세계보건기구 학술지에 실린 연구에서 소아 채혈량을 24시간 안에 전체 혈액량의 1~5%, 8주 동안 10% 이내로 권고함은 물론 혈관이 가늘고 잘 보이지 않아 여러 번 찔러야 하는 경우도 많다”라며 “아이는 몸집이 작아 한 번에 뽑을 수 있는 피의 양에 한계가 있어 두 번, 세 번 찌르지 않기 위해 소아 진료에서는 한 번 채혈할 때 필요한 검사를 한꺼번에 하는 것이 표준”이라고 설명했다.</p>
+<p>또 소아 검사를 위해서는 성인과 달리 최소 2명 이상의 의료 인력이 필요하다고도 주장했다. 협회는 “무서워 몸부림치는 아이, 그만 좀 하라며 눈물을 보이는 부모를 달래는 것도 의료진의 몫이며 소아라서 한 번에 성공하지 못하면 다시 처음부터 시작하기도 한다”라며 “때문에 아이 채혈을 위해서는 간호사 한 명이 혈관을 찾고, 다른 간호사가 아이의 팔과 다리를 붙잡고, 보호자는 우는 아이를 안고 있어야 한다”라고 의료현장의 어려움도 전했다.</p>
+<p>문제는 건강보험에서 이러한 어려움에 대한 별도 보상이 없다는 것이다. 최용재 협회장은 “같은 검사의 수가는 돌이 안 된 아기와 성인이 똑같으며, 채혈하는 행위에 대한 소아 가산도 없을 뿐만 아니라 아이 한 명에게 서너 사람의 손과 시간이 들어가도 검사료는 어른의 혈액을 한 번에 뽑아 기계에 넣는 것과 동일하게 적용되는데도 정부는 인상은 커녕 성인과 똑같은 기준으로 인하 적용할 계획”이라고 지적했다.</p>
+<p>이에 “소아 검체검사는 일률 인하에서 분리해 정부가 밝힌 응급진료에 필수적인 검사는 조정하지 않겠다는 원칙을 소아 급성 감염 진단 검사에도 적용해야 하며 이미 진찰료와 입원료에 있는 소아 가산을 소아 채혈의 난이도와 투입 인력을 반영하는 소아 검체채취 가산을 마련해야 한다”고 요구했다.</p>
+<p>최 회장 “열나는 아이가 세균 감염인지, 탈수가 얼마나 심한지를 한 번의 채혈로 판단해야 하는 진료 특성의 결과이지 과잉검사가 아니다”라며 “어른의 대량·반복 검사를 기준으로 판단한 과보상을 아이에게 같은 비율로 적용하는 것은 맞지 않다”라고 개선의 목소리를 높였다.</p>
+<p>이어 “검사 수가가 들어가는 비용에 못 미치면 병원은 채혈에 붙일 인력을 줄이거나 검사를 외부에 맡길 수밖에 없다”며 “손이 모자라면 채혈 실패가 늘고 그만큼 아이가 더 여러 번 바늘에 찔릴 여지가 매우 크며 원내에서 한 시간 안에 나오던 결과를 다음 날 받게 되면 아픈 아이를 데리고 병원을 다시 찾거나 결과를 기다리지 못하고 대학병원 응급실로 향하는 가족이 늘어난다”라며 이번 인하가 결국 아이들이 받는 진료의 질을 떨어뜨릴 수 있다고 우려했다.</p>
+<p>이와 함께 “정부는 이미 어린이 공공전문진료센터의 불가피한 의료적 손실을 보상하는 제도를 도입해 기존 행위별 보상만으로 소아 진료 기반을 유지하기 어려운 현실에 대응해 왔는데 같은 원칙에서 지역 소아 입원·야간진료를 담당하는 병원급 의료기관에 대해서도 소아 원가와 기능 유지비용을 별도로 평가할 필요가 있다”고 제언했다.</p>]]></description>
+		</item>
+		<item>
+			<title>[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…&quot;올 매출 800억 달성&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261102120713</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102120713</guid>
+			<author>장경윤 기자</author>
+			<category>영광와이케이엠씨</category>
+			<category>반도체</category>
+			<category>디스플레이</category>
+			<category>정밀가공</category>
+			<category>세정</category>
+			<category>부품</category>
+			<category>IPO</category>
+			<category>코스닥</category>
+			<category>표면처리</category>
+			<category>증착</category>
+			<category>노광</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Mon, 02 Nov 2026 15:03:58 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/9baba4f6d5e5e21d888ec054d64b8310.jpg" alt=""><p>영광와이케이엠씨(YKMC)가 반도체 산업 확대에 따른 매출 성장을 자신했다. <span style="letter-spacing: 0.8px;">반도체향 주력 챔버 수를 기존 12종에서 내년 22종으로 확대하는 한편, 초미세 반도체 공정 구현을 위한 고개구율(High-NA) 극자외선(EUV)향 부품도 올해 선행 양산에 돌입했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">장관섭 영광YKMC 대표는 2일 서울 여의도 63빌딩에서 기업공개(IPO) 기자간담회를 열고 "반도체 매출 비중 확대와 고객사 다변화에 힘입어 연 매출은 지난해 516억원에서 올해 800억원 이상을 달성할 것"이라고 말했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/02/9baba4f6d5e5e21d888ec054d64b8310.jpg" alt="장관섭 영광와이케이엠씨 대표가 2일 IPO 기자간담회에서 회사의 핵심 사업 전략을 발표하고 있다(사진=지디넷코리아)">
+<p>영광YKMC는 반도체·디스플레이 제조장비에 필요한 챔버 및 정밀부품을 공급하는 기업이다. 정밀가공과 특수표면처리·초고진공(UHV) 세정·조립 등 일괄 제조 체계를 구축한 것이 특징이다.</p>
+<p><span style="letter-spacing: 0.8px;">영광YKMC의 가장 큰 매출처는 반도체다. 특히 첨단 반도체 공정은 초미세화와 고집적화로 장비 내부의 진공도, 내식성, 청정도 요구가 높아지고 있다. 이에 회사는 5축 복합가공·내플라즈마 아노다이징·무전해니켈도금 등 핵심 기술을 기반으로 글로벌 식각·증착·노광 장비사와 협업해 왔다.</span></p>
+<p><span style="letter-spacing: 0.8px;">장 대표는 "글로벌 1위 식각 장비사와 2012년부터 개발 및 양산을 완료했고, 글로벌 독점 노광 장비사와도 2023년 양산을 진행한 바 있다"며 "디스플레이 핵심 장비사와도 양산을 진행 중"이라고 밝혔다.</span></p>
+<p><span style="letter-spacing: 0.8px;">올해부터는 차세대 반도체 기술인 고개구율(High-NA) 극자외선(EUV) 시장에도 진입했다. High-NA EUV는 주요 반도체 기업들이 향후 1~2년 내 본격적으로 도입할 예정인 노광 기술이다. 1나노미터(nm)대 시스템반도체, 10나노 D램 등 고부가 영역을 타겟으로 한다.</span></p>
+<p><span style="letter-spacing: 0.8px;">장 대표는 "당사는 EUV 및 High-NA EUV 장비에 필요한 핵심 부품을 독점적으로 공급하는 기업"이라며 "덕분에 올 상반기까지 노광향 매출이 39억원을 기록했고, 내년에는 100억원 이상의 매출을 예상한다"고 말했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">챔버 라인 역시 기존 10종에서 신규 12종을 추가해 총 22종을 확보할 계획이다. 이에 따라 반도체 관련 챔버 공급량도 올해 3270대에서 내년 6000대 이상으로 확대될 전망이다.</span></p>
+<p><span style="letter-spacing: 0.8px;">정밀유리 제조장비도 또 하나의 성장 분야다. 영광YKMC는 디스플레이용 유리기판 제조장비의 핵심 공정을 내재화해, 신규 제작과 수리에 일괄 대응하고 있다. 삼성디스플레이와 LG디스플레이는 물론, 중국 고객사의 디스플레이 투자 확대에 따른 수혜가 기대된다.</span></p>
+<p><span style="letter-spacing: 0.8px;">신사업 분야에서는 항공과 에너지 산업으로 기술 적용 범위를 넓힌다. 항공 분야는 AS9100 및 NADCAP 등 품질, 특수공정 인증을 토대로 고신뢰성 표면처리 부품 적용을 확대하고 있다. 고체산화물연료전지 분야에서는 고온 환경에 적용되는 열교환기와 수소공급계 부품 관련 공정 개발 및 사업화를 추진하고 있다.</span></p>
+<p><span style="letter-spacing: 0.8px;">한편 영광YKMC는 이번 상장을 통해 확보하는 자금을 생산거점 확보 및 설비 확충 등에 활용할 예정이다. 2027년 제3공장, 2028년 제4공장 매입 등의 계획을 수립한 상태다.</span></p>
+<p><span style="letter-spacing: 0.8px;">이번 공모주식 수는 총 230만주로, 희망 공고가 범위는 9400~1만1000원이다. 공모예정금액은 약 216억~253억원이다. 코스닥 상장예정일은 이달 16일이다. 주관사는 대신증권이다.</span></p>]]></description>
+		</item>
+		<item>
+			<title>삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과</title>
+			<link>https://zdnet.co.kr/view/?no=20261102110337</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102110337</guid>
+			<author>한정호 기자</author>
+			<category>삼성SDS</category>
+			<category>인공지능</category>
+			<category>AI</category>
+			<category>데이터센터</category>
+			<category>로봇</category>
+			<category>서비스</category>
+			<category>인프라</category>
+			<category>GPU</category>
+			<category>구미</category>
+			<category>컴퓨팅</category>
+			<pubDate>Mon, 02 Nov 2026 15:01:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/19a9f464059c96c8899fd1b3469be452.png" alt=""><p><span style="letter-spacing: 0.8px;">삼성SDS가 경북 구미에 대규모 인공지능(AI) 데이터센터 건립을 본격화하며 AI 인프라 사업 확대에 나선다. 초기 60메가와트(MW) 규모로 구축한 뒤 최대 120MW까지 확장해 고성능 그래픽처리장치(GPU) 수요에 대응하고 제조·로봇 산업 AI 전환(AX)을 지원한다는 전략이다.</span></p>
+<p>삼성SDS는 경북 구미시 공단동에 AI 전용 데이터센터인 &apos;구미 AI 데이터센터&apos;를 착공하고 본격적인 건립에 나선다고 2일 밝혔다.</p>
+<p>구미 AI 데이터센터는 약 1만 4000평 부지에 초기 전력 용량 60MW 규모로 조성된다. 향후 AI 수요 증가에 따라 최대 120MW까지 단계적으로 확장할 수 있도록 설계됐으며 오는 2028년 말 준공 예정이다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/02/19a9f464059c96c8899fd1b3469be452.png" alt="구미 AI 데이터센터 조감도 (이미지=삼성SDS)">
+<p><span style="letter-spacing: 0.8px;">삼성SDS는 지난 8월 말 구미시로부터 착공 승인을 받아 현재 공사를 진행 중이다. 앞서 지난 1월에는 구미 AI 데이터센터 신규 건립을 위해 4273억원을 투자한다고 공시하고 경상북도·구미시와 데이터센터 건립을 위한 양해각서(MOU)를 체결했다.</span></p>
+<p>이번 착공은 삼성이 지난 7월 발표한 영남권 60조원 투자 계획의 첫 가시적 성과다. 삼성은 당시 경남 진주시 경상국립대에서 열린 &apos;영남권 첨단산업 발전비전 국민보고회&apos;에서 영남 지역을 글로벌 피지컬 AI 혁신 클러스터로 조성하겠다는 계획을 발표했다.</p>
+<p>주요 투자 분야는 구미 휴머노이드 로봇·AI 데이터센터, 울산 전고체 배터리, 부산 AI 서버용 패키지 기판·적층세라믹커패시터(MLCC), 거제 고부가가치 선박 등이다. 삼성SDS는 구미 AI 데이터센터를 통해 국가 AI 경쟁력 강화와 지역 첨단산업 생태계 확충에도 기여할 계획이다.</p>
+<p>데이터센터에는 고성능 GPU 서버 운영을 위한 대용량 전력·냉각 인프라가 구축된다. 삼성SDS는 30년간 축적한 데이터센터 구축·운영 경험을 바탕으로 다양한 AI 시스템을 수용할 수 있는 하이퍼스케일 인프라를 조성한다는 목표다.</p>
+<p>특히 GPU 서버에서 발생하는 높은 열을 효율적으로 처리하기 위해 공냉식과 수냉식을 결합한 하이브리드 냉각 기술을 적용한다. 네트워크와 스토리지 등 발열이 상대적으로 낮은 일반 서버에는 공냉식을, 고밀도 GPU 서버에는 물을 순환시켜 열을 식히는 수냉식을 적용하는 방식이다.</p>
+<p>전력 인프라도 고밀도 GPU 환경에 맞춰 설계한다. 대용량 전력 공급 체계와 주요 설비 이중화, 비상전원 시스템을 구축해 안정적인 운영을 지원하고 향후 초고전력 랙까지 수용할 수 있도록 확장성을 확보할 계획이다.</p>
+<p>삼성SDS는 구미 AI 데이터센터를 기반으로 자체 GPU를 구축·운영하는 서비스와 고객이 직접 GPU를 설치해 활용하는 코로케이션 사업을 함께 추진한다. 특정 GPU나 서비스에 제한되지 않는 인프라를 제공해 외부 기업 고객의 다양한 AI 수요에 대응할 방침이다.</p>
+<p>삼성 관계사들의 제조·로봇 사업에도 활용된다. 특히 제조 현장에 로봇 기술을 적용하는 로보틱스 전환(RX) 사업과 연계해 정밀 작업 로봇의 AI 학습 등 대규모 연산이 필요한 분야를 지원할 예정이다.</p>
+<p>삼성SDS는 이를 통해 AI 인프라 공급뿐 아니라 클라우드와 AI 플랫폼·서비스를 결합한 사업 역량을 강화할 계획이다. 구미 AI 데이터센터를 차세대 제조·산업 AX를 지원하는 핵심 인프라로 활용한다는 구상이다.</p>
+<p>이준희 삼성SDS 대표는 "그동안 축적해온 데이터센터 구축·운영 경험과 클라우드, AI 기술 역량을 모아 고객이 믿고 이용할 수 있는 AI 인프라를 만들겠다"며 "지역경제와 산업 생태계 발전에 기여하도록 책임과 역할을 다함은 물론 차세대 AI 인프라를 바탕으로 제조·산업 현장 AX 혁신을 이끌고 고객에게 최적의 AI 풀스택 서비스를 제공하겠다"고 밝혔다.</p>]]></description>
+		</item>
+		<item>
+			<title>장덕현 삼성전기 사장 &quot;AI 산업은 이제 1월 1일...유례없는 성장 기회&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261102135621</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102135621</guid>
+			<author>진운용 기자</author>
+			<category>장덕현</category>
+			<category>삼성전기</category>
+			<category>MLCC</category>
+			<category>반도체</category>
+			<category>기판</category>
+			<category>AI</category>
+			<category>데이터센터</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Mon, 02 Nov 2026 15:00:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/03/18/78c2c1f1d1c7459fe788f1205c7bc4ad.jpg" alt=""><p>장덕현 삼성전기 사장이 "현재 인공지능(AI) 산업은 1월 1일에 불과하다"며 "유례없는 성장 기회가 주어졌다"고 말했다.</p>
+<p><span style="letter-spacing: 0.8px;">그는 2일 수원사업장에서 열린 삼성전기 창립 53주년 기념식에서 "AI 서버와 데이터센터의 확장에 따라 핵심 부품의 수요와 기술적 난도가 급증하고 있다"며 "적층세라믹캐패시터(MLCC)와 패키지기판 등 우리의 주력 사업 전반에 걸쳐 대형 성장 기회가 왔다"고 진단했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/02/8c4da272636125d6da8329761df7a98c.jpg" alt="2일 삼성전기 장덕현 사장이 창립 53주년 기념식에서 기념사를 하고 있다. (사진=삼성전기)">
+<p><span style="letter-spacing: 0.8px;">그러면서 "삼성전기는 글로벌 파트너십, 독보적인 제품 포트폴리오, 검증된 생산능력을 갖춘 만큼 앞으로 핵심은 &apos;실행&apos;"이라며 "개발, 생산, 품질, 안전환경 등 전 영역에서 실행력을 발휘해 주어진 기회를 성과로 증명하자"고 강조했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">이날 기념식에는 장 사장을 비롯한 경영진과 임직원들이 참석했다. 세종·부산 등 국내외 전 사업장 임직원들은 사내 방송망을 통해 실시간으로 행사를 관람했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">기념식은 시상식과 최고경영자(CEO) 기념사 순으로 진행됐다. 시상식에서는 장기근속상과 함께 &apos;사내 AI 해커톤&apos; 수상팀에 대한 시상이 이뤄졌다. 사내 AI 해커톤은 임직원의 AI 역량을 높이고 업무 혁신을 이끌기 위해 최근 열린 행사다. 수상자들은 제조 공정 최적화와 업무 자동화 등 실무 활용도가 높은 혁신 과제를 발굴했다.</span></p>]]></description>
+		</item>
+		<item>
+			<title>[AI 리더스] 줌 &quot;회의 넘어 업무하는 AI…흩어진 데이터 통합 관건&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261102145426</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102145426</guid>
+			<author>김미정 기자</author>
+			<category>줌</category>
+			<category>AI</category>
+			<category>인공지능</category>
+			<category>Zoom</category>
+			<category>데이터</category>
+			<category>플랫폼</category>
+			<category>회의</category>
+			<category>구글</category>
+			<category>컴퓨팅</category>
+			<category>인터뷰</category>
+			<pubDate>Mon, 02 Nov 2026 14:57:30 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/1467e80cfbfbafc2e611ede782f46920.jpg" alt=""><p>"인공지능(AI)이 실제 업무를 처리하려면 먼저 필요한 정보를 정확하게 이해해야 합니다. 우리가 기업 여러 시스템에 흩어진 정보를 연결하는 &apos;통합 컨텍스트 계층(Unified Context Layer)&apos; 구축에 힘쓰는 이유입니다."</p>
+<p>벨챠미 샨카르링암 줌 제품·엔지니어링 부문 사장은 최근 미국에서 열린 한국 기자단 인터뷰에서 AI 사업의 핵심 기술 과제를 이같이 밝혔다. AI가 회의 내용을 요약하거나 질문에 답하는 수준을 넘어 실제 업무를 수행하려면 기업 내부 정보를 정확하게 파악하는 기술이 우선돼야 한다는 설명이다.</p>
+<p>샨카르링암 사장은 AI가 업무를 처리하는 과정에서 중요한 것은 모델 성능뿐 아니라 참고하는 정보의 정확성이라고 강조했다. 아무리 성능이 뛰어난 AI 모델이라도 기업 업무 상황을 제대로 이해하지 못하면 잘못된 결과를 내놓을 수 있다는 판단에서다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/02/1467e80cfbfbafc2e611ede782f46920.jpg" alt="벨챠미 샨카르링암 줌 제품·엔지니어링 부문 사장이 통합 컨텍스트 레이어에 중요성을 언급했다. (사진=지디넷코리아 DB)">
+<p>그는 "통합 컨텍스트 계층은 AI가 판단을 내리는 핵심 기반"이라며 "이 계층이 정확하지 않다면 업무를 완료하는 다음 단계로 넘어가선 안 된다"고 강조했다. </p>
+<p>현재 줌이 구축하는 통합 컨텍스트 계층은 회의와 전화, 채팅에서 발생하는 대화 내용을 기업 문서와 업무 시스템의 정보에 연결하는 기술이다. AI가 여러 곳에 흩어진 정보를 함께 활용해 업무 상황을 파악하도록 지원하는 식으로 작동한다. </p>
+<p>예를 들어 영업 담당자가 고객과의 회의에서 계약 조건을 변경하면 AI는 회의 내용과 기존 계약서, 고객관리 시스템의 정보를 함께 분석한다. 이를 바탕으로 변경 사항을 정리하고 관련 문서를 작성할 수 있다.</p>
+<p>기존에는 직원이 회의록과 계약서, 고객 정보를 각각 확인해야 했다. 줌은 통합 컨텍스트 레이어를 통해 이런 과정을 줄이고 AI가 필요한 정보를 찾아 후속 업무까지 처리하도록 지원할 방침이다.</p>
+<p><span style="letter-spacing: 0.8px;">샨카르링암 사장은 기업의 중요한 정보가 문서에만 존재하지 않는다는 점에 주목했다. 주요 의사결정이 회의나 전화에서 이뤄지더라도 해당 내용이 문서에 모두 반영되는 것은 아니라는 설명이다.</span></p>
+<p>그는 "대부분의 중요한 결정과 논의는 대화에서 이뤄진다"며 "문서는 정보의 한 가지 출처지만 의사결정에 필요한 핵심 정보는 대화에 있다"고 강조했다.</p>
+<p><span style="letter-spacing: 0.8px;">그러면서 "우리는 회의 서비스로 시작했지만 이후 전화와 컨택센터, 매출 관리 제품 등으로 사업을 확대했다"며 "이제는 여러 서비스에서 발생한 정보를 활용해 이용자가 실제 업무를 완료하도록 지원하는 플랫폼을 지향하고 있다"고 설명했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/02/9567be0c42c599bc4b1ff4fc7902c571.jpg" alt="샨카르링암 사장은 AI가 기업 정보를 활용하는 범위가 넓어지면서 데이터 정확성과 보안도 중요한 과제로 떠오르고 있다고 봤다. (사진=지디넷코리아 DB)">
+<p>샨카르링암 사장은 AI가 기업 정보를 활용하는 범위가 넓어지면서 데이터 정확성과 보안도 중요한 과제로 떠오르고 있다고 봤다. 서로 다른 시스템에 저장된 정보가 일치하지 않거나 오래된 자료가 남아 있다면 AI가 잘못된 내용을 참고할 수 있어서다.</p>
+<p>줌은 기업이 AI 기능을 도입할 때 정보 접근 권한과 사용 범위를 관리할 수 있도록 보안 기능도 강화하고 있다. 기업은 정보 민감도에 따라 접근 범위를 설정하고, AI 에이전트의 활동을 중앙에서 관리할 수 있다.</p>
+<p>샨카르링암 사장은 AI 기술이 발전할수록 모델 성능뿐 아니라 실제 서비스 품질을 평가하는 일도 중요해지고 있다고 설명했다. 특히 회의 요약처럼 정답이 명확하지 않은 작업은 새로운 AI 모델이 이전보다 더 좋은 결과를 제공하는지 판단하기 어렵다는 설명이다.</p>
+<p>그는 "새로운 AI 모델이나 기능을 출시할 때마다 기존보다 실제로 나아졌는지 확인해야 한다"며 "다양한 조건에서 결과를 비교해 성능이 저하되지 않도록 평가 체계를 개선하고 있다"고 밝혔다.</p>
+<p>줌은 이러한 정보 통합과 품질 검증을 기반으로 AI가 실제 업무를 수행하는 범위를 확대할 계획이다. 개발자가 줌의 AI 기능을 다른 서비스에 연결할 수 있도록 API와 모델 컨텍스트 프로토콜(MCP) 등 외부 연동 방식도 지원하고 있다.</p>
+<p>샨카르링암 사장은 "AI를 활용하는 방식은 고객마다 다르기 때문에 줌 내부뿐 아니라 외부 환경에서도 서비스를 사용할 수 있도록 지원하고 있다"며 "정확한 업무 맥락을 기반으로 대화에서 실제 업무 완료까지 연결하는 것이 목표"라고 강조했다.</p>]]></description>
+		</item>
+		<item>
+			<title>사명바꾼 &apos;교보SBI저축은행&apos;, 디지털 혁신 전면 강조</title>
+			<link>https://zdnet.co.kr/view/?no=20261102115919</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102115919</guid>
+			<author>손희연 기자</author>
+			<category>금융</category>
+			<category>저축은행</category>
+			<category>SBI저축은행</category>
+			<category>교보SBI저축은행</category>
+			<category>금융</category>
+			<pubDate>Mon, 02 Nov 2026 14:32:34 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/4fa933dbba5411d6f8664ce46bde6a8c.jpg" alt=""><p>교보생명그룹에 안긴 SBI저축은행이 ‘교보SBI저축은행’으로 사명을 변경했다.</p>
+<p>SBI저축은행이 ‘교보SBI저축은행’으로 사명을 변경하고 11월 1일부터 새로운 출범을 알렸다고 2일 밝혔다.</p>
+<p>교보SBI저축은행은 지난 10월 30일, 서울 종로구 광화문 교보생명빌딩에서 사명 변경 선포식을 개최했다. 이날 행사에는 교보SBI저축은행 임직원 및 주요 외빈 등 약 300여 명이 참석해 회사의 새로운 출발을 축하하고 미래 비전을 공유했다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/02/4fa933dbba5411d6f8664ce46bde6a8c.jpg" alt="SBI저축은행이 지난 10월 30일 사명 변경 선포식을 개최하고, 교보SBI저축은행으로 새출발한다. (사진=교보SBI저축은행)">
+<p>김문석 교보SBI저축은행 대표는 회사의 미래 성장동력으로 ‘디지털 혁신’과 ‘고객 신뢰’를 강조했다.</p>
+<p><span style="letter-spacing: 0.8px;">김 대표는 “기존 SBI가 입증해 온 디지털 혁신 DNA와 금융 기술력에 교보생명이 축적해 온 진정성과 신뢰의 가치를 하나로 결합할 것”이라며 “차별화된 디지털 혁신을 바탕으로 고객이 가장 먼저 찾는 대한민국 선도 디지털 금융회사로 거듭나겠다”고 말했다.</span></p>
+<p>이어 그는 “저축은행 본연의 역할인 서민과 중소기업 지원이라는 본질적 가치를 확고히 지키는 한편, 첨단 디지털 기술을 활용한 혁신적 도전으로 가파르게 변하는 금융 트렌드를 주도하겠다”고 덧붙였다.</p>
+<p><span style="letter-spacing: 0.8px;">한편, 교보SBI저축은행은 이번 사명 변경 및 공식 출범을 맞아 대규모 고객 사은 행사에 나선다. 서울 광화문, 을지로 등 주요 도심을 포함한 전국 영업점 인근에서 길거리 홍보 캠페인을 전개하고, 고금리 정기적금 특판 등 디지털 혁신 금융 서비스를 포함한 다채로운 혜택의 이벤트를 적극적으로 펼칠 계획이다.</span></p>]]></description>
+		</item>
 		<item>
 			<title>일반 안경 대신 AI 안경…구매 전 따져볼 &apos;현실적 한계&apos;</title>
 			<link>https://zdnet.co.kr/view/?no=20261102110705</link>
@@ -162,7 +360,7 @@
 			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/689bdcd692337fc01f8fcba9ad6f827e.jpg" alt=""><p><span style="letter-spacing: 0.8px;">드론이 감시·정찰부터 타격까지 현대전의 핵심 전력으로 부상하면서 국내 IT기업에도 새로운 기회가 열리고 있다. 통신·카메라·제어 소프트웨어(SW) 등 국내 기술을 활용해 군용 드론을 국산화하고, 군 수요를 기반으로 수출 경쟁력을 확보해야 한다는 제언이다.</span></p>
 <p>2일 <span style="letter-spacing: 0.8px;">김병규 성균관대 교수는 지디넷코리아와의 인터뷰에서 해외 부품 의존에 따른 보안 우려와 전시 공급망 위험을 지적하며 군용 드론 국산화를 강조했다. </span></p>
 <p><span style="letter-spacing: 0.8px;">국내 기업이 보유한 기술을 군 요구에 맞게 발전시키려면 방산업체와 민간 기술기업의 협력이 필요하다는 설명이다.</span></p>
-<iframe width="720" src="https://www.youtube.com/embed/cTjZVHEfTKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="720" src="https://www.youtube.com/embed/iqqEC_p3gJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <iframe width="720" src="https://clip-viewer.naver.com/oembed/?seedMediaId=4CE36D7A0D36CF95709B64038139B1DA06D8&mediaType=LONG_FORM&serviceType=CLIP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p>김 교수는 "전쟁이 일어났을 때 외국 부품에 의존하고 있는 무기는 그 부품들이 조달되지 않으면 군에 납품할 수 없는 상황이 돼버린다"고 말했다.</p>
 <p>그는 중국산 부품 사용을 경계해야 하는 이유로 정보 유출 가능성과 부품 수급 문제를 함께 꼽았다. 드론은 카메라로 영상을 수집하고 통신 모듈을 통해 정보를 주고받는 만큼 부품과 소프트웨어의 신뢰성이 중요하다는 취지다. 전시에 해외 부품 공급이 끊기면 필요한 드론을 제때 생산·보급하기 어렵다는 점도 국산화의 이유로 제시했다.</p>
@@ -177,8 +375,7 @@
 <p>민간 기술을 군에 적용하는 속도도 높여야 한다고 강조했다. 김 교수는 기존 무기체계가 소요 결정부터 개발·구매를 거쳐 군에 공급되기까지 짧게는 5년, 길게는 10~15년이 걸렸다고 설명했다. 기술 변화가 빠른 드론에 같은 절차를 적용하면 배치 시점에는 이미 구형이 될 수 있다는 지적이다.</p>
 <p>그는 민간 드론을 간단히 개조해 신속하게 활용하는 방식과 군 전용으로 개발해 충분한 시험평가를 거치는 방식을 병행해야 한다고 제안했다. 임무와 요구 성능에 따라 도입 경로를 달리하면서 군에서 안정적으로 사용할 수 있는지 검증해야 한다는 취지다.</p>
 <p>김 교수는 국내 군 수요에 대응하며 확보한 기술과 경험을 수출로 연결할 수 있다고 전망했다. 이를 위해 방산업체를 중심으로 우수한 민간 기업과 협력해 군용 드론을 개발해야 한다고 강조했다.</p>
-<p>그는 "충분히 노력한다면 우리가 특화해서 100% 국산화할 수 있고 군에서 사용하는 모든 드론은 우리나라에서 만들 수 있다"며 "그런 노력을 통해서 수출까지 된다면 전 세계적으로 군사용 소요가 얼마나 많겠느냐. 아주 좋은 기회가 될 거라고 생각한다"고 말했다.</p>
-<iframe width="720" src="https://www.youtube.com/embed/cTjZVHEfTKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></description>
+<p>그는 "충분히 노력한다면 우리가 특화해서 100% 국산화할 수 있고 군에서 사용하는 모든 드론은 우리나라에서 만들 수 있다"며 "그런 노력을 통해서 수출까지 된다면 전 세계적으로 군사용 소요가 얼마나 많겠느냐. 아주 좋은 기회가 될 거라고 생각한다"고 말했다.</p>]]></description>
 		</item>
 		<item>
 			<title>[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수</title>
@@ -532,18 +729,18 @@
 <p><span style="letter-spacing: 0.8px;">이번 실습은 아주대병원 국산 의료기기 교육훈련 지원센터 지원 사업의 일환이다. 이치원 메디인테크 대표는 "새 의료기기가 안착하려면 의료진의 직접 체험이 필수적"이라며 "현장 의견을 반영해 기술 고도화에 힘쓰겠다"고 말했다.</span></p>]]></description>
 		</item>
 		<item>
-			<title>코아시아세미, HPC향 4나노 빅다이 칩 양산 출하</title>
+			<title>코아시아세미, 삼성 파운드 4나노 빅다이 칩 양산 출하</title>
 			<link>https://zdnet.co.kr/view/?no=20261102093253</link>
 			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102093253</guid>
 			<author>전화평 기자</author>
 			<category>삼성전자</category>
-			<category>파운드리</category>
-			<category>AI</category>
-			<category>반도체</category>
 			<category>디자인하우스</category>
+			<category>파운드리</category>
 			<category>HPC</category>
 			<category>코아시아세미</category>
 			<category>DSP</category>
+			<category>AI</category>
+			<category>반도체</category>
 			<category>빅다이</category>
 			<category>웨이퍼</category>
 			<category>4나노</category>
@@ -610,167 +807,6 @@
 <p>오늘의 기사가 여러분에게 새로운 시각을 전해드렸기를 바랍니다. 지금까지 AMEET 기자였습니다.</p>
 <p>▶ 해당 보고서 보기 <a href="https://ameet.zdnet.co.kr/uploads/dcfd1378.html" target="_blank"></a><a target="_blank" href="https://ameet.zdnet.co.kr/uploads/7585004d.html" class="link">https://ameet.zdnet.co.kr/uploads/7585004d.html</a></p>
 <p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;애플, 내년 상반기 아이패드 3종 출시…에어도 OLED 탑재&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261102084456</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102084456</guid>
-			<author>이정현 미디어연구소</author>
-			<category>애플</category>
-			<category>아이패드에어</category>
-			<category>아이패드프로</category>
-			<category>아이패드12</category>
-			<category>홈/모바일</category>
-			<pubDate>Mon, 02 Nov 2026 12:37:06 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/27/4eb0f82e7359e09000f35ee1f1d3aabb.png" alt=""><p>최근 OLED 아이패드 미니를 내놓은 애플이 내년 상반기 새로운 아이패드 3종을 출시할 계획이라고 블룸버그통신이 1일(현지시간) 보도했다.</p>
-<p>블룸버그의 마크 거먼은 파워온 뉴스레터를 통해 애플이 내년 상반기 신형 아이패드 에어와 아이패드 프로, 보급형 아이패드 모델을 선보일 계획이라고 밝혔다.</p>
-<img src="https://image.zdnet.co.kr/2026/10/27/4eb0f82e7359e09000f35ee1f1d3aabb.png" alt="2026년형 OLED 아이패드 미니(사진=애플)">
-<p>거먼에 따르면 차세대 아이패드 에어에는 OLED 디스플레이가 탑재될 전망이다. 차기 아이패드 프로에는 발열을 효과적으로 분산시켜 장시간 고성능을 유지할 수 있도록 돕는 베이퍼 챔버 냉각 시스템이 적용될 것으로 예상된다.</p>
-<p>칩셋도 업그레이드될 전망이다. 신형 아이패드 에어에는 M5 칩이, 아이패드 프로에는 M6 칩이 각각 탑재될 것으로 보인다.</p>
-<p>보급형 모델인 아이패드 12세대에는 애플 인텔리전스를 지원하는 A19 칩이 적용될 것으로 예상된다. 여기에 와이파이 7을 지원하는 N1 칩과 셀룰러 모델에는 애플 자체 개발 C1X 모뎀도 탑재될 전망이다.</p>
-<p>거먼은 “출시 일정이 연기되지 않는 한 2027년 하반기에는 아이패드 제품군에 큰 변화가 없을 것”이라고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>ST마이크로, &apos;가속도·자이로 센서 통합&apos; 차량 센서 출시</title>
-			<link>https://zdnet.co.kr/view/?no=20261102115904</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102115904</guid>
-			<author>이기종 기자</author>
-			<category>ST마이크로</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Mon, 02 Nov 2026 11:59:04 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/9c88c6a1343b877fa8df2352a51335ac.png" alt=""><p><span style="letter-spacing: 0.8px;">ST마이크로일렉트로닉스(ST마이크로)가 다축 가속도 센서와 자이로스코프(각속도 센서)를 통합한 차량 센서를 출시했다고 2일 밝혔다. </span><span style="letter-spacing: 0.8px;">신제품은 ST마이크로가 올해 초 NXP로부터 차량·산업용 미세전자기계시스템(MEMS) 센서 사업을 </span><span style="letter-spacing: 0.8px;">인수한 뒤 </span><span style="letter-spacing: 0.8px;">대중 시장에 처음 선보이는 제품이다. </span></p>
-<p>ST마이크로는 "다축 가속도 센서와 자이로스코프를 단일 패키지로 결합해 완성차 업체(OEM)와 티어-1 부품업체에 필요한 품질, 신뢰성, 안전요건을 충족하는 능동·수동 안전 시스템 구현을 위한 통합 플랫폼을 제공한다"고 설명했다. 신제품은 충돌 보호, 전복 감지, 에어백 전개, 차량 자세 제어, 레이더 빔 안정화 등 사례에 대응한다. </p>
-<img src="https://image.zdnet.co.kr/2026/11/02/9c88c6a1343b877fa8df2352a51335ac.png" alt="(사진=ST마이크로)">
-<p><span style="letter-spacing: 0.8px;">시장조사업체 옴디아는 첨단운전자보조시스템(ADAS) 성장으로 </span><span style="letter-spacing: 0.8px;">관성측정장치(IMU) 시장이 2025년부터 2030년까지 연평균 17.7% 성장할 </span><span style="letter-spacing: 0.8px;">것이라고 전망했다. 동시에 완성차 업체가 더 높은 수준의 자율주행 기술을 적용하면서 </span><span style="letter-spacing: 0.8px;">가속도와 모션 감지를 위한 IMU 기반 MEMS 센서 수요가 증가할 것이라고 덧붙였다. </span></p>
-<p>시모네 페리 ST마이크로 수석부사장 겸 MEMS 서브그룹 사업본부장은 "통합 센서는 다양한 안전 기능에 적합하고, 시스템 아키텍처를 간소화한다"며 "기능과 성능 확장 유연성도 높다"고 밝혔다. 이어 "장기 제품 공급 보증·글로벌 지원 인프라를 기반으로 대중 시장에 도입 가능한 최초의 차량 안전 통합 센서를 제공해 능동 안전 시스템 전환을 가속하겠다"고 기대했다. </p>]]></description>
-		</item>
-		<item>
-			<title>[2보] 포스코DX, 3분기 영업익 22% 감소…AI·자동화 사업으로 반등 모색</title>
-			<link>https://zdnet.co.kr/view/?no=20261102115226</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102115226</guid>
-			<author>한정호 기자</author>
-			<category>인공지능</category>
-			<category>AI</category>
-			<category>포스코DX</category>
-			<category>자동화</category>
-			<category>인프라</category>
-			<category>그룹</category>
-			<category>포스코</category>
-			<category>수주</category>
-			<category>컴퓨팅</category>
-			<pubDate>Mon, 02 Nov 2026 11:54:34 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/07/29/f82b630e6e42cd3a8ed38a5f7b0de1f2.jpg" alt=""><p><span style="letter-spacing: 0.8px;">포스코DX가 올해 3분기 매출 성장에도 영업이익이 전년 동기 대비 감소하며 부진한 성적표를 받았다. 대형 디지털 전환(DX) 사업 본격화와 인공지능(AI)·자동화 사업 확대를 통해 수익성 회복에 속도를 낸다는 목표다.</span></p>
-<p>포스코DX는 올해 3분기 연결 기준 매출 2652억원, 영업이익 169억원을 기록했다고 2일 공시했다. 전년 동기 대비 매출은 8.4% 증가했지만 영업이익은 22.2% 감소했다.</p>
-<p>전 분기와 비교하면 매출은 14.0%, 영업이익은 71.0% 증가했다. 영업이익률도 2분기 4.2%에서 3분기 6.4%로 2.2%포인트 개선됐다.</p>
-<img src="https://image.zdnet.co.kr/2026/07/29/f82b630e6e42cd3a8ed38a5f7b0de1f2.jpg" alt="제철소 창고에 적용된 무인크레인이 제품 이송을 위해 자동 상차하고 있다. (사진=포스코DX)">
-<p><span style="letter-spacing: 0.8px;">같은 기간 당기순이익은 159억원으로 전년 동기 대비 9.3% 감소했다. 세전이익은 196억원으로 16.9% 줄었다.</span></p>
-<p>신규 수주는 2469억원으로 전년 동기 대비 32.7% 증가했다. 3분기 말 수주잔고는 약 9400억원을 기록했다.</p>
-<p>사업 부문별로는 자동화(EIC) 부문 매출이 1380억원으로 전년 동기 대비 7.0% 증가했다. 전 분기와 비교하면 약 8% 늘었다.</p>
-<p>자동화 부문 수주는 1844억원으로 전년 동기 대비 약 49% 증가했다. 광양제철소 8CGL 신설 라인 수주와 로봇·무인화 사업 확대가 실적을 뒷받침했다.</p>
-<p>포스코DX는 철강 현장에서 검증한 피지컬 인공지능(AI) 기술을 포스코 그룹사로 확산 중이다. 철강 AI·스마트 자동화 수요 증가와 로봇 자동화 기술 확대가 신규 수주로 이어진 것으로 나타났다.</p>
-<p>IT 부문 매출은 1219억원으로 전년 동기 대비 11.0% 증가했다. 전 분기 대비로는 24% 늘었으며 영업이익률도 4.0%에서 10.0%로 개선됐다.</p>
-<p>IT 부문 수주는 561억원으로 전년 동기 대비 약 2% 감소했다. 다만 그룹사 통합 AI 인프라 증설과 검수 자동화 플랫폼 고도화 등 신규 사업을 확보하며 AI 인프라·플랫폼 분야 수주를 확대했다.</p>
-<p>포스코DX는 안정적인 IT 운영 사업을 기반으로 포스코 그룹 대형 DX 프로젝트 매출을 확대한다는 방침이다. 이를 통해 그룹사 AI 인프라와 플랫폼 구축을 지원하고 AI 전환(AX)에 속도를 낼 계획이다.</p>
-<p>포스코DX 측은 "철강 AI·스마트 자동화 수요 확대와 로봇 자동화 기술의 그룹사 확산으로 3분기 수주와 매출이 전년 동기 및 전 분기 대비 증가했다"며 "그룹 대형 DX 프로젝트 매출 본격화와 AI 인프라·플랫폼 분야 수주 확대로 그룹사 AX를 가속화하겠다"고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>ADI·이노배트, AI 데이터센터용 지능형 배터리 저장 플랫폼 공동 개발</title>
-			<link>https://zdnet.co.kr/view/?no=20261102095838</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102095838</guid>
-			<author>장경윤 기자</author>
-			<category>ADI</category>
-			<category>이노배트</category>
-			<category>AI</category>
-			<category>배터리</category>
-			<category>에너지</category>
-			<category>LFP</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Mon, 02 Nov 2026 11:36:26 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/c36db2e62ac5ae2396c981b7089d002d.jpg" alt=""><p>아나로그디바이스 유럽의 배터리 제조회사 이노배트(InoBat)는 지능형 배터리 에너지 저장 시스템(BESS) 플랫폼인 &apos;i-Power+&apos;의 공동 개발을 모색하기 위한 양해각서(MOU)를 체결했다고 2일 밝혔다.</p>
-<p><span style="letter-spacing: 0.8px;">양사는 아일랜드 리머릭에 위치한 ADI의 최첨단 혁신 액셀러레이터인 ADI 카탈리스트(ADI Catalyst)에서 파일럿 작업을 통해 협력을 시작할 예정이다. </span><span style="letter-spacing: 0.8px;">ADI 카탈리스트는 고객, 비즈니스 파트너, 공급업체가 ADI 전문가들과 협력해 업계 선도적인 솔루션을 신속하게 개발, 테스트 및 실증할 수 있도록 조성한 시설이다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/11/02/c36db2e62ac5ae2396c981b7089d002d.jpg" alt="ADI와 이노배트 주요 경영진들이 MOU 기념사진을 촬영하고 있다(사진=ADI)">
-<p><span style="letter-spacing: 0.8px;">파일럿 단계에서 이노배트와 ADI는 i-Power+의 시스템 아키텍처를 정의하고, 공동 개발 파트너 및 주요 공급사를 선정하며, 지능형 LFP BESS 플랫폼의 시제품을 제공할 계획이다.</span></p>
-<p>시제품은 배터리 셀과 배터리 관리 장치(BMU) 간의 배선을 없앤 무선 배터리 관리 시스템(wBMS)과 함께, 배터리 수명을 연장하고 배터리 상태(SOH) 및 충전 상태(SOC)의 정확도를 향상하도록 설계된 전기화학 임피던스 분광법(EIS) 기반 진단 및 이상 감지 알고리즘을 통합할 예정이다.</p>
-<p>이와 함께 양사는 이번 협력의 추가 목표로, 나트륨 이온(sodium-ion) BESS 기술에 지능형 아키텍처를 적용하는 방안도 추진하고 있다. 이는 셀 수준의 전압, 온도 및 EIS 해상도와 함께, 나트륨 이온에 특화된 열화 감지를 위한 첨단 진단 기능을 제공하도록 설계된다.</p>
-<p>마리안 보체크 이노배트 공동 설립자 겸 CEO는 <span style="letter-spacing: 0.8px;">"AI 데이터센터와 하이퍼스케일 컴퓨팅은 전례 없는 수준의 속도, 지능 및 신뢰성을 갖춘 전력망과 에너지 저장 기술을 요구하고 있다"며 "이노배트의 배터리 기술과 ADI의 지능형 솔루션 및 엣지·클라우드 AI 역량의 결합은 이 산업이 실제로 필요로 하는 전력 플랫폼 구축을 위한 자연스러운 과정"이라고 밝혔다.</span></p>
-<p>마틴 코터 ADI 최고 비즈니스 부문 책임자 겸 EMEA 사장은 <span style="letter-spacing: 0.8px;">"AI가 글로벌 에너지 수요를 재편함에 따라, 지능형 배터리 저장은 안전하고 효율적이며 안정적으로 전력을 공급하는 데 필수 요소가 될 것"이라며 "ADI는 이노배트와의 협력을 통해 예측 지능(predictive intelligence)을 엣지에 더 가깝게 적용함으로써 차세대 에너지 인프라 혁신을 가속화하는 데 기여하고 있다"고 말했다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>글로벌테크놀로지, 시분할 LDI로 중화권 디스플레이 공략</title>
-			<link>https://zdnet.co.kr/view/?no=20261102095616</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102095616</guid>
-			<author>진운용 기자</author>
-			<category>글로벌테크놀로지</category>
-			<category>중국</category>
-			<category>현대모비스</category>
-			<category>디스플리에</category>
-			<category>LDI</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Mon, 02 Nov 2026 11:35:38 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/a8f208b0c22978fda8ba9c0aa8579b59.png" alt=""><p>글로벌테크놀로지(GT)가 오는 3일부터 5일까지 중국 선전에서 &apos;GT 테크 심포지엄 2026&apos;을 연다고 2일 밝혔다. 이번 행사는 현대모비스, 중국 DR그룹과 공동 개최한다. 오스트리아 디스플레이 기업 트라이라이트(TriLite)도 참가한다.</p>
-<p><span style="letter-spacing: 0.8px;">GT는 행사 기간 중화권 고객사를 상대로 전장과 디스플레이 제품군을 선보인다. 핵심 기술은 독자 개발한 &apos;시분할 구동(TSO)&apos;이다. 하나의 채널로 여러 발광다이오드(LED)를 제어해 구동 드라이버 집적회로(IC) 수를 3분의 1 수준으로 줄인다.</span></p>
-<img src="https://image.zdnet.co.kr/2026/11/02/a8f208b0c22978fda8ba9c0aa8579b59.png" alt="글로벌테크놀로지는 오는 11월 3일부터 5일까지 사흘간 중국 코트야드 바이 메리어트 선전 호텔에서 현대모비스, 중국 DR그룹과 함께 &apos;GT 테크 심포지엄 2026(Global Technologies Tech Symposium 2026)&apos;을 개최한다고 2일 밝혔다. (사진=글로벌테크놀로지)">
-<p><span style="letter-spacing: 0.8px;">GT는 차량용 디스플레이 시스템반도체를 대거 공개한다. 차량 디스플레이용 구동 집적회로(LDI)와 현대모비스와 공동 개발한 무드램프용 스마트 LED &apos;ID804&apos;를 전시한다. 차세대 지능형 무드램프 콘셉트와 차량용 통신 반도체(CAN) 유연한 데이터 전송 속도(FD) 트랜시버도 함께 소개한다. GT는 시분할 LDI를 2027년 양산할 계획이다.</span></p>
-<p>현대모비스는 자체 차량용 반도체 제품군을 전시하며 중화권 시장 판로 개척에 나선다. 또한 회사는 트라이라이트와 협력 중인 차량 노면 도어 프로젝션 기술도 시연한다.</p>
-<p>김민선 GT 대표는 "이번 심포지엄은 검증된 시분할 구동 기술을 중국 시장에 선보이는 자리"라며 "글로벌 파트너와 함께 완성형 솔루션을 공급해 고객사를 빠르게 넓히겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>보안 인증 땄다면 &apos;벤처나라&apos;로…KISA가 추천해준다</title>
-			<link>https://zdnet.co.kr/view/?no=20261102112852</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102112852</guid>
-			<author>박광하 기자</author>
-			<category>한국인터넷진흥원</category>
-			<category>KISA</category>
-			<category>과학기술정보통신부</category>
-			<category>정보보호</category>
-			<category>인증</category>
-			<category>컴퓨팅</category>
-			<pubDate>Mon, 02 Nov 2026 11:34:55 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/05/11/1cad25f9f64a2eaadb608ebaa16c9263.jpg" alt=""><p>과학기술정보통신부와 한국인터넷진흥원(KISA)이 &apos;2026년 11차 정보보호 인증제품 조달청 벤처나라 추천&apos;을 희망하는 창업, 벤처, 청년, 사회적기업을 모집한다고 2일 밝혔다.</p>
-<p>사업은 정보보호 제품인증을 취득한 초기 기업의 공공판로를 지원해 성장을 돕기 위해 마련했다. 조달청의 창업, 벤처, 청년, 사회적기업 전용 온라인 상품몰인 벤처나라에 상품을 등록할 수 있도록 KISA가 기관추천을 해 준다.</p>
-<p>금전 지원이 아닌 벤처나라 등록 상품 지정을 위한 기관추천 성격이다. 추천은 추천일(공문 접수일)로부터 6개월간 유효하다.</p>
-<img src="https://image.zdnet.co.kr/2026/05/11/1cad25f9f64a2eaadb608ebaa16c9263.jpg" alt="과학기술정보통신부.(사진=지디넷코리아)">
-<p>추천 대상은 벤처기업, 창업 후 7년이 지나지 않은 창업기업, 대표자가 39세 이하인 청년기업, 사회적기업이다. 사회적기업에는 사회적협동조합, 자활기업, 마을기업, 장애인표준사업장이 포함된다. 추천 인증은 사물인터넷(IoT) 보안인증, 물리보안 성능시험인증, 정보보호제품 성능평가, 신속확인제, 우수 정보보호 기술 지정 제품 등 5종이다.</p>
-<p>인증 유효기간은 지정심사 월의 첫날 기준으로 6개월 이상 남아야 한다. 해외에서 제조하는 주문자상표부착생산(OEM) 제품은 지정신청이 불가능하며, 조달청 고시상 신청 제외 대상도 추천받을 수 없다.</p>
-<p>신청은 20일 오후 6시까지 이메일로 서류를 제출하면 된다. 벤처나라 제도 관려 문의는 조달청 첨단융복합제품구매과로 연락하면 된다.</p>
-<p>벤처나라는 나라장터 종합쇼핑몰 등록 기준을 채우지 못한 창업, 벤처기업의 초기 공공판로를 열어 주고자 조달청이 2016년 구축한 쇼핑몰이다.</p>
-<p>조달청은 5월 12일 &apos;벤처나라 등록 물품·서비스 지정 관리 규정&apos;을 개정 시행했다. 평가위원의 기술, 품질평가를 생략하고, 나라장터 기업정보로 확인되는 서류는 제출을 면제했다. 신청 마감 뒤 결과 발표 기간은 14일에서 7일 이내로 줄였다.</p>
-<p>등록 대상은 창업, 벤처기업에서 청년기업과 사회적기업까지 넓어졌다. 동일 세부품명 기준 6년이던 지정기간 제한도 풀려 만료 뒤 재지정이 가능해졌다. 국가기관, 지방정부 등 39개 기관인 추천기관은 민간 협회 등으로 확대하기로 했다.</p>
-<p>국회입법조사처가 5월 과기부에서 받은 자료에 따르면 최근 5년간 IoT 보안인증은 연평균 90건에 그쳤고, 가전 분야는 5년간 10건에 불과했다.</p>]]></description>
-		</item>
-		<item>
-			<title>덕산그룹, 2027년 정기임원인사…김동수·황태호 대표 부사장 승진</title>
-			<link>https://zdnet.co.kr/view/?no=20261102110458</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102110458</guid>
-			<author>이기종 기자</author>
-			<category>덕산</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Mon, 02 Nov 2026 11:30:46 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/c8924acffd505140c023141b97e0bbff.png" alt=""><p><span style="letter-spacing: 0.8px;">덕산그룹이 김동수 현대중공업터보기계 대표와 황태호 덕산넵코어스 대표의 부사장 승진 등 2027년 정기 임원인사를 2일 발표했다. </span><span style="letter-spacing: 0.8px;">이번 인사에서 부사장 2명과 상무이사 1명 등 승진 3명, 신규 선임 5명 등 총 8명이 지난 1일 발령</span><span style="letter-spacing: 0.8px;">받았다.</span></p>
-<p>덕산그룹은 "신성장 사업을 이끈 두 대표에게 힘을 실어 친환경 에너지와 방산·우주항공 등 그룹 포트폴리오 다변화에 속도를 내겠다"며 "글로벌 시장 변화에 선제 대응하고 연구개발(R&amp;D) 역량과 성과주의를 인사 최우선 기준으로 삼았다"고 설명했다. </p>
-<img src="https://image.zdnet.co.kr/2026/11/02/c8924acffd505140c023141b97e0bbff.png" alt="김동수 현대중공업터보기계 부사장(왼쪽), 황태호 덕산넵코어스 부사장(오른쪽) (사진=덕산그룹)">
-<p><span style="letter-spacing: 0.8px;">김동수·황태호 부사장은 대표직을 계속 맡는다. 김동수 부사장은 덕산그룹 편입 후 현대중공업터보기계의 </span><span style="letter-spacing: 0.8px;">압축기·펌프 등 주력 사업 성장과 친환경 에너지 사업 기반 구축 등을 이끌었다. 황태호 부사장은 올해 덕산넵코어스 코스닥 상장을 주도했고, 방산 항법·항재밍 기술을 바탕으로 누리호 등 우주로 사업영역을 넓히고 있다.</span></p>
-<p>신규 임원 5명 중 4명이 R&amp;D와 엔지니어링 인력이다. 현대중공업터보기계는 해당 분야 핵심 엔지니어가 조직 관리 부담 없이 R&amp;D에만 전념하도록 전문임원(Master) 제도를 신설했다. </p>
-<p>신규 임원 5명 중 3명이 40대다. 덕산그룹은 "현장에서 성과를 입증한 실무 책임자를 신임 임원으로 발탁했다"며 "영업 부문에서 글로벌 시장 개척과 안정적 사업 성과를 견인한 실무진을 이번 인사에 포함했다"고 설명했다.</p>
-<p>덕산그룹은 "신성장 사업을 이끈 계열사 대표 성과를 인정해 책임경영에 힘을 싣고, 반도체 소재, 친환경 에너지, 모빌리티, 방산·우주항공 등 핵심 사업 경쟁력을 끌어올리기 위해 성과 중심 인사를 단행했다"며"며 "전문임원 제도를 통한 엔지니어 역량 극대화와 40대 젊은 리더십을 발판으로 미래 성장동력을 확보하겠다"고 말했다.</p>
-<p><b>[덕산그룹 2027년 정기 임원인사 명단]</b></p>
-<p><span style="letter-spacing: 0.8px;"><b>■ 덕산그룹</b></span></p>
-<p><span style="letter-spacing: 0.8px;">·부사장 승진 (2명)</span></p>
-<p>    김동수 (현대중공업터보기계 대표이사)</p>
-<p>    황태호 (덕산넵코어스 대표이사)</p>
-<p><b>■ 덕산에테르씨티</b></p>
-<p><span style="letter-spacing: 0.8px;">·상무이사 승진 (1명)</span></p>
-<p>    진태완 (모빌리티솔루션 영업팀)</p>
-<p><b>■ 덕산하이메탈</b></p>
-<p><span style="letter-spacing: 0.8px;">·이사 신규 선임 (2명)</span></p>
-<p>    김양수 (영업팀)</p>
-<p>    이민우 (연구개발팀)</p>
-<p><b>■ 현대중공업터보기계</b></p>
-<p><span style="font-size: 14px;">·</span><span style="letter-spacing: 0.8px;">상무보 신규 선임 (2명)</span></p>
-<p>    박병규 (압축기팀)</p>
-<p>    김형섭 (클린에너지펌프팀)</p>
-<p><span style="letter-spacing: 0.8px;">·마스터 (전문임원) 신규 선임 (1명)</span></p>
-<p>    신경웅 (박용팀 겸 압축기보증팀)</p>]]></description>
 		</item>
 	</channel>
 </rss>
