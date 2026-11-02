@@ -4,7 +4,7 @@
 		<title>한국국방연구원 발간물</title>
 		<link>https://www.kida.re.kr/</link>
 		<description>한국국방연구원 발간물</description>
-		<lastBuildDate>Sat, 31 Oct 2026 18:32:33 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 18:32:22 +0900</lastBuildDate>
 		<item>
 			<title>착시진실 효과와 인지전: 반복되는 거짓은 어떻게 무기가 되는가 (제26-57호)</title>
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=149&amp;depth=2&amp;lang=kr</link>
@@ -20,6 +20,14 @@
 			<author>박상현</author>
 			<pubDate>Tue, 27 Oct 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 박상현</li><li>발행일자: 2026-10-27</li></ul>]]></description>
+		</item>
+		<item>
+			<title>국방우주인증 체계의 공급망-양산체계 제도화 방향</title>
+			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2179&amp;depth=3&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2179&amp;depth=3&amp;lang=kr</guid>
+			<author>조봉재</author>
+			<pubDate>Mon, 26 Oct 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[<ul><li>저자: 조봉재</li><li>발행일자: 2026-10-26</li></ul>]]></description>
 		</item>
 		<item>
 			<title>장교 장기복무를 위한 복무관리체계 변화 제언</title>
@@ -236,14 +244,6 @@
 			<author>조은일</author>
 			<pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 조은일</li><li>발행일자: 2026-08-19</li></ul>]]></description>
-		</item>
-		<item>
-			<title>미국의 호르무즈 연합 결성 시험과 한국의 선택 (제26-49호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=140&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=140&amp;depth=2&amp;lang=kr</guid>
-			<author>권보람</author>
-			<pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 권보람</li><li>발행일자: 2026-08-19</li></ul>]]></description>
 		</item>
 	</channel>
 </rss>
