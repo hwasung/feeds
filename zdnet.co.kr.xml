@@ -4,7 +4,34 @@
 		<title>지디넷코리아</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>지디넷코리아</description>
-		<lastBuildDate>Mon, 02 Nov 2026 19:31:15 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 20:31:15 +0900</lastBuildDate>
+		<item>
+			<title>기축 아파트 보안, 정부 &apos;침묵&apos;에 지자체가 나섰다</title>
+			<link>https://zdnet.co.kr/view/?no=20261102194700</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102194700</guid>
+			<author>박광하 기자</author>
+			<category>홈네트워크</category>
+			<category>해킹</category>
+			<category>월패드</category>
+			<category>IT 일반</category>
+			<pubDate>Mon, 02 Nov 2026 20:18:00 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/02/51e3d29ab53fd398380d8e635f265419.jpg" alt=""><p>아파트 월패드 해킹 피해 확산을 막는 정부 고시가 신축 단지에만 적용되면서 기축 단지가 &apos;안전지대&apos;에서 소외된 상태다. 주민들의 우려에 지방자치단체가 기존 설비와 건립 중인 단지를 대상으로 보안 강화에 나섰다.</p>
+<p>2021년 10월 월패드 해킹 사실이 보도되면서 아파트 입주자들이 불안에 떨었다. 전국 638개 단지 약 40만 세대의 사생활 영상이 유출된 사건이다.</p>
+<p>논란이 일자 당시 국토교통부, 산업통상자원부, 과학기술정보통신부는 그해 12월31일 홈네트워크 기술기준 고시를 개정했다. <span style="letter-spacing: 0.8px;">단지서버와 세대별 홈게이트웨이까지의 구간을 물리적 또는 논리적으로 분리하라는 내용이다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/02/51e3d29ab53fd398380d8e635f265419.jpg" alt="서울특별시청사(위)와 용인특례시청사. (사진=서울시·용인시)">
+<p><span style="letter-spacing: 0.8px;">개정 전에는 전체 세대가 하나의 네트워크를 </span><span style="letter-spacing: 0.8px;">공유하도록 했다.</span><span style="letter-spacing: 0.8px;"> 이런 상태에서는 특정 세대의 월패드가 뚫리면 </span><span style="letter-spacing: 0.8px;">단지 </span><span style="letter-spacing: 0.8px;">내 </span><span style="letter-spacing: 0.8px;">전체 </span><span style="letter-spacing: 0.8px;">세대가 동일한 해킹을 당할 수 있다. 개정 고시는 옆집 홈네트워크에 직접 접근하는 것을 막도록 했다. 해킹 피해가 급속 확산하는 걸 막는 효과가 있다.</span></p>
+<p>문제는 개정 고시 적용 범위다. 고시 개정 내용은 2022년 7월1일 시행됐지만, 대상은 시행 이후 사업계획승인을 신청하는 공동주택이다.</p>
+<p>이미 지은 기축 아파트와 오피스텔 등 준주택은 보안 강화 대책에서 빠졌다. 이미 설치한 홈네트워크 설비를 바꿀 때 고시를 따르게 하는 법적 의무도 없다.</p>
+<p>국토부 관계자는 "기축 아파트까지 보안 강화 조치를 의무화하기는 당장 어렵다"고 밝혔다. 한국인터넷진흥원(KISA)은 기존 아파트를 대상으로 자율점검을 지원했지만 이행은 단지마다 자율에 맡겨졌다.</p>
+<p>중앙 정부가 손을 놓고 있는 사이, 지방정부가 나섰다.</p>
+<p>서울특별시는 올해 3월30일 공동주택 관리 조례를 개정했다. 지능형 홈네트워크 설비를 설치하거나 교체할 때 세대 간 네트워크를 분리해 구성해야 한다는 내용을 신설했다. 고시가 닿지 않는 기존 단지까지도 설비 교체 단계에서 강화된 보안 대책을 적용하라고 선언한 것이다.</p>
+<p>서울주택도시개발공사(SH)가 해당 조례의 적용을 받게 됐다. 관내 여러 기축 아파트에서도 홈네트워크 교체 사업 시 조례 준수를 검토 중으로 알려졌다.</p>
+<p>용인특례시는 고시 개정과 적용 사이 시점에 건립을 시작한 &apos;그레이존&apos; 단지를 겨냥했다. </p>
+<p>시는 2022년부터 이들 단지 건설사에 공문을 보내 단지망과 세대망을 물리적 또는 논리적으로 분리하도록 요청했다. 관내 롯데캐슬 하이브엘, 힐스테이트 몬테로이, e편한세상 죽전 프리미어포레 등 다수 건립 현장이 공문을 받았다</p>
+<p>용인시는 공문에서 "공동주택 내 단지망과 세대망을 물리적 또는 논리적으로 서로 분리해 홈네트워크 설비의 보안성이 확보될 수 있도록 요청한다"고 밝혔다. 건설사에는 한국정보통신기술사회 등 전문가 자문을 받아 실시설계를 하도록 권고했다.</p>
+<p>경기도와 용인시의 공동주택 품질검수에서는 이 계획이 실시설계와 시방서에 반영됐는지 확인하도록 했다. 용인시 관계자는 올해 1월 "&apos;그레이존&apos;이 생겨서는 안 된다고 판단해 시민 안전을 최우선에 두고 보안 강화를 선제적으로 추진했다"고 말했다.</p>
+<p>한 지자체 관계자는 "공문이나 조례로는 기축 아파트 보안 강화를 달성하는 데 한계가 있다"며 "중앙정부 차원에서 기축 아파트 입주자들의 안전 문제에 더 신경을 써야 한다"고 밝혔다.</p>]]></description>
+		</item>
 		<item>
 			<title>디어비, AI 캐릭터 교감 플랫폼 &apos;디어비&apos; 출시…창작 생태계 구축</title>
 			<link>https://zdnet.co.kr/view/?no=20261102185350</link>
@@ -843,22 +870,6 @@
 <p>이는 앉은 자세가 질환을 유발한다는 의미는 아니다. 이미 배뇨에 어려움을 겪고 있는 남성들이 불편을 줄이기 위해 앉아서 소변을 보는 방식을 선택했을 가능성도 있기 때문이다.</p>
 <p>특히 50세 이후에는 많은 남성이 전립선 비대증을 겪는다. 전립선이 커지면 요도를 압박해 소변을 보는 데 어려움을 겪을 수 있다.</p>
 <p>비뇨기과 전문의 레나 말릭은 유튜브를 통해 전립선 비대증이 있는 남성은 소변을 볼 때 힘을 줘야 하거나 소변 줄기가 약해지는 증상을 경험할 수 있다고 설명했다. 이 경우 서서 소변을 보면 주변에 튈 가능성이 커지기 때문에 위생적인 측면에서 앉는 것이 더 편리할 수 있다는 것이다. 말릭은 다만 이러한 설명은 아직 이론적인 수준이라고 덧붙였다.</p>]]></description>
-		</item>
-		<item>
-			<title>APS, 10억원 자사주 취득 신탁계약</title>
-			<link>https://zdnet.co.kr/view/?no=20261102161128</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261102161128</guid>
-			<author>이기종 기자</author>
-			<category>APS</category>
-			<category>AP시스템</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Mon, 02 Nov 2026 16:23:15 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2014/12/05/cGky6l6hFs0BCWpfSpKI.jpg" alt=""><p><span style="letter-spacing: 0.8px;">APS가 주주가치 제고와 인재 영입을 위해 10억원 규모 자기주식 취득 신탁계약을 체결했다고 2일 밝혔다. </span></p>
-<p>APS는 "최근 시장 변동성 확대로 주가가 펀더멘털 대비 과도하게 하락했다는 판단에 따라 자사주 취득을 결정했다"며 "자사주 선제 매수로 주가 안정화를 도모하고, 우수 인재 영입 재원으로 활용해 중장기 기업가치를 제고할 계획"이라고 설명했다. </p>
-<img src="https://image.zdnet.co.kr/2014/12/05/cGky6l6hFs0BCWpfSpKI.jpg" alt="AP시스템 화성 동탄 본사 전경(사진=AP시스템)">
-<p><span style="letter-spacing: 0.8px;">APS는 지난 2024년 3개년 중장기 주주환원 정책을 발표했다. 2024년 3월 50만주</span><span style="letter-spacing: 0.8px;">와 2025년 12월 150만주</span><span style="letter-spacing: 0.8px;"> 등 </span><span style="letter-spacing: 0.8px;">총 200만주(약 135억</span><span style="letter-spacing: 0.8px;">원</span><span style="letter-spacing: 0.8px;">) 규모 자사주를 소각했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">2023년 8월부터 </span><span style="letter-spacing: 0.8px;">2025년 8월까지 세 차례에 걸쳐 총 100억원 규모 자사주 신탁 취득을 마쳤다. APS는 이번 10억원 추가 신탁 취득을 포함해 누적 270만주(약 170억원) 규모 주주환원(취득 후 소각 등)을 목표로 정했다. </span></p>
-<p><span style="letter-spacing: 0.8px;">APS는 "최근 주가 하락 등 어려운 시장 환경에서도 주주가치를 최우선으로 보호하고, 성장에 대한 확고한 의지를 보이기 위해 자사주 매수를 결정했다"며 "앞으로도 자사주를 취득·소각하고, 우수 인재를 영입해 본원 사업 경쟁력을 강화하겠다</span><span style="letter-spacing: 0.8px;">"</span><span style="letter-spacing: 0.8px;">고 밝혔다.</span></p>]]></description>
 		</item>
 	</channel>
 </rss>
