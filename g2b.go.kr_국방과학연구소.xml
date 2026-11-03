@@ -4,7 +4,16 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Tue, 03 Nov 2026 14:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2026 15:30:38 +0900</lastBuildDate>
+		<item>
+			<title>[사전규격][물품&#40;내자&#41;] 연구개발용 워크스테이션</title>
+			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00294190</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00294190</guid>
+			<author>국방과학연구소</author>
+			<category>사전규격</category>
+			<pubDate>Tue, 03 Nov 2026 14:33:45 +0900</pubDate>
+			<description><![CDATA[ • 참고번호: R26BD00294190<br/> • 공고/수요기관: 국방과학연구소]]></description>
+		</item>
 		<item>
 			<title>[등록공고][일반용역] 전투기 설계 최적화를 위한 MBSE 프로세스 구축</title>
 			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01806417&amp;bidPbancOrd=000</link>
@@ -30,7 +39,7 @@
 			<author>국방과학연구소</author>
 			<category>입찰공고</category>
 			<pubDate>Mon, 02 Nov 2026 17:35:35 +0900</pubDate>
-			<description><![CDATA[ • 공고번호: R26BK01804938<br/> • 마감일시: 2026-11-03 14:30<br/> • 개찰일시: 2026-11-10 09:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
+			<description><![CDATA[ • 공고번호: R26BK01804938<br/> • 마감일시: 2026-11-03 15:30<br/> • 개찰일시: 2026-11-10 09:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
 		</item>
 		<item>
 			<title>[등록공고][공사] 국방지능데이터센터 전력증설공사</title>
@@ -265,15 +274,6 @@
 			<category>사전규격</category>
 			<pubDate>Wed, 28 Oct 2026 18:26:11 +0900</pubDate>
 			<description><![CDATA[ • 참고번호: R26BD00291878<br/> • 공고/수요기관: 국방과학연구소]]></description>
-		</item>
-		<item>
-			<title>[등록공고][물품&#40;내자&#41;] 네트워크 공격 대응을 위한 침입감내 기술</title>
-			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01796987&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01796987&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Wed, 28 Oct 2026 16:26:17 +0900</pubDate>
-			<description><![CDATA[ • 공고번호: R26BK01796987<br/> • 마감일시: 2026-12-16 10:00<br/> • 개찰일시: 2026-12-17 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
 		</item>
 	</channel>
 </rss>
