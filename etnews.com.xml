@@ -4,7 +4,97 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 03 Nov 2026 12:30:45 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2026 15:30:27 +0900</lastBuildDate>
+		<item>
+			<title>업스테이지 &apos;솔라 프로 4&apos; 범정부 AI 공통기반 탑재…행정망 국산 AI 활용</title>
+			<link>https://www.etnews.com/20261103000312</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000312</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:55:24 +0900</pubDate>
+			<description><![CDATA[업스테이지는 거대언어모델(LLM) '솔라 프로 4'를 범정부 인공지능(AI) 공통기반에 탑재하고 정식 서비스를 시작했다고 3일 밝혔다. 행정망에서 별도 그래픽처리장치(GPU) 인프라 구축 없이 국산 AI 모델을 활용할 수 있게 됐다. 범정부 AI 공통기반은 행정안전부와 과학기술정보통신부가 중앙부처와 지방자치단체에 AI 모델과 데이터, 개발 환경 등을 제공하는 행정망 전용 AI 인프라다. 솔라 프로 4는 공통기반의 AI 플랫폼인 삼성SDS '패브...]]></description>
+		</item>
+		<item>
+			<title>“미래 교실을 직접 설계한다”…광운인공지능고 미술 수업에 AI 공간 디자인 도입</title>
+			<link>https://www.etnews.com/20261103000310</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000310</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:54:25 +0900</pubDate>
+			<description><![CDATA[광운인공지능고등학교가 미술 수업에서 인공지능(AI) 공간 디자인 플랫폼 '직스 스페이스(ZYX SPACE)'로 미래 교실을 꾸미는 수업을 진행해 관심을 받았다. '미래 교실 꾸미기' 수업에 참여한 광운인공지능고등학교 1학년 학생들은 한 차례의 기본 개념 설명 후 공간을 구성하고 가구를 배치했다. 전문적인 설계 지식 없이도 구상한 교실을 3D로 표현하고, 입체적으로 살펴보며 아이디어를 구체화했다. 수업에 사용된 직스 스페이스 M은 직스테크놀로지가...]]></description>
+		</item>
+		<item>
+			<title>NC AI, 경량 VLM &apos;배키 비전 3B&apos; 공개…피지컬 AI 시각 확보</title>
+			<link>https://www.etnews.com/20261103000309</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000309</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:53:36 +0900</pubDate>
+			<description><![CDATA[NC AI는 피지컬 인공지능(AI)에 탑재할 수 있는 초경량 시각언어모델(VLM) '배키 비전 3B'를 개발했다고 3일 밝혔다. 배키 비전 3B는 로봇과 산업용 엣지 장비에 탑재하도록 설계된 경량 멀티모달 모델이다. 로봇이 시각 정보를 바탕으로 판단하고 행동하는 시각언어행동(VLA) 모델의 기반이 된다. 자체 평가 결과 로봇·공간 이해 능력을 평가하는 글로벌 벤치마크 'BLINK' 'ERIQ' 'ERQA' 3종에서 평균 63.8점을 기록했다....]]></description>
+		</item>
+		<item>
+			<title>크라우드스트라이크-델, 엔비디아 AI 팩토리에 보안 플랫폼 통합</title>
+			<link>https://www.etnews.com/20261103000304</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000304</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:41:26 +0900</pubDate>
+			<description><![CDATA[크라우드스트라이크가 델테크놀로지스와 협력해 기업용 인공지능(AI) 인프라부터 AI 에이전트와 애플리케이션까지 보호하는 통합 보안 서비스를 제공한다. 크라우드스트라이크와 델은 2일(현지시간) 스페인 바르셀로나에서 열린 'Fal.Con 유럽 2026'에서 '엔비디아 기반 델 AI 팩토리'를 위한 통합 보안 솔루션을 발표했다. 델 AI 팩토리 고객은 크라우드스트라이크의 '팔콘(Falcon)' 플랫폼을 선택해 AI 인프라와 워크로드, 에이전트, 애플리...]]></description>
+		</item>
+		<item>
+			<title>“AI 영화의 벽은 생성 아닌 납품”… 무암, AI 하이브리드 제작 공정 공개</title>
+			<link>https://www.etnews.com/20261103000300</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000300</guid>
+			<author>이원지</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:37:40 +0900</pubDate>
+			<description><![CDATA[영화사 무암(대표 현해리)이 1일 일본 도쿄에서 열린 'AI Film Festival Japan 2026' 크리에이터 데모에서 생성형 AI로 만든 영상을 영화의 최종 납품 컷으로 완성하는 하이브리드 제작 공정을 공개했다. 현해리 감독은 이번 영화제 국제 심사위원으로 참여해 지난달 31일 공식 패널에 나섰고, 심사와 시상을 맡았다. 크리에이터 데모에서는 무암이 실제 제작 현장에서 발전시켜 온 AI 하이브리드 프로덕션 파이프라인과 차기 프로젝트를...]]></description>
+		</item>
+		<item>
+			<title>韓빅데이터학회, 13일 추계학술행사…“에이전틱 AI로 데이터사이언스 확장”</title>
+			<link>https://www.etnews.com/20261103000292</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000292</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:29:15 +0900</pubDate>
+			<description><![CDATA[한국빅데이터학회가 오는 13일 서울 국민대 본부관 학술회의장에서 '2026 추계학술행사'를 개최한다. 올해 행사 주제는 '에이전틱 AI로 확장되는 데이터사이언스'다. 에이전텍 AI는 스스로 의사결정을 내리고 다양한 작업을 수행한다. AI 기술이 진화하면서 실제 업무와 산업 현장에서 활용 가능한 기술로 주목받고 있다. 학회는 데이터사이언스를 기반으로 한 에이전틱 AI가 인공지능 전환(AX)에 가져올 새로운 가치를 조명하고, 다양한 전략과 방향에...]]></description>
+		</item>
+		<item>
+			<title>개인정보위, 9일 정책포럼 개최…예방 중심 보호체계·AI 보안 논의</title>
+			<link>https://www.etnews.com/20261103000278</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000278</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:16:46 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 개인정보 보호체계의 사전예방 중심 전환에 따른 공공·민간의 대응 방안과 인공지능(AI) 기반 사이버 위협 대응 전략을 논의한다. 개인정보위는 오는 9일 서울 양재 엘타워에서 한국개인정보보호책임자협의회와 공동으로 '2026년 개인정보 정책포럼'을 개최한다고 3일 밝혔다. 이번 포럼은 '신뢰·책임 기반으로 안심할 수 있는 개인정보 보호체계 구현'을 주제로 열린다. 개인정보 보호법 개정에 따른 기업 최고경영자(CEO)와 개인정보...]]></description>
+		</item>
+		<item>
+			<title>윤정원 레드AI 어소시에이츠 대표 “지식은 AI가 공급…대학은 직관·통찰 키워야…데이터 보안이 AI 개발보다 중요”</title>
+			<link>https://www.etnews.com/20261103000270</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000270</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:09:37 +0900</pubDate>
+			<description><![CDATA[윤정원 전 AWS코리아 공공부문 대표가 지난 9월 AWS를 떠나 새 출발에 나섰다. '레드AI 어소시에이츠'를 세우고, 그동안 쌓은 해외 네트워크로 국내기업들의 AI 제품과 서비스의 해외 진출을 돕는다. 새 출발과 함께 책 'AI vs 신, 불교, 양자역학'도 냈다. 글로벌 클라우드 기업에서 한국 공공사업을 이끌며 기술의 최전선을 지켜본 그가, AI 시대에 우리가 무엇을 해야 하는지 풀어낸 책이다. 윤 대표를 만나 AI 시대를 바라보는 그의 생...]]></description>
+		</item>
+		<item>
+			<title>[ET톡]수출 1조달러 시대, 내수에 갇힌 &apos;K금융&apos;</title>
+			<link>https://www.etnews.com/20261103000266</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000266</guid>
+			<author>박두호</author>
+			<category>오피니언</category>
+			<pubDate>Tue, 03 Nov 2026 14:07:39 +0900</pubDate>
+			<description><![CDATA[수출 1조달러 시대가 눈앞에 다가왔다. 반도체와 조선, 방산 등 한국 제조업은 세계 시장에서 경쟁력을 입증하며 수출 영토를 넓히고 있다. 그러나 금융은 여전히 내수의 울타리에 머물러 있다. 국내 금융의 혁신을 이끈 핀테크도 해외 진출에는 소극적이다. 한국 금융은 오랫동안 해외에 진출한 국내 기업을 고객삼아 해외사업을 해왔다. 기업의 현지 투자와 무역거래를 지원하고 교민에게 금융서비스를 제공했다. 필요한 역할이지만 한국 고객에 기대는 방식으로는...]]></description>
+		</item>
+		<item>
+			<title>국정원, 공공기관 2100여곳 긴급 보안점검 요청…핵심시설 직접 조사</title>
+			<link>https://www.etnews.com/20261103000260</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000260</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 14:04:46 +0900</pubDate>
+			<description><![CDATA[국가정보원이 최근 금융권에서 잇따라 발생한 해킹 사고에 대응해 중앙부처와 지방자치단체 등 공공기관 2100여곳에 긴급 보안점검을 요청했다. 국가 안보와 직결되는 공공부문 주요 정보통신기반시설은 국정원이 직접 취약점을 살펴 이달 중순까지 조사를 마칠 예정이다. 3일 관계 당국에 따르면 국정원은 지난달 22일 전국 중앙부처와 지자체 등 2100여개 기관에 점검표를 전달하고 자체 보안 실태를 확인하도록 했다. 점검 대상은 외부 인터넷과 연결되는 접점...]]></description>
+		</item>
 		<item>
 			<title>KDDC, &apos;AI 시대 데이터센터 탄소중립 세미나&apos; 개최</title>
 			<link>https://www.etnews.com/20261103000197</link>
@@ -184,91 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 03 Nov 2026 07:49:52 +0900</pubDate>
 			<description><![CDATA[앤트로픽이 올해 3분기 170억달러(약 24조원) 규모 매출로 지난해 동기보다 12배 성장세를 기록했다. 2일(현지시간) 앤트로픽이 미국 증권거래위원회(SEC)에 제출한 기업공개(IPO) 수정 증권신고서에 따르면 앤트로픽 3분기 매출은 169억6000만달러로 직전 분기 115억6000만달러 대비 47% 증가했다. 지난해 같은 기간 약 14억달러와 비교하면 1127% 급증했다. 전년 대비 대폭 성장에도 성장 속도가 둔화되고 수익성도 악화됐다는 평...]]></description>
-		</item>
-		<item>
-			<title>[테크 차이나] 중국 첨단 패키징,고객 설계가 가르는 양품 원가</title>
-			<link>https://www.etnews.com/20261027000132</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000132</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 03 Nov 2026 05:00:00 +0900</pubDate>
-			<description><![CDATA[좋은 칩을 모았는데 완성품의 성능이 나오지 않는다. 배선에서는 전력이 소모되고 특정 위치에 열이 몰린다. 가열과 냉각이 반복되면 서로 다른 재료 사이에 응력이 쌓인다. 첨단 패키징의 본질은 완성된 칩에 외장을 입히는 작업을 넘어, 부품들을 고객이 구매할 하나의 제품으로 만드는 데 있다. 성능표의 합계보다 약속한 성능을 충족하는 양품 한 개의 출하 원가가 사업의 성패를 가른다. 창뎬커지(&#38271;&#30005;科技)의 2026년 반기보고서는...]]></description>
-		</item>
-		<item>
-			<title>웅진컴퍼스 클래스박스, 영어 글쓰기 지도 전문가 5기 모집</title>
-			<link>https://www.etnews.com/20261102000471</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000471</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 02 Nov 2026 22:52:25 +0900</pubDate>
-			<description><![CDATA[웅진컴퍼스 교육 플랫폼 클래스박스가 교육자 대상 '영어 글쓰기 지도 전문가 과정' 5기 수강생을 모집한다. 영어교육에서 논리적인 글쓰기의 중요성이 커짐에 따라 학원 원장과 교육자의 체계적 수업 설계와 영어 글쓰기 지도 역량 강화 차원이다. 코칭은 대치동 '다이안 영어학원' 이보경 원장이 진행한다. 실제 교육 현장에서 축적한 지도 경험을 바탕으로 학생의 사고력을 이끌어내는 방법부터 문장·단락 구성, 논리적 글쓰기 완성까지 단계별 교수법과 수업 설...]]></description>
-		</item>
-		<item>
-			<title>제논, 피지컬 AI 세미나서 돌봄·제조 등 상용화 사례 공개</title>
-			<link>https://www.etnews.com/20261102000470</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000470</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 02 Nov 2026 22:41:10 +0900</pubDate>
-			<description><![CDATA[제논이 피지컬 인공지능(AI) 세미나를 열고 돌봄·제조·도슨트 등 피지컬 AI 상용화 사례를 공개했다. 제논은 지난달 29일 서울 웨스틴 조선호텔에서 주요 기업 관계자 40여 명이 참석한 가운데 '피지컬 AI 포커스 세미나'를 개최했다고 2일 밝혔다. 세미나는 피지컬 AI 실증을 넘어 상용화 성과와 사업 방향을 공유하기 위해 마련됐다. 시니어 케어뿐 아니라 제조 공정, 도슨트, 발전 설비 점검 등 다양한 분야의 성과가 소개됐다. 고석태 제논 대...]]></description>
-		</item>
-		<item>
-			<title>한화오션, AI로 생산관리 혁신…자회사 스마트 생산 체계 구축</title>
-			<link>https://www.etnews.com/20261102000288</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000288</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 02 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[한화오션이 인공지능(AI)을 활용해 조선·해양 설비 생산 현장의 통합 관리체계를 구축한다. 작업자의 경험과 수기 관리에 의존하던 기존 방식을 데이터 중심으로 전환하고, 공정·제품·물류·안전·설비 등 생산 전 영역을 통합 관리한다는 목표다. AI 기반 생산관리 모델을 검증하는 출발점으로 향후 국내외 사업장 적용에 속도를 낼 것으로 보인다. 한화오션 자회사 한화오션에코텍은 전남 광양 사업장에 스마트 생산 관리체계를 구축하고 있다고 2일 밝혔다. 이...]]></description>
-		</item>
-		<item>
-			<title>中 휴머노이드 교육·기업용 수요 확대…국내 유지보수·SW 지원 과제</title>
-			<link>https://www.etnews.com/20261102000173</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000173</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 02 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[중국산 휴머노이드 로봇의 국내 진출이 늘면서 대학과 연구기관뿐만 아니라 특성화고, 일반 기업 등으로 구매 수요가 확대된다. 연구개발(R&D)과 교육, 전시·홍보 등 활용 목적이 다양해지는 가운데, 국내 수리 인력과 소프트웨어(SW) 기술지원 체계 확보가 과제로 떠올랐다. 2일 로봇업계에 따르면 중국 유니트리와 애지봇 등 주요 휴머노이드 제조사들이 국내 인증과 판매망 확보에 나섰다. 국내 산업계에서도 자동화·데이터 수집뿐만 아니라 대학과 연구기관...]]></description>
-		</item>
-		<item>
-			<title>[사설] &apos;821조 슈퍼 예산&apos; 제대로 쓰자</title>
-			<link>https://www.etnews.com/20261102000377</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000377</guid>
-			<author>논설위원실</author>
-			<category>오피니언</category>
-			<pubDate>Mon, 02 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[어쨌든 대한민국 헌정사상 최고액 예산안이 제출됐다. 이제 꼼꼼히 점검하되, 제대로 쓸 수 있게 국회가 검토하고 추인하면 된다. 이재명 대통령이 2일 국회 본회의 시정연설을 통해 요청한 2027년도 예산안은 올해보다 12.8% 늘어난 820조9000억원 규모로 역대 최대치다. 인공지능(AI)과 연구개발(R&D) 등 미래 성장동력 확충에 재정 투자를 집중하고, '소수의 성장'에서 '모두의 성장'으로 전환하겠다는 국정 방향이 담겼다. 언론과 시장의...]]></description>
-		</item>
-		<item>
-			<title>[ET시론]AI가 금융 대신하는 시대, 신뢰 기반 넓혀야</title>
-			<link>https://www.etnews.com/20261102000074</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000074</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 02 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[디지털 금융은 지난 10여년간 금융서비스 접근성과 편의성을 높이는 방향으로 발전해 왔다. 모바일뱅킹과 간편송금이 금융거래 방식을 바꿨다면, 인공지능(AI)은 금융서비스가 제공되는 방식 자체를 바꾸기 시작했다. AI는 이미 소비자의 금융정보를 분석해 맞춤형 상품을 추천하는 수준에 이르렀고, 앞으로는 이용자가 정한 조건과 권한에 따라 금융상품을 비교·선택하고 거래까지 실행하는 단계로 나아갈 전망이다. 이용자가 직접 수행하던 판단과 실행의 일부를 A...]]></description>
-		</item>
-		<item>
-			<title>[ET단상] 결산 자동화, K브랜드 AX의 시작과 끝</title>
-			<link>https://www.etnews.com/20261030000121</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261030000121</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 02 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[“AI 태스크포스(TF)는 꾸렸는데 성과가 없습니다. 다른 회사들은 어떻게 하고 있습니까?” 지난 2년간 K뷰티 기업 200여곳의 최고경영자(CEO), 최고재무책임자(CFO)를 만나며 가장 많이 받은 질문이다. 의지나 예산이 부족해서가 아니다. K뷰티 브랜드의 사업 구조 자체가 AI 전환(AX)을 어렵게 만든다. 최근 성장하는 K브랜드는 국내 유통망을 중심으로 성장한 과거 브랜드와 네 가지가 다르다. 첫째, 국경을 넘어 판매한다. 창업 초기부터...]]></description>
-		</item>
-		<item>
-			<title>[기고]한국어 가르치는 AI, 세계를 향한 도전</title>
-			<link>https://www.etnews.com/20261102000135</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000135</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 02 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[세계 곳곳에서 한국어를 배우려는 열기가 뜨겁다. K팝과 드라마로 시작된 한류는 이제 한국어와 한국 문화에 대한 관심으로 확산되고 있다. 한국어는 더 이상 특정 국가의 언어에 머물지 않는다. 세계인이 소통하고 문화를 공유하는 새로운 연결의 언어로 자리 잡고 있다. 세계인이 언제 어디서나 쉽고 편리하게 한국어를 배울 수 있는 길은 무엇인가. 그 해답의 하나가 인공지능(AI)이다. 언어를 배우는 가장 좋은 방법은 끊임없이 대화하는 것이다. 그러나 외...]]></description>
-		</item>
-		<item>
-			<title>[이상직 변호사의 생성과 소멸] 〈31〉&apos;제한적 합리성&apos;에 따른 정책결정은 여전히 유효한가</title>
-			<link>https://www.etnews.com/20261102000116</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000116</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 02 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[우리는 AI발 초가속 기술혁명이라는 폭풍 속에서 기회와 위기의 공존이라는 문명사적 전환기에 섰다. 10월15일, 필자는 한국정책학회 기획 '2054년, 허버트 사이먼의 제한적 합리성은 종말을 맞이할 것인가?' 세미나에 참여해 이 화두를 두고 격론을 벌였다. 고전경제학은 시장의 모든 참여자가 완전한 정보를 가지고 있다는 전제하에 '보이지 않는 손'에 의한 최적의 자원배분을 추구했다. 그러나, 현실은 극단적 정보 비대칭과 인간 인지능력의 한계로 점...]]></description>
 		</item>
 	</channel>
 </rss>
