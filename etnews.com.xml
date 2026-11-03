@@ -4,15 +4,59 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 03 Nov 2026 16:30:25 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2026 17:30:31 +0900</lastBuildDate>
 		<item>
-			<title>&apos;가전 명가&apos; 희석 日 전자 공룡, AI 인프라 공급망 &apos;싹쓸이&apos; 나섰다</title>
-			<link>https://www.etnews.com/20261102000334</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000334</guid>
-			<author>이호길</author>
+			<title>[보안긴급진단]〈2〉산업시설 해킹, 정보 유출 넘어 안전 위협</title>
+			<link>https://www.etnews.com/20261103000169</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000169</guid>
+			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[과거 글로벌 가전 시장을 주도했던 일본 전자 기업이 인공지능(AI) 분야로 사업을 전환하고 있다. AI 인프라 구축에 필수적인 소재·부품·서버 등 하드웨어 공급망 시장 공략에 속도를 내고 있다. 가전 제조사로서의 명성이 희석되고 있는 가운데 사업 구조를 재편, 새로운 도약을 위한 포석이다. 파나소닉 인더스트리는 AI 데이터센터용 소재와 전자부품 생산 능력 확대에 총 920억엔(약 7800억원)을 투자한다. 신규 투자 73%에 해당하는 670억엔...]]></description>
+			<pubDate>Tue, 03 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[〈편집자주〉 사이버 침해사고가 산업 전반으로 확산하면서 기존 보안체계의 한계가 드러나고 있다. 인공지능(AI)이 해킹에 활용되면서 산업별 보안 체계 강화가 시급해졌다. 전자신문은 '보안긴급진단' 기획 시리즈를 통해 금융·산업·정보기술(IT)·공공 등 4개 분야의 보안 실태와 구조적 취약점을 살펴보고 개선 과제를 짚어본다. 프랑스 대형마트와 미국 미군기지 식료품점의 냉동냉장 설비가 사이버 공격을 받은 데 이어 유럽 7개국에서도 비슷한 피해가 다발...]]></description>
+		</item>
+		<item>
+			<title>[대학 AI 콜로키움] ④ AI 기초교육에 전공 융합…현장형 AI+X 체계 설계해야</title>
+			<link>https://www.etnews.com/20261103000207</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000207</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[대학 인공지능(AI) 교육이 단순 도구 활용을 넘어 전공별 지식과 AI를 결합해 산업 현장의 문제 해결 역량을 키우는 'AI+X 교육체계'로 전환해야 한다는 제언이 나왔다. 지난 29일 경상북도 구미시 국립금오공과대에서 열린 'AI 교육혁신 콜로키움' 4차 간담회에서는 경상·강원권 17개 AI·소프트웨어(SW)중심대학이 '전공과 현장을 잇는 AI+X 교육체계'를 주제로 교육 혁신 사례와 발전 방향을 논의했다. 참석자들은 전교생 대상 AI 기초교...]]></description>
+		</item>
+		<item>
+			<title>[기고]AI 에이전트 보안, 모델이 아니라 연결된 권한에서 뚫린다</title>
+			<link>https://www.etnews.com/20261102000010</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000010</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 기업의 업무시스템에 깊숙이 들어오면서 보안의 관점도 달라지고 있다. 이제는 AI 모델이 얼마나 안전한 답변을 생성하는지만으로 보안 수준을 판단하기 어렵다. AI 에이전트가 어떤 정보를 읽고, 어떤 시스템에 연결되며, 어느 범위까지 실제 작업을 수행할 수 있는지가 새로운 보안 과제로 떠올랐다. 조직 내부로 들어온 AI 에이전트와 연결된 자산 및 권한을 어떻게 관리할 것인지 살펴본다. 금융권에서도 이러한 변화가 나타나고 있다. 망...]]></description>
+		</item>
+		<item>
+			<title>메가존클라우드, KAIST와 맞손…&apos;피지컬 AI&apos; 표준화·글로벌 진출 협력</title>
+			<link>https://www.etnews.com/20261103000403</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000403</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 16:51:47 +0900</pubDate>
+			<description><![CDATA[메가존클라우드가 한국과학기술원(KAIST)과 손잡고 피지컬 인공지능(AI) 기술의 산업 현장 적용과 사업화를 추진한다. 메가존클라우드는 KAIST 제조피지컬AI연구소와 '피지컬 AI' 분야 상호협력을 위한 업무협약(MOU)을 체결했다고 3일 밝혔다. 양측은 연구·실증 단계에서 확인한 기술 성과를 산업 현장에 확산하고자, 서로 다른 제조 환경에 반복 적용할 수 있는 표준화된 구조와 안정적인 운영 기반이 필요하다는 데에 뜻을 모았다. 이를 위해 △...]]></description>
+		</item>
+		<item>
+			<title>KOSA, KDIA와 손잡고 디스플레이 제조 AX 확산 박차</title>
+			<link>https://www.etnews.com/20261103000400</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000400</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 16:47:20 +0900</pubDate>
+			<description><![CDATA[한국인공지능(AI)·소프트웨어(SW)산업협회(KOSA)는 한국디스플레이산업협회(KDIA)와 서울 송파구 한국디스플레이산업협회 회관에서 디스플레이 제조 AI 전환(AX) 확산을 위한 업무협약을 체결했다고 3일 밝혔다. 이번 협약은 디스플레이 제조 현장의 AX 확산과 AI·SW 기반 융복합 생태계 조성을 위해 추진됐다. 양 협회는 협약에 따라 △AI·SW 및 디스플레이 기업 간 기술 매칭·네트워크 활성화 △디스플레이 산업 특화 AI·SW 전문인력...]]></description>
+		</item>
+		<item>
+			<title>&apos;반도체 역사 산 증인&apos; 이영필 변리사 지식재산대상 수상</title>
+			<link>https://www.etnews.com/20261103000374</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000374</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 16:09:22 +0900</pubDate>
+			<description><![CDATA[제15회 지식재산대상에 이영필 리엔목특허법인 대표 변리사와 인텔렉추얼디스커버리가 수상의 영광을 안았다. 대한변리사회와 한국지식재산서비스협회, KAIST는 지난달 10월 30일 KAIST 도곡캠퍼스에서 '제15회 지식재산대상 시상식'을 개최했다. 지식재산대상은 지식재산 사업화를 통한 가치 창출, 분쟁을 통한 가치 수호, 혁신적인 비즈니스 모델 개발을 통한 글로벌 시장 개척 등에서 뛰어난 공로를 세운 이를 포상하는 상이다. 개인부문 수상자로 선정된...]]></description>
 		</item>
 		<item>
 			<title>[보안칼럼] AI 시대 SW 공급망 보안, 신뢰의 기준이 바뀌었다</title>
@@ -23,12 +67,13 @@
 			<description><![CDATA[지난해 12월 3일 공개된 리액트 서버 컴포넌트 취약점은 최고 등급인 CVSS 10.0이었다. 공개 몇 시간 만에 국가 배후 조직들이 악용을 시작했고, 한 랜섬웨어 조직은 침입 1분 안에 암호화를 시작했다. 올해도 악용은 이어졌다. 취약점보다 무서운 것은 위치였다. 리액트는 수많은 제품에 구성요소로 포함돼 있고, 넥스트JS처럼 리액트를 통째로 내장한 프레임워크에서는 의존성 목록만 확인하는 도구로는 취약 여부를 알아채지 못했다. 조직들은 취약점을...]]></description>
 		</item>
 		<item>
-			<title>[김경환 변호사의 IT법] 〈17〉가상자산도 이제 외국환거래법 규제 대상이다</title>
-			<link>https://www.etnews.com/20261103000113</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000113</guid>
-			<category>오피니언</category>
+			<title>&apos;가전 명가&apos; 희석 日 전자 공룡, AI 인프라 공급망 &apos;싹쓸이&apos; 나섰다</title>
+			<link>https://www.etnews.com/20261102000334</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261102000334</guid>
+			<author>이호길</author>
+			<category>AI·SW·보안</category>
 			<pubDate>Tue, 03 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[외국환거래법은 지금까지 가상자산을 포섭하지 못했다. 이 법이 다루는 대상은 대외지급수단, 외화증권, 외화파생상품 같은 전통적 '외국환'이었고, 가상자산은 어디에도 포섭되지 않았다. 국내 거래소에서 산 코인을 해외 거래소로 보내 현지 통화로 바꾸면 사실상 해외송금과 다를 바 없는데도, 외환당국의 신고·보고 체계에는 흔적이 남지 않았다. 이른바 '코인 환치기'와 김치프리미엄 차익거래가 끊이지 않은 이유다. 수사기관은 원화와 외화가 오간 주변 경로를...]]></description>
+			<description><![CDATA[과거 글로벌 가전 시장을 주도했던 일본 전자 기업이 인공지능(AI) 분야로 사업을 전환하고 있다. AI 인프라 구축에 필수적인 소재·부품·서버 등 하드웨어 공급망 시장 공략에 속도를 내고 있다. 가전 제조사로서의 명성이 희석되고 있는 가운데 사업 구조를 재편, 새로운 도약을 위한 포석이다. 파나소닉 인더스트리는 AI 데이터센터용 소재와 전자부품 생산 능력 확대에 총 920억엔(약 7800억원)을 투자한다. 신규 투자 73%에 해당하는 670억엔...]]></description>
 		</item>
 		<item>
 			<title>[소부장 인사이트] 발사를 넘어 지속 가능한 탐사로 : 반도체의 신뢰성이 우주 탐사의 핵심 동력인 이유</title>
@@ -37,6 +82,14 @@
 			<category>오피니언</category>
 			<pubDate>Tue, 03 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[한국의 누리호가 우주로 향할 때, 세간의 관심은 수 분간 이어지는 발사 과정에 집중됐다. 하지만 그 발사체가 실어 나르는 위성들에는 훨씬 더 가혹하고 긴 시험대가 기다리고 있다. 우주에서 수개월, 길게는 수년에 걸쳐 유의미한 성과를 내야 하기 때문이다. 지구관측위성의 임무는 발사 이후에도 계속된다. 육지와 해양, 대기 상태를 지속적으로 측정하며 기후 변화 등을 연구하는 임무를 수행한다. 문제는 궤도에 올라간 위성의 부품을 수리하거나 교체하는 것...]]></description>
+		</item>
+		<item>
+			<title>[김경환 변호사의 IT법] 〈17〉가상자산도 이제 외국환거래법 규제 대상이다</title>
+			<link>https://www.etnews.com/20261103000113</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000113</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 03 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[외국환거래법은 지금까지 가상자산을 포섭하지 못했다. 이 법이 다루는 대상은 대외지급수단, 외화증권, 외화파생상품 같은 전통적 '외국환'이었고, 가상자산은 어디에도 포섭되지 않았다. 국내 거래소에서 산 코인을 해외 거래소로 보내 현지 통화로 바꾸면 사실상 해외송금과 다를 바 없는데도, 외환당국의 신고·보고 체계에는 흔적이 남지 않았다. 이른바 '코인 환치기'와 김치프리미엄 차익거래가 끊이지 않은 이유다. 수사기관은 원화와 외화가 오간 주변 경로를...]]></description>
 		</item>
 		<item>
 			<title>[김경진의 AI전략노트]〈40〉우크라이나와 드론산업의 긴밀한 협조가 필요하다</title>
@@ -216,60 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 03 Nov 2026 09:49:08 +0900</pubDate>
 			<description><![CDATA[아시아·태평양 지역 20개국 사이버보안 전문가들이 부산에 모여 국가 간 침해사고 공동 대응과 사이버 회복력 강화 방안을 논의한다. 한국인터넷진흥원(KISA)은 3일부터 나흘간 부산 롯데호텔에서 '2026 아태침해사고대응팀협의회(APCERT) 연례총회 및 국제침해사고대응팀협의회(FIRST) 아시아·태평양 지역 심포지엄'을 개최한다고 밝혔다. 한국 침해사고대응팀(KrCERT/CC) 설립 30주년을 기념해 마련된 행사로 과학기술정보통신부가 주최하고...]]></description>
-		</item>
-		<item>
-			<title>데이원컴퍼니, 기업 AX 지원 &apos;DAY1 AX&apos; 시동…구축·교육 통합</title>
-			<link>https://www.etnews.com/20261103000065</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000065</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 09:40:38 +0900</pubDate>
-			<description><![CDATA[데이원컴퍼니가 기업 AX(AI전환) 통합 서비스 브랜드 'DAY1 AX'를 공개했다. 산하 독립 사업조직 'Day 1 AI Deployment Company'를 통해 인공지능(AI) 기술 구축과 기업교육 역량을 결합한다. DAY1 AX는 기업의 AI 도입부터 실제 업무 적용, 조직 내 활용 확산까지 전 과정을 지원하는 AX 서비스 브랜드다. AI 솔루션을 구축하거나 활용법을 교육하는 데 그치지 않고 기업이 AI를 중심으로 업무 방식과 조직 운영...]]></description>
-		</item>
-		<item>
-			<title>S2W, 유럽 최대 사이버 보안 전시회 &apos;it-sa&apos; 참가</title>
-			<link>https://www.etnews.com/20261103000062</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000062</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 09:39:40 +0900</pubDate>
-			<description><![CDATA[에스투더블유(S2W)가 유럽 최대 사이버보안 전시회에 참가해 인공지능(AI) 기반 안보·보안 솔루션을 선보였다. S2W는 지난달 27일부터 사흘간 독일 뉘른베르크에서 열린 사이버보안 전시회 'it-sa 엑스포&콩그레스 2026'에 참가했다고 3일 밝혔다. 이번 전시에서 공공·정부기관용 안보 AI 플랫폼 '자비스(XARVIS)'와 기업·기관용 보안 AI 솔루션 '퀘이사(QUAXAR)'를 소개하고 현지 잠재 고객 및 파트너와 협력 방안을 논의했다....]]></description>
-		</item>
-		<item>
-			<title>나무AX, KTL에 GPU 자원 관리 솔루션 공급…AI 개발환경 구성</title>
-			<link>https://www.etnews.com/20261103000058</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000058</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 09:37:22 +0900</pubDate>
-			<description><![CDATA[나무AX(옛 나무기술)는 한국산업기술시험원(KTL)의 고성능 그래픽처리장치(GPU) 연산장비 도입 사업에 GPU 자원 관리 솔루션 '엑스터 엔터프라이즈(Xster Enterprise)'를 공급한다고 3일 밝혔다. 이번 사업은 KTL이 인공지능(AI) 솔루션 개발과 학습에 필요한 고성능 연산 기반을 확보하기 위해 추진한다. 나무AX는 코코링크가 공급하는 GPU 서버에 엑스터 엔터프라이즈를 적용해 AI 모델을 실행할 수 있는 환경을 마련한다. 이번...]]></description>
-		</item>
-		<item>
-			<title>CJ ONE, CJ더마켓과 11월 &apos;원더위크&apos; 진행…최대 1만4000원 쿠폰 제공</title>
-			<link>https://www.etnews.com/20261103000044</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000044</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 09:27:16 +0900</pubDate>
-			<description><![CDATA[CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 CJ 원(CJ ONE)은 CJ더마켓 및 이마트24 할인 혜택을 제공하는 11월 '원더위크'를 진행한다고 3일 밝혔다. CJ ONE은 7월부터 매월 회원 대상 '놀랍도록 훌륭한 혜택'을 선보이는 프로모션인 원더 시리즈를 진행하고 있다. 뚜레쥬르, 메가MGC커피 등 제휴 브랜드 협업을 통한 생활 밀착형 혜택으로 약 4개월간 월 평균 10만여 명의 신규 회원을 확보했다. 쿠폰 누적 다운로드도 43만회를...]]></description>
-		</item>
-		<item>
-			<title>체크포인트, 3분기 매출 1%↓…보안 구독 매출은 11%↑</title>
-			<link>https://www.etnews.com/20261103000036</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000036</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 09:23:29 +0900</pubDate>
-			<description><![CDATA[사이버보안 기업 체크포인트가 올해 3분기 매출 감소에도 보안 구독 사업에서 두 자릿수 성장률을 기록했다. 이메일 보안과 지속적 위협 노출 관리(CTEM), 인공지능(AI) 보안 수요가 성장을 이끌었다. 체크포인트는 2일(현지시간) 2026년 3분기 매출이 6억7000만달러(약 9000억원)로 전년 동기 대비 1% 감소했다고 발표했다. 보안 구독 매출은 3억3900만달러(약 4500억원)로 같은 기간 11% 증가했다. 나다브 자프리르 체크포인트...]]></description>
-		</item>
-		<item>
-			<title>베스핀글로벌, 실행형 엔터프라이즈 AI 에이전트 &apos;헬프나우 컴퓨터&apos; 출시</title>
-			<link>https://www.etnews.com/20261103000032</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000032</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 09:20:26 +0900</pubDate>
-			<description><![CDATA[베스핀글로벌이 기업 시스템을 직접 조작해 문서 작성부터 데이터 분석·입력·신청까지 수행하는 실행형 인공지능(AI) 에이전트 '헬프나우 컴퓨터'를 선보인다. 베스핀글로벌은 실행형 AI 에이전트 헬프나우 컴퓨터를 출시했다고 3일 밝혔다. 헬프나우 컴퓨터는 기존 AI 어시스턴트가 제공하던 질의응답을 넘어, 브라우저·애플리케이션·터미널·외부 도구를 직접 조작해 실제 업무를 수행하는 엔터프라이즈 AI 에이전트다. 사용자의 요청을 단계별 실행 계획으로 전...]]></description>
 		</item>
 	</channel>
 </rss>
