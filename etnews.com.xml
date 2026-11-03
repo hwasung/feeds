@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 03 Nov 2026 10:30:29 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2026 11:30:26 +0900</lastBuildDate>
+		<item>
+			<title>아이티아이즈-엔티엘헬스케어, AI 기반 여성암 진단 시장 공동 공략</title>
+			<link>https://www.etnews.com/20261103000133</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000133</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 10:31:27 +0900</pubDate>
+			<description><![CDATA[아이티아이즈가 엔티엘헬스케어와 손잡고 인공지능(AI) 기반 여성암 진단 시장 공략에 나선다. 아이티아이즈(대표 이성남)는 엔티엘헬스케어(대표 김태희)와 AI 기반 여성암 진단 솔루션 공동 개발 및 해외시장 진출을 위한 업무협약(MOU)을 체결했다고 3일 밝혔다. 이번 협약은 아이티아이즈의 의료 AI 플랫폼 기술과 엔티엘헬스케어의 자궁경부암 진단 전문성을 결합해 여성암 진단 솔루션을 개발하고 국내외 사업을 확대하기 위해 추진됐다. 양사는 AI 기...]]></description>
+		</item>
+		<item>
+			<title>유라클, 기업 AI 서비스 통합 관리 플랫폼 &apos;오르다 API 게이트웨이&apos; 출시</title>
+			<link>https://www.etnews.com/20261103000123</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000123</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 03 Nov 2026 10:18:13 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 플랫폼 전문기업 유라클이 기업 AI 사용 관리 시장에 진출한다. 유라클(대표 조준희·권태일)은 AI 인프라 운영 플랫폼 '오르다(AURDA)'를 2개 제품으로 재편해 기업 안 모든 AI 요청을 한곳에서 연결·통제하는 '오르다 API게이트웨이(AURDA API Gateway)'를 출시한다고 3일 밝혔다. 기존 오르다의 GPU·NPU 자원 운영 기능은 '오르다 인프라'로 분리했다. 오르다 API게이트웨이는 외부 대규모언어모델(LLM...]]></description>
+		</item>
 		<item>
 			<title>아태 20개국 보안 전문가 부산 집결…사이버 회복력 논의</title>
 			<link>https://www.etnews.com/20261103000083</link>
@@ -249,24 +267,6 @@
 			<category>오피니언</category>
 			<pubDate>Mon, 02 Nov 2026 15:23:17 +0900</pubDate>
 			<description><![CDATA[테슬라의 감독형 FSD(Full Self-Driving) 국내 확대 논쟁에서 정작 선명하지 않은 것은 제작사의 책임이다. 같은 브랜드의 차량도 생산지에 따라 기능 이용이 달라지는 제도의 문제는 정부가 풀어야 한다. 그러나 소비자의 불편과 규제의 미비가 테슬라의 안전 입증 책임을 덜어주는 이유는 될 수 없다. 한국에서 기능을 제공하려는 기업이라면 한국 도로에서 무엇을 할 수 있고, 어디에서 실패하며, 그 위험을 어떻게 통제할지부터 증명해야 한다....]]></description>
-		</item>
-		<item>
-			<title>[이슈플러스] 가상자산 탈취·기밀 수집·위장취업…北 해킹 세력의 실체</title>
-			<link>https://www.etnews.com/20261102000370</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000370</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 02 Nov 2026 15:04:19 +0900</pubDate>
-			<description><![CDATA[북한 해킹 세력은 가상자산 탈취부터 외교·안보 정보 수집, 방산기술 확보까지 주력 분야에 따라 다양한 공격 활동을 벌이고 있다. 세계 가상자산 거래소를 노리는 트레이더트레이터와 대북정책 전문가를 겨냥하는 김수키 등은 북한에 필요한 자금과 정보를 확보하는 데 집중하고 있는 모양새다. 국가정보원과 합동참모본부는 2024년 북한의 사이버전 수행 인력을 8400여명으로 추정하고 있다. 이는 2015년 추산치인 6800명보다 24% 증가한 규모다. 업계...]]></description>
-		</item>
-		<item>
-			<title>[이슈플러스] 北 사이버 인해전술에 AI 가세…해킹 전 과정 고도화</title>
-			<link>https://www.etnews.com/20261102000368</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261102000368</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 02 Nov 2026 15:03:45 +0900</pubDate>
-			<description><![CDATA[북한의 사이버 공격이 전산망 파괴와 정보 탈취를 넘어 수조원대 가상자산 탈취로 이어지고 있다. 최근에는 인공지능(AI)까지 공격에 활용하며 침투 수법을 고도화하고 있다. 금융·방산·공공기관을 가리지 않는 전방위 공격에 사이버 안보 위협이 커지고 있다. ◇전산망 마비에서 8조원 탈취까지…공격 목적 다변화 북한의 사이버 공격은 금융·공공기관의 전산망 마비부터 산업기술 유출, 가상자산 탈취에 이르기까지 다양한 형태로 전개돼 왔다. 2011년 4월 농...]]></description>
 		</item>
 	</channel>
 </rss>
