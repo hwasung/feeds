@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 04 Nov 2026 19:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 21:30:27 +0900</lastBuildDate>
+		<item>
+			<title>틸론 &apos;Dstation X&apos; 국정원 보안기능확인서 취득…공공 도입 요건 &apos;완비&apos;</title>
+			<link>https://www.etnews.com/20261104000482</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000482</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 20:25:34 +0900</pubDate>
+			<description><![CDATA[가상 데스크톱 인프라(VDI) 기업 틸론(대표 최백준)은 차세대 VDI 플랫폼 '디스테이션(Dstation) X, 제품 버전 v10.0'으로 국가정보원 보안기능 시험제도에 따른 '보안기능확인서'를 취득했다고 4일 밝혔다. 앞서 GS인증 1등급을 받고 조달청 디지털서비스몰 등록을 마친 데 이어 보안 검증까지 확보했다. 이로써 Dstation X는 공공기관 도입에 필요한 품질 인증과 구매 경로, 보안 검증을 마쳤다. 틸론은 이전 주력 제품인 Dst...]]></description>
+		</item>
 		<item>
 			<title>중앙일보, 다우·CJ 컨소시엄에 인수…총 5200억원 규모</title>
 			<link>https://www.etnews.com/20261104000472</link>
@@ -261,15 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 13:29:53 +0900</pubDate>
 			<description><![CDATA[과학기술정보통신부가 '2026년 소프트웨어(SW)마이스터고등학교 연합해커톤'을 4일부터 사흘간 여수 히든베이호텔에서 개최한다. SW마이스터고 5개교에서 자체 선발된 학생 60명이 다른 SW마이스터고 학생들과 함께 12개 혼합 팀을 구성해 대회에 참가, 경쟁을 벌인다. 학생들은 창의적 융합 사고 능력을 증진하고 공동체 역량을 강화하기 위해 처음 만나는 팀원들과 AI·SW 기반 연합 프로젝트를 수행하며 경쟁하고 있다. 올해는 참가자 모집부터 멘토링...]]></description>
-		</item>
-		<item>
-			<title>위즈진, 로보월드서 일체형 로봇 액추에이터 &apos;FLUXIUM R80&apos; 공개</title>
-			<link>https://www.etnews.com/20261104000251</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000251</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 13:24:29 +0900</pubDate>
-			<description><![CDATA[로보틱스 솔루션 기업 위즈진이 모터와 감속기, 드라이버를 통합한 로봇 액추에이터 'FLUXIUM R80'을 '2026 로보월드'에서 공개한다고 4일 밝혔다. FLUXIUM R80은 로봇 관절 구동에 필요한 모터, 감속기, 드라이버, 엔코더를 하나로 통합한 제품이다. 별도 외장 드라이버 없이 전원과 통신선만 연결하면 구동할 수 있어 로봇 내부 부품 배치와 배선을 간소화할 수 있다. 축방향 자속 모터(AFPM)를 적용했으며 지름 90㎜, 두께 59...]]></description>
 		</item>
 	</channel>
 </rss>
