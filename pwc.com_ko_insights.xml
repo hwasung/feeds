@@ -4,7 +4,14 @@
 		<title>삼일회계법인 Insights</title>
 		<link>https://www.pwc.com/kr/ko/insights.html</link>
 		<description>삼일회계법인 Insights</description>
-		<lastBuildDate>Tue, 03 Nov 2026 18:36:43 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 08:02:31 +0900</lastBuildDate>
+		<item>
+			<title>GenAI를 위한 내부통제와 AI 거버넌스 | 삼일PwC</title>
+			<link>https://www.pwc.com/kr/ko/insights/issue-brief/genai-governance-internal-control.html</link>
+			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/issue-brief/genai-governance-internal-control.html</guid>
+			<pubDate>Wed, 04 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[<figure><img src="https://www.pwc.com/content/dam/pwc/kr/ko/insights/issue-brief/genai-internal-controls_hero.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"/></figure><p>GenAI에 대한 내부통제 관련하여 COSO가 2026년 2월 발표한 GenAI의 고유한 위험을 어떻게 식별하고 통제할 것인지에 관한 실무 가이드를 소개하며, COSO원칙이 실질적으로 작동하게 하는 실행기반으로서 AI 거버넌스 체계 구축 방향을 제시합니다.</p>]]></description>
+		</item>
 		<item>
 			<title>이동혁명 시리즈 1: 이동혁명이 바꾸는 &apos;인간의 삶&apos;​​​​​​​​ | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/industry-focus/mobility-revolution-1.html</link>
@@ -211,13 +218,6 @@
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/global-trends/ai-jobs-barometer2026.html</guid>
 			<pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[<figure><img src="https://www.pwc.com/content/dam/connectedassets/global-brand/dpe/en/primary-context/mobile/pwc_gx_primary_800x450_gettyimages-1182958427.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"/></figure><p>AI가 노동시장을 두 개의 큰 흐름으로 분화시키고 있습니다. PwC가 전 세계 10억 건 이상의 채용 공고를 분석해 그 양상과 시사점, 그리고 기업과 개인의 대응 전략을 제시했습니다. </p>]]></description>
-		</item>
-		<item>
-			<title>에너지 고속도로와 전력망 대전환 | 삼일PwC</title>
-			<link>https://www.pwc.com/kr/ko/insights/industry-focus/powering-the-future.html</link>
-			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/powering-the-future.html</guid>
-			<pubDate>Mon, 22 Jun 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.pwc.com/content/dam/pwc/kr/ko/insights/industry-focus/powering-the-future-hero.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"/></figure><p>전력망 대전환을 위해 현재 한국 전력망의 구조적 병목을 점검하고 HVDC 및 에너지 고속도로 시스템 구축 방향을 제시하고자 합니다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
