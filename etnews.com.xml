@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 04 Nov 2026 11:30:25 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 12:30:24 +0900</lastBuildDate>
+		<item>
+			<title>中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적</title>
+			<link>https://www.etnews.com/20261104000220</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000220</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 11:25:42 +0900</pubDate>
+			<description><![CDATA[중국 연계 해킹 조직이 인공지능(AI) 기반 침투 도구를 이용해 세계 200개 이상 기관과 기업을 대상으로 대규모 사이버 공격을 벌인 것으로 드러났다. 미국의 반도체·방위산업 기업을 비롯해 각국 정부 부처와 통신사업자 등이 공격 대상에 포함됐다. 크라우드스트라이크가 4일 위협 분석 보고서를 기반으로 중국 연계 해킹 조직 '베이퍼 판다(VAPOR PANDA)'가 지난달 17일부터 11일간 최소 14개국을 대상으로 AI 기반 사이버 공격을 수행했다...]]></description>
+		</item>
 		<item>
 			<title>현대차 &apos;아틀라스&apos; 부품 공급망 확정</title>
 			<link>https://www.etnews.com/20261104000033</link>
@@ -264,15 +273,6 @@
 			<category>오피니언</category>
 			<pubDate>Tue, 03 Nov 2026 23:59:00 +0900</pubDate>
 			<description><![CDATA[도널드 트럼프 미국 행정부의 지난 2년간 국정 운영에 대한 중간평가 성격을 지닌 중간선거가 미 전역에서 치러졌다. 이르면 한국시각 4일 오후 연방 상·하원 의회 권력 지형과 핵심 경합지 당락 윤곽이 드러날 것으로 보인다. 우리 정부와 경제·산업계 역시 선거 결과를 예의주시하며 향후 여파까지 다각도로 분석중이다. 하지만 미 중간선거 결과나 그에 따른 정치적 파장에 대해 우리가 과도하게 흔들릴 이유가 없다. 결론부터 말하자면 드러난 판세대로 민주당...]]></description>
-		</item>
-		<item>
-			<title>씨큐비스타, 공공기관 NDR 솔루션 추가 수주…&apos;패킷사이버&apos; 공급 확대</title>
-			<link>https://www.etnews.com/20261103000447</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000447</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 03 Nov 2026 18:57:19 +0900</pubDate>
-			<description><![CDATA[씨큐비스타는 정부 중앙부처에 이어 행정안전부 산하 공공기관에 네트워크 탐지·대응(NDR) 솔루션 '패킷사이버(PacketCYBER)'를 추가 공급한다고 3일 밝혔다. 씨큐비스타는 앞서 주요 정부 중앙부처 등 공공기관 3곳에 패킷사이버를 공급하고 설치를 완료한 바 있다. 이번 추가 수주를 통해 공공시장 내 공급 실적을 확대하게 됐다. 패킷사이버는 네트워크 통신을 실시간 분석해 지능형 사이버 위협과 비정상적인 행위를 탐지하는 국산 NDR 솔루션이다...]]></description>
 		</item>
 	</channel>
 </rss>
