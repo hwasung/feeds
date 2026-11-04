@@ -4,7 +4,31 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Tue, 03 Nov 2026 19:32:30 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 15:30:33 +0900</lastBuildDate>
+		<item>
+			<title>AI로 무기체계 고장 잡는다..KAI 293억 투입해 개발 착수</title>
+			<link>https://www.fnnews.com/news/202611041433282003</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202611041433282003</guid>
+			<author>정원일</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Wed, 04 Nov 2026 14:44:20 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]한국항공우주산업(KAI)이 인공지능(AI)을 활용해 무기체계의 고장을 예측하고 유지·보수 비용을 관리하는 통합 군수 분석 플랫폼 개발에 나선다.
+KAI는 4일 대전컨벤션센터에서 국방부, 산업통상부, 민군협력진흥원, 군 및 정부 관계자 등 100여명이 참석한 가운데 'RAM-C AI 에이전트' 개발 사업 착수 회의를 개최했다고 밝혔다. 이번 사업은 국방부와 산업부가 출연하고 국방과학연구소 민군협력진흥원이 주관하는 부처 연계 협력 기술개발 과제다. 총사업비는 293억원으로 개발 기간은 48개월이다. KAI는 지난 9월 주관 연구개발기관으로 선정돼 민군협력진흥원과 협약을 체결했다.
+RAM-C는 무기체계의 신뢰도(Reliability), 가용도(Availability), 정비도(Maintainability), 비용(Cost)을 뜻한다. 무기체계의 도입부터 운용·유지, 성능개량, 퇴역에 이르...]]></description>
+		</item>
+		<item>
+			<title>한화에어로, 국내 최대 민간 우주발사체 생산기지 가동</title>
+			<link>https://www.fnnews.com/news/202611041426575836</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202611041426575836</guid>
+			<author>정원일</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Wed, 04 Nov 2026 14:41:59 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]한화에어로스페이스가 전남 순천에 국내 최대 규모의 민간 우주발사체 생산거점을 구축했다. 누리호를 비롯한 국가 우주발사체부터 자체 개발 발사체까지 생산하는 통합 제조시설을 확보하면서 글로벌 우주수송 시장 진출에 속도를 낼 전망이다.
+한화에어로스페이스는 4일 전남광주 순천시 율촌산업단지에서 우주발사체 제조센터인 '순천사업장' 준공식을 개최했다고 밝혔다. 이날 행사에는 민형배 전남광주통합특별시장, 김문수·황정아 더불어민주당 의원, 권현준 우주항공청 차장, 손훈모 순천시장 등 관계자 300여명이 참석했다.
+약 1만8000평 규모로 조성된 순천사업장은 우주발사체 주요 구성품의 통합·조립과 성능 검증을 담당한다. 오는 2027년 발사 예정인 누리호 6호기에 사용되는 75t급 엔진을 비롯해 발사체 1·2&midd...]]></description>
+		</item>
 		<item>
 			<title>SNT다이내믹스, 국내 첫 美 &apos;CMMC 레벨 2&apos; 획득</title>
 			<link>https://www.fnnews.com/news/202611031833459840</link>
@@ -109,29 +133,6 @@ FA-50M 능동전자주사식위성배열(AESA) 레이더와 고성능 주야간 
 
 
 ukn...]]></description>
-		</item>
-		<item>
-			<title>둘이서 전투함 몬다..한화시스템, 콕핏형 IBS 개발</title>
-			<link>https://www.fnnews.com/news/202611020948081398</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202611020948081398</guid>
-			<author>김윤호</author>
-			<category>산업|대기업</category>
-			<category>산업</category>
-			<pubDate>Mon, 02 Nov 2026 09:51:20 +0900</pubDate>
-			<description><![CDATA[[파이낸셜뉴스]한화시스템이 대형 전투함의 항해와 전투, 기관 제어를 최소 2명이서 수행하는 통합조종석 개발에 나선다. 함정 곳곳에 흩어진 통제 기능을 항공기 조종석처럼 묶는 방식이다. 병력자원 감소에 대응하는 한편, 미래 무인함정에 필요한 통합운용 기술도 확보한다.
-한화시스템은 2일 국방기술진흥연구소 주관 '콕핏 시스템을 적용한 스마트 브릿지 운용 기술' 개발 사업을 수주했다고 밝혔다. 사업 기간은 2030년까지다. 조종 장비인 콘솔 제작부터 통합 운용 소프트웨어 개발까지 맡는다. 
-핵심은 콕핏형 통합함교체계(IBS)다. 기존에는 함교에서 항해를, 전투정보실에서 센서·무장을, 기관조종실에서 추진·전력 설비를 각각 통제했다. 이들을 한 공간에 모아 소수 인원이 함께 다루도록 설계하는 것이다. 
-이를 위해 IBS에 함정의 두뇌...]]></description>
-		</item>
-		<item>
-			<title>한화, 美 해군 함정 만든다… 마스가 첫 수주 성과</title>
-			<link>https://www.fnnews.com/news/202611011836069222</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202611011836069222</guid>
-			<author>김윤호</author>
-			<category>산업|대기업</category>
-			<category>산업</category>
-			<pubDate>Sun, 01 Nov 2026 18:36:10 +0900</pubDate>
-			<description><![CDATA[한화가 마스가(MASGA, 한미 조선업 협력) 프로젝트 선두 기업으로 자리를 잡고 있다. 처음으로 미국 해군 함정 건조 사업 수주를 따내서다. 한화필리조선소가 해군 함정 건조를 맡기 시작할 정도로 미 정부의 신뢰를 받고 있는 것이다. 1일 한화에 따르면 한화디펜스USA는 지난 29일(현지시간) 미 해군 선박건조관리업체(VCM) 토트서비스(TOTE Services)와 중형상륙함(LSM) 한 척 건조 계약을 체결했다. 계약금액은 한화 3575억원인 2억6900만달러다. 미 해군이 계획한 LSM 도입 규모는 총 35척이다. 이번 수주는 한 척이지만 후속물량 수주로 이어지는 교두보가 될 것으로 보인다. LSM은 해병대 병력·장비·보급품을 연안 지역에 수송·전개하는 데 쓰인다. 먼 거리까지 병력과 물자를 옮기는 원정작전용이라 규모가 상당하다. 길이 100m·폭 16m·...]]></description>
 		</item>
 	</channel>
 </rss>
