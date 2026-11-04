@@ -4,7 +4,14 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Wed, 04 Nov 2026 18:33:19 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 08:02:11 +0900</lastBuildDate>
+		<item>
+			<title>반도체 공정 품질 예측을 위한 AI 플랫폼: 공정 최적화 기반 확보</title>
+			<link>https://www.makinarocks.ai/use-case/%eb%b0%98%eb%8f%84%ec%b2%b4-%ea%b3%b5%ec%a0%95-%ed%92%88%ec%a7%88-%ec%98%88%ec%b8%a1-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%eb%b0%98%eb%8f%84%ec%b2%b4-%ea%b3%b5%ec%a0%95-%ed%92%88%ec%a7%88-%ec%98%88%ec%b8%a1-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc/</guid>
+			<category>Use Case</category>
+			<pubDate>Thu, 05 Nov 2026 07:45:20 +0900</pubDate>
+		</item>
 		<item>
 			<title>[기업 AI 주권 테스트] 우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까</title>
 			<link>https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/</link>
@@ -206,13 +213,6 @@
 			<link>https://www.makinarocks.ai/use-case/%ec%a0%9c%ec%a1%b0ai24-%ec%a7%80%eb%8a%a5%ed%98%95-%ea%b2%80%ec%83%89-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%a0%95%eb%b6%80-%ec%a7%80%ec%9b%90%ec%82%ac%ec%97%85-%ec%a0%95%eb%b3%b4-%ec%a0%91%ea%b7%bc/</link>
 			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ec%a0%9c%ec%a1%b0ai24-%ec%a7%80%eb%8a%a5%ed%98%95-%ea%b2%80%ec%83%89-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%a0%95%eb%b6%80-%ec%a7%80%ec%9b%90%ec%82%ac%ec%97%85-%ec%a0%95%eb%b3%b4-%ec%a0%91%ea%b7%bc/</guid>
 			<category>Use Case</category>
-			<pubDate>Fri, 18 Sep 2026 13:42:03 +0900</pubDate>
-		</item>
-		<item>
-			<title>마키나락스 리브랜딩: 새 로고가 생겼습니다</title>
-			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%ec%83%88-%eb%a1%9c%ea%b3%a0%ea%b0%80-%ec%83%9d%ea%b2%bc%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%eb%a6%ac%eb%b8%8c%eb%9e%9c%eb%94%a9-%ec%83%88-%eb%a1%9c%ea%b3%a0%ea%b0%80-%ec%83%9d%ea%b2%bc%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
-			<category>Blog</category>
 			<pubDate>Fri, 18 Sep 2026 13:42:03 +0900</pubDate>
 		</item>
 	</channel>
