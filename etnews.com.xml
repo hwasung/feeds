@@ -4,7 +4,42 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 05 Nov 2026 06:30:25 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 08:31:14 +0900</lastBuildDate>
+		<item>
+			<title>드림시큐리티, 부산 사이버보안 콘퍼런스서 제로트러스트·N2SF 대응 전략 소개</title>
+			<link>https://www.etnews.com/20261105000018</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000018</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 08:00:00 +0900</pubDate>
+			<description><![CDATA[정보보안 전문기업 드림시큐리티가 4일과 5일 이틀간 부산 벡스코에서 열린 '2026 부산 사이버보안 콘퍼런스'에 참가해 제로트러스트 기반 인증·접근관리 솔루션과 국가 망 보안체계(N2SF) 대응 전략을 소개했다. 부산광역시와 한국주택금융공사, 국가정보원 지부가 공동 주최하고 한국정보보호학회가 주관한 이번 행사는 최신 사이버보안 위협과 대응 기술을 공유하기 위해 마련됐다. 드림시큐리티는 '제로트러스트·N2SF'를 주제로 전시 부스를 운영하며 제로...]]></description>
+		</item>
+		<item>
+			<title>마트 냉장고 이어 혈액원까지…유럽 냉장설비 해킹 확산</title>
+			<link>https://www.etnews.com/20261105000017</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000017</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 07:55:30 +0900</pubDate>
+			<description><![CDATA[유럽에서 냉장·냉동 설비를 겨냥한 사이버 공격이 잇따르는 가운데 프랑스 혈액원까지 공격 대상이 된 것으로 확인됐다. 해커가 영하 30도로 유지해야 하는 혈장 보관시설의 설정 온도를 영상 110도까지 높이도록 조작했다. 4일(현지시간) AP통신과 로이터통신 등 외신에 따르면 프랑스 보건부는 최근 지역 혈액원 여러 곳에서 냉동설비를 대상으로 한 사이버 공격이 발생했다고 밝혔다. 프랑스 혈액원(EFS)은 혈장 보관시설 3곳에서 온도와 제상(성에 제거...]]></description>
+		</item>
+		<item>
+			<title>[AI하스피탈 인사이트]AI 연결을 넘어 병원 업무의 통합으로</title>
+			<link>https://www.etnews.com/20261104000486</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000486</guid>
+			<category>오피니언</category>
+			<pubDate>Thu, 05 Nov 2026 07:30:00 +0900</pubDate>
+			<description><![CDATA[여러 AI를 쉽고 효율적으로 연결할 수 있다는 것만으로 AI 네이티브 HIS의 조건이 모두 충족되는 것은 아니다. 중요한 것은 이렇게 연결된 AI들이 환자 정보와 업무의 맥락을 이어받아 실제 병원 업무를 돕도록 만드는 일이다. 이를 위해서는 전문 AI 기업과 HIS 기업, 의료기관이 각자의 전문성을 바탕으로 어떤 업무에서 AI를 활용하고 그 결과를 다음 업무로 어떻게 이어갈지 함께 설계해야 한다. ◇AI 개수보다 중요한 것은 실제 업무의 변화다...]]></description>
+		</item>
+		<item>
+			<title>모레, &apos;토큰 팩토리&apos;로 GPU 기반 AI 추론 비용 최적화 지원</title>
+			<link>https://www.etnews.com/20261105000012</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000012</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 07:25:22 +0900</pubDate>
+			<description><![CDATA[모레가 AMD 그래픽처리장치(GPU) 기반 인공지능(AI) 추론 비용을 최적화하는 토큰 팩토리 소프트웨어(SW) 솔루션을 제시했다. 조강원 모레 대표는 4일 웨스틴 서울 파르나스에서 열린 'AMD 어드밴싱 AI 월드투어 서울 2026' 키노트 세션에 참석해 서비스 환경에서 구현하는 해당 솔루션을 소개했다. 데이터센터 사업자가 토큰 팩토리로 진화하는 데 필요한 SW 전략을 제시한 것이다. 조 대표는 “데이터센터가 AI 토큰을 생산하는 토큰 팩토리...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 전기트럭, 교환소에 옮겨놓은 충전시간과 자본</title>
 			<link>https://www.etnews.com/20261027000314</link>
@@ -233,42 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 14:45:37 +0900</pubDate>
 			<description><![CDATA[캠시스는 삼성전자 냉장고 '비스포크 AI 패밀리허브' 전 모델에 적용되는 카메라 모듈 공급을 시작했다고 4일 밝혔다. 회사는 가전용에서 첫 양산 매출이 발생했다면서 삼성전자 가전(DA) 사업부와의 협력을 확대해 다양한 가전 제품으로 공급을 넓힐 계획이라고 설명했다. 캠시스는 삼성전자 스마트폰에 들어가는 카메라 모듈을 양산해온 곳이다. 캠시스는 가전 외에도 로봇 등 비모바일 분야로 카메라 모듈 적용처를 확대하고 있다. 보안 분야에서는 안면인식용...]]></description>
-		</item>
-		<item>
-			<title>둠둠, &apos;경기 레벨업 데모데이&apos;서 투자 확약식·IR 발표 성공적으로 마쳐</title>
-			<link>https://www.etnews.com/20261104000356</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000356</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:45:17 +0900</pubDate>
-			<description><![CDATA[피지컬 인공지능(AI) 드론 전문 기업 둠둠(대표 주청림)은 4일 판교 경기창조경제혁신센터에서 열린 '2026 경기 레벨업 데모데이'에서 킹고스프링과 투자 확약식과 기업설명회(IR) 발표를 성공적으로 마쳤다고 밝혔다. 경기콘텐츠진흥원이 주관하고 씨엔티테크가 운영한 이번 행사는 경기도 내 유망 스타트업 투자 유치 성과를 공유하고 후속 투자 기회를 연결하기 위해 마련됐다. 행사에서는 유망 기업 12개사 IR 발표와 투자 관계자 간 네트워킹 등이 진...]]></description>
-		</item>
-		<item>
-			<title>디에스앤지, ISO 14001·45001 인증 취득…“환경·안전보건 경영 강화”</title>
-			<link>https://www.etnews.com/20261104000348</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000348</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:31:59 +0900</pubDate>
-			<description><![CDATA[디에스앤지(대표 서정열)는 국제표준화기구(ISO)의 환경경영시스템(ISO 14001)과 안전보건경영시스템(ISO 45001) 인증을 받았다고 4일 밝혔다. ISO 14001은 기업의 사업활동에서 발생하는 환경 영향을 체계적으로 관리하고 지속적으로 개선하기 위한 국제표준이다. ISO 45001은 사업장 내 안전보건 위험요인을 사전에 파악하고 산업재해 예방과 안전한 근무환경 조성을 위한 관리체계를 규정한다. 디에스엔지는 이번 인증 범위가 '하드웨어...]]></description>
-		</item>
-		<item>
-			<title>엘에스웨어, 육군 &apos;IAMSEC 2026&apos; 참가…“공급망 보안 강조”</title>
-			<link>https://www.etnews.com/20261104000340</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000340</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:24:38 +0900</pubDate>
-			<description><![CDATA[엘에스웨어㈜(대표 김민수)는 4일까지 대전컨벤션센터(DCC)에서 열리는 국제 육군 M&S 학술 컨퍼런스 및 전시회(IAMSEC)에 참가해 인공지능(AI) 시대 소프트웨어 공급망 보안 전략을 공유했다고 밝혔다. IAMSEC은 육군본부, 대전광역시, 국방과학연구소가 주최하는 행사다. 국방 분야 모델링 및 시뮬레이션(M&S) 기술 발전과 첨단 정보기술 군 적용을 논의하기 위해 마련됐다. 엘에스웨어는 2005년 설립된 정보보호 전문 기업이다. 서버보안...]]></description>
-		</item>
-		<item>
-			<title>리얼월드, 신임 COO에 김민정 전 한국IBM 컨설팅 대표 선임</title>
-			<link>https://www.etnews.com/20261104000263</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000263</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 13:41:03 +0900</pubDate>
-			<description><![CDATA[피지컬 인공지능(AI) 기업 리얼월드가 김민정 전 한국IBM 컨설팅 대표를 최고운영책임자(COO)로 선임한다고 4일 밝혔다. 김 신임 COO는 한국IBM 컨설팅 대표와 IBM 컨설팅 아시아태평양 기업전략 부문 부사장을 역임했다. 맥킨지앤드컴퍼니에서 글로벌 기업의 성장 전략과 해외 진출을 자문했으며, SK와 한화그룹 임원을 거쳐 LF푸드 대표이사를 지냈다. 포스텍에서 화학 학사, 독일 슈투트가르트대학교에서 고분자화학 박사 학위를 취득했다. 디지털...]]></description>
 		</item>
 	</channel>
 </rss>
