@@ -4,7 +4,79 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 04 Nov 2026 14:30:24 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 15:30:27 +0900</lastBuildDate>
+		<item>
+			<title>GA업계, 개인정보 보호 역량 높인다...보안책임자 선임 의무화</title>
+			<link>https://www.etnews.com/20261103000279</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261103000279</guid>
+			<author>박진혁</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[보험대리점(GA)업계가 개인정보·정보보호 체계를 정비하며 보안 강화에 속도를 내고 있다. 관련 법령 개정에 따라 책임자 지정·신고 의무에 대응하는 동시에 금융보안원 가입과 보험사 공동 대응을 통해 고객정보 보호 역량을 높이는 모습이다. 보험업계에 따르면 대다수 대형GA는 지난달 정보보호최고책임자(CISO) 선임을 마쳤거나, 선임 절차에 착수한 상태다. 지난 9월과 10월 개인정보 보호법과 정보통신망법 개정 시행으로 강화된 개인정보보호책임자(CP...]]></description>
+		</item>
+		<item>
+			<title>스노우플레이크, 자율형 AI 에이전트 공개…기업 업무 자동화 확대</title>
+			<link>https://www.etnews.com/20261104000371</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000371</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:58:33 +0900</pubDate>
+			<description><![CDATA[스노우플레이크가 이용자 지시 없이도 업무를 수행하는 자율형 인공지능(AI) 에이전트를 공개했다. 기업 데이터와 업무 시스템을 연계해 AI의 실행 범위를 확대하고 보안·비용 관리 기능도 강화했다. 스노우플레이크는 3일(현지시간) 영상회의로 개최한 연례 개발자회의 '스노우플레이크 엑스퍼디션 2026' 행사에서 기존 AI 에이전트 제품인 '코코'와 '코워크'를 자율형 에이전트로 고도화한 '코코·코워크 봇'을 선보였다. 코코·코워크 봇은 사전에 설정한...]]></description>
+		</item>
+		<item>
+			<title>&apos;니케&apos; PC 런처 악성코드 유입 정황... 中퍼블리셔 글로벌 게임 공급망 보안 &apos;비상&apos;</title>
+			<link>https://www.etnews.com/20261104000370</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000370</guid>
+			<author>박정은</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:56:58 +0900</pubDate>
+			<description><![CDATA[시프트업이 개발한 '승리의 여신: 니케' PC 런처에서 악성코드 유입 정황이 발견되며 글로벌 게임 서비스 공급망 보안 문제가 수면 위로 떠올랐다. 니케가 이용한 중국 텐센트 계열 레벨 인피니트는 세계 시장에서 다양한 대형 게임을 서비스하고 있다. 실제 침해 범위가 어디까지인지에 게임업계와 이용자 긴장이 높아지고 있다. 4일 깃허브에 공개된 보안 분석 보고서에 따르면 니케 PC 런처가 불러오는 레벨 인피니트 콘텐츠전송네트워크(CDN)의 자바스크립...]]></description>
+		</item>
+		<item>
+			<title>제논, 중기부 &apos;스케일업 팁스&apos; 선정…휴머노이드 자율 작업 기술 개발</title>
+			<link>https://www.etnews.com/20261104000369</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000369</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:56:29 +0900</pubDate>
+			<description><![CDATA[제논이 휴머노이드 로봇의 작업 수행 능력을 높이는 핵심 기술 개발에 나선다. 제논은 중소벤처기업부와 중소기업기술정보진흥원이 주관하는 '스케일업 팁스' 연구개발 과제에 선정돼 휴머노이드의 장기 작업 능력을 높이기 위한 기술을 개발한다고 4일 밝혔다. 선정 과제는 '체화 인지형 세계모델 기반 행동 감독 기술 개발'이다. 휴머노이드가 여러 단계의 작업을 수행하면서 발생하는 오류를 스스로 판단하고 복구해 최종 목표를 완수하도록 하는 기술이다. 제논은...]]></description>
+		</item>
+		<item>
+			<title>캠시스 “삼성 AI 냉장고용 카메라 양산”</title>
+			<link>https://www.etnews.com/20261104000358</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000358</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:45:37 +0900</pubDate>
+			<description><![CDATA[캠시스는 삼성전자 냉장고 '비스포크 AI 패밀리허브' 전 모델에 적용되는 카메라 모듈 공급을 시작했다고 4일 밝혔다. 회사는 가전용에서 첫 양산 매출이 발생했다면서 삼성전자 가전(DA) 사업부와의 협력을 확대해 다양한 가전 제품으로 공급을 넓힐 계획이라고 설명했다. 캠시스는 삼성전자 스마트폰에 들어가는 카메라 모듈을 양산해온 곳이다. 캠시스는 가전 외에도 로봇 등 비모바일 분야로 카메라 모듈 적용처를 확대하고 있다. 보안 분야에서는 안면인식용...]]></description>
+		</item>
+		<item>
+			<title>둠둠, &apos;경기 레벨업 데모데이&apos;서 투자 확약식·IR 발표 성공적으로 마쳐</title>
+			<link>https://www.etnews.com/20261104000356</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000356</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:45:17 +0900</pubDate>
+			<description><![CDATA[피지컬 인공지능(AI) 드론 전문 기업 둠둠(대표 주청림)은 4일 판교 경기창조경제혁신센터에서 열린 '2026 경기 레벨업 데모데이'에서 킹고스프링과 투자 확약식과 기업설명회(IR) 발표를 성공적으로 마쳤다고 밝혔다. 경기콘텐츠진흥원이 주관하고 씨엔티테크가 운영한 이번 행사는 경기도 내 유망 스타트업 투자 유치 성과를 공유하고 후속 투자 기회를 연결하기 위해 마련됐다. 행사에서는 유망 기업 12개사 IR 발표와 투자 관계자 간 네트워킹 등이 진...]]></description>
+		</item>
+		<item>
+			<title>디에스앤지, ISO 14001·45001 인증 취득…“환경·안전보건 경영 강화”</title>
+			<link>https://www.etnews.com/20261104000348</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000348</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:31:59 +0900</pubDate>
+			<description><![CDATA[디에스앤지(대표 서정열)는 국제표준화기구(ISO)의 환경경영시스템(ISO 14001)과 안전보건경영시스템(ISO 45001) 인증을 받았다고 4일 밝혔다. ISO 14001은 기업의 사업활동에서 발생하는 환경 영향을 체계적으로 관리하고 지속적으로 개선하기 위한 국제표준이다. ISO 45001은 사업장 내 안전보건 위험요인을 사전에 파악하고 산업재해 예방과 안전한 근무환경 조성을 위한 관리체계를 규정한다. 디에스엔지는 이번 인증 범위가 '하드웨어...]]></description>
+		</item>
+		<item>
+			<title>엘에스웨어, 육군 &apos;IAMSEC 2026&apos; 참가…“공급망 보안 강조”</title>
+			<link>https://www.etnews.com/20261104000340</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000340</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 14:24:38 +0900</pubDate>
+			<description><![CDATA[엘에스웨어㈜(대표 김민수)는 4일까지 대전컨벤션센터(DCC)에서 열리는 국제 육군 M&S 학술 컨퍼런스 및 전시회(IAMSEC)에 참가해 인공지능(AI) 시대 소프트웨어 공급망 보안 전략을 공유했다고 밝혔다. IAMSEC은 육군본부, 대전광역시, 국방과학연구소가 주최하는 행사다. 국방 분야 모델링 및 시뮬레이션(M&S) 기술 발전과 첨단 정보기술 군 적용을 논의하기 위해 마련됐다. 엘에스웨어는 2005년 설립된 정보보호 전문 기업이다. 서버보안...]]></description>
+		</item>
 		<item>
 			<title>리얼월드, 신임 COO에 김민정 전 한국IBM 컨설팅 대표 선임</title>
 			<link>https://www.etnews.com/20261104000263</link>
@@ -202,78 +274,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 09:21:54 +0900</pubDate>
 			<description><![CDATA[네이버클라우드가 3일 대전컨벤션센터에서 열린 아시아 최대 규모의 모델링&시뮬레이션(M&S) 행사 '국제 육군 M&S 학술 컨퍼런스 및 전시회(IAMSEC 2026)'에서 기조연설을 통해 미래 전장에 필요한 AI 인프라와 안전한 AI 운용, 민·군 협력의 중요성을 강조했다. 김유원 대표는 군에 필요한 AI 규모는 단순히 병력 수가 아니라 정보 수집 범위, 분석 주기, 시뮬레이션, 임무 규모 등에 따라 기하급수적으로 커진다고 설명했다. 이에 대규모...]]></description>
-		</item>
-		<item>
-			<title>한컴, 토펙엔지니어링과 에이전틱 OS 협력...건설·엔지니어링 AX 확대</title>
-			<link>https://www.etnews.com/20261104000063</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000063</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:19:46 +0900</pubDate>
-			<description><![CDATA[한컴이 토펙엔지니어링건축사사무소와 손잡고 에이전틱 Agentic OS의 적용 영역을 건설·엔지니어링 분야로 넓힌다. 한컴은 토펙엔지니어링건축사사무소와 '에이전틱 OS 사업 협력을 위한 업무협약(MOU)'을 체결했다고 4일 밝혔다. 양사는 실제 업무 환경과 데이터를 기반으로 엔지니어링 문서 작성에 특화된 AI 에이전트를 개발하고, 개념검증(PoC)을 통해 활용 가능성을 검증한다. 이번 실증은 발주처가 제시한 과업 요구사항을 분석하고 엔지니어링 문...]]></description>
-		</item>
-		<item>
-			<title>아이티센피엔에스, 블랙베리와 전력·에너지 보안 시장 공략 강화</title>
-			<link>https://www.etnews.com/20261104000062</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000062</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:17:56 +0900</pubDate>
-			<description><![CDATA[아이티센피엔에스가 글로벌 보안 기업 블랙베리와 협력해 전력·에너지 등 국가 중요 인프라 보안 시장 공략을 강화한다. 아이티센피엔에스는 4일부터 사흘간 전남광주통합특별시 김대중컨벤션센터에서 열리는 '빛가람국제전력기술엑스포 2026(BIXPO 2026)'에 참가해 블랙베리의 주요 보안 솔루션을 소개하고, 핵심 인프라의 디지털 회복탄력성 강화 방안을 제시한다고 밝혔다. 한국전력공사가 주최하는 BIXPO 2026은 'Tech Innovation mee...]]></description>
-		</item>
-		<item>
-			<title>씨큐비스타, 암호화 트래픽 분석 솔루션 &apos;패킷사이버 EVA&apos; 출시</title>
-			<link>https://www.etnews.com/20261104000061</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000061</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:17:19 +0900</pubDate>
-			<description><![CDATA[네트워크 탐지·대응(NDR) 전문기업 씨큐비스타가 암호화된 통신에서 해킹 위협과 데이터 유출을 탐지하는 솔루션 '패킷사이버 EVA 2.2.6'을 출시한다고 4일 밝혔다. 패킷사이버 EVA는 암호화된 네트워크 트래픽을 복호화하지 않고 해커의 명령·제어(C2) 통신과 데이터 유출 징후를 실시간 탐지하는 솔루션이다. 씨큐비스타는 지난해 9월 패킷사이버 EVA 시제품 개발을 발표했으며, 기존 NDR 솔루션 '패킷사이버 3.0'에도 관련 분석 기술을 적...]]></description>
-		</item>
-		<item>
-			<title>정보시스템감리협회, 올해 마지막 &apos;정보시스템 감리 기본교육&apos; 추가 개설</title>
-			<link>https://www.etnews.com/20261104000055</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000055</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:04:58 +0900</pubDate>
-			<description><![CDATA[정보시스템감리협회는 연내 정보시스템 감리 기본교육 수강을 희망하는 교육생들을 위해 오는 12월 5일부터 13일까지 '정보시스템 감리 기본교육' 주말 과정을 추가 개설한다고 밝혔다. 이번 교육은 2026년 마지막으로 운영되는 기본교육 과정으로, 연내 교육 수강 수요에 대응하고 정보시스템 감리 전문인력 양성 기회를 확대하기 위해 마련됐다. 정보시스템 감리 기본교육은 정보시스템 감리 수행에 필요한 전문지식과 실무능력을 갖춘 감리원을 양성하기 위한 교...]]></description>
-		</item>
-		<item>
-			<title>프로젝트 캐노피, 오픈소스 취약점 정보 공유 플랫폼 가동</title>
-			<link>https://www.etnews.com/20261104000054</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000054</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:04:43 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 보안 공익 이니셔티브 '프로젝트 캐노피'는 오픈소스 소프트웨어의 보안 취약점과 패치 정보를 제공하는 '취약점 인텔리전스 허브'를 4일 공개했다. 취약점 인텔리전스 허브는 프로젝트 캐노피 연구팀이 검증한 취약점과 위험도, 공식 패치 및 보안 권고문을 통합 제공하는 플랫폼이다. 참여 기관과 기업은 자사 시스템에서 사용하는 오픈소스의 취약점과 패치 현황을 확인하고 보안 조치에 활용할 수 있다. 취약점 위험도는 공통 취약점 평가 시스템...]]></description>
-		</item>
-		<item>
-			<title>둠둠, &apos;2026 AIoT 국제전시회&apos;서 피지컬 AI 수질관리 기술 소개</title>
-			<link>https://www.etnews.com/20261104000046</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000046</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:01:02 +0900</pubDate>
-			<description><![CDATA[피지컬 인공지능(AI) 드론 전문 기업 둠둠(대표 주청림)은 지난 3일 서울 코엑스에서 개막한 '2026 AIoT 국제전시회'에 참가했다고 밝혔다. 둠둠은 이번 전시에서 한국수자원공사(K-water)와 함께 실증 중인 피지컬 AI 기반 통합 수질관리 시스템을 선보였다. '2026 AIoT 국제전시회'는 과학기술정보통신부가 주최하고 한국AI사물인터넷협회와 케이훼어스(K.Fairs)가 공동 주관하는 AI·사물인터넷 전문 전시회다. 둠둠은 이날 전시...]]></description>
-		</item>
-		<item>
-			<title>과기정통부, AMD와 AI 반도체 협력 본격화…운영위 정기 개최</title>
-			<link>https://www.etnews.com/20261104000045</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000045</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:00:03 +0900</pubDate>
-			<description><![CDATA[과학기술정보통신부가 AMD와 인공지능(AI) 반도체 협력을 본격화한다. 양측이 참여하는 운영위원회를 정기 개최하며 협력 방안을 지속 논의한다. 과기정통부는 4일 웨스틴 서울 파르나스 호텔에서 AMD 대표 행사인 'AMD 어드밴싱 AI 월드 투어 서울 2026' 개최를 계기로 AMD와 양측 업무협약(MOU) 운영위원회를 개최했다. 올해 7월 체결한 과기정통부-AMD MOU 이행 차원이다. 지난달 리사 수 AMD 회장 방한 당시 류제명 과기정통부...]]></description>
-		</item>
-		<item>
-			<title>국내 기업 72% AI 투자 확대…거버넌스·데이터 주권이 병목</title>
-			<link>https://www.etnews.com/20261104000031</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000031</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[국내 기업 10곳 중 7곳이 전년보다 인공지능(AI) 투자를 늘린 것으로 나타났다. 특히 절반에 가까운 기업이 연간 100만달러(약 13억원) 이상을 AI에 투자했다. AI 확장의 걸림돌로는 거버넌스와 데이터 주권 확보가 가장 많이 꼽혔다. AI 투자 확대와 함께 데이터 통제와 규제 대응 역량을 갖추는 것이 기업의 과제로 부상했다는 분석이다. 4일 클라우데라는 글로벌 보고서 '2026 기업용 AI 현황: 확장의 새로운 규칙'을 발표했다. 이번...]]></description>
 		</item>
 	</channel>
 </rss>
