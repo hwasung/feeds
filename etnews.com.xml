@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 04 Nov 2026 17:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 18:31:31 +0900</lastBuildDate>
+		<item>
+			<title>유엔넷, 코스콤 차세대 원장시스템에 &apos;타란툴라DB&apos; 공급</title>
+			<link>https://www.etnews.com/20261104000438</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000438</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 17:23:04 +0900</pubDate>
+			<description><![CDATA[유엔넷은 코스콤의 차세대 원장시스템 구축 프로젝트 '5세대 파워베이스'에 포스트그레SQL 기반의 상용 데이터베이스 관리시스템(DBMS)인 '타란툴라DB'를 공급했다고 4일 밝혔다. 코스콤의 5세대 파워베이스는 기존 C언어 기반 원장시스템의 안정성을 유지하면서 클라우드 네이티브 기술을 결합한 하이브리드 원장시스템이다. 기존 시스템과 신규 시스템을 병행 운영하는 방식으로 금융거래의 연속성을 확보하는 동시에 거래량 증가에 유연하게 대응할 수 있도록...]]></description>
+		</item>
+		<item>
+			<title>인텔리빅스, 안전AI 플랫폼 &apos;GenAMS&apos; 국정원 보안기능 확인서 획득</title>
+			<link>https://www.etnews.com/20261104000431</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000431</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 17:12:07 +0900</pubDate>
+			<description><![CDATA[인텔리빅스는 통합 안전 인공지능(AI) 플랫폼 'GenAMS(젠에이엠에스)'가 국가정보원의 보안기능 확인서를 획득했다고 4일 밝혔다. GenAMS는 영상정보처리기기 제품군 중 '영상정보 관리·저장제품' 유형에서 국내 최초로 보안기능 확인서를 받았다. 보안기능 확인서는 국가정보원이 운영하는 보안기능 시험제도에 따라 국가용 보안요구사항 충족 여부를 확인하는 제도다. GenAMS는 독자 AI 엔진 'VIX 2.0'과 안전AI 에이전트 'VIXA'를...]]></description>
+		</item>
 		<item>
 			<title>몽고DB, 조달청 나라장터 등록 완료…국내 공공시장 본격 공략</title>
 			<link>https://www.etnews.com/20261104000420</link>
@@ -42,15 +60,6 @@
 			<description><![CDATA[IBM이 연세대학교 양자컴퓨터에 최신 '나이트호크' 프로세서를 도입해 국내 양자 연구·교육 지원을 강화한다. 최신 '나이트호크' 프로세서를 도입해 양자회로 처리량이 25배 높아진 만큼 복잡한 과학 문제 해결하는 양자컴퓨팅 연구에 속도가 붙을 전망이다. 4일 IBM은 연세대학교 송도 국제캠퍼스 양자컴퓨팅센터에 구축된 IBM 퀀텀 시스템 원에 최신 IBM 퀀텀 나이트호크 양자 프로세서를 도입했다고 발표했다. 이번 구축은 IBM 퀀텀 네트워크 참여...]]></description>
 		</item>
 		<item>
-			<title>[뉴스줌인] &apos;자사인력&apos; 요구 여전한 공공 SW…외부 전문인력 인정 넓혀야</title>
-			<link>https://www.etnews.com/20261104000403</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000403</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[공공·금융 소프트웨어(SW) 사업에서 자사 직원 투입을 요구하거나 외부인력 활용을 제한하는 발주조건이 여전히 남아 있다. 업계는 '반프리' 계약을 막는 데 그치지 않고, 외부 전문인력을 법에 맞게 활용할 수 있도록 기준도 마련해야 한다고 지적한다. 4일 전자신문이 지난해와 올해 공고된 공공·금융 SW사업 제안요청서(RFP) 4건을 분석한 결과, 자사인력을 요구하거나 외부인력 활용을 제한하는 조건이 확인됐다. A공공기관이 올해 8월 공고한 정보시...]]></description>
-		</item>
-		<item>
 			<title>IT서비스 업계 &apos;반프리&apos; 관행 우려…공공SW 발주구조 개선 목소리</title>
 			<link>https://www.etnews.com/20261104000402</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261104000402</guid>
@@ -58,6 +67,15 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 16:30:00 +0900</pubDate>
 			<description><![CDATA[공공·금융 소프트웨어(SW) 사업에서 프리랜서 대신 수행기업 소속 인력을 상당 부분 요구하는 발주 관행이 여전한 것으로 나타났다. 이로 인해 프리랜서임에도 해당 기업에 속해야 하는 이른바 '반프리' 계약이 이어지고 있다. 외부 전문인력을 적법하게 활용할 수 있도록 발주·평가구조를 정비해야 한다는 목소리가 나온다. 반프리 계약은 개발자와 근로계약·용역계약을 함께 맺고 보수를 임금과 용역대가로 나눠 지급하는 방식이다. 프리랜서지만 해당 사업에 참여...]]></description>
+		</item>
+		<item>
+			<title>[뉴스줌인] &apos;자사인력&apos; 요구 여전한 공공 SW…외부 전문인력 인정 넓혀야</title>
+			<link>https://www.etnews.com/20261104000403</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000403</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 16:30:00 +0900</pubDate>
+			<description><![CDATA[공공·금융 소프트웨어(SW) 사업에서 자사 직원 투입을 요구하거나 외부인력 활용을 제한하는 발주조건이 여전히 남아 있다. 업계는 '반프리' 계약을 막는 데 그치지 않고, 외부 전문인력을 법에 맞게 활용할 수 있도록 기준도 마련해야 한다고 지적한다. 4일 전자신문이 지난해와 올해 공고된 공공·금융 SW사업 제안요청서(RFP) 4건을 분석한 결과, 자사인력을 요구하거나 외부인력 활용을 제한하는 조건이 확인됐다. A공공기관이 올해 8월 공고한 정보시...]]></description>
 		</item>
 		<item>
 			<title>제네시스네스트, 대규모 동시접속 특화 채팅 솔루션 &apos;챗플래닛&apos; 출시</title>
@@ -252,24 +270,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 13:15:34 +0900</pubDate>
 			<description><![CDATA[기업 인공지능(AI) 모델 접근 권한을 탈취해 불법 판매하거나 대규모 이용 요금을 유발하는 '거대언어모델(LLM) 재킹' 공격이 확산되는 것으로 나타났다. 하루 만에 10만달러(약 1억4000만원) 이상 피해가 발생하고 누적 피해액이 100만달러에 달한 사례도 확인된 만큼 기업 내 AI 활용에 대한 각별한 주의가 요구된다. 구글 클라우드는 구글 위협 인텔리전스 그룹(GTIG)과 맨디언트가 이같은 내용을 담은 LLM 재킹 공격 분석 보고서를 공개...]]></description>
-		</item>
-		<item>
-			<title>[드림시큐리티 AI 시대 필수 보안] 〈2〉&apos;들어온 뒤&apos;까지 검증한다, 접근 통제의 재설계</title>
-			<link>https://www.etnews.com/20261104000080</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000080</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 13:00:00 +0900</pubDate>
-			<description><![CDATA[지난 5월 국가정보원은 '국가 사이버보안 기본지침'을 개정해 국가 망 보안체계(N2SF) 절을 신설하고 내부망과 인터넷망 분리를 규정했던 기존 조항을 삭제했다. 각급 기관은 업무정보를 기밀(Classified)·민감(Sensitive)·공개(Open) 등급으로 분류하고 등급에 맞는 보안 통제를 적용해야 한다. 망을 나누던 방식에서 정보의 등급에 따라 통제하는 방식으로 바뀐 것이다. 민간도 같은 방향이다. 원격 근무와 클라우드 사용, 협력사 접속...]]></description>
-		</item>
-		<item>
-			<title>구독료 65% 아끼려다 계정·돈 잃는다…비공식 재판매 시장 &apos;주의보&apos;</title>
-			<link>https://www.etnews.com/20261104000240</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000240</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 12:55:18 +0900</pubDate>
-			<description><![CDATA[넷플릭스와 유튜브 프리미엄, 듀오링고 등 글로벌 구독 서비스의 비공식 재판매 시장이 저렴한 가격을 앞세워 소비자를 유인하고 있지만, 계정 정지와 금전 피해, 개인정보 유출 등 보안 위험도 커지고 있다. 공식 요금보다 평균 65%가량 저렴하다는 경제적 이점 뒤에 장기 선결제와 불투명한 계정 운영, 부실한 고객 지원 등 문제가 도사리고 있다는 분석이다. 사이버보안 기업 서프샤크(Surfshark)의 최신 분석에 따르면 구독 공유·재판매 플랫폼에서...]]></description>
 		</item>
 	</channel>
 </rss>
