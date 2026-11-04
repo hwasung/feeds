@@ -4,7 +4,68 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Wed, 04 Nov 2026 07:30:58 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 13:31:06 +0900</lastBuildDate>
+		<item>
+			<title>정부, 국방 AI 에이전트 개발 본격 추진... 4년간 300억 투입</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8086</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8086</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>뉴테크</category>
+			<category>20250407121910_3900</category>
+			<pubDate>Wed, 04 Nov 2026 13:13:12 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2611/20261104125903_1a6162d4.jpg" alt="20261104 국방AI 에이전트.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">각국이 인공지능(AI) 등 첨단 기술을 군 현장에 활용하고 있다. 사진은 기사와 직접 관련 없음/출처=게티이미지</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p><br /></p>
+<p>[시큐리티팩트=강태임 기자] 인공지능(AI)과 군수 빅데이터를 결합해 전투기와 전차 등 핵심 무기체계의 가동률을 끌어올리고 운용유지 비용은 대폭 절감하는 국방 AI 에이전트 개발이 본격 추진된다.</p>
+<p><br /></p>
+<p>국방부와 산업통상자원부는 4일 대전컨벤션센터(DCC)에서 주관연구개발기관인 한국항공우주산업(KAI)을 비롯해 육·해·공군, 한국국방연구원(KIDA), 국방기술품질원 등 관계자 100여 명이 참석한 가운데 'RAM-C AI 에이전트 개발' 연구개발(R&amp;D) 착수보고회를 개최했다고 밝혔다.</p>
+<p><br /></p>
+<p>이번 사업은 군수 분야의 디지털 전환(DX)을 가속화하고 무기체계의 운영 효율성을 극대화하기 위해 양 부처가 공동 추진하는 부처연계협력 기술개발사업이다. 향후 48개월 동안 총 300억 원의 사업비가 투입된다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.koreaaero.com/KO/_UploadFiles/Photo/h7xOjfKlakK2DnK3D.jpg" alt="포토갤러리 이미지" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">정부의 국방AI 에이전트 실증 대상인 F-50의 비행 모습/출처=KAI</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>K-2·FA-50 실증 적용… 무기 수명주기 데이터 통합 분석</h3>
+<p>'RAM-C'는 무기체계의 총수명주기 비용을 최적화하기 위한 핵심 분석 업무다. 장비가 고장 없이 얼마나 오래 작동하는지(신뢰도, Reliability), 필요할 때 곧바로 쓸 수 있는지(가용도, Availability), 고장 시 얼마나 빨리 복구할 수 있는지(정비도, Maintainability), 운용 기간 들어가는 비용은 얼마인지(운용유지비용, Cost)를 종합 분석하는 과정이다.</p>
+<p><br /></p>
+<p>이번 과제를 통해 양 부처와 KAI는 ▲군수 데이터 통합 인프라 개발 ▲RAM-C 지능형 분석 모델 개발 ▲통합분석 지능형 의사결정 지원기술을 유기적으로 결합하게 된다. 이를 통해 무기체계 수명주기 전 과정에서 발생하는 방대한 데이터를 수집·관리·분석하는 '국방 AI 에이전트' 기반 인프라를 구축할 계획이다.</p>
+<p><br /></p>
+<p>RAM-C AI 에이전트 기술이 야전 부대에 적용되면 무기체계 수명주기 전반의 비용과 효율성을 임무 유형별로 정밀 분석할 수 있어 최적의 운용 및 정비 정책을 적시에 도출할 수 있게 된다.</p>
+<p><br /></p>
+<p>특히 국방부는 개발 기술의 실현 가능성을 검증하기 위해 지상·해상·공중의 대표 무기체계인 K-2 전차, 해상감시레이더-Ⅱ, FA-50 경공격기를 실증 대상으로 선정했다. 운용 현장과 개발 기술 간 불일치를 보완해 데이터 신뢰도를 높이고 향후 신규 무기체계 개발 시 합리적인 RAM 목표값과 적정 유지비용 기준을 제시한다는 구상이다.</p>
+<p><br /></p>
+<p>방산 수출 및 국내 산업 생태계 파급효과도 기대된다. 산업부는 신뢰성 높은 데이터 기반의 유지비용 분석 자료를 바탕으로 K-방산 수출 협상력과 후속군수지원(MRO) 신뢰도를 강화할 방침이다. 또한 수리부속 수요예측과 재고관리 분석을 통해 국내 소재·부품·장비 기업과 단종 부품을 선제적으로 관리하고 부품 국산화 개발 기획을 확대할 계획이다.</p>
+<p><br /></p>
+<h3>글로벌 '국방 AI' 각축전… 예지정비·후속군수지원 사수</h3>
+<p>전 세계 주요 국가들 역시 이미 인공지능을 국방 분야에 적용하는 데 심혈을 기울이고 있다. 군수 물류 및 무기체계 예지정비(CBM+)에 AI 솔루션을 결합하는 전략은 현대 국방의 핵심 전력 요소이자 미래 전장의 승패를 가르는 열쇠로 부상하고 있다.</p>
+<p><br /></p>
+<p>미국의 경우 록히드마틴의 F-35 자율군수정보시스템(ALIS/ODIN)과 미 육군의 데이터·AI 플랫폼(팔란티어 및 IBM 왓슨 기반)을 활용해 장갑차와 항공기 센서 데이터를 실시간 분석하고 부품 고장을 사전 예측하는 예지정비 체계를 적극 운용해 왔다.</p>
+<p>&nbsp;</p>
+<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2611/20261104130957_b39226e5.jpg" alt="20261104 우크라 델타.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">우크라이나 군수·전장 통합 플랫폼인 '델타(DELTA)'/출처=우크라이나 국방부</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>우크라이나 역시 실전에서 입증된 자체 군수·전장 통합 플랫폼인 '델타(DELTA)'를 구축해 운용 중이다. 델타는 드론 영상, 무선 감청, 센서 데이터를 하나로 융합해 표적 할당과 타격 주기를 대폭 단축시켰을 뿐만 아니라 군수 물품의 보급과 정비 상태를 디지털화해 관리하고 있다. 특히 우크라이나는 전장에서 축적한 500만 건 이상의 실전 빅데이터를 기반으로 영국 등 서방 파트너사들과 함께 전장·군수 AI 알고리즘 고도화 훈련 플랫폼을 구축하며 기술 주도권을 넓혀가고 있다.</p>
+<p><br /></p>
+<p>프랑스 또한 미 빅테크 기업(팔란티어 등)에 대한 군사 데이터 의존도를 낮추고 '국방 디지털 주권'을 확립하기 위해 국방부 인공지능국(AMIAD)을 중심으로 자체 AI 지휘·분석 플랫폼인 '아르카디아(Arcadia)' 시스템 및 AI 기반 상태기반정비(CBM+) 연구를 집중적으로 추진하고 있다. 미스트랄 AI, 사프란, 탈레스 등 자국 방산·AI 생태계를 동원해 무기체계의 잔여 수명 예측과 군수 자원 배치를 지능화하는 전략이다.</p>
+<p><br /></p>
+<p>우리 군 역시 이번 RAM-C AI 에이전트 개발을 계기로 글로벌 추세에 발맞춰 AI 기반 첨단 군수 지원 체계를 확립하고 K-방산의 후속군수지원(MRO) 경쟁력을 해외 선진국 수준 이상으로 끌어올릴 수 있을 것으로 기대된다.</p>
+<p><br /></p>
+<p>정부 관계자는 "개발 주관사인 KAI를 비롯해 산·학·연·군 관계기관과 긴밀한 협력체계를 유지하여 군수 AI 에이전트 개발을 성공적으로 완수하겠다"고 전했다.</p>]]></description>
+		</item>
 		<item>
 			<title>전기 대신 빛으로 신호 처리… 레이시온, 적 위협 빨리 포착할 기술 개발한다</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8085</link>
@@ -165,65 +226,103 @@
 <p>&nbsp;</p>]]></description>
 		</item>
 		<item>
-			<title>[SF 포커스] 단순 정찰 넘어 ‘치명적 타격자’로…초대형 무인잠수정(XLAUV)이 여는 해전의 미래</title>
+			<title>[SF 포커스] 초대형 무인잠수정(XLAUV)이 여는 해전의 미래...단순 정찰 넘어 ‘치명적 타격자’</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8083</link>
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8083</guid>
 			<author>sfinfo365@gmail.com 강태임 기자</author>
 			<category>무기체계</category>
 			<category>20250407120846_2514</category>
 			<pubDate>Tue, 03 Nov 2026 14:19:29 +0900</pubDate>
-			<description><![CDATA[<p><br /></p>
+			<description><![CDATA[<p>
+   <br />
+</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2611/20261103140932_a1b555ac.jpg" alt="20261103 호주 고스트샤크.jpg" style="width: 100%; height: auto;" />
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2611/20261103140932_a1b555ac.jpg" alt="20261103 호주 고스트샤크.jpg" style="width: 100%; height: auto;" />
       <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2026년 10월 19일 시드니 안두릴 시설에서 자율 무인잠수정 '고스트 샤크' 앞에 선 팻 콘로이 호주 방위산업부 장관. /사진=AFP·게티이미지</figcaption>
-      </figure>
+   </figure>
    </div>
 <p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
+<p>
+   <br />
+</p>
+<p>
+   <br />
+</p>
 <p>[시큐리티팩트=강태임 기자] 그동안 베일에 싸여 있던 호주 해군의 초대형 자율 무인잠수정(XLAUV) ‘고스트 샤크(Ghost Shark)’가 최근 구체적인 무장 능력을 전격 공개하며 글로벌 방산 시장의 이목을 집중시키고 있다. 감시·정찰이나 해저 지형 조사 등 보조 수단에 머물던 수중 무인체계가 이제는 직접적인 공격 및 차단 전력으로 진화하고 있음을 단적으로 보여주는 사례다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <h3>호주 ‘고스트 샤크’ 무장 공개… “적의 머릿속에 수많은 의문표 던질 것”</h3>
 <p>외신과 현지 언론 등에 따르면 고스트 샤크는 최근 시드니 안두릴(Anduril Australia) 제조센터에서 열린 공개 행사를 통해 기뢰 부설, 배회성 자폭 드론 운용, 특수 작전 지원용 보급품 수송 등 3가지 핵심 탑재 무기(페이로드)의 실체를 드러냈다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>이번에 공개된 페이로드는 수중 무인잠수정의 작전 패러다임을 근본적으로 바꿀 치명적인 전투 능력을 제공한다.&nbsp;</p>
 <p>우선 은밀한 해상 봉쇄 능력이다. 유인 잠수함이나 수상함이 접근하기 위험한 적의 연안, 주 출항로, 주요 해협에 은밀히 침투하여 10여 발 이상의 기뢰를 부설할 수 있다. 단 한 대의 무인잠수정만으로도 적 함대의 출항을 저지하고 특정 해역 이용을 강제 차단하는 ‘해양 거부(Sea Denial)’ 효과를 극대화하게 된다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>수중과 공중을 잇는 입체적 타격 능력도 갖췄다. 고스트 샤크는 수중 잠항 또는 부상 직후 공중으로 ‘알티우스-600(Altius-600)’ 자폭 드론 편대를 방출할 수 있다. 기존 무인잠수정이 수중 표적 공격에 국한되던 한계를 넘어 공중에 떠서 배회하다가 적의 지상 레이더 기지, 연안 미사일 포대, 함정 상부 구조물 등을 실시간 감시하고 즉각 타격하는 유·무인 복합 작전(MUM-T)을 펼친다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>아울러 적지 깊숙이 침투한 특수전 부대(SEAL)나 고립 도서 지역에 수중으로 접근하여 탄약, 식량, 통신 장비 등 필수 물자를 은밀히 하역·배치하는 군수 보급 보관함 기능까지 갖춰 적지 내 특수부대의 작전 지속성을 대폭 끌어올리게 된다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>현장에서 팻 콘로이 호주 방위산업부 장관은 “고스트 샤크는 컨테이너, 소형 함정 함미, 부두 등 어디서든 투입이 가능하다”며 “이는 적국의 머릿속에 수많은 의문표를 던져주는 무기”라고 강조했다. 호주 해군참모차장 매트 버클리 중장 역시 “모듈식 페이로드의 진화는 해군에 엄청난 유연성을 제공한다”며 “적시성 있는 전력을 확보하고 수중전 및 해저 작전 능력을 강화해 해양 거부를 달성하고 핵심 해저 기반 시설을 보호하는 것이 우리의 명확한 목적”이라고 밝혔다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>호주는 오커스(AUKUS) 협정을 통한 원자력 추진 잠수함 인도까지 상당한 시간이 걸리는 상황이다. 이에 따라 노후화된 6척의 콜린스급 디젤 잠수함이 떠안은 전력 공백을 메우기 위해 17억 호주달러(약 12억 달러)를 투입해 고스트 샤크의 양산과 실전 배치를 속도전으로 밀어붙이고 있다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <h3>美·中·日·유럽 등 수중 주도권 잡기 위한 XLAUV 경쟁 사활</h3>
 <p>수중 무인체계를 향한 이 같은 도약은 비단 호주만의 현상이 아니다. 미·중을 비롯한 아시아, 유럽, 중동의 주요 방산 강국들은 수중 주도권을 잡기 위해 초대형 무인잠수정(XLAUV) 개발 경쟁에 사활을 걸고 있다.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://cdn.news2day.co.kr/data2/content/image/2026/01/22/.cache/512/20260122500096.jpg" alt="image" style="width: 100%; height: auto;" />
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://cdn.news2day.co.kr/data2/content/image/2026/01/22/.cache/512/20260122500096.jpg" alt="image" style="width: 100%; height: auto;" />
       <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미 보잉의 초대형 무인잠수정 '오르카'/출처=보잉</figcaption>
-      </figure>
+   </figure>
    </div>
 <p>&nbsp;</p>
 <p>미국은 보잉과 함께 개발한 초대형 무인잠수정 ‘오르카(Orca) XLUUV’를 필두로 6500해리에 달하는 항속거리와 모듈식 대형 페이로드 창을 활용해 장거리 자율 항해, 기뢰 부설, 대잠전(ASW) 능력을 검증하며 태평양 작전 구역 내 실전 배치를 추진 중이다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>중국 역시 남중국해 및 대만 해협 등지에서 미 해군의 수중 감시망을 무력화하기 위해 길이 18~20m급에 달하는 대형 펌프제트 추진 방식의 XLUUV 다수를 동시 개발하며 양산 체제에 돌입했다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>일본은 방위성 기술장비청(ATLA)과 미쓰비시중공업(MHI)을 중심으로 리튬이온 배터리와 모듈형 구조를 채택한 XLAUV 시제품 시험을 진행하며 동중국해 일대에서 중국 해군의 팽창을 억제하기 위한 핵심 수중 전력으로 육성하고 있다.&nbsp;</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>영국은 해군 혁신 프로젝트인 ‘시터스(Cetus)’ 및 BAE 시스템즈의 ‘허른(Herne)’ 플랫폼을 통해 해저 핵심 기반 시설 보호에 박차를 가하고 있으며 독일의 ‘MUM’ 프로젝트와 프랑스의 대형 UUV 국가 과제, 튀르키예 STM의 '텡기즈(TENGIZ)' 및 DATUM의 '쿠파나(KOFANA)' 등도 글로벌 수중 무인화 열풍을 가속화하고 있다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>이처럼 XLAUV는 인명 피해 위험을 완전히 배제한 상태에서 적의 허를 찌르는 차단 작전과 장기 잠항을 통한 정찰·타격을 동시에 달성하는 해전의 핵심 ‘게임 체인저’로 자리 잡았다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <h3>한국 해군, 유인 잠수함의 펀치력과 ‘네이비 씨 고스트’의 결합</h3>
 <p>이러한 글로벌 기술 트렌드는 한국 해군의 전력 증강 로드맵과도 긴밀히 맞물려 있다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>우리 해군과 방위사업청은 3일 3600톤급 최신예 디젤잠수함 2번함인 ‘서희함’을 진수하며 유인 잠수함 분야에서 세계 최고 수준의 기술력을 입증했다. SLBM 수직발사관(VLS)을 10개로 확장하고 국산 리튬전지를 탑재한 서희함은 한국형 3축 체계의 해상 ‘킬 체인(Kill Chain)’을 책임질 핵심 전략자산이다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>그러나 한국 해군은 유인 전력 강화에만 머물지 않고 인구 감소에 따른 병력 절감 요구와 급변하는 수중 안보 환경에 발맞춰 ‘네이비 씨 고스트(Navy Sea GHOST)’로 명명된 해양 유·무인 복합 전투체계(MUM-T) 구축에 박차를 가하고 있다.</p>
-<p><br /></p>
+<p>
+   <br />
+</p>
 <p>해군은 국내 유수 방산업체들과 손잡고 정찰용 및 무장 탑재형 대형 무인잠수정(XLAUV) 기술 개발을 본격화하고 있다. 강력한 거부 능력과 정밀 타격력을 갖춘 유인 중형 잠수함(도산안창호급·서희함)이 수중 거점 역할을 수행하고 은밀성과 모듈형 확장성을 갖춘 무인잠수정이 전방에서 감시·기뢰·타격을 맡는 구조다. 결국 유인 잠수함의 압도적인 펀치력과 무인 체계의 치명적인 확장성이 결합할 때 우리 해군은 한반도 주변 해역을 수호하는 한층 더 완벽하고 철벽같은 해상 킬 체인 방어망을 완성하게 될 것으로 기대된다.</p>]]></description>
 		</item>
 		<item>
@@ -1801,58 +1900,6 @@
 <p>더존비즈온은 전사적자원관리(ERP), 재무·회계, 그룹웨어 등 기업용 핵심 소프트웨어를 제공하는 국내 대표 ICT 기업이다.</p>
 <p><br /></p>
 <p>대기업부터 중견·중소기업, 세무회계 사무소에 이르기까지 다수의 기업이 더존비즈온의 솔루션을 운용하고 있는 만큼 이번 백업 서버 및 개발 서버 침해사고로 인한 이차적인 기업 정보 유출이나 피해 확산 여부에 방산업계 및 ICT 업계의 관심이 집중되고 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>방사청, LIG D&amp;A ‘소형무인기 대응체계’ 방산업체 지정 취소 건의… 수의계약 막히나</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8056</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8056</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Mon, 26 Oct 2026 10:22:33 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.ligdefenseaerospace.com/upload/bbs/7384/C74371B5F5609D54C80C2FCFB4045F46_1778732459969.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">루마니아 부쿠레슈티에서 개최된 동유럽 최대 규모 방산 전시회 BSDA 2026(Black Sea Defense &amp; Aerospace) 참가 장면/출처=LIG D&amp;A</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>방위사업청이 최근 임직원의 ‘뇌물 공여’ 혐의로 재판을 받고 있는 LIG디펜스앤에어로스페이스(LIG D&amp;A)에 대해 추가 제재를 검토 중인 것으로 확인됐다.</p>
-<p><br /></p>
-<h3>무인기 사업 지정 취소 및 원가 환수 추진</h3>
-<p>방사청은 25일 소형무인기 대응체계 사업과 관련해 LIG D&amp;A의 '방산업체 지정' 취소를 검토해달라고 산업통상자원부에 요청했다고 밝혔다. 방산업체 지정권을 가진 산업부가 청문 등을 거쳐 취소를 최종 결정하게 된다.</p>
-<p><br /></p>
-<p>앞서 LIG D&amp;A는 소형무인기 대응체계 사업을 포함한 다수의 무기개발 입찰 과정에서 소속 임원이 방사청 직원에게 수억 원대의 뇌물을 건넨 혐의로 기소돼 방사청 방위사업계약심의위원회로부터 '입찰참가 자격 제한 2년'이라는 최고 수위의 제재를 받았다.</p>
-<p><br /></p>
-<p>기존의 입찰참가 자격 제한 2년 조치는 신규 입찰 참여만 제한할 뿐 기존 방산물자·방산업체 지정을 통한 수의계약은 유지된다. 방산업체 지정제도는 시장 경쟁으로 안정적 조달이 어려운 무기체계에 대해 지정된 방산업체가 수의계약을 맺을 수 있도록 한 제도다. 소형무인기 대응체계 개발 사업을 수행했던 LIG D&amp;A는 해당 사업의 방산업체로 지정되어 있었으나 산업부에서 지정 취소가 확정될 경우 1천223억 원 규모의 소형무인기 대응체계 양산 사업 수의계약까지 전면 막히게 된다. 소형무인기 대응체계 사업은 적의 소형무인기를 전파교란(재밍신호) 등 소프트 킬 방식으로 무력화하는 재머 및 통제장치를 확보하는 프로젝트다.</p>
-<p><br /></p>
-<p>방사청은 이와 함께 LIG D&amp;A의 원가부정에 따른 방산원가 관리체계 인증 취소도 검토하고 있다. 인증 취소가 확정될 경우 기존에 지급했던 1%의 보상 이윤(수백억 원 규모 추정)도 환수할 방침이다. 방사청 관계자는 "비위행위에 대한 책임을 엄중히 묻고 관련 법령에 따른 제재 조치와 함께 내부 관리·감독 체계 및 예방 대책을 강화해 나가겠다"고 강조했다.</p>
-<p><br /></p>
-<p>이 같은 악재 속에서 신익현 LIG D&amp;A 대표이사는 국회 국방위원회 국정감사에 증인으로 출석해 뇌물공여 의혹에 대한 추궁을 받을 예정이다. 앞서 이용철 방위사업청장 역시 국감에서 "사안에 대해 엄정히 대응하겠다"며 재발 방지 원칙을 분명히 한 바 있다.</p>
-<p><br /></p>
-<p>다만 방사청이 사실관계 확정 전 기소 내용만으로 신속 처분을 내린 데 대한 '끼워 맞추기식 행정' 비판도 제기된다. 과거 HD현대중공업 KDDX 사건 당시 대법원 확정판결 후에도 '행정지도'에 그쳤던 사례와 대비된다는 지적이다. 이에 대해 LIG D&amp;A 측은 "법적 절차가 진행 중임에도 기소 내용만으로 제재가 거론되는 것에 깊은 유감을 표하며 성실히 소명하겠다"는 입장을 밝혔다.</p>
-<p><br /></p>
-<h3>미래 무인자산 개편 속 입지 축소 우려</h3>
-<p>특히 이번 제재 검토는 방사청이 추진 중인 미래 무인자산 운용 체계 개편 방향과 맞물려 LIG D&amp;A의 무인기 사업 입지를 한층 더 압박하는 요소로 작용할 전망이다. 방사청은 최근 '정찰-공격 연계 임무를 위한 무인항공기(UAV)-지상무인체계(UGV) 자산 구성 등 운용 최적화 개념연구' 용역을 발주하고 1년간 연구를 수행할 기관 모집에 나섰다.</p>
-<p><br /></p>
-<p>우크라이나전과 중동 분쟁 등에서 나타난 다종 무인체계 통합운용 사례를 분석해 미래 전력화 청사진을 다시 그리겠다는 구상이다. 비위 행위로 방산업체 지정 취소 기로에 선 LIG D&amp;A가 향후 재편될 군 무인자산 사업구획에서 배제되거나 입지가 위축될 수 있다는 관측이 나오는 이유다.</p>
-<p><br /></p>
-<p>특히 방사청의 이번 연구 용역을 통해 무인기와 지상무인체계의 통합 운용 자산 구성 및 임무 할당 개념이 재정립되면 소형무인기 대응체계 등 개별 단일 체계 중심 개발 경험을 가진 LIG D&amp;A는 미래 통합 무인자산 전력화 사업 경쟁에서 기술·지휘통제 연동성 주도권을 잃고 후순위로 밀려날 위험이 커진다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/277/2026/10/26/0005833164_001_20261026073218901.jpg?type=w860" alt="장거리 공대공 미사일(장공공)은 국산 전투기 KF -21에 탑재될 국산 무장 가운데 마지막으로 남은 대형과제로 전체 사업 규모는 약 1조 9000억 원에 달한다. 사진=LIG D&amp;A" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">LIG D&amp;A는 국산 전투기 KF-21 탑재 '장거리 공대공 미사일(장공공)' 개발 사업 제안 참여했다./출처=LIG D&amp;A</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>대형 방공 무기 1조 9천억 규모 ‘장공공’ 수주 유력 반전</h3>
-<p>이처럼 소형무인기 사업 제재 파장과 국감 출석, 군의 무인체계 재편 움직임이라는 겹악재 속에서도 LIG D&amp;A는 대형 방공 무기 사업 수주에서 반전을 만들어내고 있다. 이번 제재 조치는 소형무인기 대응체계 관련 수의계약 제한을 목적으로 추진 중인 사안이어서 경쟁 입찰 및 이미 평가점수 통보를 마친 신규 유도무기 개발 사업에는 직접적인 법적 영구 소급 배제 효력이 미치지 않는다.</p>
-<p><br /></p>
-<p>LIG D&amp;A는 총 사업 규모 약 1조 9천억 원(개발비 7535억 원, 양산비 1조 1471억 원)에 달하는 국산 전투기 KF-21 탑재 '장거리 공대공 미사일(장공공)' 개발 사업의 우선협상대상자로 유력한 상태다. 방사청은 이달 초 참여 업체들에 평가점수를 통보했다. 이르면 이번 주 우선협상대상자를 발표하고 올해 안으로 최종 계약을 체결할 계획이다.</p>
-<p><br /></p>
-<p>LIG D&amp;A는 극초음속 엔진 개발 노하우와 최근 2차 기술 비행시험에 성공한 차세대 장거리 공대지 미사일 '천룡' 개발 과정에서 축적된 유도조종·스텔스·체계종합 기술력을 인정받아 높은 평가를 받은 것으로 알려졌다. LIG D&amp;A는 향후 장공공 기술을 발판 삼아 공중발사 탄도미사일, 정전 유도탄, 모듈러형 미사일 등 공군 미래전 전력 개발 참여도 지속 추진할 방침이다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
