@@ -4,7 +4,91 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Wed, 04 Nov 2026 13:31:06 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 14:31:05 +0900</lastBuildDate>
+		<item>
+			<title>러시아, 대형 안테나로 우크라 방공망 흔든다</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8088</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8088</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>무기체계</category>
+			<category>20250407120846_2514</category>
+			<pubDate>Wed, 04 Nov 2026 14:10:18 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2611/20261104140914_a5cd7956.jpg" alt="20261104 샤헤드 드론.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">지난해 6월 우크라이나에서 손상된 형태로 전시된 이란산 샤헤드 드론/출처=AP</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p><br /></p>
+<p>[시큐리티팩트=강태임 기자] 러시아가 자국 드론과 미사일에 전자전(EW, Electronic Warfare) 저항력이 대폭 강화된 대형 디지털 안테나를 탑재하면서 우크라이나 방공망 무력화를 시도하고 있다. 우크라이나군이 운용하는 저비용·고효율 전파 교란 장비를 뚫기 위해 수신 소자 수를 크게 늘린 안테나 모듈을 연이어 투입하는 양상이다.</p>
+<p><br /></p>
+<p>2일(현지시간) 미국 안보 전문 매체 디펜스뉴스(Defense News) 보도에 따르면 우크라이나 당국자들은 러시아가 자폭 드론 및 유도 무기의 항법 신호 교란을 방지하기 위해 대형 패치 안테나 배열을 적극 도입하고 있다고 전했다.</p>
+<p><br /></p>
+<p>핵심은 러시아 VNIIR-프로그레스(VNIIR-Progress)가 생산하는 디지털 안테나 배열 모듈인 '코메타(Kometa)' 시리즈다. 코메타 모듈은 복수의 수신 소자를 통해 방해 전파가 들어오는 방향을 역추적하고 이를 자체 알고리즘으로 상쇄함으로써 위성 항법 신호(GNSS)를 유지한다. 이 모듈은 게란(Geran) 드론, 활공폭탄 키트, 이스칸데르-M 및 킨잘 미사일, 그리고 신형 필린 순항 미사일 등 러시아의 주요 정밀 타격 무기에 광범위하게 장착되고 있다.</p>
+<p><br /></p>
+<p>우크라이나 국방정보국(HUR) 분석에 따르면 크렘린궁은 기존 16개 소자 안테나 모듈을 넘어 20개 소자 배열의 양산 체제를 구축한 데 이어 최근에는 32개 소자 기반의 제어수신패턴안테나(CRPA, Controlled Reception Pattern Antenna)까지 수도 키이우 공격용 샤헤드 드론에 탑재하기 시작했다.</p>
+<p><br /></p>
+<p>볼로디미르 젤렌스키 대통령의 국방기술 자문관인 세르히 베스크레스트노프는 텔레그램을 통해 "안테나 소자 수가 늘어날수록 억제할 수 있는 전자전 신호원의 수도 비례해서 증가한다"며 "우크라이나 입장에서 안테나 소자 증설 속도를 전자전 기지 확충으로 따라잡기는 기술적·경제적으로 힘든 비대칭적 경쟁"이라고 지적했다. 전자전 장비를 무력화한 드론을 요격하기 위해서는 상대적으로 훨씬 고가의 요격 드론, 전투기, 미사일을 소모해야 하기 때문이다.</p>
+<p><br /></p>
+<p>우크라이나 현지 군사 전문 매체 밀리타르니(Militarnyi)는 현장 부대의 실물 분석을 바탕으로 러시아 안테나 모듈의 내부 구조 한계와 우크라이나군의 즉각적인 기술적 반격 시도를 구체적으로 조명했다.</p>
+<p><br /></p>
+<p>밀리타르니에 따르면 우크라이나 '나이트 워치' 부대 지휘관(호칭 '알키믹')은 추락한 샤헤드 드론에서 추출된 32개 소자 코메타 안테나의 실물을 입수해 역설계 분석을 진행했다. 분석 결과 해당 32소자 안테나는 완전히 새로운 단일 모듈이 아니라 서로 다른 위성 항법 대역을 담당하는 16소자 배열 2개를 단순히 물리적으로 결합한 구조임이 밝혀졌다.</p>
+<p><br /></p>
+<p>이를 기반으로 우크라이나 기술진은 L1 위성 대역과 L2/L5 대역을 동시에 커버하는 주파수 분할 방식의 맞춤형 신호 교란 장비를 개발해 32소자 안테나를 무력화하는 방안을 도출했다.</p>
+<p><br /></p>
+<p>아울러 플라이 그룹 우크라이나(Fly Group Ukraine)의 아나톨리 크랩친스키 이사는 네트워크로 연결된 복수의 기기를 통해 드론 자동조종 장치에 가짜 좌표를 지속 주입하는 '스푸핑(Spoofing)' 기술을 병행하고 있다고 전했다. 드론이 목표를 향해 정방향 비행 중이라고 착각하게 만들면서 실제 비행 경로를 민가나 민간 시설이 없는 안전 지역으로 이탈시키는 원리다.</p>
+<p><br /></p>
+<p>현재 러시아 방산 기업들이 순항·탄도 미사일, 타격용 드론, 활공폭탄 유도를 위해 올 한 해에만 10만 개 이상의 코메타 모듈을 주문한 만큼 전자전 신호 교란과 소자 다중화 안테나 간의 기술적 '창과 방패' 레이스는 한층 치열해질 전망이다.</p>]]></description>
+		</item>
+		<item>
+			<title>트럼프, &quot;이스라엘 연 40억 불 지원 연말 중단&quot;... 미 방산업계·이스라엘 &apos;발칵&apos;</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8087</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8087</guid>
+			<author>sbtm2epdl@gmail.com 강지현 기자</author>
+			<category>국방안보</category>
+			<category>20140925141441_2377</category>
+			<pubDate>Wed, 04 Nov 2026 13:44:22 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.chosun.com/resizer/v2/ID3MOTMYXRKPDL4F2XITZ4WB3E.jpg?auth=cebeaeea94f399f18112bfa8a540bb48f4515b9f6366e4b61c21ed2c3f5e5abc&amp;width=616" alt="도널드 트럼프(오른쪽) 미 대통령과 베냐민 네타냐후 이스라엘 총리가 28일(현지 시각) 미 백악관에서 회담하고 있다./로이터 연합뉴스" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">도널드 트럼프(오른쪽) 미 대통령과 베냐민 네타냐후 이스라엘 총리가 올 7월 28일(현지 시각) 미 백악관에서 회담하고 있다./사진=로이터 연합뉴스</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p><br /></p>
+<p>[시큐리티팩트=강지현 기자] 도널드 트럼프 미국 대통령이 이스라엘에 제공해 온 연간 40억 달러(약 5조 4천억 원) 규모의 군사 지원을 올해 말부로 전격 중단하겠다고 선언했다. 당초 2028년까지 예정되어 있던 양국 간 10개년 군사지원 양해각서(MoU)를 2년 일찍 종료하겠다는 전격적인 조치에 이스라엘 정치권은 물론 미국 방위산업계 전체가 커다란 충격에 빠졌다.</p>
+<p><br /></p>
+<p>트럼프 대통령은 3일(현지시간) 미국 중간선거 투표가 진행되던 중 방송된 '폭스 앤 프렌즈(Fox &amp; Friends)' 인터뷰에서 "비비 네타냐후 이스라엘 총리와 수개월 전 이미 합의한 사항"이라며 "올해 말까지 이스라엘에 대한 40억 달러 지원을 중단할 것"이라고 밝혔다.</p>
+<p><br /></p>
+<p>그는 지원 중단 이유에 대해 "이스라엘은 매우 번창하고 성공한 국가이며 자신들의 돈으로 무기를 구매할 능력이 충분하다"며 "좌파 정치가들이 이 40억 달러 지원을 불공정의 신호로 악용하고 있는 상황을 좌시할 수 없다"고 덧붙였다.</p>
+<p><br /></p>
+<h3>이스라엘 내부 '경악'… "안보에 심대한 타격" 비판 고조</h3>
+<p>트럼프 대통령의 발표 직후 이스라엘 재무부와 국방부는 사전 통보를 받지 못했다며 당혹감을 감추지 못하고 있다. 네타냐후 총리가 그동안 미국 군사 원조에 대한 의존도를 줄이고 자립적 파트너십으로 전환하겠다는 구상을 밝혀왔지만 연말이라는 즉각적인 시점에 지원이 중단될 줄은 예상하지 못했다는 반응이다.</p>
+<p><br /></p>
+<p>이스라엘 야권은 네타냐후 정부의 외교 안보 참사라며 일제히 맹공을 퍼부었다. 야이르 골란 민주당 대표는 "가자 전쟁과 이란과의 충돌 여파로 국방 지출이 늘고 방공망 소모가 심각한 상황에서 미국의 지원 중단은 이스라엘 안보와 국민 삶의 질에 심대한 타격"이라며 "네타냐후 총리의 참담한 실패"라고 지적했다. 아이젠코트 전 참모총장 역시 "전략적 관계 변화를 언론을 통해 접한 것은 네타냐후의 국정 운영이 얼마나 위험한지 보여준다"고 비판했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2025/06/iaf-f-35i.jpg?strip=all&amp;quality=85&amp;w=1024" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">이스라엘 F-35I '아디르'/사진=이스라엘 국방부</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<h3>록히드마틴·보잉 등 미 방산기업 직접 타격… 사업 수주 연기 불가피</h3>
+<p>이번 조치는 미 방위산업체들에게도 상당한 불확실성을 안겨주고 있다. 그동안 이스라엘에 제공된 미국 대외군사비지출(FMF) 보조금은 이스라엘이 록히드마틴, 보잉 등 미국 방산 대기업의 첨단 무기를 구매하는 데 재투자되는 선순환 구조를 이어왔다.</p>
+<p><br /></p>
+<p>트럼프 대통령은 "이스라엘이 원하는 무기는 무엇이든 현금으로 구매할 수 있다"고 말했지만 이스라엘이 미국 보조금 없이 자체 국방 예산만으로 수십억 달러 규모의 무기를 예정대로 도입하기는 현실적으로 어렵다.</p>
+<p><br /></p>
+<p>이에 따라 이스라엘 공군이 추진 중이던 F-35I '아디르' 전투기 추가 도입과 F-15IA 전투기, KC-46A 공중급유기, 정밀 유도 탄약 계약 등의 지불 지연 및 계약 물량 축소가 불가피해질 전망이다. 이는 민항기 악재로 어려움을 겪던 보잉 방산 부문이나 록히드마틴의 장기 매출 추정치에도 부담으로 작용할 것으로 분석된다.</p>
+<p><br /></p>
+<h3>무기 세일즈 체제로 재편… 이스라엘 자체 방산 기술 자립 가속화</h3>
+<p>한편 글로벌 국방 전문가들은 이번 지원 중단이 미국과 이스라엘 간 방산 협력의 성격을 근본적으로 바꿀 계기가 될 것으로 보고 있다. 이스라엘은 일방적인 원조 수혜국에서 벗어나 실전 검증된 첨단 방산 기술(애로우 3, 아이언 돔 등)을 바탕으로 미국과 '상호주의적 공동 연구·개발(R&amp;D)' 파트너십을 확대할 것으로 예상된다.</p>
+<p><br /></p>
+<p>또한 이스라엘이 자국 방산기업(엘빗, 라파엘, IAI) 육성 및 부품 국산화에 속도를 낼 것으로 보여 미 방산업계는 단순 무기 판매(FMS) 방식에서 탈피해 기술 공유 및 공동 생산 방식으로의 전략 수정이 불가피할 것으로 전망된다.</p>]]></description>
+		</item>
 		<item>
 			<title>정부, 국방 AI 에이전트 개발 본격 추진... 4년간 300억 투입</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8086</link>
@@ -1787,119 +1871,6 @@
    <br />
 </p>
 <p>다만 인수가 곧바로 탐지 성능 향상이나 신규 수주를 뜻하는 것은 아니다. 이번 인수의 성과는 새로 확보한 기술을 기존 해군 사업에 얼마나 효과적으로 결합하고, 고객의 요구에 맞춰 공급하느냐에 달려 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>[SF 분석] 서태평양서 부딪힌 ‘중국 항모전단’과 미·일 ‘킨 소드 27’</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8058</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8058</guid>
-			<author>sbtm2epdl@gmail.com 강지현 기자</author>
-			<category>국방안보</category>
-			<category>20140925141441_2377</category>
-			<pubDate>Mon, 26 Oct 2026 11:49:12 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2610/20261026113952_779bbfe1.jpg" alt="20261026 중국 항모.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">2024년 10월 말 남중국해에서 최초로 쌍항모 전단 훈련을 실시하고 있는 중국 항공모함 랴오닝함과 산둥함 전단./사진=신화·게티이미지</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=강지현 기자] 최근 미·일 연합 훈련과 맞물려 서태평양 해역에 등장한 중국의 첫 항공모함 랴오닝함(CNS Liaoning) 전단이 이전과는 명확히 구분되는 새로운 작전·기술적 전술 패턴을 보여주고 있다.</p>
-<p>
-   <br />
-</p>
-<p>10월 14일 서태평양 진출을 공식 발표한 랴오닝함 전단은 일본 이시가키섬 남쪽 해상 등 동중국해와 서태평양을 잇는 전략적 병목 구간에서 대규모 함재기 이착륙 및 원해 실전 훈련을 강행했다. 이번 기동은 10월 19일부터 10월 29일까지 격년제로 진행되는 미·일 최대 규모의 연합 훈련 ‘킨 소드 27(Keen Sword 27)’과 시기적·지리적으로 직접 맞물리며 대만해협과 동중국해 일대의 긴장감을 더하고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://media.defense.gov/2026/Oct/19/2004016843/825/780/0/261019-F-BG120-1130.JPG" alt="A group of men in various military uniforms interlock arms and pose for a photo outside under a blue sky with clouds; military vehicles are parked behind them." style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미·일 연합 훈련 '킨 소드 27'에 참가한 현장 장병들/출처=미 전쟁부(국방부)</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<h3>미·일 '킨 소드 27' 전력 vs 중국 항모전단 맞대결</h3>
-<p>현재 진행 중인 미·일 연합 훈련 '킨 소드 27'은 미군과 일본 자위대 인원 5만 6천여 명(자위대 약 4만 5천 명, 미군 약 1만 1천 명 등)과 미 해군의 원자력 항공모함 타격단, 미 해병대 라이트닝 캐리어(F-35B 탑재 강습상륙함), 일본 해상자위대의 이즈모급 다목적 운용모함, 최첨단 이지스 구축함 및 5세대 스텔스 전투기(F-35A/B)가 대거 동원된 거대한 전력이다. 호주, 캐나다, 프랑스, 독일, 네덜란드, 뉴질랜드, 필리핀을 비롯해 한국/영국(참관국) 등 우방국 전력도 참가하며 서태평양 내 반접근 격퇴 능력을 시험하고 있다.</p>
-<p>
-   <br />
-</p>
-<p>이에 맞선 중국 랴오닝함 항모전단 역시 만재배수량 1만 3천 톤급의 055형 대형 미사일 구축함 2척과 052D형 유도미사일 구축함, 901형 종합보급함 등을 동원해 강력한 수상 타격 전열을 갖췄다. 특히 이시가키섬 남쪽 250km 해역(일본 배타적경제수역 진입 해역)에서 J-15 함재기와 Z-18 헬기를 250회 이상 이착륙시키며 미·일 연합전력의 접근을 차단하는 실전적 반접근/영역거부(A2/AD) 시위를 전개했다.</p>
-<p>
-   <br />
-</p>
-<h3>중국 3대 항공모함의 기술적 스펙과 운용 방식</h3>
-<p>국방 및 안보 전문가들은 이번 랴오닝함의 서태평양 전개 양상을 정확히 이해하기 위해서는 중국이 보유·건조한 3대 항공모함의 기술적 족보와 운용 방식의 차이에 주목해야 한다고 지적한다.</p>
-<p>
-   <br />
-</p>
-<p>1호함 랴오닝함(6만 톤급)은 소련의 쿠즈네초프급 미완성 함정을 도입해 개조한 중국 최초의 항모다. 스키 점프대(Ski-jump) 방식을 사용해 함재기(J-15) 발사 시 연료와 무장 탑재량에 구조적 한계가 있다. 하지만 14년간 쌓은 운용 노하우를 바탕으로 현재는 후속 항모들을 위해 최신 센서, 레이더, 데이터링크 통신 체계를 먼저 검증하는 '기술 검증 및 교육 전술 플랫폼' 역할을 맡고 있다.</p>
-<p>
-   <br />
-</p>
-<p>2호함 산둥함(6만 6천 톤급)은 랴오닝함을 바탕으로 중국이 독자 건조한 첫 국산 항모다. 스키 점프대 방식을 사용하지만 격납고와 갑판 구조를 최적화하여 함재기(J-15) 탑재 수량을 늘리고 이착륙 주기를 단축했다. 랴오닝함의 검증을 거친 전술을 바탕으로 주력 실전 전력으로 운용된다.</p>
-<p>
-   <br />
-</p>
-<p>3호함 푸젠함(8만 톤급 이상)은 전자기 캐터펄트(EMALS) 시스템을 탑재한 중국 항모 기술의 집약체다. 스키 점프대 방식 대신 전자기력으로 함재기를 발사하여 무장과 연료를 최대로 탑재한 J-15B, 스텔스 함재기 J-35, 조기경보기 KJ-600 등을 차례로 운용할 수 있어 타격 능력이 미 해군 원자력 항모에 한층 가까워졌다.</p>
-<p>
-   <br />
-</p>
-<h3>'근해 방어'에서 '상시 억제'로...</h3>
-<p>이번 기동에서 랴오닝함은 과거처럼 단신으로 신속히 통과하는 수준을 넘어 미·일 연합 훈련의 길목에서 장기간 체류하며 3호함 푸젠함의 전력화를 앞두고 항모전단 통합 지휘통제 능력을 최종 점검하는 모습을 보여주었다.</p>
-<p>
-   <br />
-</p>
-<p>국방 기술 및 안보 전문가들은 "랴오닝함의 이번 서태평양 전개는 중국 해군이 3자 항모 체제(랴오닝·산둥·푸젠)로 가기 위한 운용 노하우와 센서·유도 무장 통합 기술을 최적화하는 과정"이라며 "중국 항모전단의 서태평양 전개 정례화가 한반도 주변 해상 방공식별구역(KADIZ) 및 남방 해상 교역로 안보에 미칠 구조적 변화에 대해 우리도 면밀한 작전적 대비책 마련이 요구된다"고 강조했다.</p>]]></description>
-		</item>
-		<item>
-			<title>과기정통부, 더존비즈온 해킹 중대 사태로 민관합동조사단 착수</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8057</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8057</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>시큐리티</category>
-			<category>20171121074254_1125</category>
-			<pubDate>Mon, 26 Oct 2026 10:58:17 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/011/2026/10/26/0004675087_001_20261026093615459.png?type=w860" alt="더존비즈온이 18일 공지한 침해 사고 현황. 사진 제공=더존비즈온" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">더존비즈온이 18일 공지한 침해 사고 현황./출처=더존비즈온</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>[시큐리티팩트=강태임 기자] 과학기술정보통신부는 국내 대표 ICT 기업인 더존비즈온에서 발생한 해킹 등 침해사고의 원인 규명과 피해 현황 파악을 위해 민관합동조사단을 구성하고 본격적인 조사에 착수했다고 26일 밝혔다.</p>
-<p><br /></p>
-<h3>잇따른 해킹 신고와 개인정보 유출 의혹 사고 경위</h3>
-<p>더존비즈온은 이달 16일과 21일 두 차례에 걸쳐 정보 당국에 침해사고 발생을 신고했다. 신고를 접수한 과기정통부와 한국인터넷진흥원(KISA)은 즉시 더존비즈온 측에 관련 자료 보전을 요구하고 초기 현장 조사를 진행했다.</p>
-<p><br /></p>
-<p>더존비즈온은 지난 18일 자사 홈페이지를 통해 개발 서버에 대한 외부 공격 징후를 확인했다고 공개했다. 유출 가능성이 있는 개인정보 항목은 Smart A 10 일부 이용사가 관리하는 정보 주체의 성명, 암호화된 주민등록번호(뒷 6자리 암호화), 암호화된 계좌번호, 주소, 휴대전화번호, 이메일 등이다.</p>
-<p><br /></p>
-<p>이어 23일에는 외부의 불법 접근으로 백업 서비스 관련 서버에 저장된 개인정보가 유출되었을 가능성이 있는 정황을 추가로 확인했다고 알렸다. 회사 측은 백업 서버 내 보관 중인 데이터는 모두 암호화 상태이며 현재까지 암호화 키가 유출된 정황은 발견되지 않았다고 설명했다. 16일 발생한 사고와의 연관성에 대해서는 조사가 진행 중이다.</p>
-<p><br /></p>
-<h3>정부 긴급 대응 및 민관합동조사단 구성 대책</h3>
-<p>과기정통부는 사고의 중대성과 고객사로의 피해 확산 가능성, 산업 전반에 미칠 파급 영향을 고려해 25일 '침해사고 조사 심의위원회'를 긴급 개최했다. 이 위원회는 정보통신망법 개정에 따라 이달 1일 신설된 법정 기구다.</p>
-<p><br /></p>
-<p>심의위원회는 이번 침해사고를 중대 사태로 규정하고 민관합동조사단 구성을 의결했다. 조사단장은 과기정통부 정보보호네트워크정책관이 맡는다. 과기정통부와 KISA 외에도 사이버보안, 시스템, 네트워크 분야의 민간 전문가들이 합동으로 참여한다. 과기정통부는 사고 원인과 피해 규모를 철저히 조사해 결과를 투명하게 공개할 방침이다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://imgnews.pstatic.net/image/092/2026/10/26/0002442319_001_20261026092812432.jpg?type=w860" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">더존비즈온 을지사옥/출처=EQT</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>기업용 ERP 시장 주도하는 ICT 기업 더존비즈온</h3>
-<p>더존비즈온은 전사적자원관리(ERP), 재무·회계, 그룹웨어 등 기업용 핵심 소프트웨어를 제공하는 국내 대표 ICT 기업이다.</p>
-<p><br /></p>
-<p>대기업부터 중견·중소기업, 세무회계 사무소에 이르기까지 다수의 기업이 더존비즈온의 솔루션을 운용하고 있는 만큼 이번 백업 서버 및 개발 서버 침해사고로 인한 이차적인 기업 정보 유출이나 피해 확산 여부에 방산업계 및 ICT 업계의 관심이 집중되고 있다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
