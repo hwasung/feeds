@@ -4,7 +4,15 @@
 		<title>한국국방연구원 발간물</title>
 		<link>https://www.kida.re.kr/</link>
 		<description>한국국방연구원 발간물</description>
-		<lastBuildDate>Mon, 02 Nov 2026 18:32:22 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2026 18:32:23 +0900</lastBuildDate>
+		<item>
+			<title>얼마나 많은 탄약을 비축해야 할 것인가?</title>
+			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2180&amp;depth=3&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2180&amp;depth=3&amp;lang=kr</guid>
+			<author>이은아</author>
+			<pubDate>Mon, 02 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[<ul><li>저자: 이은아</li><li>발행일자: 2026-11-02</li></ul>]]></description>
+		</item>
 		<item>
 			<title>착시진실 효과와 인지전: 반복되는 거짓은 어떻게 무기가 되는가 (제26-57호)</title>
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=149&amp;depth=2&amp;lang=kr</link>
@@ -236,14 +244,6 @@
 			<author>권보람</author>
 			<pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 권보람</li><li>발행일자: 2026-08-19</li></ul>]]></description>
-		</item>
-		<item>
-			<title>美-이란 전쟁 이후 일본의 비핵 3원칙 재검토 논쟁 (제26-50호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=141&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=141&amp;depth=2&amp;lang=kr</guid>
-			<author>조은일</author>
-			<pubDate>Wed, 19 Aug 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 조은일</li><li>발행일자: 2026-08-19</li></ul>]]></description>
 		</item>
 	</channel>
 </rss>
