@@ -4,7 +4,15 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 04 Nov 2026 21:30:27 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 06:30:25 +0900</lastBuildDate>
+		<item>
+			<title>[테크 차이나] 중국 전기트럭, 교환소에 옮겨놓은 충전시간과 자본</title>
+			<link>https://www.etnews.com/20261027000314</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000314</guid>
+			<category>오피니언</category>
+			<pubDate>Thu, 05 Nov 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[전기트럭의 충전시간은 배터리 교환소의 작업시간으로 옮겨간다. 전기트럭이 떠난 뒤 교환소에서는 회수한 배터리를 충전하고 다음 차량을 위한 재고를 준비한다. 짧아진 정차시간의 반대편에 충전기와 예비 배터리, 전력·토지·자금이 놓인다. 중국 대형 전기트럭 교환망의 본질은 운송사의 시간을 줄이는 대신 설비 운영사와 배터리 보유자가 자산을 투입하는 데 있다. 그 비용을 넘어서는 운송수입이나 차량·인력·대기비 절감이 있어야 거래가 지속된다. 닝더스다이(&...]]></description>
+		</item>
 		<item>
 			<title>틸론 &apos;Dstation X&apos; 국정원 보안기능확인서 취득…공공 도입 요건 &apos;완비&apos;</title>
 			<link>https://www.etnews.com/20261104000482</link>
@@ -261,15 +269,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 13:41:03 +0900</pubDate>
 			<description><![CDATA[피지컬 인공지능(AI) 기업 리얼월드가 김민정 전 한국IBM 컨설팅 대표를 최고운영책임자(COO)로 선임한다고 4일 밝혔다. 김 신임 COO는 한국IBM 컨설팅 대표와 IBM 컨설팅 아시아태평양 기업전략 부문 부사장을 역임했다. 맥킨지앤드컴퍼니에서 글로벌 기업의 성장 전략과 해외 진출을 자문했으며, SK와 한화그룹 임원을 거쳐 LF푸드 대표이사를 지냈다. 포스텍에서 화학 학사, 독일 슈투트가르트대학교에서 고분자화학 박사 학위를 취득했다. 디지털...]]></description>
-		</item>
-		<item>
-			<title>과기정통부, SW마이스터고 연합해커톤 개최…AI 과제 공동 대응</title>
-			<link>https://www.etnews.com/20261104000252</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000252</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 13:29:53 +0900</pubDate>
-			<description><![CDATA[과학기술정보통신부가 '2026년 소프트웨어(SW)마이스터고등학교 연합해커톤'을 4일부터 사흘간 여수 히든베이호텔에서 개최한다. SW마이스터고 5개교에서 자체 선발된 학생 60명이 다른 SW마이스터고 학생들과 함께 12개 혼합 팀을 구성해 대회에 참가, 경쟁을 벌인다. 학생들은 창의적 융합 사고 능력을 증진하고 공동체 역량을 강화하기 위해 처음 만나는 팀원들과 AI·SW 기반 연합 프로젝트를 수행하며 경쟁하고 있다. 올해는 참가자 모집부터 멘토링...]]></description>
 		</item>
 	</channel>
 </rss>
