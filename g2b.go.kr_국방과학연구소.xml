@@ -4,7 +4,16 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Thu, 05 Nov 2026 15:30:40 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 17:30:44 +0900</lastBuildDate>
+		<item>
+			<title>[등록공고][물품&#40;내자&#41;] 공학용 SW</title>
+			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01813349&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01813349&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Thu, 05 Nov 2026 16:54:33 +0900</pubDate>
+			<description><![CDATA[ • 공고번호: R26BK01813349<br/> • 마감일시: 2026-11-13 10:00<br/> • 개찰일시: 2026-11-13 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
+		</item>
 		<item>
 			<title>[변경공고][물품&#40;내자&#41;] 그래픽카드(GPU)</title>
 			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01812306&amp;bidPbancOrd=001</link>
@@ -265,15 +274,6 @@
 			<category>입찰공고</category>
 			<pubDate>Mon, 02 Nov 2026 17:20:16 +0900</pubDate>
 			<description><![CDATA[ • 공고번호: R26BK01804886<br/> • 마감일시: 2026-11-10 10:00<br/> • 개찰일시: 2026-11-10 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
-		</item>
-		<item>
-			<title>[등록공고][물품&#40;내자&#41;] 광 검출기외 5종</title>
-			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804515&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01804515&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Mon, 02 Nov 2026 16:11:10 +0900</pubDate>
-			<description><![CDATA[ • 공고번호: R26BK01804515<br/> • 마감일시: 2026-11-10 10:00<br/> • 개찰일시: 2026-11-10 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
 		</item>
 	</channel>
 </rss>
