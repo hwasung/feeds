@@ -4,7 +4,43 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 05 Nov 2026 08:31:14 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 09:30:32 +0900</lastBuildDate>
+		<item>
+			<title>피앤피시큐어, API 개인정보 유출 대응 위한 접근통제 중요성 강조</title>
+			<link>https://www.etnews.com/20261105000028</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000028</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[최근 응용프로그램 인터페이스(API)를 통한 개인정보 유출 사고가 잇따르면서 사용자 인증뿐 아니라 접근권한과 데이터 처리 행위까지 관리해야 한다는 지적이 나오고 있다. 정보보안 전문기업 피앤피시큐어는 API 보안 사고를 예방하기 위해서는 호출 주체별 접근권한과 정보 조회 범위, 실제 작업 이력을 종합적으로 관리하는 보안체계가 필요하다고 5일 밝혔다. 최근 공개된 사고 사례에서는 로그인 여부만 확인한 채 개인정보 조회 권한을 제대로 검증하지 않거...]]></description>
+		</item>
+		<item>
+			<title>탄소 데이터도 부품 따라 이동한다…글래스돔이 연결한 자동차 공급망</title>
+			<link>https://www.etnews.com/20261104000483</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000483</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[“원소재가 가공을 거쳐 부품이 되고 완성차에 탑재되기까지 탄소 정보도 함께 이어질 수 있을까.” 각 생산 단계의 탄소 데이터를 연결하는 일은 자동차 공급망의 과제다. 기업마다 따로 계산하던 정보를 일관된 기준으로 산정하고 다음 단계 기업이 활용할 수 있도록 교환해야 하기 때문이다. 글래스돔은 지난달 LG화학, 신성오토텍, 신소재산업, LG전자, KG모빌리티(KGM) 등 5개사와 함께 카테나엑스(Catena-X) 제품탄소발자국(PCF) 데이터 교...]]></description>
+		</item>
+		<item>
+			<title>美 중간선거 민주당 압승…AI 데이터센터 건설 제동 우려</title>
+			<link>https://www.etnews.com/20261105000027</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000027</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 08:18:33 +0900</pubDate>
+			<description><![CDATA[미국 중간선거에서 민주당이 압승하면서 인공지능(AI) 데이터센터 건설 사업에 제동이 걸릴 수 있다는 전망이 나온다. 주요 데이터센터 건설 지역에서 신규 개발 중단과 규제 강화를 주장해 온 민주당 후보들이 주지사에 당선되면서다. 4일(현지시간) 블룸버그통신에 따르면 미국 텍사스·오하이오·조지아 등 주요 주지사 선거에서 민주당 후보들이 승리하면서 미국 내 신규 AI 데이터센터 증설 계획의 최대 절반이 규제 강화의 영향을 받을 수 있다는 분석이 나온...]]></description>
+		</item>
+		<item>
+			<title>데이터독, 3분기 매출 35% 증가…AI 수요 확대에 성장세 지속</title>
+			<link>https://www.etnews.com/20261105000022</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000022</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 08:08:37 +0900</pubDate>
+			<description><![CDATA[데이터독이 인공지능(AI) 관련 수요와 대형 고객 확대에 힘입어 올해 3분기 견조한 성장세를 이어갔다. 다만 일부 대형 고객의 계약 조건 변화와 사용량 변동으로 단기 실적의 불확실성도 커졌다. 데이터독은 4일(현지시간) 2026년 3분기(7~9월) 매출이 전년 동기 대비 35% 증가한 11억9709만달러(약 1조6070억원)를 기록했다고 밝혔다. 이는 회사 전망치 상단을 웃돈 수치다. 미국 회계기준(GAAP) 영업이익은 7471만달러(약 100...]]></description>
+		</item>
 		<item>
 			<title>드림시큐리티, 부산 사이버보안 콘퍼런스서 제로트러스트·N2SF 대응 전략 소개</title>
 			<link>https://www.etnews.com/20261105000018</link>
@@ -232,42 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 15:00:00 +0900</pubDate>
 			<description><![CDATA[보험대리점(GA)업계가 개인정보·정보보호 체계를 정비하며 보안 강화에 속도를 내고 있다. 관련 법령 개정에 따라 책임자 지정·신고 의무에 대응하는 동시에 금융보안원 가입과 보험사 공동 대응을 통해 고객정보 보호 역량을 높이는 모습이다. 보험업계에 따르면 대다수 대형GA는 지난달 정보보호최고책임자(CISO) 선임을 마쳤거나, 선임 절차에 착수한 상태다. 지난 9월과 10월 개인정보 보호법과 정보통신망법 개정 시행으로 강화된 개인정보보호책임자(CP...]]></description>
-		</item>
-		<item>
-			<title>스노우플레이크, 자율형 AI 에이전트 공개…기업 업무 자동화 확대</title>
-			<link>https://www.etnews.com/20261104000371</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000371</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:58:33 +0900</pubDate>
-			<description><![CDATA[스노우플레이크가 이용자 지시 없이도 업무를 수행하는 자율형 인공지능(AI) 에이전트를 공개했다. 기업 데이터와 업무 시스템을 연계해 AI의 실행 범위를 확대하고 보안·비용 관리 기능도 강화했다. 스노우플레이크는 3일(현지시간) 영상회의로 개최한 연례 개발자회의 '스노우플레이크 엑스퍼디션 2026' 행사에서 기존 AI 에이전트 제품인 '코코'와 '코워크'를 자율형 에이전트로 고도화한 '코코·코워크 봇'을 선보였다. 코코·코워크 봇은 사전에 설정한...]]></description>
-		</item>
-		<item>
-			<title>&apos;니케&apos; PC 런처 악성코드 유입 정황... 中퍼블리셔 글로벌 게임 공급망 보안 &apos;비상&apos;</title>
-			<link>https://www.etnews.com/20261104000370</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000370</guid>
-			<author>박정은</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:56:58 +0900</pubDate>
-			<description><![CDATA[시프트업이 개발한 '승리의 여신: 니케' PC 런처에서 악성코드 유입 정황이 발견되며 글로벌 게임 서비스 공급망 보안 문제가 수면 위로 떠올랐다. 니케가 이용한 중국 텐센트 계열 레벨 인피니트는 세계 시장에서 다양한 대형 게임을 서비스하고 있다. 실제 침해 범위가 어디까지인지에 게임업계와 이용자 긴장이 높아지고 있다. 4일 깃허브에 공개된 보안 분석 보고서에 따르면 니케 PC 런처가 불러오는 레벨 인피니트 콘텐츠전송네트워크(CDN)의 자바스크립...]]></description>
-		</item>
-		<item>
-			<title>제논, 중기부 &apos;스케일업 팁스&apos; 선정…휴머노이드 자율 작업 기술 개발</title>
-			<link>https://www.etnews.com/20261104000369</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000369</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:56:29 +0900</pubDate>
-			<description><![CDATA[제논이 휴머노이드 로봇의 작업 수행 능력을 높이는 핵심 기술 개발에 나선다. 제논은 중소벤처기업부와 중소기업기술정보진흥원이 주관하는 '스케일업 팁스' 연구개발 과제에 선정돼 휴머노이드의 장기 작업 능력을 높이기 위한 기술을 개발한다고 4일 밝혔다. 선정 과제는 '체화 인지형 세계모델 기반 행동 감독 기술 개발'이다. 휴머노이드가 여러 단계의 작업을 수행하면서 발생하는 오류를 스스로 판단하고 복구해 최종 목표를 완수하도록 하는 기술이다. 제논은...]]></description>
-		</item>
-		<item>
-			<title>캠시스 “삼성 AI 냉장고용 카메라 양산”</title>
-			<link>https://www.etnews.com/20261104000358</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000358</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 14:45:37 +0900</pubDate>
-			<description><![CDATA[캠시스는 삼성전자 냉장고 '비스포크 AI 패밀리허브' 전 모델에 적용되는 카메라 모듈 공급을 시작했다고 4일 밝혔다. 회사는 가전용에서 첫 양산 매출이 발생했다면서 삼성전자 가전(DA) 사업부와의 협력을 확대해 다양한 가전 제품으로 공급을 넓힐 계획이라고 설명했다. 캠시스는 삼성전자 스마트폰에 들어가는 카메라 모듈을 양산해온 곳이다. 캠시스는 가전 외에도 로봇 등 비모바일 분야로 카메라 모듈 적용처를 확대하고 있다. 보안 분야에서는 안면인식용...]]></description>
 		</item>
 	</channel>
 </rss>
