@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 05 Nov 2026 18:31:44 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 20:30:36 +0900</lastBuildDate>
+		<item>
+			<title>지큐티코리아, 고내방사선 광검출 반도체 시제품 개발…2027년 상용화</title>
+			<link>https://www.etnews.com/20261105000522</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000522</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 19:49:37 +0900</pubDate>
+			<description><![CDATA[양자통신·양자센서 전문기업 지큐티코리아가 강한 방사선 환경에서도 정밀한 측정 성능을 발휘하는 차세대 광검출 반도체 시제품 6종을 개발했다. 우수한 내방사선 특성을 바탕으로 입자가속기와 입자치료 의료장비 시장 진출을 추진한다. 지큐티코리아는 인듐갈륨인화물(InGaP)과 갈륨비소(GaAs)를 활용한 화합물반도체 기반 광검출소자 시제품을 제작했다고 5일 밝혔다. 광검출 반도체는 미세한 빛을 감지해 전기신호로 바꾸는 부품이다. 입자가속기에서는 입자가...]]></description>
+		</item>
 		<item>
 			<title>[인터뷰] 정명철 에티버스 회장 “올해 2.5조 매출 넘어 피지컬AI까지 내달리겠다”</title>
 			<link>https://www.etnews.com/20261105000476</link>
@@ -259,15 +268,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 05 Nov 2026 14:38:59 +0900</pubDate>
 			<description><![CDATA[가상자산 아로와나토큰을 활용해 비자금을 조성한 혐의로 기소된 김상철 한컴그룹 회장이 1심에서 징역형의 집행유예를 선고받았다. 계열사 자금을 사적으로 사용한 횡령 혐의는 유죄로 판단됐지만 96억원대 가상자산 유용과 관련한 배임 혐의는 무죄가 인정됐다. 5일 수원지방법원 성남지원 형사1부(김경훈 부장판사)는 김 회장에게 징역 1년 6개월에 집행유예 3년을 선고했다. 재판부는 김 회장이 차남 김모 씨와 아로와나테크 대표 정모 씨 등과 공모해 약 96...]]></description>
-		</item>
-		<item>
-			<title>개인정보위, 개인정보 안전조치 안내서 개정</title>
-			<link>https://www.etnews.com/20261105000348</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000348</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 05 Nov 2026 14:35:50 +0900</pubDate>
-			<description><![CDATA[개인정보보호위원회가 공공시스템의 취약점 점검, 침투테스트 의무화, 인공지능(AI) 등 기술환경 변화를 반영해 개인정보 안전조치 안내서를 개정했다. 개인정보위는 최근 개정된 '개인정보의 안전성 확보조치 기준'을 반영하고 현장에서 자주 제기되는 질의사항을 보완한 안내서를 발간했다고 5일 밝혔다. 핵심은 공공시스템 보안점검 의무에 대한 해설이다. 개인정보위는 지난 7월 외부 해킹에 따른 공공부문 개인정보 유출을 예방하기 위해 공공시스템의 취약점 점검...]]></description>
 		</item>
 	</channel>
 </rss>
