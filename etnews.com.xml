@@ -4,7 +4,61 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 05 Nov 2026 09:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 10:30:30 +0900</lastBuildDate>
+		<item>
+			<title>셀렉트스타, 금융 AI 안전성 평가 논문 국제학술대회 ICDM 채택</title>
+			<link>https://www.etnews.com/20261105000093</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000093</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:56:38 +0900</pubDate>
+			<description><![CDATA[셀렉트스타는 공동 연구한 금융 인공지능(AI) 안전성 평가 연구 논문이 데이터 마이닝 분야 국제학술대회 'IEEE ICDM' 메인 컨퍼런스에 채택됐다고 5일 밝혔다. 이번 연구는 금융 거대언어모델(LLM) 레드티밍을 위한 전문가 기반 벤치마크 생성 및 평가 프레임워크를 다룬다. 셀렉트스타가 금융보안원, KAIST와 공동 수행했다. 연구진은 금융 분야 LLM 안전성을 평가하는 프레임워크 '핀레드'를 제시했다. 금융보안 전문가의 지식과 실제 금융...]]></description>
+		</item>
+		<item>
+			<title>&apos;키링으로 결제&apos; 코나아이, NFC 굿즈 사업 추진</title>
+			<link>https://www.etnews.com/20261105000079</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000079</guid>
+			<author>조호현</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:48:27 +0900</pubDate>
+			<description><![CDATA[코나아이가 인기 캐릭터를 활용한 굿즈에 NFC 결제 기능을 담은 선불카드를 출시한다. 코나아이(대표 조정일)는 링크플러스온(대표 백승현)과 EMV·NFC 기반 웨어러블 IP 캐릭터 결제 굿즈 사업을 위한 업무협약을 체결했다고 5일 밝혔다. 코나아이는 EMV 기반 선불카드 발급과 결제 플랫폼 운영을 담당하고, 링크플러스온은 NFC 기반 웨어러블 결제 폼팩터 기술과 IP 굿즈의 기획 및 제작을 맡는다. 양사는 결제 안정성과 디자인 경쟁력을 갖춘 제...]]></description>
+		</item>
+		<item>
+			<title>테이텀, AI 에이전트 보안 플랫폼 &apos;클릭&apos; 출시</title>
+			<link>https://www.etnews.com/20261105000067</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000067</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:35:06 +0900</pubDate>
+			<description><![CDATA[테이텀이 AI 에이전트 보안 위협을 탐지·차단하는 통합 플랫폼 '클릭(Click)'을 출시했다고 5일 밝혔다. 클릭은 AI 에이전트의 자산 식별부터 위협 탐지·차단, 정책 기반 조치, 감사 기록까지 통합 지원한다. 기업 내부에서 사용하는 AI 에이전트와 연결된 외부 도구, AI 모델 등을 자동으로 식별해 보안 담당자가 전체 사용 현황을 파악하도록 지원한다. 특히 기업이 승인하지 않은 AI 도구인 '섀도 AI'를 찾아내고, 악의적인 명령으로 AI...]]></description>
+		</item>
+		<item>
+			<title>이노메트리, 휴머노이드 배터리 검사시장 공략…전담조직 신설</title>
+			<link>https://www.etnews.com/20261105000061</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000061</guid>
+			<author>김명희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:32:37 +0900</pubDate>
+			<description><![CDATA[첨단산업용 X-ray·CT 비파괴 검사장비 전문기업 이노메트리가 휴머노이드 로봇용 배터리 검사 전담조직을 신설하고 관련 사업을 확대한다고 5일 밝혔다. 로봇용으로 주목받는 21시리즈(21Φ) 원통형 배터리를 중심으로 신규 검사장비 공급을 추진한다. 21시리즈 배터리는 검증된 성능과 성숙한 양산기술, 안정적인 공급망을 바탕으로 휴머노이드 로봇 시장에서 주목받고 있다. 최근 현대차그룹의 '아틀라스'에 지름 21㎜ 원통형 배터리가 적용되는 것으로 보...]]></description>
+		</item>
+		<item>
+			<title>샌즈랩, 폐쇄망 전용 AI 위협 인텔리전스 플랫폼 출시</title>
+			<link>https://www.etnews.com/20261105000056</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000056</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:29:07 +0900</pubDate>
+			<description><![CDATA[샌즈랩은 외부 인터넷 연결 없이도 사이버 위협을 분석하고 관련 정보를 조회할 수 있는 인공지능(AI) 기반 위협 인텔리전스 플랫폼 '폐쇄망용 CTX'를 출시했다고 5일 밝혔다. 폐쇄망용 CTX는 기존 사이버 위협 인텔리전스(CTI) 서비스 'CTX'를 망분리 환경에 맞춰 개발한 제품이다. AI 모델과 위협 정보 데이터베이스(DB)를 기관 내부망에 직접 구축해 의심 파일 분석부터 위협 정보 조회까지 독립적으로 수행할 수 있다. 공공·금융·국방 분...]]></description>
+		</item>
+		<item>
+			<title>SK쉴더스, 채용부터 현장까지 안전관리 강화</title>
+			<link>https://www.etnews.com/20261105000051</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000051</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 09:22:08 +0900</pubDate>
+			<description><![CDATA[SK쉴더스가 현장 구성원의 사고 예방을 위해 채용부터 교육, 업무 수행에 이르는 전 과정의 안전관리를 강화한다고 5일 밝혔다. SK쉴더스는 출동대원 채용 과정에서 차량 주행과 주차, 조작 능력 등을 평가해 운전 역량을 검증하고 있다. 올해 약 400명이 평가에 응시했다. 입사 후에는 직무별 특성을 반영한 실습 안전교육을 실시한다. 이륜차를 이용하는 입사 1년 미만 출동대원을 대상으로 전문 교육기관과 함께 안전운전 원칙과 차량 점검, 제동 및 장...]]></description>
+		</item>
 		<item>
 			<title>피앤피시큐어, API 개인정보 유출 대응 위한 접근통제 중요성 강조</title>
 			<link>https://www.etnews.com/20261105000028</link>
@@ -218,56 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[재난 발생 구역을 안전하다고 선언하라는 요구에 인공지능(AI) 에이전트가 요청을 거절하고 필요한 승인 절차를 제시한다. 사람과 차량이 뒤섞인 영상에서는 AI가 얼굴과 차량번호를 알아볼 수 없도록 가려 개인정보를 보호한다. 행정의 신뢰성을 높이는 AI부터 교통 흐름을 개선하고 폭염과 물 부족에 대응하는 기술까지 세계 도시의 산적한 문제를 해결하는 스마트시티 기술이 한자리에 모였다. 3일(현지시간) 스페인 바르셀로나 피라 그란 비아에서 개막한 세계...]]></description>
-		</item>
-		<item>
-			<title>[SCEWC 2026] 도시 문제 해결사로 나선 서울 스타트업…혁신 기술로 유럽 문 두드린다</title>
-			<link>https://www.etnews.com/20261104000213</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000213</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[서울 혁신기업들이 도시의 문제를 해결하는 기술을 앞세워 해외시장 개척에 나섰다. 공장과 건물의 전력 사용을 줄이는 인공지능(AI)부터 지하 재난 현장까지 연결하는 무선통신, 휠체어 이용자를 건물 출입문까지 안내하는 내비게이션까지 다양한 기술과 경험을 공유하며 세계인들로부터 주목받았다. 서울AI재단은 3일부터 5일까지 바르셀로나 피라 그란 비아에서 열리는 세계 최대 스마트시티 전시회 '스마트시티 엑스포 월드 콩그레스(SCEWC) 2026'에서 '...]]></description>
-		</item>
-		<item>
-			<title>[ET시론]40년 신뢰의 K제약바이오 &apos;규제과학 혁신&apos;으로 초격차 미래를 열다</title>
-			<link>https://www.etnews.com/20261104000145</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000145</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 04 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[영화 '마션'에서 화성에 고립된 주인공 마크 와트니는 자신이 가진 식물학 지식과 한정된 자원을 총동원해 기적적으로 생존해 낸다. 절망적인 상황 속에서도 그는 스크린을 향해 '이곳에서 살아남기 위해 과학으로 정면 돌파하겠다'고 외친다. 이 강렬한 대사는 오늘날 총성 없는 패권 전쟁이 벌어지고 있는 글로벌 제약바이오 무대에서, 우리 대한민국의 현주소와 절묘하게 맞닿아 있다. 자원과 영토가 부족한 우리가 세계 시장을 선도할 수 있는 유일한 열쇠는 다...]]></description>
-		</item>
-		<item>
-			<title>[전문가 기고] 자율주행 세계3강, 규제혁신 다음은 &apos;투자의 시간&apos;이다</title>
-			<link>https://www.etnews.com/20261029000150</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261029000150</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 04 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[세계 자율주행 경쟁이 연구개발(R&D)을 넘어 상용화와 산업화의 단계로 접어들었다. 이제 중요한 질문은 “누가 더 뛰어난 기술을 개발했는가”에 그치지 않는다. 누가 더 많은 차량을 실제 도로에 투입하고, 더 많은 데이터를 확보하며, 이를 다시 인공지능(AI) 학습과 안전성 향상으로 연결해 거대한 산업 생태계를 만들어 내는지가 승부를 가른다. 우리 정부의 규제개선 노력은 분명 평가할 필요가 있다. 자율주행자동차법을 통해 시범운행지구 내 유상 여객...]]></description>
-		</item>
-		<item>
-			<title>[기고] 부고는 광고 옆에 붙이지 않는다</title>
-			<link>https://www.etnews.com/20261104000091</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000091</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 04 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[나는 장의사다. 다만 사람이 아니라 기록을 수습한다. 14년간 이 일을 하며 배운 것이 있다. 끝났다는 사실을 알리는 데에도 형식이 있다는 것이다. 종이 부고에는 상주의 이름이 있고 빈소와 발인이 있다. 누가 보냈는지 분명하고 다른 소식과 섞이지 않는다. 받는 사람이 진위를 묻지 않고 슬퍼하도록 오랜 시간이 만든 것이다. 그런데 그 부고가 뚫렸다. 2023년 겨울, '아버지께서 금일 아침에 별세하셨기에 삼가 알려드립니다'라는 문자가 돌았다. 링...]]></description>
-		</item>
-		<item>
-			<title>[임성은의 정책과 혁신] 〈52〉공무원의 전문성, 채용보다 활용이 중요하다</title>
-			<link>https://www.etnews.com/20261104000060</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000060</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 04 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[정부와 공무원에게 전문성이 필요한가? 정부에 전문성이 필요하다는 데에는 이견이 없을 것이다. 그러나 공무원의 전문성에 대해서는 평가가 엇갈린다. 공무원들은 대체로 자신의 전문성을 긍정적으로 평가하는 반면, 국민들은 상대적으로 낮게 평가하는 경향이 있다. 그동안 정부는 공무원의 전문성을 높이기 위해 크게 세 가지 방법, 즉 전문가 직접 채용, 교육과 경험을 통한 내부 인력 양성, 외부 전문가 활용 등을 추진해 왔다. 그러나 각각의 방법에는 여전히...]]></description>
-		</item>
-		<item>
-			<title>GA업계, 개인정보 보호 역량 높인다...보안책임자 선임 의무화</title>
-			<link>https://www.etnews.com/20261103000279</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261103000279</guid>
-			<author>박진혁</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 15:00:00 +0900</pubDate>
-			<description><![CDATA[보험대리점(GA)업계가 개인정보·정보보호 체계를 정비하며 보안 강화에 속도를 내고 있다. 관련 법령 개정에 따라 책임자 지정·신고 의무에 대응하는 동시에 금융보안원 가입과 보험사 공동 대응을 통해 고객정보 보호 역량을 높이는 모습이다. 보험업계에 따르면 대다수 대형GA는 지난달 정보보호최고책임자(CISO) 선임을 마쳤거나, 선임 절차에 착수한 상태다. 지난 9월과 10월 개인정보 보호법과 정보통신망법 개정 시행으로 강화된 개인정보보호책임자(CP...]]></description>
 		</item>
 	</channel>
 </rss>
