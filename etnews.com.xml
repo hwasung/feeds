@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 06 Nov 2026 07:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2026 08:30:34 +0900</lastBuildDate>
+		<item>
+			<title>MS, 엔스케일 美 데이터센터 추가 계약 포기</title>
+			<link>https://www.etnews.com/20261106000020</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000020</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 06 Nov 2026 07:38:33 +0900</pubDate>
+			<description><![CDATA[마이크로소프트(MS)가 기업공개(IPO)를 추진하는 인공지능(AI) 인프라 기업 엔스케일의 미국 텍사스 데이터센터에서 추가 컴퓨팅 용량을 확보하려던 계획을 접었다. 5일(현지시간) 블룸버그 통신은 MS가 텍사스주 워드카운티에 있는 엔스케일 데이터센터의 추가 용량 확보 옵션을 행사하지 않기로 했다고 소식통을 인용해 보도했다. MS는 지난해 말 해당 부지에서 약 240메가와트(㎿) 규모의 컴퓨팅 용량을 공급받기로 합의했다. 엔스케일은 당시 MS가...]]></description>
+		</item>
 		<item>
 			<title>포티투마루, GPU·AI 솔루션 결합 &apos;어플라이언스42&apos; 출시</title>
 			<link>https://www.etnews.com/20261106000018</link>
@@ -258,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 05 Nov 2026 14:52:26 +0900</pubDate>
 			<description><![CDATA[내년 8월 서울에서 열리는 '2027 서울 세계청년대회(WYD)'에 전 세계 190개국 순례자 50만명이 참가할 것으로 예상된다. 정순택 서울 세계청년대회 조직위원장(천주교 서울대교구장)은 5일 서울 명동대성당 문화관 꼬스트홀에서 열린 기자간담회에서 “단절의 시대에 필요한 것은 만남의 용기”라며 “세계청년대회는 온 국민이 전 세계 젊은이들과 함께하는 축제의 자리”라고 말했다. 세계청년대회는 1986년 이탈리아 로마에서 시작된 세계 최대 가톨릭...]]></description>
-		</item>
-		<item>
-			<title>몰로코, AI 광고 최적화 기술로 콘텐츠·서비스 발견 앞당긴다</title>
-			<link>https://www.etnews.com/20261105000377</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000377</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 05 Nov 2026 14:51:38 +0900</pubDate>
-			<description><![CDATA[“인공지능(AI) 기반 광고 최적화 기술로 고객사 서비스·콘텐츠가 보다 잘 발견되고 도달되도록 지원하겠습니다.” 안익진 몰로코 대표는 5일 서울 강남구 한국사무소에서 미디어 브리핑을 열고 “AI 에이전트가 쇼핑하는 시대가 오더라도 복잡하고 파편화된 커머스 시장에 여전히 쇼핑을 좋아하고 취미로 즐기는 사람들이 있을 것”이라며 이같이 말했다. 쇼핑을 일로 보면 AI가 주체가 될 수 있지만 쇼핑이 취미인 사람들 행위까지 AI 에이전트가 대체하진 않을...]]></description>
 		</item>
 	</channel>
 </rss>
