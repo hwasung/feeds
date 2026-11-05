@@ -4,7 +4,23 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Tue, 03 Nov 2026 08:02:38 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 18:35:01 +0900</lastBuildDate>
+		<item>
+			<title>1년 차 주니어의 AX 스토리: OS 동적 분석 로직 최적화</title>
+			<link>https://techblog.samsung.com/blog/article/104</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/104</guid>
+			<author>박수영</author>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/104" alt="">]]></description>
+		</item>
+		<item>
+			<title>AX를 통한 전사 암호화 서비스의 운영 효율화와 보안성 강화</title>
+			<link>https://techblog.samsung.com/blog/article/103</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/103</guid>
+			<author>백승규</author>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/103" alt="">]]></description>
+		</item>
 		<item>
 			<title>“Epoch을 2배로 늘려줘” — 메신저와 LLM Agent로 MLOps Workflow 이어가기</title>
 			<link>https://techblog.samsung.com/blog/article/102</link>
