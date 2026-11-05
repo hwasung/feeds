@@ -4,7 +4,34 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 05 Nov 2026 13:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 14:30:29 +0900</lastBuildDate>
+		<item>
+			<title>이억원 금융위원장 “금융사 CEO, 비상대응반 즉시 꾸려라”…580곳 보안 전수점검 극약처방</title>
+			<link>https://www.etnews.com/20261105000301</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000301</guid>
+			<author>류태웅</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 05 Nov 2026 13:54:51 +0900</pubDate>
+			<description><![CDATA[이억원 금융위원장이 전 금융권 최고경영자(CEO)에게 전사적 비상대응반을 즉시 구성하라고 주문했다. 9월 말 이후 금융사 37곳에서 침해사고가 잇따르자 약 580개 금융사에 대한 보안 전수점검에 착수하면서 CEO에게 보안을 직접 챙기라고 경고한 것이다. 이 위원장은 5일 금융보안원 여의도 분원에서 열린 'AI시대 보안체계 혁신을 위한 전 금융권 간담회'에서 “고객의 정보와 재산을 지키지 못하는 금융회사는 이미 그 존재가치를 잃은 것”이라고 말했...]]></description>
+		</item>
+		<item>
+			<title>[ET톡]책임의 정치</title>
+			<link>https://www.etnews.com/20261105000291</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000291</guid>
+			<author>박윤호</author>
+			<category>오피니언</category>
+			<pubDate>Thu, 05 Nov 2026 13:46:54 +0900</pubDate>
+			<description><![CDATA[국정감사가 끝나자마자 예산 전쟁이 시작됐다. 여야는 820조9000억원 규모 내년도 예산안을 놓고 원안 사수와 대폭 삭감을 주장하며 날 선 공방을 벌이고 있다. 물론 저마다 명분은 있다. 한쪽은 미래를 위한 투자라 주장하고, 다른 한쪽은 미래세대에 빚을 떠넘기는 행위라고 맞선다. 그러나 서로의 목소리만 클 뿐 정작 국민이 궁금해하는 구체적인 내용에는 명쾌한 답이 없다. 일각에서는 이 같은 공방이 결국 지역구 예산을 챙기기 위한 '끼워넣기'의 사...]]></description>
+		</item>
+		<item>
+			<title>[데스크라인]우리의 시간을 차지한 외산 플랫폼</title>
+			<link>https://www.etnews.com/20261105000277</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000277</guid>
+			<author>문보경</author>
+			<category>오피니언</category>
+			<pubDate>Thu, 05 Nov 2026 13:36:44 +0900</pubDate>
+			<description><![CDATA[X, 제미나이, 페이스북, 유튜브, 텔레그램. 이재명 대통령이 소통과 동향 파악 등을 위해 사용하는 플랫폼이다. 그간에 공개된 자료를 종합해보면 이 대통령은 궁금한 것이 있으면 생성형 인공지능(AI) 제미나이에 물어보고, 홍보하고 싶거나 주장하고 싶은 것이 있으면 X나 페이스북을 찾는다. 국무회의 생중계는 유튜브에 올리고, 공직자들과 업무 논의는 카카오톡이 아니라 텔레그램으로 하는 것으로 알려졌다. 유튜브 프로그램 '대통령의 Y'로 국민과 직접...]]></description>
+		</item>
 		<item>
 			<title>KAIST 테라랩, HBM·HBF 설계에 AI 에이전트 접목 연구 성과 공유</title>
 			<link>https://www.etnews.com/20261105000252</link>
@@ -220,15 +247,6 @@
 			<description><![CDATA[몽고DB가 상용 데이터베이스(DB) 제품의 조달청 나라장터 등록을 발판으로 국내 공공시장 공략을 강화한다. 몽고DB는 지음지식서비스와 협력해 '몽고DB 엔터프라이즈 어드밴스드 8.0'을 조달청 나라장터에 등록했다고 4일 밝혔다. 공공기관은 이제 기존 조달 장벽 없이 몽고DB를 즉시 도입할 수 있게 된 것이다. 몽고DB 엔터프라이즈 어드밴스드는 고객이 자체 인프라에 구축해 운영하는 상용 DB 제품이다. 기관 내부 서버나 프라이빗·하이브리드 클라우...]]></description>
 		</item>
 		<item>
-			<title>빅스데이터, AI 기반 기업 의사결정 시장 공략 본격화</title>
-			<link>https://www.etnews.com/20261104000064</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000064</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[데이터 분석 및 시각화 전문기업 빅스데이터(대표 김대중)가 자체 솔루션 '데이터웍스(DataWorks)'와 '에이전트웍스(AgentWorks)'를 앞세워 인공지능(AI) 기반 기업 의사결정 지원 시장 공략에 나선다. 27년간 축적한 데이터 분석 역량에 AI 기술을 결합해 '기업 의사결정 지능(Enterprise Decision Intelligence)' 전문기업으로 도약한다는 전략이다. 김대중 빅스데이터 대표는 “기업의 AI 경쟁력은 모델 성능...]]></description>
-		</item>
-		<item>
 			<title>[사설] 韓 전기차, 中에 밀리도록 둘 건가</title>
 			<link>https://www.etnews.com/20261104000375</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261104000375</guid>
@@ -238,6 +256,15 @@
 			<description><![CDATA[중국이 전기차를 무섭게 국내외에서 팔아치우고 있다. 사실상, 가격이 무의미할 정도의 저가공세로 시장을 장악했다. 유럽은 말할 것도 없고, 한국시장에서도 무섭게 치고 오른다. 이런 사정은 데이터로도 확인된다. 한국경제인협회가 펴낸 보고서를 보면 한국 전기차 수출·내수시장 비교우위는 계속 떨어지고 있지만 중국 전기차는 가파르게 상승하고 있다. 한국 비전기차(내연기관차)의 수출특화도가 높아지고 있는 것과는 대조적이다. 이는 중국 전기차가 자국 내수는...]]></description>
 		</item>
 		<item>
+			<title>빅스데이터, AI 기반 기업 의사결정 시장 공략 본격화</title>
+			<link>https://www.etnews.com/20261104000064</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261104000064</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 04 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[데이터 분석 및 시각화 전문기업 빅스데이터(대표 김대중)가 자체 솔루션 '데이터웍스(DataWorks)'와 '에이전트웍스(AgentWorks)'를 앞세워 인공지능(AI) 기반 기업 의사결정 지원 시장 공략에 나선다. 27년간 축적한 데이터 분석 역량에 AI 기술을 결합해 '기업 의사결정 지능(Enterprise Decision Intelligence)' 전문기업으로 도약한다는 전략이다. 김대중 빅스데이터 대표는 “기업의 AI 경쟁력은 모델 성능...]]></description>
+		</item>
+		<item>
 			<title>IBM, 연세대 양자컴퓨터에 &apos;퀀텀 나이트호크&apos; 도입…“회로 처리량 25배 증가”</title>
 			<link>https://www.etnews.com/20261104000419</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261104000419</guid>
@@ -245,33 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 04 Nov 2026 16:38:14 +0900</pubDate>
 			<description><![CDATA[IBM이 연세대학교 양자컴퓨터에 최신 '나이트호크' 프로세서를 도입해 국내 양자 연구·교육 지원을 강화한다. 최신 '나이트호크' 프로세서를 도입해 양자회로 처리량이 25배 높아진 만큼 복잡한 과학 문제 해결하는 양자컴퓨팅 연구에 속도가 붙을 전망이다. 4일 IBM은 연세대학교 송도 국제캠퍼스 양자컴퓨팅센터에 구축된 IBM 퀀텀 시스템 원에 최신 IBM 퀀텀 나이트호크 양자 프로세서를 도입했다고 발표했다. 이번 구축은 IBM 퀀텀 네트워크 참여...]]></description>
-		</item>
-		<item>
-			<title>IT서비스 업계 &apos;반프리&apos; 관행 우려…공공SW 발주구조 개선 목소리</title>
-			<link>https://www.etnews.com/20261104000402</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000402</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[공공·금융 소프트웨어(SW) 사업에서 프리랜서 대신 수행기업 소속 인력을 상당 부분 요구하는 발주 관행이 여전한 것으로 나타났다. 이로 인해 프리랜서임에도 해당 기업에 속해야 하는 이른바 '반프리' 계약이 이어지고 있다. 외부 전문인력을 적법하게 활용할 수 있도록 발주·평가구조를 정비해야 한다는 목소리가 나온다. 반프리 계약은 개발자와 근로계약·용역계약을 함께 맺고 보수를 임금과 용역대가로 나눠 지급하는 방식이다. 프리랜서지만 해당 사업에 참여...]]></description>
-		</item>
-		<item>
-			<title>[뉴스줌인] &apos;자사인력&apos; 요구 여전한 공공 SW…외부 전문인력 인정 넓혀야</title>
-			<link>https://www.etnews.com/20261104000403</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000403</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[공공·금융 소프트웨어(SW) 사업에서 자사 직원 투입을 요구하거나 외부인력 활용을 제한하는 발주조건이 여전히 남아 있다. 업계는 '반프리' 계약을 막는 데 그치지 않고, 외부 전문인력을 법에 맞게 활용할 수 있도록 기준도 마련해야 한다고 지적한다. 4일 전자신문이 지난해와 올해 공고된 공공·금융 SW사업 제안요청서(RFP) 4건을 분석한 결과, 자사인력을 요구하거나 외부인력 활용을 제한하는 조건이 확인됐다. A공공기관이 올해 8월 공고한 정보시...]]></description>
-		</item>
-		<item>
-			<title>제네시스네스트, 대규모 동시접속 특화 채팅 솔루션 &apos;챗플래닛&apos; 출시</title>
-			<link>https://www.etnews.com/20261104000409</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261104000409</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 04 Nov 2026 16:12:04 +0900</pubDate>
-			<description><![CDATA[제네시스네스트는 대규모 동시접속 환경에서도 실시간 메시지를 안정적으로 처리하는 채팅 솔루션 '챗플래닛'을 출시하고 팬덤 플랫폼과 라이브 서비스 등 고부하 채팅 시장 공략에 나선다고 4일 밝혔다. 챗플래닛은 실시간 채팅 기능을 응용프로그래밍인터페이스(API) 형태로 제공하는 기업용 솔루션이다. 1대1 대화와 그룹 채팅은 물론, 아티스트와 다수의 팬이 동시에 참여하는 대규모 팬덤 채널까지 지원한다. 제네시스네스트는 외부 서비스형소프트웨어(SaaS)...]]></description>
 		</item>
 	</channel>
 </rss>
