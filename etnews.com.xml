@@ -4,7 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 06 Nov 2026 06:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2026 07:30:31 +0900</lastBuildDate>
+		<item>
+			<title>포티투마루, GPU·AI 솔루션 결합 &apos;어플라이언스42&apos; 출시</title>
+			<link>https://www.etnews.com/20261106000018</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000018</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 06 Nov 2026 06:07:39 +0900</pubDate>
+			<description><![CDATA[포티투마루가 인공지능(AI) 인프라와 에이전틱 AI 솔루션을 결합한 일체형 AI 전환(AX) 솔루션 '어플라이언스 42'를 출시했다. 별도 서버 구축 없이 AI를 도입할 수 있는 하드웨어(HW)·소프트웨어(SW) 일체형 솔루션이다. 그래픽처리장치(GPU)·신경망처리장치(NPU)·언어처리장치(LPU) 등 인프라와 자체 AI 솔루션을 통합했다. 기업 내부망에서 구동하는 온프레미스 방식이 기본 형태다. 별도 장비를 구축하기 어려운 기업을 위해 프라이...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 복합운송, 철도와 선사가 파는 납품 약속</title>
 			<link>https://www.etnews.com/20261027000173</link>
@@ -258,15 +267,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 05 Nov 2026 14:51:38 +0900</pubDate>
 			<description><![CDATA[“인공지능(AI) 기반 광고 최적화 기술로 고객사 서비스·콘텐츠가 보다 잘 발견되고 도달되도록 지원하겠습니다.” 안익진 몰로코 대표는 5일 서울 강남구 한국사무소에서 미디어 브리핑을 열고 “AI 에이전트가 쇼핑하는 시대가 오더라도 복잡하고 파편화된 커머스 시장에 여전히 쇼핑을 좋아하고 취미로 즐기는 사람들이 있을 것”이라며 이같이 말했다. 쇼핑을 일로 보면 AI가 주체가 될 수 있지만 쇼핑이 취미인 사람들 행위까지 AI 에이전트가 대체하진 않을...]]></description>
-		</item>
-		<item>
-			<title>[SCEWC 2026] “스마트시티 다음은 AI 시티…데이터·행정 역량이 관건”</title>
-			<link>https://www.etnews.com/20261105000361</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000361</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 05 Nov 2026 14:44:46 +0900</pubDate>
-			<description><![CDATA[세계 도시들이 교통과 환경 데이터를 수집·시각화하는 스마트시티를 넘어 인공지능(AI)으로 행정과 도시 운영의 의사결정을 지원하는 단계로 이동하고 있다. AI가 활용할 수 있는 데이터와 이를 실제 서비스로 연결할 행정 역량, 사람의 판단과 책임을 갖추는 것이 핵심 과제로 제시됐다. 이정훈 연세대 교수는 서울AI재단이 4일(현지시간) 스페인 바르셀로나 '스마트시티 엑스포 월드 콩그레스(SCEWC) 2026' 서울관에서 개최한 '제6회 스마트시티 서...]]></description>
 		</item>
 	</channel>
 </rss>
