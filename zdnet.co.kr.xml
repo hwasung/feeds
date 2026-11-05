@@ -4,7 +4,367 @@
 		<title>지디넷코리아</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>지디넷코리아</description>
-		<lastBuildDate>Thu, 05 Nov 2026 08:32:06 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 05 Nov 2026 09:31:18 +0900</lastBuildDate>
+		<item>
+			<title>일본 경찰청-구글, 가정용 인터넷 회선 악용 서버 무해화 조치</title>
+			<link>https://zdnet.co.kr/view/?no=20261104192352</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104192352</guid>
+			<author>박광하 기자</author>
+			<category>일본경찰청</category>
+			<category>구글</category>
+			<category>컴퓨팅</category>
+			<pubDate>Thu, 05 Nov 2026 09:28:48 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/c068a36b3608c864a96c91919ec01284.jpg" alt=""><p>일본 경찰이 구글과 연계해 일반 가정의 인터넷 회선을 악용하던 &apos;레지덴셜 프록시(Residential Proxy)&apos; 서버를 무해화했다고 4일 밝혔다. 해당 서버는 회선 소유자가 모르는 사이에 사이버 공격을 가하는 데 악용됐으며, 인터넷뱅킹 부정송금 범죄에도 쓰였던 것으로 파악됐다.</p>
+<p>산케이신문, 교도통신 등 여러 외신은 일본 경찰청 발표를 인용, 2025년 발생한 인터넷뱅킹 부정송금 피해 4747건 가운데 적어도 737건에 레지덴셜 프록시가 쓰였다고 전했다. 피해액은 약 13억9000만엔(약 117억 4800만원)으로, 건수 기준으로 전체의 약 15.5%에 해당한다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/04/c068a36b3608c864a96c91919ec01284.jpg" alt="일본 경찰청이 있는 도쿄도 치요다구 중앙합동청사 제2호관. (사진=일본 총무성)">
+<p>레지덴셜 프록시는 인터넷 서비스 제공업체(ISP)가 고객의 댁내 인터넷 기기에 할당한 실제 가정용 IP 주소를 사용해 트래픽을 우회시키는 중개 서버다. 이용자의 회선을 제3자에게 빌려주는 통로로 쓰일 수 있다.</p>
+<p>일본의 인터넷뱅킹 부정송금 피해는 해마다 커지고 있다. 일본 경찰청에 따르면 2025년 관련 피해액은 103억9700만엔(약 966억원)으로 전년보다 약 20% 늘어 사상 최대를 기록했다. 최근 5년 사이 피해 규모는 12배가 됐다.</p>
+<p>금융기관을 사칭한 자동응답시스템(ARS) 전화로 시작해 상담원을 연결하고 가짜 사이트로 유도해 법인 계좌 인증 정보를 빼내는 보이스피싱이 주된 수법이다. 법인 피해의 90% 이상이 이 수법에 당했다. 건당 피해액은 법인이 약 2400만엔(약 2억 381만원)으로 개인(약 120만엔, 약 1019만원)의 20배 수준이다.</p>]]></description>
+		</item>
+		<item>
+			<title>KISA, CPO 지정·신고 실무 용역사업 추진</title>
+			<link>https://zdnet.co.kr/view/?no=20261104180051</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104180051</guid>
+			<author>박광하 기자</author>
+			<category>한국인터넷진흥원</category>
+			<category>KISA</category>
+			<category>IT 일반</category>
+			<pubDate>Thu, 05 Nov 2026 09:28:39 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/03/75040570dbc1045e17b87fdb86c9db08.jpg" alt=""><p>개인정보보호책임자(CPO) 지정, 신고제도 관련 용역 사업이 추진된다. 선정된 사업자는 개인정보 보호법에 따른 CPO 지정, 변경, 해제 신고의 접수 및 처리, 지정·신고 의무대상 조사를 수행한다.</p>
+<p>한국인터넷진흥원(KISA)은 이 같은 &apos;개인정보 보호책임자 지정·신고 제도 운영 지원&apos; 입찰을 4일 공고했다.</p>
+<p>과업은 CPO 신고 접수 및 처리이력 관리, 지정·신고 의무대상자 조사방법론 개발, 의무대상자 현황조사, 제도 안내와 헬프데스크 지원 등이다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/03/75040570dbc1045e17b87fdb86c9db08.jpg" alt="신관 준공을 마친 한국인터넷진흥원(KISA) 나주 본원 전경. (사진=KISA)">
+<p>신고는 온라인 시스템으로 받고, 웹페이지 이용이 어려운 해외사업자 등은 이메일로 접수해 처리 결과를 안내한다. 신고는 접수와 동시에 완료되며 이후 필수 증빙서류 누락 여부 등 형식 요건을 확인해 사후 보완을 통지한다.</p>
+<p>조사방법론 개발 단계에서는 조사 전에 세부 추진계획과 일정표를 제출해야 한다. 의무대상자 조건별 조사방법을 제시하고 설계와 검증을 거쳐 최종 방법론을 만들며 신뢰할 수 있는 기관의 기초자료와 교차검증이 가능한 자료를 확보해야 한다.</p>
+<p>헬프데스크 지원에는 자격 준수 여부를 확인하는 검토위원회의 소집과 운영 지원, 검토결과 안내, 이력관리가 포함된다.</p>
+<p>올해 개정된 개인정보 보호법은 개인정보 보호책임자(CPO)를 지정, 변경, 해제할 때 이사회 의결을 거쳐 개보위에 신고하도록 했다. 개보위는 신고 대상을 700~800곳으로 추정했다.</p>
+<p>신고 기한은 사유 발생일부터 6개월 이내다. 시행 전에 지정된 CPO는 별도 이사회 의결 없이 시행일부터 6개월 안에 신고하면 되고 부득이한 사유가 인정되면 최대 1년까지 연장할 수 있다.</p>
+<p>개보위는 내년 12월 31일까지 계도기간을 둔다. 이 기간에는 CPO 미지정, 자격요건 미비, 이사회 의결 의무 위반, 신고 지연에 과태료를 부과하지 않는다.</p>
+<p>개정법 시행일인 9월 11일 한국개인정보보호책임자협의회가 개보위, KISA와 함께 지정과 신고 실무 매뉴얼을 발간했다.</p>]]></description>
+		</item>
+		<item>
+			<title>[1보] 롯데에너지머티리얼즈, 3분기 영업손실 213억원…적자 축소</title>
+			<link>https://zdnet.co.kr/view/?no=20261105092728</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105092728</guid>
+			<author>류은주 기자</author>
+			<category>롯데에너지머티이</category>
+			<category>실적</category>
+			<category>3분기</category>
+			<category>IT 일반</category>
+			<pubDate>Thu, 05 Nov 2026 09:27:28 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2024/01/29/f64469ee342f338824efa9fd5871e47f.png" alt=""><p>롯데에너지머티리얼즈는 올해 3분기 연결기준 매출 2897억원, 영업손실 213억원을 기록한 것으로 잠정집계됐다고 5일 공시했다. 전년 동기 대비 매출은 101.6% 증가했으며, 영업손실은 38% 축소됐다.</p>
+<img src="https://image.zdnet.co.kr/2024/01/29/f64469ee342f338824efa9fd5871e47f.png" alt="롯데에너지머티리얼즈">]]></description>
+		</item>
+		<item>
+			<title>플레이디, 사내 AI 에이전트 플랫폼 구축…광고 업무 자동화 도입</title>
+			<link>https://zdnet.co.kr/view/?no=20261105091749</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105091749</guid>
+			<author>안희정 기자</author>
+			<category>AI</category>
+			<category>광고</category>
+			<category>데이터</category>
+			<category>마케팅</category>
+			<category>광고주</category>
+			<category>플레이디</category>
+			<category>에이전트</category>
+			<category>인터넷</category>
+			<pubDate>Thu, 05 Nov 2026 09:25:16 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/cfd43643334d506d79f8757ba929cb0b.png" alt=""><p><span style="letter-spacing: 0.8px;">디지털 광고대행사 플레이디가 광고 운영부터 데이터 분석, 콘텐츠 제작까지 실무에 활용할 수 있는 인공지능(AI) 에이전트 플랫폼을 구축했다. 실제 신규 광고주 수주에 활용한 AI 솔루션도 전사에 공유해 업무 효율성과 수주 경쟁력을 높인다는 계획이다.</span></p>
+<p>SOOP 계열사 플레이디는 사내 AI 에이전트 플랫폼 &apos;파이(P.AI)&apos;를 구축했다고 5일 밝혔다.</p>
+<p>파이는 &apos;PlayD AI&apos;의 줄임말로, 플레이디 구성원들이 광고·마케팅 업무 과정에서 직접 발굴하고 개발한 AI 에이전트와 업무 도구를 통합해 제공하는 사내 전용 플랫폼이다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/05/cfd43643334d506d79f8757ba929cb0b.png" alt="플레이디">
+<p>외부 AI 서비스를 단순 도입하는 방식에서 벗어나 회사가 축적한 광고 운영 경험과 실무 노하우를 AI 에이전트로 구현한 것이 특징이다.</p>
+<p>현업에서 반복적으로 발생하는 업무를 AI 에이전트로 개발하면 파이를 통해 전사에 공유하고, 실제 사용 과정에서 수집한 피드백을 바탕으로 기능을 개선하는 방식으로 운영된다.</p>
+<p>현재 파이에는 광고·마케팅 업무를 지원하는 AI 에이전트 21종이 탑재돼 있다. 광고 운영·모니터링, 데이터 수집·가공·리포팅, 리서치·분석, 소재·콘텐츠 제작, 내부 업무·관리 등 5개 분야로 구성됐다.</p>
+<p>주요 기능으로는 확장검색 키워드 자동 분류, 광고 게재 지면 캡처 자동화, 매체별 데이터 통합 가공, 경쟁사 광고 소재 분석, 네이버스토어 리뷰 분석 등이 있다.</p>
+<p>디스플레이 광고(DA)와 카카오 비즈보드 소재를 자동으로 제작하거나 신규 마케터의 업무 적응을 지원하는 에이전트도 포함됐다.</p>
+<p>플레이디는 향후 직원들이 직접 개발한 에이전트 가운데 생산성과 활용성이 검증된 도구를 추가해 활용 범위를 넓힐 계획이다.</p>
+<p>AI 에이전트를 실제 광고주 수주에 활용한 사례도 공개했다.</p>
+<p>플레이디에 따르면 사내 AI 태스크포스(TF)가 개발한 &apos;AI 키워드 인사이트 솔루션&apos;은 실제 경쟁입찰 과정에서 활용돼 신규 광고주 수주에 기여했다. 해당 솔루션은 현재 파이에 탑재돼 전사 마케터가 이용하고 있다.</p>
+<p>광고주 데이터 보안을 고려해 플랫폼은 사내 전용 환경에서만 접근할 수 있도록 설계했다.</p>
+<p>내부 서버와 보안 체계를 기반으로 AI 에이전트를 관리하며, 일부 에이전트는 업무 데이터가 외부 서버에 별도로 저장되지 않고 사용자 환경에서 처리되도록 했다.</p>
+<p>플레이디는 이를 통해 광고주 데이터의 외부 저장을 최소화하고, AI 활용 과정에서 발생할 수 있는 보안 위험을 줄인다는 방침이다.</p>
+<p>조명진 플레이디 대표는 "AI를 업무에 사용하는 것을 넘어 광고 운영 경험과 마케팅 노하우를 AI 에이전트 형태로 자산화하는 단계로 나아가고 있다"며 "실제 수주와 업무 생산성 향상으로 이어지는 AI 활용 사례를 확대해 광고주의 성장을 지원하겠다"고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>외국인 부산 여행상품 예약 118% 증가…클룩, 부산 지역축제 3개 해외 판매</title>
+			<link>https://zdnet.co.kr/view/?no=20261105090906</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105090906</guid>
+			<author>안희정 기자</author>
+			<category>부산</category>
+			<category>클룩</category>
+			<category>티켓</category>
+			<category>관광</category>
+			<category>인터넷</category>
+			<pubDate>Thu, 05 Nov 2026 09:13:59 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/d322178cb92c6ae36cf8c55ad2a910c6.jpg" alt=""><p>외국인 관광객을 대상으로 한 부산 여행 상품 예약이 지난해보다 두 배 이상 늘어난 것으로 나타났다. 서울보다 높은 증가율을 기록한 가운데 지역축제와 교통 서비스를 연계한 관광 상품도 인기를 끌고 있다.</p>
+<p>글로벌 여행 플랫폼 클룩(Klook)은 올해 1월 1일부터 10월 25일까지 부산 지역 여행 상품 예약 건수가 전년 동기 대비 118% 증가했다고 5일 밝혔다.</p>
+<p>같은 기간 서울 지역 여행 상품 예약 증가율은 41.5%로, 부산의 증가율이 서울보다 약 2.8배 높았다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/05/d322178cb92c6ae36cf8c55ad2a910c6.jpg" alt="부산불꽃축제">
+<p>클룩은 부산축제조직위원회와 협력해 올해 부산국제록페스티벌, 부산불꽃축제, 세븐브릿지투어 등 지역축제 3개의 해외 홍보와 티켓 판매를 진행했다. 해당 축제 티켓은 총 22개 국가 및 지역에서 구매가 이뤄졌다.</p>
+<p>지난달 2일부터 4일까지 열린 부산국제록페스티벌은 중화권에서 가장 많은 티켓이 판매됐으며 미국이 뒤를 이었다. 유럽과 일본 등 해외 여행객뿐 아니라 국내 거주 외국인도 구매에 참여했다.</p>
+<p>오는 7일 열리는 부산불꽃축제는 중화권과 동남아시아를 중심으로 티켓 판매가 이뤄졌다. 서구권과 중동 지역에서도 구매가 발생했다.</p>
+<p>클룩은 지역축제 티켓 판매와 함께 외국인 관광객을 위한 국내 교통 예약 서비스도 제공하고 있다.</p>
+<p>한국철도공사와 전국고속버스운송사업조합의 공식 파트너사로서 철도와 고속버스 운행 정보, 좌석 현황을 실시간으로 확인하고 예약할 수 있도록 지원한다.</p>
+<p>올해 9월 1일부터 10월 25일까지 클룩을 통한 부산행 철도·고속버스 합산 예약 건수는 전년 동기 대비 약 445% 증가했다.</p>
+<p>지난 9월 20일 개최된 사이클 축제 &apos;세븐브릿지투어&apos;에서는 참가자가 개인 자전거를 지참해야 하는 점을 고려해 고속버스 예약 페이지에서 축제를 홍보하기도 했다.</p>
+<p>이준호 클룩 한국 지사장은 "지역축제는 도시의 특색을 알리고 외국인 관광객이 방문할 계기를 만드는 중요한 관광 자산"이라며 "지역 관광 콘텐츠가 해외 여행객의 실제 방문으로 이어질 수 있도록 지자체 및 관광업계와 협력을 강화하겠다"고 말했다.</p>
+<p>한편 클룩은 2023년 7월 부산관광공사와 업무협약을 체결한 이후 부산 관광 활성화를 위한 협력을 이어오고 있다.</p>]]></description>
+		</item>
+		<item>
+			<title>머스크의 씁쓸한 농담 &quot;우주로 갈까&quot;…민주당 돌풍에 AI 사업 먹구름</title>
+			<link>https://zdnet.co.kr/view/?no=20261105085744</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105085744</guid>
+			<author>류은주 기자</author>
+			<category>머스크</category>
+			<category>텍사스</category>
+			<category>민주당</category>
+			<category>테슬라</category>
+			<category>스페이스X</category>
+			<category>스타링크</category>
+			<category>우주</category>
+			<category>데이터센터</category>
+			<category>AI</category>
+			<category>IT 일반</category>
+			<pubDate>Thu, 05 Nov 2026 09:08:37 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/07/10/cf7565c9a603bc061be23e53311dc0f3.png" alt=""><p>미국 중간선거에서 민주당이 압승하면서 일론 머스크가 이끄는 테슬라와 스페이스X의 사업에도 불확실성이 커졌다. 연방정부 계약에 대한 의회 감시뿐 아니라 두 회사의 본거지인 텍사스에서 추진하는 반도체 공장과 데이터센터 투자에도 제동이 걸릴 수 있다는 전망이다.</p>
+<p>4일(현지시간) 블룸버그통신에 따르면 테슬라와 스페이스X 주가는 이날 정규장 개장 직후 각각 약 6% 하락했다. 민주당의 의회 장악과 텍사스 선거 승리가 머스크 기업들에 미칠 영향을 시장이 주시한 것으로 풀이된다.</p>
+<p>AJ벨의 러스 몰드 투자리서치 책임자는 머스크의 정부효율부(DOGE) 활동을 둘러싼 민주당의 대응 가능성이 두 회사의 주가 하락에 일부 영향을 미쳤다고 분석했다.</p>
+<img src="https://image.zdnet.co.kr/2025/07/10/cf7565c9a603bc061be23e53311dc0f3.png" alt="일론 머스크 xAI CEO (사진=xAI 라이브 캡처)">
+<p>텍사스에서는 지나 이노호사 주지사 당선인의 정책 방향이 주요 변수로 떠올랐다. 이노호사는 선거운동 과정에서 스페이스X와 테슬라가 공동 개발하는 반도체 공장 &apos;테라팹&apos;에 대한 17억 달러 규모 세제 혜택을 비판했다.</p>
+<p>테라팹은 약 929만㎡ 규모로 추진되는 시설로, 머스크가 이끄는 기업들의 인공지능(AI) 역량을 강화하기 위한 핵심 사업이다. 두 회사의 합병 가능성과 관련해서도 주요 협력 사례로 거론돼 왔다.</p>
+<p>이노호사 당선인은 데이터센터 개발을 즉시 유예해야 한다는 입장도 밝혀왔다. 데이터센터가 전력·수도요금을 높이고 수자원에 부담을 준다는 이유다. 이는 스타베이스 인근에 약 180만㎡ 규모 데이터센터를 조성하려는 스페이스X의 계획에도 변수가 될 수 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/07/03/1a1e9b35e63e9fd70c54005a3639350a.jpg" alt="테슬라가 추진하는 첨단 반도체 생산 시설 &apos;테라팹&apos; 구상. (사진=테슬라)">
+<p>텍사스 연방 상원의원에 당선된 제임스 탈라리코 역시 데이터센터의 전력망 부담을 비판하고, 주정부의 데이터센터 판매세 면제 폐지와 AI 관련 이익에 대한 과세를 주장했다. 다만 이들 공약이 실제 정책으로 이어질지는 향후 입법과 행정 절차에 달려 있다.</p>
+<p>연방 차원에서는 스페이스X의 정부 계약과 스타링크 사업에 대한 감시가 강화될 가능성이 제기됐다.</p>
+<p>스페이스X는 미국 국방부와 항공우주국(NASA)의 주요 계약업체다. 블룸버그는 경쟁사들이 국방부 계약 요건이 스페이스X에 유리하게 설정돼 있다고 문제를 제기해 왔다며, 민주당이 머스크와 행정부 사이의 관계를 들여다볼 수 있다고 전망했다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/09/1981437306a1b2b9323ee28770f6b0d6.jpg" alt="차세대 위성 &apos;스타링크 모바일 V2&apos;. (사진=스페이스X)">
+<p>우크라이나군 스타링크 이용 제한도 쟁점이다. 젤렌스키 우크라이나 대통령은 서비스 제한으로 민간인 피해가 발생했다고 비난했다. 반면 머스크는 책임을 부인하면서 우크라이나군이 공격용 드론에 통신망을 사용해 이용약관을 위반했다는 입장을 밝혔다.</p>
+<p>머스크는 선거 결과에 농담으로 대응했다. 그는 X에 "선거에 개입하려던 내 우주 레이저가 이번에는 작동하지 않은 모양"이라고 썼다. 데이터센터 규제 가능성을 의식한 듯 "지금 보니 우주 데이터센터가 꽤 매력적으로 보인다"는 글도 올렸다.</p>
+<p>한편, 머스크는 이번 중간선거에서 공화당을 지원하기 위해 막대한 자금을 투입했다. 뉴욕타임스 집계를 인용한 패스트컴퍼니에 따르면 지원 규모는 약 4억 7400만 달러(약 6300억원)에 달한다. </p>]]></description>
+		</item>
+		<item>
+			<title>퀄컴, 3분기 영업익 1.8조원...전년比 54% 급감</title>
+			<link>https://zdnet.co.kr/view/?no=20261105083430</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105083430</guid>
+			<author>권봉석 기자</author>
+			<category>퀄컴</category>
+			<category>스냅드래곤</category>
+			<category>드래곤윙</category>
+			<category>드래곤플라이</category>
+			<category>IoT</category>
+			<category>AI 데이터센터</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Thu, 05 Nov 2026 09:05:06 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2023/08/14/75187a4ea065df5e0e0e6b8b43d122bf.jpg" alt=""><p>스마트폰과 태블릿 등 모바일 기기와 통신 관련 미국 반도체 기업인 퀄컴의 3분기(회계연도 기준 2026년 4분기) 실적이 스마트폰 사업 부진과 반도체 원가 상승 영향으로 하락했다.</p>
+<p><span style="letter-spacing: 0.8px;">4일(현지시간) 퀄컴이 공시한 자료에 따르면 3분기 매출은 103억 2200만 달러(약 13조 8934억원)로 전년 동기 112억 7000만달러(약 15조 1694억원) 대비 8% 감소했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">이는 7월 말 제시한 자체 전망치인 97억~105억달러 범위에 부합했다. 다만 영업이익은 크게 감소했다.</span></p>
+<img src="https://image.zdnet.co.kr/2023/08/14/75187a4ea065df5e0e0e6b8b43d122bf.jpg" alt="미국 캘리포니아주 샌디에이고 소재 퀄컴 본사. (사진=퀄컴)">
+<p>3분기 영업이익은 13억 5600만 달러(약 1조 8252억원)로 전년 동기 29억 1800만 달러(약 3조 9276억원)보다 54% 감소했다.</p>
+<p><span style="letter-spacing: 0.8px;">음성 및 데이터 통신, 네트워킹 등을 담당하는 퀄컴 CDMA 테크놀로지스(QCT) 부문 매출은 90억 1500만 달러(약 12조 1342억원)로 전년 동기 98억 2100만 달러(약 13조 2191억원)보다 8% 감소했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/09/14/9f45ed66e73f6aaba5ac190e6151f58c.jpg" alt="퀄컴 스냅드래곤8 엘리트 5세대 칩셋이 탑재된 갤럭시Z폴드8.(사진=지디넷코리아)">
+<p>QCT 사업 내 핸드셋 매출은 51억 3700만 달러(약 6조 9144억원)로 전년 동기 69억 6100만 달러(약 9조 3695억원) 대비 26% 감소했다. 스마트폰 출하량이 줄고 애플이 아이폰18 프로 대부분의 물량에 자체 모뎀 &apos;C2&apos;를 도입한 것이 원인으로 꼽힌다.</p>
+<p><span style="letter-spacing: 0.8px;">반면 오토모티브 부문 매출은 19억 9000만 달러(약 2조 6785억원)로 전년 동기 10억 5300만 달러(약 1조 4173억원)보다 89% 늘었다. 퀄컴은 자동차 부문에서 분기 기준 처음으로 20억 달러 가까운 매출을 올렸다고 밝혔다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/09/21/5fff55590cc83fdd53a8801eee513627.png" alt="퀄컴 스냅드래곤 X 엘리트 탑재 구글북. (사진=퀄컴)">
+<p>IoT 부문 매출도 18억 8800만 달러(약 2조 5412억원)로 전년 동기 18억 700만 달러(약 2조 4322억원)보다 4% 증가했다.</p>
+<p><span style="letter-spacing: 0.8px;">자동차와 IoT 사업을 합친 매출은 전년 동기 대비 36% 성장했다. 스마트폰 중심의 사업 구조에서 벗어나 자동차용 반도체와 산업용·소비자용 IoT 솔루션으로 사업 영역을 넓히려는 전략이 성과를 내고 있다는 평가다.</span></p>
+<p><span style="letter-spacing: 0.8px;">특허 라이선스 사업을 담당하는 퀄컴 테크놀로지 라이선싱(QTL) 부문 매출은 13억 400만 달러(약 1조 7552억원)로 전년 동기 14억 900만 달러(약 1조 8965억원) 대비 7% 감소했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/09/23/8c589ee79bb31fc8e05737ba44a1590c.jpg" alt="크리스티아노 아몬 퀄컴 CEO. (사진=공동취재단)">
+<p>크리스티아노 아몬 퀄컴 최고경영자(CEO)는 "10월부터 시작되는 2027 회계연도가 비핸드셋 매출 성장의 전환점이 될 것"이라고 밝혔다. 또 데이터센터 사업 확대를 포함해 비핸드셋 매출이 전년 대비 60% 이상 성장할 것으로 예상했다.</p>
+<p><span style="letter-spacing: 0.8px;">특히 데이터센터 사업의 2027 회계연도 매출 목표로 50억 달러(약 6조 7300억원)를 재확인했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">다만 반도체 업계 전반의 원가 상승은 부담 요인이다. 퀄컴은 웨이퍼 제조와 조립·테스트, 첨단 패키징, 메모리 및 기타 소재 전반에서 투입 비용이 상승하고 있다고 설명했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/06/04/1d84702824584f2389145b8b372b4c9c.jpg" alt="퀄컴 드래곤플라이 기반 데이터센터용 랙 단위 서버 모형. (사진=지디넷코리아)">
+<p>또 제품 가격에 원가 상승분을 반영하는 조치를 진행 중이며, 이러한 가격 정책의 효과는 2027 회계연도 하반기부터 본격적으로 반영될 것으로 예상했다.</p>
+<p><span style="letter-spacing: 0.8px;">퀄컴은 4분기(회계연도 기준 2027년 1분기) 매출을 104억~112억 달러(약 14조~15조 7520억원)로 전망했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">퀄컴 주가는 4일 정규장에서 전 거래일보다 5.33% 오른 173.19달러로 마감했다. 그러나 실적 발표 이후 시간외 거래에서는 7% 안팎 하락하며 160달러대로 내려갔다.</span></p>
+<p><span style="letter-spacing: 0.8px;">스마트폰 사업 부진과 반도체 원가 상승에 따른 수익성 악화 우려가 투자심리에 부담으로 작용한 것으로 풀이된다.</span></p>]]></description>
+		</item>
+		<item>
+			<title>유럽 규제에 물류 키우는 쉬인…7500억원 투자</title>
+			<link>https://zdnet.co.kr/view/?no=20261105082925</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105082925</guid>
+			<author>김민아 기자</author>
+			<category>쉬인</category>
+			<category>유럽</category>
+			<category>EU</category>
+			<category>관세</category>
+			<category>물류</category>
+			<category>인터넷</category>
+			<pubDate>Thu, 05 Nov 2026 08:51:11 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2024/07/09/ec2e38754dbc4f2109238ca9e4569800.jpg" alt=""><p>온라인 패션 플랫폼 쉬인이 유럽 사업에 5억 유로(약 7529억원)를 투자해 현지 물류 거점을 확장한다. 저가 수입품에 대한 유럽연합(EU)의 관세·수수료 부과로 가격 경쟁력이 압박받는 가운데 현지 재고와 물류 역량을 강화한다는 계획이다.</p>
+<p>4일(현지시간) 블룸버그 통신에 따르면 쉬인은 유럽 사업 핵심 거점인 폴란드 브로츠와프 인근 물류 허브를 확장한다고 밝혔다. 이번 투자로 창고 수용 능력을 늘리고 주문 상품을 골라 담는 작업을 돕는 자율주행 로봇을 추가한다. 연말까지 해당 시설의 전체 인력은 1만 명으로 확대한다.</p>
+<p>쉬인은 2022년 폴란드에 진출했다. 이번 추가 투자는 유럽의 통관 규제 강화로 비용 부담이 커지는 상황에서 나왔다.</p>
+<img src="https://image.zdnet.co.kr/2024/07/09/ec2e38754dbc4f2109238ca9e4569800.jpg" alt="쉬인 &apos;스타일 인 쉬인&apos; 팝업스토어. (사진은 기사의 내용과 관련 없음)">
+<p><span style="letter-spacing: 0.8px;">EU는 쉬인과 테무 등 해외 유통업체의 저가 상품 유입을 억제하기 위해 지난 7월 1일부터 150 유로(약 22만원) 미만 소포에 3유로(약 4500원)의 관세를 부과하기 시작했다. 이달부터는 2유로(약 3000원)의 취급 수수료도 추가돼 비용 부담이 더 커질 </span><span style="letter-spacing: 0.8px;">전망이다.</span></p>
+<p>유럽 매출도 부진하다. 분석업체 페이블에 따르면 쉬인의 9~10월 주간 매출은 대부분 전년 동기 대비 20% 넘게 감소했다. 유럽은 쉬인의 전체 매출 420억 달러(약 56조 3010억원) 가운데 약 3분의 1을 차지하는 주요 시장이다.</p>
+<p>실적 부담도 커지고 있다. 쉬인의 회계연도 상반기 영업이익은 중동 분쟁에 따른 운송비 상승과 핵심 소매 사업의 성장 둔화로 53% 감소했다. 회사는 하반기에도 관세 부담과 물류비 변동성이 이어져 대외 환경의 불확실성이 지속될 것으로 내다봤다.</p>
+<p>쉬인은 중국에서 출발해 현지에 제조 기반을 두고 있으며 본사는 싱가포르에 있다. 여러 차례 상장이 지연된 끝에 지난 9월 1일 홍콩 증시에 입성했지만 주가는 상장 이후 20% 넘게 하락했다.</p>]]></description>
+		</item>
+		<item>
+			<title>그렙, AI 시험감독 카메라 내년 상용화…시험·평가 기술 고도화</title>
+			<link>https://zdnet.co.kr/view/?no=20261105084606</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105084606</guid>
+			<author>안희정 기자</author>
+			<category>AI</category>
+			<category>솔루션</category>
+			<category>그렙</category>
+			<category>평가</category>
+			<category>시험</category>
+			<category>감독</category>
+			<category>인터넷</category>
+			<pubDate>Thu, 05 Nov 2026 08:50:03 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/9437dc918da33733486feab61e22972a.jpg" alt=""><p>인공지능(AI) 기반 평가 솔루션 기업 그렙이 시험 응시자의 부정행위를 탐지하는 AI 감독 카메라를 내년 상용화한다. AI를 활용한 문제 해결 과정을 평가하는 기술과 시험 감독 솔루션을 고도화해 국내외 시험·평가 시장을 공략한다는 계획이다.</p>
+<p>그렙은 아시아 시험평가협회(A-ATP)가 주관하는 &apos;A-ATP 2026 어워즈&apos;에서 2개 부문을 수상하고, 내년 출시를 목표로 개발 중인 AI 평가·감독 서비스를 공개했다고 5일 밝혔다.</p>
+<p>그렙은 평가 부문 &apos;AI 혁신상&apos;을 미국 인재평가 기업 호건 어세스먼트 시스템즈와 공동 수상했다. 에듀테크 부문에서는 AI 영어시험 준비 플랫폼 프렙엑스와 함께 &apos;AI 디지털 학습 접근성·임팩트 우수상&apos;을 받았다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/05/9437dc918da33733486feab61e22972a.jpg" alt="그랩">
+<p>A-ATP는 미국 시험출판인협회(ATP)의 아시아 지부로, 출품사 정보를 가린 상태에서 심사를 진행한다.</p>
+<p>올해 행사는 지난 1일부터 3일까지 말레이시아 쿠알라룸푸르에서 열렸다. 그렙은 지난해 홍콩 행사에 이어 2년 연속 골드 스폰서로 참가해 아시아 각국 시험·평가 기관과 협력 방안을 논의했다.</p>
+<p>임성수 그렙 대표는 행사에서 &apos;AI 시대의 테스트: 그렙의 다음 행보&apos;를 주제로 발표하고 신규 서비스 개발 계획을 소개했다.</p>
+<p>그렙은 AI를 활용한 소프트웨어 개발 역량을 측정하는 &apos;에이전틱 AI 평가&apos;와 시험 화면에서 응시자의 문제 풀이 과정까지 분석하는 맥락 인식형 감독 기능을 개발하고 있다.</p>
+<p>자체 AI 모델을 탑재한 시험감독 카메라는 시제품 개발을 마쳤으며, 2027년 상용화를 목표로 하고 있다.</p>
+<p>지난 3월 출시한 &apos;프로그래머스 AI 역량평가&apos;는 응시자의 프롬프트 입력 이력과 중간 산출물, 최종 결과물을 분석해 문제 해결 과정 전반을 평가하는 서비스다.</p>
+<p>출시 6개월 만에 우리카드와 국민대학교 등 16개 기업·기관이 도입했다. 현재 도입을 논의 중인 곳까지 포함하면 약 50개 기업·기관이 활용을 검토하고 있다. 그렙은 연내 누적 응시자가 4만명을 넘어설 것으로 전망했다.</p>
+<p>온라인 시험 감독 솔루션 &apos;모니토&apos;에도 시각언어모델(VLM)을 적용해 부정행위 의심 상황을 탐지하는 기능을 고도화할 계획이다.</p>
+<p>그렙은 현재 매주 1만명 이상의 응시자를 감독하며 축적한 운영 경험을 바탕으로 탐지 정확도를 높이고 있다고 설명했다.</p>
+<p>모니토의 적용 범위도 온라인 시험에서 오프라인 시험센터로 확대한다. 시험센터에 설치된 카메라와 AI 감독 엔진을 연결해 여러 시험장을 하나의 대시보드에서 관리하는 솔루션을 개발하고 있다. 기관 내부 서버에 직접 구축하는 온프레미스 방식도 준비 중이다.</p>
+<p>임 대표는 AI가 반복적인 업무를 수행하는 환경에서는 문제를 정의하고 AI에 적절한 지시를 내리며 결과를 검증·개선하는 역량이 중요해진다고 강조했다.</p>
+<p>이에 따라 그렙은 최종 결과물뿐 아니라 AI를 활용해 문제를 해결하는 과정과 판단까지 살펴보는 평가 방식을 국내 기업 채용에 우선 적용하고 있다.</p>
+<p>임 대표는 "AI 시대의 평가는 무엇을 평가할지, 그리고 그 결과를 어떻게 믿을 수 있게 만들지의 문제"라며 "프로그래머스로 AI 활용 역량을 측정하고 모니토로 평가 과정의 신뢰성을 높여 아시아 시험·평가 기관과 협업을 구체화하겠다"고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>딜, AI 딥페이크·대리 면접 잡아낸다…채용 신원 검증 솔루션 출시</title>
+			<link>https://zdnet.co.kr/view/?no=20261105084407</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105084407</guid>
+			<author>안희정 기자</author>
+			<category>AI</category>
+			<category>보안</category>
+			<category>채용</category>
+			<category>시큐리티</category>
+			<category>딥페이크</category>
+			<category>딜</category>
+			<category>면접</category>
+			<category>인터넷</category>
+			<pubDate>Thu, 05 Nov 2026 08:48:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/a98ccdb6be65637149754e2f3d80ca42.jpg" alt=""><p>글로벌 HR·급여 플랫폼 딜(Deel)이 인공지능(AI) 딥페이크와 신분 도용 등을 활용한 채용 사기를 탐지하는 솔루션을 출시했다. 원격 채용이 확산하면서 가짜 지원자나 대리 면접을 통한 기업 내부 침투 위험이 커지자 채용 이후까지 신원을 검증하는 방식이다.</p>
+<p>딜은 글로벌 채용 및 고용 과정에서 발생하는 신원 사기를 탐지하고 예방하는 인력 보안 솔루션 &apos;딜 시큐리티(Deel Security)&apos;를 출시했다고 5일 밝혔다.</p>
+<p>딜 시큐리티는 지원서 접수부터 면접, 채용 이후 재직 기간까지 신원 확인을 지원하는 서비스다. 전 세계 150개 이상 국가에서 이용할 수 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/05/a98ccdb6be65637149754e2f3d80ca42.jpg" alt="딜, 채용 신원 사기 방지 솔루션 딜 시큐리티 출시">
+<p>이 솔루션은 지원자의 이력서와 온라인 활동 이력, 면접 영상, 신원 증명 서류 등을 분석해 사기 가능성이 있는 위험 신호를 탐지한다.</p>
+<p>특히 AI 딥페이크를 이용해 얼굴을 위조하거나 다른 사람이 대신 면접에 참여하는 사례를 식별하도록 설계됐다. 채용 제안 전에는 지원자가 실시간으로 촬영한 얼굴 사진과 정부 발급 신분증을 대조해 신원을 확인한다.</p>
+<p>채용 이후에도 주요 보안 점검 시점에 신원 검증을 반복해 재직 중 발생할 수 있는 신원 사기 위험에 대응한다.</p>
+<p>최근 원격근무와 비대면 채용이 확대되면서 신분을 위조해 기업에 취업하는 사례가 보안 위협으로 떠오르고 있다.</p>
+<p>국내에서도 지난 10월 북한 IT 인력이 신분을 속이고 민간 기업에 취업해 개발 업무를 수행했다는 의혹이 제기돼 경찰이 수사에 나섰다. 미국에서도 북한 IT 인력이 도용한 신원과 원격 접속 기술을 활용해 기업에 위장 취업한 사례가 적발된 바 있다.</p>
+<p>딜이 시장조사기관 센서스와이드와 함께 미국과 영국의 HR 전문가 1011명을 조사한 결과, 응답자의 66%는 최근 1년간 의심스럽거나 사기 가능성이 있는 원격근무 지원이 증가했다고 답했다.</p>
+<p>또 HR 리더의 93%는 딥페이크나 AI를 활용한 가짜 지원자를 우려했으며, 34%는 기존 신원 확인 절차만으로는 충분하지 않다고 응답했다.</p>
+<p>딜 시큐리티는 기업이 사용 중인 채용·보안 시스템과 연동할 수 있다. 딜의 채용관리시스템(ATS)은 물론 타사 채용관리시스템과 옥타(Okta) 등 신원 관리 도구도 지원한다.</p>
+<p>기업의 HR·보안 담당자는 기존 업무 시스템에서 신원 사기 위험 신호를 확인하고 검증 기록을 관리할 수 있다.</p>
+<p>AI 분석 결과 고위험 사례로 분류되면 판단 근거를 담은 보고서가 제공된다. 딜의 사기 대응 전문가가 해당 사례를 추가로 검토하며, 채용 여부 등 최종 결정은 고객사가 내린다.</p>
+<p>딜 시큐리티는 딜이 지난 7월 인수한 AI 보안 기업 클래리티(Clarity)의 기술을 기반으로 개발됐다. 딜은 자사 채용 과정에도 해당 솔루션을 적용했으며, 지난달 29일부터 외부 고객에게 서비스를 제공하고 있다.</p>
+<p>알렉스 부아지즈 딜 공동창업자 겸 최고경영자(CEO)는 "AI로 인해 허위 이력서와 딥페이크, 도용 신원을 만드는 비용은 낮아졌지만 이를 탐지하기는 더욱 어려워졌다"며 "지원 시점부터 재직 기간 전반에 걸쳐 신원을 검증해 기업을 보호하겠다"고 말했다.</p>]]></description>
+		</item>
+		<item>
+			<title>[금복이의 금 이야기] 미국 중간선거, 금값엔 어떤 영향</title>
+			<link>https://zdnet.co.kr/view/?no=20261105084306</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105084306</guid>
+			<author>김종인 세종사이버대학교 특임교수·前 한국금거래소 총괄사장</author>
+			<category>김종인</category>
+			<category>금복이</category>
+			<category>금 시세</category>
+			<category>전문가칼럼&gt;기타</category>
+			<pubDate>Thu, 05 Nov 2026 08:47:15 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/5309ca32488937af0eba4a49b7bb8fc0.png" alt=""><p>미국 중간선거 결과 민주당 압승으로 이란 전쟁 종료 기대감이 높아져 WTI 급락 ($96.09→$88.12)이 성장·물가·금리 경로를 바꿨습니다. <span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">달러지수가 101.51로 약세를 보이고 미국 10년물 금리가 4.951%에서 4.891%로 하락하면서, 금의 보유 기회비용이 낮아져 COMEX 12월물이 약 $4,073까지 3.4% 급등했습니다. </span></p>
+<p><span style="letter-spacing: 0.8px; font-family: "Avenir Next W01", "Proxima Nova W01", Rubik, -apple-system, system-ui, BlinkMacsystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;">하지만, 미국 연방준비제도의 12월 금리 인상 가능성은 금값의 반대 압력으로 남았습니다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/05/5309ca32488937af0eba4a49b7bb8fc0.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/6d4a95c38ed3786ab64df7b9e0959271.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/db6cba06531a329d9a7d29f04e8c348b.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/a585fd891e66e373a3ba46085c216941.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/fd1aeae06fca3dba85031c19077d9039.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/70dfcb01054a13a8346a522859097ae5.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/4f61ed998cf0a0e052d118520fbe0306.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/d092290de4978562265555d8f805de0c.png" alt="">
+<img src="https://image.zdnet.co.kr/2026/11/05/a61116a0e4c560344b4d5dab77602342.png" alt="">]]></description>
+		</item>
+		<item>
+			<title>이녹스첨단소재, 모바일 OLED용 OCA 첫 양산</title>
+			<link>https://zdnet.co.kr/view/?no=20261105082628</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105082628</guid>
+			<author>장경윤 기자</author>
+			<category>이녹스</category>
+			<category>이녹스첨단소재</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Thu, 05 Nov 2026 08:42:35 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/c2905b55c54ac2f634c079d3f75cbb92.png" alt=""><p><span style="letter-spacing: 0.8px;">이녹스첨단소재가 모바일 유기발광다이오드(OLED)용 광학 투명점착제(OCA) 초도 양산을 시작했다고</span><span style="letter-spacing: 0.8px;"> 5일 밝혔다. </span></p>
+<p><span style="letter-spacing: 0.8px;">OCA는 디스플레이 패널, 커버윈도 등 OLED 패널을 구성하는 각 기능층을 빈틈없이 접합하고, 층간 빛 반사와 손실을 줄여 광학 성능을 높이는 소재다. 높은 점착력, 유연성, 복원력을 동시 확보해야 하는 고난도 설계가 필수</span><span style="letter-spacing: 0.8px;">다. </span></p>
+<img src="https://image.zdnet.co.kr/2026/11/05/c2905b55c54ac2f634c079d3f75cbb92.png" alt="이녹스첨단소재 임직원들이 OCA 첫 양산 출하를 기념하고 있다.(사진=이녹스첨단소재)">
+<p><span style="letter-spacing: 0.8px;">그동안 하이엔드 모바일 OLED용 OCA 시장은 </span><span style="letter-spacing: 0.8px;">소수 글로벌 기업이 사실상 독점해 왔다. 이녹스첨단소재는 독자 점착·코팅·필름 설계 기술과 고객 공정 이해도를 바탕으로 </span><span style="letter-spacing: 0.8px;">국산화</span><span style="letter-spacing: 0.8px;">했다. </span></p>
+<p>이녹스첨단소재는 글로벌 하이엔드폰에 OCA를 초도 공급하는 것을 시작으로, 향후 폴더블 제품을 포함한 하이엔드·프리미엄 라인업으로 공급을 늘려 시장 점유율을 2028년 30%까지 높일 계획이다. 이녹스첨단소재는 전 세계 모바일 OLED용 OCA 시장이 2026년 2600억원에서 2028년 3000억원으로 성장할 것으로 기대하고 있다.</p>
+<p><span style="letter-spacing: 0.8px;">동시에</span><span style="letter-spacing: 0.8px;">, 모바일 시장에서 검증한 광학 성능과 기계적 신뢰성을 바탕으로 태블릿·노트북·확장현실(XR)·웨어러블 등 IT 기기와 고신뢰성이 요구되는 전장 OLED용 OCA로 응용처를 확대할 계획이다. </span></p>
+<p><span style="letter-spacing: 0.8px;">이녹스첨단소재 관계자는 "이번 OCA 공급은 해외 의존도가 높았던 고난도 핵심 소재를 국산화하고, 고객 내 공급 품목을 확대했다는 점에서 의미가 크다"며 "OLED를 비롯해 반도체, 회로기판, 배터리 소재 등으로 사업 포트폴리오를 강화하겠다"고 말했다. </span></p>]]></description>
+		</item>
+		<item>
+			<title>애플, 맥북 프로 터치스크린으로 통합하나…&quot;기존 모델 단종&quot;</title>
+			<link>https://zdnet.co.kr/view/?no=20261105081429</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105081429</guid>
+			<author>이정현 미디어연구소</author>
+			<category>애플</category>
+			<category>맥북프로</category>
+			<category>터치스크린</category>
+			<category>홈/모바일</category>
+			<pubDate>Thu, 05 Nov 2026 08:33:46 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/10/29/663610b63d405ad4a655e2e911793340.jpg" alt=""><p>애플이 고급형 맥북 프로 라인업을 터치스크린 모델 중심으로 통합할 것이라는 전망이 나왔다.</p>
+<p>블룸버그 통신은 최근 파워온 뉴스레터를 통해 애플이 터치스크린을 탑재하지 않은 기존 고급형 맥북 프로 모델을 계속 업데이트할지 의문을 제기했다.</p>
+<p>현재 애플은 미니 LED 디스플레이를 탑재한 M5 프로•M5 맥스 모델과 새로운 터치스크린 버전을 함께 판매하고 있다. 두 제품의 가격 차이는 400달러(약 53만 원)에 달한다.</p>
+<img src="https://image.zdnet.co.kr/2026/10/29/663610b63d405ad4a655e2e911793340.jpg" alt="애플이 처음으로 터치스크린을 탑재한 맥북 프로를 공개했다. (사진=애플)">
+<p>블룸버그 마크 거먼은 제품 개발부터 생산, 마케팅에 이르기까지 여러 제품 라인을 동시에 운영하는 데 상당한 자원이 필요하다는 점을 언급했다. 그는 가격 차이 등을 고려할 때 두 라인업이 결국 하나로 통합될 것으로 내다봤다. 다만 애플이 터치 기능이 없는 모델의 개발을 언제 중단할지는 구체적으로 밝히지 않았다.</p>
+<p>거먼은 또 애플이 2027년 차세대 터치스크린 맥북 프로를 출시할 계획이라고 전했다. 신제품에는 AI 기능을 강화한 M7 프로·M7 맥스 칩이 탑재될 것으로 예상된다.</p>
+<p>이 같은 디자인 변화는 보급형 14인치 맥북 프로에도 적용될 것으로 보인다. 애플은 차세대 보급형 모델의 무게를 줄이고 본체를 더 얇게 만드는 한편, 화면 베젤도 축소할 계획인 것으로 알려졌다. 거먼은 지난 7월 디자인이 변경된 보급형 맥북 프로가 내년 상반기 출시될 가능성을 제기했다.</p>
+<p>한편 애플은 지난주 첫 터치스크린 맥북 프로를 공개했다. 신제품에는 지난 3월 출시된 M5 프로•M5 맥스 칩이 그대로 탑재됐다. 새로운 모델은 OLED 디스플레이와 다이내믹 아일랜드를 적용했으며, 기존 제품보다 가볍고 두께도 얇아졌다. 화면에서 발생하는 열을 보다 효과적으로 배출할 수 있도록 냉각 시스템도 개선됐다.</p>
+<p>블룸버그는 애플이 터치스크린 맥을 출시했으나 고객들이 이 기능을 활용할 만한 새 이유는 거의 제시하지 못했다며, 이번 기능 추가는 새 패러다임을 제시하기 보다는 여러 마케팅·재정적 목적을 달성하는 데 기여했다고 평가했다.</p>]]></description>
+		</item>
+		<item>
+			<title>모두싸인·지드래곤 저스피스재단, &apos;피란수도 부산&apos; 세계유산 등재 지원</title>
+			<link>https://zdnet.co.kr/view/?no=20261105083023</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105083023</guid>
+			<author>안희정 기자</author>
+			<category>세계유산위원회</category>
+			<category>캠페인</category>
+			<category>저스피스재단</category>
+			<category>지지서명</category>
+			<category>모두싸인</category>
+			<category>인터넷</category>
+			<pubDate>Thu, 05 Nov 2026 08:31:58 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/0a1ae6c96b9c81461267c991cabd696c.png" alt=""><p>전자서명 기업 모두싸인이 가수 지드래곤이 설립한 저스피스재단과 함께 &apos;피란수도 부산&apos;의 유네스코 세계유산 등재를 지원하는 시민 참여 캠페인을 진행한다.</p>
+<p>모두싸인은 저스피스재단과 유네스코 세계유산기금 캠페인 &apos;헤리티지 인 피스(Heritage In Peace)&apos; 시즌2를 시작한다고 5일 밝혔다.</p>
+<p>이번 캠페인은 한국전쟁 당시 임시 수도였던 부산의 역사적 가치를 알리기 위한 &apos;시티 캠페인&apos;으로, 올해 연말까지 진행된다.</p>
+<p>모두싸인을 비롯한 저스피스재단의 부산 지역 파트너 기업들이 참여해 2030년 유네스코 세계유산 등재를 목표로 하는 피란수도 부산의 유산 11곳을 소개하고 시민들의 관심과 참여를 유도할 계획이다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/05/0a1ae6c96b9c81461267c991cabd696c.png" alt="모두싸인_저스피스">
+<p>앞서 지난 7월부터 9월까지 진행된 시즌1은 부산에서 열린 제48차 유네스코 세계유산위원회와 연계해 운영됐다.</p>
+<p>당시 개막식에서 지드래곤이 직접 세계유산 보호 지지서명에 참여했으며, 캠페인 시작 3주 만에 약 1만명이 서명에 동참했다. 이후 해외에서도 참여할 수 있는 글로벌 서명 운동으로 확대됐다.</p>
+<p>모두싸인은 저스피스재단의 첫 번째 파트너로 참여해 온라인 &apos;세계유산 보호 지지서명&apos; 운영을 담당해 왔다.</p>
+<p>이번 시즌2에서도 자체 전자서명 기술을 활용해 시민들이 장소와 시간에 관계없이 온라인으로 캠페인에 참여할 수 있도록 지원한다.</p>
+<p>오희영 저스피스재단 대표는 "세계유산위원회 개최 도시인 부산이 대규모 국제 행사 이후에도 시민 스스로 유산을 보전하고 등재 활동에 주도적으로 나서는 것이야말로 진정한 유산의 가치"라며 "부산 기업들과 함께하는 이번 캠페인이 지역 유산의 보존과 글로벌 확산에 중요한 계기가 될 것"이라고 말했다.</p>
+<p>이영준 모두싸인 대표는 "부산에서 출발해 성장한 스타트업으로서 우리 도시의 역사와 유산을 세계에 알리는 데 함께하게 돼 뜻깊다"며 "많은 시민이 지지서명과 기부에 손쉽게 동참할 수 있도록 적극 지원하겠다"고 밝혔다.</p>]]></description>
+		</item>
+		<item>
+			<title>삼성D, 中 PC방 &apos;QD-OLED 인증&apos; 프로모션...올해 60곳 지정 목표</title>
+			<link>https://zdnet.co.kr/view/?no=20261105080004</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105080004</guid>
+			<author>이기종 기자</author>
+			<category>삼성디스플레이</category>
+			<category>모니터</category>
+			<category>QD-OLED</category>
+			<category>OLED</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Thu, 05 Nov 2026 08:30:27 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/12ac898db97f380ce583f5c448706beb.png" alt=""><p><span style="letter-spacing: 0.8px;">삼성디스플레이가 </span><span style="letter-spacing: 0.8px;">중국 인터넷 카페 대상 </span><span style="letter-spacing: 0.8px;">퀀텀닷(QD)-유기발광다이오드(OLED) </span><span style="letter-spacing: 0.8px;">인증점 지정 프로모션을 시작했다고 5일 밝혔다. 중국 게이밍 시장은 </span><span style="letter-spacing: 0.8px;">이용자가 6억 8000만명인 최대 단일 시장이다.</span></p>
+<p>삼성디스플레이와 협업하는 모니터 업체는 AOC, 에이수스, HKC, MSI, 타이탄아미(TitanArmy), 뷰소닉(ViewSonic) 6개 업체다. 디스플레이 업계에서 인터넷 카페와 협력 모델을 만든 것은 이번이 처음이다.</p>
+<p>삼성디스플레이 등은 QD-OLED 모니터를 30대 이상 설치한 인터넷 카페 중 선별해 인증점으로 지정하고, 매장에 QD-OLED 로고가 새겨진 인증 간판과 X배너, 키보드·마우스 패드, 인테리어 소품 등 홍보물을 설치할 예정이다. 10월까지 베이징과 상하이 등에서 인터넷 카페 10곳을 선정해 인증했다. 연말까지 60곳 지정이 목표다. </p>
+<img src="https://image.zdnet.co.kr/2026/11/05/12ac898db97f380ce583f5c448706beb.png" alt="삼성디스플레이가 모니터 업체와 중국 인터넷 카페를 대상으로 게이밍용 퀀텀닷(QD)-유기발광다이오드(OLED) 인증점 지정 프로모션을 시작했다고 5일 밝혔다. (사진=삼성디스플레이)">
+<p><span style="letter-spacing: 0.8px;">삼성디스플레이는 프로모션에서 </span><span style="letter-spacing: 0.8px;">QD-OLED 게이밍 성능을 알리고 중국 시장 공략을 강화할 계획이다. </span><span style="letter-spacing: 0.8px;">중국 인터넷 카페는 게이밍 OLED 모니터 판매량 30~40%를 차지하는 주요 판매 채널이다. 최근 인테리어와 PC 사양 고급화로 점포 수와 이용객이 늘었다. </span><span style="letter-spacing: 0.8px;">중국 문화관광부에 따르면 인터넷 카페 수는 2024년 8만 3000여 곳에서 2025년 9만 7000여 곳으로 17% 늘었다. </span></p>
+<p>삼성디스플레이는 "인증점 관계자에 따르면 젊은 고객과 1인칭 슈팅게임(FPS) 이용자를 중심으로 QD-OLED 모니터 선호도가 높다"며 "화질이 선명하고 어두운 게임 화면에서도 시인성이 뛰어나 좋은 평가를 받는다"고 밝혔다. 이어 "인증 간판과 전용 존 설치 후 QD-OLED 모니터를 설치한 프리미엄 좌석 인기가 높아졌다"고 덧붙였다.</p>
+<p>시장조사업체 IDC는 중국 게이밍 모니터 판매량이 <span style="letter-spacing: 0.8px;">2023년 493만대에서 2025년 1112만대로 늘었고 밝혔다. 자발광 게이밍 모니터 판매량은 2023년 2만 5000대에서 2025년 56만대로 뛰었다. </span></p>
+<p>정용욱 대형디스플레이사업부 전략마케팅팀장(상무)은 "인증점 프로모션으로 중국 게이머에게 QD-OLED가 고사양 게이밍 모니터에 최적화한 기술이란 점을 알리겠다"며 "현지 마케팅으로 프리미엄 게이밍 디스플레이 시장에서 QD-OLED 입지를 강화하겠다"고 밝혔다. </p>]]></description>
+		</item>
 		<item>
 			<title>美중간선거 민주당 압승…증시 오르고 유가 떨어지고</title>
 			<link>https://zdnet.co.kr/view/?no=20261105081031</link>
@@ -379,392 +739,6 @@
 <p>체이널리시스는 10월 29일까지 보고된 가상자산 해킹 피해액의 약 89%가 북한 연계로 추정된다고 분석했다. 2021년 15%에서 크게 오른 수치다. 북한 연계 해킹의 건당 평균 피해액도 2021년 5065만달러에서 올해 1억8565만달러로 늘었다. 2021년부터 올해 10월 29일까지 전체 해킹 피해액 223억4000만달러(약 29조6072억원) 가운데 북한 연계는 132억4000만달러(약 17조5470억원)로 59%를 차지했다.</p>
 <p>미국 연방수사국(FBI)은 10월 31일 북한 해킹 조직 트레이더트레이터(TraderTraitor)를 바이낸스 탈취의 배후로 공식 지목했다. 이 조직은 지난해 2월 약 15억달러가 탈취된 바이비트(Bybit) 해킹의 배후로도 지목된 바 있다. 북한은 연루 의혹을 부인하고 있다.</p>
 <p>가짜 채용을 앞세운 수법은 정부 차원의 경보 대상이기도 하다. VOA 보도에 따르면 미국, 일본, 호주, 독일의 7개 수사기관과 정보기관은 북한 조직 워터플럼(Waterplum)에 대해 공동 경보를 발령했다. 워터플럼은 2025년 12월께부터 2026년 7월까지 100개 이상 나라에서 최소 3만대의 컴퓨터를 침해했다. 7000개가 넘는 지갑에서는 자금이나 계정 정보를 빼내 최소 1071만달러(약 166억6000만원) 상당을 북한으로 옮겼다.</p>]]></description>
-		</item>
-		<item>
-			<title>모니터랩, 에이아이랩스 신버전 출시…&quot;AI와 대화하듯 위협 정보 검색&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261104185325</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104185325</guid>
-			<author>박광하 기자</author>
-			<category>모니터랩</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 04 Nov 2026 18:54:58 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/c753eba49c88bbe9cd2f2ad26e20afea.jpg" alt=""><p>보안 담당자가 위협 간 연관 관계를 시각화하고 인공지능(AI)과 대화하듯 위협 정보를 검색하고, 탐지된 위협을 마이터 어택(MITRE ATT&amp;CK)에 자동 매핑해 볼 수 있게 됐다.</p>
-<p>기업간거래(B2B) 서비스형 보안(SECaaS) 전문기업 모니터랩은 AI 기반 위협 인텔리전스 플랫폼 &apos;에이아이랩스(AILabs)&apos;의 신버전 &apos;v6.0&apos;을 출시했다고 4일 밝혔다.</p>
-<p>해당 버전은 분석 속도 향상, 위협 대응력 강화, 실무 활용도 제고를 핵심 목표로 개발됐다. 위협 인텔리전스 생태계 전반에 AI를 적극 활용한 게 특징이다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/c753eba49c88bbe9cd2f2ad26e20afea.jpg" alt="에이아이랩스 v6.0의 Pivot Search와 AI Bot 기능 화면. (자료=모니터랩)">
-<p>위협 간 연관 관계를 시각화하는 &apos;피벗 서치(Pivot Search)&apos;와 대화형 검색 기능 &apos;AI 봇(AI Bot)&apos;을 새로 탑재했다. 보안 담당자가 위협 정보를 더 신속하고 직관적으로 파악하는 데 도움이 된다.</p>
-<p>악성 파일 분석 엔진 &apos;MAD&apos;와 URL 분석 엔진 &apos;MUD&apos;도 업그레이드했다. 글로벌 표준 프레임워크인 마이터 어택에 탐지된 위협을 자동으로 매핑해 공격자의 전술과 기법을 체계적으로 파악하고 대응 효율을 높이는 게 가능하다.</p>
-<p>공공, 금융, 의료 등 주요 산업군별 맞춤형 위협 인텔리전스를 정기적으로 제공한다. 침해지표(IoC), 공통 취약점 노출(CVE), 공격 기법, 위협 그룹 등 다양한 위협 정보를 하나의 입력창에서 통합 조회할 수 있다.</p>
-<p>에이아이랩스는 수집, 분석, 처리, 배포의 지속 반복적인 생명주기로 악성 파일과 URL 등 사이버 위협 데이터를 다차원으로 분석하고 정제한 뒤 실시간으로 공유하는 플랫폼이다. 한국인터넷진흥원(KISA)의 위협 정보 공유 시스템 &apos;C-TAS&apos;, 구글의 &apos;바이러스토탈(VirusTotal)&apos;과 연동하는 등 국내외에서 신뢰성을 검증받고 있다.</p>
-<p>모니터랩은 에이아이랩스를 앞세워 위협 인텔리전스 사업을 키워 왔다. 올해 5월 7일에는 매월 내던 웹 공격 동향 보고서를 위협 인텔리전스 중심의 &apos;에이아이랩스 위협 인텔리전스 보고서&apos;로 개편했다. 공격량 추이와 산업군별 위협 양상, 취약점, 악성코드, 공격 그룹 분석을 담았다.</p>]]></description>
-		</item>
-		<item>
-			<title>제논, 휴머노이드 작업 오류 스스로 고치는 AI 개발한다</title>
-			<link>https://zdnet.co.kr/view/?no=20261104181807</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104181807</guid>
-			<author>이나연 기자</author>
-			<category>제논</category>
-			<category>중기부</category>
-			<category>스케일업</category>
-			<category>팁스</category>
-			<category>AI</category>
-			<category>휴머노이드</category>
-			<category>젠피</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 04 Nov 2026 18:18:07 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/1721687a61c8f6668d3d4292cddaed16.jpg" alt=""><p><span style="letter-spacing: 0.8px;">제논이 휴머노이드 로봇이 작업 중 발생한 오류를 스스로 판단하고 복구하는 인공지능(AI) 기술 개발에 나선다.</span></p>
-<p>제논은 중소벤처기업부와 중소기업기술정보진흥원이 주관하는 &apos;스케일업 팁스(Scale-up TIPS)&apos; 연구개발 과제에 선정됐다고 4일 밝혔다.</p>
-<p>선정 과제는 &apos;체화 인지형 세계(월드)모델 기반 행동 감독 기술 개발&apos;이다. 제논은 주관연구개발기관으로 참여해 오는 2029년 8월까지 3년간 정부출연금 20억원을 지원받아 기술 개발과 실증을 추진한다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/1721687a61c8f6668d3d4292cddaed16.jpg" alt="(이미지=제논)">
-<p><span style="letter-spacing: 0.8px;">이번 과제는 휴머노이드가 여러 단계로 구성된 작업을 수행하는 과정에서 발생하는 오류를 스스로 파악하고 대응하도록 하는 것이 목표다. 기존 로봇은 물건을 집거나 문을 여는 개별 동작에 성공하더라도 다음 작업에 적합한 위치나 자세를 확보하지 못하면 전체 작업이 중단될 수 있다.</span></p>
-<p>제논은 이를 해결하기 위해 로봇 상태와 작업 계획, 과거 성공·실패 경험을 종합 분석하는 행동 감독 기술을 개발한다. 여기에 행동 결과를 바탕으로 미래 상황을 예측하는 월드모델을 결합해 작업 진행 상황을 실시간으로 점검하고 오류 발생 시 지시를 수정하거나 새로운 작업 경로를 제시하도록 구현할 계획이다.</p>
-<p>예를 들어 로봇이 상자를 열고 내부 캔을 꺼내 냉장고에 넣는 과정에서 다음 동작을 수행하기 어려운 상황이 발생하면 작업 지시를 조정하거나 복구 방법을 제시하는 방식이다. 이를 통해 사람 개입을 줄이고 장시간 연속 작업을 수행하는 능력을 높인다는 구상이다.</p>
-<p>제논은 올해 3월 피지컬 AI 랩을 개소하고 휴머노이드 인지·판단·행동을 지원하는 AI 엔진과 로봇 통합 운영 플랫폼 &apos;피지컬 옵스&apos; 개발을 추진하고 있다. 기존 기업용 생성형 AI 플랫폼 &apos;제노스(GenOS)&apos; 개발 과정에서 확보한 기술도 활용할 예정이다.</p>
-<p>연구개발 성과는 자체 휴머노이드 &apos;젠피(GenP)&apos;에 적용해 실제 작업 환경에서 검증한다. 이후 복지시설 생활지원과 도슨트 서비스 등으로 활용 범위를 확대하고, 로봇 운영·관리 소프트웨어 라이선스 및 구독형 서비스로 사업화할 계획이다.</p>
-<p><span style="letter-spacing: 0.8px;">명대우 제논 최고기술책임자(CTO)는 "이번 스케일업 팁스 선정은 그동안 기업용 AI 시장에서 축적해 온 기술 역량을 피지컬 AI 분야로 확장하는 중요한 계기"라며 "연구개발 성과가 실제 서비스와 사업화로 이어질 수 있도록 기술 경쟁력을 확보하고 피지컬 AI를 새로운 성장동력으로 육성하겠다"고 말했다.</span></p>]]></description>
-		</item>
-		<item>
-			<title>[카드뉴스] 거래소가 해킹당하면 내 돈은 누가 물어줄까</title>
-			<link>https://zdnet.co.kr/view/?no=20261104094100</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104094100</guid>
-			<author>AMEET</author>
-			<category>해킹</category>
-			<category>가상화폐</category>
-			<category>가상화폐거래소</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 04 Nov 2026 18:13:53 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/5bad388362632e125a89a5f44e335102.png" alt=""><p>안녕하세요, AMEET 기자입니다. </p>
-<img src="https://image.zdnet.co.kr/2026/11/04/5bad388362632e125a89a5f44e335102.png" alt="">
-<img src="https://image.zdnet.co.kr/2026/11/04/95127ee27a39b8347489503491268e36.png" alt="">
-<p>거래소가 해킹을 당하면 내 자산은 누가 책임져 줄까요? 2026년 2월 18일 업비트에서 약 3,000만 달러, 우리 돈으로 386억 원이 빠져나가는 사고가 있었는데요. 인터넷에 연결된 핫월렛이 뚫리면서 열쇠 역할을 하는 개인키까지 도둑맞았다고 해요. </p>
-<p>다행히 업비트는 자기 자산으로 피해액 전액을 보상했지만, 이번 일을 계기로 "법적으로는 누가 책임져야 하느냐"라는 논쟁이 다시 뜨거워졌어요.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/eedcc791d84a214760d8b731ff9eac83.png" alt="">
-<img src="https://image.zdnet.co.kr/2026/11/04/2b5a907fb1761c64b88f9123111abcd2.png" alt="">
-<p>핵심은 책임의 무게가 은행과 거래소에서 크게 다르다는 점이에요. 은행은 고객 잘못이 없으면 사고 책임을 먼저 지는 무과실 책임이 적용되는데, 거래소는 거래소의 잘못이 드러나야 책임을 지는 과실 책임에 머물러 있거든요. </p>
-<p>이번 카드뉴스에서는 책임 수준을 점수로 비교해 전통 은행 5점, 현행 거래소 2점으로 보여줬어요. 문제는 이용자가 거래소의 보안 허점을 직접 증명하기가 사실상 어렵다는 거예요. 그래서 가상자산 이용자 보호법 2단계에서는 거래소가 기술적 결함이 없다는 증거를 대지 못하면 책임을 지는 방안, 즉 입증 책임을 거래소에 넘기는 안을 검토하고 있어요.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/ad939e6f474717c34b7cd14625cf7840.png" alt="">
-<img src="https://image.zdnet.co.kr/2026/11/04/61ec82204e459265ccd508a60fca8caf.png" alt="">
-<p>다만 무제한 전액 배상은 또 다른 문제를 낳을 수 있어요. 거래소가 파산하면 고객이 돌려받는 돈도 0에 가까워질 수 있기 때문이죠. 실제로 AI 패널의 66%는 한도를 둔 조건부 도입에 손을 들었고, 전면 도입 찬성과 반대·유보는 각각 17%였어요. </p>
-<img src="https://image.zdnet.co.kr/2026/11/04/510a91ffe3c4415a11faff1648666916.png" alt="">
-<p>사고 직후 보험금과 준비금 한도 안에서 먼저 나눠 주자는 방식이에요. 결국 무과실 책임은 가되 무제한 배상은 어렵다는 게 결론인데요, 거래소에 자산을 맡기기 전에 보험 가입액과 콜드월렛 보관 비중부터 꼭 확인해 보세요. </p>
-<img src="https://image.zdnet.co.kr/2026/11/04/95ec7ad989cc51f7d7e16a715b5f08e6.png" alt="">
-<p>더 자세한 내용은 AI의눈 보고서에서 확인하실 수 있어요!</p>
-<p>▶ 해당 보고서 보기 <a href="https://ameet.zdnet.co.kr/uploads/dcfd1378.html" target="_blank"></a><a target="_blank" href="https://ameet.zdnet.co.kr/uploads/6d7454aa.html" class="link">https://ameet.zdnet.co.kr/uploads/6d7454aa.html</a></p>
-<p>▶ 지디넷코리아가 <a href="https://ameet-media.com/" target="_blank">리바랩스 ‘AMEET’</a>과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서를 보시려면 &apos;AI의 눈&apos; 서비스로 이동해주세요. (☞ <a href="https://zdnet.co.kr/special/ameet.php" target="_blank">보고서 서비스 바로가기</a>)</p>]]></description>
-		</item>
-		<item>
-			<title>美 ESS 낙수 효과 본격화…배터리 소재사도 수주 행렬</title>
-			<link>https://zdnet.co.kr/view/?no=20261104170531</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104170531</guid>
-			<author>김윤희 기자</author>
-			<category>포스코퓨처엠</category>
-			<category>엘앤에프</category>
-			<category>배터리</category>
-			<category>배터리소재</category>
-			<category>양극재</category>
-			<category>LG에너지솔루션</category>
-			<category>삼성SDI</category>
-			<category>SK온</category>
-			<category>ESS</category>
-			<category>PFE</category>
-			<category>IRA</category>
-			<category>LFP</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 18:05:56 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2025/12/16/21771f0004c8a345a42c09b9e897a383.jpg" alt=""><p>우리나라 배터리셀 기업들이 미국 에너지저장장치(ESS) 시장에서 대규모 수주를 거두면서, 국내 배터리 소재 업계에 낙수 효과가 나타나고 있다. 셀사들이 현지 규제에 대응하기 위해 공급망 재정비에 나서면서 국내 소재사들의 사업 기회도 확대되는 모습이다.</p>
-<p>4일 배터리 업계에 따르면 LG에너지솔루션, 삼성SDI, SK온 등은 미국 ESS 배터리 생산을 위해 국내 소재 기업과 대규모 계약을 잇달아 체결했다.</p>
-<p>미국 ESS 시장에서 선호하는 LFP 배터리의 경우 그동안 국내 소재 공급망이 전무하다시피 했다. 이런 판도를 바꾼 것은 ESS 배터리 가격 경쟁력을 좌우하는 미국 현지생산세액공제 수령 조건이다.</p>
-<img src="https://image.zdnet.co.kr/2025/12/16/21771f0004c8a345a42c09b9e897a383.jpg" alt="포스코퓨처엠 포항 양극재 공장">
-<p><span style="letter-spacing: 0.8px;">미국 인플레이션감축법(IRA)상 첨단제조생산세액공제(AMPC)를 수령하기 위해선 금지외국단체(PFE)로부터 조달한 배터리 소재 제한 비율을 준수해야 한다. PFE에는 현재 LFP 공급망을 장악한 중국 기업(자본율 25% 이상)이 포함된다. 이 제한 비율은 올해 40%에서 오는 2030년 </span>15%까지 단계적으로 축소된다. 중국 기업들이 LFP 소재 공급망을 주도하는 만큼 국내 소재업체에는 새로운 기회가 되고 있다.</p>
-<p>수요가 보장된 시장이 마련되면서 국내 소재 기업들도 미국 ESS 시장을 공략할 여건이 갖춰졌다. 이에 따라 다수 업체가 수년 전부터 LFP ESS 배터리용 소재 생산을 위한 투자를 추진해왔다. 최근 들어 이 투자가 수주 성과로 드러나고 있다.</p>
-<p>배터리 원가에서 차지하는 비중이 큰 양극재 업계의 수혜가 두드러진다. 배터리 원가의 40% 이상을 차지하는 만큼 비PFE를 통한 양극재 조달이 필수적이다. </p>
-<p>실제 엘앤에프와 포스코퓨처엠은 최근 배터리셀 3사와 LFP 양극재 공급 계약을 체결하면서 수조원대 수주를 확보했다. 대규모 수주에 따라 엘앤에프는 최대 12만톤까지 증설을 검토하고 있다. 포스코퓨처엠도 현 LFP 양극재 수주 실적을 고려하면 라인 전환 또는 설비투자가 필요한 상황으로, 우선 1개 라인 전환을 추진한다는 계획이다. </p>
-<img src="https://image.zdnet.co.kr/2026/07/21/a2c3d6a9da4ec0a9b48305b0b9633019.jpg" alt="엘앤에프플러스 전경">
-<p><span style="letter-spacing: 0.8px;">향후 배터리셀사들의 수주 실적에 따라 공급이 확대될 여지도 있다. 기업들이 이미 수년 치 생산량에 대한 수주를 확보했고, 초과 수요를 공략하기 위해 라인 전환도 추가로 추진하고 있어 ESS 사업 성장에 대한 기대감이 높은 상황이다.</span></p>
-<p><span style="letter-spacing: 0.8px;">엘앤에프의 경우 LG에너지솔루션, SK온과의 계약 사실을 밝히면서 최소 의무 수량을 적용했다고 밝혔다. 삼성SDI와는 합의에 따라 현 계약 상 공급 종료 시점인 2029년에서</span><span style="letter-spacing: 0.8px;"> 2032년까지 계약을 연장할 수 있는 옵션을 포함했다. 포스코퓨처엠도 SK온과의 계약에 2년 추가 연장 옵션을 포함시켰다.</span></p>
-<p>PFE 요건이 강화될 예정이고, 배터리셀사들의 사업 전략을 감안하면 다른 소재사들도 미국 LFP ESS 배터리향 수주를 거둘 가능성이 높게 점쳐진다.</p>
-<p>LG에너지솔루션은 지난 3일 3분기 실적발표 컨퍼런스콜에서 미국 공급망 규제에 대응하기 위해 양극재뿐 아니라 음극재, 분리막, 전해액 등 주요 소재에 대해서도 비PFE 공급업체 발굴을 적극적으로 진행하고 있다고 밝혔다.</p>
-<p>PFE 외에도 미국이 전력설비 행정명령을 발표하면서, 마찬가지로 공급망에서 중국 기업 비중을 축소하려는 기조를 보이는 점에도 주목했다.</p>
-<p>이창실 LG에너지솔루션 최고재무책임자(CFO)는 이 행정명령과 관련해 “구체적 적용 대상과 범위는 (향후 발표될) 시행기준을 지켜봐야 하겠지만, 이번 조치로 현지 생산능력을 보유한 저희 같은 비PFE 기업 경쟁력이 더욱 부각될 것”이라고 기대했다.</p>
-<p>삼성SDI도 지난 29일 컨퍼런스콜에서 “국내 주요 업체들과 LFP 양극재 장기 공급 계약을 체결하는 등 비PFE 요건 충족을 위한 공급망을 지속 구축하고 있다”고 언급했다.</p>]]></description>
-		</item>
-		<item>
-			<title>한국정보처리학회, 연례 ‘ACK 2026’ 학술행사 5~7일 개최</title>
-			<link>https://zdnet.co.kr/view/?no=20261104175514</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104175514</guid>
-			<author>방은주 기자</author>
-			<category>정보처리학회</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 17:55:14 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/9c16145cd5816240c8547c9c6631e86a.png" alt=""><p>한국정보처리학회(학회장 박능수 건국대학교 교수)가 5~7일 사흘간 세종대학교에서 ‘ACK 2026(Annual Conference of KIPS 2026)’ 학술발표대회를 온·오프라인 병행 방식으로 개최한다.</p>
-<p>‘ACK 2026’은 한국정보처리학회가 주관하는 국내 대표 학술행사 중 하나다. 정보과학 및 기술 분야 최신 연구 성과를 공유하고 학계·연구계·산업계 간 교류를 활성화하기 위해 매년 연다.</p>
-<p>이번 대회에서는 학계, 연구계, 산업계 관계자 등 약 500여 명이 참가한다. 총 501편의 논문이 발표된다. 우수한 연구 성과를 선정해 총 84편의 논문에 대한 시상도 한다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/9c16145cd5816240c8547c9c6631e86a.png" alt="">
-<p>시상은 ▲한국지능정보사회진흥원 원장상 ▲한국전자통신연구원 원장상 ▲한국인터넷진흥원 원장상 ▲국가보안기술연구소 소장상 ▲한국정보기술학술단체총연합회 회장상 ▲ (최)우수논문상 ▲ 산학연협동우수상 ▲ 학부생논문경진대회상을 비롯해 ▲ 한이음 드림업 (최)우수상 ▲ 스마트 해운물류 (최)우수상을 수여한다.</p>
-<p>행사는 ‘AI+X 시대, 디지털 혁신의 보이지 않는 병목’, ‘Securing Physical AI’, ‘피지컬AI: 화면 밖으로 나온 인공지능’을 주제로 숭실대 한화진 석좌교수와 KAIST 김용대 ICT 석좌교수의 기조강연 및 KETI 임태범 소장의 초청강연이 이뤄진다.</p>
-<p>튜토리얼 강연은 KENTECH 이현우 교수, 한양대 김태욱 교수, 서울대 유영재 교수가 AI 실전 활용에 대한 실습을 적용한 튜토리얼 세션을 준비했다. 신진학자 워크숍에서는 단국대 최현민 교수, 중앙대 정다흰 교수, 명지대 김현준 교수, KENTECH 신욱철 교수가 발표자로 참여해 최신 연구 동향을 공유한다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/143a188f9e07a6a7b9fbb344f5929caf.png" alt="">]]></description>
-		</item>
-		<item>
-			<title>HD현대일렉트릭, 교섭장 신경전 끝 임단협 합의…내일 찬반 투표</title>
-			<link>https://zdnet.co.kr/view/?no=20261104172723</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104172723</guid>
-			<author>류은주 기자</author>
-			<category>HD현대일렉트릭</category>
-			<category>임단협</category>
-			<category>노사</category>
-			<category>노조</category>
-			<category>의견일치안</category>
-			<category>성과급</category>
-			<category>전력기기</category>
-			<category>HD현대</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 17:49:59 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/01/06/c72b9e30a2ac6b83a4d58b53f7498334.jpg" alt=""><p>HD현대중공업이 올해 임금 및 단체협약 교섭을 마무리한 데 이어 HD현대일렉트릭 노사도 잠정합의안을 마련했다. 노조는 5일 조합원 찬반투표를 통해 합의안 수용 여부를 결정한다.</p>
-<p>4일 금속노조 현대중공업지부 현대일렉트릭지회에 따르면 노사는 지난 3일 기본급 인상과 일시금 지급, 단체협약 개정 등에 의견을 모았다. </p>
-<p>잠정합의안에는 기본급 12만원 정액 인상이 담겼다. 여기에는 호봉승급분 5만 5000원이 포함된다. 호봉승급분은 기존 3만 5000원에서 2만원 높이고, 내년부터 명칭을 &apos;정기인상분&apos;으로 바꾸기로 했다. </p>
-<img src="https://image.zdnet.co.kr/2026/01/06/c72b9e30a2ac6b83a4d58b53f7498334.jpg" alt="HD현대일렉트릭 울산 사업장 전경 (사진=HD현대)">
-<p>기본급 외에는 일시금 1150만원과 약정임금의 200%를 지급한다. 일시금은 산업전환 특별협약 체결 축하금 500만원, 노사상생 협력 격려금 300만원, 경영목표 달성 격려금 250만원, 북미 변압기 누적 1000대 생산 기념 상품권 100만원으로 구성됐다. 약정임금의 200%는 420kV 친환경 고압차단기 개발 성공 축하금 명목이다.</p>
-<p>올해 성과금은 별도 지급 기준에 따라 오는 12월 31일 지급한다. 지급 대상은 지급 시점에 재직 중인 직원으로 정했다.</p>
-<p>단체협약에는 휴직기간 확대와 정년퇴직 예정자에 대한 위로휴가 14일 부여 등이 포함됐다. 10년 이상 근속자가 상병이나 장해로 계속 취업하기 어렵고 생계유지가 곤란한 경우에는 1년 이내의 생계보조금을 지급하는 조항도 추가했다.</p>
-<p>잠정합의에 앞서 노사는 회사 측의 현장 설명을 놓고 신경전을 벌이기도 했다. 노조가 공개한 지난달 30일 교섭 내용에 따르면 노조는 회사가 관리자를 통해 반려된 제시안을 설명하면서 조합원들에게 찬성을 압박했다고 주장했다. 추가 제시안이 없으면 쟁의 수위를 높일 수 있다는 입장도 밝혔다.</p>
-<p>회사 측은 조합원들에게 제시안 내용을 알리기 위한 설명이었으며 특정 안을 선택하도록 강요한 사실은 없다고 반박했다. 양측은 이날 본교섭 이후 실무교섭으로 전환해 논의를 이어갔고, 3일 합의에 이르렀다.</p>
-<p>앞서 HD현대중공업은 지난달 27일 조합원 찬반투표에서 2차 잠정합의안이 55.06%의 찬성으로 가결되면서 올해 임단협을 마무리했다. HD현대일렉트릭도 5일 투표에서 잠정합의안이 가결되면 올해 교섭을 최종 마무리하게된다. </p>]]></description>
-		</item>
-		<item>
-			<title>위즈진, 모터·감속기 통합한 로봇 구동장치 공개…600kg 물류로봇 적용</title>
-			<link>https://zdnet.co.kr/view/?no=20261104174434</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104174434</guid>
-			<author>안희정 기자</author>
-			<category>로봇</category>
-			<category>R80</category>
-			<category>물류로봇</category>
-			<category>액추에이터</category>
-			<category>위즈진</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 17:45:10 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/90b92faa6dc91974ed55457832994e01.png" alt=""><p>로보틱스 솔루션 기업 위즈진이 모터와 감속기, 구동 드라이버를 하나로 통합한 로봇용 액추에이터를 공개한다. 해당 기술을 적용해 최대 600kg의 화물을 이송하도록 설계한 자율주행 물류로봇도 선보인다.</p>
-<p>위즈진은 &apos;2026 로보월드&apos;에 참가해 자체 개발한 로봇 액추에이터 &apos;FLUXIUM R80&apos;을 공개한다고 4일 밝혔다.</p>
-<p>액추에이터는 로봇의 관절과 구동부를 움직이는 핵심 장치다. 위즈진이 개발한 R80은 모터와 감속기, 구동 드라이버, 위치 감지용 엔코더를 하나의 몸체에 통합한 제품이다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/90b92faa6dc91974ed55457832994e01.png" alt="위즈진 액추에이터 FLUXIUM R80">
-<p>별도의 외장 드라이버 없이 전원과 통신선을 연결해 구동할 수 있어 로봇 내부의 부품 배치와 배선을 간소화할 수 있다는 것이 회사 측 설명이다.</p>
-<p>R80에는 회전부 두 개가 고정자를 양쪽에서 감싸는 디스크 형태의 축방향 자속 모터(AFPM)가 적용됐다.</p>
-<p>제품의 지름은 90mm, 두께는 59.5mm, 무게는 858g이며 정격 토크는 약 27Nm다. 중심부에는 지름 16mm의 빈 공간을 마련해 케이블이 로봇 관절 내부를 통과할 수 있도록 설계했다.</p>
-<p>위즈진은 이번 전시에서 R80을 적용한 초저상형 자율주행 물류로봇(AMR)도 공개한다.</p>
-<p>이 로봇은 높이 150mm의 차체가 물류 랙이나 적재함 아래로 들어가 화물을 들어 올려 이동하는 방식이다. R80 두 개를 사용해 최대 600kg을 이송하도록 설계했다.</p>
-<p>구동 부품을 일체화해 좁은 차체 내부에 리프트와 배터리를 배치할 공간을 확보했다. 위즈진은 현재 현장 주행 시험을 통해 액추에이터의 내구성을 검증하고 있다.</p>
-<p>위즈진은 액추에이터의 핵심 소재인 연자성 복합소재(SMC)와 고정자를 직접 개발·생산하고 있다. 감속기와 구동 드라이버도 자체 설계한다.</p>
-<p>회사는 주요 구동 부품을 자체 개발함으로써 고객이 요구하는 크기와 성능에 맞춰 제품을 설계하고 외부 공급망 변화에 따른 영향을 줄일 수 있다고 설명했다. 지난해부터는 국내 대기업과 로봇 스타트업에 로봇용 프레임리스 모터를 납품하고 있다.</p>
-<p>항공우주용 모터와 인공지능(AI) 기반 상태 진단 기술도 함께 선보인다.</p>
-<p>큐브위성 자세제어용 모터 &apos;FLUXIUM C80&apos;과 무인기·도심항공교통(UAM) 추진용 모터 &apos;D80·D120·D160&apos;을 전시한다. 모터의 전류와 전압 신호를 분석해 이상 징후를 감지하는 &apos;P-RAY&apos;도 시연할 예정이다.</p>
-<p>향후에는 P-RAY를 구동 드라이버에 통합해 모터 상태와 정비 시점을 함께 관리할 수 있도록 개발할 계획이다.</p>
-<p>윤동국 위즈진 대표는 "소재부터 주요 구동 부품까지 직접 개발해 고객이 원하는 사양에 유연하게 대응하고 공급 안정성을 높일 수 있다"며 "항공우주용 모터 개발 과정에서 축적한 기술을 로봇 관절과 물류로봇으로 확장하겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>SK, SK에코플랜트 상장 대신 지분 100% 확보</title>
-			<link>https://zdnet.co.kr/view/?no=20261104173932</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104173932</guid>
-			<author>류은주 기자</author>
-			<category>SK</category>
-			<category>SK에코플랜트</category>
-			<category>자회사</category>
-			<category>IPO</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 17:39:32 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2021/09/15/8c0e3606aa2ff55d73860c7de47a835e.jpg" alt=""><p>SK가 중복상장에 대한 시장 우려를 낮추기 위해 SK에코플랜트 기업공개(IPO) 대신 완전 자회사화를 추진한다. 반도체와 인공지능(AI) 인프라 중심으로 사업을 재편한 데 이어 소수주주 지분을 사들여 지분구조 정비에 나선다.</p>
-<p>SK는 4일 이사회에서 비상장 자회사 SK에코플랜트 주식을 주당 8만 8000원에 공개매수하기로 결의했다고 밝혔다.</p>
-<p>매수 대상은 총 발행주식 약 25%에 해당하는 약 1643만주다. 공개매수는 이달 5일부터 24일까지 진행하며 대금은 현금으로 지급한다.</p>
-<img src="https://image.zdnet.co.kr/2021/09/15/8c0e3606aa2ff55d73860c7de47a835e.jpg" alt="">
-<p>매수 가격은 장외주식시장(K-OTC)의 최근 1개월 평균 주가 약 5만 7500원보다 약 53% 높다. SK는 외부 회계법인이 자산가치와 향후 수익창출력 등을 평가해 가격을 산정했다고 설명했다.</p>
-<p>SK는 공개매수 이후 남은 주주에게 현금을 지급하고 주식을 넘겨받는 포괄적 주식교환 등의 절차를 거쳐 지분 100%를 확보할 계획이다. 앞서 지난 4월에는 약 4000억원을 들여 재무적투자자(FI) 보유 지분을 인수했다. 당시 지분율은 의결권 기준 약 74%, 발행주식 수 기준 71.2%로 높아졌다.</p>
-<p>이번 결정에는 소수주주의 투자금 회수를 지원하면서 모회사와 자회사가 함께 상장하는 중복상장에 대한 우려를 낮추겠다는 취지가 담겼다. SK는 사업 재편에 이어 지분구조 정비까지 마무리한다는 방침이다.</p>
-<p>SK에코플랜트는 2024년부터 건설·환경 중심이던 사업구조를 바꿔왔다. 산업용 가스 기업 SK에어플러스와 반도체 모듈 기업 에센코어를 자회사로 편입했고, 지난해에는 SK트리켐·SK레조낙·SK머티리얼즈제이엔씨·SK머티리얼즈퍼포먼스 등 반도체 소재 기업 4개사를 추가했다.</p>
-<p>올해 상반기 연결 기준 매출은 10조504억원, 영업이익은 1조4650억원을 기록했다. SK는 완전 자회사화를 통해 반도체·AI 관련 사업의 경쟁력을 높이고 이를 지주사 주주가치 향상으로 연결할 계획이다.</p>
-<p>공개매수 주관사는 NH투자증권이다. 참여를 원하는 주주는 NH투자증권 본·지점이나 홈페이지, 홈트레이딩시스템(HTS), 모바일트레이딩시스템(MTS)에서 신청할 수 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>레인보우로보틱스, 휴머노이드에 AI 결합…&quot;말로 로봇 부린다&quot;</title>
-			<link>https://zdnet.co.kr/view/?no=20261104172211</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104172211</guid>
-			<author>진운용 기자</author>
-			<category>레인보우로보틱스</category>
-			<category>모바일 휴머노이드</category>
-			<category>RB-Y2</category>
-			<category>협동로봇</category>
-			<category>AI 모델</category>
-			<category>챗GPT</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 17:30:36 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/afba4495e9097036c1e716f5ba94dc88.jpg" alt=""><p>레인보우로보틱스가 2세대 모바일 휴머노이드 &apos;RB-Y2&apos;에 인공지능(AI)을 결합한다. 사람이 자연어로 로봇을 조작하도록 지원하는 것이 목표다. RB-Y2는 내년 중반부터 본격 판매할 예정이다.</p>
-<p>허정우 레인보우로보틱스 최고기술책임자(CTO)는 4일 경기 고양시 킨텍스에서 열린 &apos;2026 로보월드&apos;에서 기자와 만나 "챗GPT 같은 AI 모델과 로봇 하드웨어를 연결하는 미들웨어 소프트웨어를 개발하고 있다"며 "AI 모델과 함께 미들웨어를 RB-Y2에 탑재하면 로봇이 자연어를 이해하고 수행할 수 있을 것"이라고 말했다.</p>
-<p>허 CTO는 "팔로 하트 모양을 만드는 것 같은 간단한 동작은 로봇이 한 번에 이해한다"며 "복잡한 임무는 사람이 구체적으로 설명해줘야 한다"고 말했다. 이어 "어떤 센서가 무엇을 인식했을 때 어떤 동작을 하라는 식으로 지시해야 한다"며 "명령을 내리는 사람은 로봇에 어떤 센서와 그리퍼가 달려 있는지 등 하드웨어를 이해하고 있어야 한다"고 설명했다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/afba4495e9097036c1e716f5ba94dc88.jpg" alt="2026 로보월드에 전시된 레인보우로보틱스의 모바일 휴머노이드 &apos;RB-Y2&apos;. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">RB-Y2는 연구용으로 쓰던 이전 모델 &apos;RB-Y1&apos;에서 한 단계 나아간 제품이다. 실제 생산 공정 투입을 목표로 개발했다. 바퀴 달린 이동형 베이스 위에 양팔과 리프트 구조를 올린 형태다. 작업 위치에 따라 높이를 조절하고, 필요한 곳으로 직접 이동해 작업을 이어간다. 팔 하나당 가반하중은 이전 모델 대비 2배 증가된 6㎏으로 높였다. 상체까지 함께 제어하는 방식으로 작업 안정성도 높였다.</span></p>
-<p>RB-Y2는 이미 샘플 생산에 들어갔다. 허 CTO는 "내년 6월쯤 본격 양산을 시작할 것"이라고 덧붙였다. </p>
-<p>이날 행사에서 레인보우로보틱스는 사업현황도 공개했다. 연사로 나선 허 CTO는 "협동로봇, 자율이동로봇(AMR), 모바일 매니퓰레이터, 모바일 휴머노이드, 4족 보행 로봇 등 5개 폼팩터 로봇을 4개 사업부에서 개발하고 있다"고 말했다. 레인보우로보틱스는 올해 상반기 조직을 매니퓰레이터사업부, 모바일사업부, 사족로봇사업부, 로봇자동화사업부(SI)로 개편했다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/5021027d27aeac5d07dafd07c65a963e.jpg" alt="허정우 레인보우로보틱스 CTO가 4일 2026 로보월드에서 발표하고 있다. (사진=지디넷코리아)">
-<p><span style="letter-spacing: 0.8px;">허 CTO는 협동로봇 경쟁력을 강조했다. 그는 "로봇 기술은 하드웨어 플랫폼에 그치지 않고 실제 제조 현장에서 살아남아야 한다"며 </span><span style="letter-spacing: 0.8px;">"</span><span style="letter-spacing: 0.8px;">협동로봇을 처음 개발할 때부터 부품까지 모두 내재화하는 것을 목표로 삼았다"고 말했다. 회사는 모터, 엔코더, 브레이크를 자체 개발했다. 감속기는 현재 개발 중이다.</span></p>
-<p>그러면서 "부품 내재화로 원가를 절감할 수 있었다"며 "처음에는 하드웨어가 완벽하지 않았지만 부품을 직접 만들었기에 계속 개선할 수 있었다"고 설명했다.</p>
-<p>레인보우로보틱스는 가반하중 1㎏부터 35㎏까지 다양한 협동로봇 라인업을 갖추고 있다. 출시 후 현재까지 협동로봇 누적 판매량은 3500대다. 주로 국내 시장에서 판매했다. 허 CTO는 "국내에서 높은 시장 점유율을 차지했다고 자부한다"며 "레인보우로보틱스 협동로봇은 물류, 조립 자동화 공정, 식당 등 다양한 현장에서 쓰이고 있다"고 말했다. </p>]]></description>
-		</item>
-		<item>
-			<title>디에스앤지, ISO 14001·45001 인증 추가 취득</title>
-			<link>https://zdnet.co.kr/view/?no=20261104172610</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104172610</guid>
-			<author>방은주 기자</author>
-			<category>디에스앤지</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 04 Nov 2026 17:26:10 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/ca252a844887553ded24562330f6036d.jpg" alt=""><p>AI 인프라 전문기업 디에스앤지(대표 서정열)가 국제표준화기구(ISO)의 환경경영시스템(ISO 14001)과 안전보건경영시스템(ISO 45001) 인증을 취득했다.</p>
-<p>4일 회사에 따르면, 이번 인증 취득으로 디에스앤지는 기존에 보유한 품질경영시스템(ISO 9001)에 이어 환경경영과 안전보건경영 분야까지 국제표준에 부합하는 더욱 강화된 경영체계를 갖췄다.</p>
-<p>&apos;ISO 14001&apos;은 기업의 사업활동에서 발생하는 환경 영향을 체계적으로 관리하고 지속적으로 개선하기 위한 국제표준이다. 또 &apos;ISO 45001&apos;은 사업장 내 안전보건 위험요인을 사전에 파악하고 산업재해 예방과 안전한 근무환경 조성을 위한 관리체계를 규정하는 국제표준이다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/ca252a844887553ded24562330f6036d.jpg" alt="">
-<p>이번 인증 범위는 &apos;하드웨어 서버의 조립 및 생산&apos;과 &apos;소프트웨어 개발 및 네트워크 구축&apos;으로, 디에스앤지의 주요 사업 영역을 포함한다. 이를 통해 서버 생산부터 소프트웨어 개발, 네트워크 인프라 구축에 이르는 사업 과정에서 환경 및 안전보건 관리체계를 체계적으로 운영할 수 있는 기반을 마련했다.</p>
-<p>디에스앤지는 GPU 서버, 스토리지, 네트워크, 냉각 솔루션 등 AI 인프라 전반에 걸친 솔루션과 서비스를 제공하고 있다. 최근 AI 인프라 대형화와 고집적화로 시스템 구축 및 운영 과정에서 품질과 안전, 환경 관리 중요성이 높아지는 가운데, 이번 인증 취득을 계기로 관련 관리체계를 더욱 강화해 나갈 계획이다.</p>
-<p>디에스앤지 서영민 전무는 “이번 인증 취득은 기존 품질경영 체계를 환경과 안전보건 분야까지 확대하고, 주요 사업 전반의 관리 역량을 강화했다는 점에서 의미가 있다”며 “앞으로도 AI 인프라 전문기업으로서 기술 경쟁력은 물론 품질과 환경, 안전을 고려한 책임 있는 경영활동을 지속해 나가겠다”고 밝혔다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/961bb6c3afff4cef7e6f50e1e63992d4.jpg" alt="">]]></description>
-		</item>
-		<item>
-			<title>블럭스 &quot;AI가 고객 분석부터 캠페인 실행까지&quot;…CRM 자동화 전략 공개</title>
-			<link>https://zdnet.co.kr/view/?no=20261104170146</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104170146</guid>
-			<author>안희정 기자</author>
-			<category>AI</category>
-			<category>데이터</category>
-			<category>에이전트</category>
-			<category>캠페인</category>
-			<category>CRM</category>
-			<category>블럭스</category>
-			<category>IT 일반</category>
-			<pubDate>Wed, 04 Nov 2026 17:15:01 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/b448ccc7a1cafa944b7955936b70964e.jpg" alt=""><p>인공지능(AI)이 고객 데이터를 분석하고 마케팅 캠페인을 제안하는 데 그치지 않고, 발송 대상과 시점을 결정하고 성과까지 점검하는 방식으로 고객관계관리(CRM) 업무가 확대되고 있다.</p>
-<p>AI CRM 마케팅 에이전트 기업 블럭스는 지난 2일 서울 강남구 마루180에서 커머스·브랜드사 마케터를 대상으로 &apos;AI 시대, CRM 마케팅은 어떻게 달라져야 할까?&apos; 세미나를 개최했다고 4일 밝혔다.</p>
-<p>이번 행사에서는 AI를 활용해 고객 데이터를 분석하고 캠페인을 실행한 뒤, 그 결과를 다음 마케팅 활동에 반영하는 운영 전략이 소개됐다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/b448ccc7a1cafa944b7955936b70964e.jpg" alt="블럭스 세미나 전경">
-<p>첫 발표를 맡은 박찬희 카카오스타일 글로벌 CRM 마케터는 개별 캠페인의 성과보다 실험과 개선을 반복하는 체계를 구축하는 것이 중요하다고 강조했다.</p>
-<p>박 마케터는 정성·정량 데이터를 바탕으로 AI가 캠페인 아이디어를 도출하고, 성과 대시보드를 통해 개선이 필요한 캠페인을 찾아내는 과정을 설명했다. A/B 테스트 결과를 분석하고 후속 실험 과제를 관리하는 방법도 공유했다.</p>
-<p>이어 구민성 블럭스 공동창업자 겸 이사는 &apos;AI가 CRM을 직접 실행하게 만들기&apos;를 주제로 AI 에이전트 활용 사례를 발표했다.</p>
-<p>구 이사는 "카피는 AI로 10초면 나오지만, 실제 데이터를 확인하고 대상·채널·일정을 조정해 세팅·검수하고 성과를 확인하는 일은 여전히 사람의 몫"이라며 마케팅 실행 과정에서 AI 에이전트가 수행할 수 있는 역할을 설명했다.</p>
-<p>블럭스가 소개한 AI 에이전트는 고객군별 전환율 변화를 분석해 원인 후보를 제시하고, 고객 여정에서 마케팅 메시지가 필요한 구간을 찾아 캠페인 시나리오를 추천한다.</p>
-<p>프로모션 기획 단계에서는 발송 대상과 소재, 시간을 제안한다. 중고차 플랫폼의 경우 고객 문의가 많은 주말 저녁 대신 영업팀이 다음 날 오전 상담을 진행할 수 있도록 화요일 저녁 메시지 발송을 제안한 사례가 소개됐다.</p>
-<p>고객 행동에 따른 자동화 기능도 다뤘다. 고객별 재구매 주기에 맞춰 메시지 발송일을 조정하고, 이미 상품을 구매했거나 최근 다른 캠페인 메시지를 받은 고객은 발송 대상에서 제외하는 방식이다.</p>
-<p>또 전날 진행한 캠페인의 성과를 매일 점검하고 이상 징후가 나타나면 담당자에게 알리는 상시 모니터링 사례도 공개했다.</p>
-<p>블럭스는 현재 50곳 이상의 고객사가 자사 AI 에이전트를 사용하고 있다고 밝혔다. 올해 6월 기준 월간 사용량은 1월보다 약 6배 증가했다.</p>
-<p>한 이커머스 고객사에서는 AI 에이전트가 운영한 캠페인의 메시지를 받은 고객군과 받지 않은 고객군을 비교해 한 달간 1750만원의 증분 매출을 산출했다고 설명했다.</p>
-<p>구 이사는 "AI 에이전트가 실행을 맡는다고 마케터의 일이 줄어드는 것이 아니라, 마케터가 시간을 쓰는 곳이 바뀌는 것"이라며 "마케터는 어떤 고객 구간을 먼저 개선하고 무엇을 성과로 볼지 기준을 정하는 데 집중해야 한다"고 말했다.</p>
-<p>블럭스는 AI CRM 마케팅 에이전트를 통해 누적 3000건 이상의 마케팅 캠페인을 집행했다고 밝혔다. 고객 데이터 분석과 캠페인 제안, 마케팅 소재 제작, 시나리오 설정, 집행 보조 등의 기능을 제공하고 있다.</p>]]></description>
-		</item>
-		<item>
-			<title>美 민주당 의회 장악…AI 기업, 세금·저작권·안전검증 시험대</title>
-			<link>https://zdnet.co.kr/view/?no=20261104171015</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104171015</guid>
-			<author>김동원 기자</author>
-			<category>트럼프</category>
-			<category>중간선거</category>
-			<category>AI안전</category>
-			<category>세금</category>
-			<category>저작권</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 04 Nov 2026 17:13:35 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/01/28/d232f709909a0064d4a830356a7fa0f1.jpg" alt=""><p><span style="letter-spacing: 0.8px;">미국 민주당이 상·하원을 모두 장악하면서 인공지능(AI) 기업에 대한 감독이 강화될 전망이다. AI로 얻은 이익에 세금을 매길지, 학습에 쓴 뉴스와 책에 대가를 지급해야 할지, 안전성을 외부에서 검증할지가 주요 쟁점으로 떠올랐다.</span></p>
-<p>3일(현지시간) 로이터에 따르면 민주당은 미국 중간선거에서 상원과 하원 다수당 지위를 확보했다. 내년 새 의회에서는 민주당이 법안 심의와 청문회, 기업 자료 제출 요구를 주도하게 된다.</p>
-<p>로이터는 앞서 2일 민주당 승리가 AI 기업에 대한 조사 확대로 이어질 수 있다고 분석했다. 에드 밀스 레이먼드제임스 정책 분석가는 의회 조사가 외부 안전평가와 사고 보고를 의무화하려는 움직임에 힘을 실을 수 있다고 내다봤다.</p>
-<img src="https://image.zdnet.co.kr/2026/01/28/d232f709909a0064d4a830356a7fa0f1.jpg" alt="미국 민주당이 중간선거에서 상·하원 다수당을 차지하면서 트럼프 행정부와 AI 정책을 둘러싼 협상을 벌이게 됐다. (사진=로이터/뉴스1)">
-<p><span style="letter-spacing: 0.8px;">민주당 의원들은 이미 AI 과세 법안을 발의하고 학습 자료 저작권 보호를 요구해 왔다. 주요 개발사에는 사고 자료도 요청했다. 세 사안은 각각 기업이 부담할 세금과 자료 사용료, 모델 검증 절차에 연결된다.</span></p>
-<p><span style="letter-spacing: 0.8px;">과세 논의는 AI 성장으로 얻은 이익 일부를 노동자 지원에 쓰자는 데서 출발했다. AI로 업무가 바뀌거나 일자리가 줄어들 때 필요한 재교육 비용을 기업도 부담하도록 하자는 구상이다.</span></p>
-<p>미국 세무 전문매체 블룸버그 택스에 따르면 마크 켈리 민주당 상원의원은 AI 사용과 초과이익 등에 세금을 부과해 노동자 재교육 기금을 만드는 법안을 발의했다. 다른 민주당 의원들도 AI 제품이나 사용량에 과세하는 방안을 제시했다.</p>
-<p>블룸버그 택스는 이런 제안이 민주당 주도 의회에서 다룰 정책 방향을 보여준다고 분석했다. AI 산업 성장뿐 아니라 그 과정에서 발생하는 사회적 비용을 누가 부담할지가 논의 대상이 된 셈이다.</p>
-<p>기업 입장에서는 과세 대상과 기준이 중요하다. AI 사용량에 세금을 매기는 방안과 일정 수준을 넘는 이익에 세금을 매기는 방안은 부담 구조가 다르다. 법안이 추진되면 어떤 서비스와 기업에 적용할지부터 논의해야 한다.</p>
-<p>현재 과세안은 시행이 확정된 제도가 아니다. 민주당이 의회를 주도하더라도 법안 심의와 행정부 협상을 거쳐야 한다. 기업에 당장 세금이 늘기보다 새 의회에서 관련 논의가 얼마나 진전될지가 변수다.</p>
-<p>저작권 분야에서는 AI 학습에 뉴스와 책 등을 허락 없이 사용할 수 있는지를 놓고 트럼프 행정부와 민주당 의원들이 맞섰다. 뉴욕타임스 등 저작권자는 오픈AI와 마이크로소프트(MS)가 자사 자료를 무단으로 학습에 사용했다며 소송을 제기했다.</p>
-<p>로이터에 따르면 트럼프 행정부는 지난 9월 법원에 의견서를 제출해 개발사를 지지했다. AI 학습이 일정한 조건 아래 저작권자 허락 없이 저작물을 사용할 수 있는 &apos;공정이용&apos;에 해당한다는 취지다. 정부는 AI 발전과 국가안보도 근거로 제시했다.</p>
-<p>반면 제이미 래스킨과 제럴드 내들러, 행크 존슨 민주당 하원의원은 지난달 30일 법원에 정부 주장을 받아들이지 말라고 요청했다. 이들은 저작권법에 국가안보를 이유로 저작물을 자유롭게 사용할 수 있다는 예외는 없다고 반박했다.</p>
-<p>의원들은 공정이용 여부를 판단할 때 자료를 어떻게 사용했는지, 얼마나 복제했는지, 원본 시장에 어떤 영향을 줬는지 등을 살펴야 한다고 강조했다. 작가와 언론인, 예술가가 정당한 보상을 받을 권리도 보호해야 한다고 주장했다.</p>
-<p>안전 분야에서는 민주당이 주요 개발사에 사고 자료를 요구했다. 하원 법사위와 에너지상무위, 과학·우주·기술위 민주당 간사들은 지난달 28일 오픈AI와 앤트로픽, 구글, 메타 등 5개 기업에 서한을 보냈다.</p>
-<p>의원들은 기존 사고 내역을 오는 11일까지 제출하고 새 사고를 발견하면 48시간 안에 알려 달라고 요청했다. 핵심 기반시설과 관련된 경우에는 24시간 안에 보고하도록 요구했다.</p>
-<p>이들은 기업 자율 공개만으로는 충분하지 않다고 주장했다. 사고 공개가 법적 책임이나 평판 손상으로 이어지는 만큼 기업이 불리한 정보를 빠짐없이 알릴지 의문이라는 설명이다. 이번 요청은 법에 따른 새로운 보고 의무와는 구분된다.</p>
-<p>로이터는 에드 밀스 레이먼드제임스 정책 분석가를 인용해 의회 조사가 고성능 AI 모델에 대한 안전 기준과 외부 평가, 사고 보고 의무화 논의에 힘을 실을 수 있다고 전했다.</p>
-<p>업계도 정치·정책 단체 지원과 공식 제안을 통해 규제 논의에 참여해 왔다. 그레그 브록먼 오픈AI 사장 부부가 후원한 &apos;리딩 더 퓨처&apos;는 AI 개발을 지나치게 제한하거나 늦추는 규제에 반대한다. 이 단체가 지원한 후보 중에는 연방법으로 주정부별 AI 규제를 막아야 한다는 인사도 있다.</p>
-<p>오픈AI는 브록먼 부부 기부가 개인 자격으로 이뤄졌다고 설명했다. 회사는 고성능 모델 평가와 사고 공개를 포함한 연방 안전 체계를 지지한다. 미국 전역에 적용할 기준을 마련한 뒤 같은 위험을 다루는 주정부 규제를 대체하자는 입장이다.</p>
-<p>앤트로픽이 지원한 &apos;퍼블릭 퍼스트 액션&apos;은 더 강한 연방 안전 기준을 마련하기 전에 주정부 규제를 막아서는 안 된다고 주장한다. 앤트로픽은 지원금을 정책·교육 활동에만 쓰도록 했으며 특정 후보 선거운동에는 사용할 수 없다고 밝혔다.</p>
-<p>새 규제 도입에는 트럼프 대통령 거부권이 변수로 남아 있다. 시킹알파가 소개한 골드만삭스 분석도 AI 규제 입법이 진전될 가능성을 제시하면서 광범위한 연방 규제 도입 가능성은 낮게 평가했다.</p>
-<p>마크 워너 민주당 상원의원은 지난 9월 로이터 인터뷰에서 사고 이후 보고에 그치지 않고 안전 기준부터 마련해야 한다고 강조했다.</p>
-<p>워너 의원은 "사고가 발생하기를 기다렸다가 어떻게 고칠지 되돌아볼 수는 없다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>&quot;내가 고른 AI가 답했나&quot;…앤트로픽, 모델 확인 기술 공개</title>
-			<link>https://zdnet.co.kr/view/?no=20261104162646</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104162646</guid>
-			<author>김미정 기자</author>
-			<category>앤트로픽</category>
-			<category>AI</category>
-			<category>인공지능</category>
-			<category>모델</category>
-			<category>클로드</category>
-			<category>컴퓨팅</category>
-			<pubDate>Wed, 04 Nov 2026 17:02:51 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/c9e908fda71d31354f3a8c214c7129a7.png" alt=""><p>앤트로픽이 답변을 생성한 인공지능(AI) 모델 출처를 확인하는 기술 개발에 나섰다. 이용자가 선택한 모델과 실제 답변에 쓰인 모델이 일치하는지 검증할 수 있게 돕기 위한 조치다. </p>
-<p>3일(현지시간) 테크크런치 등 외신에 따르면 앤트로픽 연구진은 특정 결과물이 어떤 모델에서 나왔는지 암호학적으로 증명하는 오픈소스 시스템 &apos;플래시프루브&apos;를 개발에 착수했다. 연구진은 블로그를 통해 연구 진행 상황과 기술 명세서, 일부 작동 코드를 공개했다.</p>
-<p>핵심 목적은 AI 기업이 이용자에게 알리지 않고 모델을 바꿔 사용하는지 확인하는 것이다. 비용을 아끼려고 저렴한 모델로 답변하거나, 성능 평가에서 좋은 점수를 받으려고 더 뛰어난 모델을 투입했는지 검증할 수 있다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/c9e908fda71d31354f3a8c214c7129a7.png" alt="앤트로픽이 답변을 생성한 인공지능(AI) 모델 출처를 확인하는 기술 개발에 나섰다. (이미지=앤트로픽 홈페이지)">
-<p>플래시프루브는 특정 답변을 특정 모델이 생성했다는 사실을 수학적으로 증명한다. 이메일의 암호학적 서명으로 발신자를 확인하듯 AI 답변을 만든 모델을 확인하는 방식이다.</p>
-<p>이를 위해 AI 개발사는 모델마다 고유한 정보를 공개해야 한다. 이용자는 이 정보를 바탕으로 답변이 해당 모델에서 나왔는지 검증할 수 있다.</p>
-<p>검증 과정에서 모델의 작동 방식을 결정하는 내부 수치인 가중치는 공개하지 않아도 된다. 앤트로픽이나 오픈AI처럼 가중치를 비공개로 유지하는 기업도 핵심 기술을 노출하지 않고 활용할 수 있다는 의미다. 이용자는 자신의 기기에서도 검증 작업을 수행할 수 있다.</p>
-<p>앤트로픽 연구진은 "이는 완성된 연구 결과가 아닌 중간 진행 상황을 공유하기 위한 것"이라며 "답변이 어떤 AI 모델에서 나왔는지 알 수 있는 생태계를 만들 것"이라고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>고려아연, 자사주 절반 소각·액면분할 추진…3분기 영업익은 반토막</title>
-			<link>https://zdnet.co.kr/view/?no=20261104165657</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104165657</guid>
-			<author>류은주 기자</author>
-			<category>고려아연</category>
-			<category>실적</category>
-			<category>3분기</category>
-			<category>액면분할</category>
-			<category>자사주</category>
-			<category>소각</category>
-			<category>디지털경제</category>
-			<pubDate>Wed, 04 Nov 2026 17:00:44 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/06/09/70690d0d4dbaba228e1207976bbcfc96.png" alt=""><p>고려아연이 보유 자사주의 절반가량을 소각하고 중단됐던 액면분할을 다시 추진한다. 올해 3분기에는 매출이 늘었지만 금속가격과 환율 하락, 미국 제련소 사업 초기 비용 등의 영향으로 영업이익이 크게 줄었다.</p>
-<p>고려아연은 4일 정기 이사회에서 자사주 소각과 액면분할 재추진, 3분기 배당을 결의하고 경영실적을 승인했다고 밝혔다.</p>
-<p>소각 대상은 보유 자사주 47만 9737주 가운데 51.4%인 24만 6665주다. 내년 1월 소각할 예정이며, 나머지 23만 3072주는 향후 10년간 임직원 보상 등에 사용할 계획이다.</p>
-<img src="https://image.zdnet.co.kr/2026/06/09/70690d0d4dbaba228e1207976bbcfc96.png" alt="고려아연이 미국 정부와 함께 건설하는 미국 테네시주 클락스빌 통합 제련소 부지 전경 (사진=고려아연)">
-<p>앞서 고려아연은 경영권 분쟁 과정에서 2024년 10월 취득한 자사주를 지난해 세 차례에 걸쳐 전량 소각한 바 있다.</p>
-<p>액면분할은 내년 3월 정기주주총회에 다시 안건으로 올린다. 주당 액면금액과 기준일 등 세부 조건은 정기주총에 앞서 열리는 이사회에서 정할 예정이다.</p>
-<p>회사는 지난해 1월 임시주총에서 액면분할 안건을 가결했으나, MBK파트너스의 특수목적법인 한국기업투자홀딩스와 영풍이 제기한 효력정지 가처분 신청과 본안 소송 등으로 후속 절차가 중단됐다고 설명했다. 이번 재추진은 투자자의 접근성을 높이고 주식 거래를 활성화하기 위한 조치라는 입장이다.</p>
-<p>3분기 배당금은 주당 5000원으로 결정했다. 배당 기준일은 이달 29일이며, 내달 초 지급한다. 고려아연은 올해 1~3분기 매분기 같은 금액을 배당해 해당 기간 배당 총액은 3059억원이 된다.</p>
-<p>주주환원 정책과 함께 발표한 3분기 연결 기준 매출은 6조 861억원으로 전년 동기 대비 46.3% 증가했다. 반면 영업이익은 1417억원으로 48.2% 감소했다. 별도 기준으로는 매출 3조6573억원, 영업이익 2243억원을 기록해 각각 40.2% 증가, 4.6% 감소했다.</p>
-<p>연결 매출은 3개 분기 연속 6조원을 웃돌았지만 수익성은 악화했다. 회사는 귀금속과 일부 핵심광물 가격 하락, 환율 하락에 더해 미국 핵심광물 제련소 건설 사업인 &apos;프로젝트 크루서블&apos; 초기 비용이 실적에 영향을 줬다고 회사 측은 설명했다.</p>
-<p>프로젝트 크루서블은 미국 정부 등과 함께 테네시주에 약 74억 달러를 투자해 핵심광물 제련소를 짓는 사업이다. 회사에 따르면 지난 9월 미국 연방정부의 최종 환경평가 절차를 통과했다.</p>
-<p>고려아연은 게르마늄 본격 생산 등으로 제품군을 넓혀 수익성 개선을 추진할 계획이다. 회사 관계자는 "앞으로도 주주환원 정책을 지속적으로 추진하는 동시에 본업 경쟁력과 미래 성장동력을 강화해 기업가치 상승의 성과가 주주들에게 돌아갈 수 있도록 하겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>AB180 &quot;광고 클릭보다 실제 구매 중요&quot;…블프 마케팅 전략 공유</title>
-			<link>https://zdnet.co.kr/view/?no=20261104164908</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261104164908</guid>
-			<author>안희정 기자</author>
-			<category>광고</category>
-			<category>데이터</category>
-			<category>AB180</category>
-			<category>당근</category>
-			<category>인터넷</category>
-			<pubDate>Wed, 04 Nov 2026 17:00:01 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/04/91685c28e934cb53331d35c557c8e496.jpg" alt=""><p>블랙프라이데이와 연말 쇼핑 시즌을 앞두고 광고 클릭이나 앱 설치보다 실제 구매와 재구매 데이터를 중심으로 광고 성과를 분석해야 한다는 제언이 나왔다.</p>
-<p>AI 마케팅 기업 에이비일팔공(AB180)은 당근과 함께 지난 3일 서울 서초구 교보타워 드림홀에서 &apos;블프에서 연말까지, 시즌을 매출로 만드는 앱 마케팅&apos; 세미나를 개최했다고 4일 밝혔다.</p>
-<p>이번 행사에서는 당근 광고를 통해 잠재 고객을 확보하고, AB180의 모바일 광고 성과 측정 솔루션 &apos;에어브릿지(Airbridge)&apos;로 광고 유입 이후의 구매 행동과 비용을 분석하는 방법을 소개했다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/04/91685c28e934cb53331d35c557c8e496.jpg" alt="AB180X당근세미나">
-<p>AB180은 지난 8월 에어브릿지에 당근 광고비 연동 기능을 도입했다. 광고주는 당근 광고 집행 비용과 앱 설치, 구매 등 전환 성과를 하나의 대시보드에서 확인할 수 있다.</p>
-<p>이를 통해 광고 클릭이나 앱 설치가 많은 캠페인과 실제 구매 성과가 높은 캠페인을 구분하고, 광고 소재와 예산 배분에 반영할 수 있다는 설명이다.</p>
-<p>이날 우연재 당근 세일즈 매니저는 생활 지역과 관심사를 기반으로 잠재 고객을 발굴하고, 앱 설치와 구매 전환 등 목표에 맞춰 당근 전문가모드 광고를 운영하는 전략을 소개했다.</p>
-<p>이진성 AB180 비즈니스 개발 매니저는 광고 매체에 전달하는 전환 데이터의 내용과 시점을 설계하는 &apos;시그널 엔지니어링&apos;의 중요성을 강조했다.</p>
-<p>구매 직후 취소된 주문과 실제 매출로 이어진 주문을 동일하게 평가하거나, 주문 금액의 차이를 고려하지 않고 구매 건수만 집계하면 광고 성과를 정확하게 판단하기 어렵다는 것이다.</p>
-<p>이에 주문 취소 여부와 구매 금액 등을 반영해 전환 기준을 설정하고, AI 광고 최적화에 필요한 데이터의 양과 전달 속도도 고려해야 한다고 설명했다.</p>
-<p>에어브릿지는 당근 광고를 통한 유입과 앱 내 행동을 연결하고, 광고비 대비 매출을 나타내는 광고수익률(ROAS)과 목표 행동 1건당 비용(CPA) 등을 분석할 수 있도록 지원한다. 구글과 메타 등 다른 광고 채널과도 동일한 기준으로 성과를 비교할 수 있다.</p>
-<p>실제 광고 운영 사례도 공유됐다. 애드이피션시 정진화 팀장이 참여한 패널토크에서는 동일한 광고 소재를 사용하더라도 연결되는 페이지에 따라 구매 성과가 달라진 사례가 소개됐다.</p>
-<p>일주일간 진행한 테스트에서 상품 상세페이지로 연결한 광고의 구매 전환율은 기획전 페이지로 연결한 광고보다 약 3.2배 높았다. 구매 1건당 광고비는 약 69% 낮게 나타났다.</p>
-<p>참석자들은 광고 클릭률이 높은 소재가 반드시 구매 효율도 높은 것은 아니라며, 광고 클릭 이후 실제 구매까지 이어지는 과정을 분석할 필요가 있다고 설명했다.</p>
-<p>시즌 종료 이후에는 첫 구매 매출뿐 아니라 고객의 재방문과 재구매, 쿠폰 및 광고 비용을 함께 분석해 다음 캠페인의 예산 배분에 반영하는 방안도 논의됐다.</p>
-<p>AB180 관계자는 "시즌 마케팅의 성과는 고객을 얼마나 많이 유입시켰는지뿐 아니라 실제 구매하고 다시 이용하는 고객을 얼마나 확보했는지까지 살펴야 한다"며 "기업이 광고비와 고객 데이터를 매출 확대를 위한 의사결정에 활용할 수 있도록 지원하겠다"고 말했다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
