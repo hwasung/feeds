@@ -4,7 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 06 Nov 2026 10:30:51 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2026 11:30:46 +0900</lastBuildDate>
+		<item>
+			<title>오픈AI, 사이버보안 특화 AI 모델 &apos;GPT-6 사이버&apos; 공개</title>
+			<link>https://www.etnews.com/20261106000142</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000142</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 06 Nov 2026 10:51:51 +0900</pubDate>
+			<description><![CDATA[오픈AI가 사이버보안 특화 인공지능(AI) 모델 'GPT-6 사이버'를 6일 공개했다. 소프트웨어(SW) 취약점 검증과 보안 패치 개발 역량을 강화한 AI 모델이다. GPT-6 사이버는 승인을 받은 일부 '데이브레이크 레드' 고객에 응용프로그램인터페이스(API)와 코덱스를 통해 우선 제공된다. 향후 전체 데이브레이크 레드 고객으로 확대할 예정이다. AI가 코드에서 보안 취약점을 식별하고 악용 가능성을 검증하고 취약점 보완에 필요한 패치 후보와...]]></description>
+		</item>
+		<item>
+			<title>둠둠, &apos;2026 AIoT 국제전시회&apos;서 부총리 겸 과학기술정보통신부장관 표창 수상</title>
+			<link>https://www.etnews.com/20261106000091</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000091</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 06 Nov 2026 10:11:09 +0900</pubDate>
+			<description><![CDATA[피지컬 인공지능(AI) 드론 전문 기업 둠둠(대표 주청림)은 피지컬 AI 기반 수질관리 기술로 사물인터넷 활성화에 기여한 공로를 인정받아 '2026 AIoT 국제전시회'에서 '부총리 겸 과학기술정보통신부 장관 표창'을 수상했다고 밝혔다. 이번 수상의 기반이 된 기술은 둠둠이 자체 개발한 피지컬 AI 탐지드론과 채수·수질 모니터링 시스템 '하이드로호크(Hydro Hawk)'를 연계한 통합 수질관리 시스템이다. 수질 이상 징후와 녹조를 탐지하는 데...]]></description>
+		</item>
 		<item>
 			<title>휴네시온, BIXPO 참가…N2SF·산업제어망 보안 솔루션 전시</title>
 			<link>https://www.etnews.com/20261106000082</link>
@@ -254,24 +272,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 05 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[“가상 데스크톱 환경(VDI)에서도 보안에 대한 불안없이 안전하게 인공지능 전환(AX) 환경을 자유롭게 사용할 수 있게 '디스테이션(Dstation) X'가 책임지겠습니다.” 국내 VDI 및 서비스형 데스크톱(DaaS) 전문기업 틸론이 차세대 VDI 솔루션 'DstationX'를 공식 출시하고, AI 업무 환경을 전방위로 지원하는 신규 AI 서비스 라인업을 대거 공개했다. 틸론은 5일 제주 메종글래드 호텔에서 자체 연례 콘퍼런스인 '디아더데이(...]]></description>
-		</item>
-		<item>
-			<title>개인정보위, AI 에이전트·피지컬 AI 개인정보 보호 기술 논의</title>
-			<link>https://www.etnews.com/20261105000340</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000340</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 05 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 에이전트와 피지컬 AI 확산에 따른 개인정보 보호 문제에 대응하기 위해 정부와 전문가들이 기술적 해결 방안을 모색했다. AI의 자율적인 업무 수행 과정에서 발생하는 개인정보 보호 사각지대와 책임·통제의 한계를 짚고, 개인정보보호 강화기술(PET)의 역할과 국제표준 발전 방향을 논의했다. 개인정보보호위원회는 5일 서울 중구 호텔 프레지던트에서 '에이전트·피지컬 AI 시대, 개인정보 보호 기술과 안전활용 방안'을 주제로 제4기 개인...]]></description>
-		</item>
-		<item>
-			<title>[人사이트] 박현식 원체크 대표 “UWB 대중화 원년…공간 읽는 AI 시장 선점”</title>
-			<link>https://www.etnews.com/20261105000154</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000154</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 05 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[“온라인에서는 고객이 무엇을 검색하고 클릭했는지 모두 데이터로 분석하지만 오프라인에서는 어떤 상품에 관심을 보였는지조차 알기 어렵습니다. 원체크는 인공지능(AI)이 아직 이해하지 못하는 현실 공간과 사람의 행동을 데이터로 바꿉니다.” 박현식 원체크 대표는 “공간을 읽는 AI를 구현하는 것이 목표”라며 “오프라인에서도 사람들의 이동과 체류, 구매 행동을 데이터화하고 이를 AI와 결합해 새로운 서비스와 비즈니스 가치를 창출하겠다”고 밝혔다. 원체크...]]></description>
 		</item>
 	</channel>
 </rss>
