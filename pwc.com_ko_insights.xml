@@ -4,7 +4,8 @@
 		<title>삼일회계법인 Insights</title>
 		<link>https://www.pwc.com/kr/ko/insights.html</link>
 		<description>삼일회계법인 Insights</description>
-		<lastBuildDate>Fri, 06 Nov 2026 11:49:33 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2026 16:46:35 +0900</lastBuildDate>
+		<ttl>1440</ttl>
 		<item>
 			<title>GenAI를 위한 내부통제와 AI 거버넌스 | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/issue-brief/genai-governance-internal-control.html</link>
@@ -80,23 +81,7 @@
 
 
 </div>
-<div>
 
-    $(document).ready(function() {
-        progressIndicator.init({
-            sections: [
-                [{"title":"업무의 “도구”에서 “업무 수행자”로 전환되는 GenAI","id":"content-1"},{"title":"Gen AI의 모델이 아닌 역할에 기반한 위험평가","id":"content-2"},{"title":"내부통제 관점의 GenAI 고유의 특성","id":"content-3"},{"title":"GenAI를 위한 COSO 실무가이드에 따른 내부통제","id":"content-4"},{"title":"내부통제 체계의 실행 기반 AI 거버넌스","id":"content-5"},{"title":"맺음말","id":"content-6"},{"title":"Download PDF","id":"download-pdf"}],
-                'dotted-progress-indicator'
-            ],
-            title: "Index"
-        });
-    });
-
-
-
-
-    
-</div>
 
 		</div>             
         
@@ -856,7 +841,7 @@
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/contact/insight/genai-governance-internal-control/master/_jcr_content/root/rightrailcontact_cop.dynamic.html/pwc/components/modernized/content/rightrailcontact, resourceType: pwc/components/modernized/content/rightrailcontact) -->
+    <div>
 
 
     
@@ -910,9 +895,7 @@
                                     
                                         <p>Tel: 02 3781 9887</p>
                                     
-                                    <!--<sly>
-                                        <p>Fax: </p>
-                                    </sly>-->
+                                    
                                 </div>
                                 <div>
                                     
@@ -964,9 +947,7 @@
                                     
                                         <p>Tel: 02 709 8969</p>
                                     
-                                    <!--<sly>
-                                        <p>Fax: </p>
-                                    </sly>-->
+                                    
                                 </div>
                                 <div>
                                     
@@ -1005,189 +986,11 @@
 	</div>
 
     
-        function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
-        	var url = "";
-        	if("true" === hasPageLink){
-        	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
-        	}
-        	else{
-        	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;	
-        	}
-           
-            if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
-        		var parentPagePath = digitalData.page.content.contentFullPath;
-        		parentPagePath = parentPagePath.split(".html")[0];
-        		if(!url.includes("parentPagePath")){
-        		url = url+"&parentPagePath="+parentPagePath;
-        		}
-        	}
-            createObject('contactUs.formState','origination');
-            createObject("contactUs.expertName",firstName+" "+lastName);
-            window.location.href = url;
-            return false;
-	    }
-	
 
-    
-        $(document).ready(function () {
-            var rightrailcontacts = "newrightrailcontacts_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
-            var countryhawkList = "countryhawkList_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
-            var displayMore = "displayMore_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
-            var displayLess = "displayLess_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
-            console.log($("countryHawkList ",'#' + countryhawkList));
-            var allContacts = $('#' + rightrailcontacts + ' div.contactCol');
-            var parentAllContacts = allContacts.parent();
-
-            var a = new Array();
-            $('#' + countryhawkList).children("option").each(function (x) {
-                test = false;
-                b = a[x] = $(this).val();
-                for (i = 0; i < a.length - 1; i++) {
-                    if (b == a[i])
-                        test = true;
-                }
-                if (test)
-                    $(this).remove();
-            });
-            $('#' + countryhawkList).html($('#' + countryhawkList + ' option').sort(function (x, y) {
-                return $(x).val() < $(y).val() ? -1 : 1;
-            }));
-
-			//changes by hemant
-			//Set filter to display all by default on load starts
-    		$("#"+countryhawkList).prop('selectedIndex', 0);
-            //Set filter to display all by default on load end
-
-            if ($("#countryfilter").val() == "true") {
-                var c = $("#currentLocation").val();
-                var countryExist = false;
-                $('#' + countryhawkList + ' option').each(function () {
-                    if (this.value.toLowerCase() == c.toLowerCase())
-                        countryExist = true;
-    
-                });
-                console.log('exist',countryExist);
-                if (countryExist == true) {
-                    if (c != "xx") //if geo is ON, c cannot be xx, if client request territory cannot be determined, then set c to "us"
-                    {
-                        /*$('#'+rightrailcontacts+' div.contact_layout[country!="'+ c.toLowerCase() + '"]').each(function(index) {
-                         $(this).hide();
-                         });
-                         var div_counter =0;
-                         $('#'+rightrailcontacts+' div.contact_layout[country="'+ c.toLowerCase() + '"]').each(function(index) {
-                         $(this).show();
-                         div_counter++;
-                         if(div_counter <=6)
-                         $(this).show();
-                         else
-                         $(this).hide();
-    
-                         });*/
-                        var contacts = $('#' + rightrailcontacts + ' div.contactCol');
-                        var count = 0;
-                        contacts.remove();
-                        allContacts.each(function () {
-    
-                            if ($(this).attr('country') == c.toLowerCase()) {
-
-                                parentAllContacts.append(this);
-                                count++;
-                            }
-    
-                        });
-                        $('#' + countryhawkList).val(c.toLowerCase());
-                    }
-                    else //if geo is OFF, then c is "xx"
-                    {
-                        $('#' + countryhawkList).val(' All'); //set territory dropdown to All
-                    }
-                }
-            }
-    
-            $('#' + countryhawkList).change(function () {
-                var country = $(this).val();
-                //console.log("ddl changed");
-                //alert('#'+ rightrailcontacts+ ' div.contact_layout[country="+ country + "]');
-                //leave the space before the All, it is needed for the sort.
-                /*if (country != " All") {
-                 $('#'+ rightrailcontacts+ ' div.contact_layout[country="'+ country + '"]').each(function(index) {
-                 $(this).show();
-                 });
-                 $('#'+ rightrailcontacts+ ' div.contact_layout[country!="'+ country + '"]').each(function(index) {
-                 $(this).hide();
-                 });
-                 } else {
-                 $('#'+ rightrailcontacts+' div.contact_layout').each(function(index) {
-                 $(this).show();
-                 });
-                 }*/
-                var contacts = $('#' + rightrailcontacts + ' div.contact_layout');
-                var count = 0;
-                contacts.remove();
-
-				//changes by hemant
-                //To fix the existing prod issue of filters start
-                parentAllContacts.empty();
-                //To fix the existing prod issue of filters end
-
-                if (country != " All") {
-                    allContacts.each(function () {
-    
-                        if ($(this).attr('country') == country) {
-                            parentAllContacts.append(this);
-                            count++;
-                        }
-    
-                    });
-                } else {
-                    allContacts.each(function () {
-                        parentAllContacts.append(this);
-                        count++;
-    
-                    });
-                }
-    
-    
-            });
-    
-            $('#' + displayMore).click(function (e) {
-                $('#' + rightrailcontacts + ' div').each(function (index) {
-                    $(this).show();
-                });
-                $('#' + displayMore).hide();
-                $('#' + displayLess).show();
-                return false;
-            });
-            $('#' + displayLess).click(function (e) {
-                $('#' + rightrailcontacts + ' div').each(function (index) {
-                    if (parseInt($(this).attr("divid")) > 6) {
-                        $(this).hide();
-                    }
-                });
-                $('#' + displayMore).show();
-                $('#' + displayLess).hide();
-                return false;
-            });
-    
-        });
     
 
 
 
-
-	var parentcontactdiv = null;
-if (document.getElementById('onlineformstart') != null) {
-	var rendermode = "2";
-	if (rendermode == 2) {
-		var elem = document.getElementsByClassName("contactModule maxPadding");
-		var x = 0;
-		for (x = 0; x < elem.length; x++) {
-			parentcontactdiv = document.getElementById(elem[x].id).parentElement;
-			parentcontactdiv.className = 'section rightrailcontact';
-
-		}
-	}
-}
 
 
 </div>
@@ -1237,9 +1040,7 @@ if (document.getElementById('onlineformstart') != null) {
                                     
                                         <p>Tel: 02 3781 9887</p>
                                     
-                                    <!--<sly>
-                                        <p>Fax: </p>
-                                    </sly>-->
+                                    
                                 </div>
                                 <div>
                                     
@@ -1291,9 +1092,7 @@ if (document.getElementById('onlineformstart') != null) {
                                     
                                         <p>Tel: 02 709 8969</p>
                                     
-                                    <!--<sly>
-                                        <p>Fax: </p>
-                                    </sly>-->
+                                    
                                 </div>
                                 <div>
                                     
@@ -1408,7 +1207,7 @@ if (document.getElementById('onlineformstart') != null) {
 
 
 </div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/mobility-revolution-1/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+<div>
 
 <div>
 
@@ -1420,7 +1219,7 @@ if (document.getElementById('onlineformstart') != null) {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -1433,35 +1232,7 @@ if (document.getElementById('onlineformstart') != null) {
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
-	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -1739,7 +1510,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
 
 
 </div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/physical-ai-competition/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+<div>
 
 <div>
 
@@ -1751,7 +1522,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -1764,35 +1535,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
-	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -2093,7 +1836,7 @@ Physical AI 5대 레이어와 밸류체인</strong></h5>
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/samil-insight/china-semiconductor/_jcr_content/root/container/content-free-container-1/section_1161425850_c/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+        <div>
 
 <div>
 
@@ -2105,7 +1848,7 @@ Physical AI 5대 레이어와 밸류체인</strong></h5>
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-column1/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -2118,35 +1861,7 @@ Physical AI 5대 레이어와 밸류체인</strong></h5>
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
-	content: 'insight용 Custom css (Column 중앙1단) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -2787,7 +2502,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-02/_jcr_content/root/container/content-free-container-1/section_1161425850/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+        <div>
 
 <div>
 
@@ -2799,7 +2514,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -2812,87 +2527,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-:root {
-	--theme-color-primary: #fd5108;
-}
-
-#wrapper {
-	/* Next move styling */
-	.nextmove {
-		strong {
-			color: var(--theme-color-primary);
-		}
-		.pwccol1-longform-c0 .cmp-container {
-			padding: 0 0 0 18px;
-			border-left: 4px solid var(--theme-color-primary);
-		}
-		
-		.text-component {
-			padding-right: 10px !important;
-		}
-
-
-        /* PC 화면(768px 이상)에서만 적용 */
-        @media (min-width: 768px) {
-
-            /* --- 1. 이미지 정렬 문제 해결 --- */
-            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
-            .image, .image .img-alignment-left {
-                display: block !important; /* display:table을 해제 */
-                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
-                margin-right: initial !important;
-                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
-            }
-
-            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
-            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
- .pwccol1-longform-c0 {
-                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
-                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
-                margin-left: auto !important;  /* 중앙 정렬 */
-                margin-right: auto !important;
-            }
-
-            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
-            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
-                max-width: 100% !important; /* 760px 제한 해제 */
-                width: 100% !important;
-                margin-left: 0 !important; /* 중앙 정렬 해제 */
-                margin-right: 0 !important;
-            }
-        }
-	}
-}
-
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
-	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -2913,7 +2548,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-02/_jcr_content/root/container/content-free-container-1/section_copy_592731132/authors.dynamic.html, resourceType: pwc/components/modernized/content/authors) -->
+        <div>
 
 
     
@@ -2971,29 +2606,6 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
         </div>
     </section>
     
-      function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
-      	var url = "";
-      	if("true" === hasPageLink){
-      	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D02\x26style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
-      	}
-      	else{
-      	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D02\x26style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;
-      	}
-
-          if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
-      		var parentPagePath = digitalData.page.content.contentFullPath;
-      		parentPagePath = parentPagePath.split(".html")[0];
-      		if(!url.includes(parentPagePath)){
-      		url = url+"&parentPagePath="+parentPagePath;
-      		}
-      	}
-          createObject('contactUs.formState','origination');
-          createObject("contactUs.expertName",firstName+" "+lastName);
-          window.location.href = url;
-          return false;
-      }
-
-   
 
 </div>
 
@@ -3166,7 +2778,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-01/_jcr_content/root/container/content-free-container-1/section_1161425850/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+        <div>
 
 <div>
 
@@ -3178,7 +2790,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -3191,87 +2803,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-:root {
-	--theme-color-primary: #fd5108;
-}
-
-#wrapper {
-	/* Next move styling */
-	.nextmove {
-		strong {
-			color: var(--theme-color-primary);
-		}
-		.pwccol1-longform-c0 .cmp-container {
-			padding: 0 0 0 18px;
-			border-left: 4px solid var(--theme-color-primary);
-		}
-		
-		.text-component {
-			padding-right: 10px !important;
-		}
-
-
-        /* PC 화면(768px 이상)에서만 적용 */
-        @media (min-width: 768px) {
-
-            /* --- 1. 이미지 정렬 문제 해결 --- */
-            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
-            .image, .image .img-alignment-left {
-                display: block !important; /* display:table을 해제 */
-                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
-                margin-right: initial !important;
-                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
-            }
-
-            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
-            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
- .pwccol1-longform-c0 {
-                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
-                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
-                margin-left: auto !important;  /* 중앙 정렬 */
-                margin-right: auto !important;
-            }
-
-            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
-            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
-                max-width: 100% !important; /* 760px 제한 해제 */
-                width: 100% !important;
-                margin-left: 0 !important; /* 중앙 정렬 해제 */
-                margin-right: 0 !important;
-            }
-        }
-	}
-}
-
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
-	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -3292,7 +2824,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-01/_jcr_content/root/container/content-free-container-1/section_copy_592731132/authors.dynamic.html, resourceType: pwc/components/modernized/content/authors) -->
+        <div>
 
 
     
@@ -3350,29 +2882,6 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
         </div>
     </section>
     
-      function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
-      	var url = "";
-      	if("true" === hasPageLink){
-      	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D01\x26style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
-      	}
-      	else{
-      	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D01\x26style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;
-      	}
-
-          if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
-      		var parentPagePath = digitalData.page.content.contentFullPath;
-      		parentPagePath = parentPagePath.split(".html")[0];
-      		if(!url.includes(parentPagePath)){
-      		url = url+"&parentPagePath="+parentPagePath;
-      		}
-      	}
-          createObject('contactUs.formState','origination');
-          createObject("contactUs.expertName",firstName+" "+lastName);
-          window.location.href = url;
-          return false;
-      }
-
-   
 
 </div>
 
@@ -3627,24 +3136,8 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 
 
 </div>
+
 <div>
-
-    $(document).ready(function() {
-        progressIndicator.init({
-            sections: [
-                [{"title":"Top","id":"title"},{"title":"1. AI 선도 인력과 핵심 실무 인력을 모두 성장시키기 위한 전략적 선택","id":"make-tough-choices"},{"title":"2. AI를 생산성과 성장으로 연결하기 위한 업무 재설계","id":"rewire-work"},{"title":"3. 변화의 속도에 맞춰 성장할 수 있도록 직원과 관리자의 역량을 강화하라","id":"build-new-skills"}],
-                'dotted-progress-indicator'
-            ],
-            title: "Index"
-        });
-    });
-
-
-
-
-    
-</div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/hopes-and-fears-2026/_jcr_content/root/container/title/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
 
 <div>
 
@@ -3656,7 +3149,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -3669,99 +3162,19 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
     
 
 </div>
+
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
 <div>
-
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-:root {
-	--theme-color-primary: #fd5108;
-}
-
-#wrapper {
-	/* Next move styling */
-	.nextmove {
-		strong {
-			color: var(--theme-color-primary);
-		}
-		.pwccol1-longform-c0 .cmp-container {
-			padding: 0 0 0 18px;
-			border-left: 4px solid var(--theme-color-primary);
-		}
-		
-		.text-component {
-			padding-right: 10px !important;
-		}
-
-
-        /* PC 화면(768px 이상)에서만 적용 */
-        @media (min-width: 768px) {
-
-            /* --- 1. 이미지 정렬 문제 해결 --- */
-            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
-            .image, .image .img-alignment-left {
-                display: block !important; /* display:table을 해제 */
-                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
-                margin-right: initial !important;
-                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
-            }
-
-            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
-            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
- .pwccol1-longform-c0 {
-                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
-                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
-                margin-left: auto !important;  /* 중앙 정렬 */
-                margin-right: auto !important;
-            }
-
-            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
-            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
-                max-width: 100% !important; /* 760px 제한 해제 */
-                width: 100% !important;
-                margin-left: 0 !important; /* 중앙 정렬 해제 */
-                margin-right: 0 !important;
-            }
-        }
-	}
-}
-
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
-	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
-
-    
-</div>
-
-    </div>
-
-    
-</div>
-
-    
-</div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/hopes-and-fears-2026/_jcr_content/root/container/title/reference_xf_4272059_2137073666.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
 
 <div>
 
@@ -3773,7 +3186,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-column1/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -3786,35 +3199,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
-	content: 'insight용 Custom css (Column 중앙1단) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -4125,7 +3510,7 @@ AI를 적극 활용하고 시장 수요가 높은 소수의 인력 집단은 빠
             </li>
 </ul>
 
-<!-- Tab panes -->
+
 
 
 <div>
@@ -5991,7 +5376,7 @@ AI를 적극 활용하고 시장 수요가 높은 소수의 인력 집단은 빠
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/cross-border-mna/_jcr_content/root/container/content-free-container-1/section_1161425850/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+        <div>
 
 <div>
 
@@ -6003,7 +5388,7 @@ AI를 적극 활용하고 시장 수요가 높은 소수의 인력 집단은 빠
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -6016,87 +5401,7 @@ AI를 적극 활용하고 시장 수요가 높은 소수의 인력 집단은 빠
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-:root {
-	--theme-color-primary: #fd5108;
-}
-
-#wrapper {
-	/* Next move styling */
-	.nextmove {
-		strong {
-			color: var(--theme-color-primary);
-		}
-		.pwccol1-longform-c0 .cmp-container {
-			padding: 0 0 0 18px;
-			border-left: 4px solid var(--theme-color-primary);
-		}
-		
-		.text-component {
-			padding-right: 10px !important;
-		}
-
-
-        /* PC 화면(768px 이상)에서만 적용 */
-        @media (min-width: 768px) {
-
-            /* --- 1. 이미지 정렬 문제 해결 --- */
-            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
-            .image, .image .img-alignment-left {
-                display: block !important; /* display:table을 해제 */
-                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
-                margin-right: initial !important;
-                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
-            }
-
-            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
-            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
- .pwccol1-longform-c0 {
-                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
-                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
-                margin-left: auto !important;  /* 중앙 정렬 */
-                margin-right: auto !important;
-            }
-
-            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
-            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
-                max-width: 100% !important; /* 760px 제한 해제 */
-                width: 100% !important;
-                margin-left: 0 !important; /* 중앙 정렬 해제 */
-                margin-right: 0 !important;
-            }
-        }
-	}
-}
-
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
-	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -6117,7 +5422,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
             
         <div>
             
-        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/cross-border-mna/_jcr_content/root/container/content-free-container-1/section_copy_592731132/authors.dynamic.html, resourceType: pwc/components/modernized/content/authors) -->
+        <div>
 
 
     
@@ -6175,29 +5480,6 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
         </div>
     </section>
     
-      function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
-      	var url = "";
-      	if("true" === hasPageLink){
-      	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/cross\u002Dborder\u002Dmna\x26style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
-      	}
-      	else{
-      	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/cross\u002Dborder\u002Dmna\x26style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;
-      	}
-
-          if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
-      		var parentPagePath = digitalData.page.content.contentFullPath;
-      		parentPagePath = parentPagePath.split(".html")[0];
-      		if(!url.includes(parentPagePath)){
-      		url = url+"&parentPagePath="+parentPagePath;
-      		}
-      	}
-          createObject('contactUs.formState','origination');
-          createObject("contactUs.expertName",firstName+" "+lastName);
-          window.location.href = url;
-          return false;
-      }
-
-   
 
 </div>
 
@@ -6375,7 +5657,7 @@ Sources: Delogic, Mergermarket, PwC analysis</sup></p>
 
 
 </div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/data-centre-outlook-2026/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+<div>
 
 <div>
 
@@ -6387,7 +5669,7 @@ Sources: Delogic, Mergermarket, PwC analysis</sup></p>
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-column1/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -6400,47 +5682,19 @@ Sources: Delogic, Mergermarket, PwC analysis</sup></p>
     
 
 </div>
+
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
 <div>
-
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
-	content: 'insight용 Custom css (Column 중앙1단) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
-
-    
-</div>
-
-    </div>
-
-    
-</div>
-
-    
-</div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/data-centre-outlook-2026/_jcr_content/root/container/title/reference_xf_copy.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
 
 <div>
 
@@ -6452,7 +5706,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -6465,35 +5719,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
-	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
@@ -6505,23 +5731,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
 
     
 </div>
-<div>
 
-    $(document).ready(function() {
-        progressIndicator.init({
-            sections: [
-                [{"title":"1. 주요 시사점 ","id":"content-1"},{"title":"2. 소개","id":"content-2"},{"title":"3. AI의 영향","id":"content-3"},{"title":"4. 복잡해진 시장","id":"content-4"},{"title":"5. 자본투자는 어디로 향하는가?","id":"content-5"},{"title":"6. 시나리오 분석","id":"content-6"},{"title":"7. 이해관계자에 대한 시사점","id":"content-7"},{"title":"Download PDF","id":"pdf-download"}],
-                'dotted-progress-indicator'
-            ],
-            title: "Index"
-        });
-    });
-
-
-
-
-    
-</div>
 
 		</div>             
         
@@ -6720,7 +5930,7 @@ AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로
             </li>
 </ul>
 
-<!-- Tab panes -->
+
 
 
 
@@ -6943,7 +6153,7 @@ AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로
             </li>
 </ul>
 
-<!-- Tab panes -->
+
 
 
 
@@ -7655,7 +6865,7 @@ AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로
             </li>
 </ul>
 
-<!-- Tab panes -->
+
 
 
 <div>
@@ -8815,7 +8025,7 @@ AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로
 
 
 </div>
-<div><!-- SDI include (path: /content/pwc/kr/ko/insights/issue-brief/7-seed-projects/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+<div>
 
 <div>
 
@@ -8827,7 +8037,7 @@ AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로
 
 <div>
     
-    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+    <div>
 
     
         
@@ -8840,35 +8050,7 @@ AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로
     
 
 </div>
-<div>
 
-
-    
-
-
-
-    <div>
-    	
-    	    <div>
-/*Show Ref XF in author */
-html.aem-AuthorLayer-Edit .html-xf {
-	display: block;
-	background: #f0f0f0;
-	text-align: center;
-	color: #ccc;
-	height: 3rem;
-	position: relative;
-}
-html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
-	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
-	display: block;
-	color: #7d7d7d;
-}
-</div>
-	
-    </div>
-
-</div>
 
     
 </div>
