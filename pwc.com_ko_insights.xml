@@ -4,76 +4,9081 @@
 		<title>삼일회계법인 Insights</title>
 		<link>https://www.pwc.com/kr/ko/insights.html</link>
 		<description>삼일회계법인 Insights</description>
-		<lastBuildDate>Fri, 06 Nov 2026 11:33:32 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2026 11:49:33 +0900</lastBuildDate>
 		<item>
 			<title>GenAI를 위한 내부통제와 AI 거버넌스 | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/issue-brief/genai-governance-internal-control.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/issue-brief/genai-governance-internal-control.html</guid>
 			<pubDate>Wed, 04 Nov 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[GenAI에 대한 내부통제 관련하여 COSO가 2026년 2월 발표한 GenAI의 고유한 위험을 어떻게 식별하고 통제할 것인지에 관한 실무 가이드를 소개하며, COSO원칙이 실질적으로 작동하게 하는 실행기반으로서 AI 거버넌스 체계 구축 방향을 제시합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  
+                  <h1>GenAI를 위한 내부통제와 AI 거버넌스</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/insights/issue-brief/genai-internal-controls_hero.jpg" alt="GenAI를 위한 내부통제와 AI 거버넌스"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>November 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      
+   
+
+
+
+</div>
+<div>
+
+    $(document).ready(function() {
+        progressIndicator.init({
+            sections: [
+                [{"title":"업무의 “도구”에서 “업무 수행자”로 전환되는 GenAI","id":"content-1"},{"title":"Gen AI의 모델이 아닌 역할에 기반한 위험평가","id":"content-2"},{"title":"내부통제 관점의 GenAI 고유의 특성","id":"content-3"},{"title":"GenAI를 위한 COSO 실무가이드에 따른 내부통제","id":"content-4"},{"title":"내부통제 체계의 실행 기반 AI 거버넌스","id":"content-5"},{"title":"맺음말","id":"content-6"},{"title":"Download PDF","id":"download-pdf"}],
+                'dotted-progress-indicator'
+            ],
+            title: "Index"
+        });
+    });
+
+
+
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>01.</small>
+                
+                    업무의 “도구”에서 “업무 수행자”로 전환되는 GenAI
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>최근 금융기관을 포함한 많은 기업에서 GenAI(생성형 AI)의 활용 범위가 빠르게 확대되고 있습니다. 초기에는 문서 작성이나 정보 검색과 같은 개인 생산성 향상에 초점이 맞춰졌지만, 이제는 문서·데이터 추출, 거래 대사, 결산 지원, 규제정보 검색, 이상징후 탐지, 판단자료 생성, 고객 및 임직원과의 상호작용 등 핵심 업무 프로세스로 활용 영역이 확대되고 있습니다. 특히 GenAI가 API(“Application Programming Interface”)를 통해 다른 시스템과 연결되거나 AI 에이전트 형태로 여러 단계의 업무를 수행하고 있어, AI는 단순히 정보를 제공하는 도구를 넘어 실제 업무 시스템에 명령을 전달하고 후속 조치를 실행하는 역할까지 수행하고 있습니다. 이는 업무 효율성과 분석 역량을 크게 높이는 동시에, 기존 정보시스템 통제만으로는 충분히 대응하기 어려운 새로운 위험을 만들어냅니다.</p>
+<p>이러한 변화에 대응하여 COSO<sup>1)</sup>는 2026년 2월 기존 내부통제 프레임워크의 5가지 구성요소와 17가지 원칙을 유지하면서, GenAI의 고유한 위험을 어떻게 식별하고 통제할 것인지에 관한 실무 가이드<sup>2)</sup>를 제시하였습니다. COSO 실무가이드는 데이터부터 의사결정까지의 과정에서 Gen AI의 기능을 8가지로 분류하고 그 분류에 따른 위험 평가 및 통제 설계를 제안합니다. COSO 프레임워크에 기반한 내부회계관리제도를 운영하고 있는 회사가 GenAI를 프로세스에 도입하는 경우에는 COSO의 실무가이드에 기반한 내부회계관리제도의 설계 개선이 고려되어야 합니다.<br/>
+&nbsp;</p>
+<p><sub>1) COSO는 1985년 미국의 회계·재무·내부감사 분야를 대표하는 5개 전문기관의 후원으로 설립되었으며, 세계적으로 가장 널리 활용되는 내부통제 프레임워크를 제시하는 기관으로, 조직의 내부통제, 위험관리, 거버넌스, 부정방지 체계의 고도화를 지원하기 위한 연구와 지침을 제공하고 있습니다.<br/>
+2) Achieving Effective Internal Control Over Generative AI</sub></p>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>GenAI 활용 범위의 확장: “도구”에서 “업무 수행자”로</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>02.</small>
+                
+                    Gen AI의 모델이 아닌 역할에 기반한 위험평가
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>GenAI를 효과적으로 관리하려면 먼저 기술의 명칭보다 실제 업무에서 수행하는 기능을 이해해야 합니다. 동일한 모델을 사용하더라도 규정을 검색·요약하는 경우와 거래를 자동 처리하는 경우의 위험은 크게 다르기 때문입니다. COSO 실무가이드는 데이터에서 의사결정에 이르는 GenAI의 활용을 다음과 같은 8가지 기능으로 구분하고, 기능별로 위험을 평가하고 통제를 설계할 것을 제안합니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>데이터에서 의사결정까지, GenAI의 8가지 기능과 대표 위험</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>03.</small>
+                
+                    내부통제 관점의 GenAI 고유의 특성
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>04.</small>
+                
+                    GenAI를 위한 COSO 실무가이드에 따른 내부통제
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>COSO의 5가지 구성요소는 회계나 감사만을 위한 개념이 아닙니다. GenAI 환경에서는 “누가 책임지는가, 어떤 위험이 있는가, 무엇으로 통제하는가, 어떤 정보를 남기고 보고하는가, 제대로 작동하는지 어떻게 확인하는가”라는 다섯 가지 실무 질문으로 이해할 수 있습니다. 이러한 질문에 대응하기 위해 내부통제는 다음의 요소들을 고려해야 합니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>COSO 5가지 구성요소와 실무 질문, 주요 실행수단</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p><strong>첫째, 책임체계가 명확해야 합니다.</strong> 고위험 활용 사례를 승인하고 주요 위험과 변경사항을 검토하는 협의체를 두되, 개별 AI 서비스마다 실질적인 업무 책임자와 변경·검토·승인 권한을 명확히 하는 것이 중요합니다.</p>
+<p><strong>둘째, 위험평가는 살아 있는 관리도구가 되어야 합니다.</strong> 모델·데이터·설정이 바뀔 때마다 위험평가를 갱신하고, 시나리오 분석을 통해 예외상황과 숨겨진 의존관계를 확인해야 합니다. 이에 기반하여 내재화된 모니터링 지표를 만들어 식별된 위험을 구체적인 핵심위험지표(KRI), 대시보드 또는 경보(alert) 체계와 연계하여, 모델 성능 저하, 편향, 오남용 등의 오류 징후를 조기에 탐지할 수 있도록 해야 합니다.​</p>
+<p><strong>셋째, 통제활동은 예방·발견·시정을 균형 있게 결합해야 합니다.</strong> 모든 결과를 사람이 전면 재수행하는 것은 지속 가능하지 않으므로, 위험 수준에 따라 사람의 검토, 성능시험, 독립적인 결과 비교, 자동 경보, 직무분장, 변경 승인과 복구절차를 조합하는 접근이 필요합니다. 이러한 통제 활동은 검증 및 사후 분석, 직무 분장, 환각(Hallucination) 방지 장치, 엄격한 변경관리 등으로 제시됩니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>위험 수준에 따른 예방·발견·시정 통제의 조합</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p><strong>넷째, 데이터 변환·통합, 지식 검색·요약, 인간-AI 협업과 같은 AI 기능은 정확하고 적시에 전달되는 정보 흐름에 크게 의존하므로, 관련 변경사항과 한계를 조직 전체에 효과적으로 전달하는 통제가 중요합니다.</strong> 데이터 변환 및 통합 기능의 경우 변환 규칙이 변경되면 하위 프로세스에 오류가 확산되지 않도록 관련 부서와 시스템에 사전에 공유해야 하며, 지식 검색 및 요약 기능의 경우 참조하는 지식 저장소, 정책, 규제 기준이 변경되면 영향을 받는 모든 조직에 이해하기 쉬운 형태로 변경 내용을 전달하고 필요 시 확인 절차를 수행해야 합니다.&nbsp;</p>
+<p><strong>마지막으로 모니터링 관점에서는 Gen AI는 결정론적(Deterministic) 방식이 아니라 확률론적(Probabilistic) 방식으로 작동하기 때문에, ‘통제 실패’의 정의 자체도 변화할 필요가 있습니다.</strong> 조직은 앞으로 단일 성과지표(예: 통과/실패)에 의존하기보다는 여러 지표를 종합한 AI 허용기준(Multi-metric AI Tolerances)을 점점 더 많이 활용할 것입니다. 이러한 구조화된 접근방식은 AI 시스템의 성능을 여러 품질 차원에서 평가하고 수용 여부를 판단할 때 사용할 수 있습니다. 이와 같은 허용범위를 설정하고 모니터링하면, 역동적으로 변화하는 GenAI 환경에서 AI의 성능과 통제 효과성을 더욱 현실적으로 평가할 수 있게 됩니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>05</small>
+                
+                    내부통제 체계의 실행 기반 AI 거버넌스
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>GenAI를 위한 COSO 지침 도입 단계: 순환적 운영체계</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>AI 거버넌스 체계의 구성</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>1. 조직 및 프로세스</th>
+</tr><tr><td>AI는 여러 부서와 기능이 연계되어 운영되므로, 단일 부서 중심으로는 위험을 효과적으로 통제하기 어렵습니다. AI 거버넌스 위원회에 법무, 컴플라이언스, IT·정보보호, 리스크관리 부서 등이 참여해야 합니다. AI거버넌스 위원회는 고위험 활용사례를 승인하고 주요 위험을 검토하는 의사결정기구로서, 그 결과를 이사회에 정기적으로 보고해야 합니다.</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>2. AI 윤리원칙·운영 내규&nbsp;</th>
+</tr><tr><td><p>AI 윤리원칙은 국내외 주요 가이드라인과 기업 고유의 비전·산업 특성을 반영해 수립되어야 합니다. 다만 실제 업무에 적용되려면 GenAI 허용사용정책(AUP)이 구체화되어야 합니다.</p>
+<p>운영 내규는 기존 정보보호, 개인정보보호, IT 운영, 내부회계 규정과의 정합성을 바탕으로 제정되어야 합니다.&nbsp;</p>
+</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>3. 위험관리</th>
+</tr><tr><td>AI 위험관리의 출발점은 전사 AI 활용사례 목록(관리대장)이며, 각 사례에 대해서는 기존 위험(정보보호, 보안 등)과 함께 GenAI 고유의 위험을 평가하는 데 있습니다. 해당 위험수준 별로 차등으로 리스크를 점검하고 완화하기 위한 조치가 실행되어야 하며 모델 업데이트나 성능 저하를 식별하여 운영에 영향을 미치기 전에 재평가해야 합니다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>AI 위험관리 프로세스</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>4. 운영관리</th>
+</tr><tr><td>Gen AI에 대한 정확도·정밀도 등 기술적 품질과 공정성·설명가능성 등 윤리적 기준을 아우르는 성능지표를 설정하고 상시 모니터링되도록 해야 합니다. 점진적인 성능 저하는 상시 모니터링만으로는 발견하기 어려우므로 과거 데이터를 활용한 정기 재검증과같은 별도의 평가로 보완되어야 합니다. AI로 인한 오류나 사고는 근본원인을 분석해 미비점으로 평가하고, 중요한 사안은 AI거버넌스 위원회에 보고되도록 통제를 설계하고, AI 결과물이 고객이나 투자자 등 외부에 영향을 미치는 경우에는 설명 요구에 대응하고 외부와 소통하는 절차도 함께 마련해야 합니다.</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>5. 변화관리</th>
+</tr><tr><td>전 임직원은 AI의 특성과 한계, 올바른 활용 방법에 대한 기본적인 이해와 역량을 갖추고 윤리원칙, 위험관리 정책과 보고 절차를 이해해야 합니다. 일부 역할에 따라서는 특정 부문에 대한 더 깊이 있는 이해가 요구됩니다. 교육은 일회성으로 끝내지 않고 모델과 활용사례의 변화에 맞춰 계속 갱신되도록 하며, 단계적으로 도입하고 피드백을 반영해 조직내 인원들에게 충분히 수용되도록 계획 및 실행되어야 합니다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h2>AI 대전환 시대, GenAI 고유 위험에 대응할 수 있는 내부통제의 실행력이 경쟁력이 됩니다</h2>
+<p>GenAI는 뛰어난 속도와 적응성, 그리고 조직 전반에 걸친 확장성을 바탕으로 업무 수행 방식과 의사결정 체계, 나아가 위험관리 환경 자체를 빠르게 변화시키고 있습니다.&nbsp; AI 시대의 핵심 질문은 “AI를 사용할 것인가”가 아니라 “어떻게 신뢰할 수 있게 사용할 것인가”입니다. 기술의 속도에 맞는 책임체계와 지속적인 내부통제를 갖추는 것이 안전한 혁신의 출발점입니다.그러나 이러한 혁신의 이면에는 기존 정보시스템과는 다른 새로운 위험과 취약성이 존재하며, 이를 효과적으로 관리하기 위한 체계적인 거버넌스가 반드시 수반되어야 합니다.&nbsp;</p>
+<p>2026년 2월에 발표된 GenAI를 위한 COSO 실무가이드는 GenAI의 활용 방식을 기능 유형별로 구분하고 이를 COSO의 5대 구성요소와 결합함으로써, AI 거버넌스 체계 구축을 위한 전략적 관점과 실무적인 적용 방안을 동시에 제공하고 있습니다. GenAI를 프로세스에 도입한 기업들은 COSO 프레임워크와 AI 기능 유형에 연계된 통제를 설계·구축하고, 명확한 성과지표와 거버넌스 보고체계를 바탕으로 그 효과성을 지속적으로 모니터링해야 합니다. 이러한 접근이 효과적으로 구현된다면 Gen AI는 단순히 새로운 위험요인이 아니라, 적절한 통제와 관리체계 아래에서 운영되는 전략적 자산으로 자리매김할 수 있습니다. 이를 위해서는 기업의 실제 업무 프로세스를 계약 단계에서 재무제표 기표 단계까지 구체적으로 이해하고, 각 프로세스의 상호 연관성을 복합적으로 평가할 수 있는 전문성이 요구됩니다. 또한 실질적이고 효과적인 내부통제를 설계하려면 현업 프로세스에 대한 높은 이해와 이를 기반으로 한 위험평가 역량이 필요합니다.</p>
+<p>삼일PwC와 PwC 컨설팅은 다양한 고객의 AI 프로세스 전환과 AI 거버넌스 체계 구축을 지원해 온 경험과 국내 최대 규모의 내부통제 감사 및 관련 자문 수행을 통해 축적한 내부통제 전문성을 바탕으로, GenAI 대전환 시대에 필요한 리스크 관리와 내부통제 체계의 설계 및 운영 전환을 지원할 수 있습니다. 특히 기업의 현장에서 적용되는 업무 프로세스와 기존 내부관리 체계를 함께 고려하여 COSO 프레임워크를 실무에 적용하고, AI 활용 사례의 식별 및 위험평가부터 그에 대응하기 위한 통제 설계·구축, 모니터링 및 지속적인 개선에 이르기까지 효과적이고 실무적인 자문을 제공해드릴 수 있습니다.&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+    
+
+<div>
+	<div>
+		<h2>GenAI를 위한 내부통제와 AI 거버넌스</h2>
+		
+	</div>
+	<div>
+		<div><a href="https://www.pwc.com/kr/ko/insights/issue-brief/samilpwc_genai-governance-internal-control.pdf">Download PDF
+</a>
+(PDF of 2.59MB)
+
+    
+
+</div>
+
+		
+	</div>
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+  <hr>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/contact/insight/genai-governance-internal-control/master/_jcr_content/root/rightrailcontact_cop.dynamic.html/pwc/components/modernized/content/rightrailcontact, resourceType: pwc/components/modernized/content/rightrailcontact) -->
+
+
+    
+
+
+	
+
+    
+<link>
+
+
+
+
+	<div>
+	    <section>
+	        <div>
+	            <div>
+	                <div>
+	                    <h2>Contact us</h2>
+	                    <div>
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div>
+                        <div>
+                            
+                            <div>
+                                <p>
+                                    
+                                    
+                                        서희원 Partner
+                                    
+                                </p>
+                                <div>
+                                    <p>Samil PwC, South Korea</p>
+                                    
+                                    
+                                        <p>Tel: 02 3781 9887</p>
+                                    
+                                    <!--<sly>
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div>
+                                    
+                                    
+                                    <a href="javascript:void(0);"> Email
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div>
+                        <div>
+                            
+                            <div>
+                                <p>
+                                    
+                                    
+                                        김의준 Partner
+                                    
+                                </p>
+                                <div>
+                                    <p>PwC Consulting, South Korea</p>
+                                    
+                                    
+                                        <p>Tel: 02 709 8969</p>
+                                    
+                                    <!--<sly>
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div>
+                                    
+                                    
+                                    <a href="javascript:void(0);"> Email
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    
+	        <input>
+	        
+	        
+	            <input>
+	        
+	    
+	        
+			
+				
+	         
+	    </section>
+	</div>
+
+    
+        function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
+        	var url = "";
+        	if("true" === hasPageLink){
+        	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
+        	}
+        	else{
+        	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;	
+        	}
+           
+            if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
+        		var parentPagePath = digitalData.page.content.contentFullPath;
+        		parentPagePath = parentPagePath.split(".html")[0];
+        		if(!url.includes("parentPagePath")){
+        		url = url+"&parentPagePath="+parentPagePath;
+        		}
+        	}
+            createObject('contactUs.formState','origination');
+            createObject("contactUs.expertName",firstName+" "+lastName);
+            window.location.href = url;
+            return false;
+	    }
+	
+
+    
+        $(document).ready(function () {
+            var rightrailcontacts = "newrightrailcontacts_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
+            var countryhawkList = "countryhawkList_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
+            var displayMore = "displayMore_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
+            var displayLess = "displayLess_858abced-962c-4414-98b6-29ce4dc4355b_root_rightrailcontact_cop";
+            console.log($("countryHawkList ",'#' + countryhawkList));
+            var allContacts = $('#' + rightrailcontacts + ' div.contactCol');
+            var parentAllContacts = allContacts.parent();
+
+            var a = new Array();
+            $('#' + countryhawkList).children("option").each(function (x) {
+                test = false;
+                b = a[x] = $(this).val();
+                for (i = 0; i < a.length - 1; i++) {
+                    if (b == a[i])
+                        test = true;
+                }
+                if (test)
+                    $(this).remove();
+            });
+            $('#' + countryhawkList).html($('#' + countryhawkList + ' option').sort(function (x, y) {
+                return $(x).val() < $(y).val() ? -1 : 1;
+            }));
+
+			//changes by hemant
+			//Set filter to display all by default on load starts
+    		$("#"+countryhawkList).prop('selectedIndex', 0);
+            //Set filter to display all by default on load end
+
+            if ($("#countryfilter").val() == "true") {
+                var c = $("#currentLocation").val();
+                var countryExist = false;
+                $('#' + countryhawkList + ' option').each(function () {
+                    if (this.value.toLowerCase() == c.toLowerCase())
+                        countryExist = true;
+    
+                });
+                console.log('exist',countryExist);
+                if (countryExist == true) {
+                    if (c != "xx") //if geo is ON, c cannot be xx, if client request territory cannot be determined, then set c to "us"
+                    {
+                        /*$('#'+rightrailcontacts+' div.contact_layout[country!="'+ c.toLowerCase() + '"]').each(function(index) {
+                         $(this).hide();
+                         });
+                         var div_counter =0;
+                         $('#'+rightrailcontacts+' div.contact_layout[country="'+ c.toLowerCase() + '"]').each(function(index) {
+                         $(this).show();
+                         div_counter++;
+                         if(div_counter <=6)
+                         $(this).show();
+                         else
+                         $(this).hide();
+    
+                         });*/
+                        var contacts = $('#' + rightrailcontacts + ' div.contactCol');
+                        var count = 0;
+                        contacts.remove();
+                        allContacts.each(function () {
+    
+                            if ($(this).attr('country') == c.toLowerCase()) {
+
+                                parentAllContacts.append(this);
+                                count++;
+                            }
+    
+                        });
+                        $('#' + countryhawkList).val(c.toLowerCase());
+                    }
+                    else //if geo is OFF, then c is "xx"
+                    {
+                        $('#' + countryhawkList).val(' All'); //set territory dropdown to All
+                    }
+                }
+            }
+    
+            $('#' + countryhawkList).change(function () {
+                var country = $(this).val();
+                //console.log("ddl changed");
+                //alert('#'+ rightrailcontacts+ ' div.contact_layout[country="+ country + "]');
+                //leave the space before the All, it is needed for the sort.
+                /*if (country != " All") {
+                 $('#'+ rightrailcontacts+ ' div.contact_layout[country="'+ country + '"]').each(function(index) {
+                 $(this).show();
+                 });
+                 $('#'+ rightrailcontacts+ ' div.contact_layout[country!="'+ country + '"]').each(function(index) {
+                 $(this).hide();
+                 });
+                 } else {
+                 $('#'+ rightrailcontacts+' div.contact_layout').each(function(index) {
+                 $(this).show();
+                 });
+                 }*/
+                var contacts = $('#' + rightrailcontacts + ' div.contact_layout');
+                var count = 0;
+                contacts.remove();
+
+				//changes by hemant
+                //To fix the existing prod issue of filters start
+                parentAllContacts.empty();
+                //To fix the existing prod issue of filters end
+
+                if (country != " All") {
+                    allContacts.each(function () {
+    
+                        if ($(this).attr('country') == country) {
+                            parentAllContacts.append(this);
+                            count++;
+                        }
+    
+                    });
+                } else {
+                    allContacts.each(function () {
+                        parentAllContacts.append(this);
+                        count++;
+    
+                    });
+                }
+    
+    
+            });
+    
+            $('#' + displayMore).click(function (e) {
+                $('#' + rightrailcontacts + ' div').each(function (index) {
+                    $(this).show();
+                });
+                $('#' + displayMore).hide();
+                $('#' + displayLess).show();
+                return false;
+            });
+            $('#' + displayLess).click(function (e) {
+                $('#' + rightrailcontacts + ' div').each(function (index) {
+                    if (parseInt($(this).attr("divid")) > 6) {
+                        $(this).hide();
+                    }
+                });
+                $('#' + displayMore).show();
+                $('#' + displayLess).hide();
+                return false;
+            });
+    
+        });
+    
+
+
+
+
+	var parentcontactdiv = null;
+if (document.getElementById('onlineformstart') != null) {
+	var rendermode = "2";
+	if (rendermode == 2) {
+		var elem = document.getElementsByClassName("contactModule maxPadding");
+		var x = 0;
+		for (x = 0; x < elem.length; x++) {
+			parentcontactdiv = document.getElementById(elem[x].id).parentElement;
+			parentcontactdiv.className = 'section rightrailcontact';
+
+		}
+	}
+}
+
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</section> <section>
+	        <div>
+	            <div>
+	                <div>
+	                    <h2>Contact us</h2>
+	                    <div>
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div>
+                        <div>
+                            
+                            <div>
+                                <p>
+                                    
+                                    
+                                        서희원 Partner
+                                    
+                                </p>
+                                <div>
+                                    <p>Samil PwC, South Korea</p>
+                                    
+                                    
+                                        <p>Tel: 02 3781 9887</p>
+                                    
+                                    <!--<sly>
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div>
+                                    
+                                    
+                                    <a href="javascript:void(0);"> Email
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                            
+	                                
+
+    
+   
+    
+
+        
+
+        
+
+                
+
+                
+
+                
+                    <div>
+                        <div>
+                            
+                            <div>
+                                <p>
+                                    
+                                    
+                                        김의준 Partner
+                                    
+                                </p>
+                                <div>
+                                    <p>PwC Consulting, South Korea</p>
+                                    
+                                    
+                                        <p>Tel: 02 709 8969</p>
+                                    
+                                    <!--<sly>
+                                        <p>Fax: </p>
+                                    </sly>-->
+                                </div>
+                                <div>
+                                    
+                                    
+                                    <a href="javascript:void(0);"> Email
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+        
+
+        
+
+    
+
+	                            
+	                        
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    
+	        <input>
+	        
+	        
+	            <input>
+	        
+	    
+	        
+			
+				
+	         
+	    </section>]]></description>
 		</item>
 		<item>
 			<title>이동혁명 시리즈 1: 이동혁명이 바꾸는 &apos;인간의 삶&apos;​​​​​​​​ | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/industry-focus/mobility-revolution-1.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/mobility-revolution-1.html</guid>
 			<pubDate>Tue, 03 Nov 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[이동혁명에 따른 사회·경제적 변화를 분석하고, 정부·기업의 대응 방향을 제시합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  <p>접근성 변화가 가져올 생활권과 공간가치 재편</p>
+                  <h1>이동혁명 시리즈 1: 이동혁명이 바꾸는 '인간의 삶' </h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/insights/industry-focus/mobility-revolution-1-hero.jpg" alt="Hero image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>November 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      <div>
+         <p><strong>자율주행차, 로보택시, UAM, 드론 등 미래 모빌리티 기술은 인간의 삶과 공간구조를 근본적으로 변화시킬 것으로 전망됩니다. 본 보고서는 이동혁명이 촉진할 생활권 확대와 이에 따른 사회·경제적 변화를 분석하고, 미래 모빌리티의 상용화 전망과 정부·기업의 대응 방향을 제시합니다.</strong></p>
+
+      </div>
+   
+
+
+
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/mobility-revolution-1/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
+	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h3>1.&nbsp;<b>차세대 이동혁명이 온다</b></h3>
+<p>차세대 이동혁명은 단순히 더 빠르게 이동하는 것을 넘어, 자율주행을 통해 이동시간을 ‘소모되는 시간’에서 ‘활용 가능한 시간’으로 전환한다는 점에서 기존 교통혁명과 차별화</p>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+
+    
+
+
+<p>자료: 삼일PwC경영연구원</p>
+</div>
+<div>
+
+
+    
+
+    <div>
+        
+<h3><strong>2. 미래 모빌리티 기술 동향</strong></h3>
+<ul>
+<li>차세대 모빌리티의 상용화는 기술 완성도보다 경제성과 규제 환경에 의해 좌우될 가능성이 높음</li>
+<li>로보택시‧드론‧자율주행트럭이 초기 시장 형성을 주도하고, 일반 자율주행 승용차와 UAM은 제한적 운영을 거쳐 장기적으로 성장할 것으로 예상</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+<p>자료: 삼일PwC경영연구원</p>
+</div>
+<div>
+
+
+    
+
+    <div>
+        
+<h3><strong>3. 차세대 이동혁명이 가져올 삶의 변화</strong></h3>
+<ul>
+<li>주거 선택 기준의 다양화: ‘직주근접’ 공식의 완화</li>
+<li>교육 기회의 확대: 학군 중심의 교육 수요를 교육 서비스·교육 기회 중심으로 점진적으로 전환</li>
+<li>소비 패러다임의 전환: 상품 배송을 넘어 서비스가 소비자를 찾아가는 시대의 개막</li>
+<li>의료 접근성의 혁신: 지역 격차를 완화하고 전문성·디지털 역량 중심의 의료서비스 체계 구축</li>
+<li>고령자의 독립적 삶 확대: 의료·돌봄·여가 서비스에 대한 접근성을 높여, 익숙한 지역사회에서 고령자가 삶을 지속하는 'Aging in Place'를 지원</li>
+</ul>
+
+<h3><strong>4. 차세대 이동혁명이 만드는 공간의 재편</strong></h3>
+<ul>
+<li>이동혁명 이후에는 접근성의 중요성이 상대적으로 낮아지고 지역 고유의 기능과 매력이 더욱 중요해질 것으로 예상</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+<p>자료: 삼일PwC경영연구원</p>
+</div>
+<div>
+
+
+    
+
+    <div>
+        
+<h3><strong>5.&nbsp;시사점</strong></h3>
+<p>이동혁명은 정부와 기업 모두에게 생활권 확대에 대응한 정책과 사업 전략의 재설계를 요구</p>
+<ul>
+<li><strong>정부</strong><ul>
+<li>‘행정구역’이 아닌 ‘생활권’ 중심으로 국토·도시정책 재설계</li>
+<li>미래 모빌리티 인프라 확충과 지역 경쟁력 강화 병행</li>
+<li>지방소멸 대응 전략 전환: ‘정주인구 확보’에서 ‘생활인구 확대’로</li>
+<li>고령사회 대응과 이동정책 통합</li>
+</ul>
+</li>
+<li><strong>기업</strong><ul>
+<li>생활권 단위로 시장·입지전략 재설계</li>
+<li>‘고객의 이동’에서 ‘서비스의 이동’으로 비즈니스 모델 확장</li>
+<li>기업의 입지·인재·운영 전략을 연결성 중심으로 재편</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+<div>
+   <div>
+      <div>
+   <div>
+      <h2>이동혁명이 바꾸는 '인간의 삶': 접근성 변화가 가져올 생활권과 공간가치 재편</h2>
+      <p>더 자세한 내용은 PDF 파일에서 확인하실 수 있습니다.</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_mobility-revolution-1.pdf">Download PDF
+</a>
+(PDF of 2.99MB)
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+      <div>
+   <div>
+      <h2>삼일PwC 경영연구원</h2>
+      <p>Macro 및 다양한 산업을 전문적으로 분석하여, 시의적절하고 유의미한 지식과 Insight를 제공함으로써 고객의 기업가치 제고를 지원합니다. 
+</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/samil-pwc-business-research.html">자세히 보기
+</a>
+
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+   </div>
+</div></div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>Physical AI, 성능 경쟁에서 현장 배치 경쟁으로​​​​ | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition.html</guid>
 			<pubDate>Tue, 27 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[Physical AI의 본질과 발전 현황, 그리고 밸류체인 내에서 Physical AI의 가치가 어디로 이동하는지를 살펴보고 이에 따른 공급기업과 수요기업의 대응 방향과 실행 전략을 제시합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  <p>현장 배치가 데이터를 축적하고, 데이터가 기술 격차를 벌린다</p>
+                  <h1>Physical AI, 성능 경쟁에서 현장 배치 경쟁으로​</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/insights/industry-focus/physical-ai-competition-hero.jpg" alt="Hero image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>October 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      <div>
+         <p><strong>AI가 디지털 공간을 넘어 물리 세계에서 직접 행동하는 Physical AI가 개념 단계를 지나 상용화 국면에 들어섰습니다. 시장 전망치가 빠르게 상향되는 가운데, Physical AI의 성능이 단순 시연이 아닌 인지-판단- 행동 및 제어 구조를 통해 나온 결과가 다시 피드백 되어 실제 데이터를 축적하는 과정에서 개선됩니다. Physical AI 경쟁력의 출발점은 더 나은 하드웨어나 로봇이 아니라 이를 현장에 배치하고 운영하면서 데이터를 쌓는 구조로 옮겨가고 있습니다.<br/>
+&nbsp;</strong></p>
+<p><strong>본 보고서는 이러한 상용화 배치의 중요성, 현장의 데이터를 AI 데이터로의 전환 필요성을 강조하고 있습니다. Physical AI의 본질과 발전 현황, 그리고 밸류체인 내에서 Physical AI의 가치가 어디로 이동하는지를 살펴보고 이를 통해 공급기업과 수요기업이 무엇을 준비해야 하는지 대응 방향과 실행 전략을 제시하고자 합니다.</strong></p>
+
+      </div>
+   
+
+
+
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/physical-ai-competition/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
+	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h3>1. Physical AI의 진화: 현실로 다가온 Physical AI</h3>
+<ul>
+<li><b>Physical AI의 진화</b>: 생성형 AI를 넘어 물리 세계에서 스스로 인식·판단·행동하는 Physical AI로 AI의 무대 확장<ul>
+<li>2026년 개념 검증을 지나 상용화 국면 진입: Physical AI의 평가 기준이 데모 영상에서 공정 KPI로 변화</li>
+<li>Physical AI 작동 구조와 핵심 역량: ‘인지→추론 및 판단 → 행동 및 제어’의 구조로 작동, 그 결과를 다시 학습에 반영하여 성능을 강화하는 폐루프(Closed-Loop)가 핵심. 이 폐루프를 통해 데이터가 축적되는 것이 Physical AI의 핵심 역량</li>
+<li>Physical AI 발전 동인: 생산가능인구 감소와 고령화, 공급망 재편, 산업재해·안전 규제 강화, 제반 기술의 발달, 각국의 정책 지원이 복합적으로 Physical AI 수요를 견인<br/>
+</li>
+</ul>
+</li>
+</ul>
+
+<h3>2. Physical AI 생태계 분석</h3>
+<ul>
+<li><b>Physical AI 기능별 계층과 밸류체인</b><ul>
+<li>컴퓨트 &amp; 칩 계층(Compute &amp; Chip Layer, 컴퓨팅 인프라), 데이터 &amp; 시뮬레이션 계층(Data &amp; Simulation Layer), 브레인 계층(Brain Layer, AI 모델), 하드웨어 계층(Hardware Layer, Body), 배치 계층(Deployment Layer)의 5개 계층이 하나의 폐루프로 연결된 복합 시스템</li>
+<li>컴퓨팅 인프라 및 데이터 &amp;시뮬레이션 계층은 NVIDIA 등 미국 빅테크가 표준을, 하드웨어는 중국 하드웨어가 가격 결정력을 주도하는 반면 수요자와 맞닿아 있는 배치·운영 계층에서는 아직 주도 사업자 부재</li>
+</ul>
+</li>
+<li><b>Physical AI 생태계와 가치의 변화</b><ul>
+<li>상용화 확대로 배치·운영 계층의 생태계 내 가치 상승: 소프트웨어 설치 통합, 운영서비스에서 데이터 생산 계층으로 의미 확대. ‘현장 배치 → 데이터 생성 → 모델 재학습 → 성능 개선·원가 하락 → 배치 확대’로 이어지는 데이터 플라이휠의 출발점</li>
+<li>배치·운영 계층과 정밀 로봇손·센서 등 데이터 부재와 정밀 센서 등의 핵심 부품 병목이 가치 상승을 만들고 있음. 즉 상용화 확대로 현장중심으로 밸류체인 내 가치가 이동하고 있음 이동하며, 모든 참여자가 현장 데이터 접근 경로 확보로 수렴</li>
+</ul>
+</li>
+<li><b>Physical AI의 국가별 차이점과 경쟁력</b><ul>
+<li>국가별 경쟁력 핵심요소를 보면 한국은 AI 메모리·추론 반도체와 난공정 제조 현장을 보유했으나 핵심 부품과 독자 모델은 약하고, 현장 데이터가 Physical AI 선도 대기업 계열사, SI, 통신사로 분산될 위험 존재함</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h5><strong><br/>
+Physical AI 5대 레이어와 밸류체인</strong></h5>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+<p>자료: PwC컨설팅, 삼일PwC경영연구원</p>
+</div>
+<div>
+
+
+    
+
+    <div>
+        
+<h3><b>3. Physical AI 시장 분석</b></h3>
+<ul>
+<li><b>Physical AI 시장 현황 및 전망</b><ul>
+<li>글로벌 Physical AI 시장은 향후 5~10년간 연평균 30~40%대 성장 전망</li>
+<li>도입 가속화 요인으로 물류 및 제조 분야 도입이 수요를 견인, 비정형 작업환경에서의 부족한 노동력 수요 증가, 엣지 AI 기술 및 디지털 트윈기술의 발달 등이 꼽힘. 다만 시스템 통합 비용, 이기종간 연결, 기능의 신뢰성 이슈는 도입을 저해하는 요인</li>
+</ul>
+</li>
+<li><b>투자 흐름을 통해 본 시장 현황</b><ul>
+<li>글로벌 휴머노이드 배치 급증 및 전망치 상향: IDC는 2026년 상반기 출하량을 2만 5,000대(전년 동기 대비 432.1% 증가)로 집계, 골드만삭스는 2035년 시장 전망치를 1,380억 달러로 3.6배 상향</li>
+<li>Physical AI 투자 확대: 2026년 상반기 Physical AI·로보틱스 투자가 이미 2025년 연간 규모 상회, 투자 자본은 배치 실적을 갖춘 Series C 이상 기업으로 집중</li>
+<li>다만 실제 배치는 분야별로 편차 존재하며, 전반적인 자율화 수준은 감독형 자율 단계로 판단</li>
+</ul>
+</li>
+<li><b>Physical AI의 병목</b><ul>
+<li>실세계 데이터 확보, 정밀 조작, 현장 통합, 경제성 및 책임 문제가 확산의 병목으로 작용</li>
+</ul>
+</li>
+</ul>
+
+<h3><b>4. 결론: 시사점과 전략적 제언</b></h3>
+<ul>
+<li><b>시사점</b><ul>
+<li>Physical AI 경쟁력의 출발점은 더 나은 모델이나 로봇이 아니라 현장에 배치·운영하며 데이터를 쌓는 구조로, 배치 → 데이터 생성 → 모델 재학습 → 배치 확대의 선순환에서 배치 규모가 곧 데이터 규모</li>
+<li>한국은 모델·하드웨어의 정면 경쟁 대신 시뮬레이션으로 대체하기 어려운 난공정 제조 현장을 데이터 자산으로 전환하는 데서 기회 모색 필요</li>
+<li>Physical AI 경쟁력의 출발점은 현장에 배치하고 운영하면서 데이터를 쌓는 구조를 먼저 갖추는 것이고 이것은 모델 및 하드웨어 성능 제고에도 기여할 수 있음. Physical AI 시대의 핵심 경쟁력은 더 많은 로봇을 생산하는 능력이 아니라, 더 많은 현장을 운영하며 데이터 플라이휠을 구축하는 능력에 있음</li>
+</ul>
+</li>
+<li><b>전략적 제언</b><ul>
+<li><b>공급기업</b>: &nbsp;업종 특화 모델과 공급자가 적은 부품 구간에 집중, 현장 작업을 동작 단위 데이터로 축적하며 RaaS 등 운영 서비스로 배치 이후에도 데이터를 확보하는 구조 설계</li>
+<li><b>수요기업</b>: 단일 공정 중심으로 도입 범위를 좁혀 현장 KPI로 판단하고, 하드웨어 가격뿐 아니라 시스템 통합, 공정 재설계, 유지보수, 다운타임 등 도입에 따른 비용을 포함해야 함. 운영 전담 조직을 갖추는 한편 계약 단계에서 데이터 소유권과 개선 모델의 사용 범위 및 수익 배분 등을 명확히 해야 할 것임</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h5><b><br/>
+<br/>
+데이터 플라이휠 작동 단계</b></h5>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+<p>자료: 삼일PwC경영연구원</p>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+<div>
+   <div>
+      <div>
+   <div>
+      <h2>Physical AI, 성능 경쟁에서 현장 배치 경쟁으로</h2>
+      <p>더 자세한 내용은 PDF 파일에서 확인하실 수 있습니다.</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_physical-ai-competition.pdf">Download PDF
+</a>
+(PDF of 2.98MB)
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+      <div>
+   <div>
+      <h2>삼일PwC 경영연구원</h2>
+      <p>Macro 및 다양한 산업을 전문적으로 분석하여, 시의적절하고 유의미한 지식과 Insight를 제공함으로써 고객의 기업가치 제고를 지원합니다. 
+</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/samil-pwc-business-research.html">자세히 보기
+</a>
+
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+   </div>
+</div></div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>중국 반도체 굴기의 실체  | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/samil-insight/china-semiconductor.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/samil-insight/china-semiconductor.html</guid>
 			<pubDate>Thu, 22 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[중국 반도체 굴기의 실체를 기술·공급·수요·성장 측면에서 살펴보고, 중국 반도체 산업의 부상이 한국에 던지는 과제와 이에 대한 대응 방향을 제시합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  <p>중국 반도체 부상이 한국에 던지는 과제</p>
+                  <h1>중국 반도체 굴기의 실체</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/home/contents-img/china-semiconductor-rise-hero.png" alt="Hero image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>October 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      
+   
+
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/samil-insight/china-semiconductor/_jcr_content/root/container/content-free-container-1/section_1161425850_c/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-column1/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
+	content: 'insight용 Custom css (Column 중앙1단) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h2>5가지 질문으로 본 중국 반도체 굴기의 현주소</h2>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><strong>한줄 결론</strong></td>
+</tr><tr><td>중국은 최선단 기술 선도국은 아니지만, 생산능력·내수시장·공급망·수요산업이 연결된 성장 메커니즘을 확보하며 글로벌 반도체 산업의 핵심 플레이어로 부상하고 있다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h3><strong><br/>
+<br/>
+ <sup>Q1.</sup> <br/>
+ 미국발 기술 통제에도 불구하고, 중국 반도체가 성장하는 힘은 어디서 나오는가?</strong></h3>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><strong>A:</strong></td>
+<td>중국 반도체의 경쟁력은 개별 기술이 아니라 정책·자본·시장·클러스터·인재가 결합된 산업 생태계와, 그 위에서 작동하는 ‘수요→생산→양산 경험→재투자'의 성장 선순환에 있다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>중국은 선단공정, HBM 등 일부 최첨단 분야에서는 여전히 글로벌 선도기업과 격차를 보이고 있다. 그러나 지난 20여 년 동안 정책·자본·시장·클러스터·인재를 중심으로 반도체 산업 생태계를 구축해 왔다. 특히 세계 최대 수준의 반도체 수요시장과 전기차·AI·전자기기 산업은 중국 반도체 기업의 첫 고객이자 검증 무대 역할을 하고 있다.</p>
+<p>이러한 기반 위에서 중국 반도체 산업은 수요 확대가 생산 확대를 이끌고, 생산 확대가 양산 경험과 공정 데이터 축적으로 이어지며, 다시 품질·수율·원가 개선과 매출 확대를 통해 생산설비와 연구개발 투자로 연결되는 성장 선순환 구조를 형성하고 있다.</p>
+<p>미국의 기술 통제 역시 첨단 기술 접근을 제한하는 동시에 중국 기업 중심의 공급망 구축과 China for China 전략<sup>(*)</sup>을 가속하는 계기가 됐다. 결국 중국 반도체 산업의 강점은 특정 기술의 돌파보다 반도체가 지속적으로 개발·검증·양산될 수 있는 산업 생태계와 성장 구조에 있다.</p>
+<p><sup>(*) 중국 내 수요를 중국 기업 중심 공급망으로 연결해 공급망 자립도를 높이는 전략</sup></p>
+
+<h3><strong><sup>Q2.</sup><br/>
+ 중국은 글로벌 반도체 공급망에서 얼마나 중요한 국가가 되었는가?</strong></h3>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><strong>A:</strong></td>
+<td>중국은 세계 최대 수준의 생산능력과 후공정 경쟁력을 바탕으로 글로벌 공급망의 핵심 축으로 부상했지만, 공급망 전반을 통제하는 지배국은 아니다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>중국은 세계 최대 수준의 웨이퍼 생산능력을 확보했으며, 후공정 분야에서도 글로벌 경쟁력을 구축했다. 또한 세계 최대 반도체 수요시장을 바탕으로 생산과 소비가 연결된 산업 생태계를 형성하며 공급망 영향력을 확대하고 있다.</p>
+<p>특히 중국의 강점은 최첨단 기술보다 생산 규모와 산업 연결성에 있다. 성숙공정과 범용 반도체를 중심으로 생산능력을 확대하며 글로벌 공급망 내 존재감을 높이고 있으며, 미국의 기술 통제 이후에는 중국 기업 중심의 공급망 구축도 빠르게 진행되고 있다.</p>
+<p>다만 첨단공정, 핵심 제조장비, EDA, 설계 IP 등 핵심 병목 영역에서는 여전히 해외 의존이 남아 있다. 따라서 중국은 글로벌 공급망의 핵심 플레이어로 부상했지만, 공급망 전반을 독자적으로 통제하는 수준에는 아직 이르지 못했다.</p>
+
+<h3><strong><sup>Q3.</sup> <br/>
+ 중국 반도체 기술력은 어디까지 도달했는가?</strong></h3>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><strong>A:</strong></td>
+<td>중국은 반도체 기술 강국으로 부상했지만, 최선단 기술 선도국은 아니다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>중국은 설계, 성숙공정, 범용 메모리, 기존 후공정 분야에서 자체 개발과 양산 기반을 구축했다. 최근에는 AI 가속기, 서버 CPU, 모바일 AP, 범용 메모리, 첨단 패키징 등에서도 경쟁력을 확대하고 있다.</p>
+<p>그러나 가치사슬 전반을 살펴보면 최선단 영역에서는 여전히 글로벌 선도기업과의 격차가 존재한다. 선단공정은 7nm급 생산에 진입했지만 글로벌 선도기업은 이미 2nm 양산 단계로 이동했으며, HBM, EUV 노광장비, 첨단 포토소재, AI용 첨단 패키징에서도 기술 및 양산 경험 차이가 남아 있다.</p>
+<p>결국 중국은 일부 분야에서는 글로벌 경쟁권에 진입했지만, 최첨단 반도체 경쟁을 주도하는 수준에는 아직 이르지 못했다. 중국 기술 경쟁력의 핵심 과제는 기술 구현 자체보다 수율·원가 안정화, 시장 검증, 반복 양산 경험 확보에 있다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>중국 반도체 가치사슬별 기술 경쟁력 평가</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h3><strong><br/>
+ <sup>Q4.</sup> <br/>
+중국 반도체는 앞으로 어디에서 영향력을 확대할 것인가?</strong></h3>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><strong>A:</strong></td>
+<td>중국의 영향력은 최첨단 기술보다 범용 메모리·성숙공정·후공정을 중심으로 시장에서 먼저 확대될 가능성이 높다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>중국은 이미 생산기반과 수요시장을 확보한 범용 메모리, 성숙공정, 후공정 분야에서 공급을 확대하고 있다. 이러한 분야는 최첨단 기술보다 생산 규모와 공급 안정성, 가격 경쟁력이 중요한 만큼 시장 영향력이 먼저 확대될 가능성이 높다. 실제로 중국 반도체의 영향은 기술보다 시장에서 먼저 나타날 가능성이 크다.</p>
+<p>반면 선단공정, HBM, 첨단 패키징과 같은 최첨단 영역은 제품 개발만으로 시장 진입이 이뤄지지 않는다. 수율과 제조원가를 안정화하고 고객 검증과 반복 공급을 확보해야 경쟁력을 인정받을 수 있다. 따라서 최첨단 분야의 경쟁력은 기술개발 여부보다 상업적 양산과 시장 검증을 통해 판단할 필요가 있다.</p>
+<p>향후 중국 반도체 산업은 ▲범용·성숙 분야의 시장 영향력 확대 ▲중국 내 자국산 적용 확대 ▲일부 첨단 분야의 시장 진입이라는 세 가지 경로를 동시에 추진할 가능성이 높다. 다만 이 과정은 핵심 기술 병목, 수율·제조원가, 시장 검증, 반복 구매와 수익성이라는 네 가지 관문을 통과해야 한다. 따라서 중국 반도체의 미래는 투자 규모나 제품 발표보다 가동률, 출하량, 수율, 반복 구매, 가격 하락기에도 유지되는 수익성에 의해 결정될 가능성이 높다.</p>
+
+<h3><strong><sup>Q5.</sup> <br/>
+ 한국은 어떻게 대응해야 하는가?</strong></h3>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><strong>A:</strong></td>
+<td>중국과의 전면전이 아니라 분야별 선택과 집중, 그리고 기술 우위를 고객·생태계 경쟁력으로 전환하는 것이다.</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>중국은 아직 HBM, 첨단 메모리, 선단공정, 첨단 패키징 등에서는 한국을 추월하지 못했다. 그러나 이미 생산능력과 내수시장, AI·전기차 산업을 기반으로 반도체가 성장할 수 있는 시장과 생태계를 구축하고 있다. 향후 경쟁은 기술 자체보다 고객과 산업 생태계를 누가 확보하느냐에 의해 결정될 가능성이 높다.</p>
+<p>이에 따라 한국은 범용 메모리 시장의 수익성을 방어하는 동시에 HBM 이후 차세대 시장을 선점해야 한다. 또한 글로벌 고객과의 공동개발을 확대하고, AI 데이터센터·AI 산업·로봇·자율주행과 같은 수요산업을 육성하여 반도체 기술을 검증하고 확산할 수 있는 생태계를 구축할 필요가 있다.</p>
+<p>중국에 대해서는 일률적 대응보다 분야별 선택과 집중 전략이 요구된다. 범용 메모리와 성숙공정은 수익성을 방어하고, HBM·첨단 패키징·AI 메모리 등은 초격차를 유지하며, 장비·소재·핵심 부품 분야는 중국 투자 확대를 새로운 기회로 활용해야 한다. 동시에 선단공정, 핵심 설계 자산, 핵심 인력 등 국가 전략기술은 보호해야 한다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p><strong>한국 반도체 산업의 7대 Action 전략</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+<div>
+   <div>
+      <div>
+   <div>
+      <h2>중국 반도체 굴기의 실체 - 중국 반도체 부상이 한국에 던지는 과제</h2>
+      <p>더 자세한 내용은 pdf 파일에서 확인하실 수 있습니다.</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/samil-insight/samilpwc_china-semiconductor.pdf">Download PDF
+</a>
+(PDF of 3.62MB)
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+      <div>
+   <div>
+      <h2>삼일PwC 경영연구원</h2>
+      <p>Macro 및 다양한 산업을 전문적으로 분석하여, 시의적절하고 유의미한 지식과 Insight를 제공함으로써 고객의 기업가치 제고를 지원합니다. 
+</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/samil-pwc-business-research.html">자세히 보기
+</a>
+
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+   </div>
+</div></div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>미래 가치와 기업 생존의 시간차 | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/industry-focus/deals-article-02.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/deals-article-02.html</guid>
 			<pubDate>Wed, 21 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[환경산업이 ‘처리’ 중심 산업에서 순환경제를 구현하는 핵심 인프라로 변화하는 흐름과 함께, 도시광산·재활용 원료·SAF 등 주요 투자 테마를 소개합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  
+                  <h1>미래 가치와 기업 생존의 시간차</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/home/contents-img/adobestock_1952925743-1600.png" alt="background image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>October 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      
+   
+
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-02/_jcr_content/root/container/content-free-container-1/section_1161425850/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+:root {
+	--theme-color-primary: #fd5108;
+}
+
+#wrapper {
+	/* Next move styling */
+	.nextmove {
+		strong {
+			color: var(--theme-color-primary);
+		}
+		.pwccol1-longform-c0 .cmp-container {
+			padding: 0 0 0 18px;
+			border-left: 4px solid var(--theme-color-primary);
+		}
+		
+		.text-component {
+			padding-right: 10px !important;
+		}
+
+
+        /* PC 화면(768px 이상)에서만 적용 */
+        @media (min-width: 768px) {
+
+            /* --- 1. 이미지 정렬 문제 해결 --- */
+            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
+            .image, .image .img-alignment-left {
+                display: block !important; /* display:table을 해제 */
+                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
+                margin-right: initial !important;
+                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
+            }
+
+            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
+            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
+ .pwccol1-longform-c0 {
+                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
+                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
+                margin-left: auto !important;  /* 중앙 정렬 */
+                margin-right: auto !important;
+            }
+
+            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
+            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
+                max-width: 100% !important; /* 760px 제한 해제 */
+                width: 100% !important;
+                margin-left: 0 !important; /* 중앙 정렬 해제 */
+                margin-right: 0 !important;
+            }
+        }
+	}
+}
+
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
+	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-02/_jcr_content/root/container/content-free-container-1/section_copy_592731132/authors.dynamic.html, resourceType: pwc/components/modernized/content/authors) -->
+
+
+    
+
+
+    
+    <section>
+        <div>
+            
+                <div>
+                    
+                        
+                            
+    
+        
+        
+            
+            <div>
+                <div>
+                    
+
+                    <img src="https://www.pwc.com/kr/ko/contact/170468_ju-yeon-yoon.jpg.pwcimage.105.105.jpg" alt="윤주연 Partner"/>                    
+                    <div>
+                        <p>
+                            
+            
+                            
+                                
+                                    윤주연 Partner
+                                
+                            
+                        </p>
+                        <div>
+                            <p>Samil PwC, South Korea</p>
+                        </div>
+                        <div>
+                            
+                            
+                            
+                                <a href="javascript:void(0);">Email</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+    
+
+                        
+                    
+                </div>
+            
+            
+        </div>
+    </section>
+    
+      function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
+      	var url = "";
+      	if("true" === hasPageLink){
+      	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D02\x26style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
+      	}
+      	else{
+      	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D02\x26style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;
+      	}
+
+          if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
+      		var parentPagePath = digitalData.page.content.contentFullPath;
+      		parentPagePath = parentPagePath.split(".html")[0];
+      		if(!url.includes(parentPagePath)){
+      		url = url+"&parentPagePath="+parentPagePath;
+      		}
+      	}
+          createObject('contactUs.formState','origination');
+          createObject("contactUs.expertName",firstName+" "+lastName);
+          window.location.href = url;
+          return false;
+      }
+
+   
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>최근 인공지능(AI) 산업에 대한 투자가 빠르게 확대되는 모습을 보면서 과거 플랫폼 산업과 2차전지 산업이 거쳐 온 성장 과정이 떠오른다. 현재 AI 산업에서는 반도체와 데이터센터를 넘어 전력, 냉각, 네트워크 등 관련 인프라 전반으로 투자가 확산되고 있다. 시장은 AI가 가져올 생산성 향상과 새로운 수요를 기업 가치에 빠르게 반영하고 있으며, 기업들도 미래 시장을 선점하기 위해 대규모 투자를 집행하고 있다.</p>
+<p>성장산업에 속한 기업의 가치 평가를 수행하다 보면 현재의 재무 성과만으로는 시장에서 형성된 가치를 충분히 설명하기 어려운 경우가 많다. 현금흐름할인법(DCF)은 장래 창출될 현금흐름을 현재 가치로 환산하는 방식이다. 따라서 이러한 기업의 가치는 현재 실적보다 미래 시장 규모, 시장 점유율, 수익성, 투자 계획에 대한 가정에 더 큰 영향을 받는다. 성장산업에 대한 높은 평가는 현재의 이익보다 미래의 가능성에 대한 기대에 가깝다.<br/>
+&nbsp;</p>
+<h4><strong>가치 실현이 늦어질 때 발생하는 시간과 비용</strong></h4>
+<p>문제는 시장이 바라보는 미래와 기업이 그 미래에 도달하는 과정의 시간축이 서로 다르다는 점이다. 기업 가치에는 아직 실현되지 않은 미래 현금 흐름이 반영되지만, 기업은 실제 현금 흐름이 발생하기 전까지 지속적인 투자와 자금 조달을 통해 사업을 운영해야 한다. 이러한 간극은 투자 규모가 크고 가치가 실현되기까지 오랜 시간이 필요한 성장산업에서 더욱 두드러진다.</p>
+<p>성장산업의 실패는 흔히 시장에 대한 판단이 틀렸기 때문이라고 설명된다. 그러나 가치평가 관점에서 보면 상당수 기업이 겪는 어려움은 성장 자체가 실현되지 않아서라기보다, 그 성장이 당초 예상보다 늦게 실현되는 과정에서 발생한다. 가치가 사라진 것이 아니라 가치 실현 시점이 뒤로 밀린 것이며, 그만큼 기업이 감당해야 할 시간과 자본 부담도 늘어난 것이다.</p>
+<p>미래 가치를 실현하고자 하는 기업의 사업 계획에는 본래 상당한 규모의 자금 소요가 포함된다. 제조업은 생산 능력을 확보하기 위해 설비에 투자해야 하고, 플랫폼 기업은 고객과 공급자를 확보하기 위해 마케팅비와 운영비를 먼저 투입해야 한다. 연구개발과 인력 확보, 운전자본 증가 역시 매출보다 앞서 발생하는 경우가 대부분이다. 따라서 일정 기간 적자나 마이너스 잉여현금흐름이 발생하는 것은 성장산업 내 기업의 본질적 특성에 가깝다.</p>
+<p>더 중요한 문제는 실제 사업이 당초 사업 계획보다 더 긴 시간과 더 많은 자본을 요구하는 경우가 적지 않다는 점이다. 고객의 투자 결정이 지연되거나 시장 확산 속도가 예상보다 완만할 수 있다. 경쟁 심화로 가격과 수익성이 계획에 미치지 못할 수도 있다. 금리와 원재료 가격의 변동, 공급망 재편, 규제 변화 같은 변수도 발생한다. 이러한 변화가 산업의 장기 성장 논리를 훼손하는 것은 아니지만, 가치가 현실화되는 시점을 늦추는 요인으로 작용할 수 있다.</p>
+<p>반면 기업의 자금 소요는 시장의 현실화 속도에 맞춰 탄력적으로 조정되지 않는다. 매출과 현금 창출 시점은 뒤로 밀려도 설비 투자와 인건비, 고정비, 금융 비용은 계속 발생한다. 그 결과 기업은 당초 계획보다 더 오랜 기간 투자와 자금 조달을 이어가야 한다. 시장의 방향이 틀린 것이 아니라 시장이 도래하는 시간이 달라진 것이다.</p>
+<p>결국 성장산업의 핵심 변수는 성장 여부만이 아니다. 가치 실현까지 필요한 기간이 얼마나 연장될 수 있는지, 그리고 기업이 그 시간을 감당할 수 있는지가 더 중요하다. 승패는 시장 전망의 정확성보다 예상보다 길어진 시간을 감당할 수 있는 자본 조달 능력과 재무적 유연성에 의해 결정되는 경우가 많다.<br/>
+&nbsp;</p>
+<h4><strong>성장 가능성을 보고 진입해도 실패하는 이유</strong></h4>
+<p>플랫폼 산업의 예를 보자. 지금은 쿠팡이나 배달의민족 같은 성공 사례를 중심으로 플랫폼 시장의 성장을 설명하지만, 초기에는 동일한 성장 가능성을 보고 시장에 진입한 기업이 훨씬 많았다. 온라인 거래와 배달 시장이 성장할 것이라는 방향을 정확히 예측했음에도 고객 기반을 수익으로 전환하지 못했거나 충분한 자본을 확보하지 못해 시장에서 사라진 기업도 적지 않았다.</p>
+<p>반면 살아남은 기업들은 처음 수립한 사업 계획을 그대로 실행하는 데 머무르지 않았다. 확보한 고객 기반을 토대로 사업 모델을 수정하고 확장했으며, 예상보다 길어진 투자 기간을 견딜 수 있는 자금조달 능력을 갖췄다. 결국 시장의 방향을 먼저 발견한 기업보다, 시장이 현실화되는 과정에서 필요한 시간과 자본을 감당한 기업이 성장의 과실을 가져갔다.</p>
+<p>현재의 2차전지 산업도 같은 관점에서 바라볼 필요가 있다. 최근의 조정은 장기 수요의 소멸이라기보다 선제적으로 확대된 생산 능력과 실제 수요가 현실화되는 속도 사이에서 발생한 괴리에 가깝다. 수요가 계획보다 늦어지면 가동률은 낮아지지만 감가상각비와 금융 비용은 계속 발생한다. 이에 따라 기술 경쟁력이나 고객 포트폴리오뿐 아니라 재무적 유연성과 자본 운용 전략이 중요한 경쟁 요소로 부상하고 있다. 현재 시장이 재평가하는 것은 전기차 수요의 방향성 자체라기보다, 그 수요가 현실화되는 과정에서 각 기업이 감당해야 할 시간과 자본의 규모라고 볼 수 있다.</p>
+<p><strong>성장산업별 가치 실현 지연 요인과 기업 부담</strong></p>
+
+    </div>
+
+
+    
+
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>설명: 플랫폼·2차전지·AI 산업은 초기 고객 확보, 생산설비, 반도체·데이터센터 등 대규모 선행 투자가 필요하지만 수익화 지연과 수요 둔화, 인프라 투자 확대 등으로 가치 실현이 늦어지고 있다. 이에 기업들은 운영자금과 감가상각비, 금융비용, 추가 자금 조달 등 상당한 재무 부담을 떠안게 된다.</sup></p>
+<h4><br/>
+<br/>
+<strong>성장산업 내 기업 평가의 핵심, 자금 소요와 조달 능력</strong></h4>
+<p>AI 산업 역시 같은 질문에서 자유롭지 않다. 시장의 성장 가능성이 크다는 사실과 개별 기업이 그 성장의 과실을 가져간다는 것은 전혀 다른 문제다. 수익화 시점이 예상보다 늦어지거나 전력·데이터센터 등 기반 시설 투자가 당초 계획보다 확대되면 동일한 산업 내에서도 기업별 자본 소요와 자금조달 부담은 크게 달라질 수 있다. 향후 AI 산업에서 개별 기업의 성패 역시 성장률 자체보다 가치 실현 과정에서 필요한 자본을 얼마나 안정적으로 확보하고 효율적으로 운용하느냐에 따라 결정될 가능성이 높다.</p>
+<p>따라서 성장산업에 속한 기업에 대한 투자나 인수를 검토할 때는 시장의 성장성과 사업계획의 실행 가능성만으로 판단해서는 안 된다. 목표한 매출과 수익성이 언제 현실화될 것인지, 그 시점까지 어느 정도의 추가 투자가 필요한지, 예상하지 못한 변수가 발생했을 때 이를 감당할 자금 조달 여력이 있는지를 함께 살펴봐야 한다. 특히 이들 기업을 인수한다는 것은 미래의 가치뿐 아니라 그 가치가 실현되기 전까지 필요한 투자 부담과 자본조달 위험까지 함께 인수하는 일이다.</p>
+<p>시장은 미래 가치를 먼저 반영하지만, 기업은 그 가치가 현실이 될 때까지 버텨야 한다. 많은 기업은 성장 가능성이 사라져서 실패한 것이 아니다. 성장이 예상보다 늦게 찾아왔을 뿐이다. 문제는 그 기다림이 길어지는 동안 일부 기업이 자금과 시간을 소진해 시장을 떠날 수밖에 없었다는 데 있다.</p>
+<p>성장의 과실은 가장 낙관적인 기업이 아니라, 가치가 현실화되는 과정에서 필요한 시간과 자본을 조달하고 운용할 수 있었던 기업에 돌아간다. 이러한 ‘미래 가치의 실현과 생존의 시간차’가 기업의 성패를 결정짓는다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p><sub>윤주연 파트너는 대기업 그룹사와 중견·중소기업을 대상으로 합병, 분할, 현물출자, 유상증자 등 다양한 거래에 대한 자문을 수행해왔으며, 특히 거래 구조 검토와 기업가치평가 분야를 중심으로 거래 전반에 걸친 재무자문을 제공하고 있다.</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>순환경제 시대, 핵심 인프라로 떠오른 환경산업 | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/industry-focus/deals-article-01.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/deals-article-01.html</guid>
 			<pubDate>Thu, 08 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[환경산업이 ‘처리’ 중심 산업에서 순환경제를 구현하는 핵심 인프라로 변화하는 흐름과 함께, 도시광산·재활용 원료·SAF 등 주요 투자 테마를 소개합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  
+                  <h1>순환경제 시대, 핵심 인프라로 떠오른 환경산업</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/glob/dpe/en/secondary-support-images/desktop/pwc-gx-supporting-1600x900-gettyimages-2220160494.jpg" alt="background image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>October 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      
+   
+
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-01/_jcr_content/root/container/content-free-container-1/section_1161425850/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+:root {
+	--theme-color-primary: #fd5108;
+}
+
+#wrapper {
+	/* Next move styling */
+	.nextmove {
+		strong {
+			color: var(--theme-color-primary);
+		}
+		.pwccol1-longform-c0 .cmp-container {
+			padding: 0 0 0 18px;
+			border-left: 4px solid var(--theme-color-primary);
+		}
+		
+		.text-component {
+			padding-right: 10px !important;
+		}
+
+
+        /* PC 화면(768px 이상)에서만 적용 */
+        @media (min-width: 768px) {
+
+            /* --- 1. 이미지 정렬 문제 해결 --- */
+            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
+            .image, .image .img-alignment-left {
+                display: block !important; /* display:table을 해제 */
+                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
+                margin-right: initial !important;
+                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
+            }
+
+            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
+            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
+ .pwccol1-longform-c0 {
+                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
+                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
+                margin-left: auto !important;  /* 중앙 정렬 */
+                margin-right: auto !important;
+            }
+
+            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
+            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
+                max-width: 100% !important; /* 760px 제한 해제 */
+                width: 100% !important;
+                margin-left: 0 !important; /* 중앙 정렬 해제 */
+                margin-right: 0 !important;
+            }
+        }
+	}
+}
+
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
+	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/deals-article-01/_jcr_content/root/container/content-free-container-1/section_copy_592731132/authors.dynamic.html, resourceType: pwc/components/modernized/content/authors) -->
+
+
+    
+
+
+    
+    <section>
+        <div>
+            
+                <div>
+                    
+                        
+                            
+    
+        
+        
+            
+            <div>
+                <div>
+                    
+
+                    <img src="https://www.pwc.com/kr/ko/contact/210643_sang-hoon-lee.png.pwcimage.105.105.jpg" alt="이상훈 Partner"/>                    
+                    <div>
+                        <p>
+                            
+            
+                            
+                                
+                                    이상훈 Partner
+                                
+                            
+                        </p>
+                        <div>
+                            <p>Samil PwC, South Korea</p>
+                        </div>
+                        <div>
+                            
+                            
+                            
+                                <a href="javascript:void(0);">Email</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+    
+
+                        
+                    
+                </div>
+            
+            
+        </div>
+    </section>
+    
+      function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
+      	var url = "";
+      	if("true" === hasPageLink){
+      	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D01\x26style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
+      	}
+      	else{
+      	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/deals\u002Darticle\u002D01\x26style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;
+      	}
+
+          if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
+      		var parentPagePath = digitalData.page.content.contentFullPath;
+      		parentPagePath = parentPagePath.split(".html")[0];
+      		if(!url.includes(parentPagePath)){
+      		url = url+"&parentPagePath="+parentPagePath;
+      		}
+      	}
+          createObject('contactUs.formState','origination');
+          createObject("contactUs.expertName",firstName+" "+lastName);
+          window.location.href = url;
+          return false;
+      }
+
+   
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>환경산업은 산업 발전에 따른 폐기물 처리 수요의 꾸준한 증가와 높은 인허가 진입장벽 때문에 기존 업체가 안정적인 현금 흐름을 창출할 수 있는 업종으로 평가받아 왔다. 이러한 특성에 힘입어 환경기업은 사모펀드(PEF)의 주요 투자처로 부상했고, 지속적인 인수합병(M&amp;A)을 거치며 다수의 대형 환경 플랫폼이 탄생했다.</p>
+<p>2024년부터 올해 초까지는 대형 환경 플랫폼의 경영권이 다른 PEF로 넘어가는 세컨더리 거래가 이어졌다. 이들 자산이 운영 개선과 추가 투자를 거쳐 다시 매물로 나오기까지 상당한 시간이 필요하기 때문에, 당분간 환경산업 M&amp;A 시장에서는 기존 플랫폼이 사업 영역과 처리 역량을 확대하기 위해 중소형 기업을 인수하는 볼트온(Bolt-on) 거래가 주를 이룰 전망이다.<br/>
+&nbsp;</p>
+<h4><strong>폐기물에서 자원으로…순환경제의 부상</strong></h4>
+<p>환경산업의 또 다른 변화는 순환경제로의 전환이다. 유럽연합(EU)을 비롯한 세계 각국은 탄소 배출을 줄이고 자원순환을 촉진하기 위해 자동차·포장재 등의 생산자에게 재활용 원료를 일정 비율 이상 사용하도록 의무화하고 있다. 이에 따라 과거 단순 폐기물로 처리되던 자원이 재활용과 재자원화를 거쳐 새로운 원료 공급원으로 탈바꿈하고 있다.</p>
+<p>환경기업은 이제 폐기물 발생량 증가에 따른 처리 수요뿐 아니라, 재활용 원료 수요 확대에 따른 수혜도 기대할 수 있게 됐다. 단순한 폐기물 처리업체를 넘어 원재료 조달, 제품 생산, 유통·사용, 회수, 선별·전처리, 재활용·소재화, 생산공정 재투입으로 이어지는 제조업의 ‘클로즈드 루프(Closed-loop)’를 구축하는 핵심 파트너로 진화하고 있는 것이다.<br/>
+&nbsp;</p>
+<h4><strong>폐식용유, SAF 확대가 만드는 원료 확보 경쟁</strong></h4>
+<p>대표적인 사례가 지속가능항공유(SAF)다. EU의 ‘리퓨얼EU 항공(ReFuelEU Aviation) 규정에 따라 2025년부터 EU 공항에 공급되는 항공유에는 SAF를 최소 2% 혼합해야 한다. 이 비율은 2050년에는 70%에 이를 예정이다.</p>
+<p>현재 상용 SAF는 폐식용유와 동물성 유지 등을 원료로 하는 수소화지방산(HEFA) 방식이 큰 비중을 차지한다. 그러나 폐식용유는 다수의 소규모 배출처에서 분산돼 발생하는 만큼, 안정적인 조달을 위해서는 지역별 수거망과 저장 시설, 품질관리 및 전처리 역량이 필요하다. 규제 강화로 SAF 수요는 빠르게 늘지만 공급은 제한적이어서 합성연료 등 대체 생산방식이 확충되기 전까지 폐유지 확보 경쟁은 지속될 전망이다.</p>
+<p><strong>[표1] EU의 연도별 SAF 최소 혼합의무 비율</strong></p>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><p><strong>연 도</strong></p>
+</td>
+<td><p><strong>2025</strong></p>
+</td>
+<td><p><strong>2030</strong></p>
+</td>
+<td><p><strong>2035</strong></p>
+</td>
+<td><p><strong>2040</strong></p>
+</td>
+<td><p><strong>2045</strong></p>
+</td>
+<td><p><strong>2050</strong></p>
+</td>
+</tr><tr><td><p>SAF 최소 혼합비율(%)</p>
+</td>
+<td><p>2</p>
+</td>
+<td><p>6</p>
+</td>
+<td><p>20</p>
+</td>
+<td><p>34</p>
+</td>
+<td><p>42</p>
+</td>
+<td><p>70</p>
+</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>자료: European Commission, ReFuelEU Aviation</sup></p>
+
+<h4><strong>도시광산, 전자폐기물 증가가 여는 기회</strong></h4>
+<p>도시광산 역시 성장 잠재력이 크다. 도시광산은 폐전자제품, 폐배터리, 산업 스크랩에서 금·은·구리·니켈·코발트, 희토류 등 유가금속과 플라스틱 등 재활용 가능 자원을 회수하는 산업이다. 국내에서 폐전기·전자 제품 배출량은 2024년 약 19만 톤으로, 2015년 이후 연평균 17% 증가했다. 데이터센터 건설과 로봇· 전력인프라 투자가 확대되면서 전자폐기물 발생량도 계속 늘어날 것으로 보인다. &nbsp;</p>
+<p><strong>[표2] 폐전기·전자제품 발생량</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td><p><strong>연 도</strong></p>
+</td>
+<td><p><strong>2015</strong></p>
+</td>
+<td><p><strong>2018</strong></p>
+</td>
+<td><p><strong>2021</strong></p>
+</td>
+<td><p><strong>2024</strong></p>
+</td>
+</tr><tr><td><p>폐전기전자제품 발생량(톤)</p>
+</td>
+<td><p>6만712</p>
+</td>
+<td><p>10만7,439</p>
+</td>
+<td><p>12만8,118</p>
+</td>
+<td><p>19만794</p>
+</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>자료: 자원순환마루</sup></p>
+<p><br/>
+제도적 기반도 강화되는 추세다. 생산자 책임 재활용 제도를 전기·전자 제품 전체로 확대하는 방안이 추진되면 제조·수입업자의 회수 및 재활용 책임이 커지고, 수집·운반·전처리 시설에 대한 수요도 증가한다. 희토류를 비롯한 핵심광물의 재자원화에 대한 정책 지원까지 더해지면 도시광산 시장은 더욱 커질 것으로 예상된다.</p>
+<p>다만 원물의 안정적 확보와 금속 회수 기술이 필수적이며, 정·제련 산업은 대규모 투자와 많은 에너지가 필요한 만큼 규모의 경제를 갖춘 기업이 유리하다. 결국 수거망과 기술력, 처리 규모를 모두 확보한 선도 기업에 수혜가 집중될 가능성이 크다.<br/>
+&nbsp;</p>
+<h4><strong>순환경제 속도 높이는 민간자본의 역할</strong></h4>
+<p>첨단 제조업이 성장하면 폐기물과 함께 재활용 원료 수요도 증가한다. 하지만 데이터센터, 로봇, 전력 인프라 등 신산업이 성장하는 속도에 비해 재활용 기술과 인프라는 아직 부족하다. PEF 등을 통한 민간 자본이 유입되면 기술 개발과 처리 인프라 확충을 앞당길 수 있다.</p>
+<p>PEF가 보유한 제조기업 역시 재활용 연료를 안정적으로 확보하고 강화되는 규제에 대응하기 위해 환경기업과의 전략적 제휴나 M&amp;A를 적극 검토해야 한다. 순환경제로의 전환이 빨라질수록 환경산업은 더 이상 후방산업을 넘어, 첨단 산업의 지속 가능한 성장을 뒷받침하는 핵심 인프라로 자리매김할 것이다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p><sub>*이상훈 파트너는 중견·중소기업 및 PE 대상으로 매각, 인수, 투자유치에 대한 재무 자문을 수행해왔으며, 특히 환경산업 및 IT산업에 전문성을 보유하고 있다.</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>Global Workforce Hopes and Fears Survey 2026</title>
 			<link>https://www.pwc.com/kr/ko/insights/global-trends/hopes-and-fears-2026.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/global-trends/hopes-and-fears-2026.html</guid>
 			<pubDate>Tue, 29 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[전 세계 48개 국가·지역 및 29개 산업 분야의 근로자 49,364명을 대상으로 실시한 '2026 PwC 글로벌 직장인 설문조사' 결과를 발표했습니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  <p>Global Workforce Hopes and Fears Survey 2026</p>
+                  <h1>2026 PwC 글로벌 직장인 설문조사</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/glob/dpe/en/secondary-support-images/desktop/pwc-gx-team-tablet-hopes-and-fears-1600x900-aigenerated.jpg" alt="Global Workforce Hopes and Fears Survey 2026"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>September 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      
+   
+
+
+
+</div>
+<div>
+
+    $(document).ready(function() {
+        progressIndicator.init({
+            sections: [
+                [{"title":"Top","id":"title"},{"title":"1. AI 선도 인력과 핵심 실무 인력을 모두 성장시키기 위한 전략적 선택","id":"make-tough-choices"},{"title":"2. AI를 생산성과 성장으로 연결하기 위한 업무 재설계","id":"rewire-work"},{"title":"3. 변화의 속도에 맞춰 성장할 수 있도록 직원과 관리자의 역량을 강화하라","id":"build-new-skills"}],
+                'dotted-progress-indicator'
+            ],
+            title: "Index"
+        });
+    });
+
+
+
+
+    
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/hopes-and-fears-2026/_jcr_content/root/container/title/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+:root {
+	--theme-color-primary: #fd5108;
+}
+
+#wrapper {
+	/* Next move styling */
+	.nextmove {
+		strong {
+			color: var(--theme-color-primary);
+		}
+		.pwccol1-longform-c0 .cmp-container {
+			padding: 0 0 0 18px;
+			border-left: 4px solid var(--theme-color-primary);
+		}
+		
+		.text-component {
+			padding-right: 10px !important;
+		}
+
+
+        /* PC 화면(768px 이상)에서만 적용 */
+        @media (min-width: 768px) {
+
+            /* --- 1. 이미지 정렬 문제 해결 --- */
+            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
+            .image, .image .img-alignment-left {
+                display: block !important; /* display:table을 해제 */
+                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
+                margin-right: initial !important;
+                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
+            }
+
+            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
+            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
+ .pwccol1-longform-c0 {
+                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
+                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
+                margin-left: auto !important;  /* 중앙 정렬 */
+                margin-right: auto !important;
+            }
+
+            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
+            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
+                max-width: 100% !important; /* 760px 제한 해제 */
+                width: 100% !important;
+                margin-left: 0 !important; /* 중앙 정렬 해제 */
+                margin-right: 0 !important;
+            }
+        }
+	}
+}
+
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
+	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/hopes-and-fears-2026/_jcr_content/root/container/title/reference_xf_4272059_2137073666.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-column1/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
+	content: 'insight용 Custom css (Column 중앙1단) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h3>AI 시대 인재 경쟁력의 극대화</h3>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><td>The takeaways</td>
+</tr><tr><td><ul>
+<li><strong>인력 간 격차를 해소하라.</strong><br/>
+AI를 적극 활용하고 시장 수요가 높은 소수의 인력 집단은 빠르게 앞서 나가고 있다. 반면 조직 운영을 실질적으로 뒷받침하는 핵심 실무 인력(56%)은 AI 활용과 학습, 성장 기회에 대한 접근성이 상대적으로 낮다.</li>
+<li><strong>AI 투자를 성과로 연결할 수 있도록 업무를 재설계하라.</strong><br/>
+전체 직장 근로자의 약 3분의 2가 이미 AI를 활용하고 있으며, 일상적인 AI 사용도 1년 만에 50% 이상 증가했다. 그러나 단순한 기술 도입만으로는 투자 성과를 기대하기 어렵다. 역할과 업무 프로세스, 성과보상 체계를 함께 재설계해야 한다.</li>
+<li><strong>변화를 실행할 수 있는 역량을 구축하라.</strong><br/>
+조직 구성원들은 빠르게 새로운 역량을 습득하고 있지만, 정작 학습 기회에 대한 접근성은 떨어지고 있다. 여기에 조직에 대한 신뢰 약화와 관리자들의 업무 부담까지 겹치면서 조직을 재창조(Reinvention)하는 것이 어려워지고 있다.&nbsp;</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>‘2026 PwC 글로벌 직장인 설문조사(Global Workforce Hopes and Fears)’에 따르면, AI 확산과 업무 방식의 변화가 가속화되면서 직장인들의 경험과 미래 전망에도 뚜렷한 차이가 나타나고 있다. 이번 조사는 설문에 참여한 직장 근로자 약 5만여 명을 AI 활용 수준과 인재시장 경쟁력을 기준으로 네 개 인력 집단으로 구분해 분석했다. 높은 AI 활용 우위와 인재시장 경쟁력을 갖춘 AI 선도 인력(Front-runners), 조직의 운영과 성과를 실질적으로 뒷받침하는 핵심 실무 인력(Core Workforce), 높은 성장 잠재력과 AI 활용 의지를 가진 AI 개척 인력(AI Insurgents), 그리고 조직에 필수적인 전문성을 보유했지만 AI 활용 수준은 상대적으로 낮은 필수 전문 인력(Indispensables)이 그것이다.&nbsp;</p>
+<p>조사 결과는 이러한 집단 간 차이가 단순한 기술 활용 수준을 넘어 업무 만족도와 경력 전망, 조직에 대한 신뢰, 그리고 미래에 대한 기대감의 차이로 이어지고 있음을 보여준다. 특히 AI를 적극적으로 활용하는 AI 선도 인력은 높은 업무 의욕과 적응력을 바탕으로 새로운 성장 기회를 모색하며 미래를 낙관하는 경향이 강했다. 반면 조직의 다수를 차지하는 핵심 실무 인력은 일자리와 재정 상황에 대한 불안이 크고 성장과 학습의 기회에서 소외됐다고 느끼며, 조직 리더에 대한 신뢰도 역시 낮은 것으로 나타났다.&nbsp;</p>
+<p>이처럼 조직의 구성원들이 서로 다른 속도로 변화에 적응하는 양상은 기업에 새로운 과제를 던지고 있다. AI 선도 인력은 조직보다 더 민첩하고 유연하게 움직이며 변화와 혁신을 주도한다. 그러나 많은 조직은 여전히 혁신보다 신중함을 선호하고 이에 보상하는 경향이 있다. 그 결과 자신감과 실행력을 갖춘 AI 선도 인력 가운데 약 3분의 1은 향후 12개월 내 이직할 가능성이 매우 높다고 응답했다.&nbsp;</p>
+<p>반면 조직의 운영을 떠받치는 핵심 실무 인력은 변화 앞에서 불안을 느끼고 있다. 이들은 AI 경쟁에서 뒤처지고 있다고 인식하며, 새로운 역량을 개발할 충분한 지원을 받지 못한다고 느끼고 있다. 또한 관리자와 경영진에 대한 신뢰 수준도 상대적으로 낮다. 전 세계 직장인을 대상으로 한 이번 조사에서 경영진에 대한 신뢰도는 전년 대비 7%포인트 하락한 것으로 나타나, 조직 전반에 걸친 신뢰의 위기를 확인할 수 있다.&nbsp;</p>
+<p>한편, 참여한 직장인들의 답변을 분석한 결과에 따르면, 기업들이 AI에 막대한 투자를 단행하고 있음에도 불구하고, 구성원과 관리자가 변화에 적응하고 새로운 역량을 개발하며 기술을 혁신과 가치로 연결하도록 지원하는 데는 충분한 성과를 내지 못하고 있음을 알 수 있다. <a href="https://www.pwc.com/kr/ko/insights/global-trends/ceo-survey-2026.html">'PwC 글로벌 CEO 설문조사(Global CEO Survey)'</a>에서도 대다수 CEO 역시 아직 AI 투자에서 기대 수준의 재무적 성과를 확인하지 못했다고 답했다.&nbsp;</p>
+<p>기존 운영 모델에 AI를 접목하는 것만으로는 충분하지 않다. 지속적인 경쟁우위를 확보하기 위해서는 일하는 방식 자체를 근본적으로 재설계(rewire work) 해야 한다. 이는 인력 구조와 업무 방식의 전환이 더 이상 개별 조직의 선택이 아닌 경영과 경제 전반의 필수 과제가 되고 있음을 의미한다. 기술 투자의 성과는 이제 조직이 업무를 재설계하고 필요한 역량을 확보하며, 신기술을 생산성과 혁신, 성장으로 연결할 수 있는지에 달려 있다.&nbsp;</p>
+<p>'2026 글로벌 직장인 설문조사'는 이러한 전환을 성공적으로 이끌기 위해 리더들이 우선적으로 추진해야 할 세 가지 핵심 과제를 제시한다.&nbsp;&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>한국에 주는 시사점&nbsp;</th>
+</tr><tr><td><p>표본 규모의 한계로 일반화에는 주의가 필요하지만, 한국은 AI 선도 인력 비중(4%)이 글로벌 평균(14%)보다 낮고 핵심 실무 인력 비중(81%)은 글로벌 평균(56%)을 크게 상회하는 것으로 나타났다. 이는 AI 활용을 통해 높은 성과와 성장 기회를 경험하는 인력층이 다른 나라에 비해 상대적으로 제한적일 수 있음을 시사한다. </p>
+<p>향후 한국 기업들은 AI 선도 인력을 육성하는 것과 더불어, 다수를 차지하는 핵심 실무 인력이 변화에 참여하고 새로운 역량을 개발할 수 있도록 지원함으로써 AI 활용 우위와 성장 기회가 조직 전반으로 확산되도록 할 필요가 있다.</p>
+</td>
+</tr></tbody></table>
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+  <hr>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <ol>
+<li><a href="#make-tough-choices">AI 선도 인력과 핵심 실무 인력을 모두 성장시키기 위한 전략적 선택</a></li>
+<li><a href="#rewire-work">AI를 생산성과 성장으로 연결하기 위한 업무 재설계</a></li>
+<li><a href="#build-new-skills">변화의 속도에 맞춰 성장할 수 있도록 직원과 관리자의 역량을 강화하라</a></li>
+</ol>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>1.</small>
+                
+                    AI 선도 인력과 핵심 실무 인력을 모두 성장시키기 위한 전략적 선택
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>올해 조사에서는 직장 근로자의 AI 활용 우위(AI Advantage)를 측정했다. 이는 AI가 업무의 질과 창의성, 역량 향상, 그리고 조직에 대한 기여 가치 제고에 얼마나 도움이 되었는지를 의미한다. 또한 자신의 역량과 경험에 대한 시장 수요와 함께, 기업이 자신과 유사한 역량을 갖춘 인재를 확보하거나 육성하는 것이 얼마나 어렵다고 인식하는지도 조사했다.</p>
+<p>그리고 이 분석을 바탕으로 이들을 네 개 집단으로 구분했다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4><br/>
+인재 시장 경쟁력과 AI 활용 우위에 따라 나뉘는 네 가지 인력 집단</h4>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+<div>
+<ul>
+	
+	<li><a href="#root_container_content-free-container-1_section-2083947817_columncontrol-copy-c_par-0_tabshome0">AI 개척 인력</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-2083947817_columncontrol-copy-c_par-0_tabshome1">AI 선도 인력</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-2083947817_columncontrol-copy-c_par-0_tabshome2">핵심 실무 인력</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-2083947817_columncontrol-copy-c_par-0_tabshome3">필수 전문 인력</a>
+            </li>
+</ul>
+
+<!-- Tab panes -->
+
+
+<div>
+
+       <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>AI 개척 인력 (AI insurgents)</h4>
+<ul>
+<li><strong>특징</strong>: 전통적으로 희소한 인력에 속하지는 않지만, AI 활용을 통해 높은 성과와 경쟁력을 확보하고 있는 집단이다. 미래의 가치와 경쟁력이 어디에서 창출될 것인지에 대한 기존의 통념에 도전한다.</li>
+<li><strong>기업을 위한 시사점</strong>: 잠재력을 조기에 발굴하고 더 높은 가치 창출이 가능한 역할로 성장할 수 있는 기회를 제공해야 한다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>AI 선도 인력 (Front-runners)</h4>
+<ul>
+<li><strong>특징</strong>: 높은 인재시장 경쟁력과 강한 AI 활용 우위를 동시에 갖춘 인력이다. 자신감과 성장 의지가 높으며 시장에서의 가치도 지속적으로 높아지고 있다. 반면 승진과 보상에 대한 기대 수준이 높고, 더 나은 기회를 찾아 이직할 가능성도 가장 높다.</li>
+<li><strong>기업을 위한 시사점</strong>: 명확한 성장 경로와 자율성을 제공하고, AI 기반 업무 혁신을 함께 설계하는 역할을 부여함으로써 이들의 몰입과 유지(Retention)를 강화해야 한다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>핵심 실무 인력 (Core Workforce)</h4>
+<ul>
+<li><strong>특징</strong>: 조직 운영과 성과 창출을 실질적으로 뒷받침하는 다수의 인력이다. 그러나 AI 활용을 통해 얻는 효과가 낮고, 학습과 혁신, 미래 성장 기회와의 연결도 상대적으로 약하다.</li>
+<li><strong>기업을 위한 시사점</strong>: AI를 일상 업무와 실질적으로 연결하고, 자신감과 역량을 키울 수 있는 학습·성장 경로를 제공해야 한다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>필수 전문 인력(Indispensables)</h4>
+<ul>
+<li><strong>특징</strong>: 인재 시장에서 가장 높은 경쟁력을 지닌 역할에 종사하지만, AI 활용 우위는 제한적이거나 거의 없는 인력이다. 이들의 역량은 여전히 확보하거나 대체하기 어렵지만, AI 활용을 통한 성과 향상은 아직 충분히 이루어지지 않고 있다.</li>
+<li><strong>기업을 위한 시사점</strong>: 핵심 전문성을 보호하는 동시에, 각 역할에 맞춰 AI로부터 실질적인 가치를 얻을 수 있는 기회를 마련해야 한다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+
+</div>
+
+
+</div></div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>AI 선도 인력(Front-runners)은 전체 응답자의 14%를 차지하며, 높은 AI 활용 우위와 시장 수요가 큰 역량을 두루 갖추고 있다. 반면 핵심 실무 인력(Core Workforce)은 전체의 56%를 차지하며 조직 운영과 성과 창출을 실질적으로 뒷받침하는 중심 인력층이다. 다만, 다수를 차지하는 이 집단은 점점 더 큰 압박을 느끼고 있는 것으로 나타났다. 이들 사이에는 높은 성장 의지와 AI 활용도를 보이는 AI 개척 인력(AI Insurgents)과 조직에 필수적인 전문성과 경험을 갖추고 있지만 AI 활용 수준은 상대적으로 낮은 필수 전문 인력(Indispensables)이 위치한다.</p>
+<p>조사 결과는 이들 집단 간 차이가 단순한 기술 활용 수준에 그치지 않고 업무 경험과 미래 전망, 조직에 대한 신뢰 수준의 차이로 이어지고 있음을 보여준다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>AI 선도 인력은 변화에서 기회를 발견한다</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>AI 선도 인력은 네 개 집단 가운데 가장 높은 수준의 낙관성과 적응력을 보였다.</p>
+<p>이들 가운데 73%는 최근의 변화가 조직의 미래를 더욱 긍정적으로 바라보게 만들었다고 응답했으며, 85%는 새로운 방식의 업무에 적응할 준비가 되어 있다고 답했다.</p>
+<p>업무 몰입도 역시 매우 높았다. AI 선도 인력의 10명 중 9명은 업무에 대한 기대와 의욕을 갖고 있으며, 자신의 역할에 요구되는 수준을 넘어서는 성과를 창출하기 위해 기꺼이 노력하겠다고 응답했다. 또한 최고경영진에 대한 신뢰도는 75%, 직속 관리자에 대한 신뢰도는 82%로 전체 평균을 크게 상회했다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4><br/>
+근로자의 업무 몰입도는 전년 대비 높아졌으며, 모든 인력 집단에서 긍정적으로 나타났다.</h4>
+<p><strong>인력 집단별 업무 몰입도<br/>
+ </strong>질문. 귀하는 업무에 대해 다음과 같은 감정을 얼마나 자주 느끼십니까?<br/>
+<sup>(집단별로 주 1회 이상으로 답한 응답자 합계 비율)<br/>
+ </sup><br/>
+</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>이들이 높은 성과와 자신감을 보이는 이유는 개인 역량 때문만은 아니다.</p>
+<p>AI 선도 인력은 AI를 효과적으로 활용하는 구성원에게 보상하는 조직에서 근무할 가능성이 글로벌 평균보다 약 두 배 높았다. 또한 이들은 기존 업무 방식에 도전하는 행동에 대해 보상받을 가능성이 글로벌 평균 대비 1.5배, 새로운 역량을 학습하는 행동에 대해 보상받을 가능성이 1.2배 높은 것으로 나타났다.&nbsp;&nbsp; &nbsp;</p>
+<p>이는 AI 선도 인력이 단순히 변화에 잘 적응하는 집단이라기보다는, 학습과 실험, 혁신을 장려하는 조직 환경 속에서 성장하고 있음을 시사한다. 실제로 이들은 실수를 최소화하는 것보다 새로운 시도를 장려하는 조직에서 근무할 가능성이 더 높았다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4><br/>
+조직이 무엇에 보상하느냐가 인재 격차를 만든다.</h4>
+<p><strong>인력 집단 별 보상받는 행동<br/>
+</strong> 질문. 귀하의 조직에서 실제로 가장 중요하게 평가되고 보상받는 행동 또는 성과는 무엇입니까?<br/>
+<sup>(최대 3개 선택, 집단별 보상받는 행동을 전체 평균 대비하여 표시)</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p><br/>
+이러한 환경은 경력에 대한 자신감으로 이어진다. AI 선도 인력의 3분의 2는 향후 12개월 내 승진 또는 임금 인상을 요구할 가능성이 높다고 응답했으며, 85%는 자신의 고용 안정성에 대해 강한 자신감을 보였다.</p>
+<p>그러나 이들은 동시에 가장 이동성이 높은 집단이기도 하다. AI 선도 인력의 29%는 향후 1년 내 이직할 가능성이 매우 높거나 높다고 응답했으며, 이는 대다수 응답자들과 뚜렷한 대조를 이룬다.</p>
+<p>이러한 결과는 <a href="https://www.pwc.com/kr/ko/insights/global-trends/ai-jobs-barometer2026.html">'PwC 글로벌 AI 일자리 바로미터(Global AI Jobs Barometer)'</a>의 분석과도 맥을 같이한다. 해당 보고서는 AI가 일부 직무를 대체하기보다 더 높은 수준의 전문성과 판단력을 요구하는 방향으로 재편하고 있으며, 이에 따라 해당 직무의 가치와 보상 수준, 시장 수요도 함께 높아지고 있다고 지적한다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>핵심 실무 인력은 조직의 중심이지만 변화의 혜택을 충분히 누리지 못하고 있다 </p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>AI 선도 인력과 비교할 때 핵심 실무 인력의 경험은 뚜렷한 차이를 보인다.</p>
+<p>전체 참여자의 과반을 차지하는 핵심 실무 인력은 고객 대응과 운영, 서비스 제공 등 기업의 일상적인 성과 창출을 실질적으로 담당하는 중심 인력층이다. 그러나 이들은 학습과 혁신, 의미 있는 AI 활용 기회를 상대적으로 적게 경험하고 있다.</p>
+<p>또한 네 개 집단 가운데 변화에 대한 준비가 가장 부족한 것으로 나타났다. 고용 안정성에 자신감을 보인 응답자는 절반 수준에 그쳤으며, 최근의 변화가 조직의 미래를 긍정적으로 만들고 있다고 응답한 비율 역시 다른 집단에 비해 현저히 낮았다.</p>
+<p>이러한 경험은 올해 조사에서 나타난 또 다른 중요한 결과와 연결된다. 지난 3년 동안 자신과 같은 근로자의 노동시장 협상력이 약화됐다고 인식하는 응답자의 비율은 협상력이 강화됐다고 보는 응답자보다 약 두 배 많았다.</p>
+<p>핵심 실무 인력은 재정적으로도 상당한 부담을 겪고 있다. 자신이 정당한 수준의 보상을 받고 있다고 생각하는 비율은 3분의 1에 불과했으며, 매달 생활비와 각종 지출을 충당한 후에도 여유 자금이 남는다고 응답한 비율은 이보다 더 낮았다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4><br/>
+2026년 근로자들의 재정적 부담이 증가했다.</h4>
+<p><strong>가계 재정 상황<br/>
+ </strong>질문. 다음 중 현재 귀하의 재정 상황을 가장 잘 설명하는 것은 무엇입니까?<br/>
+<sup>('응답 거부’를 제외한 재정 상황별 응답자 비율)<br/>
+&nbsp;</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>전체 직장 근로자 기준으로도 재정적 압박은 확대되고 있는 것으로 보인다. 생활비와 각종 지출을 충당한 후 여유 자금이 남는다고 답한 응답자는 34%에 불과했으며, 이는 전년 대비 8%포인트 감소한 수치다. 또한 전체 응답자의 62%는 지난 1년 동안 생활비 상승이 업무에 중대한 영향을 미쳤다고 응답했다.</p>
+<p>그럼에도 불구하고 핵심 실무 인력의 업무 몰입도는 여전히 높다. 이들 가운데 3분의 2는 자신의 업무에 자부심을 느끼며, 조직의 성공을 위해 추가적인 노력을 기울일 의향이 있다고 답했다.</p>
+<p>반면 리더십에 대한 신뢰는 낮았다. 최고경영진을 신뢰한다고 응답한 비율은 33%, 직속 관리자를 신뢰한다고 응답한 비율은 40%에 그쳤다.</p>
+<p>이 같은 결과는 조직 전반의 신뢰 하락으로 이어지고 있다. 전체 응답자의 경영진 신뢰도는 전년 대비 7%포인트 하락했으며, 현재 최고경영진을 신뢰한다고 응답한 비율은 절반에도 미치지 못한다.&nbsp;<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4><br/>
+집단별로 리더십 신뢰도 차이가 뚜렷하다.</h4>
+<p><strong>경영진에 대한 신뢰도 추이</strong><br/>
+질문. 다음 문장에 어느 정도 동의하거나, 동의하지 않으십니까?<br/>
+<sup>(‘대체로 동의한다’ 또는 ‘매우 동의한다’고 답한 응답자 비율)</sup><br/>
+</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><strong><br/>
+직속 관리자에 대한 신뢰도</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><strong><br/>
+최고경영진에 대한 신뢰도</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>AI 개척 인력과 필수 전문 인력에도 주목해야 한다 </p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>모든 직장인 근로자가 AI 선도 인력 또는 핵심 실무 인력에 속하는 것은 아니다.</p>
+<p>기업은 특히 AI 개척 인력(AI Insurgents)과 필수 전문 인력(The Indispensables) 에 주목할 필요가 있다.</p>
+<p>AI 개척 인력은 네 개 집단 가운데 주간 AI 활용도가 가장 높고 성장 의지가 강한 차세대 인재군이다. 반면 필수 전문 인력은 조직에 필요한 전문성과 경험을 보유하고 있으며 새로운 업무 방식에도 비교적 유연하게 적응할 준비가 되어 있지만, 실제 AI 활용 경험은 상대적으로 적다.</p>
+<p>이들 두 집단의 경영진에 대한 신뢰 수준은 AI 선도 인력과 핵심 실무 인력의 중간 수준에 위치한다.&nbsp;</p>
+<p>이들이 미래를 성장과 기회의 방향으로 받아들일지, 아니면 불안과 위축의 방향으로 이동할지는 리더의 선택과 조직의 지원에 달려 있다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4><br/>
+직원 경험의 격차가 신뢰와 성과의 격차로 이어진다.</h4>
+<p><strong>인력 집단별 직원 경험</strong><br/>
+고용 안정성은 ‘매우 확신한다’ 또는 ‘전적으로 확신한다’고 응답한 비율이며, 나머지 항목은 ‘매우 동의한다’와 ‘전적으로 동의한다’를 합산하여 전체 평균에 대한 유형별 비율을 나타냄<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>Your next move&nbsp;<br/>
+<strong>기업이 우선 추진해야 할 과제</strong></h4>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>리더들은 이제 쉽지 않은 선택을 해야 한다.</p>
+<p>실수 회피보다 실험과 혁신을 장려하는 방향으로 보상 체계를 전환하고, 기존 업무 방식을 강화하는 성과관리 체계를 재설계해야 한다. 또한 관리자가 새로운 업무 방식을 설계하고 실행할 수 있도록 더 많은 권한을 부여해야 한다.</p>
+<p>아울러 학습을 기존 업무에 추가되는 활동으로 취급하기보다, 구성원들이 실제로 역량 개발에 투자할 수 있는 시간과 환경을 마련해야 한다.</p>
+<p>무엇보다 중요한 것은 모든 구성원에게 동일한 인재 관리 방식을 적용하지 않는 것이다.&nbsp;</p>
+<p>기업은 각 인력 집단이 중요하게 생각하는 가치와 동인을 이해해야 하며, 선호도 분석(Preference Analytics) 등을 활용해 역할 설계, 역량 개발, 신뢰 구축, 성과관리, 보상 체계 등 직원 경험 전반을 보다 정교하게 설계할 필요가 있다.</p>
+<p>AI 선도 인력의 몰입과 성장을 이끌어내기 위해서는 이들을 AI 기반 업무 재설계의 중심에 두고 충분한 자율성과 혁신의 기회, 명확한 성장 경로를 제공해야 한다.</p>
+<p>반면 핵심 실무 인력에게는 업무 부담을 늘리지 않는 학습 및 재교육 기회가 필요하다. 또한 재정적 압박을 완화하고 변화에 적응할 수 있도록 실질적인 지원을 제공해야 한다.</p>
+<p>AI 개척 인력과 필수 전문 인력에게는 또 다른 접근이 요구된다. 예를 들어 AI 개척 인력이 창출하는 새로운 가치를 적극적으로 인정하고, 필수 전문 인력이 축적한 전문성을 AI와 결합할 수 있도록 지원해야 한다.&nbsp;</p>
+<p>궁극적으로 기업의 과제는 특정 집단만을 육성하는 것이 아니라 서로 다른 인력 집단이 변화에 함께 참여하고 성장할 수 있는 환경을 만드는 데 있다. AI 시대의 경쟁력은 기술 자체가 아니라 사람과 업무를 얼마나 효과적으로 재설계하느냐에 달려 있다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>2.</small>
+                
+                    AI를 생산성과 성장으로 연결하기 위한 업무 재설계 
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>AI 도입은 빠르게 확산되고 있다. 전체 응답자의 64%가 지난 12개월 동안 업무에 AI를 활용했다고 답했으며, 이는 전년 대비 10%포인트 증가한 수치다. 생성형 AI를 매일 사용한다고 답한 비율도 같은 기간 14%에서 22%로 늘어났다. 이러한 추세는 앞으로도 이어질 것으로 보인다. 전체 응답자의 59%는 향후 12개월 동안 업무에서 AI 도구 활용이 증가할 것으로 예상했다.</p>
+<p>특히 AI를 적극적으로 활용하는 직장 근로자들은 AI를 통해 업무 수행의 효율성과 역량이 향상됐다고 느끼고 있으며, 더 큰 자신감과 주도성을 보이고 있다.</p>
+<p>AI 선도 인력 집단에서는 절반 이상이 생성형 AI를 매일 사용한다고 답한 반면, 핵심 실무 인력에서는 그 비중이 11%에 그쳤다. 실제로 핵심 실무 인력의 과반은 AI를 한 번도 사용해 본 적이 없다고 응답했다.</p>
+<p>이러한 격차는 단순한 기술 활용 수준의 차이를 넘어 근로자 경험의 차이로 이어지고 있다. AI 활용도가 높은 근로자일수록 업무에 대한 만족도와 미래에 대한 자신감이 높게 나타났다. 생성형 AI를 매일 사용한다고 답한 응답자 가운데 68%는 자신의 고용 안정성에 대해 매우 또는 매우 높은 수준의 자신감을 보였다.&nbsp;</p>
+<p>이 같은 자신감에는 충분한 근거가 있다. <a href="https://www.pwc.com/kr/ko/insights/global-trends/ai-jobs-barometer2026.html">'PwC 글로벌 AI 일자리 바로미터(Global AI Jobs Barometer)'</a> 에 따르면, AI 역량을 보유한 근로자의 임금 프리미엄은 62%에 달하며, 이는 2025년 57%보다 더욱 확대된 수준이다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>AI 는 두려움보다 기대감을 불러일으키고 있다.</h4>
+<p><strong>업무에서 AI 사용 증가에 대한 근로자들의 인식<br/>
+ </strong>질문. 업무에서 AI 사용이 증가하는 것에 대해 어떤 감정을 느끼십니까?<br/>
+<sup>(향후 12개월 동안 업무상 AI 사용이 증가할 것으로 예상한 응답자 대상으로 조사)<br/>
+<br/>
+</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>생성형 AI를 매일 사용하는 근로자들은 AI를 자신의 업무를 대체하는 수단이 아니라, 전문성과 성과를 높이는 도구로 활용하고 있다. 다시 말해 AI를 통해 직무를 보다 높은 수준의 전문성과 판단력을 요구하는 방향으로 고도화하고 있는 것이다.</p>
+<p>실제로 생성형 AI를 매일 사용한다고 답한 응답자의 34%는 AI가 자신의 업무에서 가장 복잡하고 어려운 과업을 수행하는 데 도움이 된다고 답했다. 이는 전체 AI 이용응답자 평균인 29%를 상회하는 수치다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>AI를 자주 사용하는 근로자일수록, AI를 단순 자동화보다 역량 강화를 위한 도구로 활용한다.</h4>
+<p><strong>AI가 업무에 미친 영향</strong><br/>
+질문. AI가 귀하의 업무 수행 방식에 어떤 변화를 가져왔다고 생각하십니까?<br/>
+<sup>(지난 12개월 동안 업무에서 AI를 사용했다고 응답한 근로자를 사용 빈도에 따라 나누어 응답비율 표시)<br/>
+&nbsp;</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>그러나 AI 활용도가 높다고 해서 AI를 무조건 신뢰하는 것은 아니다. 오히려 AI를 많이 사용하는 근로자일수록 기술의 강점과 한계를 보다 정확하게 이해하고 있었다.</p>
+<p>생성형 AI를 매일 사용하는 응답자의 31%는 AI 활용의 가장 큰 장애 요인으로 '정확성과 품질에 대한 우려'를 꼽았다. 이는 전체 평균보다 6%포인트 높은 수치다. AI를 가장 적극적으로 활용하는 집단일수록 AI의 한계를 가장 잘 인식하고 있는 셈이다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>AI를 가장 많이 사용하는 근로자들이 AI의 정확성과 품질을 가장 우려한다.</h4>
+<p><strong>생성형 AI 사용 빈도별 AI 활용 장애 요인</strong><br/>
+질문. 귀하가 업무에 AI를 더 적극적으로 활용하지 못하게 하는 가장 큰 장애 요인은 무엇입니까?<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>Your next move&nbsp;<br/>
+<strong>기업이 우선 추진해야 할 과제</strong></h4>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>기업은 직원의 높은 AI 수용도를 실질적인 가치 창출로 연결해야 한다. 이를 위해서는 단순히 AI 도구 사용을 늘리는 데 그쳐서는 안 된다. 진정한 성과는 AI를 기존 업무에 추가하는 것이 아니라, AI를 중심으로 일하는 방식 자체를 재설계할 때 창출된다.</p>
+<p><a href="https://www.pwc.com/kr/ko/insights/global-trends/ai-performance.html">PwC의 'AI 성과 분석 보고서 (AI Performance Study)'</a>에 따르면, 전체 기업 가운데 상위 20% 기업이 AI를 통해 창출되는 성과의 74%를 차지하고 있는 것으로 나타났다.</p>
+<p>이들 선도 기업은 다른 기업에 비해 직원들이 AI를 활용해 실험하고 새로운 방식을 시도하도록 장려하는 성과보상 체계를 운영할 가능성이 1.9배 높았다. 또한 직무별 특성에 맞춘 AI 교육을 지속적으로 제공할 가능성은 1.7배, AI를 기존 프로세스에 단순히 추가하는 대신 업무 흐름 자체를 재설계할 가능성은 2.2배 높게 나타났다.</p>
+<p>그 결과 AI 활용에 가장 적합한 조직은 다른 기업보다 AI 기반 성과가 7.2배 높은 것으로 분석됐다.&nbsp;</p>
+<p>이는 앞서 살펴본 AI 선도 인력의 특징과도 일맥상통한다. AI를 통해 높은 성과를 창출하는 조직은 단순히 기술을 많이 보유한 조직이 아니라, 학습과 실험, 새로운 방식의 업무 수행을 장려하는 조직이다.</p>
+<p>AI 활용에 능숙한 근로자들이 보여주는 높은 활력과 자신감은 기업에 중요한 기회가 될 수 있다. 필요한 영역에서 AI 활용을 확대하고, 이를 혁신과 실험을 장려하는 조직문화와 결합한다면 AI 투자의 효과는 훨씬 커질 수 있다.</p>
+<p>PwC의 최근 <a href="https://www.pwc.com/gx/en/1/issues/c-suite-insights/ceo-survey/snapshot-august-2026.html">'CEO Survey Snapshot'</a> 역시 같은 결론을 제시한다. AI 역량과 인간의 판단력을 효과적으로 결합한 기업일수록 더 빠르게 선택지를 검토하고, 더 신속하게 가치를 창출할 수 있는 것으로 나타났다.</p>
+<p>결국 가장 높은 성과는 더 많은 AI 도구나 에이전트, 파일럿 프로젝트를 운영할 때가 아니라 인간만이 제공할 수 있는 고유한 판단과 전문성, 그리고 신뢰할 수 있는 인간·AI 협업을 중심으로 업무와 역할, 운영 모델을 재설계할 때 창출된다.&nbsp;</p>
+<p>또한 AI 활용 수준이 상대적으로 낮은 인력 집단에 대해서도 보다 적극적인 지원이 필요하다.</p>
+<p>예를 들어 필수 전문 인력은 조직에 중요한 전문성과 경험을 보유하고 있지만 실제 AI 활용 경험은 상대적으로 적다. 기업은 이들이 AI 활용 실험에 참여할 수 있도록 지원함으로써 기존 전문성을 새로운 가치 창출로 연결할 수 있다.</p>
+<p>궁극적으로 AI 시대의 경쟁력은 기술 자체에 있지 않다. AI를 단순한 도구로 바라보는 기업은 AI 활용과 그에 따른 비용을 실질적인 가치로 전환하는 데 어려움을 겪을 수 있다.</p>
+<p>반면 AI를 중심으로 업무와 역할, 운영 방식을 근본적으로 재설계하는 기업은 생산성과 혁신, 그리고 성장이라는 실질적 성과를 보다 빠르게 실현할 수 있을 것이다.&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                <small>3.</small>
+                
+                    변화의 속도에 맞춰 성장할 수 있도록 직원과 관리자의 역량을 강화하라 
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>조직이 대규모 변화를 추진하는 과정에서 많은 직장인과 관리자들은 변화의 속도를 따라가는 데 어려움을 겪고 있다.</p>
+<p>변화를 경험한 응답자 가운데 34%는 지난 1년 동안 이전보다 더 많은 변화를 겪었다고 응답했다. 또한 응답자 5명 중 1명은 변화에 효과적으로 대응하기 어렵거나 변화가 필요한 이유를 충분히 이해하지 못한다고 답했다. 피로감과 번아웃 역시 여전히 중요한 과제로 남아 있다. 전체 응답자의 27%는 번아웃과 피로가 생산성을 저해하는 주요 요인이라고 응답했다. 고용 안정성을 위협하는 최대 요인으로는 AI가 더 많은 업무를 대체하는 것(44%)보다 경제 변동성(57%)을 꼽은 응답자가 더 많았다. 특히 Z세대는 이러한 모든 항목에서 다른 세대보다 높은 불안감을 보였다.</p>
+<p>인력 집단별로 살펴보면 흥미로운 차이가 나타난다.</p>
+<p>AI 선도 인력은 다른 어떤 집단보다 빠른 속도로 변화를 경험하고 있다. 이들 가운데 약 3분의 2는 이전보다 더 빠른 변화를 경험했다고 답했다. 또한 대다수는 새로운 역량을 습득해 업무에 적용했으며, 새로운 도구를 익히고 업무량 증가와 역할 변화, 팀 구조 변화까지 경험한 것으로 나타났다.&nbsp;</p>
+<p>이들은 전반적으로 높은 동기와 낙관성을 보이고 있지만, 동시에 절반 가까운 응답자가 변화 관리에 어려움을 느끼고 있다고 답했다. 이는 가장 앞서가는 인재들조차 변화의 부담에서는 자유롭지 않다는 점을 보여준다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>AI 선도 인력은 업무에서 많은 변화를 경험하고, 이를 긍정적으로 받아들인다.</h4>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>반면 핵심 실무 인력은 상대적으로 적은 변화를 경험했다. 지난 1년 동안 더 빠른 변화를 경험했거나 새로운 역량을 습득하고 새로운 도구를 활용했다고 응답한 비율은 약 4분의 1 수준에 머물렀다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>학습과 성장 기회에서도 집단 간 격차가 나타난다.</h4>
+<p><strong>인력 유형별 학습 및 역량 개발 경험</strong><br/>
+질문. 다음 문장에 대해 어느 정도 동의하십니까?<br/>
+<sup>(‘대체로 동의한다’ 또는 ‘매우 동의한다’고 답한 응답자 비율)&nbsp;&nbsp;<br/>
+&nbsp;</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>그러나 변화가 적다고 해서 더 안정감을 느끼는 것은 아니다. 오히려 많은 핵심 실무 인력은 조직 내 변화가 자신들을 비켜 가고 있다고 느끼고 있었다. 실제로 최근의 변화가 조직의 미래를 더욱 긍정적으로 바라보게 만들었다고 응답한 비율은 20%에 불과했다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>직장 내 변화 속도가 빨라짐에 따라 학습과 역량 개발은 더 이상 선택이 아닌 업무의 일부가 되고 있다. </p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>전체 응답자의 88%는 지난 1년 동안 업무에 새로운 역량을 적용했다고 답했으며, 40%는 그 정도가 매우 크거나 상당한 수준이라고 답했다.</p>
+<p>또한 전체 응답자의 64%는 업무 수행을 위해 새로운 도구와 기술을 익혀야 했다고 답했으며, 이 가운데 36%는 그 정도가 매우 크거나 상당한 수준이라고 답했다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>역량 개발은 선택이 아니라 필수가 됐다.</h4>
+<p><strong>지난 12개월 동안 경험한 변화<br/>
+</strong> 질문. 다음 문장이 지난 12개월 동안 귀하의 역할에서 경험한 변화를 어느 정도 설명합니까?&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>예상대로 AI를 적극 활용하는 근로자일수록 역량 개발 속도도 빨랐다. <a href="https://www.pwc.com/kr/ko/insights/global-trends/ai-jobs-barometer2026.html">'PwC 글로벌 AI 일자리 바로미터(Global AI Jobs Barometer)'</a>에 따르면 AI의 영향을 많이 받는 직무에서 기업이 요구하는 역량은 AI 영향이 적은 직무보다 두 배 이상 빠르게 변화하고 있다.</p>
+<p>배움은 이제 업무의 일부가 됐지만, 많은 직장들은 이를 뒷받침할 지원이 충분하지 않다고 느끼고 있다.</p>
+<p>새로운 역량을 개발할 수 있다고 응답한 비율은 61%였지만, 앞으로 필요한 역량이 무엇인지 이해한다고 답한 비율은 49%, 학습 및 역량 개발 자원에 접근할 수 있다고 답한 비율은 51%에 그쳤다.</p>
+<p>집단별 차이는 더욱 뚜렷했다. 학습 및 역량 개발 자원에 접근할 수 있다고 응답한 비율은 핵심 실무 인력에서 40%에도 미치지 못한 반면, AI 선도 인력에서는 80%에 가까운 수준으로 나타났다.&nbsp;<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>변화를 이끄는 관리자들 역시 상당한 부담을 느끼고 있다. </p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>관리자와 임원은 조직 변화에 적응하는 동시에 구성원들이 변화에 대응하도록 지원해야 한다. 그러나 이들 스스로도 높은 수준의 스트레스와 불확실성을 경험하고 있는 것으로 나타났다.</p>
+<p>실제로 임원의 31%, 관리자의 24%는 변화 관리에 어려움을 겪고 있다고 응답했다.</p>
+<p>또한 관리자들은 팀의 몰입을 유지하고 조직 내 분절화를 방지해야 하는 상황에서 별도의 압박을 경험하고 있다. 관리자들의 고용 안정성에 대한 자신감은 전년 대비 6%포인트 하락했으며, 이는 일반 직원층에서 나타난 변화보다 훨씬 큰 폭이다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>경영진은 변화를 긍정적으로 바라보는 동시에 부담도 느끼고 있다.</h4>
+<p><strong>직급별 변화에 대한 인식</strong><br/>
+지난 12개월 동안 귀하의 역할에서 경험한 변화를 생각할 때, 다음 문장에 대해 어느 정도 동의하십니까?<br/>
+<sup>(‘대체로 동의한다’ 또는 ‘매우 동의한다’고 답한 응답자 비율)<br/>
+&nbsp;</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sub>Source: PwC’s Global Workforce Hopes and Fears Survey 2026</sub></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+  <hr>
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>Your next move&nbsp;<br/>
+<strong>기업이 우선 추진해야 할 과제</strong></h4>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>급변하는 경영 환경에서 경쟁력을 유지하기 위해서는 단순한 개선(optimization)이 아니라 재창조(reinvention)가 필요하다.</p>
+<p>기업은 가치를 창출하고 확보하며 전달하는 방식을 근본적으로 재검토해야 한다. 이는 새로운 수익원을 발굴하고, 고객 경험을 재정의하며, 디지털 기반의 새로운 제품과 서비스를 개발하는 것을 의미한다.</p>
+<p>그러나 재창조 전략은 이를 실행할 수 있는 인력이 뒷받침되어야만 성공할 수 있다.</p>
+<p>기업이 새로운 성장 기회를 모색하고 AI 기반 비즈니스 모델을 확대하는 과정에서 인력의 역량과 학습 능력, 그리고 변화에 대한 자신감은 전략 실행을 가속하는 요소가 될 수도 있고 성장의 제약 요인이 될 수도 있다.</p>
+<p>특히 관리자에 대한 투자가 중요하다.</p>
+<p>관리자는 변화의 수혜자가 아니라 변화의 전달자다. 따라서 관리자의 회복탄력성(resilience)을 높이고 변화 대응 역량을 강화하면 조직 전체가 불확실성에 보다 효과적으로 대응할 수 있다.</p>
+<p><a href="https://www.pwc.com/kr/ko/insights/global-trends/ceo-survey-2026.html">'PwC 글로벌 CEO 설문조사(Global CEO Survey)'</a>에 따르면 AI와 혁신, 새로운 운영 모델을 기반으로 재창조를 가장 적극적으로 추진하는 기업들이 다른 기업보다 우수한 성과를 창출하고 있는 것으로 나타났다.</p>
+<p>재창조는 조직만 빠르게 움직인다고 해서 성공하지 않는다. 조직 구성원들이 그 속도를 따라갈 수 있는 역량과 자신감을 갖춰야 한다.</p>
+<p>이를 위해서는 직원들과 관리자 모두 변화가 자신의 역할에 어떤 영향을 미치는지 이해해야 하며, 새로운 환경에 적응하는 데 필요한 역량을 개발할 수 있어야 한다. 또한 불확실한 환경 속에서도 조직이 올바른 방향으로 나아가고 있다는 신뢰를 가질 수 있어야 한다.</p>
+<h6>구성원들이 서로 다른 속도로 변화에 적응하는 양상은 이러한 과제를 더욱 복잡하게 만든다.<br/>
+&nbsp;</h6>
+<p>AI 선도 인력의 대다수는 생성형 AI를 매일 활용하며 끊임없이 새로운 역량을 개발하고 있다. 이들은 자신이 성장하고 성과를 내며 새로운 기회를 만들어낼 수 있다고 믿는다. 조직이 이들의 속도를 따라가지 못한다면, 이들은 더 혁신적이고 더 많은 기회를 제공하는 조직으로 이동할 가능성이 높다.</p>
+<p>반면 기업은 동시에 고객 서비스를 제공하고 조직 운영을 실질적으로 뒷받침하는 핵심 실무 인력의 불안과 부담에도 주목해야 한다. 이들에게는 새로운 역량을 개발할 시간과 기회가 필요하다. 또한 관리자의 지원과 미래에 대한 확신이 필요하다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h4>&lt; 조사 개요&gt;</h4>
+<p><strong>2026 PwC 글로벌 직장인 설문조사(Global Workforce Hopes and Fears Survey)</strong>은 2026년 5월과 6월, 48개 국가·지역 및 29개 산업 분야의 근로자 49,364명을 대상으로 실시됐다. 보고서에 사용된 수치는 각 국가·지역의 취업 인구 성별 및 연령 분포를 반영해 가중치를 적용했으며, 이를 통해 주요 지역 전반의 근로자 의견을 폭넓게 대표할 수 있도록 했다.</p>
+<h6>업무 몰입도(Motivation) 측정 방법</h6>
+<p>근로자의 업무 몰입도를 분석하기 위해 응답자들에게 업무에 대한 자부심, 역할에 요구되는 수준을 넘어 기여할 의향, 그리고 출근과 업무에 대한 기대감 등을 질문했다.</p>
+<p>이후 요인분석(Factor Analysis)을 활용해 응답 결과를 통합하고, 전반적인 업무 몰입 수준을 나타내는 <strong>업무 몰입도 지수(Motivation Index)</strong>를 산출했다.</p>
+<p>응답자는 전 세계 점수 분포를 기준으로 구분했으며, 상위 25%는 <strong>고몰입 집단</strong>, 하위 25%는 <strong>저몰입 집단</strong>으로 분류했다. 본 지수는 2025년 조사와 동일한 방법론을 적용했다.</p>
+<h6>인력 집단(Workforce Archetype) 분류 방법</h6>
+<p>인력 집단을 도출하기 위해 두 개의 지수를 활용했다.</p>
+<p>첫 번째는 <strong>인재시장 경쟁력(Talent-Market Advantage) </strong>지수로, 해당 직무에 대한 시장 수요와 보유 역량의 희소성, 그리고 해당 역량을 확보하거나 대체하기 어려운 정도를 기준으로 산출했다.</p>
+<p>두 번째는 <strong>AI 활용 우위(AI Advantage)</strong> 지수로, AI가 업무 품질, 창의성, 역량 개발, 그리고 조직에 대한 기여 가치 향상에 얼마나 도움이 되었는지를 기준으로 측정했다.</p>
+<p>인재시장 경쟁력 점수는 세 개 그룹으로 구분한 후 하위 두 그룹을 하나로 묶어 <strong>낮은 인재시장 경쟁력 집단</strong>으로 분류했다. AI 활용 우위는 AI 이용자를 고·저 그룹으로 나누고, AI 비이용자는 <strong>낮거나 없는 AI 활용 우위 집단</strong>에 포함했다.</p>
+<p>이 두 가지 축을 결합해 다음 네 가지 인력 집단을 도출했다.</p>
+<ul>
+<li><strong>AI 선도 인력(Front-runners)</strong></li>
+<li><strong>핵심 실무 인력(Core Workforce)</strong></li>
+<li><strong>AI 개척 인력(AI Insurgents)</strong></li>
+<li><strong>필수 전문 인력(Indispensables)</strong></li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+    
+
+<div>
+	<div>
+		<h2>PwC Global</h2>
+		<h3>Global Workforce Hopes and Fears Survey 2026</h3>
+	</div>
+	<div>
+		<div><a href="https://www.pwc.com/gx/en/1/issues/workforce/hopes-and-fears.html">Explore
+</a>
+
+
+    
+
+</div>
+
+		
+	</div>
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>성공적인 크로스보더 M&amp;A를 위한 4가지 전략 | 삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/industry-focus/cross-border-mna.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/industry-focus/cross-border-mna.html</guid>
 			<pubDate>Mon, 28 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[글로벌 M&A 시장의 재도약 속에서 한국 기업이 성공적인 크로스보더 M&A를 추진하기 위해 반드시 갖춰야 할 4가지 핵심 전략을 제시합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  
+                  <h1>성공적인 크로스보더 M&amp;A를 위한 4가지 전략</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/glob/dpe/en/secondary-support-images/desktop/pwc-gx-analytics-presentation-2817481g0-1600x900-aigenerated.jpg" alt="background image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>September 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      
+   
+
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/cross-border-mna/_jcr_content/root/container/content-free-container-1/section_1161425850/reference_xf_4272059.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/global-trend-kr/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+:root {
+	--theme-color-primary: #fd5108;
+}
+
+#wrapper {
+	/* Next move styling */
+	.nextmove {
+		strong {
+			color: var(--theme-color-primary);
+		}
+		.pwccol1-longform-c0 .cmp-container {
+			padding: 0 0 0 18px;
+			border-left: 4px solid var(--theme-color-primary);
+		}
+		
+		.text-component {
+			padding-right: 10px !important;
+		}
+
+
+        /* PC 화면(768px 이상)에서만 적용 */
+        @media (min-width: 768px) {
+
+            /* --- 1. 이미지 정렬 문제 해결 --- */
+            /* .nextmove 내부의 이미지 컴포넌트는 상위 스타일의 강제 중앙 정렬을 해제합니다. */
+            .image, .image .img-alignment-left {
+                display: block !important; /* display:table을 해제 */
+                margin-left: initial !important; /* auto 마진을 해제하여 원래 정렬을 따르도록 함 */
+                margin-right: initial !important;
+                max-width: 100% !important; /* 컨테이너 너비에 맞게 조정 */
+            }
+
+            /* --- 2. 1단 컬럼 너비 문제 해결 --- */
+            /* .nextmove 내부의 1단 컬럼 자체의 너비 제한을 해제하여 꽉 채웁니다. */
+ .pwccol1-longform-c0 {
+                max-width: 760px !important; /* 다른 컴포넌트와 동일한 최대 너비로 강제 */
+                width: 100% !important;      /* 시스템의 % 너비를 덮어쓰기 위함 */
+                margin-left: auto !important;  /* 중앙 정렬 */
+                margin-right: auto !important;
+            }
+
+            /* .nextmove 내부 다른 컴포넌트들도 760px 너비 제한을 해제하고 컨테이너에 맞춤 */
+            .quote-component, .inlinequote, .quote, .table, .statbar2-container, .chart-v2, .textimage {
+                max-width: 100% !important; /* 760px 제한 해제 */
+                width: 100% !important;
+                margin-left: 0 !important; /* 중앙 정렬 해제 */
+                margin-right: 0 !important;
+            }
+        }
+	}
+}
+
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
+	content: 'insight Custom css / Nextmove 포함 / Colum x - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div><!-- SDI include (path: /content/pwc/kr/ko/insights/industry-focus/cross-border-mna/_jcr_content/root/container/content-free-container-1/section_copy_592731132/authors.dynamic.html, resourceType: pwc/components/modernized/content/authors) -->
+
+
+    
+
+
+    
+    <section>
+        <div>
+            
+                <div>
+                    
+                        
+                            
+    
+        
+        
+            
+            <div>
+                <div>
+                    
+
+                    <img src="https://www.pwc.com/kr/ko/contact/david-sim.png.pwcimage.105.105.jpg" alt="심건 Partner"/>                    
+                    <div>
+                        <p>
+                            
+            
+                            
+                                
+                                    심건 Partner
+                                
+                            
+                        </p>
+                        <div>
+                            <p>Samil PwC, South Korea</p>
+                        </div>
+                        <div>
+                            
+                            
+                            
+                                <a href="javascript:void(0);">Email</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+    
+
+                        
+                    
+                </div>
+            
+            
+        </div>
+    </section>
+    
+      function openContactUrl(contactLink,firstName,lastName,encodedPath,hasPageLink) {
+      	var url = "";
+      	if("true" === hasPageLink){
+      	 url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/cross\u002Dborder\u002Dmna\x26style=pwc\x26territory=kr" + "&contactLink=" + contactLink;
+      	}
+      	else{
+      	url = "\/kr\/ko\/content\/pwc\/global\/forms\/contactUsNew.html?parentPagePath=\/content\/pwc\/kr\/ko\/insights\/industry\u002Dfocus\/cross\u002Dborder\u002Dmna\x26style=pwc\x26territory=kr" +  "&cf=true" + "&contactLink=" + encodedPath;
+      	}
+
+          if(digitalData  && digitalData.page && digitalData.page.content.contentFullPath){
+      		var parentPagePath = digitalData.page.content.contentFullPath;
+      		parentPagePath = parentPagePath.split(".html")[0];
+      		if(!url.includes(parentPagePath)){
+      		url = url+"&parentPagePath="+parentPagePath;
+      		}
+      	}
+          createObject('contactUs.formState','origination');
+          createObject("contactUs.expertName",firstName+" "+lastName);
+          window.location.href = url;
+          return false;
+      }
+
+   
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <p>글로벌 인수합병(M&amp;A) 시장이 다시 성장 국면에 진입하고 있다. 인공지능(AI), 반도체, 에너지 전환 등 산업 전반의 구조적 변화가 가속화되면서 기업들이 새로운 성장 동력을 확보하고 경쟁력을 강화하기 위한 수단으로 M&amp;A를 적극 활용하고 있기 때문이다.<br/>
+<br/>
+최근 네덜란드 화학기업 악조노벨(Akzo Nobel)과 글로벌 페인트 기업 엑솔타(Axalta)는 약 250억 달러 규모의 합병을 발표했다. 이처럼 100억 달러 이상의 메가딜이 잇따르고, 500억 달러 이상의 기가딜도 6건 성사되며 올해 상반기 글로벌 M&amp;A 규모는 전년 동기 대비 44% 증가했다. 아시아 시장도 활기를 띠면서 일본의 올해 상반기 M&amp;A 거래 건수는 2600건을 웃돌며 사상 최대치를 기록했다. 대표적인 예로 활발한 크로스보더(국경 간 거래) M&amp;A 전략을 추진해 온 일본 보험사 도쿄마린홀딩스(Tokio Marine Holdings)는 사이버보안 분야 등을 중심으로 약 1조 달러 규모를 투자하겠다고 발표했다.<br/>
+&nbsp;</p>
+<h5>한국 크로스보더 M&amp;A 동향 (2016-2026 YTD)*</h5>
+
+    </div>
+
+
+    
+
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>*투자유치, 국내기업의 해외법인 인수, 계열사 간 내부거래 및 인프라·부동산 거래를 제외한 경영권 인수 목적의 M&amp;A 기준 (거래규모 USD100mn 이상, 종결 거래 기준)<br/>
+Sources: Delogic, Mergermarket, PwC analysis</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h3><b><br/>
+명확한 M&amp;A 목적과 인수 기준 설정</b></h3>
+<p>이러한 변화는 한국 기업에도 중요한 시사점을 준다. 기술 확보와 글로벌 시장 진출, 공급망 다변화, AI 생태계 편입이 기업 경쟁력의 핵심 요소로 부상하면서 크로스보더 M&amp;A는 필수적인 성장 전략으로 자리 잡고 있다. 다만 해외 기업 인수는 국내 거래와 달리 법규, 문화, 인력, 경영 환경 등 다양한 변수를 수반한다. 그렇다면 성공적인 크로스보더 M&amp;A를 위해 기업들은 무엇을 고려해야 할까.<br/>
+<br/>
+첫째, M&amp;A의 목표와 인수 기준을 명확히 설정해야 한다. M&amp;A를 통해 확보하려는 대상은 특정 기술이나 신규 고객, 시장일 수도 있고, 향후 투자를 위한 생산설비나 해외 지역 거점일 수도 있다.<br/>
+<br/>
+기업으로부터 “거래 규모나 지역에 상관없이 기존 사업과 연관된 해외 인수 대상을 찾아 달라”는 요청을 받는 경우가 있다. 그러나 이는 기업이 M&amp;A를 통해 무엇을 달성하고자 하는지 충분히 검토하지 않았다는 의미일 수 있다. 목표가 불분명하면 상당한 시간과 자원을 투입하고도 성과를 거두지 못할 확률이 높다.<br/>
+<br/>
+반면 ‘미국 동부 지역에서 5억 달러 이하 규모로 제조 역량과 유통망, 브랜드를 보유한 육가공업체’나 ‘최근 글로벌 기업 합병으로 매물로 나올 가능성이 있는 동남아 지역 자산’처럼 인수 대상을 구체적으로 설정하면 거래 목적과 인수 후 시너지 전략을 보다 분명하게 수립할 수 있다. 명확한 목표와 기준은 성공적인 거래의 출발점이다.</p>
+<h3><b><br/>
+전문성 갖춘 자문사 선정과 공동 투자 전략</b></h3>
+<p>둘째, 기업의 M&amp;A 전략에 맞는 자문사와 투자 파트너를 선정해야 한다. M&amp;A 역사가 오래된 시장에는 반도체, 자동차, 소비재, 금융 등 산업별 전문성을 갖춘 자문사가 활동하고 있다. 지역과 거래 규모는 물론, 구조조정, 사모펀드 공동 투자, 미국 연방파산법 제11장(Chapter 11) 상황에서의 거래 등 거래 구조별 전문성을 보유한 재무·법률 자문사들도 활동하고 있다.<br/>
+<br/>
+자문사의 규모와 리그 테이블 순위, 수수료, 기존 거래 관계도 중요한 고려 요소다. 하지만 기업 전략의 핵심이 되는 M&amp;A일수록 해당 거래에 전문성을 갖춘 자문사와 협업하는 것이 중요하다. 최근 동일 산업 분야나 지역에서 유사한 거래를 수행한 자문사는 잠재적 이슈를 사전에 파악하고 효과적인 대응 방안을 제시할 수 있다.<br/>
+<br/>
+필요하다면 사모펀드나 다른 기업과 공동 투자하는 방식도 고려할 수 있다. 과거에는 인수자가 단독으로 경영권을 확보하려는 사례가 많았지만, 최근에는 사모펀드와 공동 투자하거나, 복수의 사업부를 보유한 기업을 다른 기업과 함께 인수하는 사례가 늘고 있다. 사모펀드가 발굴한 거래에 기업이 공동 투자자로 참여해 공동 경영을 추진하는 구조도 가능하다. 기업은 기존 사업과의 시너지 창출에 집중하고, 사모펀드는 구조조정이나 볼트온(Bolt-on) 전략을 추진할 수 있다. 이후 기업이 콜옵션을 행사해 잔여 지분을 인수하거나 동반 매각을 통해 성장 자금을 마련하는 방식이다.</p>
+<h3><b><br/>
+조직문화를 고려한 단계적 통합 전략</b></h3>
+<p>셋째, 인수 후 통합(Post-Merger Integration, 이하 PMI) 전략을 거래 초기부터 준비해야 한다. 크로스보더 M&amp;A는 법규와 통화, 소비자 성향, 기업 문화, 임직원의 업무 방식이 서로 다른 기업을 통합해야 한다는 점에서 국내 거래보다 복잡하다. 법률·회계 실사는 자문단을 통해 체계적으로 검토할 수 있지만, 인수 이후 대상 기업의 핵심 역량을 보존하고 시너지를 창출하는 일은 인수 기업의 몫이다.<br/>
+<br/>
+특히 광고업이나 금융업처럼 인적 자원이 핵심인 산업에서는 핵심 인력의 이탈이나 급격한 기업 문화 변화가 기업 가치 훼손으로 이어질 수 있다. 핵심 인력에게 수년간 인센티브를 보장하더라도 보장 기간이 끝난 뒤 인력이 대거 이탈해 거래 성과가 저하되는 사례가 있다. 오랜 전통을 가진 기업일수록 해외 기업에 인수되는 것에 대한 임직원의 심리적 거부감이 클 수 있다는 점도 고려해야 한다. PMI에 실패하면 인수 대상 기업의 핵심 역량을 사라지고 빈껍데기만 남는 결과를 초래할 수 있다.<br/>
+<br/>
+성공적인 PMI를 위한 일률적인 해법은 없지만, 대상 기업의 조직 문화에 대한 사전 검토는 반드시 필요하다. 최근에는 기존 경영진을 전면 교체하기보다 최고재무책임자(CFO) 등 일부 핵심 직책만 교체해 조직 변화를 최소화하는 사례가 늘고 있다. 초기에는 조직 변화를 최소화하고, 중장기적으로 양사의 강점을 결합해 새로운 기업 문화를 정착시키는 접근이 필요하다.</p>
+<h3><b><br/>
+실패를 두려워하지 않는 조직 문화 구축</b></h3>
+<p>마지막으로는 리스크를 철저히 분석하되 거래의 장점과 시너지에 대한 긍정적인 마인드가 중요하다. 모든 거래에는 리스크와 보상이 공존하지만, 다수 조직은 보상보다 리스크에 더 큰 비중을 둔다. 현재 충분한 매출과 수익을 달성하는 기업일수록 위험을 감수하기보다 현 상태를 유지하려는 경향이 강하다. 거래를 추진하는 임직원도 실패에 따른 책임과 불이익을 우려할 수밖에 없다.<br/>
+<br/>
+성공적인 M&amp;A를 통해 성장하는 기업과 그렇지 않은 기업의 차이는 실패에 대한 두려움을 줄이고 꾸준히 새로운 시도를 하는 조직 문화를 갖췄는지에 있다. 다수의 M&amp;A를 성사시킨 기업들은 리스크를 넘어서는 보상을 확보할 수 있다는 자신감을 바탕으로 의사결정을 내린다. 새로운 시도를 장려하고 실패에 대한 과도한 두려움으로 현실에 안주하는 태도를 경계하는 조직 문화가 중요한 이유다.<br/>
+<br/>
+한 글로벌 사모펀드의 베테랑 투자 담당 임원은 초우량 기업으로 성공하는 기업을 ‘매 순간 전력 질주하면서도 코너를 아슬아슬하게 돌아 나가는 포뮬러1(F1) 경주용 자동차’에 비유했다. 한 코너를 돌자마자 다음 목표 지점을 향해 신속하게 준비하는 기업이 성장하는 반면, 현재의 안락함을 즐기며 적당한 속도만 유지하는 기업은 결국 경쟁에서 도태된다는 뜻이다.<br/>
+<br/>
+산업 간 경계가 빠르게 허물어지고 경쟁의 범위가 국경을 넘어 확장되는 지금, 크로스보더 M&amp;A는 단순한 선택이 아닌 기업의 미래를 설계하는 핵심 전략이 되고 있다. 명확한 목표 설정, 전문 파트너와 협력, 사전에 마련된 PMI 전략, 리스크를 감수할 수 있는 조직 문화, 이 네 가지가 갖춰질 때 비로소 기업은 불확실한 미래를 기회로 전환할 수 있다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>Global Data Centre Outlook 2026–50  |  삼일PwC</title>
 			<link>https://www.pwc.com/kr/ko/insights/global-trends/data-centre-outlook-2026.html</link>
 			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/global-trends/data-centre-outlook-2026.html</guid>
 			<pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[AI는 데이터센터 투자를 수십년에 걸친 반복적인 투자 사이클로 변화시키고 있습니다. 본 전망은 다양한 시나리오가 자본의 흐름에 어떠한 영향을 미칠 수 있는지 분석합니다.]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  <p>AI 인프라 대전환 시대, 31조 6,000억 달러의 투자자금은 어디로 향하는가?</p>
+                  <h1>Global Data Centre Outlook 2026–50</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/insights/global-trends/global-investment-in-ai-infrastructure_hero.jpg" alt="Global Data Centre Outlook 2026–50"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  <li>Insight</li>
+                  
+                  <li>September 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      <div>
+         <p><strong>AI는 데이터센터 투자를 수십년에 걸친 반복적인 투자 사이클로 변화시키고 있습니다.&nbsp;본 전망은 다양한 시나리오가 자본의 흐름에 어떠한 영향을 미칠 수 있는지 분석합니다.</strong></p>
+
+      </div>
+   
+
+
+
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/data-centre-outlook-2026/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-column1/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr1::before {
+	content: 'insight용 Custom css (Column 중앙1단) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/global-trends/data-centre-outlook-2026/_jcr_content/root/container/title/reference_xf_copy.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
+	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div>
+
+    $(document).ready(function() {
+        progressIndicator.init({
+            sections: [
+                [{"title":"1. 주요 시사점 ","id":"content-1"},{"title":"2. 소개","id":"content-2"},{"title":"3. AI의 영향","id":"content-3"},{"title":"4. 복잡해진 시장","id":"content-4"},{"title":"5. 자본투자는 어디로 향하는가?","id":"content-5"},{"title":"6. 시나리오 분석","id":"content-6"},{"title":"7. 이해관계자에 대한 시사점","id":"content-7"},{"title":"Download PDF","id":"pdf-download"}],
+                'dotted-progress-indicator'
+            ],
+            title: "Index"
+        });
+    });
+
+
+
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    1. 주요 시사점
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <ul>
+<li>글로벌 데이터센터 투자는 2050년까지 31조 6,000억 달러에 이를 것으로 전망되며, AI 도입이 더욱 가속화될 경우 약 50조 달러 규모까지도 확대될 수 있습니다.</li>
+<li>과거의 인프라 지출 사이클과 달리 데이터센터 투자는 2050년까지 지속적으로 증가할 것으로 예상됩니다. 이는 서버, GPU 및 기타 ICT 장비가 4~6년 주기의 교체가 필요하기 때문입니다.</li>
+<li>데이터센터 수요는 전 세계적으로 견조하지만, 전력 공급의 가용성, 데이터 주권 관련 요구사항 및 반도체 공급망의 흐름 등의 요건들은 어느 지역이 이러한 투자수요를 유치할 수 있을지를 결정할 것입니다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>한국관점에서의 시사점</th>
+</tr><tr><td><ul>
+<li><strong>AI 경쟁의 핵심은 GPU가 아니라 전력입니다.</strong><br/>
+수도권 데이터센터 시장은 수요 부족이 아닌 전력 병목 시장으로 전환되고 있습니다. 데이터센터의 가치는 부지보다 전력 확보 가능성과 가압 시점에 의해 결정될 가능성이 높습니다.</li>
+<li><strong>한국의 승부처는 데이터센터보다 AI 인프라 공급망입니다.</strong><br/>
+AI 데이터센터 투자 확대의 수혜는 건설보다 GPU, HBM, 전력기기, 냉각설비 등 인프라 공급망으로 이동하고 있습니다. 한국의 경쟁력은 데이터센터 자체보다 AI 인프라 생태계 전반에 존재합니다.</li>
+<li><strong>AI 데이터센터 시장은 세 개의 시장으로 재편됩니다.</strong><br/>
+AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로, 산업 AI는 제조 현장 가까이로 이동하고 있습니다. 수도권과 비수도권은 경쟁 관계가 아니라 상호보완적 관계로 발전할 가능성이 높습니다.</li>
+<li><strong>한국의 과제는 경쟁력 확보가 아니라 실행력입니다.</strong><br/>
+한국은 이미 데이터 수요, 연결성, 반도체 생태계, AI 공급망 경쟁력을 보유하고 있습니다. 이제 중요한 것은 확보한 경쟁력을 실제 전력 용량과 AI 인프라로 실행력입니다.</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+</div></div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    2. 소개
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>철도, 전력망, 인터넷. 이들은 모두 막대한 자본 투자를 필요로 하며 각 시대를 규정해 왔습니다. 그러나 현재 진행되고 있는 AI 인프라 투자 사이클은 이 세 가지를 모두 압도하고 있습니다. 더욱 주목할 만한 점은, 초기 단계에 자본투자(Capex)가 집중된 후 네트워크가 성숙하면서 투자규모가 점차 감소했던 과거의 인프라 투자 사이클과 달리, AI 인프라 투자 사이클은 4~6년 마다 반복적으로 발생하며, 이러한 흐름이 종료될 조짐도 보이지 않는다는 점입니다.</p>
+<p>PwC는 Oxford Economics에 의뢰하여 46개 국가·지역 및 5개 권역에 걸친 데이터센터 자본투자(Capex)를 분석했으며, 해당 범위는 전 세계의 경제적인 생산과 디지털 인프라 투자에서 가장 큰 비중을 차지하고 있습니다. 우리의 기준 시나리오 전망에 따르면, 전 세계 AI 수요를 뒷받침하는 데 필요한 연산 처리능력을 구축하기 위해 데이터센터에 2050년까지 전 세계적으로 31조 6,000억 달러의 자본투자가 투입될 것으로 전망되며, AI 도입이 가속화될 경우 약 50조 달러에 근접하는 규모까지 투자가 확대될 수 있습니다. 서로 다른 시대를 단순 비교하기는 어렵지만, 이러한 규모는 영국과 미국에서 철도 건설에 투입된 투자액이나 인터넷 인프라 구축 비용을 훨씬 뛰어넘는 수준입니다.</p>
+<p>규모 외에도, 이번 자본투자(Capex) 사이클이 차별화되는 점은 연간 지출 규모가 시간이 지날수록 가속화된다는 것입니다. 연간 지출은 2026년 약 8,000억 달러에서 2030년 1조 1,000억 달러, 2050년에는 1조 8,000억 달러까지 증가할 것으로 예상됩니다. 이는 지출액 대부분일 것인 데이터센터 건물 자체에만 투입되는 것이 아니기 때문입니다. 오히려 지출액은 그 내부를 채우는 설비, 즉 서버, 스토리지 시스템, 네트워크 장비, 중앙처리장치(CPU), 그리고 무엇보다 AI 연산 처리능력을 제공하는 그래픽처리장치 (GPU)에 주로 투자되고, 이러한 장비들은 수년 내 경제적 연수가 도래하여 교체가 필요합니다.</p>
+<p>시나리오별 추정치는 약 22조 달러에서 50조 달러에 이르며, 31조 6,000억 달러는 기준 시나리오의 결과입니다. 이때 결과값은 대체로 AI 도입의 속도와 규모에 크게 좌우되지만 우리가 구성한 모든 시나리오에서 방향성은 동일하게 나타납니다. 즉, 추정 기간 동안 CAPEX는 유의적으로 증가할 것으로 예상됩니다. 이러한 추세는 지정학적 긴장으로 첨단 반도체 공급이 제한되거나, 데이터 처리 수요가 자국 내 서비스 중심으로 이동하더라도 유지됩니다. (두 시나리오는 뒤에서 상세히 다룰 예정입니다.) 여기에서 달라지는 것은 투자의 지역적 배분입니다.</p>
+<p>사용자층이 넓어지면서 증가하는 연산 처리 수요를 충족하기 위해 막대한 규모의 자금이 필요하지만, 자금 자체는 충분히 조달될 수 있습니다. 그러나 가용한 전력의 확보는 별개의 문제입니다. AI 수요는 수십 년 전에 건설된 전력망의 한계에 직면하고 있으며, 이 전망이 현실화될 수 있는지는 얼마나 신속하고 안정적으로 전력을 데이터센터에 공급할 수 있는지에 달려 있습니다.</p>
+<p>이어지는 분석에서는 이 자본이 흘러갈 가능성이 높은 지역은 어디인지, 무엇이 이 자본의 흐름을 바꿀 수 있는지, 그리고 그 결과 형성되는 투자의 지형도가 투자자, 운영사 및 정부 등 이해관계자에게 어떤 의미를 갖는지를 살펴보겠습니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>글로벌 데이터센터 자본투자(Capex)는 시나리오별로 상당한 차이가 있으나, 최대 31조 6,000억 달러에 이를 것으로 전망됩니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h6><strong>글로벌 데이터센터 누적 자본 투자(Capex), 2026~2050년&nbsp;</strong>(단위: 조 미달러(USD))</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+
+<div>
+<ul>
+	
+	<li><a href="#root_container_content-free-container-1_section-copy-copy-co_columncontrol-copy_par-0_tabs-copyhome0">기준 시나리오</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-copy-copy-co_columncontrol-copy_par-0_tabs-copyhome1">AI 도입 가속 시나리오</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-copy-copy-co_columncontrol-copy_par-0_tabs-copyhome2">AI 도입 둔화 시나리오</a>
+            </li>
+</ul>
+
+<!-- Tab panes -->
+
+
+
+
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    3. AI의 영향
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>구조적으로 다른 사이클</h4>
+<p>자본투자(Capex) 전망은 원뿔형(Cone) 구조로 전개됩니다. 단기 수요는 클라우드 전환, 하이퍼스케일러(Hyperscaler)의 확장, 그리고 AI 네이티브 산업의 첫 번째 물결이 가시화되고 있다는 점에서 상대적으로 예측 가능성이 높습니다. 그러나 전망 기간이 길어질수록 원뿔의 폭이 넓어지듯 전망의 불확실성도 확대되며, AI 도입에 대한 낙관적 전망과 비관적 전망 간의 격차는 대략 미국 GDP 규모에 준하는 수준이 됩니다.</p>
+<p>AI 도입이 빠르게 확산되면 2050년까지 자본투자(Capex)는 약 50조 달러까지도 확대될 수 있습니다. 반면 AI 도입이 둔화될 경우 이번 투자 사이클에서 약 10조 달러 규모의 투자가 감소하여, 전 세계 곳곳에 건설된 경기장 규모의 데이터센터에서 상당한 유휴 용량이 발생할 수 있습니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>AI 도입이 가속화될 경우의 자본적 지출(Capex) 증가 폭은, AI 도입이 둔화될 경우의 감소 폭을 상회합니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h6><strong>글로벌 데이터센터 누적 자본 투자(Capex), 2026~2050년 </strong>(단위: 조 미달러(USD))</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>가능한 시나리오 범위 전반에 걸쳐 연간 자본투자(Capex)는 높은 수준을 유지하며 지속적으로 증가할 것으로 전망됩니다. 그 이유는 데이터센터의 자본 구조(Capital stack)에 있습니다. 본체(Shell)와 핵심 부지 인프라(Core site infrastructure), 예를 들어 전력망 연계 설비와 광케이블망 등은 비교적 긴 내용연수를 갖지만, 그 내부에 설치되는 ICT 장비는 그렇지 않기 때문입니다.</p>
+<p>시장이 아직 충분히 반영하지 못하고 있는 점은 건설 관련된 자본투자(Capex) 1달러가 사실상 향후 정보통신기술(ICT) 장비 약 12달러의 자본투자(Capex)을 수반한다는 점입니다. 여기에는 서버, 스토리지 시스템, 네트워크 장비, GPU 및 설치·교체·업그레이드가 필요한 기타 하드웨어가 포함됩니다.</p>
+<p>시장 전체 기준으로 ICT 장비가 차지하는 비중은 2026년 전체 자본투자(Capex)의 70%에서 2050년에는 93%까지 확대될 것입니다.</p>
+<p>AI는 이러한 장비 교체 사이클을 더욱 자본 집약적으로 만들고 있습니다. 전통적인 클라우드 인프라는 주로 중앙처리장치(CPU)를 중심으로 구축되었습니다. 반면 AI워크로드는 비용과 전력 소모가 더 크고 기술 혁신 주기가 더 빠른 GPU와 가속기에 의존합니다. GPU와 서버의 교체 주기는 일반적으로 4~6년으로, 하나의 데이터센터는 20년의 자산 내용연수 동안 3~5차례의 ICT 투자가 필요할 수 있습니다. 또한 고밀도 랙(Rack) 구성으로 인해 전력 및 냉각 설비의 증설이 필요해질 수 있으나 자본투자(Capex)에서 가장 큰 비중을 차지하면서 가장 빈번하게 반복되는 항목은 결국 연산 장비 자체입니다. 철도, 전력망, 인터넷 등 이전 세대의 인프라 투자 사이클에서는 초기 건설 단계에서 자본투자(Capex)가 집중적으로 발생한 후 네트워크가 성숙함에 따라 점차 감소하는 양상을 보였습니다. 반면 현재의 인프라 투자 사이클은 이러한 패턴을 뒤집습니다. 데이터센터는 사실상 '반도체 교체 구독 모델'에 건물을 덧씌운 형태에 가깝습니다. 한 번 구축한 이후에는 4~6년마다 내부 장비를 다시 채워 넣어야 합니다. 이러한 구조는 투자에 필요한 자본의 규모뿐 만 아니라, 어떤 투자자가 자금을 공급하고 누가 투자 부담을 감당할 것인지에도 중요한 영향을 미칩니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>데이터센터 장비 지출은 건설비를 크게 상회하며, 시간이 지날수록 그 격차는 더욱 확대됩니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h6>글로벌 데이터센터 누적 자본 투자(Capex), 2026~2050년 (단위: 조 미달러(USD))&nbsp;</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+
+<div>
+<ul>
+	
+	<li><a href="#root_container_content-free-container-1_section-copy-2041696_columncontrol-copy-c_par-0_tabs-copyhome0">기준 시나리오</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-copy-2041696_columncontrol-copy-c_par-0_tabs-copyhome1">AI 도입 가속 시나리오</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-copy-2041696_columncontrol-copy-c_par-0_tabs-copyhome2">AI 도입 둔화 시나리오</a>
+            </li>
+</ul>
+
+<!-- Tab panes -->
+
+
+
+
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다.&nbsp;ICT는 GPU, 서버 및 네트워크 장비 등을 포함한 정보통신기술(Information and Communications Technology)을 의미합니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+<div>
+<div>
+    <div>
+        <div>
+            <button>
+                한국 관점 : 한국의 기회는 데이터센터 자체보다 AI 인프라 공급망에 있습니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>글로벌 보고서는 AI 데이터센터 투자에서 ICT 장비가 차지하는 비중이 2026년 70%에서 2050년 93%까지 확대될 것으로 전망합니다. 이는 향후 데이터센터 산업의 가치가 건물과 부지보다 GPU, 메모리, 전력설비, 냉각장비 등 반복적으로 교체되는 인프라 장비로 이동함을 의미합니다.&nbsp;</p>
+<p>이러한 변화는 한국에 중요한 기회를 제공합니다. 한국은 미국과 중국처럼 대규모 데이터센터 시장을 보유한 국가는 아니지만, AI 인프라 공급망에서는 경쟁력 있는 산업기반을 갖추고 있습니다. 즉, HBM과 메모리를 비롯해 변압기, 배전설비, UPS, ESS, 액체냉각, 에너지관리 시스템, 보안 솔루션 등 글로벌 AI 데이터센터 구축에 필요한 핵심 설비와 장비 분야에서 경쟁력을 보유하고 있습니다.&nbsp;</p>
+<p>특히 세계 데이터센터 투자가 특정 국가에 집중되더라도 공급망 시장은 전 세계적으로 확대됩니다. 데이터센터가 미국에 지어지든 중동에 지어지든 GPU와 메모리, 전력설비와 냉각장비는 반복적으로 설치·교체되어야 합니다. 한국이 확보할 수 있는 기회는 국내 데이터센터 건설 규모보다 이러한 글로벌 공급망 시장에서 더 클 수 있습니다. 그 가운데 HBM은 한국이 보유한 가장 강력한 AI 인프라 경쟁력 중 하나입니다. AI 학습과 추론 규모가 확대될수록 고대역폭 메모리에 대한 수요 역시 구조적으로 증가할 가능성이 높습니다. 데이터센터가 어느 국가에 건설되더라도 HBM 수요는 함께 증가한다는 점에서 한국은 AI 인프라 투자 확대의 대표적인 수혜국으로 평가될 수 있습니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                시사점
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ol>
+<li>데이터센터 건설 경쟁보다 AI 인프라 공급망 경쟁력이 더 큰 기회가 될 수 있습니다.&nbsp;</li>
+<li>HBM·메모리뿐 아니라 전력기기, 냉각, ESS, DCIM, 보안 등으로 기회를 확대해야 합니다.&nbsp;</li>
+<li>한국의 AI 전략은 ‘데이터센터 강국’보다 ‘AI 인프라 공급망 허브’ 전략에 가까워야 합니다.&nbsp;</li>
+<li>국내 AIDC 육성과 글로벌 공급망 확대를 병행해야 한국의 경쟁력이 극대화될 수 있습니다.</li>
+</ol>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    4. 복잡해진 시장
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>하나의 시장에서 여러 시장으로</h4>
+<p>클라우드 시대는 사실상 하이퍼스케일러라는 단일 고객군에 한정되어 있었습니다. 그러나 AI 시대에는 네오클라우드(Neocloud), AI 모델 개발사, 추론 플랫폼(Inference platform), 일반 기업, 정부 등 최소 다섯 개의 새로운 고객군이 추가됩니다. 이들의 요구사항은 서로 다른 방향으로 작용하며, 경우에 따라서는 상충하기도 합니다. 각 고객군은 서로 다른 수요와 리스크 구조를 가지고 있으며, 각 워크로드는 상이한 기술적·지리적 요구사항을 수반합니다. 이러한 두 가지 요소가 맞물리는 지점이 향후 투자자금의 흐름이 어디로 향할지를 결정하는 중요한 요인이 될 것입니다.<br/>
+&nbsp;</p>
+<h4>AI 수요는 고객군, 워크로드 및 입지에 따라 세분화되고 있습니다.</h4>
+<p>차세대 데이터센터 수요는 고객군의 요구사항이 워크로드 요건 및 지역별 인프라 제약과 어떻게 맞물리는지에 따라 결정될 것입니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>워크로드 유형</th>
+<th>워크로드 사례</th>
+<th>주요 수요자</th>
+<th>수요의 지리적 특성</th>
+<th>수요 유치의 핵심 요인</th>
+</tr><tr><td><strong>전통적 클라우드</strong></td>
+<td>기업용 애플리케이션, 스토리지, 협업·생산성 도구, 디지털 서비스</td>
+<td>하이퍼스케일러, 일반 기업, 코로케이션 사업자</td>
+<td>인구와 GDP, 기업 밀집도 및 기존 디지털 서비스 시장을 따라 형성</td>
+<td>회선 연결, 안정성, 비용 효율, 기업 수요와의 인접성</td>
+</tr><tr><td><strong>입지 민감형 AI/추론</strong></td>
+<td>데이터주권 워크로드, 개인정보·규제 대상 데이터, 고객 응대, 금융, 헬스케어, 공공 서비스, 저지연 AI</td>
+<td>하이퍼스케일러, 일반 기업, 정부, 규제 산업 내 기업∙기관, 추론 플랫폼</td>
+<td>국가·지역 중심. 이용자, 데이터 및 규제 요건 그리고 데이터 주권 요건의 영향을 받음</td>
+<td>지연시간, 데이터 접근성, 보안, 거버넌스, 신뢰 국가 내 호스팅</td>
+</tr><tr><td><strong>이동형 AI/학습</strong></td>
+<td>모델 학습, 미세조정, 공개 데이터 기반 워크로드, 대규모 GPU 클러스터</td>
+<td>AI 전문 클라우드 사업자, AI모델 개발사, 하이퍼스케일러</td>
+<td>이동성이 높으며, 공급 여건이 가장 우수한 시장으로 이전 가능</td>
+<td>GPU 물량 확보용이성, 확장 가능한 대규모 부지, 전력공급, 총소유비용(TCO)*, 연결성, 기술 인력</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>*TCO : Total Cost of Ownership<br/>
+ 출처: PwC분석</sup></p>
+<h4>고객군별로 상이한 수요 및 리스크 구조</h4>
+<p>지난 10여 년간 데이터센터 수요는 주로 클라우드의 성장에 의해 설명될 수 있으며, 그 중심에는 하이퍼스케일러가 있었습니다. 그러나 AI로 인해 새로운 고객군이 등장하면서 시장 구조는 더욱 복잡해졌습니다. 각 고객군은 서로 다른 수요 특성과 리스크 구조를 가지고 있습니다.</p>
+<p>하이퍼스케일러는 대규모 투자를 견인하지만, 구축 및 확장 속도에 크게 좌우됩니다. 네오클라우드 사업자와 AI 모델 개발사는 집약적인 GPU 수요를 창출하지만, 반도체 확보와 AI 수익화 측면의 리스크에 노출되어 있습니다. 기업들은 지속적인 수요를 창출하지만 더욱 높은 수준의 통합 및 거버넌스 요건을 요구합니다. 정부는 국내 데이터센터 용량 확충을 뒷받침하는 주요 수요처지만, 투자의 속도는 조달 절차와 정책에 좌우됩니다. 이들 모두는 동일한 물리적 병목에 민감합니다. 즉, 충분하고 안정적인 전력이 적시에 필요한 지역까지 공급될 수 있는지 여부입니다. 또한 이들은 공통된 사업적 과제도 공유하고 있습니다. 과거의 인프라 투자 사이클에서는 네트워크가 구축된 이후 투자 규모가 감소했지만, 이번 인프라 투자 사이클에서는 자본투자(Capex)가 수십 년에 걸쳐 지속적으로 증가해야 합니다. 이는 AI가 창출하는 수익 또한 지속적으로 증가해야 함을 의미합니다. AI 도입이 정체되거나 AI 서비스의 가격이 하락하는 경우, 인프라 구축 후반부에 필요한 자금을 조달하기가 더욱 어려워질 수 있으며, 여기서 언급된 각 고객군은 이러한 리스크에 노출될 수 있습니다.</p>
+<h4><br/>
+워크로드별로 상이한 지역적 요구사항</h4>
+<p>고객군만큼이나 워크로드의 특성도 중요합니다. 전통적인 클라우드 수요는 일반적으로 인구, GDP, 기업 밀집도 및 기존 디지털 서비스 시장의 분포를 따라 형성됩니다. 반면 AI 추론(AI inference)은 입지에 대한 민감도가 더 높습니다. AI 모델이 기업의 핵심적인 업무에 활용되기 시작하면서 지연시간(Latency), 데이터 접근성, 개인정보 보호, 보안 및 데이터 주권 요건 등으로 인해 데이터 처리 역량이 지역 데이터센터 쪽으로 이동할 수 있습니다. 반면 AI 학습(AI training)은 이러한 스펙트럼의 정반대편에 위치합니다. AI 학습은 대규모 연산 자원을 필요로 하지만 최종 이용자와의 물리적 근접성에 대한 의존도는 상대적으로 낮습니다. 따라서 저렴하고 안정적인 전력, 첨단 반도체에 대한 접근성, 대규모 부지, 기술 인력, 성숙한 AI 생태계, 그리고 신속한 구축 역량을 갖춘 시장이라면 어느 지역이든 입지가 집중될 수 있습니다. PwC는 현재 전체 워크로드의 약 30%가 현지 요구사항을 수반하는 것으로 추정하고 있으며, 이러한 비중은 빠르게 증가하고 있습니다.</p>
+<p>그 결과 데이터센터 수요의 지역별 분포는 더욱 불균등해지고 있습니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+<div>
+    <div>
+        <div>
+            <button>
+                한국 관점 : 한국은 하나의 데이터센터 시장이 아니라 세 개의 시장입니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>글로벌 보고서는 AI 추론(Inference)과 AI 학습(Training)이 서로 다른 입지 조건을 요구한다고 설명합니다. 한국도 마찬가지입니다. 앞으로의 AI 데이터센터 시장은 단일 시장이 아니라 서로 다른 특성을 가진 세 개의 시장으로 분화될 가능성이 높습니다.</p>
+<p>첫째, 수도권은 AI 추론 중심 시장입니다. 금융, 전자상거래, 게임, 공공서비스와 같은 지연시간에 민감한 수요가 집중되어 있어 이용자와 가까운 위치에서 서비스를 제공해야 합니다. 따라서 수도권은 대규모 학습센터보다 AI 추론과 클라우드 서비스의 핵심 거점으로 발전할 가능성이 높습니다.&nbsp;</p>
+<p>둘째, 비수도권은 AI 학습 중심 시장입니다. 대규모 GPU 클러스터를 활용하는 AI 학습은 이용자와의 물리적 거리가 상대적으로 중요하지 않습니다. 오히려 풍부한 전력, 대규모 부지, 냉각 효율이 더 중요합니다. 전력 공급 여력이 상대적으로 우수한 비수도권이 대규모 AI 학습센터의 핵심 입지로 부상할 수 있는 이유입니다. 향후 수도권은 기업용 AI와 공공 AI 수요를 처리하는 추론 거점으로, 동해안과 남부권은 대규모 AI 학습 클러스터로, 산업벨트 지역은 제조 AI를 지원하는 엣지 인프라 거점으로 발전할 가능성이 있습니다.</p>
+<p>셋째, 제조업 거점은 산업 AI 시장으로 발전할 수 있습니다. 반도체, 자동차, 조선, 배터리 산업이 밀집한 지역에서는 AI가 생산설비와 실시간으로 연결되어야 하기 때문에 공장 인근의 Edge AI 인프라 수요가 확대될 가능성이 높습니다. 디지털트윈, 스마트팩토리, 자율제어 분야가 대표적입니다.&nbsp;</p>
+<p>한국의 과제는 수도권과 비수도권이 같은 시장을 두고 경쟁하는 것이 아니라, 워크로드 특성에 따라 서로 다른 역할을 수행하는 구조를 만드는 데 있습니다. 데이터센터 입지 전략도 '어디에 더 많이 지을 것인가'보다 '어떤 연산을 어디에 배치할 것인가'로 바뀌고 있습니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                시사점
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ol>
+<li>AI 학습은 전력이 있는 곳으로, AI 추론은 수요가 있는 곳으로 이동할 가능성이 높습니다.&nbsp;</li>
+<li>수도권과 비수도권은 대체 관계가 아니라 상호보완적 관계로 발전할 가능성이 높습니다.&nbsp;</li>
+<li>제조업 중심 지역은 산업 AI와 디지털트윈 기반의 새로운 데이터센터 수요를 창출할 수 있습니다.</li>
+</ol>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    5. 자본투자는 어디로 향하는가?
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>불균등한 자본투자의 분포</h4>
+<p>지역 간 격차를 만드는 것은 얼마나 많은 수요를 창출하는지 뿐만 아니라, 그 수요를 실제로 얼마나 유지할 수 있는 지입니다. 이러한 차이는 클라우드 시대의 시장을 형성했던 요인들과는 다른 요인들에 의해 결정됩니다.</p>
+<p>자본투자(Capex)의 향방은 다섯 가지 요인에 의해 좌우되며, 그 중에서도 전력이 가장 중요합니다. 많은 지역에서 저렴하고 안정적이며 저탄소 전력을 대규모로 확보하기가 쉽지 않고, 이를 신속하게 공급하는 것은 더욱 어려운 과제이기 때문입니다. 송전망 용량, 변전소 확보 가능 여부, 그리고 수년에 걸친 변압기 조달기간은 점차 주요 병목요인으로 부상하고 있으며, 어떤 프로젝트가 착공될 수 있는 지와 그 시점을 결정하는 핵심 변수로 자리 잡고 있습니다. 운영사들은 점차 데이터센터 부지에 자체 발전설비를 구축하고 있으나, 이는 개별 프로젝트 차원에서는 도움이 될 수 있을지라도 시장 전체 차원에서 필요한 전력망 확충의 필요성을 해소하지는 못합니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+<div>
+    <div>
+        <div>
+            <button>
+                한국 관점 : AI 시대의 새로운 토지는 전력입니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>과거 데이터센터 입지 경쟁의 핵심은 통신망과 고객 접근성이었습니다. 기업과 이용자 가까이에 부지를 확보하는 것이 성공의 관건이었습니다. 하지만 AI 데이터센터 시대에는 상황이 달라지고 있습니다. 이제는 어디에 땅을 확보했느냐보다 언제, 얼마나 많은 전력을 공급받을 수 있느냐가 사업의 성패를 결정합니다.&nbsp;</p>
+<p>한국에서도 이러한 변화가 뚜렷하게 나타나고 있습니다. 수도권에는 AI와 클라우드 수요가 집중되어 있지만 계통 여유와 변전설비는 제한적입니다. 반면 비수도권은 상대적으로 전력 여건이 양호하지만 수요와 연결성이 부족합니다. 이 때문에 데이터센터 개발 과정에서 부지 확보나 투자금 조달보다 전력계통 접속 가능 여부, 변전소 연계 계획, 전력 공급 시점이 더욱 중요한 검토 항목으로 부상하고 있습니다.&nbsp;</p>
+<p>실제로 수도권 데이터센터 전력 신청 규모는 수만 MW에 이르지만, 실제 공급 가능 단계에 도달한 사업은 극히 일부에 불과합니다. AI 데이터센터 시장의 경쟁력은 더 이상 건물 규모나 투자금액이 아니라 얼마나 빠르게 전력을 확보하고 가동할 수 있는지에 의해 결정되고 있습니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                시사점 : 과거에는 좋은 부지를 확보한 기업이 경쟁우위를 가졌다면, 이제는 전력을 먼저 확보한 기업이 시장을 선점하는 시대가 되고 있습니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ol>
+<li>데이터센터 시대의 핵심 자산은 토지에서 전력으로 이동하고 있습니다.</li>
+<li>사업가치를 결정하는 기준도 부지 규모보다 전력계통 접속 가능성과 가압 시점으로 바뀌고 있습니다.</li>
+<li>한국 AI 데이터센터 산업의 경쟁력은 전력 확보 속도와 실행력에 달려 있습니다.</li>
+</ol>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h6><br/>
+31조 6,000억 달러 규모의 데이터센터 자본투자의 향방을 결정하는 5가지 요인&nbsp;</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>요인</th>
+<th>의미</th>
+<th>강점을 보유한 지역</th>
+</tr><tr><td><strong>전력</strong></td>
+<td>대규모 공급이 가능하고 전력망 장애 위험이 낮은 저렴·안정·저탄소 전력</td>
+<td>중동, 북유럽</td>
+</tr><tr><td><strong>지연시간 및 연결성</strong></td>
+<td>이용자와의 저지연 연결 및 클라우드·광통신 생태계와의 긴밀한 연계</td>
+<td>미국, 홍콩, 독일, 프랑스, 호주, 브라질, 인도</td>
+</tr><tr><td><strong>보안 및 신뢰 기반 호스팅 환경</strong></td>
+<td>민감한 워크로드를 처리할 수 있는 사이버보안 역량, 규제 체계에 대한 신뢰성 및 데이터 보호 체계</td>
+<td>유럽</td>
+</tr><tr><td><strong>GPU 접근성 및 AI 생태계 기반</strong></td>
+<td>첨단 반도체 공급망, AI 생태계 및 전문 엔지니어링 인력과의 근접성</td>
+<td>미국, 한국, 일본, 대만, 말레이시아, 유럽 일부 지역</td>
+</tr><tr><td><strong>정책의 예측 가능성 및 지역사회 수용성</strong></td>
+<td>단일 창구를 통한 계획 수립, 투자 및 에너지 인허가 절차와 지역사회의 지지</td>
+<td>사우디아라비아, UAE, 싱가포르</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>출처: PwC 및 Oxford Economics 분석</sup></p>
+<p>전력에 이어 중요한 세 가지 요인인 지연시간 및 연결성, 보안 및 신뢰할 수 있는 지역에서의 호스팅, GPU 접근성 및 AI 생태계 성숙도는 각 시장이 어떤 유형의 워크로드를 수용하기에 적합한지를 결정합니다. 여기에는 소비자 대상 AI 추론, 데이터 주권 및 규제 요건이 적용되는 데이터 처리, 그리고 최첨단 모델 학습이 포함됩니다.</p>
+<p>마지막으로 정책의 예측 가능성과 지역사회 수용성은 앞서 언급한 요인들을 종합하는 역할을 합니다. 이는 해당 지역이 보유한 강점을 실제 구축가능한 데이터센터 역량으로 전환하기도 하고, 반대로 시장에서 완공될 것으로 예상됐던 프로젝트를 가로막기도 합니다.</p>
+<p>지속가능성은 본 분석에서 별도의 변수로 반영되지는 않았으나, 앞서 언급한 모든 요인에 걸쳐 영향을 미치며 때로는 강점으로, 때로는 제약요인으로 작용합니다. 재생에너지 비중이 높은 전력망, 서늘한 기후, 신뢰할 수 있는 탈탄소화 경로를 갖춘 시장은 전력 측면에서 구조적인 비교우위를 보유하고 있으며, 본 모델에서는 이러한 비교우위가 전력 여건을 통해 반영됩니다. 반면 전력망, 부지 또는 인허가 측면에서 구조적인 제약을 안고 있는 시장은 상대적으로 불리한 위치에 놓이게 됩니다.</p>
+<p>이러한 요인들의 결과로, 자본투자(Capex)의 지역별 비중은 각 지역의 경제 규모와 상당한 차이를 보이는 것으로 나타납니다. 그리고 이러한 격차 자체가 어떤 지역이 앞서 나가고 있으며 어떤 지역이 뒤처지고 있는지를 보여주는 가장 분명한 지표가 됩니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+<div>
+    <div>
+        <div>
+            <button>
+                한국 관점 : 한국의 경쟁력은 이미 확보됐습니다. 남은 것은 실행 속도입니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>PwC 글로벌은 데이터센터 경쟁력을 결정하는 요인으로 ▲전력 ▲연결성 ▲보안 및 신뢰 기반 호스팅 ▲AI 생태계 ▲정책 및 지역사회 수용성을 제시합니다. 이 기준으로 평가하면 한국은 상당한 강점을 보유하고 있습니다. 세계 최고 수준의 통신 인프라와 데이터 수요 기반, 안정적인 디지털 환경, 반도체 및 AI 공급망 경쟁력은 한국의 분명한 자산입니다. 특히 GPU, 메모리, 네트워크, 전력기기 등 AI 인프라를 구성하는 핵심 산업 생태계는 글로벌 시장에서도 경쟁력을 인정받고 있습니다.&nbsp;</p>
+<p>반면 전력 확보와 인허가 속도는 여전히 주요 제약요인으로 지적됩니다. 수도권을 중심으로 데이터센터 수요는 빠르게 증가하고 있지만, 전력계통 연계와 변전설비 확충 속도가 이를 충분히 따라가지 못하고 있습니다. 결과적으로 시장은 부족하지 않지만 사업화 속도는 제한되는 구조가 나타나고 있습니다.&nbsp;</p>
+<p>한국이 AI 인프라 허브로 도약하기 위해 필요한 것은 새로운 수요나 추가적인 산업 기반이 아닙니다. 이미 보유한 강점을 실제 데이터센터 용량과 AI 연산 인프라로 전환하는 실행력이 더 중요합니다. 앞으로의 경쟁은 누가 더 좋은 전략을 가지고 있는지가 아니라, 누가 더 빠르게 전력을 공급하고 인프라를 가동할 수 있는가에 의해 결정될 가능성이 높습니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                시사점 : 한국의 과제는 경쟁력 확보가 아니라 경쟁력의 현실화입니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>AI 데이터센터 경쟁의 승패는 무엇을 더 보유하고 있는가보다, 확보한 경쟁력을 얼마나 빠르게 가동 가능한 인프라로 전환할 수 있는가에 달려 있습니다.&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>미주 지역은 GDP 비중을 상회하는 수준의 데이터센터 투자를 유치할 것으로 예상됩니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>누적 데이터센터 자본투자(Capex)는 지역별로 상당한 차이를 보입니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+   
+      
+      <div>
+         
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <h6>(단위: 조 미달러(USD))</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+
+<div>
+<ul>
+	
+	<li><a href="#root_container_content-free-container-1_section-923619086_columncontrol_par-0_tabs-copyhome0">미주</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-923619086_columncontrol_par-0_tabs-copyhome1">아시아·태평양</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-923619086_columncontrol_par-0_tabs-copyhome2">유럽</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-923619086_columncontrol_par-0_tabs-copyhome3">중동</a>
+            </li>
+
+	
+	<li><a href="#root_container_content-free-container-1_section-923619086_columncontrol_par-0_tabs-copyhome4">아프리카</a>
+            </li>
+</ul>
+
+<!-- Tab panes -->
+
+
+<div>
+
+       <div><div>
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다. ICT는 GPU, 서버 및 네트워크 장비 등을 포함한 정보통신기술(Information and Communications Technology)을 의미합니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>미주는 2050년까지 누적 자본투자(Capex) 16조 5,000억 달러에 이를 것으로 전망되며, 이 가운데 미국이 15조 1,000억 달러를 차지합니다. 이는 전 세계 총액의 약 48%에 해당하며, 미주 지역이 세계 GDP에서 차지하는 비중을 상당히 상회하는 수준입니다.</p>
+<p>AI 인프라 분야에서 미국의 우위는 전후(戰後) 제조업 이래로 어느 주요 산업 부문에서 보다도 크게 나타납니다. 이는 미국이 첨단 반도체 생태계의 중심에 위치하고 있으며, 주요 AI 모델 개발사, 하이퍼스케일러 및 AI 네이티브 기업들이 자리 잡고 있기 때문입니다. 또한 인재, 자본 및 신규 벤처기업이 지속적으로 이러한 기반을 중심으로 모여들고 있으며, 주(州)정부 차원의 지원 정책도 이러한 우위를 더욱 강화하고 있습니다.</p>
+<p>AI 확산이 가속화될 경우 미주의 2050년까지 누적 자본투자는 27조 1,000억 달러까지 증가하여 가장 큰 규모의 추가 투자 효과를 기록할 것으로 전망됩니다. 반대로 AI 확산이 기대에 미치지 못할 경우에는 가장 큰 규모의 투자 부족분이 발생할 것으로 예상되는데, 이는 미국의 투자 파이프라인이 GPU 집약적인 구성으로 이루어져 있음을 반영합니다.</p>
+<p>미국에 이어 칠레와 캐나다는 지속가능성 측면에서 가장 유망한 시장으로 부상하고 있습니다. 칠레는 풍부한 태양광 자원을 바탕으로 가격 경쟁력이 높은 재생에너지를 공급하고 있으며, 캐나다는 안정적인 전력망과 재생에너지 기반을 바탕으로 미국 하이퍼스케일러 인프라의 북부 확장을 지원하고 있습니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다. ICT는 GPU, 서버 및 네트워크 장비 등을 포함한 정보통신기술(Information and Communications Technology)을 의미합니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>아시아·태평양 지역의 누적 자본투자(Capex)는 8조 2,000억 달러로 전망되며, 이는 세계 GDP에서 아시아·태평양 지역이 차지하는 비중보다 낮은 수준입니다. 중국과 인도는 대규모 인구, 빠르게 성장하는 디지털 경제, 그리고 AI가 기업 및 소비자 활동에 더욱 광범위하게 적용될 수 있는 상당한 여지가 있어 추가 수요를 가장 많이 창출하는 시장입니다.</p>
+<p>중국은 대규모 AI 학습 워크로드를 지원할 수 있는 규모와 전략적 집중도를 갖춘 몇 안 되는 시장 중 하나로 남아 있습니다.</p>
+<p>아시아·태평양 지역은 전망 대상 지역 가운데 가장 큰 변동폭을 보입니다. AI 확산이 가속화될 경우 자본투자는 69% 증가하는 반면, AI 확산이 둔화될 경우에는 34% 감소할 것으로 전망됩니다.</p>
+<p>다만 지역 내 국가별 전망은 균일하지 않습니다. 일본과 호주를 포함해 내수 수요 기반이 보다 견조하고 워크로드 구성이 다변화된 시장은 상대적으로 높은 회복력을 보입니다. 반면 국제적으로 이동 가능한 AI 워크로드에 대한 의존도가 높은 시장은 더 큰 영향을 받을 것으로 예상됩니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다. ICT는 GPU, 서버 및 네트워크 장비 등을 포함한 정보통신기술(Information and Communications Technology)을 의미합니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>유럽은 경제 규모에 비해 상대적으로 낮은 수준의 자본투자(Capex)를 유치하고 있습니다. 유럽의 누적 자본투자는 5조 6,000억 달러로 전망되며, 이는 세계 GDP에서 차지하는 비중보다 낮은 수준입니다. 그 원인은 이미 잘 알려져 있으며 상당 부분 유럽 내부에서 비롯된 것입니다. 전력 공급 제약, 복잡한 인허가 절차, 국가별로 분절된 규제 체계가 이에 해당합니다. 토지 및 전력망 제약을 이유로 2025년 신규 데이터센터 건설을 금지한 암스테르담의 사례는 예외적인 경우라기보다 이러한 현실을 보여주는 사례에 가깝습니다.</p>
+<p>이와 같은 요인으로 인해 유럽은 AI 확산이 가속화되는 경우에도 자본투자(Capex) 증가율이 23%에 그쳐 주요 지역 가운데 가장 낮은 증가폭을 보입니다. 이는 기준 시나리오 자체가 이미 공급 제약을 반영하고 있기 때문입니다. 다만 EU 전반에 걸친 엄격한 데이터 주권 규제는 역내 수요의 최소 수준을 지지하는 요인으로 작용합니다. 또한 첨단 반도체 제조장비 공급망과 가까운 일부 지역은 전체 투자규모 수치가 보여주는 것보다 반도체 접근성 측면에서 더 유리한 위치를 유지하고 있습니다.</p>
+<p>북유럽 국가들은 제약이 많은 서유럽의 기존 데이터센터 허브를 대체할 수 있는 현실적인 대안으로 부상하고 있습니다. 이는 재생에너지 비중이 높은 전력망, 냉각 수요를 줄일 수 있는 기후, 그리고 유럽의 다른 지역보다 40~50% 낮은 전력요금에 힘입은 결과입니다.</p>
+<p>아일랜드의 Large Energy-User Action Plan은 역내 다른 지역에서도 나타나고 있는 정책 방향을 보여줍니다. 데이터센터 입지는 재생에너지 통합과 전력망 투자에 대한 이행 약속을 전제로 이루어지고 있습니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다. ICT는 GPU, 서버 및 네트워크 장비 등을 포함한 정보통신기술(Information and Communications Technology)을 의미합니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>중동 지역의 누적 자본투자(Capex)는 1조 1,000억 달러로 금액 기준으로는 크지 않지만, 그 비중은 중동 지역이 세계 GDP에서 차지하는 비중과 대체로 유사합니다. 또한 중동은 기존 데이터센터 설치 기반이 상대적으로 작고, 에너지·자본·인허가·개발 파이프라인을 단일 창구를 통해 조율함으로써 구축 기간을 단축할 수 있다는 점으로 인해 가장 높은 연평균성장률(CAGR)을 기록할 것으로 전망됩니다.</p>
+<p>중동의 데이터센터 구축은 GPU 중심으로 이루어지고 있으며, 역내 수요를 충족하는 데 그치지 않고 국제적으로 이동 가능한 워크로드를 유치하는 데에도 초점을 맞추고 있습니다. 이러한 접근 방식은 기준 시나리오에서 가장 높은 연평균성장률을 가능하게 하지만, 동시에 글로벌 반도체 공급망 차질에 중동 지역의 노출도를 높이는 요인으로도 작용합니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div><div>
+
+    
+    
+    
+    <div>
+        
+        
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다. ICT는 GPU, 서버 및 네트워크 장비 등을 포함한 정보통신기술(Information and Communications Technology)을 의미합니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>아프리카 지역의 누적 자본투자(Capex)는 2,550억 달러로 전망되며, 이는 세계 GDP에서 차지하는 비중을 소폭 하회하는 수준입니다. 그러나 성장 전망은 보다 긍정적입니다. 본 전망에서 아프리카는 기준 시나리오가 AI 확산 자체에 크게 의존하지 않는 유일한 지역입니다. 아프리카는 어떤 AI 시나리오가 현실화되더라도 성과를 창출할 수 있는 기초 디지털 인프라를 구축하는 단계에 있기 때문입니다. 역설적으로 이는 아프리카를 가장 낮은 위험도의 자본투자(Capex) 투자처 중 하나로 만들고 있습니다.</p>
+<p>남아프리카공화국은 가장 성숙한 데이터센터 기반을 보유하며 지역의 중심 역할을 하고 있습니다. 케냐, 나이지리아 및 가나는 가장 유망한 신흥시장으로 평가됩니다. 특히 케냐는 전력망의 약 95%가 재생에너지로 구성되어 있다는 점을 바탕으로, 세계에서 가장 지속가능한 전력 기반을 갖춘 데이터센터 시장 중 하나로 차별화된 입지를 구축하고 있습니다.</p>
+<p>모든 지역에는 동일한 원칙이 적용됩니다. 전력은 핵심 제약요인이며, 정책은 이러한 전력을 얼마나 신속하게 활용할 수 있는지를 결정합니다. 이는 모든 인프라가 구축되고 있는 지정학적 환경이 기준 시나리오의 가정보다 훨씬 더 분절화될 경우 어떤 일이 발생할 것인지에 대한 질문으로 이어집니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+
+</div>
+
+
+</div></div>
+
+        
+    </div>
+
+
+      </div>
+   
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    6. 시나리오 분석
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>두 가지 지정학적 시나리오</h4>
+<p>기준 시나리오는 반도체가 국경을 넘어 이동하고, 워크로드는 조건이 가장 유리한 곳에서 처리되며, 데이터센터의 용량은 비교우위에 따라 구축되는 비교적 개방적인 무역 체계를 전제로 합니다. 앞서 설명한 원뿔형 수요 전망은 이러한 가정에 기반하고 있으며, 향후 어느 정도 규모의 데이터센터 용량이 구축될지에 대한 불확실성을 반영합니다. 그러나 지정학적 요인은 또 다른 질문을 제기합니다. 만약 이러한 가정이 성립하지 않는다면 어떤 일이 발생할 것인가?</p>
+<p>두 가지 시나리오는 이러한 질문을 서로 다른 관점에서 검토합니다. 첫 번째 시나리오는 첨단 반도체의 공급을 제약하는 경우를, 두 번째 시나리오는 핵심 워크로드를 처리할 수 있는 지역을 제한하는 경우를 가정합니다. 보다 분절화된 세계에서는 이 두 가지 요소가 모두 나타날 가능성이 높습니다. 다만 각 시나리오는 서로 다른 경로를 통해 자본투자(Capex)를 재배분하며, 이에 따라 수혜를 받는 지역과 불이익을 받는 지역도 서로 다르게 나타납니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>지정학적 환경에 따라 향후 필요한 데이터센터 투자 규모는 변화될 수 있습니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>참고: 모든 지출금액은 2025년 기준 미 달러(USD)로 표시되었습니다.<br/>
+출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4><br/>
+반도체 공급이 제약된다면?</h4>
+<p>첫 번째 시나리오는 현재 미국과 중국 간에 시행 중인 수출통제가 무역분쟁이 최고조에 달했던 수준까지 확대된 후 지속되는 상황을 가정합니다. 이에 따라 첨단 GPU의 조달이 보다 광범위한 시장에서 어려워지며, 핵심 원자재에 대한 보복성 규제로 인해 반도체 공급망 전반에 걸쳐 마찰이 확대됩니다. 반면, 공급원이 보다 다변화되어 있는 CPU 공급은 대체로 영향을 받지 않습니다. 그 결과 데이터센터 및 AI 인프라 구축은 속도와 범위 모두 축소되며, 모든 지역이 영향을 받기는 하나 안정적인 반도체 접근성을 확보한 국가일수록 그 영향은 상대적으로 제한적일 것으로 예상됩니다.</p>
+<p>주요 영향은 단기적으로 크게 나타나지만 시간이 지나면서 일부 회복됩니다. 연간 자본투자(Capex)는 2030년까지 기준 시나리오 대비 약 절반 수준으로 감소한 후, 공급망이 새로운 환경에 적응함에 따라 점차 회복됩니다. 2050년에는 시장이 이전의 투자 부족분을 만회하면서 연간 자본투자가 기준 시나리오 대비 8% 상회하게 됩니다.</p>
+<p>다만 2026년부터 2050년까지의 누적 자본투자(Capex)는 약 6조 달러 감소하여, 전 세계 누적 자본투자(Capex)는 31조 6,000억 달러에서 25조 5,000억 달러로 축소될 것으로 전망됩니다.</p>
+<p>해당 충격은 단기 파이프라인이 AI에 편중된 시장에서 먼저 나타납니다. 이는 GPU 집약적인 프로젝트가 반도체 공급 제약에 가장 크게 노출되기 때문입니다.</p>
+<p>중동은 비중 기준으로 가장 큰 영향을 받는 지역으로, 누적 자본투자(Capex)가 약 1조 1,000억 달러에서 0.8조 달러로 29% 감소할 것으로 예상됩니다. 이러한 영향은 국제적으로 이동 가능한 AI 워크로드 유치에 대한 의존도가 높은 사우디아라비아, 카타르 및 UAE에 집중됩니다.</p>
+<p>중국도 동일한 이유로 국가 단위에서 가장 큰 충격을 받는 국가 중 하나로 나타나며, 이에 따라 아시아·태평양 지역의 누적 자본투자(Capex)는 8조 2,000억 달러에서 6조 4,000억 달러로 감소할 것으로 전망됩니다.</p>
+<p>미주 지역은 금액 기준 가장 큰 감소폭을 기록할 것으로 예상됩니다. 미국의 투자 파이프라인이 GPU 중심으로 구성되어 있어 단기적인 영향을 크게 받기 때문에, 누적 자본투자(Capex)는 16조 5,000억 달러에서 13조 8,000억 달러로 감소할 것으로 전망됩니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>지정학적 요인으로 반도체 공급이 제한된다면, 누적 투자 규모는 감소할 것입니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>회복이 이루어지더라도 지역별 양상은 균일하지 않습니다. 반도체 공급망 내에서 중요한 역할을 수행하는 시장일수록 회복 속도가 빠르게 나타납니다.</p>
+<p>미국은 충분히 강한 회복세를 보이며, 이에 따라 미주 지역은 주요 권역 가운데 상대적 감소폭이 가장 작은 지역으로 나타납니다. 이는 미국이 보유한 반도체 생태계의 깊이와 자국 내 반도체 생산을 지원할 수 있는 정책 역량을 반영한 결과입니다.</p>
+<p>아시아·태평양 지역에서는 대만, 일본 및 싱가포르가 반도체 공급망 내 핵심적인 역할을 바탕으로 높은 회복력을 보이는 것으로 나타납니다. 유럽의 누적 자본투자(Capex)는 5조 6,000억 달러에서 4조 3,000억 달러로 감소할 것으로 전망되며, 독일은 첨단 반도체 제조를 뒷받침하는 정밀 장비 및 소재 분야에서의 위치를 바탕으로 상대적으로 높은 회복력을 보이는 국가 중 하나로 나타납니다.</p>
+<p>아프리카는 수출통제의 직접적인 대상은 아니지만, 반도체 산업 기반이 제한적이고 첨단 ICT 장비에 대한 접근성이 상대적으로 낮아 2차적 파급효과(Second-order disruption)의 상당 부분을 받게 됩니다. 이에 따라 누적 자본투자(Capex)는 2,550억 달러에서 1,930억 달러로 감소할 것으로 전망됩니다.</p>
+<h4><br/>
+데이터 주권이 핵심 원칙으로 자리 잡는다면?</h4>
+<p>두 번째 시나리오는 또 다른 구조적 변화요인을 가정합니다. 클라우드, 데이터 및 AI 역량에 대한 수요 자체는 크게 달라지지 않지만, 정부 및 규제 산업은 공공서비스, 금융시스템, 의료, 주권AI(Sovereign AI)와 같이 국가의 회복력에 필수적인 워크로드를 처리하는 데 있어 해외 인프라에 대한 의존을 점차 줄이는 경향이 강화되는 것으로 가정합니다. 반면 그 밖의 비핵심 워크로드는 기존과 같이 국가 간 이동이 자유롭게 이루어집니다.</p>
+<p>이 시나리오에서는 전체 자본투자(Capex) 규모에 거의 변화가 없습니다. 2050년까지 전 세계 누적 자본투자(Capex)는 31조 6,000억 달러에서 29조 5,000억 달러로 감소하나, 감소폭은 6.7%에 불과합니다. 이 시나리오의 핵심은 투자 감소가 아니라 투자 재배분에 있습니다. 기존의 글로벌 허브는 국제 수요를 처리함으로써 얻어온 이점의 일부를 상실하는 반면, 상당한 내수 수요를 보유하고 있으나 현재 데이터센터 역량이 충분히 구축되지 않은 신흥시장은 그렇지 않았을 경우보다 더 많은 투자가 이루어질 것으로 예상됩니다.</p>
+<p>이러한 수혜는 견조한 내수 수요를 보유하고 있으나 현재 데이터센터 역량이 충분히 구축되지 않은 지역에 집중됩니다. 아시아·태평양 지역은 금액 기준 가장 큰 수혜 지역으로 나타나며, 2050년 누적 자본투자(Capex)가 기준 시나리오 대비 7% 증가할 것으로 예상됩니다. 인도, 베트남, 인도네시아, 필리핀 및 태국은 모두 의미 있는 투자 증가를 기록할 것으로 전망되는데, 이는 상당한 내수 수요를 보유하고 있음에도 그동안 해당 수요의 상당 부분이 역내 주요 허브를 통해 처리되어 왔기 때문입니다.</p>
+<p>반면 홍콩, 싱가포르, 일본, 호주 및 한국은 기준 시나리오 대비 더 낮은 자본투자(Capex)를 기록할 것으로 예상되는데, 이는 기준 시나리오에서 이들 국가가 유치할 것으로 예상되었던 역내 및 국제 워크로드의 일부가 다른 시장으로 재배분되기 때문입니다.&nbsp;</p>
+<p>아프리카는 모든 지역 가운데 가장 높은 비율의 투자 증가를 기록할 것으로 전망됩니다. 누적 자본투자(Capex)는 약 2,550억 달러에서 2,840억 달러로 12% 증가할 것으로 예상되며, 이는 단기적으로는 클라우드 스토리지의 자국 내 구축(Onshoring) 확대와 장기적으로는 AI 시장의 성장에 기반합니다. 이는 아프리카가 순 수혜 지역(Net winner)으로 나타나는 몇 안 되는 시나리오 중 하나입니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>주권 AI가 강화될수록, 수혜 지역과 피해 지역이 뚜렷하게 구분됩니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>출처: PwC 『Global Data Centre Outlook 2026–50』, Oxford Economics의 예측 모형</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>손실은 기준 시나리오상 다른 지역의 수요에 대해 서비스를 주로 제공해 온 지역에 집중됩니다.&nbsp;</p>
+<p>미주 지역은 금액 기준 가장 큰 감소폭을 기록할 것으로 예상되며, 미국에서 처리되던 클라우드·데이터·AI 워크로드가 각국으로 환류(Repatriation)되면서 누적 자본투자(Capex)는 16조 5,000억 달러에서 13조 7,000억 달러로 감소할 전망입니다. 미국 단독으로 약 2조 9,000억 달러가 감소할 것으로 예상됩니다. 다만 역내에서는 브라질, 칠레 및 캐나다가 국가적으로 중요한 워크로드의 국내 처리 확대에 따라 수혜를 입을 것으로 전망됩니다.</p>
+<p>중동의 감소폭은 상대적으로 크지 않으며 누적 자본투자(Capex)는 1조 1,000억 달러에서 1조 달러로 감소할 전망입니다. 사우디아라비아, UAE 및 카타르는 역내에서 가장 국제 지향적인 시장으로서, 워크로드 유치를 통해 누려왔던 이점의 일부를 잃게 됩니다. 반면 쿠웨이트와 오만 등 상대적으로 규모가 작은 걸프 지역 시장은 자국 내 처리(Onshoring) 확대에 따른 수혜를 입습니다.</p>
+<p>또한 중동 지역은 전체적으로 이러한 변화의 영향이 제한적입니다. 이는 단기 데이터센터 구축의 상당 부분이 국제적으로 이동 가능한 워크로드를 유치하기보다 역내 수요를 충족하는 데 초점을 맞추고 있기 때문입니다.</p>
+<p>유럽은 대체로 기준 시나리오와 유사한 흐름을 보입니다. 이는 EU의 엄격한 데이터 주권 규제로 인해 이미 역내 수요의 상당 부분이 국내에서 처리되고 있어 추가적인 재배분 효과가 제한적이기 때문입니다.</p>
+<p>다만, 유럽 전체의 재배분 효과는 제한적이지만, 유럽내 국가 간 재배분 효과는 존재합니다. 영국은 공공부문과 금융부문의 규모를 바탕으로 유럽에서 가장 큰 증가폭을 기록할 것으로 예상되며, 튀르키예와 폴란드는 국가주권형 워크로드를 국내에서 처리해야 할 필요성이 더 크다는 점에서 수혜를 입을 것으로 전망됩니다. 반면 아일랜드, 네덜란드 및 독일과 같은 기존 데이터센터 허브 국가는 기준 시나리오에서 유치할 것으로 예상되었던 국경 간 워크로드의 일부가 다른 시장으로 재배분됨에 따라 상대적으로 낮은 자본투자를 기록할 것으로 예상됩니다.</p>
+
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+    
+
+
+<div>
+
+	
+	<div>
+		<blockquote>
+		  <p>이러한 선행지표는 향후 어떤 데이터센터 투자 시나리오가 현실화되고 있는지를 판단하는 데 도움을 제공합니다.</p>
+		  
+		</blockquote>
+	</div>
+
+</div>
+
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th>신호</th>
+<th>모니터링 항목</th>
+<th>시사점</th>
+</tr><tr><td><strong>AI 수요와 수익화</strong></td>
+<td>전사적 AI 도입 사례, AI 기여 매출, 추론 처리량, 생산성 개선 근거</td>
+<td>AI 확산 속도</td>
+</tr><tr><td><strong>수요자 행동</strong></td>
+<td>하이퍼스케일러의 자본투자(Capex) 가이던스, 임대 활동, 자체 구축, GPU 조달 현황, 네오클라우드 자금조달 여건</td>
+<td>수요자 기반이 적극적으로 투자하고 있는지 또는 선별적으로 투자하고 있는지 여부</td>
+</tr><tr><td><strong>시장 여건</strong></td>
+<td>공실률, 시장 흡수량, 선임대 현황, 임대료 수준, 프로젝트 착공 및 지연 현황</td>
+<td>공급 부족 여부 및 과잉 투자 위험</td>
+</tr><tr><td><strong>반도체·장비 수급</strong></td>
+<td>GPU 공급 가능 여부, 서버·네트워크·냉각설비 조달기간, 중고시장 가격</td>
+<td>반도체 공급망의 분절 여부</td>
+</tr><tr><td><strong>정책 및 주권</strong></td>
+<td>소버린 클라우드 규제, 수출통제, 데이터 현지화 제도, 해외투자 승인 제도</td>
+<td>반도체 공급 흐름의 제약 여부</td>
+</tr><tr><td><strong>전력 및 전력망</strong></td>
+<td>전력망 연결 대기 물량, 전력 가격, 전력망 혼잡도, 전력구매계약(PPA) 조건, 변압기 리드타임</td>
+<td>핵심 제약요인이 강화되고 있는지 또는 완화되고 있는지 여부</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <p><sup>출처: PwC 및 Oxford Economics 분석</sup><br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+<div>
+    <div>
+        <div>
+            <button>
+                한국 관점 : 소버린 AI는 한국에 기회이면서도 도전입니다.
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>글로벌 보고서는 데이터 주권(Data Sovereignty)이 강화될 경우 국가별 데이터센터 투자 지형이 재편될 것으로 전망합니다. 특히 한국은 홍콩, 싱가포르, 일본, 호주와 함께 역내 허브 기능의 일부가 약화될 가능성이 있는 국가군으로 언급됩니다. 각국이 핵심 데이터를 자국 내에서 처리하려는 움직임을 강화할 경우, 지금까지 지역 허브가 담당해 온 일부 워크로드가 각 국가로 분산될 수 있기 때문입니다.&nbsp;</p>
+<p>그러나 이러한 변화가 반드시 한국에 불리한 것만은 아닙니다. 한국은 HBM, 메모리반도체, 전력·냉각 설비 등 AI 인프라 공급망의 핵심 경쟁력을 보유하고 있습니다. 글로벌 AI 투자 확대가 지속되는 한, 데이터센터가 어느 국가에 건설되더라도 한국 기업들이 공급망에서 창출할 수 있는 기회는 여전히 큽니다.</p>
+<p>이는 한국이 단순히 더 많은 데이터센터를 유치하는 데 집중하기보다, 국내 연산 인프라 경쟁력과 글로벌 공급망 경쟁력을 동시에 강화해야 함을 의미합니다. 앞으로의 경쟁은 데이터센터 개수보다 국가 AI 생태계 전체의 경쟁력에서 결정될 가능성이 높습니다.<br/>
+&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                시사점
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ol>
+<li>국내 AI 연산 인프라를 확충해 국가 경쟁력을 유지해야 합니다.</li>
+<li>HBM, 전력기기, 냉각설비 등 글로벌 AI 공급망 우위를 더욱 강화해야 합니다.</li>
+<li>'국내 AIDC 육성'과 '글로벌 AI 공급망 확대'를 동시에 추진하는 이중 전략(Dual Strategy)이 필요합니다.</li>
+</ol>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h2>제언: 한국은 국내 인프라와 글로벌 공급망을 동시에 키워야 합니다.</h2>
+<p>글로벌 보고서가 보여주는 미래는 단순한 데이터센터 건설 경쟁이 아닙니다. 앞으로의 경쟁은 AI 연산 역량, 전력 확보 능력, 그리고 공급망 경쟁력을 얼마나 동시에 확보할 수 있는가에 달려 있습니다. 한국은 미국과 같은 초대형 데이터센터 허브가 되기는 어렵지만, AI 인프라 공급망과 첨단 제조 역량을 기반으로 차별화된 경쟁력을 확보할 수 있습니다.</p>
+<h4>한국 AI 데이터센터 산업의 3대 전략 과제</h4>
+<p>삼일PwC는 글로벌 데이터센터 시장의 변화와 한국 시장의 특성을 종합적으로 고려할 때, 향후 한국이 집중해야 할 세 가지 전략 과제를 다음과 같이 제안드립니다.</p>
+<h5>① 발표된 GW를 실제 MW로 전환해야 합니다.</h5>
+<p>향후 경쟁력은 발표된 투자 규모가 아니라 실제 가동 가능한 전력 용량에서 결정될 것입니다. 수도권을 중심으로 데이터센터 수요는 빠르게 증가하고 있지만, 전력계통 연계와 변전설비 확충이 이를 충분히 뒷받침하지 못하고 있습니다. 앞으로는 전력확약, 계통 접속, 가압 시점 단축을 통해 계획된 투자를 실제 공급능력으로 연결하는 실행력이 중요해질 전망입니다.</p>
+<h5>② 수도권과 비수도권의 역할을 재정립해야 합니다.</h5>
+<p>AI 데이터센터 시대의 입지 전략은 과거와 달라지고 있습니다. 수도권은 금융, 게임, 공공서비스 등을 지원하는 AI 추론(Inference) 거점으로 발전하고, 비수도권은 풍부한 전력과 대규모 부지를 활용한 AI 학습(Training) 거점 역할을 수행할 필요가 있습니다. 제조업 중심 지역은 산업용 AI와 디지털트윈을 지원하는 엣지 AI(Edge AI) 허브로 육성하는 전략이 요구됩니다..</p>
+<h5>③ AI 인프라 공급망을 차세대 성장산업으로 육성해야 합니다.</h5>
+<p>AI 인프라 시장의 부가가치는 점차 데이터센터 건설에서 GPU, 메모리, 전력설비, 냉각장비 등 공급망으로 이동하고 있습니다. 한국은 HBM과 메모리뿐 아니라 전력기기, UPS, ESS, 액체냉각, DCIM, 보안 솔루션 등 다양한 분야에서 경쟁력을 보유하고 있습니다. 글로벌 AI 투자 확대를 국내 산업 성장으로 연결하기 위해서는 데이터센터 산업과 공급망 산업을 함께 육성하는 전략이 필요합니다.</p>
+<p><strong>결국 한국의 과제는 데이터센터를 더 많이 유치하는 것이 아니라, AI 인프라 시대의 핵심 경쟁력을 얼마나 빠르게 현실화하는가에 있습니다. 전력, 연산 인프라, 공급망 경쟁력을 유기적으로 연결할 수 있는 국가가 AI 시대의 새로운 승자가 될 것입니다. 한국의 미래는 데이터센터 개수보다 AI 인프라 생태계의 경쟁력에 의해 결정될 가능성이 높습니다.<br/>
+ &nbsp;</strong></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h6><strong>한국내 데이터센터 전력 수요(전기사용 신청)와 한국전력 공급가능 전력 (단위: MW)</strong>&nbsp;</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>주: 한국전력에 제출된 데이터센터 전기사용 신청 대비 공급 가능한 전력량이며, 2025년 이후는 전망치입니다.<br/>
+출처: 삼일PwC 경영연구원, 산업통상자원부, 한국전력공사</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h6>한국 지역별 전력자립률 (2024년, 지역 생산량 ÷ 지역 소비량, %)</h6>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        <p><sup>출처: 삼일PwC 경영연구원, 산업통상자원부, 에너지경제연구원</sup></p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+
+
+
+
+    <div>
+        <div>
+            <h2>
+                
+                
+                    7. 이해관계자에 대한 시사점
+                
+            </h2>
+        </div>
+        
+    </div>
+
+</div>
+<div>
+
+
+    
+
+    <div>
+        <h4>투자 사이클에 대한 대응 방향</h4>
+<p>이번 분석은 규모가 크고 구조적이며 반복적으로 이어지는 투자 사이클을 보여주고 있습니다. 다만 이러한 투자 사이클은 지역별로 균등하게 분포되지 않으며, 지정학적 요인에 따른 재편에 취약합니다. 데이터센터 용량을 구축하고 자본을 투자하며 시장 환경을 형성하는 주체들에게 중요한 과제는 이러한 변화에 어떻게 대응할 것 인가입니다. 아래 권고사항은 앞서 살펴본 원뿔형 수요 전망과 두 가지 지정학적 시나리오 모두에 적용됩니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+<div>
+<div>
+    <div>
+        <div>
+            <button>
+                투자자(For investors)
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ul>
+<li>데이터센터를 복합 자산(hybrid asset)으로 평가해야 합니다. 데이터센터는 부동산, 유틸리티 인프라, 반도체 관련 위험이라는 세 가지 요소로 구성되며, 각 요소는 서로 다른 투자 기간과 리스크 특성을 갖습니다. 이 가운데 가장 자주 과소평가되는 리스크는 반도체 부문의 기술 진부화(Obsolescence) 및 잔존가치(Residual value) 리스크입니다.</li>
+<li>자산 구조를 넘어 실제 리스크가 존재하는 지점을 파악해야 합니다. 자본, 개발, 임대 및 거래상대방(Counterparty) 리스크는 시스템 전반에 걸쳐 서로 다른 방식으로 분산되어 있습니다. 또한 거래상대방 구성 역시 이제 하이퍼스케일러, 네오클라우드 사업자, 국가 주도 투자기구(Sovereign vehicles), 규제 산업 등으로 다양해졌으며, 각각은 시나리오별로 수요의 지속성이 다르게 나타납니다. 데이터센터를 단일한 투자 노출로 간주할 경우 이러한 차이를 놓칠 수 있습니다.</li>
+<li>기존 허브에 대한 집중을 완화하고 투자를 분산해야 합니다. 대형 허브는 AI 확산이 가속화될 경우 가장 큰 상승 여력을 확보할 수 있지만, 동시에 성장 둔화, 반도체 접근성 제약, 그리고 데이터 주권 강화에 따른 투자 재배분의 영향에도 가장 크게 노출되어 있습니다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                운영사(For operators)
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ul>
+<li>본 분석의 두 가지 지정학적 시나리오는 서로 다른 경쟁 구도를 보여줍니다. 하나는 반도체 접근성, 하이퍼스케일러의 규모, AI 학습 워크로드를 둘러싼 글로벌 허브 간 경쟁입니다. 다른 하나는 주권 기반 AI 추론과 기초 디지털 인프라 구축을 둘러싼 국내 및 지역 차원의 경쟁입니다. 두 경쟁은 성공 요인, 수요처(Off-taker) 및 설계 요건이 크게 다르며, 하나의 경쟁에 맞춰 수립된 전략은 다른 경쟁에서는 효과를 발휘하기 어렵습니다.</li>
+<li>전력 확보 속도를 경쟁력으로 삼아야 합니다. 전력은 본 분석의 모든 시나리오에서 핵심 제약요인으로 작용하며, 이는 전체 수요가 감소하는 시나리오에서도 마찬가지입니다. 경쟁사보다 빠르게 전력 용량(MW)을 확보할 수 있는 운영사는 시장이 어떤 방향으로 전개되더라도 데이터센터 용량의 상당 부분을 확보할 수 있습니다.</li>
+<li>전략적 유연성(Optionality)을 고려해 설계해야 합니다. 단계적인 전력망 연계, 모듈형 데이터센터 용량, 그리고 다양한 하드웨어에 유연하게 대응할 수 있는 냉각 시스템을 고려할 필요가 있습니다. 선택 가능성 자체가 시나리오 불확실성에 대한 헤지 수단이 됩니다. AI 확산이 가속화될 경우에는 가치를 유지할 수 있고, 반대로 확산이 기대에 미치지 못할 경우에는 유휴 인프라 용량에 대한 노출을 줄일 수 있습니다.</li>
+<li>기술 진부화 리스크를 회피할 수 있는 장기 임대차 계약을 체결해야 합니다. 장기 임대차 계약을 체결할 의사가 있는 수요처인 하이퍼스케일러, 국가 주도 투자기구(Sovereign vehicles), 규제 대상 기업∙기관은 성장 둔화 및 데이터 주권 강화 시나리오에서도 수요의 지속성이 가장 높은 주체들입니다. 이들 수요처를 적절히 평가하고 계약을 구조화하는 것이 자산 수준에서 활용할 수 있는 가장 효과적인 헤지 수단입니다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                정책결정자(For policymakers)
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <ul>
+<li>데이터센터를 국가 전략 인프라로 간주해야 합니다. 가장 성공적인 국가 및 지역은 에너지, 자본, 인허가 및 개발 파이프라인을 민간 주체들이 개별적으로 추진하도록 두기보다 단일 창구를 통해 통합적으로 조율합니다. 중동의 정책 공조는 이를 보여주는 대표적인 사례입니다. 다른 국가들은 세제 혜택, 인허가 절차 간소화, 부지 지원 또는 디지털 인프라에 대한 선별적 지원 등을 통해 경쟁할 수 있습니다. 중요한 것은 이러한 정책들의 조합입니다. 데이터센터 개발을 더 빠르고, 더 예측 가능하며, 더 투자하기 좋은 환경으로 만드는 국가와 지역이 앞서 나갈 가능성이 높습니다.</li>
+<li>장기 조달이 필요한 전력 및 전력망 설비를 선제적으로 확보할 수 있는 역량을 갖춰야 합니다. 송전설비, 변전소 및 변압기는 이제 수년에 걸친 조달기간이 소요되며, 어떤 프로젝트가 언제 착공될 수 있는지를 결정합니다. 선제 조달(Pre-procurement)은 이러한 병목을 완화할 수 있는 몇 안 되는 일정 관리 수단 중 하나입니다. 다만 수요 가시성에 맞춰 신중하게 추진되어야 합니다. 신뢰할 수 있는 개발 파이프라인 없이 선제 조달이 이루어질 경우, 그 자체로 활용되지 못하는 전력망 투자를 초래할 수 있기 때문입니다.</li>
+<li>초기 단계부터 저탄소 기반의 인프라 구축을 계획해야 합니다. 장기적으로 경쟁우위를 유지하는 시장은 재생에너지와 안정적인 저탄소 전력 공급능력이 뒤쳐지지 않고 데이터센터 입지와 함께 확장되는 시장입니다. 반대로 데이터센터 구축 이후 이를 뒤따르는 형태의 전력 확충은 경쟁우위를 제공하기 어렵습니다. 북유럽, 칠레 및 캐나다는 이러한 사례를 보여줍니다. 이들 국가는 경쟁력 있는 가격의 청정 전력을 기반으로, 전력이 제약요인이 아닌 비교우위로 작용하는 환경을 구축하고 있습니다.</li>
+</ul>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div>
+
+
+    
+
+    <div>
+        <p>31조 6,000억 달러짜리 질문의 핵심은 자본이 있느냐가 아닙니다. 자본은 있습니다. 수요가 있느냐도 아닙니다. 수요 역시 있습니다.</p>
+<p>문제는 어떤 지역, 어떤 운영사, 그리고 어떤 국가나 지역이 이러한 기회를 확보할 수 있는 위치에 있으며, 그렇지 않은 곳은 어디인가 하는 점입니다. 데이터센터가 설치되는 건물보다 반도체 교체 주기에 주목하는 투자자, 글로벌 하이퍼스케일 시장과 주권 기반 지역 시장 중 목표 시장을 명확히 설정한 운영사, 그리고 전력을 오늘날의 전략적 자산으로 간주하는 정부가 결국 승자가 될 것입니다.</p>
+<p>반면 과거의 우위에 안주하는 허브, 여전히 클라우드 시대에 맞는 규제 체계를 마련하는 데 머물러 있는 지역, 그리고 데이터센터를 마치 물류창고처럼 평가하는 자본 배분자는 AI 인프라 구축이 모두에게 동일한 혜택을 가져다주는 상승 국면이 아니라는 사실을 깨닫게 될 것입니다.</p>
+<p>2050년 전 세계 연산 역량의 분포는 이러한 요인들에 따라 재편될 것입니다. 이는 2026년의 모습과는 크게 다를 것이며, 그 차이는 수조 달러 규모에 이를 것입니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+<div>
+    <div>
+        <div>
+            <button>
+                방법론
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>PwC는 본 분석을 지원하기 위해 Oxford Economics에 데이터센터 자본투자(Capex) 전망을 의뢰하였습니다. 해당 전망은 미주, 아시아·태평양, 유럽, 중동 및 아프리카의 5개 권역에 걸쳐 46개 국가 및 지역을 대상으로 하며, 이들은 전 세계 경제활동과 디지털 인프라 투자의 대부분을 차지합니다.</p>
+<p>자본투자(Capex)는 두 가지 구성요소를 기준으로 산정되었습니다. 첫 번째는 건물 및 구조물(Buildings and structures) 로, 전력 및 냉각 설비를 포함하여 데이터센터의 건설과 운영에 필요한 물리적 인프라를 의미합니다. 두 번째는 ICT 장비(ICT equipment) 로, 데이터센터 내에 설치되는 서버, GPU, CPU, 스토리지 및 네트워크 장비를 의미합니다.</p>
+<p>ICT 장비는 4~6년마다 교체되는 것으로 가정하였으며, 모든 수치는 2025년 환율 기준의 실질 미국 달러(Real US dollars)로 표시하였습니다.</p>
+<p>기준 시나리오는 세 단계의 분석 과정을 거쳐 구축되었습니다.</p>
+<p>첫째, 수요는 경제활동과 디지털 소비 간의 장기적인 관계를 기준으로 산정하였습니다. 국가 및 지역별 웹·데이터 서비스 수요는 로지스틱 수용곡선(Logistic adoption curve)을 활용하여 모형화하였으며, 각 국가 및 지역의 경제성장 전망에 맞춰 조정하였습니다. 이를 바탕으로 데이터센터 IT 부하(MW 기준)으로 측정한 데이터센터 IT용량에 대한 글로벌 전망을 도출하였으며(국제에너지기구(IEA), Uptime Institute 자료 활용), OECD 및 국제에너지기구 자료에 기반한 장기 설비가동률(Capacity utilisation) 가정을 적용하여 조정하였습니다.</p>
+<p>둘째, 공급은 비교우위를 결정하는 구조적 요인을 식별하는 다변량 회귀분석 (Multivariate regression) 모형을 통해 국가 및 지역별로 배분하였습니다. 해당 모형에는 전력 가격, 송배전 손실률, 하이퍼스케일 클라우드 사업자의 입지, 반도체 교역, ICT 서비스 수출, 사이버보안 성숙도 등을 포함한 11개 변수가 반영되었습니다. 이후 국가 및 지역별 비교우위와 단기 파이프라인 분석을 결합하여 2030년까지의 단기 데이터센터 용량 전망을 도출한 뒤, 2050년까지의 장기 분포 전망으로 전환하였습니다.</p>
+<p>마지막으로, 자본투자(Capex)는 Turner &amp; Townsend의 ‘데이터센터 건설 비용 지수 2025-2026(Data centre construction cost index 2025-2026)’ 및 ICT 장비 비용 연구를 앞서 도출한 용량 전망에 적용하여 산출하였습니다.</p>
+<p>데이터센터 용량은 연산 성능의 단위가 아니라 IT 부하(MW) 기준으로 산정되기 때문에, 반도체 성능 향상, 전력당 연산능력 개선, 랙(Rack) 밀도 향상과 같은 기술 발전은 MW당 자본투자(Capex)가 감소하는 형태가 아니라 동일한 MW가 처리할 수 있는 연산 역량의 증가로 반영됩니다. 이 과정에서 두 가지 상쇄 효과를 반영하였습니다. 보다 효율적인 반도체는 동일한 워크로드를 처리하는 데 필요한 서버 수를 줄이는 반면, 연산 비용의 실질적 하락은 새로운 활용 사례를 창출하고 수요를 증가시킵니다. 경제성장과 디지털 서비스 확산은 이러한 두 가지 효과를 내재적으로 반영하고 있으며, IT 부하 수요를 보정하는 핵심 변수로 활용됩니다. ICT 장비 내 GPU 비중은 AI 워크로드 증가에 따라 점진적으로 확대되며, 데이터센터의 물리적 규모가 확대되더라도 MW당 비용은 상승하게 됩니다. 또한 반도체 가격에는 어느 방향으로도 구조적인 변화가 발생하지 않는 것으로 가정하였습니다.</p>
+<p>본 전망은 근본적으로 새로운 연산 구조(Architectures), 특히 양자컴퓨팅의 영향을 반영하지 않습니다. 양자컴퓨팅은 전망 기간 동안에도 상업적 성숙도가 초기 단계에 머물 것이기 때문입니다. 양자컴퓨팅의 성능과 비용에 중대한 변화가 발생할 경우 기존 데이터센터가 처리하는 워크로드 구성 역시 달라질 수 있으나, 이러한 가능성은 모델링 범위 밖의 요소로 간주하였습니다.</p>
+<p>본 보고서에서 제시한 원뿔형 수요 전망은 기준 시나리오 대비 AI 도입 속도가 더 빠르거나 더 느린 경우를 가정한 두 가지 추가 시나리오를 반영합니다. AI 도입 가속 시나리오는 Microsoft의 「Global AI Adoption in 2025: A Widening Digital Divide」 보고서를 근거로, 모든 국가 및 지역의 AI 도입 속도가 현재 세계 선두인 아랍에미리트 (UAE)의 과거 성장률을 따른다고 가정합니다. 반면 AI 도입 둔화 시나리오는 AI 도입이 현재의 구축 파이프라인이 전제하는 수준보다 미진한 경우를 가정합니다. 이 경우 운영사들은 우선 GPU 조달 규모를 축소하고, 이후 초과 공급이 가시화됨에 따라 건설 투자 역시 축소하는 것으로 가정하였습니다.</p>
+<p>두 가지 지정학적 시나리오는 추가적인 분석을 통해 검증하였습니다. 첫 번째 시나리오는 첨단 반도체에 대한 수출통제 강화와 핵심 원자재에 대한 보복성 규제의 영향을 반영하며, 그 영향은 GPU 집약적 시장에 집중되고 회복은 공급망의 성숙도에 따라 달라집니다. 두 번째 시나리오는 수요를 두 가지로 구분합니다. 하나는 국내에서 처리되는 것으로 가정한 핵심 워크로드로, CPU 중심의 클라우드 및 스토리지, 공공서비스와 금융시스템을 위한 AI 추론, 그리고 소규모 국가 주도 AI 학습이 포함됩니다. 다른 하나는 글로벌 및 지역 허브를 통해 계속해서 서비스를 제공받을 수 있는 비핵심 워크로드입니다.</p>
+<p>본 전망은 개별 시나리오에 확률 가중치를 부여하지 않습니다. 기준 시나리오는 AI 도입, 공급망 여건 및 정책 환경에 대한 현재의 가정을 바탕으로 가장 실현가능성이 높은 경로를 반영한 것이며, 대안 시나리오는 위험의 경중을 서열화 한 것이 아니라 기본 경로에서 벗어나는 일관성 있는 전개를 설명한 것입니다.&nbsp;</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+<div>
+        <div>
+            <button>
+                참고사항
+                
+            </button>
+        </div>
+        <div><div>
+
+    
+    
+    
+    <div>
+        
+        <div>
+
+
+    
+
+    <div>
+        <p>데이터센터 구축 비용을 과거 인프라 투자 사이클과 비교하기 위해 영국과 미국의 철도 건설, 그리고 초기 인터넷 인프라 구축에 대한 역사적 투자 규모를 2025년 현재가치 기준으로 산정하였습니다. 영국과 미국의 철도 건설 누적 투자 규모(1840~1900년)는 전미경제연구소(National Bureau of Economic Research, NBER)의 역사적 데이터와 영국 국립문서보관소(UK National Archives) 자료를 바탕으로 2025년 가치 기준 약 7,200억 달러로 추산하였습니다. 초기 인터넷 인프라 구축의 누적 투자 규모(1996~ 2001년)는 주요 유선통신, 무선통신 및 케이블 사업자의 자본투자(Capex)에 관한 US Telecom 및 미국 연방준비제도(Federal Reserve) 연구를 바탕으로 2025년 가치 기준 약 3조 2,900억 달러로 산정하였습니다. 물가 조정은 데이터제공기관인 MeasuringWorth의 미국 소비자물가지수(CPI) 자료를 활용하였습니다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+<div>
+   <div>
+      <div>
+   <div>
+      <h2>Global Data Centre Outlook 2026–50</h2>
+      
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/global-trends/samilpwc_data-centre-outlook-2026.pdf">Download PDF
+</a>
+(PDF of 1.9MB)
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+      <div>
+   <div>
+      <h2>AIDC팀 소개 브로슈어</h2>
+      
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/service/samilpwc_aidc.pdf">Download PDF
+</a>
+(PDF of 1.02MB)
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+   </div>
+</div></div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 		<item>
 			<title>미래 산업 전략, 7대 SEED 프로젝트​ | 삼일PwC</title>
-			<link>https://www.pwc.com/content/pwc/kr/ko/insights/issue-brief/7-seed-projects.html</link>
-			<guid isPermaLink="true">https://www.pwc.com/content/pwc/kr/ko/insights/issue-brief/7-seed-projects.html</guid>
+			<link>https://www.pwc.com/kr/ko/insights/issue-brief/7-seed-projects.html</link>
+			<guid isPermaLink="true">https://www.pwc.com/kr/ko/insights/issue-brief/7-seed-projects.html</guid>
 			<pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.pwc.com/content/dam/pwc/kr/ko/insights/issue-brief/7-seed-projects-hero.png/jcr:content/renditions/cq5dam.web.1280.1280.png"/></figure><p>정부가 발표한 7대 SEED 프로젝트의 추진 배경과 주요 내용을 살펴보고, 한국 산업정책이 미래 산업 선도 전략으로 전환하는 의미와 기업의 대응 방향을 제시합니다.</p>]]></description>
+			<description><![CDATA[<section>
+
+      
+            
+        <div>
+            
+        <div>
+
+    
+
+
+
+
+
+
+
+
+   
+   
+       <div>
+         <div>
+            <div>
+               
+                  <p>미래 산업 전략</p>
+                  <h1>7대 SEED 프로젝트</h1>
+               
+            </div>
+            <div>
+               <img src="https://www.pwc.com/kr/ko/insights/issue-brief/7-seed-projects-hero.png" alt="Hero image"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <ul>
+                  
+                  
+                  <li>September 2026</li>
+               </ul>
+               <div>
+                  <button>
+                     
+                     Share
+                  </button>
+                  
+<div>
+   <div>
+      <button>
+      
+      Copy Link
+      Link Copied
+      </button>
+   </div>
+   <button>
+      
+         
+      
+      Close
+   </button>
+</div>
+
+               </div>
+            </div>
+         </div>
+      </div>
+      <div>
+         <p><strong>한국 산업은 반도체, 자동차, 조선 등 기존 주력산업에서 선도국을 따라가며 경쟁력을 확보하는 Fast Follower(추격형 성장 전략)를 통해 성장해 왔습니다. 그러나 AI, 양자, 우주·항공, 첨단바이오 등 미래 기술은 아직 산업 구조와 시장 지형이 완성되지 않은 영역입니다. 정부가 발표한 7대 SEED 프로젝트는 이러한 변화에 대응해 미래 산업의 시장과 생태계를 선제적으로 구축하는 Frontier Leader(선도형 개척 전략)로의 전환을 보여주는 장기 국가 전략으로 볼 수 있습니다.</strong></p>
+
+      </div>
+   
+
+
+
+</div>
+<div><!-- SDI include (path: /content/pwc/kr/ko/insights/issue-brief/7-seed-projects/_jcr_content/root/container/title/reference_xf.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div>
+
+
+    
+    <div>
+        
+
+
+<div>
+    
+    <div><!-- SDI include (path: /content/experience-fragments/pwc/kr/ko/reference/insight-css/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link>
+        
+        
+    
+
+
+    
+
+</div>
+<div>
+
+
+    
+
+
+
+    <div>
+    	
+    	    <div>
+/*Show Ref XF in author */
+html.aem-AuthorLayer-Edit .html-xf {
+	display: block;
+	background: #f0f0f0;
+	text-align: center;
+	color: #ccc;
+	height: 3rem;
+	position: relative;
+}
+html.aem-AuthorLayer-Edit .html-xf.html-xf--customkr2::before {
+	content: 'insight용 Custom css (image, Quote, table, secondly nav) - by.Yoon';
+	display: block;
+	color: #7d7d7d;
+}
+</div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+
+
+    
+
+    <div>
+        <h3><strong>7대 SEED 프로젝트는 무엇인가?</strong></h3>
+<h5><strong>한국 정부의 7대 SEED 프로젝트 개요</strong></h5>
+
+    </div>
+
+
+    
+
+
+
+</div>
+<div>
+
+
+    
+
+
+
+
+    
+
+<div>
+    <table>
+<tbody><tr><th><p><strong>구분</strong></p>
+</th>
+<th><p><strong>주요 내용</strong></p>
+</th>
+</tr><tr><td><p><strong>공식 명칭</strong></p>
+</td>
+<td><p>미래성장동력 ‘7대 SEED’ 프로젝트</p>
+</td>
+</tr><tr><td><p><strong>발표일</strong></p>
+</td>
+<td><p>2026년 8월 12일 청와대에서 열린 ‘미래성장동력 ｢7대 SEED｣ 보고회’에서 관계부처 합동으로 발표</p>
+</td>
+</tr><tr><td><p><strong>명칭 의미</strong></p>
+</td>
+<td><p><strong>SEED</strong>는 <strong>S</strong>trategic <strong>E</strong>merging <strong>E</strong>ngines for <strong>D</strong>isruptive Innovation의 약자로,<br/>
+‘파괴적 혁신을 위해 전략적 투자가 필요한 대한민국의 미래 성장엔진’을 의미</p>
+</td>
+</tr><tr><td><p><strong>추진 목적</strong></p>
+</td>
+<td><p>10~20년 이후 대한민국의 차세대 성장 동력을 확보하기 위해 첨단기술을 조기에 개발·상용화하고 장기적 관점에서 육성</p>
+</td>
+</tr><tr><td><p><strong>구성</strong></p>
+</td>
+<td><ul>
+<li>미래 청정에너지 3개(SMR, 핵융합, 한계돌파형 재생에너지)</li>
+<li>차세대 프론티어 3개(양자, 우주·항공, 첨단바이오)</li>
+<li>대도약의 기반 1개(첨단 공급망)</li>
+</ul>
+</td>
+</tr></tbody></table>
+
+</div></div>
+<div>
+
+
+    
+
+    <div>
+        <h5><b><br/>
+7대 SEED 프로젝트별 주요 목표</b></h5>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        
+<h3><b>기존 산업정책과 무엇이 다른가?</b></h3>
+<p>기존 산업정책이 경쟁력을 확보한 산업의 생산 확대와 수출 경쟁력 강화에 초점을 맞췄다면, 7대 SEED는 아직 시장이 형성되지 않은 기술을 미래 산업으로 육성하는 데 초점을 둔다.</p>
+<h5><b>기존 산업정책과 7대 SEED 프로젝트 차이</b></h5>
+
+    </div>
+
+
+    
+
+
+</div>
+
+<div>
+
+
+    
+
+    <div>
+        
+<h3><strong>기업은 무엇을 준비해야 하나?</strong></h3>
+<h5><strong>① 기존 산업의 강점을 미래 산업으로 확장하라</strong></h5>
+<ul>
+<li>원전 → SMR·핵융합</li>
+<li>반도체 → 양자·바이오 전자기기</li>
+<li>통신 → 저궤도 위성통신·양자보안</li>
+<li>제약·바이오 → AI 신약개발·첨단치료제</li>
+</ul>
+<h5><strong><br/>
+② 미래 산업마다 다른 산업화 경로를 이해하라</strong></h5>
+<p>미래 산업은 분야별로 시장이 형성되는 방식이 다르다.</p>
+<ul>
+<li>SMR·핵융합은 실증과 인허가</li>
+<li>재생에너지는 인프라와 경제성 확보</li>
+<li>양자는 활용 사례 발굴</li>
+<li>우주·항공은 민간시장 확대</li>
+<li>첨단바이오는 임상 성과와 생산 안정성 확보</li>
+</ul>
+<p>→&nbsp;기술의 유망성뿐 아니라 산업화 과정과 시장 형성 조건에 대한 이해가 중요하다.</p>
+<h5><strong><br/>
+③ 기술보다 미래 생태계 내 포지션을 선점하라</strong></h5>
+<p>미래 산업의 기회는 원천기술 개발 기업에만 있는 것이 아니다.</p>
+<p>소재·부품·장비, 인프라, 플랫폼, 서비스, 운영 분야 등 가치사슬 전반에서 새로운 사업 기회가 발생할 수 있다. 미래 산업 경쟁의 핵심은 어떤 기술을 보유했는가보다 산업 생태계 내 어떤 위치를 확보하느냐에 있을 수 있다.</p>
+
+    </div>
+
+
+    
+
+
+</div>
+
+		</div>             
+        
+    </section> <section>
+
+      
+            
+        <div>
+            
+        <div>
+    
+
+<div>
+   <div>
+      <div>
+   <div>
+      <h2>미래 산업 전략, 7대 SEED 프로젝트</h2>
+      <p>더 자세한 내용은 PDF 파일에서 확인하실 수 있습니다.</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/issue-brief/samilpwc_7-seed-projects.pdf">Download PDF
+</a>
+(PDF of 2.11MB)
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+      <div>
+   <div>
+      <h2>삼일PwC 경영연구원</h2>
+      <p>Macro 및 다양한 산업을 전문적으로 분석하여, 시의적절하고 유의미한 지식과 Insight를 제공함으로써 고객의 기업가치 제고를 지원합니다. 
+</p>
+   </div>
+   <div>
+      <div><a href="https://www.pwc.com/kr/ko/insights/samil-pwc-business-research.html">자세히 보기
+</a>
+
+
+    
+
+</div>
+
+      
+   </div>
+</div>
+   </div>
+</div></div>
+
+		</div>             
+        
+    </section>]]></description>
 		</item>
 	</channel>
 </rss>
