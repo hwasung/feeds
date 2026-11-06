@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 06 Nov 2026 15:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2026 16:30:31 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>기본법 우선 등 &apos;AI 입법 프레임워크&apos; 나왔다…국가AI전략위, 7개 TF 신설</title>
+			<link>https://www.etnews.com/20261106000224</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000224</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 06 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 관련 입법 추진에 앞서 참고해야 할 '대한민국 AI 입법 프레임워크'가 나왔다. 국가AI전략위원회가 국가 AI 핵심과제 추진을 위해 내부 태스크포스(TF) 조직을 확대한다. 국가AI전략위원회는 6일 서울 중구 위원회에서 제3차 전체회의를 열고 이같은 안건을 논의·의결했다. 회의는 하정우 국가AI전략위 부위원장이 주재했으며 정부·민간 위원과 관계기관장 등 60여명이 참석했다. 첫 안건은 범부처가 일관되게 따를 AI 입법 방향 대한...]]></description>
+		</item>
+		<item>
+			<title>EDB, 클릭하우스 전문 기업 &apos;알티니티&apos; 인수…실시간 분석 역량 강화</title>
+			<link>https://www.etnews.com/20261106000256</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000256</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 06 Nov 2026 15:15:04 +0900</pubDate>
+			<description><![CDATA[데이터베이스(DB) 기업 EDB는 '알티니티' 인수했다고 6일 밝혔다. 알티니티는 지난 2017년 설립된 클릭하우스 전문 기업으로, 클릭하우스소프트웨어를 기반으로 엔터프라이즈 소프트웨어와 관리형 서비스, 기술 지원을 제공한다. 이번 인수를 통해 EDB는 세계적으로 빠르게 성장하고 있는 두 오픈소스 데이터베이스 엔진인 포스트그레스(Postgres)의 트랜젝션 처리와 클릭하우스(ClickHouse)의 실시간 분석의 강점을 결합해 개방형 소버린 AI...]]></description>
+		</item>
 		<item>
 			<title>“반복 업무는 AI에게, 엔지니어는 품질 집중”… 와이즈스톤, 테스트 자동화 플랫폼 &apos;TestClaw&apos; 공개</title>
 			<link>https://www.etnews.com/20261106000244</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 06 Nov 2026 11:37:00 +0900</pubDate>
 			<description><![CDATA[NHN클라우드가 일본에서 첫 파트너 세미나를 열고 본격적인 현지 파트너 생태계 구축에 나섰다. NHN클라우드의 일본 법인 'NHN클라우드 재팬'은 지난 5일 도쿄 사옥 'NHN 아틀리에'에서 현지 예비 파트너사들을 대상으로 '제1회 NHN클라우드 재팬 커넥트 세미나'를 진행했다. 이번 세미나는 NHN클라우드의 사업 역량과 비전, 전략을 공유하고, 각사의 역량을 결합해 일본 시장을 함께 공략하기 위한 파트너십을 제안하고자 마련됐다. 세미나는 NH...]]></description>
-		</item>
-		<item>
-			<title>NIPA, 韓·아세안 AI 스타트업 경진대회 개최…인니 퍼리스 1위</title>
-			<link>https://www.etnews.com/20261106000166</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000166</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 06 Nov 2026 11:31:56 +0900</pubDate>
-			<description><![CDATA[정보통신산업진흥원(NIPA)이 한국과 아세안 11개국의 인공지능(AI) 스타트업이 참여하는 창업 경진대회를 열고 우수 기업의 동남아 시장 진출을 지원했다. 정보통신산업진흥원은 한·아세안 AI 개발·창업 경진대회 'AI 유스 페스타 2026'을 지난 4일부터 이틀간 필리핀 마닐라에서 개최했다고 6일 밝혔다. 이번 행사는 한국 정부의 한·아세안 협력기금(AKCF) 지원으로 2025년부터 2029년까지 추진하는 5개년 사업의 일환이다. 한국과 아세안...]]></description>
-		</item>
-		<item>
-			<title>오픈AI, 사이버보안 특화 AI 모델 &apos;GPT-6 사이버&apos; 공개</title>
-			<link>https://www.etnews.com/20261106000142</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000142</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 06 Nov 2026 10:51:51 +0900</pubDate>
-			<description><![CDATA[오픈AI가 사이버보안 특화 인공지능(AI) 모델 'GPT-6 사이버'를 6일 공개했다. 소프트웨어(SW) 취약점 검증과 보안 패치 개발 역량을 강화한 AI 모델이다. GPT-6 사이버는 승인을 받은 일부 '데이브레이크 레드' 고객에 응용프로그램인터페이스(API)와 코덱스를 통해 우선 제공된다. 향후 전체 데이브레이크 레드 고객으로 확대할 예정이다. AI가 코드에서 보안 취약점을 식별하고 악용 가능성을 검증하고 취약점 보완에 필요한 패치 후보와...]]></description>
 		</item>
 	</channel>
 </rss>
