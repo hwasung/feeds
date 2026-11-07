@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 07 Nov 2026 09:31:31 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 12:30:25 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>라이너, 글쓰기 AI &apos;취업 준비&apos; 기능 강화…“이용자 53%가 청년층”</title>
+			<link>https://www.etnews.com/20261107000017</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261107000017</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 07 Nov 2026 11:28:13 +0900</pubDate>
+			<description><![CDATA[라이너가 인공지능(AI) 글쓰기 서비스의 취업 준비 기능을 강화했다. 기존 자기소개서 초안 작성에서 강점·약점 분석과 직무별 면접 연습까지 지원 범위를 확대했다. 7일 업계에 따르면 라이너는 AI 글쓰기 서비스 '라이너 라이트'에 자기소개서 분석과 면접 준비 기능을 추가했다. AI가 채용 공고를 분석해 자기소개서·이력서의 강점과 개선점을 분석하고 지원 직무별 예상 면접 질문과 답변 전략을 제시한다. 이번 기능 확대는 청년층의 취업 준비 수요를...]]></description>
+		</item>
 		<item>
 			<title>[ET톡] 게임이 악성코드 통로가 된다면</title>
 			<link>https://www.etnews.com/20261106000279</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 06 Nov 2026 16:52:18 +0900</pubDate>
 			<description><![CDATA[강원테크노파크(원장 허장현)가 소프트웨어(SW) 테스팅 및 품질관리 전문기업 STA테스팅컨설팅(대표 권원일)과 손잡고 강원지역 디지털 기업의 SW·인공지능(AI) 품질 경쟁력 강화에 나선다. 강원테크노파크는 5일 STA테스팅컨설팅과 '디지털 품질관리 역량 강화 및 상호협력을 위한 업무협약(MOU)'을 체결했다. 협약식에는 이기수 강원디지털혁신센터장과 권원일 STA테스팅컨설팅 대표 등이 참석했다. 양 기관은 이번 협약을 통해 SW·AI 테스팅 및...]]></description>
-		</item>
-		<item>
-			<title>기본법 우선 등 &apos;AI 입법 프레임워크&apos; 나왔다…국가AI전략위, 7개 TF 신설</title>
-			<link>https://www.etnews.com/20261106000224</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000224</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 06 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 관련 입법 추진에 앞서 참고해야 할 '대한민국 AI 입법 프레임워크'가 나왔다. 국가AI전략위원회가 국가 AI 핵심과제 추진을 위해 내부 태스크포스(TF) 조직을 확대한다. 국가AI전략위원회는 6일 서울 중구 위원회에서 제3차 전체회의를 열고 이같은 안건을 논의·의결했다. 회의는 하정우 국가AI전략위 부위원장이 주재했으며 정부·민간 위원과 관계기관장 등 60여명이 참석했다. 첫 안건은 범부처가 일관되게 따를 AI 입법 방향 대한...]]></description>
 		</item>
 	</channel>
 </rss>
