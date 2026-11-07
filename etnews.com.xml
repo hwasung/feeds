@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 07 Nov 2026 12:30:25 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 15:30:26 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[ET시선] 가상자산 과세 유예, 이번에는 달라야 한다</title>
+			<link>https://www.etnews.com/20261106000193</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000193</guid>
+			<author>송혜영</author>
+			<category>오피니언</category>
+			<pubDate>Sat, 07 Nov 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[가상자산 과세가 또다시 미뤄졌다. 2020년 과세 도입을 결정한 이후 네 번째 유예다. 당초 2022년 시행하려던 과세는 2029년으로 늦춰질 전망이다. 유예 결정이 반복되지만 정부는 여전히 무엇을 어떻게 과세할 것인지 명확한 답을 내놓지 못하고 있다. 재정경제부가 지난 5일 발표한 과세 유예 방침에는 불가피한 측면이 있다. 국내 거래소와 달리 해외 거래소나 개인 지갑에서 발생한 거래는 과세자료 확보가 쉽지 않다. 준비가 부족한 상태에서 과세를...]]></description>
+		</item>
 		<item>
 			<title>라이너, 글쓰기 AI &apos;취업 준비&apos; 기능 강화…“이용자 53%가 청년층”</title>
 			<link>https://www.etnews.com/20261107000017</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 06 Nov 2026 16:52:32 +0900</pubDate>
 			<description><![CDATA[하정우 국가인공지능전략위원회 상근 부위원장이 인공지능(AI)기본법을 중심으로 범정부 입법 방향을 정립해 기업·국민의 예측 가능성과 일관성을 높이겠다는 의지를 밝혔다. 하 부위원장은 6일 서울 중구 국가AI전략위원회에서 열린 제3차 전체회의에서 “AI기본법을 중심에 두고 각 부처가 소관 법률을 제정·개정할 때 따를 입법 방향을 세우겠다”며 “기업은 예측할 수 있고 국민은 안심할 수 있게 입법 일관성을 강화하는 부분”이라고 말했다. 제3차 전체회의...]]></description>
-		</item>
-		<item>
-			<title>강원테크노파크-STA테스팅컨설팅, SW·AI 품질관리 역량 강화 맞손</title>
-			<link>https://www.etnews.com/20261106000297</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000297</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 06 Nov 2026 16:52:18 +0900</pubDate>
-			<description><![CDATA[강원테크노파크(원장 허장현)가 소프트웨어(SW) 테스팅 및 품질관리 전문기업 STA테스팅컨설팅(대표 권원일)과 손잡고 강원지역 디지털 기업의 SW·인공지능(AI) 품질 경쟁력 강화에 나선다. 강원테크노파크는 5일 STA테스팅컨설팅과 '디지털 품질관리 역량 강화 및 상호협력을 위한 업무협약(MOU)'을 체결했다. 협약식에는 이기수 강원디지털혁신센터장과 권원일 STA테스팅컨설팅 대표 등이 참석했다. 양 기관은 이번 협약을 통해 SW·AI 테스팅 및...]]></description>
 		</item>
 	</channel>
 </rss>
