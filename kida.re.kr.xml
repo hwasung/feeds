@@ -4,13 +4,14 @@
 		<title>한국국방연구원 발간물</title>
 		<link>https://www.kida.re.kr/</link>
 		<description>한국국방연구원 발간물</description>
-		<lastBuildDate>Wed, 04 Nov 2026 18:32:23 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 17:17:22 +0900</lastBuildDate>
+		<ttl>1440</ttl>
 		<item>
 			<title>얼마나 많은 탄약을 비축해야 할 것인가?</title>
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2180&amp;depth=3&amp;lang=kr</link>
 			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2180&amp;depth=3&amp;lang=kr</guid>
 			<author>이은아</author>
-			<pubDate>Mon, 02 Nov 2026 09:00:00 +0900</pubDate>
+			<pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 이은아</li><li>발행일자: 2026-11-02</li></ul>]]></description>
 		</item>
 		<item>
@@ -18,7 +19,7 @@
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=149&amp;depth=2&amp;lang=kr</link>
 			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=149&amp;depth=2&amp;lang=kr</guid>
 			<author>김윤종</author>
-			<pubDate>Thu, 29 Oct 2026 09:00:00 +0900</pubDate>
+			<pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 김윤종</li><li>발행일자: 2026-10-29</li></ul>]]></description>
 		</item>
 		<item>
@@ -26,7 +27,7 @@
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=148&amp;depth=2&amp;lang=kr</link>
 			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=148&amp;depth=2&amp;lang=kr</guid>
 			<author>박상현</author>
-			<pubDate>Tue, 27 Oct 2026 09:00:00 +0900</pubDate>
+			<pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 박상현</li><li>발행일자: 2026-10-27</li></ul>]]></description>
 		</item>
 		<item>
@@ -34,7 +35,7 @@
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2179&amp;depth=3&amp;lang=kr</link>
 			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2179&amp;depth=3&amp;lang=kr</guid>
 			<author>조봉재</author>
-			<pubDate>Mon, 26 Oct 2026 09:00:00 +0900</pubDate>
+			<pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 조봉재</li><li>발행일자: 2026-10-26</li></ul>]]></description>
 		</item>
 		<item>
@@ -42,32 +43,8 @@
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2178&amp;depth=3&amp;lang=kr</link>
 			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2178&amp;depth=3&amp;lang=kr</guid>
 			<author>한서영, 안석기</author>
-			<pubDate>Mon, 19 Oct 2026 09:00:00 +0900</pubDate>
+			<pubDate>Mon, 19 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 한서영, 안석기</li><li>발행일자: 2026-10-19</li></ul>]]></description>
-		</item>
-		<item>
-			<title>군사 인공지능의 ‘책임’과 ‘책무’: 「국방인공지능법안」의 개념적 공백과 제도적 보완</title>
-			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1355&amp;depth=4&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1355&amp;depth=4&amp;lang=kr</guid>
-			<author>박성호, 전우정</author>
-			<pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 박성호, 전우정</li><li>발행일자: 2026-10-15</li></ul>]]></description>
-		</item>
-		<item>
-			<title>국방정책 문서 RAG 시스템 설계 및 실증 분석</title>
-			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1354&amp;depth=4&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1354&amp;depth=4&amp;lang=kr</guid>
-			<author>유대현</author>
-			<pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 유대현</li><li>발행일자: 2026-10-15</li></ul>]]></description>
-		</item>
-		<item>
-			<title>국가안보 핵심광물 공급망 위험평가: 방법론 설계와 국방관리 방안 연구</title>
-			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1353&amp;depth=4&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1353&amp;depth=4&amp;lang=kr</guid>
-			<author>선미선, 김리아, 김대현</author>
-			<pubDate>Thu, 15 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 선미선, 김리아, 김대현</li><li>발행일자: 2026-10-15</li></ul>]]></description>
 		</item>
 		<item>
 			<title>우리나라 병역특례제도의 변천 과정에 관한 연구: 역사적 제도주의 관점을 중심으로</title>
@@ -86,164 +63,28 @@
 			<description><![CDATA[<ul><li>저자: 임현명, 구자일, 강성록</li><li>발행일자: 2026-10-15</li></ul>]]></description>
 		</item>
 		<item>
-			<title>군 드론 전투실험 관련 특성에 대한 인식이 지속사용 의도에 미치는 영향과 전력화 정책 시사점</title>
-			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1350&amp;depth=4&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1350&amp;depth=4&amp;lang=kr</guid>
-			<author>서동성, 이호선, 김재율, 유현태</author>
+			<title>군사 인공지능의 ‘책임’과 ‘책무’: 「국방인공지능법안」의 개념적 공백과 제도적 보완</title>
+			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1355&amp;depth=4&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1355&amp;depth=4&amp;lang=kr</guid>
+			<author>박성호, 전우정</author>
 			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 서동성, 이호선, 김재율, 유현태</li><li>발행일자: 2026-10-15</li></ul>]]></description>
+			<description><![CDATA[<ul><li>저자: 박성호, 전우정</li><li>발행일자: 2026-10-15</li></ul>]]></description>
 		</item>
 		<item>
-			<title>실증분석에 기반한 민-군 협력 MRO 추진 방향: 육군 궤도장비 창정비 사례를 중심으로</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2177&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2177&amp;depth=3&amp;lang=kr</guid>
-			<author>김보라,김상백,문홍구</author>
-			<pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 김보라,김상백,문홍구</li><li>발행일자: 2026-10-12</li></ul>]]></description>
-		</item>
-		<item>
-			<title>2026 워싱턴 미·중 정상회담 평가와 시사점 (제26-55호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=147&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=147&amp;depth=2&amp;lang=kr</guid>
-			<author>전재우</author>
-			<pubDate>Wed, 07 Oct 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 전재우</li><li>발행일자: 2026-10-07</li></ul>]]></description>
-		</item>
-		<item>
-			<title>군 통제교육 교관운영의 개선방안: 인권 관련 의무교육 내부교관 특화를 중심으로</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2176&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2176&amp;depth=3&amp;lang=kr</guid>
-			<author>은주희</author>
-			<pubDate>Mon, 05 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 은주희</li><li>발행일자: 2026-10-05</li></ul>]]></description>
-		</item>
-		<item>
-			<title>넥스트 디펜스 - KIDA 전문가가 진단한 한국의 안보·국방</title>
-			<link>https://www.kida.re.kr/frt/board/frtAlbumBoardVolumeView.do?sidx=371&amp;depth=2&amp;idx=177</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtAlbumBoardVolumeView.do?sidx=371&amp;depth=2&amp;idx=177</guid>
-			<author>안보전략연구센터</author>
-			<pubDate>Wed, 30 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 안보전략연구센터</li><li>발행일자: 2026-09-30</li></ul>]]></description>
-		</item>
-		<item>
-			<title>SCO-BRICS 회의와 러시아의 전략적 모순(矛盾) (제26-54호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=146&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=146&amp;depth=2&amp;lang=kr</guid>
-			<author>연담린</author>
-			<pubDate>Wed, 30 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 연담린</li><li>발행일자: 2026-09-30</li></ul>]]></description>
-		</item>
-		<item>
-			<title>2026년 베이징 향산포럼 평가 및 시사점 (제26-53호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=145&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=145&amp;depth=2&amp;lang=kr</guid>
-			<author>이영학</author>
-			<pubDate>Mon, 28 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 이영학</li><li>발행일자: 2026-09-28</li></ul>]]></description>
-		</item>
-		<item>
-			<title>국방 분석평가체계의 변화에 따른비용분석 발전 방향에 대한 소고</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2174&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2174&amp;depth=3&amp;lang=kr</guid>
-			<author>곽시우</author>
-			<pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 곽시우</li><li>발행일자: 2026-09-28</li></ul>]]></description>
-		</item>
-		<item>
-			<title>국방 분야 RAG 시스템 도입 방향 및 정책 제언</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2173&amp;depth=3&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2173&amp;depth=3&amp;lang=kr;</guid>
+			<title>국방정책 문서 RAG 시스템 설계 및 실증 분석</title>
+			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1354&amp;depth=4&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1354&amp;depth=4&amp;lang=kr</guid>
 			<author>유대현</author>
-			<pubDate>Mon, 21 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 유대현</li><li>발행일자: 2026-09-21</li></ul>]]></description>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<ul><li>저자: 유대현</li><li>발행일자: 2026-10-15</li></ul>]]></description>
 		</item>
 		<item>
-			<title>국방 분야 RAG 시스템 도입 방향 및 정책 제언</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2173&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2173&amp;depth=3&amp;lang=kr</guid>
-			<author>유대현</author>
-			<pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 유대현</li><li>발행일자: 2026-09-21</li></ul>]]></description>
-		</item>
-		<item>
-			<title>사이버 억제의 쟁점과 진화 (제26-52호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=144&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=144&amp;depth=2&amp;lang=kr</guid>
-			<author>박상현, 김윤종</author>
-			<pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 박상현, 김윤종</li><li>발행일자: 2026-09-15</li></ul>]]></description>
-		</item>
-		<item>
-			<title>사이버 억제의 쟁점과 진화 (제26-52호)</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=144&amp;depth=2&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=144&amp;depth=2&amp;lang=kr;</guid>
-			<author>박상현,김윤종</author>
-			<pubDate>Tue, 15 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 박상현,김윤종</li><li>발행일자: 2026-09-15</li></ul>]]></description>
-		</item>
-		<item>
-			<title>스웨덴 방위산업전략(2025)의  ‘혁신-생산-협력’ 3대 전략과 시사점</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2172&amp;depth=3&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2172&amp;depth=3&amp;lang=kr;</guid>
-			<author>이혜민,황인빈</author>
-			<pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 이혜민,황인빈</li><li>발행일자: 2026-09-14</li></ul>]]></description>
-		</item>
-		<item>
-			<title>스웨덴 방위산업전략(2025)의  ‘혁신-생산-협력’ 3대 전략과 시사점</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2172&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2172&amp;depth=3&amp;lang=kr</guid>
-			<author>이혜민,황인빈</author>
-			<pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 이혜민,황인빈</li><li>발행일자: 2026-09-14</li></ul>]]></description>
-		</item>
-		<item>
-			<title>영국 국방획득 개혁의 역사적 전개와 정책적 시사점</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2171&amp;depth=3&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2171&amp;depth=3&amp;lang=kr;</guid>
-			<author>김동범</author>
-			<pubDate>Mon, 07 Sep 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 김동범</li><li>발행일자: 2026-09-07</li></ul>]]></description>
-		</item>
-		<item>
-			<title>영국 국방획득 개혁의 역사적 전개와 정책적 시사점</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2171&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2171&amp;depth=3&amp;lang=kr</guid>
-			<author>김동범</author>
-			<pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 김동범</li><li>발행일자: 2026-09-07</li></ul>]]></description>
-		</item>
-		<item>
-			<title>한국-NATO 협력과 對러시아 함의 (제26-51호)</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=142&amp;depth=2&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=142&amp;depth=2&amp;lang=kr;</guid>
-			<author>연담린</author>
-			<pubDate>Mon, 24 Aug 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 연담린</li><li>발행일자: 2026-08-24</li></ul>]]></description>
-		</item>
-		<item>
-			<title>한국-NATO 협력과 對러시아 함의 (제26-51호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=142&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=142&amp;depth=2&amp;lang=kr</guid>
-			<author>연담린</author>
-			<pubDate>Mon, 24 Aug 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 연담린</li><li>발행일자: 2026-08-24</li></ul>]]></description>
-		</item>
-		<item>
-			<title>美-이란 전쟁 이후 일본의 비핵 3원칙 재검토 논쟁 (제26-50호)</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=141&amp;depth=2&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=141&amp;depth=2&amp;lang=kr;</guid>
-			<author>조은일</author>
-			<pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 조은일</li><li>발행일자: 2026-08-19</li></ul>]]></description>
-		</item>
-		<item>
-			<title>미국의 호르무즈 연합 결성 시험과 한국의 선택 (제26-49호)</title>
-			<link>javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=140&amp;depth=2&amp;lang=kr;</link>
-			<guid isPermaLink="true">javascript:https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=140&amp;depth=2&amp;lang=kr;</guid>
-			<author>권보람</author>
-			<pubDate>Wed, 19 Aug 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 권보람</li><li>발행일자: 2026-08-19</li></ul>]]></description>
+			<title>국가안보 핵심광물 공급망 위험평가: 방법론 설계와 국방관리 방안 연구</title>
+			<link>https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1353&amp;depth=4&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtPolicyStudyBoardDetail.do?sidx=363&amp;idx=1353&amp;depth=4&amp;lang=kr</guid>
+			<author>선미선, 김리아, 김대현</author>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<ul><li>저자: 선미선, 김리아, 김대현</li><li>발행일자: 2026-10-15</li></ul>]]></description>
 		</item>
 	</channel>
 </rss>
