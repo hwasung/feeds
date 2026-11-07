@@ -4,8 +4,60 @@
 		<title>지디넷코리아</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>지디넷코리아</description>
-		<lastBuildDate>Sat, 07 Nov 2026 09:33:27 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 12:31:10 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>미래에셋 생명·자산운용 이어 증권도 개인정보 유출</title>
+			<link>https://zdnet.co.kr/view/?no=20261107091854</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261107091854</guid>
+			<author>손희연 기자</author>
+			<category>금융</category>
+			<category>보안</category>
+			<category>IT</category>
+			<category>개인정보</category>
+			<category>미래에셋증권</category>
+			<category>미래에셋그룹</category>
+			<category>IT 일반</category>
+			<pubDate>Sat, 07 Nov 2026 09:43:35 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/07/b73d0b90ca5f68419e2419bc618360c2.png" alt=""><p>미래에셋그룹 핵심 주력 계열사인 미래에셋증권마저 외부 해킹 공격에 노출되면서 고객과 임직원 개인정보가 유출되는 사고가 발생했다. <span style="letter-spacing: 0.8px;">앞서 미래에셋생명보험과 미래에셋자산운용 등 주요 계열사들이 잇따라 사이버 공격을 당한 데 이어, 그룹의 핵심 축인 증권사까지 뚫린 상태다.</span></p>
+<p><span style="letter-spacing: 0.8px;">7일 미래에셋증권은 공식 홈페이지 공지사항을 통해 지난 4일과 5일 양일간 외부 비정상적인 공격을 받아 고객 계좌번호 및 임직원 개인정보가 유출됐다고 밝혔다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/07/b73d0b90ca5f68419e2419bc618360c2.png" alt="미래에셋증권 공지사항.">
+<p><span style="letter-spacing: 0.8px;">구체적으로 지난 4일 모바일웹 휴대폰 인증 로그인 서비스가 외부 공격을 받아 고객 계좌번호 등이 유출됐다. 3800명 고객의 계좌번호가 털렸다고 부연했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">이어 다음 날인 5일에는 사내 그룹웨어 시스템인 &apos;mi-global&apos;에 추가 공격이 발생하면서, 퇴직자와 외주 직원을 포함한 임직원 3만5255명의 성명과 사번·이메일 주소·휴대전화 번호 등 개인정보가 새나갔다. 다만 회사 측은 주민등록번호 등 고유식별정보나 민감 정보는 유출되지 않은 것으로 파악됐다고 설명했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">미래에셋증권은 "이상 정황을 인지한 직후 해당 서비스의 외부 접속을 긴급 차단하고 방어 조치에 나선 상태"라고 말했다.</span></p>
+<p><span style="letter-spacing: 0.8px;">이로써 미래에셋그룹 내에서 사이버 침해 및 정보 유출 사고가 확인된 계열사는 미래에셋생명·미래에셋자산운용·에너지인프라자산운용에 이어 이번 미래에셋증권까지 총 네 곳으로 불어났다.</span></p>
+<p><span style="letter-spacing: 0.8px;">최근 이억원 금융위원장은 &apos;인공지능(AI)시대 보안체계 혁신을 위한 전 금융권 간담회&apos;에서 "</span><span style="letter-spacing: 0.8px;">같은 계열그룹 내에서 사고가 발생했음에도 </span><span style="letter-spacing: 0.8px;">충분한 대비 없이 추가 사고가 발생한 사례도 있었다"며 "사</span><span style="letter-spacing: 0.8px;">고가 발생한 뒤에야 </span><span style="letter-spacing: 0.8px;">허겁지겁 취약점을 찾고, </span><span style="letter-spacing: 0.8px;">이미 드러난 위험조차 제대로 관리하지 못해 </span><span style="letter-spacing: 0.8px;">같은 사고를 반복하는 것은 </span><span style="letter-spacing: 0.8px;">더 이상 용납될 수 없다"고 강력하게 경고했다. </span></p>
+<p><span style="letter-spacing: 0.8px;">현재 금융위는 유관기관과 580개 전금융사 외부 시스템에 대해 전수 점검에 나서고 있으며 해당 점검 이후 터지는 사고에 대해 엄정히 대응하겠다는 방침을 밝혔다.</span></p>]]></description>
+		</item>
+		<item>
+			<title>[AI는 지금] &quot;로봇 오작동인 줄 알았는데 해킹&quot;…피지컬 AI, 보안 위협 커진다</title>
+			<link>https://zdnet.co.kr/view/?no=20261105173134</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105173134</guid>
+			<author>장유미 기자</author>
+			<category>가트너</category>
+			<category>AI 보안</category>
+			<category>피지컬 AI</category>
+			<category>피지컬 AI 보안</category>
+			<category>사이버물리시스템</category>
+			<category>제조 AI</category>
+			<category>AI는 지금</category>
+			<category>컴퓨팅</category>
+			<pubDate>Sat, 07 Nov 2026 09:32:53 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/06/c267e93bfb1bc72195232519f05f0d63.png" alt=""><p>인공지능(AI)이 로봇과 자율주행차 등 현실 세계로 활동 영역을 넓히면서 사이버보안 위협도 달라지고 있다. 외부 공격으로 AI의 판단이 왜곡되더라도 정상적인 환경 적응 과정과 구분하기 어려워 인명·설비 사고로 이어질 수 있다는 경고가 나온다.</p>
+<p>7일 글로벌 시장조사업체 가트너가 발표한 &apos;피지컬 AI가 최고정보보호책임자(CISO)에게 미칠 5가지 영향과 대응 방안&apos; 보고서에 따르면 기존 네트워크 중심의 보안 체계만으로는 피지컬 AI의 안전성을 확보하기 어려운 것으로 나타났다.</p>
+<p>피지컬 AI는 로봇과 드론, 자율주행차 등에 탑재돼 주변 환경을 인식하고 스스로 판단해 움직이는 기술이다. 기존 산업용 제어 시스템과 달리 센서 정보를 지속적으로 분석하고 상황에 맞춰 행동을 조정하는 만큼 공격자가 이러한 적응 과정을 악용할 가능성이 있다.</p>
+<img src="https://image.zdnet.co.kr/2026/11/06/c267e93bfb1bc72195232519f05f0d63.png" alt="(제작=챗GPT)">
+<p>가트너가 주목한 위협은 AI의 인식 정보를 조금씩 왜곡하는 공격이다. 카메라와 라이다(LiDAR), 레이더 등에 미세한 잡음을 주입해 주변 환경을 잘못 판단하도록 유도하는 방식으로, 보고서가 인용한 IEEE 연구에서는 이러한 공격으로 최대 8m의 경로 편차나 존재하지 않는 장애물 인식이 발생할 수 있는 것으로 나타났다.</p>
+<p>이 같은 공격은 기존 보안 체계에서 탐지하기 어려울 수 있다. 피지컬 AI가 환경 변화에 맞춰 행동을 조정하도록 설계된 만큼 외부에서 유도한 움직임의 변화도 정상적인 적응 과정으로 받아들일 수 있어서다.</p>
+<p>AI 모델 자체의 예측 불가능성도 새로운 위험 요인으로 꼽혔다. 생성형 AI의 환각이 잘못된 답변을 내놓는 데 그쳤다면 피지컬 AI에서는 로봇 관절의 비정상적인 움직임이나 모터 출력 이상으로 이어질 수 있다. 특히 산업용 로봇이나 자율주행차처럼 물리적 힘을 사용하는 시스템에서는 소프트웨어 차원의 통제만으로 사고를 막기 어려울 수 있다.</p>
+<p>이에 따라 가트너는 AI 모델과 독립적으로 작동하는 물리적 안전장치를 마련해야 한다고 권고했다. AI가 잘못된 명령을 내리더라도 기계식 제한장치나 비상정지 장치를 통해 전원을 차단하고 움직임을 멈출 수 있도록 설계해야 한다는 것이다.</p>
+<p>기존 네트워크 보안 방식도 재검토가 필요하다고 봤다. 휴머노이드 로봇의 균형 제어나 드론의 경로 탐색처럼 실시간 처리가 필요한 환경에서는 보안 검사로 발생하는 미세한 지연도 시스템 작동에 영향을 줄 수 있기 때문이다.</p>
+<p>가트너는 네트워크 검사 과정에서 발생하는 15밀리초(ms) 수준의 지연만으로도 실시간 제어에 문제가 생겨 물리적 고장이나 예기치 않은 시스템 중단으로 이어질 수 있다고 경고했다. 이에 보안 검사와 실시간 제어 경로를 분리하고 반도체부터 AI 모델, 구동 장치까지 보호 범위를 확대할 필요가 있다고 제안했다.</p>
+<p>외부 공격과 AI 오작동을 구분하기 위한 별도의 감시 체계도 요구된다. AI가 사용하는 센서와 독립된 장치로 실제 움직임을 확인하고 비정상적인 변화가 감지되면 사전에 정해진 안전 모드로 전환하는 방식이다.</p>
+<p>피지컬 AI 도입에 따른 기업의 책임 범위도 넓어질 것으로 예상된다. 자율적으로 움직이는 AI가 작업 현장에서 사고를 일으킬 경우 단순한 소프트웨어 결함뿐 아니라 기업이 적절한 안전장치를 갖추고 운영했는지도 책임 판단의 대상이 될 수 있다는 것이다.</p>
+<p>이에 가트너는 아직 대부분의 산업용 사이버물리시스템(CPS)에 피지컬 AI가 본격적으로 적용되지는 않았지만 확산에 앞서 보안 전략을 재정비해야 한다고 강조했다. 특히 보안 담당자가 실제 작업 환경을 확인하고 설비 도입 단계부터 하드웨어 기반 안전장치를 의무화할 것을 권고했다.</p>
+<p>가트너는 "사이버보안 책임자들은 기존 네트워크 통제를 넘어 반도체 수준의 실행 과정과 공간 기반 신원 관리, 독립적인 모니터링, 하드웨어 기반 물리적 안전장치까지 보안 전략을 발전시켜야 한다"고 강조했다.</p>]]></description>
+		</item>
 		<item>
 			<title>로보터블, 내년 초 휴머노이드 &apos;스킬 이식&apos; 소프트웨어 출시</title>
 			<link>https://zdnet.co.kr/view/?no=20261106211924</link>
@@ -764,55 +816,6 @@
 <p>양사는 공동 실무 협의체를 구성하고 AI 에이전트 API 결제 기술에 대한 개념검증(PoC)을 우선 진행한다. 실증 과정에서 온체인 데이터와 결제 정보가 양사 시스템 사이에서 연동되는 구간의 보안 기준도 마련할 계획이다.</p>
 <p>향후 개인·기업 고객의 스테이블코인 활용 수요를 파악해 지갑 관리 서비스를 발굴하고, 글로벌 자금관리서비스(CMS) 등 기업 자금관리 분야로 협력을 확대한다는 방침이다.</p>
 <p>김종현 쿠콘 대표는 "스테이블코인 등 디지털자산 활용이 확대되면서 온체인 데이터를 금융 시스템과 연계하는 것이 중요해지고 있다"며 "온체인 금융 데이터와 AI 에이전트를 중심에 둔 API 제공 서비스로 사업 영역을 넓히고 새로운 사업모델을 발굴하겠다"고 말했다.</p>]]></description>
-		</item>
-		<item>
-			<title>[종합] 신세계I&amp;C, 3분기 영업익 29% 증가…사업구조 효율화로 수익성 개선</title>
-			<link>https://zdnet.co.kr/view/?no=20261106164611</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261106164611</guid>
-			<author>남혁우 기자</author>
-			<category>신세계아이앤씨</category>
-			<category>신세계I&amp;C</category>
-			<category>실적발표</category>
-			<category>IT서비스</category>
-			<category>시스템통합</category>
-			<category>컴퓨팅</category>
-			<pubDate>Fri, 06 Nov 2026 16:49:58 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2021/06/23/52ff3d19a1a8a05e333fe146db3bdc7f.jpg" alt=""><p><span style="letter-spacing: 0.8px;">신세계아이앤씨(이하 신세계I&amp;C)가 올해 3분기 사업구조 효율화와 IT서비스, IT유통 매출 확대에 힘입어 수익성을 끌어올렸다.</span></p>
-<p>신세계I&amp;C는 연결 기준 3분기 영업이익이 161억 9400만원으로 전년 동기 125억 5100만원보다 29.03% 증가했다고 6일 공시했다. </p>
-<p>같은 기간 매출은 1635억 5800만원에서 1768억 9300만원으로 8.15% 늘었고 당기순이익은 126억 400만원에서 140억 9100만원으로 11.80% 증가했다. </p>
-<img src="https://image.zdnet.co.kr/2021/06/23/52ff3d19a1a8a05e333fe146db3bdc7f.jpg" alt="신세계아이앤씨">
-<p><span style="letter-spacing: 0.8px;">1~3분기 누적 매출은 5304억 6200만원으로 전년 동기 대비 2.58% 증가했다. 누적 영업이익은 438억 7600만원으로 19.65%, 순이익은 372억원으로 10.24% 늘었다.</span></p>
-<p>회사는 매출 증가와 사업구조 효율화를 이익 개선 요인으로 제시했다. 별도 기준으로는 저마진 사업 축소와 전기차 충전사업 자산 양도에 따른 감가상각비 등 제반 비용 감소가 영업이익 증가에 기여했다고 설명했다.</p>
-<p>저마진 사업 축소는 IT정보서비스 실적에서 나타났다. 메시징 매출이 40억원에서 28억원으로 줄면서 IT정보서비스 매출은 120억원으로 5.9% 감소했지만 영업이익은 39억원에서 43억원으로 늘었다. 교육 매출은 K-뉴딜 아카데미 수주에 따라 26억원에서 31억원으로 증가했다.</p>
-<p>주력인 IT서비스도 성장세를 보였다. 별도 기준 IT서비스 매출은 1116억원으로 전년 동기 대비 8.9% 증가했고, 영업이익은 146억원에서 173억원으로 늘었다.</p>
-<p>대내외 대형 프로젝트 수주로 시스템통합(SI) 매출이 240억원에서 295억원으로 증가했다. IT장비 매출은 프라이빗 인프라 대외 매출이 늘면서 89억원에서 125억원으로 확대됐다.</p>
-<p>IT유통 매출은 477억원으로 전년 동기 대비 10.3% 증가했다. 포켓몬카드 판매 확대로 게임 매출이 213억원에서 262억원으로 늘어난 영향이다. IT유통 영업손익은 전년 동기 2억원 적자에서 19억원 흑자로 전환했다.</p>
-<p>자회사 플그림은 대내외 운영·유지보수 매출 증가로 매출 61억원, 영업이익 5억원을 기록했다. 지난해 3분기에는 매출 54억원, 영업이익 2억원이었다.</p>
-<p>신세계I&amp;C 측은 "대내외 IT서비스 프로젝트 매출 증가로 전분기 대비 매출과 영업이익이 모두 증가했다"며 "전년 동기 대비로도 대내외 IT서비스 프로젝트 및 IT 유통 매출 확대에 따라 매출과 영업이익이 동반 성장했으며 전기차 충전사업 양도와 저마진 사업 축소에 따른 수익성 개선 효과도 반영됐다"고 말했다.</p>
-<p>이어 "앞으로도 핵심 사업인 IT서비스의 본원적 경쟁력을 강화해 대내외 사업 확대에 힘쓰는 한편 수익성 중심의 사업 운영을 통해 안정적인 성장세를 이어갈 계획"이라고 덧붙였다.</p>]]></description>
-		</item>
-		<item>
-			<title>내년 아이패드 OLED 물량은...미니용은 삼성D가 공급</title>
-			<link>https://zdnet.co.kr/view/?no=20261105152253</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261105152253</guid>
-			<author>이기종 기자</author>
-			<category>애플</category>
-			<category>아이패드</category>
-			<category>OLED</category>
-			<category>삼성디스플레이</category>
-			<category>LG디스플레이</category>
-			<category>BOE</category>
-			<category>반도체ㆍ디스플레이</category>
-			<pubDate>Fri, 06 Nov 2026 16:47:26 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/05/ca2b5fa8af878f65d601c00299e63105.png" alt=""><p><span style="letter-spacing: 0.8px;">애플이 내년 </span><span style="letter-spacing: 0.8px;">상반기 </span><span style="letter-spacing: 0.8px;">유기발광다이오드(OLED) 아이패드 에어를 출시할 </span><span style="letter-spacing: 0.8px;">예정이다. OLED 아이패드 라인업이 </span><span style="letter-spacing: 0.8px;">프로(2024년)와 미니(2026년)에 이어 </span><span style="letter-spacing: 0.8px;">에어(2027년)까지 확대되면서 </span><span style="letter-spacing: 0.8px;">OLED 공급망에 있는 삼성디스플레이와 LG디스플레이, BOE 물량도 관심사다. </span></p>
-<p>애플은 지난 2024년 OLED를 적용한 아이패드 프로 2종(11·13인치)을 처음 <span style="letter-spacing: 0.8px;">출시했다. 올해 미니 모델 1종(8.5인치)을 OLED 아이패드 라인업에 추가했다. 내년에 </span><span style="letter-spacing: 0.8px;">에어 2종(11·13인치)까지 출시하면 OLED 아이패드 라인업은 5종으로 늘어난다. </span></p>
-<p>6일 복수 업계 관계자에 따르면 <span style="letter-spacing: 0.8px;">내년 OLED 아이패드</span><span style="letter-spacing: 0.8px;"> 모델별 출하량 전망치는 </span><span style="letter-spacing: 0.8px;">▲</span><span style="letter-spacing: 0.8px;">프로 300만~400만대 ▲</span><span style="letter-spacing: 0.8px;">미니 400만~500만대 ▲</span><span style="letter-spacing: 0.8px;">에어 400만~500만대 </span><span style="letter-spacing: 0.8px;">등이다</span><span style="letter-spacing: 0.8px;">. 모델별 </span><span style="letter-spacing: 0.8px;">패널 납품업체는 </span><span style="letter-spacing: 0.8px;">▲프로 LG디스플레이·삼성디스플레이 ▲미니 삼성디스플레이 ▲에어 </span><span style="letter-spacing: 0.8px;">삼성디스플레이·BOE </span><span style="letter-spacing: 0.8px;">등이다. </span></p>
-<p>내년 전체 아이패드 OLED 물량 기준으로는 <span style="letter-spacing: 0.8px;">삼성디스플레이가 </span><span style="letter-spacing: 0.8px;">가장 </span><span style="letter-spacing: 0.8px;">많고, </span><span style="letter-spacing: 0.8px;">최상위 </span><span style="letter-spacing: 0.8px;">아이패드 </span><span style="letter-spacing: 0.8px;">프로 </span><span style="letter-spacing: 0.8px;">OLED </span><span style="letter-spacing: 0.8px;">물량에선 LG디스플레이가 앞설 것이란 전망이 우세하다. BOE는 에어 2종 가운데 </span><span style="letter-spacing: 0.8px;">1종 OLED 납품을 노리는데, 기술력이 변수다. </span></p>
-<p><span style="letter-spacing: 0.8px;">업계 관계자 </span><span style="letter-spacing: 0.8px;">A는 "2027년 OLED 아이패드 프로 출하량은 올해와 비슷한 300만~400만대에 그칠 것으로 예상한다"며 "</span><span style="letter-spacing: 0.8px;">OLED 아이패드 미니와 에어 패널을 삼성디스플레이가 주력으로 공급하기 때문에 LG디스플레이는 </span><span style="letter-spacing: 0.8px;">프로 패널 물량 점유율이 높아질 가능성이 크다</span><span style="letter-spacing: 0.8px;">"고 밝혔다. 애플이 패널 업체별 OLED 물량을 조정할 것이란 의미다. </span></p>
-<img src="https://image.zdnet.co.kr/2026/11/05/ca2b5fa8af878f65d601c00299e63105.png" alt="애플은 올해 하반기 OLED 아이패드 미니를 처음 출시했다. (사진=애플)">
-<p><span style="letter-spacing: 0.8px;">애플이 IT OLED </span><span style="letter-spacing: 0.8px;">라인업을 확대하고 있지만, OLED 아이패드 판매 기대치는 </span><span style="letter-spacing: 0.8px;">떨어졌다. OLED 아이패드 프로는 2024년 첫 출시 후 올해까지 3년째 판매가 부진하다. 첫 제품 출시 전에는 애플의 연간 출하량 목표도 1000만대 내외였지만 2024년 첫해 판매량은 절반 수준에 그친 것으로 알려졌다. 올해 판매량 전망치는 300만~400만대이고, 내년 전망도 비슷하다. 최근 메모리 반도체 가격 급등으로 IT 시장 수요도 위축됐다. </span></p>
-<p><span style="letter-spacing: 0.8px;">다른 관계자 </span><span style="letter-spacing: 0.8px;">B는 </span><span style="letter-spacing: 0.8px;">"OLED 아이패드 프로는 높은 가격에 비해 아직 소비자에게 충분히 어필하지 못하고 있다"고 평가했다. 현재 OLED 아이패드 프로 기본가격은 11인치 200만원, 13인치 250만원이다. 각종 옵션을 추가하면 가격은 더 높아진다. </span></p>
-<p><span style="letter-spacing: 0.8px;">애플은 OLED</span><span style="letter-spacing: 0.8px;"> 아이패드 라인업을 늘리는 동시에, </span><span style="letter-spacing: 0.8px;">프로 모델과 나머지 미니</span>·<span style="letter-spacing: 0.8px;">에어 모델 사이 사양 차이를 유지하고 있다. </span><span style="letter-spacing: 0.8px;">프로에는 발광층이 2개층인 투 탠덤 OLED를, </span><span style="letter-spacing: 0.8px;">미니와 에어에는 발광층이 1개층인 싱글 스택 OLED를 적용한다. </span><span style="letter-spacing: 0.8px;">박막트랜지스터(TFT) 기술도 저소비전력 강점이 있는 저온다결정산화물(LTPO) 방식은 프로에만 탑재하고, 미니와 에어에는 LTPO보다 사양이 낮은 저온다결정실리콘(LTPS) 방식을 적용한다. </span></p>]]></description>
 		</item>
 	</channel>
 </rss>
