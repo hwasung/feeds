@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 06 Nov 2026 18:31:33 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 09:31:31 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[ET톡] 게임이 악성코드 통로가 된다면</title>
+			<link>https://www.etnews.com/20261106000279</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000279</guid>
+			<author>박정은</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 07 Nov 2026 07:00:00 +0900</pubDate>
+			<description><![CDATA[최근 시프트업의 인기게임 '승리의 여신: 니케'에서 발생한 보안 사고는 글로벌 게임산업이 직면한 새로운 위험을 드러냈다. 게임서비스에 사용되는 콘텐츠전송네트워크(CDN)의 자바스크립트 파일이 제3자에 의해 변조되면서 공식 PC 런처를 통해 악성 프로그램이 유포됐다. 이용자가 믿고 실행한 게임이 PC 보안을 위협하는 통로가 됐다. 사고는 게임을 직접 공격하는 대신 연결된 외부 시스템의 취약점을 파고든 '공급망 공격'이라는 점에서 주목된다. 지난...]]></description>
+		</item>
 		<item>
 			<title>티맥스티베로·소프트, 박경희 총괄 대표이사 선임…AX 통한 비즈니스 혁신 가속</title>
 			<link>https://www.etnews.com/20261106000314</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 06 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 관련 입법 추진에 앞서 참고해야 할 '대한민국 AI 입법 프레임워크'가 나왔다. 국가AI전략위원회가 국가 AI 핵심과제 추진을 위해 내부 태스크포스(TF) 조직을 확대한다. 국가AI전략위원회는 6일 서울 중구 위원회에서 제3차 전체회의를 열고 이같은 안건을 논의·의결했다. 회의는 하정우 국가AI전략위 부위원장이 주재했으며 정부·민간 위원과 관계기관장 등 60여명이 참석했다. 첫 안건은 범부처가 일관되게 따를 AI 입법 방향 대한...]]></description>
-		</item>
-		<item>
-			<title>EDB, 클릭하우스 전문 기업 &apos;알티니티&apos; 인수…실시간 분석 역량 강화</title>
-			<link>https://www.etnews.com/20261106000256</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000256</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 06 Nov 2026 15:15:04 +0900</pubDate>
-			<description><![CDATA[데이터베이스(DB) 기업 EDB는 '알티니티' 인수했다고 6일 밝혔다. 알티니티는 지난 2017년 설립된 클릭하우스 전문 기업으로, 클릭하우스소프트웨어를 기반으로 엔터프라이즈 소프트웨어와 관리형 서비스, 기술 지원을 제공한다. 이번 인수를 통해 EDB는 세계적으로 빠르게 성장하고 있는 두 오픈소스 데이터베이스 엔진인 포스트그레스(Postgres)의 트랜젝션 처리와 클릭하우스(ClickHouse)의 실시간 분석의 강점을 결합해 개방형 소버린 AI...]]></description>
 		</item>
 	</channel>
 </rss>
