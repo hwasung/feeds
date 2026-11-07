@@ -4,7 +4,17 @@
 		<title>ITFIND</title>
 		<link>https://www.itfind.or.kr/</link>
 		<description>ITFIND</description>
-		<lastBuildDate>Fri, 06 Nov 2026 07:01:21 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 17:19:33 +0900</lastBuildDate>
+		<ttl>1440</ttl>
+		<item>
+			<title>AI로 성과 내는 기업 약 50%, 선도 기업의 가치를 5배 높인 성공 공식은?</title>
+			<link>https://blog.naver.com/PostView.naver?blogId=bcg_kr&amp;logNo=224464383630&amp;categoryNo=6&amp;parentCategoryNo=6&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=&amp;from=postList&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1</link>
+			<guid isPermaLink="true">https://blog.naver.com/PostView.naver?blogId=bcg_kr&amp;logNo=224464383630&amp;categoryNo=6&amp;parentCategoryNo=6&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=&amp;from=postList&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1</guid>
+			<author>Boston Consulting Group</author>
+			<category>분석리포트</category>
+			<pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[BCG ‘2026 AI 활용 지수(Applied AI Index)’에 따르면 글로벌 기업의 약 절반이 이미 AI를 통해 가치를 창출하고 있다. 다만 AI 적용이 본격적으로 확대되면서 선도 기업과 후발 기업 간 성과 격차도 뚜렷해지고 있다.<br/>​<br/>AI 성숙도가 가장 높은 ‘미래 완성 단계(Future-built)’ 기업은 후발 기업(laggards)보다 총주주수익률(Total Shareholder Return, TSR)이 2.3배, 매출 성장률이 2.4배 높았음.<br/><br/>성과를 가른 핵심은 전략적 명확성과 AI 실행 역량의 결합임. 두 영역에서 모두 앞선 기업은 AI를 통해 5배 더 큰 가치를 창출했으며, 업종과 관계없이 어느 기업이든 AI 선도 기업으로 성장할 수 있음.<br/><br/>에이전틱 AI(Agentic AI)의 비중이 2030년 39%까지 커질 전망인 만큼 AI 에이전트 관리·통제 체계가 필요함. 6가지 통제 체계를 모두 갖춘 기업은 한 가지만 갖춘 기업보다 에이전틱 AI를 통해 3배 더 큰 가치를 창출했음.<br/><br/>AI 전환의 성패는 기술보다 조직에 달려 있음. BCG ‘10-20-70 모델'에 따르면 AI 전환 노력의 70%는 인력, 조직, 업무 프로세스의 변화에 투입해야 하며, 기업의 미래를 좌우하는 것은 경영진의 전략적 선택임.]]></description>
+		</item>
 		<item>
 			<title>미 연방통신위원회(FCC), 중국 시험소 미국향 전자기기 인증시험 금지 주요 내용</title>
 			<link>https://dream.kotra.or.kr/dream/kotra/actionKotraShortUrl/qVtjPZLDpsEN.do</link>
@@ -96,15 +106,6 @@
 			<description><![CDATA[[분석 목적]<br/> - 피지컬 AI의 전략적 중요성이 커지면서, 주요국은 차세대 성장 동력과 국가 경쟁력 확보를 위해 피지컬 AI 육성을 주요 정책 의제로 채택<br/> - 본 보고서는 AI 기술과 정책을 주도해 온 미국, 중국, EU의 피지컬 AI 정책 방향과 추진 수단을 비교·분석하여 시사점 도출<br/><br/>[분석 대상]<br/> - ’26년 10월 기준 미국, 중국, EU 3개 국가·지역의 정책과 법안을 검토하여 정책 기능에 따라 분석<br/> - 국가별 정책을 구체화한 분야와 추진 수준이 다르므로, 분야별 목표 설정, 실행 수단 마련, 실제 이행 여부 등을 종합적으로 고려하여 각국 정책의 특징과 한계를 비교<br/>  ※ (분석 범위) 피지컬 AI의 다양한 적용 분야 중 주요국의 정책적 관심과 산업 육성 노력이 집중되는 AI 로봇을 중심으로 분석<br/><br/>[분석 체계]<br/> - ①전략·거버넌스, ②연구·인프라, ③산업 지원, ④표준·안전, ⑤통상·경제안보의 5개 분야로 유형화하여 분야별 비교·분석<br/><br/>[분석 결과]<br/>①전략·거버넌스<br/> - 3개 국가·지역 모두 상위 정책에 피지컬 AI를 반영하나, 특화 정책의 유무와 실행 주체 간 역할 분담에서 차이가 있음<br/> - 중국은 국가 최상위 계획·지침으로 육성 방향을 구체화한 반면, 미국과 EU는 범용 AI 전략의 일부로 로봇 과제를 설정<br/> - 중국은 중앙정부가 특화 지침·과제 제시 및 중앙·지방 간 이행을 점검하는 반면, 미국은 정책 권고 자문위원회를 법안으로 논의 중이며, EU는 로봇 도입 촉진에 민관 협력체계를 활용<br/><br/>②연구·인프라<br/> - 3개 국가·지역 모두 실제 환경 시험·훈련 기반을 지원하나, 인프라 구축 목적과 연구개발 지원 방식에서 차이를 보임<br/> - 미국은 기초연구·차세대 하드웨어 탐색과 자율실험실 등 과학 연구 활용에, 중국은 훈련장·데이터셋 기반 로봇 학습 역량 강화에, EU는 실환경 기술 검증과 시장 이전에 중점<br/> - 미국과 EU는 기초연구·응용·검증으로 이어지는 단계별 지원 구조를 갖춘 반면, 중국은 핵심 기술군을 정해 연구 과제와 데이터·훈련 환경 구축을 동시에 추진<br/><br/>③산업 지원<br/> - 중국은 정부·기업이 현장 훈련 사업으로 수요처 발굴과 실증을 연계하고, 미국은 공급 측의 현장 적용 기술을 지원하며, EU는 회원국 사업을 통해 현장 도입을 추진<br/> - 미국은 기술개발 지원과 생산설비 금융으로 개발·양산 단계를, 중국은 정부 기금과 현장 적용 사업으로 시장 진입 단계를, EU는 성장 금융과 공동 시험·실증 시설로 기업 지원<br/><br/>④표준·안전<br/> - 미국과 중국은 로봇 특화 평가·표준을 개발하는 반면, EU는 수평적 안전·책임 법령을 정비하여 성능 검증과 위험관리 수단에서 차이를 보임<br/> - 미국은 로봇 성능 측정·평가에, 중국은 기술·제품 표준화와 로봇 관리 체계 구축에, EU는 안전·책임·보안 요건의 법제화에 중점<br/> - 미국과 중국의 자발적 표준은 기술 변화에 유연하나 구속력이 제한적이고, EU의 법령은 구속력이 높으나 세부 기준 마련에 시간 소요<br/><br/>⑤통상·경제안보<br/> - 미국과 EU는 로봇을 경제 안보 관리 대상에 포함하되 개입 대상과 방식이 다르며, 중국은 로봇 대상 조치 없이 소재 공급망을 통해 영향을 미침<br/> - 미국은 장비 인증·수입·투자·조달 전반에서 외국산 로봇 제품을 직접 규제하는 반면, EU는 핵심 기술 투자 심사와 원자재 확보로 역외 의존 위험을 간접 관리<br/> - 중국의 희토류·영구자석 수출통제는 로봇 직접 대상은 아니나, 미국과 EU의 부품 조달 다변화 정책의 배경으로 작용<br/><br/>[정책적 시사점]<br/> - (분산된 정책의 연계와 집중) 기존 정책·사업을 종합 점검하고, 우선 육성 분야를 중심으로 부처별 과제와 재원을 연계하여 구심점 역할을 하는 조정 체계 마련 필요<br/> - (공통 기반 기술의 연구 성과 축적) 공통 기반 기술 연구를 지속 지원하고, AI 모델·알고리즘 등 성과를 공유·재사용하여 다양한 로봇과 적용 환경으로 확산하는 체계 마련 필요<br/> - (실증 인프라의 공동 활용 기반 확보) 개별 기업이 구축하기 어려운 훈련·실증시설의 공동 활용을 확대하고, 데이터 축적·공유·재사용 체계를 마련해 실증 성과 확산 지원이 필요<br/> - (피지컬 AI 성능·안전 표준화 대응) 핵심 성능·안전에 관한 시험·평가 역량을 확보하고, 국제표준 개발에 선제적으로 참여하여 국내 기술과 산업계의 요구가 반영되도록 지원 필요<br/> - (핵심 부품·소재의 공급망 안정성 확보) 피지컬 AI가 다양한 핵심 부품·소재에 의존하는 만큼, 주요국 규제 변화와 공급망 취약성을 사전 점검하고 안정적 조달과 공급선 다변화 추진 필요]]></description>
 		</item>
 		<item>
-			<title>中, 美 첨단기술 해외투자 규제 확대에 반발 外 [글로벌 공급망 인사이트 183호]</title>
-			<link>https://www.kita.net/researchTrade/globalSupplyChain/globalSupplyChainDetail.do;JSESSIONID_KITA=DC984127BB282BBCF3F211D28AFF08A5.Hyper?no=2992</link>
-			<guid isPermaLink="true">https://www.kita.net/researchTrade/globalSupplyChain/globalSupplyChainDetail.do;JSESSIONID_KITA=DC984127BB282BBCF3F211D28AFF08A5.Hyper?no=2992</guid>
-			<author>산업통상부</author>
-			<category>정기간행물</category>
-			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[中, 美 첨단기술 해외투자 규제 확대에 반발<br/><br/>ㅁ 미국 재무부는 중국 등 우려대상국의 민감 기술 분야에 대한 투자를 제한하는 ‘포괄적 해외투자 국가안보법(COINS Act)’기반의 해외 투자안보 프로그램(OSP)를 개정하는 내용의 규칙 제정 예고를 발표함 (10.22)<br/>ㅇ 포괄적 해외투자 국가안보법(COINS Act)는 바이든 정부가 ’23년 중국이 반도체·양자 컴퓨팅·AI분야의 미국 투자에 제한을 두는 행정 명령에 서명하면서 시작됨. ’25년에는 이를 법제화하고 대상국을 중국에서 쿠바, 이란, 북한 등으로 확대하며 대상 산업·기술 또한 확대하여 우려국에 미국 자본이 유입되는 것을 차단하기 위해 대외 투자 심사를 강화함<br/><br/>ㅁ 이번 시행 규제는 대상 분야에 생명공학을 추가하고 기존 분야의 금지 대상을 확대함<br/>ㅇ (기존 대상) 반도체·양자 컴퓨팅·AI·고성능컴퓨팅·극초음속시스템 (신규 대상) 생명공학<br/>ㅇ AI는 초지능(Super Intelligence) 시스템 개념으로 대체해 관련 투자를 전면 금지하고, 반도체는 고대역폭메모리(HBM)·광자 집적회로 등으로 금지 대상 확대]]></description>
-		</item>
-		<item>
 			<title>스마트 스케일링, 프랑스-체코 AI 전략 협정, 中 정보화 5개년 계획 [AI·ICT Brief 2026-38호]</title>
 			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261105-000001</link>
 			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261105-000001</guid>
@@ -112,6 +113,15 @@
 			<category>정기간행물</category>
 			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[Ⅰ  주요 이슈<br/><br/> 	1. 스마트 스케일링, AI 성능 경쟁이 규모에서 효율로 확장<br/><br/>Ⅱ	주요국 동향<br/> <br/> 	1. 프랑스·체코 AI 전략 협정 체결, 기가팩토리 유치 공조 추진<br/> 	2. 중국, 「국가 정보화 15차 5개년 계획」 발표<br/><br/>Ⅲ	ICT 부문별 모니터링<br/> <br/>Ⅳ	주요 ICT 행사 일정]]></description>
+		</item>
+		<item>
+			<title>中, 美 첨단기술 해외투자 규제 확대에 반발 外 [글로벌 공급망 인사이트 183호]</title>
+			<link>https://www.kita.net/researchTrade/globalSupplyChain/globalSupplyChainDetail.do;JSESSIONID_KITA=DC984127BB282BBCF3F211D28AFF08A5.Hyper?no=2992</link>
+			<guid isPermaLink="true">https://www.kita.net/researchTrade/globalSupplyChain/globalSupplyChainDetail.do;JSESSIONID_KITA=DC984127BB282BBCF3F211D28AFF08A5.Hyper?no=2992</guid>
+			<author>산업통상부</author>
+			<category>정기간행물</category>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[中, 美 첨단기술 해외투자 규제 확대에 반발<br/><br/>ㅁ 미국 재무부는 중국 등 우려대상국의 민감 기술 분야에 대한 투자를 제한하는 ‘포괄적 해외투자 국가안보법(COINS Act)’기반의 해외 투자안보 프로그램(OSP)를 개정하는 내용의 규칙 제정 예고를 발표함 (10.22)<br/>ㅇ 포괄적 해외투자 국가안보법(COINS Act)는 바이든 정부가 ’23년 중국이 반도체·양자 컴퓨팅·AI분야의 미국 투자에 제한을 두는 행정 명령에 서명하면서 시작됨. ’25년에는 이를 법제화하고 대상국을 중국에서 쿠바, 이란, 북한 등으로 확대하며 대상 산업·기술 또한 확대하여 우려국에 미국 자본이 유입되는 것을 차단하기 위해 대외 투자 심사를 강화함<br/><br/>ㅁ 이번 시행 규제는 대상 분야에 생명공학을 추가하고 기존 분야의 금지 대상을 확대함<br/>ㅇ (기존 대상) 반도체·양자 컴퓨팅·AI·고성능컴퓨팅·극초음속시스템 (신규 대상) 생명공학<br/>ㅇ AI는 초지능(Super Intelligence) 시스템 개념으로 대체해 관련 투자를 전면 금지하고, 반도체는 고대역폭메모리(HBM)·광자 집적회로 등으로 금지 대상 확대]]></description>
 		</item>
 		<item>
 			<title>美, 로봇·산업기계 수입이 국가안보를 위협한다고 판정(10.28.) 外 [디지털통상브리프 11월 1주]</title>
@@ -213,7 +223,7 @@
 			<description><![CDATA[1. 해외경제<br/>(1) 미국경제 : 9월 실물지표 혼조, 물가지표 상승<br/>○ 산업생산은 제조업(전월비 0.3%)과 유틸리티(3.5%)의 증가 영향으로 확대(0.7%)된 반면, 소매판매는 주유소(6.4%) 등을 제외하고 소폭 증가에 그치면서 둔화세 (0.8%)를 보이고, 소비자물가(0.6%)와 생산자물가(1.3%)는 전월비 상승세가 확대<br/><br/>(2) 중국경제 : 9월 실물지표 혼조, 무역흑자 확대<br/>○ 산업생산(5.5%)과 소매판매(1.1%) 증가세가 동반 확대된 반면, 고정투자(-7.2%)는 감소세가 이어지는 등 내수지표들의 부문간 혼조세가 지속된 가운데 상품수지는 수출(36.3%)과 수입(31.0%) 증가세가 동반 확대됨에 따라 흑자 규모 역시 확대]]></description>
 		</item>
 		<item>
-			<title>유럽 ETSI, 6G 대비 시맨틱 통신 발전을 위한 산업규격그룹 신설 外 [&apos;26년 10월호]</title>
+			<title>유럽 연합, 인공지능법 지원 최초의 유럽 표준 - EU 관보 게재 등 [&apos;26년 10월호]</title>
 			<link>https://www.tta.or.kr/tta/selectBbsNttView?bbsNo=27&amp;key=20&amp;nttNo=14453</link>
 			<guid isPermaLink="true">https://www.tta.or.kr/tta/selectBbsNttView?bbsNo=27&amp;key=20&amp;nttNo=14453</guid>
 			<author>한국정보통신기술협회</author>
@@ -444,15 +454,6 @@
 			<category>분석리포트</category>
 			<pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[국가 온실가스 감축목표 강화와 탄소중립 이행 요구가 확대되면서, 비용 효율적인 온실가스 감축 수단인 탄소 상쇄의 중요성이 커지고 있습니다.<br/><br/>특히 국내 배출권거래제(K-ETS)의 외부사업은 규제 대상 사업장 외부에서 발생한 감축실적을 배출권으로 활용할 수 있는 제도로, 기업의 내부 감축 부담 완화와 새로운 수익 창출 기회를 제공하고 있습니다.<br/><br/>그러나 상쇄 크레딧의 실질적인 가치를 확보하기 위해서는 감축실적의 신뢰성과 적격성 검증이 필수적입니다. 추가성, 중복성, 보수성 등 주요 기준을 충족해야 하며, 사업 설계 단계부터 인증 요건을 면밀히 검토하고 지속적으로 관리하는 것이 중요합니다.<br/><br/>본 리포트에서 탄소 상쇄의 개념과 핵심 적격성 기준을 살펴보고, K-ETS 외부사업을 중심으로 성공적인 크레딧 확보를 위한 주요 체크포인트를 확인해보세요.]]></description>
-		</item>
-		<item>
-			<title>AX 시대 핵심 인프라, 국내 서버 산업의 현주소와 과제 [ICT Standard weekly 제1314호]</title>
-			<link>http://weekly.tta.or.kr/weekly/files/20261101061116_weekly.pdf</link>
-			<guid isPermaLink="true">http://weekly.tta.or.kr/weekly/files/20261101061116_weekly.pdf</guid>
-			<author>한국정보통신기술협회</author>
-			<category>정기간행물</category>
-			<pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[서버는 이제 단순한 IT 장비를 넘어 AI 모델과 데이터, 산업 서비스를 구현하는 국가 핵심 인프라로 자리 잡고 있다. 특히 AI 컴퓨팅 자원의 확보와 운영 통제력은 산업 경쟁력뿐만 아니라 데이터 주권, 공급망 안정성 그리고 경제안보와도 직결된다. 우리나라는 서버에 탑재되는 고대역폭 메모리(HBM)와 기업용 SSD 등 핵심부품 분야에서 세계적인 경쟁력을 갖추고 있다. 그러나 서버 완제품을 비롯해 메인보드, 펌웨어, 시스템 관리 소프트웨어 및 통합솔루션 부문의 경쟁력은 상대적으로 취약하다. 이로 인해 국내 서버 수요의 상당 부분이 외산 제품으로 충당되면서, AI 인프라 투자 확대가 국내 서버 산업의 실질적 성장으로 충분히 이어지지 못하는 실정이다. 더욱이 서버 공급망과 펌웨어에 대한 투명성 확보, 보안 취약점 대응, 데이터 통제권이 경제안보의 핵심 요소로 부상함에 따라 국가 차원의 서버산업 역량 강화 필요성도 더욱 커지고 있다.<br/>이번 원고에서는 AI 전환 시대 핵심 인프라인 서버산업의 구조 변화와 국내 산업의 현주소를 진단하고, 국내 서버산업의 경쟁력을 강화하기 위한 정책 방향을 제시하고자 한다.]]></description>
 		</item>
 	</channel>
 </rss>
