@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 07 Nov 2026 15:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 08 Nov 2026 11:36:07 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>정부, 냉장·냉동설비 해킹 경고…민간에 보안 점검 권고</title>
+			<link>https://www.etnews.com/20261106000213</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000213</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 08 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[세계 각국에서 냉동설비 해킹으로 식품 폐기 피해가 연이어 발생하는 가운데 국내에서도 정부가 피해 예방에 나섰다. 6일 업계에 따르면 과학기술정보통신부는 관계부처를 통해 민간 사업자와 관련 협·단체 등에 해외 냉장·냉동설비 해킹 사례를 전파하고 보안 점검을 권고했다. 이는 매장이나 저온창고 밖에서 설비 온도와 가동 시간을 바꿀 수 있는 원격제어장치를 노린 공격에 대응하기 위한 조치다. 사고 예방을 위해서는 제조사가 설정한 초기 비밀번호를 변경하고...]]></description>
+		</item>
 		<item>
 			<title>[ET시선] 가상자산 과세 유예, 이번에는 달라야 한다</title>
 			<link>https://www.etnews.com/20261106000193</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 06 Nov 2026 16:57:57 +0900</pubDate>
 			<description><![CDATA[강원창조경제혁신센터(대표 이해정)가 강원창업주간을 맞아 투자연계 행사 4회를 잇달아 개최하고 지역 유망기업의 투자유치와 사업 확대를 지원했다. 강원혁신센터는 지난 10월 29일부터 11월 5일까지 춘천과 원주에서 창업-BuS 데모데이, 립스(LIPS) 커넥트데이, 온보딩플라이트 데모데이, 연합 인베스터 데이(INVESTOR DAY)를 개최했다고 밝혔다. 이번 행사에는 바이오·헬스케어, 푸드테크, 기후테크, 혁신 소상공인 등 다양한 분야의 지역기...]]></description>
-		</item>
-		<item>
-			<title>하정우 부위원장 “AI기본법 중심으로 부처별 입법 일관성 강화”</title>
-			<link>https://www.etnews.com/20261106000298</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000298</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 06 Nov 2026 16:52:32 +0900</pubDate>
-			<description><![CDATA[하정우 국가인공지능전략위원회 상근 부위원장이 인공지능(AI)기본법을 중심으로 범정부 입법 방향을 정립해 기업·국민의 예측 가능성과 일관성을 높이겠다는 의지를 밝혔다. 하 부위원장은 6일 서울 중구 국가AI전략위원회에서 열린 제3차 전체회의에서 “AI기본법을 중심에 두고 각 부처가 소관 법률을 제정·개정할 때 따를 입법 방향을 세우겠다”며 “기업은 예측할 수 있고 국민은 안심할 수 있게 입법 일관성을 강화하는 부분”이라고 말했다. 제3차 전체회의...]]></description>
 		</item>
 	</channel>
 </rss>
