@@ -4,7 +4,7 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 08 Nov 2026 17:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 08 Nov 2026 20:30:26 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>박경희 티맥스티베로·소프트 총괄 대표 “전사 AX 속도...글로벌 시장 진출”</title>
@@ -25,6 +25,14 @@
 			<description><![CDATA[중국 유니트리, 애지봇 등 주요 로봇기업과 협력하는 피지컬 인공지능(AI) 기술기업 칭무(CHINGMU)가 로봇 학습용 데이터 수집 솔루션을 앞세워 한국 시장 공략에 나섰다. 8일 업계에 따르면 중국 상하이에 본사를 둔 칭무는 최근 양쯔이 이사를 한국 지사장으로 선임하고 국내 사업 확대에 나섰다. 칭무는 2015년 설립된 광학 모션캡처 전문기업이다. 영화, 게임, 애니메이션 분야에서 축적한 기술을 휴머노이드 로봇의 동작 학습과 원격조작, 성능...]]></description>
 		</item>
 		<item>
+			<title>[전화성의 기술창업 Targeting] 〈415〉 [AC협회장 주간록125] 스타트업 강국 다음 조건은 &apos;창업&apos;이 아니라 &apos;순환&apos;이다</title>
+			<link>https://www.etnews.com/20261106000234</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000234</guid>
+			<category>오피니언</category>
+			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[지난 10여년간 한국의 스타트업 생태계는 빠르게 성장했다. 정부 창업지원 정책과 모태펀드, TIPS를 비롯한 민관 협력형 투자제도가 확대됐고 액셀러레이터와 벤처캐피털도 크게 늘었다. 이제 한국에서 창업은 더 이상 특별한 선택이 아니다. 그러나 생태계 성숙도를 단순히 창업기업 수나 벤처투자 금액만으로 평가해서는 안 된다. 중요한 것은 투자된 자본이 얼마나 효과적으로 회수되고 다시 새로운 창업기업으로 돌아가는가다. 스타트업 생태계의 자본순환 구조는...]]></description>
+		</item>
+		<item>
 			<title>[사설] AI투자 불확실성 걷히는 과정이다</title>
 			<link>https://www.etnews.com/20261108000052</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261108000052</guid>
@@ -32,14 +40,6 @@
 			<category>오피니언</category>
 			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[미국 중간선거에서 민주당이 승리하며 이른바 '블루 쓰나미'가 몰아치자, 현지 데이터센터 인허가 규제 우려로 한·미 반도체 주가가 요동쳤다. 그러나 시장의 극단적 공포와 달리 현장 진단은 차분하다. 미국 차기 의회·주정부의 규제 움직임이 우리 반도체 공급망에 미칠 실질적 타격은 제한적이며, 최근 변동성은 거시경제적 피로감과 정치적 불확실성이 맞물린 단기 과잉 반응이라는 시각이 중론이다. 우선, 명확히 구분할 점은 미국의 정치적 시그널이다. '블루...]]></description>
-		</item>
-		<item>
-			<title>[전화성의 기술창업 Targeting] 〈415〉 [AC협회장 주간록125] 스타트업 강국 다음 조건은 &apos;창업&apos;이 아니라 &apos;순환&apos;이다</title>
-			<link>https://www.etnews.com/20261106000234</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000234</guid>
-			<category>오피니언</category>
-			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[지난 10여년간 한국의 스타트업 생태계는 빠르게 성장했다. 정부 창업지원 정책과 모태펀드, TIPS를 비롯한 민관 협력형 투자제도가 확대됐고 액셀러레이터와 벤처캐피털도 크게 늘었다. 이제 한국에서 창업은 더 이상 특별한 선택이 아니다. 그러나 생태계 성숙도를 단순히 창업기업 수나 벤처투자 금액만으로 평가해서는 안 된다. 중요한 것은 투자된 자본이 얼마나 효과적으로 회수되고 다시 새로운 창업기업으로 돌아가는가다. 스타트업 생태계의 자본순환 구조는...]]></description>
 		</item>
 		<item>
 			<title>글로벌 보안 M&amp;A 449건 &apos;역대 최다&apos;…협력 뒤처진 韓, 통합플랫폼 강화 서둘러야</title>
@@ -69,6 +69,14 @@
 			<description><![CDATA[KT가 214억원 규모 '국방 인공지능(AI) 플랫폼 고도화' 사업을 수주했다. 군사 데이터 등을 AI 개발·학습에 활용할 수 있는 국방 AI 인프라 구축을 전담한다. KT가 국방 AI전환(AX) 분야에서 중요한 레퍼런스를 확보하면서 공공·기업사업 확장에 더욱 속도를 낼 것으로 전망된다. 8일 통신업계에 따르면 KT는 지난달 국방부와 한국지능정보사회진흥원(NIA)이 추진하는 '국방 지능형 플랫폼 고도화 구축' 사업자로 선정됐다. 총 사업금액은...]]></description>
 		</item>
 		<item>
+			<title>[ET시론] 사이버회복력을 고려한 AIDC 보안 내재화 설계</title>
+			<link>https://www.etnews.com/20261106000059</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000059</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[공공 서비스와 기업의 업무가 디지털 시스템에 의존할수록 사이버 공격의 피해는 정보 유출을 넘어 업무 중단과 잘못된 의사결정으로 이어질 수 있다. 공격을 막기 위한 노력과 함께 일부 시스템이 침해된 상황에서도 필요한 업무를 유지하고 신뢰할 수 있는 상태로 회복하는 능력을 갖춰야 한다. 사이버회복력이 필요한 이유다. 미국 국립표준기술연구소(NIST)는 사이버회복력의 목표를 예상, 견딤, 회복, 적응으로 제시한다. 위협을 예상해 준비하고, 사고의 영...]]></description>
+		</item>
+		<item>
 			<title>농협생명, AX 기반 보험설계 특허등록 완료…맞춤형 상품·특약 추천</title>
 			<link>https://www.etnews.com/20261106000211</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261106000211</guid>
@@ -85,14 +93,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[〈편집자주〉 사이버 침해사고가 산업 전반으로 확산하면서 기존 보안체계의 한계가 드러나고 있다. 인공지능(AI)이 해킹에 활용되면서 산업별 보안 체계 강화가 시급해졌다. 전자신문은 '보안긴급진단' 기획 시리즈를 통해 금융·산업·정보기술(IT)·공공 등 4개 분야의 보안 실태와 구조적 취약점을 살펴보고 개선 과제를 짚어본다. 민간뿐 아니라 공공부문에서도 해킹과 개인정보 유출 사고가 잇따르고 있다. 공공은 국민의 민감정보와 국가 주요 정보를 보유하고...]]></description>
-		</item>
-		<item>
-			<title>[ET시론] 사이버회복력을 고려한 AIDC 보안 내재화 설계</title>
-			<link>https://www.etnews.com/20261106000059</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000059</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[공공 서비스와 기업의 업무가 디지털 시스템에 의존할수록 사이버 공격의 피해는 정보 유출을 넘어 업무 중단과 잘못된 의사결정으로 이어질 수 있다. 공격을 막기 위한 노력과 함께 일부 시스템이 침해된 상황에서도 필요한 업무를 유지하고 신뢰할 수 있는 상태로 회복하는 능력을 갖춰야 한다. 사이버회복력이 필요한 이유다. 미국 국립표준기술연구소(NIST)는 사이버회복력의 목표를 예상, 견딤, 회복, 적응으로 제시한다. 위협을 예상해 준비하고, 사고의 영...]]></description>
 		</item>
 	</channel>
 </rss>
