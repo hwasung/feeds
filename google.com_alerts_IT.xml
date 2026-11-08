@@ -4,7 +4,96 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Fri, 06 Nov 2026 13:30:46 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 08 Nov 2026 14:30:41 +0900</lastBuildDate>
+		<ttl>60</ttl>
+		<item>
+			<title>[AIS 2026] 망 끊으면 안전할까…김승주 교수 “AI 시대 보안, 자산 파악부터 다시” - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209369</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209369</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 10:22:53 +0900</pubDate>
+			<description><![CDATA[공격자 여러 명이 달라붙어야 했던 해킹을 이제는 한 사람이 AI 도구와 함께 수행한다. 공격에 드는 비용이 줄어들면, 과거에는 수익성이 낮아 외면했던&nbsp;...]]></description>
+		</item>
+		<item>
+			<title>인성디지털, AIS 2026서 소나타입 공급망 보안 플랫폼 소개…AI 코딩 단계부터 오픈소스 위험 관리</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209377</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209377</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 05:28:18 +0900</pubDate>
+			<description><![CDATA[데일리시큐가 주최하고 한국인터넷진흥원(KISA)과 한국정보보호산업협회(KISIA)가 후원한 &#39;2026 인공지능 <b>보안</b> 컨퍼런스(AIS 2026)&#39;가 11월 3일 서.]]></description>
+		</item>
+		<item>
+			<title>엑소스피어랩스, AIS 2026서 백신·DLP 통합 보안 서비스 &apos;엑소스피어&apos; 소개 - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209376</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209376</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 05:23:02 +0900</pubDate>
+			<description><![CDATA[엑소스피어 제로트러스트 <b>보안</b> 플랜 ... <b>김승주</b> 교수 “AI 시대 <b>보안</b>, 자산 파악부터 다시”.]]></description>
+		</item>
+		<item>
+			<title>큐냅 NAS 실제 해킹 피해 확인, &apos;Plex2Shell&apos; 취약점 긴급 패치 권고 - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209368</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209368</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 03:32:41 +0900</pubDate>
+			<description><![CDATA[네트워크 스토리지(NAS) 전문기업 큐냅(QNAP)이 자사 NAS에서 실행되는 플렉스 미디어 서버(Plex Media Server)의 <b>보안</b> 취약점을 악용한 실제.]]></description>
+		</item>
+		<item>
+			<title>AI 해킹 에이전트, 실험실 벗어나 실제 기업 해킹해 고객정보까지 무단 수집 - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209367</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209367</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 03:27:34 +0900</pubDate>
+			<description><![CDATA[<b>보안</b> 연구를 위해 개발된 인공지능 해킹 에이전트가 허가된 시험 환경을 벗어나 실제 기업 시스템에 접근하고 고객정보를 대량으로 수집한 사건이 확인됐다.]]></description>
+		</item>
+		<item>
+			<title>깃허브에 가짜 보안도구 심어 해킹, 윈도 PC 2000대 이상 감염 - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209366</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209366</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 03:23:43 +0900</pubDate>
+			<description><![CDATA[개발자들이 소스코드와 <b>보안</b>도구를 공유하는 깃허브(GitHub)가 사이버공격의 유포 경로로 악용되고 있다. 공격자들이 정상적인 <b>보안</b>도구로 위장한 악성&nbsp;...]]></description>
+		</item>
+		<item>
+			<title>[AIS 2026] 안병욱 깃랩 SA &quot;코딩은 AI 속도, 취약점 처리는 사람 속도…검증·조치 함께 자동화해야</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209362</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209362</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 02:12:22 +0900</pubDate>
+			<description><![CDATA[정적 애플리케이션 <b>보안</b> 테스트(SAST), 동적 애플리케이션 <b>보안</b> 테스트 ... <b>김승주</b> 교수 “AI 시대 <b>보안</b>, 자산 파악부터 다시”.]]></description>
+		</item>
+		<item>
+			<title>[AIS 2026] 엔키화이트햇 장호민 팀장 &quot;금융권 해킹, 정문보다 업무지원 서비스 노렸다…암호화 ...</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209361</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209361</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 01:47:36 +0900</pubDate>
+			<description><![CDATA[대표 홈페이지의 <b>보안</b>을 강화해도 직원과 협력사가 사용하는 업무지원 서비스에 빈틈이 있으면 고객정보를 지키기 어렵다. 서버에 저장한 데이터가 암호화돼&nbsp;...]]></description>
+		</item>
+		<item>
+			<title>[AIS 2026] 포티넷 김수영 상무 “LLM부터 AI 에이전트까지, 통합 통제와 반복 검증 필수”</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209360</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209360</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 01:17:55 +0900</pubDate>
+			<description><![CDATA[기존 <b>보안</b> 체계와 AI <b>보안</b> 계층을 연결해 인프라 접근부터 모델 응답 ... <b>김승주</b> 교수 “AI 시대 <b>보안</b>, 자산 파악부터 다시”.]]></description>
+		</item>
+		<item>
+			<title>[AIS 2026] AI가 정찰부터 정보탈취까지…KISA 김도원 팀장 “공격 자동화 대비해야”</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209358</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209358</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sun, 08 Nov 2026 00:17:36 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)이 해킹 문구와 코드를 작성하는 보조 도구를 넘어 정찰, 취약점 탐색, 침투, 데이터 수집을 수행하는 단계로 발전하면서 기업의 <b>보안</b> 대응체계&nbsp;...]]></description>
+		</item>
+		<item>
+			<title>과거 5명이 하던 해킹 1명으로도 가능… AI 활용으로 해킹 ROI 높아져 - 주간동아</title>
+			<link>https://weekly.donga.com/List/Series/article/all/11/6449005/1</link>
+			<guid isPermaLink="true">https://weekly.donga.com/List/Series/article/all/11/6449005/1</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sat, 07 Nov 2026 07:03:52 +0900</pubDate>
+			<description><![CDATA[사이버 <b>보안</b> 전문가인 <b>김승주</b> 고려대 정보보호대학원 교수는 최근 국내외 금융권을 강타한 AI 해킹의 심각성을 이렇게 분석했다. 10월 초 시중은행과 제2금융권&nbsp;...]]></description>
+		</item>
 		<item>
 			<title>국내 PHP 50만개 취약 이력···패치율 3.9% 그쳐 - 한스경제</title>
 			<link>http://www.hansbiz.co.kr/news/articleView.html?idxno=880533</link>
