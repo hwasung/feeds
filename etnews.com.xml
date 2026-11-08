@@ -4,8 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 08 Nov 2026 20:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 06:30:32 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[테크 차이나] 중국 콜드체인, 구매자가 재편하는 산지물류</title>
+			<link>https://www.etnews.com/20261027000316</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261027000316</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 09 Nov 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[냉장차로 도착한 과일도 매장에서 원하는 숙도와 크기를 맞추지 못하면 할인과 반품을 피하기 어렵다. 수확 뒤 열을 빼는 작업이 늦었거나 선별 중 눌린 흔적이 뒤늦게 손실로 나타날 수도 있다. 콜드체인이 보존하는 것은 중량에 더해 구매자가 받아들일 품질과 그 품질로 팔 수 있는 시간이다. 중국의 유통기업과 지역 조직은 냉장창고를 늘리는 정책과 맞물려 주문·선별·보관·출하를 묶는 거래를 만들고 있다. 품질을 지키는 데 든 돈이 판매대금으로 돌아와야...]]></description>
+		</item>
 		<item>
 			<title>박경희 티맥스티베로·소프트 총괄 대표 “전사 AX 속도...글로벌 시장 진출”</title>
 			<link>https://www.etnews.com/20261108000035</link>
@@ -84,15 +92,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[NH농협생명이 고객 기존 보험가입 내역과 희망 보험료를 반영해 상품과 특약을 추천하는 시스템에 대해 특허를 확보했다. 소비자는 예산에 맞는 설계안을 신속하게 받아보고, 설계사는 복잡한 특약 조합을 구성·검증하는 부담을 줄일 수 있게 됐다. 6일 지식재산처에 따르면 농협생명은 지난달 28일 'AX(AI Experience) 기반 보험설계 지원 방법, 장치 및 기록매체' 특허등록을 완료했다. 지난 4월 출원한 기술로, 등록공고는 이달 2일 이뤄졌다...]]></description>
-		</item>
-		<item>
-			<title>[보안긴급진단]〈4·끝〉공공, 인력 확충 넘어 전문성·상시 대응체계 확보 과제</title>
-			<link>https://www.etnews.com/20261106000205</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000205</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[〈편집자주〉 사이버 침해사고가 산업 전반으로 확산하면서 기존 보안체계의 한계가 드러나고 있다. 인공지능(AI)이 해킹에 활용되면서 산업별 보안 체계 강화가 시급해졌다. 전자신문은 '보안긴급진단' 기획 시리즈를 통해 금융·산업·정보기술(IT)·공공 등 4개 분야의 보안 실태와 구조적 취약점을 살펴보고 개선 과제를 짚어본다. 민간뿐 아니라 공공부문에서도 해킹과 개인정보 유출 사고가 잇따르고 있다. 공공은 국민의 민감정보와 국가 주요 정보를 보유하고...]]></description>
 		</item>
 	</channel>
 </rss>
