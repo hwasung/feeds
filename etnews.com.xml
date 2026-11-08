@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 09 Nov 2026 07:30:26 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 08:30:34 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>뷰센스, 美 서부 뷰티 세일즈 파이프라인 구축</title>
+			<link>https://www.etnews.com/20261107000040</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261107000040</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 08:01:00 +0900</pubDate>
+			<description><![CDATA[뉴엔AI(대표 배성환)는 이 회사 북미 법인 '뷰센스(VUSSENS Inc.)'가 지난달 28일부터 30일까지 사흘간 미국 LA에서 개최된 '뷰티 산업 비즈니스 포럼' 참가를 성공적으로 마무리하고, 미국 서부 세일즈 파이프라인을 구축했다고 9일 밝혔다. 올해 10주년을 맞은 해당 포럼은 참가자 중 80%가 최고위 임원 및 VP급 의사결정권자로 구성된 북미 대표 뷰티 B2B 행사다. 뷰센스는 행사 기간 동안 신생 유망 브랜드를 아우르는 '넥스트...]]></description>
+		</item>
 		<item>
 			<title>젠슨 황, 中 스파이 연루 의혹 속 불륜 인정…엔비디아 이사회 조사 착수</title>
 			<link>https://www.etnews.com/20261109000007</link>
@@ -84,15 +93,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 08 Nov 2026 16:21:00 +0900</pubDate>
 			<description><![CDATA[니어네트웍스(대표 이복동)는 인공지능(AI)과 블록체인 기술을 융합해 고령자 건강 상태를 분석하고 이상징후를 조기에 탐지하는 '예방형 디지털 돌봄 플랫폼'을 개발, 경기도 남양주시 소재 경로당을 중심으로 현장 실증을 진행하고 있다고 8일 밝혔다. 이번 프로젝트는 과학기술정보통신부와 대구시, 한국인터넷진흥원(KISA), 대구디지털혁신진흥원(DIP) 지원으로 추진하는 '2026년 블록체인 융복합타운 조성사업 맞춤형 사업화 지원 과제'다. 기존 사후...]]></description>
-		</item>
-		<item>
-			<title>KT, 국방 AI 플랫폼 구축…박윤영 대표 체제 AX 성과</title>
-			<link>https://www.etnews.com/20261106000286</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000286</guid>
-			<author>남궁경</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 16:20:31 +0900</pubDate>
-			<description><![CDATA[KT가 214억원 규모 '국방 인공지능(AI) 플랫폼 고도화' 사업을 수주했다. 군사 데이터 등을 AI 개발·학습에 활용할 수 있는 국방 AI 인프라 구축을 전담한다. KT가 국방 AI전환(AX) 분야에서 중요한 레퍼런스를 확보하면서 공공·기업사업 확장에 더욱 속도를 낼 것으로 전망된다. 8일 통신업계에 따르면 KT는 지난달 국방부와 한국지능정보사회진흥원(NIA)이 추진하는 '국방 지능형 플랫폼 고도화 구축' 사업자로 선정됐다. 총 사업금액은...]]></description>
 		</item>
 	</channel>
 </rss>
