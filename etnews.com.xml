@@ -4,97 +4,95 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 08 Nov 2026 14:30:30 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 08 Nov 2026 17:30:26 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>MS, 오라클 데이터센터 임차 중단 수순…네오클라우드 전략 재점검</title>
-			<link>https://www.etnews.com/20261108000064</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261108000064</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 13:39:39 +0900</pubDate>
-			<description><![CDATA[마이크로소프트(MS)가 오라클에서 연산자원을 빌려 쓰던 계약을 전면 재검토하기로 했다. 6일(현지시간) 블룸버그 통신에 따르면 MS는 그간 오라클과 맺었던 연산 자원 임차 계약을 연장하지 않고 수개월에 걸쳐 차례로 중단하기로 했다. 이처럼 MS가 계약 중단에 나선 것은 그간 빌려 썼던 오라클 데이터센터에 구형 엔비디아 칩이 설치돼 있었던 탓에 유용성이 떨어진 영향이라고 알려지고 있다. 오라클 외에 다른 데이터센터 운영사들과의 연산 자원 임대 계...]]></description>
-		</item>
-		<item>
-			<title>美 데이터센터 규제 공포 과도, 韓 반도체 “장기 수요 이상  無…차세대 R&amp;D 다질 기회로”</title>
-			<link>https://www.etnews.com/20261108000051</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261108000051</guid>
-			<author>권동준</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 12:02:14 +0900</pubDate>
-			<description><![CDATA[미국 중간선거에서 민주당이 압승하면서 데이터센터 인허가 규제 우려로 한·미 반도체 주가가 홍역을 치렀다. 국내 반도체 산업계와 학계, 투자업계는 단기적인 증시 과민 반응과 중장기 산업의 방향성을 분리해 봐야 한다며 차분한 진단을 내놓았다. 8일 반도체 업계와 투자업계에 따르면 미국 주요 주·지방정부의 데이터센터 규제 움직임이 국내 반도체 공급망에 미칠 실질적인 타격은 제한적일 것이라는 시각이 중론이다. 실제로 주 중반 급락했던 한·미 반도체 증...]]></description>
-		</item>
-		<item>
-			<title>유비디시전, 차세대 국방시설통합정보체계에 전자서명 솔루션 공급</title>
-			<link>https://www.etnews.com/20261106000173</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000173</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 12:00:48 +0900</pubDate>
-			<description><![CDATA[디지털 전환(DX) 전문기업 유비디시전이 국방전산정보원의 '차세대 국방시설통합정보체계 구축사업'에 전자서명 솔루션 '유비컨텐츠(UbiContent)'를 공급한다고 8일 밝혔다. 이번 사업은 시설계획과 사업정보, 시설공사, 시설유지관리, 국유재산 관리 등 국방시설 관련 업무를 하나의 정보시스템으로 통합하는 사업으로, 국방전산정보원이 단계적으로 추진하고 있다. 유비컨텐츠는 전자서식 작성부터 서명 요청, 진행 현황 확인, 문서 보관까지 통합 지원하는...]]></description>
-		</item>
-		<item>
-			<title>최백준 틸론 대표 “제주 데이터센터, AI 시대 위기 극복할 핵심 성장동력”</title>
-			<link>https://www.etnews.com/20261106000220</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000220</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[“제주에는 우수한 인재가 많고, 직원들의 로열티가 매우 높습니다. 우수한 인력만큼 생산성도 뛰어납니다. 틸론소프트가 제주에서 연구소를 운영하는 것도 같은 요인입니다.” 최백준 틸론 대표는 지난 5일 제주 메종글래드 호텔에서 이 회사 가상화 컴퓨팅 솔루션 '디스테이션(DstationX)'의 론칭 및 인공지능(AI)서비스를 소개하는 콘퍼런스를 열고 제주에 대한 애정을 드러냈다. 틸론의 본사는 서울이다. 최 대표의 고향도 제주가 아니다. 그럼에도 최...]]></description>
-		</item>
-		<item>
-			<title>새만금·구미·완주·울산 등 피지컬 AI 공공사업 지역 확산</title>
-			<link>https://www.etnews.com/20261106000207</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000207</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[공공 주도 피지컬 인공지능(AI) 산업 성장 기반 마련을 위한 마중물 사업이 전국으로 확산되고 있다. 과학기술정보통신부 주도 경남·전북 지역 AX(AI전환) 본사업 외에도 피지컬 AI 기술을 실제 산업 현장에 검증·적용할 실증 인프라 조성, 제조·항만 분야 기술개발을 위한 연구 기획 등 지역 주도 다양한 사업이 활발히 추진 중이다. 8일 조달청 나라장터에 따르면 새만금개발청은 지난달 29일 '새만금 피지컬 AI 지원시설 기본구상 용역'을 공고했...]]></description>
-		</item>
-		<item>
-			<title>공공 클라우드 수요 확대에…대구 PPP 새판 짜기 주목</title>
-			<link>https://www.etnews.com/20261106000191</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000191</guid>
+			<title>박경희 티맥스티베로·소프트 총괄 대표 “전사 AX 속도...글로벌 시장 진출”</title>
+			<link>https://www.etnews.com/20261108000035</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261108000035</guid>
 			<author>최호</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[공공 정보 시스템의 클라우드 전환 수요가 늘면서 국가정보자원관리원(국정자원) 대구센터 민관협력형 클라우드(PPP)의 향후 활용 방안에 관심이 쏠리고 있다. 기존 공간이 포화하면서 신규 서비스 공간 활용 필요성이 커진 가운데 민간 개방 범위와 보안 체계, 정부의 직접 운영 역량 등 여러 변수를 고려해야 해 정부의 고민도 깊어지고 있다. 8일 관련 업계에 따르면 행정안전부는 대구 PPP 추가 활용 방안 수립에 착수했다. 공공 정보시스템의 클라우드...]]></description>
+			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[박경희 티맥스티베로·티맥스소프트 총괄 대표가 전사적 인공지능 전환(AX)을 양사 핵심 과제로 지목했다. 데이터베이스(DB)와 미들웨어 제품에 AI를 접목하는 것은 물론 소프트웨어 개발, 기술지원, 경영 관리 등 업무 전반에 AI 도입이 시급하다는 판단에서다. 제품 경쟁력과 조직 운영 체계를 함께 혁신해 글로벌 시장 진출의 발판을 마련한다는 구상이다. 박 대표는 8일 전자신문과의 인터뷰에서 “제품 하나하나에 AI를 접목해 AI 플랫폼으로 발전시키...]]></description>
 		</item>
 		<item>
-			<title>정부, 냉장·냉동설비 해킹 경고…민간에 보안 점검 권고</title>
-			<link>https://www.etnews.com/20261106000213</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000213</guid>
+			<title>로봇 넘어 학습 데이터까지…中 칭무, 한국 피지컬AI 시장 공략</title>
+			<link>https://www.etnews.com/20261106000180</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000180</guid>
+			<author>김명희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[중국 유니트리, 애지봇 등 주요 로봇기업과 협력하는 피지컬 인공지능(AI) 기술기업 칭무(CHINGMU)가 로봇 학습용 데이터 수집 솔루션을 앞세워 한국 시장 공략에 나섰다. 8일 업계에 따르면 중국 상하이에 본사를 둔 칭무는 최근 양쯔이 이사를 한국 지사장으로 선임하고 국내 사업 확대에 나섰다. 칭무는 2015년 설립된 광학 모션캡처 전문기업이다. 영화, 게임, 애니메이션 분야에서 축적한 기술을 휴머노이드 로봇의 동작 학습과 원격조작, 성능...]]></description>
+		</item>
+		<item>
+			<title>[사설] AI투자 불확실성 걷히는 과정이다</title>
+			<link>https://www.etnews.com/20261108000052</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261108000052</guid>
+			<author>이진호</author>
+			<category>오피니언</category>
+			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[미국 중간선거에서 민주당이 승리하며 이른바 '블루 쓰나미'가 몰아치자, 현지 데이터센터 인허가 규제 우려로 한·미 반도체 주가가 요동쳤다. 그러나 시장의 극단적 공포와 달리 현장 진단은 차분하다. 미국 차기 의회·주정부의 규제 움직임이 우리 반도체 공급망에 미칠 실질적 타격은 제한적이며, 최근 변동성은 거시경제적 피로감과 정치적 불확실성이 맞물린 단기 과잉 반응이라는 시각이 중론이다. 우선, 명확히 구분할 점은 미국의 정치적 시그널이다. '블루...]]></description>
+		</item>
+		<item>
+			<title>[전화성의 기술창업 Targeting] 〈415〉 [AC협회장 주간록125] 스타트업 강국 다음 조건은 &apos;창업&apos;이 아니라 &apos;순환&apos;이다</title>
+			<link>https://www.etnews.com/20261106000234</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000234</guid>
+			<category>오피니언</category>
+			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[지난 10여년간 한국의 스타트업 생태계는 빠르게 성장했다. 정부 창업지원 정책과 모태펀드, TIPS를 비롯한 민관 협력형 투자제도가 확대됐고 액셀러레이터와 벤처캐피털도 크게 늘었다. 이제 한국에서 창업은 더 이상 특별한 선택이 아니다. 그러나 생태계 성숙도를 단순히 창업기업 수나 벤처투자 금액만으로 평가해서는 안 된다. 중요한 것은 투자된 자본이 얼마나 효과적으로 회수되고 다시 새로운 창업기업으로 돌아가는가다. 스타트업 생태계의 자본순환 구조는...]]></description>
+		</item>
+		<item>
+			<title>글로벌 보안 M&amp;A 449건 &apos;역대 최다&apos;…협력 뒤처진 韓, 통합플랫폼 강화 서둘러야</title>
+			<link>https://www.etnews.com/20261106000280</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000280</guid>
 			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[세계 각국에서 냉동설비 해킹으로 식품 폐기 피해가 연이어 발생하는 가운데 국내에서도 정부가 피해 예방에 나섰다. 6일 업계에 따르면 과학기술정보통신부는 관계부처를 통해 민간 사업자와 관련 협·단체 등에 해외 냉장·냉동설비 해킹 사례를 전파하고 보안 점검을 권고했다. 이는 매장이나 저온창고 밖에서 설비 온도와 가동 시간을 바꿀 수 있는 원격제어장치를 노린 공격에 대응하기 위한 조치다. 사고 예방을 위해서는 제조사가 설정한 초기 비밀번호를 변경하고...]]></description>
+			<pubDate>Sun, 08 Nov 2026 16:30:00 +0900</pubDate>
+			<description><![CDATA[국내외에서 해킹 위협이 높아지는 가운데 글로벌 사이버보안 기업 인수합병(M&A) 거래 건수가 올해 역대 최대 규모를 기록할 전망이다. 주요 기업이 통합 플랫폼 경쟁력을 강화하기 위해 공격적인 인수에 나선 결과다. 상대적으로 M&A 움직임이 적은 국내 보안업계도 기업 간 협력 등을 통해 경쟁력을 강화해야 한다는 목소리가 높아진다. 8일 미국 사이버보안 전문 투자은행 모멘텀 사이버가 발간한 '2026년 3분기 사이버보안 시장 보고서'에 따르면 올해...]]></description>
 		</item>
 		<item>
-			<title>[ET시선] 가상자산 과세 유예, 이번에는 달라야 한다</title>
-			<link>https://www.etnews.com/20261106000193</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000193</guid>
-			<author>송혜영</author>
-			<category>오피니언</category>
-			<pubDate>Sat, 07 Nov 2026 15:00:00 +0900</pubDate>
-			<description><![CDATA[가상자산 과세가 또다시 미뤄졌다. 2020년 과세 도입을 결정한 이후 네 번째 유예다. 당초 2022년 시행하려던 과세는 2029년으로 늦춰질 전망이다. 유예 결정이 반복되지만 정부는 여전히 무엇을 어떻게 과세할 것인지 명확한 답을 내놓지 못하고 있다. 재정경제부가 지난 5일 발표한 과세 유예 방침에는 불가피한 측면이 있다. 국내 거래소와 달리 해외 거래소나 개인 지갑에서 발생한 거래는 과세자료 확보가 쉽지 않다. 준비가 부족한 상태에서 과세를...]]></description>
-		</item>
-		<item>
-			<title>라이너, 글쓰기 AI &apos;취업 준비&apos; 기능 강화…“이용자 53%가 청년층”</title>
-			<link>https://www.etnews.com/20261107000017</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261107000017</guid>
-			<author>조벼리</author>
+			<title>니어네트웍스, AI·블록체인 융합 &apos;예방형 디지털 돌봄 플랫폼&apos; 실증</title>
+			<link>https://www.etnews.com/20261105000442</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000442</guid>
+			<author>정재훈</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Sat, 07 Nov 2026 11:28:13 +0900</pubDate>
-			<description><![CDATA[라이너가 인공지능(AI) 글쓰기 서비스의 취업 준비 기능을 강화했다. 기존 자기소개서 초안 작성에서 강점·약점 분석과 직무별 면접 연습까지 지원 범위를 확대했다. 7일 업계에 따르면 라이너는 AI 글쓰기 서비스 '라이너 라이트'에 자기소개서 분석과 면접 준비 기능을 추가했다. AI가 채용 공고를 분석해 자기소개서·이력서의 강점과 개선점을 분석하고 지원 직무별 예상 면접 질문과 답변 전략을 제시한다. 이번 기능 확대는 청년층의 취업 준비 수요를...]]></description>
+			<pubDate>Sun, 08 Nov 2026 16:21:00 +0900</pubDate>
+			<description><![CDATA[니어네트웍스(대표 이복동)는 인공지능(AI)과 블록체인 기술을 융합해 고령자 건강 상태를 분석하고 이상징후를 조기에 탐지하는 '예방형 디지털 돌봄 플랫폼'을 개발, 경기도 남양주시 소재 경로당을 중심으로 현장 실증을 진행하고 있다고 8일 밝혔다. 이번 프로젝트는 과학기술정보통신부와 대구시, 한국인터넷진흥원(KISA), 대구디지털혁신진흥원(DIP) 지원으로 추진하는 '2026년 블록체인 융복합타운 조성사업 맞춤형 사업화 지원 과제'다. 기존 사후...]]></description>
 		</item>
 		<item>
-			<title>[ET톡] 게임이 악성코드 통로가 된다면</title>
-			<link>https://www.etnews.com/20261106000279</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000279</guid>
-			<author>박정은</author>
+			<title>KT, 국방 AI 플랫폼 구축…박윤영 대표 체제 AX 성과</title>
+			<link>https://www.etnews.com/20261106000286</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000286</guid>
+			<author>남궁경</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Sat, 07 Nov 2026 07:00:00 +0900</pubDate>
-			<description><![CDATA[최근 시프트업의 인기게임 '승리의 여신: 니케'에서 발생한 보안 사고는 글로벌 게임산업이 직면한 새로운 위험을 드러냈다. 게임서비스에 사용되는 콘텐츠전송네트워크(CDN)의 자바스크립트 파일이 제3자에 의해 변조되면서 공식 PC 런처를 통해 악성 프로그램이 유포됐다. 이용자가 믿고 실행한 게임이 PC 보안을 위협하는 통로가 됐다. 사고는 게임을 직접 공격하는 대신 연결된 외부 시스템의 취약점을 파고든 '공급망 공격'이라는 점에서 주목된다. 지난...]]></description>
+			<pubDate>Sun, 08 Nov 2026 16:20:31 +0900</pubDate>
+			<description><![CDATA[KT가 214억원 규모 '국방 인공지능(AI) 플랫폼 고도화' 사업을 수주했다. 군사 데이터 등을 AI 개발·학습에 활용할 수 있는 국방 AI 인프라 구축을 전담한다. KT가 국방 AI전환(AX) 분야에서 중요한 레퍼런스를 확보하면서 공공·기업사업 확장에 더욱 속도를 낼 것으로 전망된다. 8일 통신업계에 따르면 KT는 지난달 국방부와 한국지능정보사회진흥원(NIA)이 추진하는 '국방 지능형 플랫폼 고도화 구축' 사업자로 선정됐다. 총 사업금액은...]]></description>
+		</item>
+		<item>
+			<title>농협생명, AX 기반 보험설계 특허등록 완료…맞춤형 상품·특약 추천</title>
+			<link>https://www.etnews.com/20261106000211</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000211</guid>
+			<author>박진혁</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[NH농협생명이 고객 기존 보험가입 내역과 희망 보험료를 반영해 상품과 특약을 추천하는 시스템에 대해 특허를 확보했다. 소비자는 예산에 맞는 설계안을 신속하게 받아보고, 설계사는 복잡한 특약 조합을 구성·검증하는 부담을 줄일 수 있게 됐다. 6일 지식재산처에 따르면 농협생명은 지난달 28일 'AX(AI Experience) 기반 보험설계 지원 방법, 장치 및 기록매체' 특허등록을 완료했다. 지난 4월 출원한 기술로, 등록공고는 이달 2일 이뤄졌다...]]></description>
+		</item>
+		<item>
+			<title>[보안긴급진단]〈4·끝〉공공, 인력 확충 넘어 전문성·상시 대응체계 확보 과제</title>
+			<link>https://www.etnews.com/20261106000205</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000205</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[〈편집자주〉 사이버 침해사고가 산업 전반으로 확산하면서 기존 보안체계의 한계가 드러나고 있다. 인공지능(AI)이 해킹에 활용되면서 산업별 보안 체계 강화가 시급해졌다. 전자신문은 '보안긴급진단' 기획 시리즈를 통해 금융·산업·정보기술(IT)·공공 등 4개 분야의 보안 실태와 구조적 취약점을 살펴보고 개선 과제를 짚어본다. 민간뿐 아니라 공공부문에서도 해킹과 개인정보 유출 사고가 잇따르고 있다. 공공은 국민의 민감정보와 국가 주요 정보를 보유하고...]]></description>
+		</item>
+		<item>
+			<title>[ET시론] 사이버회복력을 고려한 AIDC 보안 내재화 설계</title>
+			<link>https://www.etnews.com/20261106000059</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261106000059</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 08 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[공공 서비스와 기업의 업무가 디지털 시스템에 의존할수록 사이버 공격의 피해는 정보 유출을 넘어 업무 중단과 잘못된 의사결정으로 이어질 수 있다. 공격을 막기 위한 노력과 함께 일부 시스템이 침해된 상황에서도 필요한 업무를 유지하고 신뢰할 수 있는 상태로 회복하는 능력을 갖춰야 한다. 사이버회복력이 필요한 이유다. 미국 국립표준기술연구소(NIST)는 사이버회복력의 목표를 예상, 견딤, 회복, 적응으로 제시한다. 위협을 예상해 준비하고, 사고의 영...]]></description>
 		</item>
 	</channel>
 </rss>
