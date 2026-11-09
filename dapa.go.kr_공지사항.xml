@@ -4,7 +4,7 @@
 		<title>방위사업청 공지사항</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&amp;bbsSeq=443</link>
 		<description>방위사업청 공지사항</description>
-		<lastBuildDate>Mon, 09 Nov 2026 11:30:23 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 13:42:19 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>27-1차 방산수출 지원사업 통합설명회 안내</title>
@@ -13,7 +13,13 @@
 			<author>관리자</author>
 			<category>일반공지</category>
 			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=21YDwyx92F7kmb0d95Nd"/><br/></div><div>※ 자세한 사항은 첨부문서를 참고하시기 바랍니다.</div>]]></description>
+			<description><![CDATA[<div><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=21YDwyx92F7kmb0d95Nd"/><br/></div><div>※ 자세한 사항은 첨부문서를 참고하시기 바랍니다.</div>
+<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul><li><a href="/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59439&amp;fileNum=1">
+					붙임 1. 27-1차 방산수출 지원사업 통합설명회 안내문.pdf
+					</a></li><li><a href="/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59439&amp;fileNum=2">
+					붙임 2. 27-1차 방산수출 지원사업 통합설명회 홍보 배너.jpg
+					</a></li></ul></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI 분야 선도연구기관 지정 결과</title>
