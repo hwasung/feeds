@@ -4,13 +4,15 @@
 		<title>한화저널</title>
 		<link>https://www.hanwha.co.kr/newsroom/discover/list.do</link>
 		<description>한화저널</description>
-		<lastBuildDate>Tue, 03 Nov 2026 18:33:48 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 17:20:56 +0900</lastBuildDate>
+		<ttl>1440</ttl>
 		<item>
 			<title>다목적 무인차량부터 국방AI까지, 한화가 함께 하는 미래 국방</title>
 			<link>https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16390</link>
 			<guid isPermaLink="true">https://www.hanwha.co.kr/newsroom/discover/view.do?seq=16390</guid>
 			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src=/upload/news/journalContent/2026/11/03/1793669031088_32.png/>]]></description>
+			<description><![CDATA[[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>뉴스페이스 시대를 여는 우주 인프라</title>
