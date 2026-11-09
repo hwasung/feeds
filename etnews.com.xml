@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 09 Nov 2026 20:30:29 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 21:30:26 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>과천시, 정부과천청사에 법무부 존치·서울대 AI 연구시설 유치 건의</title>
+			<link>https://www.etnews.com/20261109000432</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000432</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 20:55:04 +0900</pubDate>
+			<description><![CDATA[경기 과천시가 법무부를 정부과천청사에 남겨 달라고 정부에 요청했다. 과천시는 서울대 인공지능(AI) 연구시설 유치 등 청사와 주변 부지 활용에 관한 건의 4건을 지난 6일 행정안전부에 제출했다고 9일 밝혔다. 정부가 법무부를 세종으로 옮기는 방안을 추진하자 과천시는 40여 년간 지역과 함께해 온 청사의 행정 기능을 유지해야 한다는 입장을 냈다. 행안부는 지난 3일 공청회에서 현행 법령으로 옮길 수 있는 31개 기관의 이전계획 변경안을 공개했다....]]></description>
+		</item>
+		<item>
+			<title>관리 공백에 업무 충돌까지…보안 실무는 &apos;실행이 난제&apos;</title>
+			<link>https://www.etnews.com/20261109000431</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000431</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 20:31:42 +0900</pubDate>
+			<description><![CDATA[관리 책임이 불분명한 정보기술(IT) 자산과 경영진 설득 부담, 업무 차질이 기업의 기본적인 보안 조치를 어렵게 한다는 진단이 나왔다. 지란지교소프트는 지난달 29일 서울 강남 앙트레빌에서 실무 보안담당자 커뮤니티 '보안잇' 21회를 열고 보안 운영 사례를 공유했다고 9일 밝혔다. 최근 금융권 침해사고를 계기로 '현장에서 보안 운영은 왜 어려울까'를 주제로 실무자 세 명이 직접 겪은 점검과 보안정책 도입 경험을 소개했다. 외부 노출 자산을 점검...]]></description>
+		</item>
+		<item>
+			<title>업스테이지, 아마존·AMD 이어 엔비디아 투자받는다</title>
+			<link>https://www.etnews.com/20261109000430</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000430</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 20:31:09 +0900</pubDate>
+			<description><![CDATA[업스테이지는 시리즈C 2차 투자 라운드에서 엔비디아로부터 투자를 유치할 예정이라고 9일 밝혔다. 투자가 완료되면 아마존·AMD에 이어 엔비디아를 투자자로 확보하게 된다. 시리즈C 라운드에서 확보한 자금은 자체 AI 모델 고도화와 국내외 핵심 인재 영입, 미국·일본 등 해외 시장 공략에 투입할 계획이다. 앞서 업스테이지는 지난 4월 마무리한 1800억원 규모 시리즈C 1차 투자 라운드에서 기업가치 1조원 이상을 인정받았다. 업스테이지는 높은 성능...]]></description>
+		</item>
+		<item>
+			<title>모티프, 엔비디아 투자 유치…내년 1분기 &apos;모티프 4&apos; 공개</title>
+			<link>https://www.etnews.com/20261109000429</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000429</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 20:30:10 +0900</pubDate>
+			<description><![CDATA[모티프테크놀로지스는 차세대 거대언어모델(LLM) '모티프 4' 개발을 위한 투자 유치를 마무리하고 모델 개발에 착수했다고 9일 밝혔다. 이번 브릿지 투자 라운드에는 엔비디아의 투자가 예정돼 있다. 모티프 4는 지난 8월 공개한 오픈웨이트 모델 '모티프 3'의 후속 모델로 내년 1분기 공개할 계획이다. 글로벌 AI 모델 평가 상위 5위권 진입을 목표로 기술 경쟁력과 상업성을 강화할 방침이다. 과학기술정보통신부 '독자 AI 파운데이션 모델' 사업을...]]></description>
+		</item>
 		<item>
 			<title>앤트로픽, 韓 기업용 계정 100여개 개인정보 유출 신고</title>
 			<link>https://www.etnews.com/20261109000428</link>
@@ -59,42 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 09 Nov 2026 16:57:15 +0900</pubDate>
 			<description><![CDATA[비즈니스 정보기술(IT) 솔루션 전문기업 비젠트로(대표 김홍근)는 문화체육관광부와 지역문화진흥원이 주관하는 '2026 여가친화인증' 기업으로 최종 선정돼 인증서를 받았고 9일 밝혔다. '여가친화인증'은 국민여가활성화기본법에 따라 근로자가 일과 삶의 조화를 이룰 수 있도록 자유롭게 휴식과 취미·여가 활동을 누릴 수 있는 유연한 근로 환경을 조성하고, 여가친화경영을 모범적으로 실천하는 기업 및 기관을 정부가 엄격히 심사해 공인하는 제도다. 비젠트로...]]></description>
-		</item>
-		<item>
-			<title>인텔리빅스, &apos;스마트시티 엑스포&apos; 참가…안전 AI 솔루션 전시</title>
-			<link>https://www.etnews.com/20261109000388</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000388</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 16:34:08 +0900</pubDate>
-			<description><![CDATA[인텔리빅스는 최근 스페인 바르셀로나에서 열린 '스마트시티 엑스포 월드 콩그레스 2026(SCEWC 2026)'에 참가해 안전 인공지능(AI) 솔루션을 전시했다고 9일 밝혔다. 인텔리빅스는 성남시가 운영한 성남관에서 △통합관제 플랫폼 'Gen AMS' △엣지형 영상분석 장치 '빅스원(VIXone)' △전천후 AI 비전 센서 '빅스올캠(VIXallcam)'을 선보였다. 실시간 위험 감지부터 상황 분석, 관제 업무 자동화까지 통합 안전관리 기술을 시...]]></description>
-		</item>
-		<item>
-			<title>[단독] AI 시대 교육 &apos;백년지대계&apos; 연구 예산 전액 삭감</title>
-			<link>https://www.etnews.com/20261109000334</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000334</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 시대 '교육 백년지대계'를 준비할 내년도 연구 예산이 전액 삭감된 것으로 나타났다. 관련 업계·학계는 원상복구를 주문하고 나섰다. 9일 국회·업계 등에 따르면 정부 2027년도 예산안이 교육부 '국가AI교육연구센터' 설립·운용 예산 30억원이 제외된 채 국회에 제출된 것으로 확인됐다. 해당 예산은 한국교육학술정보원(KERIS) 등 교육부 산하기관에서 주로 진행하는 1·3년 단위 연구가 아닌 AI가 교육에 미칠 영향 등을 분석하는...]]></description>
-		</item>
-		<item>
-			<title>플리토, 대한출판문화협회와 AI 저작물 데이터 공급 협력</title>
-			<link>https://www.etnews.com/20261109000384</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000384</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 16:26:47 +0900</pubDate>
-			<description><![CDATA[플리토가 대한출판문화협회와 국가 인공지능(AI) 활용 저작물 고품질 출판지식 데이터 공급과 시장 구축을 위한 기술협력 업무협약(MOU)을 체결했다고 9일 밝혔다. 협약은 출협이 보유한 출판데이터 공급 역량과 플리토의 데이터 정제·가공 기술력을 결합해 출판 산업과 국가 AI 산업의 상생 발전을 도모하고자 추진됐다. 양측은 AI 모델 고도화에 필요한 양질의 지식 데이터 수요 증가를 고려, 출판 저작물 가치를 보존하고 안정적으로 AI 학습용 데이터를...]]></description>
-		</item>
-		<item>
-			<title>SPID, 美 파이나이트스테이트와 보안 협력…CRA 대응 강화</title>
-			<link>https://www.etnews.com/20261109000382</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000382</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 16:24:35 +0900</pubDate>
-			<description><![CDATA[에스피아이디(SPID)는 미국 제품 보안 전문기업 파이나이트스테이트와 손잡고 국내 제조기업의 유럽연합(EU) 사이버복원력법(CRA) 대응 지원을 확대한다고 9일 밝혔다. 양사는 유럽에 디지털 제품을 수출하거나 진출을 준비하는 로봇·산업용 장비·스마트 가전 제조기업 등을 지원한다. CRA는 EU 시장에 공급하는 디지털 제품에 보안 설계와 취약점 관리 등을 요구하는 법이다. 올해 9월 11일부터 실제 악용되는 취약점과 중대한 보안사고 보고 의무가...]]></description>
 		</item>
 	</channel>
 </rss>
