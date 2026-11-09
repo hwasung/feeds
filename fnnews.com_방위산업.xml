@@ -4,8 +4,21 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Mon, 09 Nov 2026 11:30:52 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 16:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>한화에어로, 軍정비센터 짓고 수출무기 MRO 나선다</title>
+			<link>https://www.fnnews.com/news/202611091532250880</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202611091532250880</guid>
+			<author>김윤호</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Mon, 09 Nov 2026 15:36:23 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]한화에어로스페이스가 우리 육군의 동부지역 야전정비지원센터를 짓는다. 이곳을 거점 삼아 K9 자주포를 비롯한 수출 무기체계 해외 MRO(유지∙보수∙정비) 사업에 나선다는 구상이다.
+이는 9일 육군본부 주도로 열린 K방산 활성화와 민·군 협력 MRO 발전을 위한 후반기 방산 업체 소통간담회에서 논의됐다. 한화에어로스페이스는 이 자리에서 육군, 방산업계와 함께 동부 센터를 건립하고 민군 협력 해외 MRO 거점으로 삼겠다고 밝혔다. 
+수출 무기체계 중 해외 MRO 수요가 높은 국가는 폴란드가 대표적이다. 폴란드는 K9 자주포와 K2 전차, 다연장로켓 천무 등을 대거 도입했고, 현지 생산도 추진 중이다. 
+육군은 9월 폴란드에서 MRO 세미나를 진행했고, 이달에는 운용 능력을 높이기 위한 순회교육에 나선다. 양군의 군수협력 협의체도 정례...]]></description>
+		</item>
 		<item>
 			<title>한화에어로, 미국서 &apos;해상 천무&apos; 사격시험…운용범위 확장 추진</title>
 			<link>https://www.fnnews.com/news/202611091015022846</link>
@@ -116,16 +129,6 @@ RAM-C는 무기체계의 신뢰도(Reliability), 가용도(Availability), 정비
 			<description><![CDATA[[파이낸셜뉴스]한화에어로스페이스가 전남 순천에 국내 최대 규모의 민간 우주발사체 생산거점을 구축했다. 누리호를 비롯한 국가 우주발사체부터 자체 개발 발사체까지 생산하는 통합 제조시설을 확보하면서 글로벌 우주수송 시장 진출에 속도를 낼 전망이다.
 한화에어로스페이스는 4일 전남광주 순천시 율촌산업단지에서 우주발사체 제조센터인 '순천사업장' 준공식을 개최했다고 밝혔다. 이날 행사에는 민형배 전남광주통합특별시장, 김문수·황정아 더불어민주당 의원, 권현준 우주항공청 차장, 손훈모 순천시장 등 관계자 300여명이 참석했다.
 약 1만8000평 규모로 조성된 순천사업장은 우주발사체 주요 구성품의 통합·조립과 성능 검증을 담당한다. 오는 2027년 발사 예정인 누리호 6호기에 사용되는 75t급 엔진을 비롯해 발사체 1·2&midd...]]></description>
-		</item>
-		<item>
-			<title>SNT다이내믹스, 국내 첫 美 &apos;CMMC 레벨 2&apos; 획득</title>
-			<link>https://www.fnnews.com/news/202611031833459840</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202611031833459840</guid>
-			<author>권병석</author>
-			<category>산업|산업일반</category>
-			<category>산업</category>
-			<pubDate>Tue, 03 Nov 2026 18:33:51 +0900</pubDate>
-			<description><![CDATA[SNT다이내믹스가 국내 방산기업 최초로 미국 정부의 'CMMC 레벨 2' 인증을 최종 획득했다. 미국 방산 공급망 진입을 위한 핵심 보안 기준을 통과하면서 미군 유지·보수·정비(MRO) 및 양산시장 진출에 속도를 낼 전망이다. 3일 SNT다이내믹스에 따르면 사이버보안 성숙도 모델 인증(CMMC)은 미국 정부가 글로벌 방산 공급망 전반의 모든 기술정보를 보호하고 사이버 위협을 통제하기 위해 도입한 강력한 사이버보안 인증 제도다. SNT다이내믹스는 CMMC 인증 획득을 위해 핵심기술 보호 및 접근통제, 실시간 사이버 위협 대응체계 등 본사 및 기술연구소, 생산시설 등 모든 영역의 사이버보안 거버넌스를 글로벌 수준으로 고도화했다. 이를 토대로 미 정부의 110여개 보안 통제 항목과 320여개 세부 평가 목표 등에 대한 엄격한 현장 실사와 기술 검증을 ...]]></description>
 		</item>
 	</channel>
 </rss>
