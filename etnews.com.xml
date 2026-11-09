@@ -4,8 +4,80 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 09 Nov 2026 09:30:40 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 10:30:44 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>세이프티랩, 한국철도학회에 AI 생체체크 키오스크 시연</title>
+			<link>https://www.etnews.com/20261109000103</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000103</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:59:42 +0900</pubDate>
+			<description><![CDATA[세이프티랩이 한국철도학회 대상 비접촉식 인공지능(AI) 생체체크 키오스크를 시연했다. 철도종사자의 근무 전 위험징후를 확인하기 위한 기술 고도화 방향과 현장 적용방안도 공유했다. 이철우 세이프티랩 대표는 지난달 29~31일 제주 휘닉스아일랜드에서 열린 한국철도학회 '2026 정기총회 및 추계학술대회'에서 학회 회원과 철도·교통 관련 기관 등을 대상으로 키오스크를 직접 소개했다. 세이프티랩이 선보인 키오스크는 별도의 웨어러블 센서 없이 카메라 기...]]></description>
+		</item>
+		<item>
+			<title>디노티시아, LLM 학습·평가 도구 개발 첫 오픈소스 해커톤 개최</title>
+			<link>https://www.etnews.com/20261109000101</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000101</guid>
+			<author>권동준</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:57:06 +0900</pubDate>
+			<description><![CDATA[디노티시아가 11월 14일과 21일 두 차례에 걸쳐 모두의연구소 강남에서 자체 개발해 공개한 거대언어모델(LLM) 학습·평가 도구를 참가자들이 직접 개선하는 첫 오픈소스 해커톤을 개최한다. 참가자들은 디노티시아가 모델 개발에 사용해 온 도구를 직접 실행하고 코드를 수정한 뒤, 해당 오픈소스 프로젝트에 코드 변경 사항을 제안하는 풀 리퀘스트(PR) 제출을 목표로 실습한다. 이번 행사는 사내에서 축적한 LLM 개발 경험을 공유하고, 공개한 도구의...]]></description>
+		</item>
+		<item>
+			<title>SGA솔루션즈-일루미오, 금융권 침해 확산 방어 전략 제시</title>
+			<link>https://www.etnews.com/20261109000091</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000091</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:45:36 +0900</pubDate>
+			<description><![CDATA[SGA솔루션즈는 금융정보보호 콘퍼런스(FISCON 2026)에서 금융회사 내부에 침투한 공격자가 다른 시스템으로 이동하는 경로를 차단하는 '풀스택 마이크로 세그멘테이션' 전략을 소개한다고 9일 밝혔다. 마이크로 세그멘테이션은 서버와 애플리케이션 간 통신을 세분화해 업무에 필요한 연결만 허용하는 보안 기법이다. 공격자가 서버 한 대를 장악하더라도 내부 연결을 타고 핵심 시스템까지 접근하기 어렵게 해 피해 확산을 막는 데 목적이 있다. SGA솔루션...]]></description>
+		</item>
+		<item>
+			<title>이스트시큐리티, AI 보안 연합 &apos;프로젝트 캐노피&apos; 합류</title>
+			<link>https://www.etnews.com/20261109000073</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000073</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:31:51 +0900</pubDate>
+			<description><![CDATA[이스트시큐리티는 공익 인공지능(AI) 보안 연합 '프로젝트 캐노피'에 디펜딩 파트너로 합류했다고 9일 밝혔다. 캐노피가 검증한 취약점의 악용 가능성과 위험도를 분석해 자사 보안 제품의 탐지 정책과 대응 기술에 반영할 계획이다. 디펜딩 파트너는 캐노피로부터 취약점과 보안 패치 정보를 받아 자사 시스템이 영향을 받는지 점검한다. 보안 점검이 필요한 오픈소스나 소프트웨어를 분석 대상으로 제안할 수도 있다. 이스트시큐리티는 시큐리티대응센터(ESRC)가...]]></description>
+		</item>
+		<item>
+			<title>안랩·안랩클라우드메이트, 하반기 공채…29일까지 접수</title>
+			<link>https://www.etnews.com/20261109000062</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000062</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:23:47 +0900</pubDate>
+			<description><![CDATA[안랩과 자회사 안랩클라우드메이트는 각각 두 자릿수 규모로 하반기 공개채용을 진행한다고 9일 밝혔다. 안랩은 14개 직무에서 신입·경력 사원을, 안랩클라우드메이트는 10개 직무에서 경력 사원을 모집한다. 양사는 인공지능(AI) 기반 보안 위협과 기업의 AI 전환 수요에 대응하기 위해 채용 규모를 확대했다. 안랩은 소프트웨어·웹 개발, AI·머신러닝 개발, 보안위협 분석 등 연구개발(R&D) 분야와 국내영업, 보안 컨설팅, 제품·서비스 기획, 인사...]]></description>
+		</item>
+		<item>
+			<title>글로브포인트, 남한산성 역사 체험하는 실감형 인터랙티브 콘텐츠 개발</title>
+			<link>https://www.etnews.com/20261109000054</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000054</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:19:52 +0900</pubDate>
+			<description><![CDATA[에듀테크 및 실감형 콘텐츠 전문기업 글로브포인트(대표 조상용)가 남한산성의 역사와 조선시대 군사조직 수어청의 역할을 체험할 수 있는 실감형 인터랙티브 콘텐츠 '수어청 작전본부'를 개발했다. 이번 콘텐츠는 경기콘텐츠진흥원의 '2026년 경기 지역특화 콘텐츠 개발 지원' 사업을 통해 제작됐으며, 경기도 광주시에 위치한 남한산성역사문화관의 전시 및 교육 프로그램에 활용할 수 있도록 기획됐다. 수어청 작전본부는 유네스코 세계유산인 남한산성의 역사문화자...]]></description>
+		</item>
+		<item>
+			<title>경기창조경제혁신센터, 로보월드서 경기도 창업기업 미국 투자사에 연결</title>
+			<link>https://www.etnews.com/20261109000049</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000049</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:15:12 +0900</pubDate>
+			<description><![CDATA[경기창조경제혁신센터가 지역 창업기업 2곳을 미국 투자사와 연결했다. 센터는 지난 6일 고양시 킨텍스에서 열린 '2026 인공지능(AI)·로봇 분야 글로벌 스케일업 데이'에서 모빌리티원과 에이아이바가 미국 투자사를 대상으로 사업을 소개했다고 9일 밝혔다. 이 행사는 국내 AI·로봇 기업의 해외 투자 유치와 사업 협력을 돕기 위해 '2026 로보월드'와 연계해 열렸다. 한국AI·로봇산업협회가 주최하고 경기창조경제혁신센터와 고양산업진흥원이 공동 주관...]]></description>
+		</item>
+		<item>
+			<title>플래티어, 하이트진로음료 자사몰 GEO 운영 사례 공개…상품정보 정비부터 변경 대응까지</title>
+			<link>https://www.etnews.com/20261109000038</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000038</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 09:06:28 +0900</pubDate>
+			<description><![CDATA[에이전틱 커머스 기업 플래티어(대표 이상훈)는 하이트진로음료 공식 온라인몰 '진로토닉몰'에 생성형 검색 최적화(GEO) 서비스 '젠서 GEO(genser GEO)'를 성공적으로 적용해 운영한 성과를 9일 공개했다. 이번 협업은 ChatGPT 등 생성형 AI를 활용한 상품 탐색이 급증하는 환경에서 소비자가 “토닉워터 추천해 줘” “무알콜 맥주 어떤 게 있어?” 등 질문을 던질 때 제조사 공식몰의 정확한 상품 정보가 AI 답변의 핵심 출처로 인용되...]]></description>
+		</item>
 		<item>
 			<title>청년부터 중장년까지 &apos;취업 연결&apos;…경기도, 일자리 정책 또 수상</title>
 			<link>https://www.etnews.com/20261109000035</link>
@@ -23,77 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 09 Nov 2026 08:58:58 +0900</pubDate>
 			<description><![CDATA[위즈코어(대표 박승훈)가 도면 편집과 출력 기능을 개선하고 설계 응용프로그램 호환성을 강화한 국산 컴퓨터지원설계(CAD) 소프트웨어 '캐디안 2027(CADian 2027)'을 오는 16일 출시한다. 이번 신제품은 기존 설계 도면과 자동화 도구의 활용성을 유지하면서 반복 작업을 줄이고 설계 업무의 생산성을 높이는 데 초점을 맞췄다. 도면 편집에서는 작업 결과를 미리 확인할 수 있는 기능을 강화했다. 모깎기와 모따기 기능을 실행하기 전에 결과를...]]></description>
-		</item>
-		<item>
-			<title>엑스퍼트아이엔씨, 세종문화회관 백스테이지 투어에 AI 자막 안경 도입</title>
-			<link>https://www.etnews.com/20261109000027</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000027</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 08:49:12 +0900</pubDate>
-			<description><![CDATA[스마트 글래스 기반 실시간 자막 솔루션 전문기업 엑스퍼트아이엔씨(XPERTINC)가 세종문화회관의 공연장 체험 프로그램에 인공지능(AI) 자막 안경 서비스를 도입해 청각장애인과 외국인 관람객의 문화 접근성 확대에 나섰다. 엑스퍼트아이엔씨는 지난 9월 10일부터 세종문화회관이 운영하는 '세종 백스테이지 투어'에 실시간 자막·번역 서비스 '씨비즈(C-BIZ)'를 적용했으며 현재까지 총 5회에 걸쳐 운영했다고 밝혔다. 세종 백스테이지 투어는 전문 해...]]></description>
-		</item>
-		<item>
-			<title>“AI 에이전트, 토큰 소비의 주역”…美 기업 AI 지출 1년 새 5.4배</title>
-			<link>https://www.etnews.com/20261109000021</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000021</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 08:40:01 +0900</pubDate>
-			<description><![CDATA[기업 인공지능(AI) 활용이 생성형 AI 챗봇 중심에서 AI 에이전트가 직접 업무를 수행하는 방식으로 진화하면서 토큰 소비와 기업 지출이 급증했다는 분석이 나왔다. 9일 미국 실리콘밸리 벤처캐피털 멘로벤처스가 최근 발표한 '2026 기업 AI 현황' 보고서에 따르면 올해 9월 기준 기업 AI 활용 지출 규모는 연간 환산 1768억달러(약 237조6192억원)로 추산됐다. 지난해 330억달러(약 44조3520억원)보다 5.4배 증가한 규모다. 멘...]]></description>
-		</item>
-		<item>
-			<title>[드림시큐리티 AI 시대 필수보안]〈3·끝〉뚫려도 지킨다, 마지막 방어선 &apos;암호&apos;</title>
-			<link>https://www.etnews.com/20261106000235</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261106000235</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 08:30:00 +0900</pubDate>
-			<description><![CDATA[11월은 많은 기업과 기관이 내년 사업계획을 짜는 시기다. 보안 계획과 예산도 결정될 것이다. 지난해 국내 랜섬웨어 신고는 274건으로 전년보다 약 1.4배 늘었고, AI로 공격이 빨라지고 자동화되면서 방어는 더 어려워졌다. 그래서 주목받는 것이 침해를 전제한 방어다. 한국인터넷진흥원(KISA)은 사고에 대비해 네트워크와 분리된 백업을 강조한다. 따라서 예기치 못한 공격과 사고로 데이터가 유출돼도 내용을 읽을 수 없게 하는 암호화가 기초보안의...]]></description>
-		</item>
-		<item>
-			<title>뷰센스, 美 서부 뷰티 세일즈 파이프라인 구축</title>
-			<link>https://www.etnews.com/20261107000040</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261107000040</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 08:01:00 +0900</pubDate>
-			<description><![CDATA[뉴엔AI(대표 배성환)는 이 회사 북미 법인 '뷰센스(VUSSENS Inc.)'가 지난달 28일부터 30일까지 사흘간 미국 LA에서 개최된 '뷰티 산업 비즈니스 포럼' 참가를 성공적으로 마무리하고, 미국 서부 세일즈 파이프라인을 구축했다고 9일 밝혔다. 올해 10주년을 맞은 해당 포럼은 참가자 중 80%가 최고위 임원 및 VP급 의사결정권자로 구성된 북미 대표 뷰티 B2B 행사다. 뷰센스는 행사 기간 동안 신생 유망 브랜드를 아우르는 '넥스트...]]></description>
-		</item>
-		<item>
-			<title>젠슨 황, 中 스파이 연루 의혹 속 불륜 인정…엔비디아 이사회 조사 착수</title>
-			<link>https://www.etnews.com/20261109000007</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000007</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 07:01:10 +0900</pubDate>
-			<description><![CDATA[엔비디아 이사회가 젠슨 황 최고경영자(CEO)를 둘러싼 중국 정보기관 연루 의혹과 관련해 독립 조사에 착수했다. 황 CEO는 사내 이메일을 통해 불륜 사실을 인정하고 가족과 임직원에게 사과했다. 엔비디아 이사회는 8일(현지시간) 공식 성명을 내고 “창업자이자 CEO인 젠슨 황이 외국 정보기관의 표적이 됐다는 최근 보도와 관련해 독립 조사에 착수했다”고 발표했다. 조사는 외부 독립 변호사의 자문을 받는 독립 이사 위원회가 감독한다. 황 CEO도...]]></description>
-		</item>
-		<item>
-			<title>앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보</title>
-			<link>https://www.etnews.com/20261109000006</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000006</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 06:54:31 +0900</pubDate>
-			<description><![CDATA[앤트로픽이 인공지능(AI) 데이터센터의 안정적인 전력 확보를 위해 가스 발전설비를 직접 사들였다. 전력 공급업체에 의존하는 대신 발전설비를 선제적으로 확보해 전력 수급 불확실성을 줄이겠다는 전략이다. AI 데이터센터 확산으로 전력 수요가 급증하면서 AI 기업들이 전력 인프라를 직접 확보하는 움직임도 본격화하고 있다. 파이낸셜타임스(FT)는 8일(현지시간) 앤트로픽이 34억달러(약 4조6000억원)를 투자해 가스 발전설비를 확보했다고 보도했다....]]></description>
-		</item>
-		<item>
-			<title>[테크 차이나] 중국 콜드체인, 구매자가 재편하는 산지물류</title>
-			<link>https://www.etnews.com/20261027000316</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261027000316</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 09 Nov 2026 05:00:00 +0900</pubDate>
-			<description><![CDATA[냉장차로 도착한 과일도 매장에서 원하는 숙도와 크기를 맞추지 못하면 할인과 반품을 피하기 어렵다. 수확 뒤 열을 빼는 작업이 늦었거나 선별 중 눌린 흔적이 뒤늦게 손실로 나타날 수도 있다. 콜드체인이 보존하는 것은 중량에 더해 구매자가 받아들일 품질과 그 품질로 팔 수 있는 시간이다. 중국의 유통기업과 지역 조직은 냉장창고를 늘리는 정책과 맞물려 주문·선별·보관·출하를 묶는 거래를 만들고 있다. 품질을 지키는 데 든 돈이 판매대금으로 돌아와야...]]></description>
-		</item>
-		<item>
-			<title>박경희 티맥스티베로·소프트 총괄 대표 “전사 AX 속도...글로벌 시장 진출”</title>
-			<link>https://www.etnews.com/20261108000035</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261108000035</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 08 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[박경희 티맥스티베로·티맥스소프트 총괄 대표가 전사적 인공지능 전환(AX)을 양사 핵심 과제로 지목했다. 데이터베이스(DB)와 미들웨어 제품에 AI를 접목하는 것은 물론 소프트웨어 개발, 기술지원, 경영 관리 등 업무 전반에 AI 도입이 시급하다는 판단에서다. 제품 경쟁력과 조직 운영 체계를 함께 혁신해 글로벌 시장 진출의 발판을 마련한다는 구상이다. 박 대표는 8일 전자신문과의 인터뷰에서 “제품 하나하나에 AI를 접목해 AI 플랫폼으로 발전시키...]]></description>
 		</item>
 	</channel>
 </rss>
