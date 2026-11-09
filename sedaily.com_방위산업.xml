@@ -4,8 +4,16 @@
 		<title>서울경제</title>
 		<link>https://www.sedaily.com/</link>
 		<description>서울경제</description>
-		<lastBuildDate>Mon, 09 Nov 2026 18:34:07 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 07:03:09 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장</title>
+			<link>https://www.sedaily.com/article/20112039</link>
+			<guid isPermaLink="true">https://www.sedaily.com/article/20112039</guid>
+			<author>박효정</author>
+			<category>전체뉴스</category>
+			<pubDate>Tue, 10 Nov 2026 06:30:05 +0900</pubDate>
+		</item>
 		<item>
 			<title>자주포 이어 美 해군 차기 호위함 수주까지…韓·日·英·튀르키예 ‘4파전’[이현호의 방산!톡]</title>
 			<link>https://www.sedaily.com/article/20111605</link>
@@ -77,14 +85,6 @@
 			<author>송주희</author>
 			<category>전체뉴스</category>
 			<pubDate>Sun, 01 Nov 2026 18:15:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>李대통령, 튀르키예·동티모르 정상 연쇄 회담…원전·방산부터 아세안 외교까지</title>
-			<link>https://www.sedaily.com/article/20108815</link>
-			<guid isPermaLink="true">https://www.sedaily.com/article/20108815</guid>
-			<author>송종호</author>
-			<category>정치</category>
-			<pubDate>Sun, 01 Nov 2026 18:13:21 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
