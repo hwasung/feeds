@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 09 Nov 2026 11:30:46 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 13:30:40 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>서울시 공무원표 &apos;AI 행정혁신&apos; 눈길…투신자 구조부터 누수 탐지까지</title>
+			<link>https://www.etnews.com/20261109000221</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000221</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 13:01:23 +0900</pubDate>
+			<description><![CDATA[# 한강에서 누군가 투신하면 인공지능(AI)이 '풍덩' 소리를 감지한다. 사고 발생 정보가 119와 관제센터에 즉시 전달되고 대기 중이던 드론은 물에 빠진 사람을 찾아 구명튜브를 투하하고 서치라이트로 위치를 비추면 119 구조대가 투신자를 구조한다. # 16년간 성실하게 세금을 납부하던 C씨는 사고로 일을 할 수 없게 되면서 체납자가 됐다. 강남구는 빅데이터 기반 '체납이음' 시스템으로 C씨의 어려운 사정을 파악하고 실태조사에 나서 차량 압류...]]></description>
+		</item>
+		<item>
+			<title>아이엘, 유럽 AI·로봇 협의체 ADRA 정식 가입…피지컬 AI 사업 확대</title>
+			<link>https://www.etnews.com/20261109000216</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000216</guid>
+			<author>김명희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 12:40:08 +0900</pubDate>
+			<description><![CDATA[아이엘이 유럽 인공지능(AI)·데이터·로봇 협의체인 'ADRA(AI, Data and Robotics Association)'의 정식 회원사 승인을 받고 공식 홈페이지 회원사 명단에 등록됐다고 9일 밝혔다. 회사에 따르면 이는 국내 휴머노이드 및 피지컬 AI 기업 가운데 ADRA에 정식 가입한 첫 사례다. 아이엘은 이번 가입을 계기로 국내에서 확보한 피지컬 AI 기술과 산업 현장 데이터를 활용해 유럽 연구기관 및 기업과 협력을 확대하고 해외 사...]]></description>
+		</item>
+		<item>
+			<title>공공최대 시도새올 사업, SI·장비·상용SW 분리 발주…업계 의견 수렴 착수</title>
+			<link>https://www.etnews.com/20261109000117</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000117</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 12:00:00 +0900</pubDate>
+			<description><![CDATA[공공 최대 정보기술(IT) 사업인 차세대 지방행정공통시스템(시도새올) 구축사업이 시스템 통합(SI)·장비·상용 소프트웨어(SW) 등 3개 사업으로 나뉘어 발주된다. 업계 요구가 컸던 상용SW와 최근 가격이 급등한 장비를 각각 분리 발주하기로 했다. 행정안전부는 9일 시도새올 구축사업의 세부 발주 계획을 공개하고 업계 의견 수렴에 착수한다고 밝혔다. 지방행정공통시스템은 지역주민의 일상생활과 밀접한 민원·인허가 신청·증명서 발급 등을 처리하기 위해...]]></description>
+		</item>
+		<item>
+			<title>동일미래과학고, 입학설명회에 300여명 몰려 &apos;뜨거운 관심&apos;</title>
+			<link>https://www.etnews.com/20261109000184</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000184</guid>
+			<author>추경애</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 11:29:04 +0900</pubDate>
+			<description><![CDATA[동일미래과학고등학교(교장 김문수)가 최근 교내 다목적체육관에서 '학교 개방의 날'을 겸해 개최한 2027학년도 신입생 입학설명회에 광주·전남지역 중학생과 학부모, 중학교 진로진학 교사 등 300여명이 몰려 뜨거운 관심을 모았다. 이 학교는 내년부터 인공지능(AI) 활용 교육을 전과정에 접목한 AI반도체과, AI로보틱스과, AI모빌리티과, AI헬스케어과, AI융합콘텐츠과 5개 학과(9학급 162명) 체제로 운영될 예정이다. 5개 학과 학생은 모두...]]></description>
+		</item>
 		<item>
 			<title>수요 확대 中 휴머노이드, 유지보수 꼼꼼히 따져야</title>
 			<link>https://www.etnews.com/20261109000064</link>
@@ -59,42 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 09 Nov 2026 10:13:11 +0900</pubDate>
 			<description><![CDATA[CJ올리브네트웍스가 공공 콘텐츠 제작시설 고도화 사업 2건을 수주했다. 공공 K콘텐츠 제작 인프라의 인공지능 전환(AX) 전환을 지원하며 미디어테크 기업으로 자리매김한다는 복안이다. CJ올리브네트웍스는 한국콘텐츠진흥원의 대전 스튜디오큐브 버추얼 프로덕션(VP) 스튜디오 추가 구축 사업과 디지털 매직 스페이스(DMS) 방송제작센터 UHD 후반공정 제작시스템 고도화 사업을 수주했다고 9일 밝혔다. 두 사업은 2026년 12월에 완료될 예정이다. 두...]]></description>
-		</item>
-		<item>
-			<title>세이프티랩, 한국철도학회에 AI 생체체크 키오스크 시연</title>
-			<link>https://www.etnews.com/20261109000103</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000103</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 09:59:42 +0900</pubDate>
-			<description><![CDATA[세이프티랩이 한국철도학회 대상 비접촉식 인공지능(AI) 생체체크 키오스크를 시연했다. 철도종사자의 근무 전 위험징후를 확인하기 위한 기술 고도화 방향과 현장 적용방안도 공유했다. 이철우 세이프티랩 대표는 지난달 29~31일 제주 휘닉스아일랜드에서 열린 한국철도학회 '2026 정기총회 및 추계학술대회'에서 학회 회원과 철도·교통 관련 기관 등을 대상으로 키오스크를 직접 소개했다. 세이프티랩이 선보인 키오스크는 별도의 웨어러블 센서 없이 카메라 기...]]></description>
-		</item>
-		<item>
-			<title>디노티시아, LLM 학습·평가 도구 개발 첫 오픈소스 해커톤 개최</title>
-			<link>https://www.etnews.com/20261109000101</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000101</guid>
-			<author>권동준</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 09:57:06 +0900</pubDate>
-			<description><![CDATA[디노티시아가 11월 14일과 21일 두 차례에 걸쳐 모두의연구소 강남에서 자체 개발해 공개한 거대언어모델(LLM) 학습·평가 도구를 참가자들이 직접 개선하는 첫 오픈소스 해커톤을 개최한다. 참가자들은 디노티시아가 모델 개발에 사용해 온 도구를 직접 실행하고 코드를 수정한 뒤, 해당 오픈소스 프로젝트에 코드 변경 사항을 제안하는 풀 리퀘스트(PR) 제출을 목표로 실습한다. 이번 행사는 사내에서 축적한 LLM 개발 경험을 공유하고, 공개한 도구의...]]></description>
-		</item>
-		<item>
-			<title>SGA솔루션즈-일루미오, 금융권 침해 확산 방어 전략 제시</title>
-			<link>https://www.etnews.com/20261109000091</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000091</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 09:45:36 +0900</pubDate>
-			<description><![CDATA[SGA솔루션즈는 금융정보보호 콘퍼런스(FISCON 2026)에서 금융회사 내부에 침투한 공격자가 다른 시스템으로 이동하는 경로를 차단하는 '풀스택 마이크로 세그멘테이션' 전략을 소개한다고 9일 밝혔다. 마이크로 세그멘테이션은 서버와 애플리케이션 간 통신을 세분화해 업무에 필요한 연결만 허용하는 보안 기법이다. 공격자가 서버 한 대를 장악하더라도 내부 연결을 타고 핵심 시스템까지 접근하기 어렵게 해 피해 확산을 막는 데 목적이 있다. SGA솔루션...]]></description>
-		</item>
-		<item>
-			<title>이스트시큐리티, AI 보안 연합 &apos;프로젝트 캐노피&apos; 합류</title>
-			<link>https://www.etnews.com/20261109000073</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000073</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 09:31:51 +0900</pubDate>
-			<description><![CDATA[이스트시큐리티는 공익 인공지능(AI) 보안 연합 '프로젝트 캐노피'에 디펜딩 파트너로 합류했다고 9일 밝혔다. 캐노피가 검증한 취약점의 악용 가능성과 위험도를 분석해 자사 보안 제품의 탐지 정책과 대응 기술에 반영할 계획이다. 디펜딩 파트너는 캐노피로부터 취약점과 보안 패치 정보를 받아 자사 시스템이 영향을 받는지 점검한다. 보안 점검이 필요한 오픈소스나 소프트웨어를 분석 대상으로 제안할 수도 있다. 이스트시큐리티는 시큐리티대응센터(ESRC)가...]]></description>
 		</item>
 	</channel>
 </rss>
