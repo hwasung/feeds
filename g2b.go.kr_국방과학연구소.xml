@@ -4,8 +4,17 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Mon, 09 Nov 2026 18:31:49 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 08:31:15 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[사전규격][일반용역] MUDL 아키텍처‧프로토콜 기술 전문가 WG</title>
+			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00297386</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00297386</guid>
+			<author>국방과학연구소</author>
+			<category>사전규격</category>
+			<pubDate>Tue, 10 Nov 2026 08:04:11 +0900</pubDate>
+			<description><![CDATA[ • 참고번호: R26BD00297386<br/> • 공고/수요기관: 국방과학연구소]]></description>
+		</item>
 		<item>
 			<title>[등록공고][일반용역] 미래 전장 환경을 고려한 차기 한국군 지휘통제·통신 무기체계 정보유통능력 예측 및 분석 연구</title>
 			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01819034&amp;bidPbancOrd=000</link>
@@ -86,15 +95,6 @@
 			<category>입찰공고</category>
 			<pubDate>Fri, 06 Nov 2026 14:06:32 +0900</pubDate>
 			<description><![CDATA[ • 공고번호: R26BK01809453<br/> • 마감일시: 2026-11-12 10:00<br/> • 개찰일시: 2026-11-12 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
-		</item>
-		<item>
-			<title>[취소공고][일반용역] 고체로켓 추진기관용 제트베인 작동 하중 특성평가</title>
-			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807374&amp;bidPbancOrd=001</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01807374&amp;bidPbancOrd=001</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Fri, 06 Nov 2026 13:42:44 +0900</pubDate>
-			<description><![CDATA[ • 공고번호: R26BK01807374<br/> • 마감일시: 2026-11-24 10:00<br/> • 개찰일시: 2026-11-27 11:00<br/> • 공고/수요기관: 국방과학연구소]]></description>
 		</item>
 	</channel>
 </rss>
