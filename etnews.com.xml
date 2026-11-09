@@ -4,10 +4,19 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 10 Nov 2026 07:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 08:31:06 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>美 민주당 AI 규제 강화 전망에도 기업들 “AI 도입·투자 지속”</title>
+			<title>앤트로픽, 로봇 제어와 에이전트 강화한 AI &apos;페이블·미토스 5.2&apos; 공개</title>
+			<link>https://www.etnews.com/20261110000009</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000009</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 07:08:26 +0900</pubDate>
+			<description><![CDATA[앤트로픽이 기업공개(IPO)를 앞두고 차세대 인공지능(AI) 모델 '클로드 페이블 5.2'와 '클로드 미토스 5.2'를 공개했다. 소프트웨어(SW) 개발과 로봇 제어, AI 에이전트 협업 능력을 강화하고 안전성 검증 체계를 고도화해 AI 시장 주도권을 확보한다는 전략이다. 앤트로픽은 9일(현지시간) 페이블 5.2와 미토스 5.2 출시 사실을 공개하고 미토스 5.2는 사전 검증 프로그램에 참여하는 일부 기관에 제한적으로 제공한다고 밝혔다. 페이블...]]></description>
+		</item>
+		<item>
+			<title>美 민주당 규제 강화 전망에도 기업들 “AI 도입·투자 지속”</title>
 			<link>https://www.etnews.com/20261110000006</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261110000006</guid>
 			<author>박종진</author>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 09 Nov 2026 20:30:10 +0900</pubDate>
 			<description><![CDATA[모티프테크놀로지스는 차세대 거대언어모델(LLM) '모티프 4' 개발을 위한 투자 유치를 마무리하고 모델 개발에 착수했다고 9일 밝혔다. 이번 브릿지 투자 라운드에는 엔비디아의 투자가 예정돼 있다. 모티프 4는 지난 8월 공개한 오픈웨이트 모델 '모티프 3'의 후속 모델로 내년 1분기 공개할 계획이다. 글로벌 AI 모델 평가 상위 5위권 진입을 목표로 기술 경쟁력과 상업성을 강화할 방침이다. 과학기술정보통신부 '독자 AI 파운데이션 모델' 사업을...]]></description>
-		</item>
-		<item>
-			<title>앤트로픽, 韓 기업용 계정 100여개 개인정보 유출 신고</title>
-			<link>https://www.etnews.com/20261109000428</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000428</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 19:34:32 +0900</pubDate>
-			<description><![CDATA[미국 인공지능(AI) 기업 앤트로픽의 생성형 AI 서비스 '클로드'를 사용하는 국내 기업 계정 100여개에서 개인정보가 유출됐다. 9일 개인정보보호위원회에 따르면 앤트로픽은 지난달 31일 국내 기업용 계정 100여개의 개인정보 유출 사실을 신고했다. 개인정보위는 현재 신고 내용을 토대로 사전 검토를 진행하고 있다. 아직 정식 조사에는 착수하지 않은 상태다. 해외 기업을 대상으로 한 조사는 국내 기업과 달리 본격적인 조사에 앞서 자료 요청 등 절...]]></description>
 		</item>
 	</channel>
 </rss>
