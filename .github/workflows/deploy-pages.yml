@@ -1,0 +1,45 @@
+name: Deploy GitHub Pages
+
+on:
+  # 1. Tasker가 새 피드 XML을 푸시했을 때 즉시 배포
+  push:
+    branches: ["main"]
+
+  # 2. 배포 실패 상태 자동 복구를 위한 정기 재배포 (3시간마다 실행)
+  schedule:
+    - cron: '0 */3 * * *'
+
+  # 3. GitHub 웹 콘솔 또는 Tasker API 호출로 즉시 실행 지원
+  workflow_dispatch:
+
+# 동시 배포 충돌 방지 및 최신 실행 우선 설정
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# GitHub Pages 배포에 필요한 권한 부여
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 저장소 내 모든 정적 파일(XML, JSON 등)을 Pages 아티팩트로 압축
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      # GitHub Pages 배포 실행
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
