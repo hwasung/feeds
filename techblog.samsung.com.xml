@@ -1,6 +1,90 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
 	<channel>
-		<title>Untitled</title>
+		<title>삼성테크블로그</title>
+		<link>https://techblog.samsung.com/</link>
+		<description>삼성테크블로그</description>
+		<lastBuildDate>Mon, 09 Nov 2026 12:55:30 +0900</lastBuildDate>
+		<ttl>1440</ttl>
+		<item>
+			<title>1년 차 주니어의 AX 스토리: OS 동적 분석 로직 최적화</title>
+			<link>https://techblog.samsung.com/blog/article/104</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/104</guid>
+			<author>박수영</author>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/104" alt="">]]></description>
+		</item>
+		<item>
+			<title>AX를 통한 전사 암호화 서비스의 운영 효율화와 보안성 강화</title>
+			<link>https://techblog.samsung.com/blog/article/103</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/103</guid>
+			<author>백승규</author>
+			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/103" alt="">]]></description>
+		</item>
+		<item>
+			<title>“Epoch을 2배로 늘려줘” — 메신저와 LLM Agent로 MLOps Workflow 이어가기</title>
+			<link>https://techblog.samsung.com/blog/article/102</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/102</guid>
+			<author>김현지</author>
+			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/102" alt="">]]></description>
+		</item>
+		<item>
+			<title>JEV의 판정 계약을 사내 LLM에 적용하기</title>
+			<link>https://techblog.samsung.com/blog/article/101</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/101</guid>
+			<author>김완희</author>
+			<pubDate>Mon, 19 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/101" alt="">]]></description>
+		</item>
+		<item>
+			<title>CLI 에이전트를 API 뒤에 세우기  — Claude Code와 Codex를 앱에서 안전하게 활용하기 위한 세 가지 장치</title>
+			<link>https://techblog.samsung.com/blog/article/100</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/100</guid>
+			<author>김완희</author>
+			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/100" alt="">]]></description>
+		</item>
+		<item>
+			<title>AI가 과거 근거를 확인한 44일, 그리고 달라진 결론들</title>
+			<link>https://techblog.samsung.com/blog/article/99</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/99</guid>
+			<author>안태정</author>
+			<pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/99" alt="">]]></description>
+		</item>
+		<item>
+			<title>LLM 하나만 믿지 마세요 — 모든 LLM을 관점별로 싸우게 한 코드리뷰, Code Review War</title>
+			<link>https://techblog.samsung.com/blog/article/98</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/98</guid>
+			<author>김완희</author>
+			<pubDate>Wed, 23 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/98" alt="">]]></description>
+		</item>
+		<item>
+			<title>몇 달 전에 풀었던 문제를 오늘 또 풀고 있었습니다 — AI와의 대화를 팀의 지식으로 자동 축적한 이야기</title>
+			<link>https://techblog.samsung.com/blog/article/97</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/97</guid>
+			<author>박성제</author>
+			<pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/97" alt="">]]></description>
+		</item>
+		<item>
+			<title>구독만 하던 Codex와 Claude, LLM 서버로 바꿔 쓰기</title>
+			<link>https://techblog.samsung.com/blog/article/96</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/96</guid>
+			<author>김완희</author>
+			<pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/96" alt="">]]></description>
+		</item>
+		<item>
+			<title>AI에게 분석을 맡기기 전에, &apos;분석할 수 없음&apos; 부터 가르치세요 — Wear OS 이슈 초도 분석을 자동화한 WOA Agent 개발기</title>
+			<link>https://techblog.samsung.com/blog/article/95</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/95</guid>
+			<author>임병재</author>
+			<pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/95" alt="">]]></description>
+		</item>
 	</channel>
 </rss>
