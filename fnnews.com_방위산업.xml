@@ -4,8 +4,21 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Sun, 08 Nov 2026 20:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 11:30:52 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>한화에어로, 미국서 &apos;해상 천무&apos; 사격시험…운용범위 확장 추진</title>
+			<link>https://www.fnnews.com/news/202611091015022846</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202611091015022846</guid>
+			<author>정원일</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Mon, 09 Nov 2026 10:51:40 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]한화에어로스페이스가 다연장로켓체계 '천무'를 선박에서 운용하기 위한 해상 사격시험에 나선다. 기존 지상 플랫폼을 넘어 무인수상정 등 해상 플랫폼으로 천무의 운용 범위를 넓혀 미국 방산시장 공략에 속도를 낸다는 구상이다.
+한화에어로스페이스와 미국 법인 한화디펜스USA(HDUSA)는 11월 중 두 차례에 걸쳐 미국 남부 해안에서 선박에 탑재한 천무 유도탄 사격시험을 진행한다고 9일 밝혔다.
+이번 시험은 지대지 무기체계로 개발된 천무를 해상에서도 운용할 수 있는지 검증하기 위한 것이다. 한화는 향후 중형 무인수상정(MUSV) 등 다양한 해상 플랫폼에 천무를 적용하는 방안을 추진하고 있다.
+앞서 HDUSA는 지난 4월 미국 MUSV 업체 마그넷 디펜스와 중형 무인수상정 'H38' 공동개발을 위한 양해각서(MOU)를 체결했다. 양사는 H38에 컨테이너...]]></description>
+		</item>
 		<item>
 			<title>숨 고른 K방산… 연말 실적 &apos;축포&apos; 쏜다</title>
 			<link>https://www.fnnews.com/news/202611081825241409</link>
@@ -113,18 +126,6 @@ RAM-C는 무기체계의 신뢰도(Reliability), 가용도(Availability), 정비
 			<category>산업</category>
 			<pubDate>Tue, 03 Nov 2026 18:33:51 +0900</pubDate>
 			<description><![CDATA[SNT다이내믹스가 국내 방산기업 최초로 미국 정부의 'CMMC 레벨 2' 인증을 최종 획득했다. 미국 방산 공급망 진입을 위한 핵심 보안 기준을 통과하면서 미군 유지·보수·정비(MRO) 및 양산시장 진출에 속도를 낼 전망이다. 3일 SNT다이내믹스에 따르면 사이버보안 성숙도 모델 인증(CMMC)은 미국 정부가 글로벌 방산 공급망 전반의 모든 기술정보를 보호하고 사이버 위협을 통제하기 위해 도입한 강력한 사이버보안 인증 제도다. SNT다이내믹스는 CMMC 인증 획득을 위해 핵심기술 보호 및 접근통제, 실시간 사이버 위협 대응체계 등 본사 및 기술연구소, 생산시설 등 모든 영역의 사이버보안 거버넌스를 글로벌 수준으로 고도화했다. 이를 토대로 미 정부의 110여개 보안 통제 항목과 320여개 세부 평가 목표 등에 대한 엄격한 현장 실사와 기술 검증을 ...]]></description>
-		</item>
-		<item>
-			<title>한화의 방산 미래… 美서 군함 낚고, 안방선 잠수함 띄운다</title>
-			<link>https://www.fnnews.com/news/202611031812562279</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202611031812562279</guid>
-			<author>김윤호</author>
-			<category>산업|대기업</category>
-			<category>산업</category>
-			<pubDate>Tue, 03 Nov 2026 18:13:01 +0900</pubDate>
-			<description><![CDATA[한화가 미래 먹거리인 미국 해군 군함·잠수함 사업을 본격화하고 있다. 미국 내 첫 함정 수주에 성공한 한화필리조선소의 수장을 교체하며 군함 사업에 힘을 싣는 한편, 국내에서는 독자 기술로 건조한 3600t급 잠수함 서희함을 진수하며 함정 기술 경쟁력을 끌어올리고 있다. 미국 시장 공략과 독자 기술력 확보를 동시에 추진하는 전략이다. 
-
-3일 업계에 따르면 한화필리조선소는 지난 2일(현지시간) 데이비드 김 사장의 후임으로 김혁 사장을 선임했다고 밝혔다. 김 신임 사장은 한화오션이 대우조선해양이던 시절부터, 한화에어로스페이스가 한화디펜스였을 때까지 거슬러 올라가 25년간 조선·방산 분야에서 경력을 쌓았다. 특수선과 부유식 액화천연가스 생산설비(FLNG)를 비롯한 상선, 군함 건조 사업을 두루 경험했으며 한화시스템에서는 무...]]></description>
 		</item>
 	</channel>
 </rss>
