@@ -4,7 +4,8 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Thu, 05 Nov 2026 18:35:01 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 11:12:27 +0900</lastBuildDate>
+		<ttl>1440</ttl>
 		<item>
 			<title>1년 차 주니어의 AX 스토리: OS 동적 분석 로직 최적화</title>
 			<link>https://techblog.samsung.com/blog/article/104</link>
@@ -84,69 +85,6 @@
 			<author>임병재</author>
 			<pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/95" alt="">]]></description>
-		</item>
-		<item>
-			<title>한 명의 개발자가 여러 전문가와 일하는 방법: 역할형 AI 에이전트로 AWS 인프라 포털 만들기</title>
-			<link>https://techblog.samsung.com/blog/article/94</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/94</guid>
-			<author>김희민</author>
-			<pubDate>Tue, 08 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/94" alt="">]]></description>
-		</item>
-		<item>
-			<title>LLM에게 수백 MB 로그를 통째로 주지 마세요 — 근거를 &quot;검증&quot;할 수 있는 AI 이슈 분석 에이전트 개발기</title>
-			<link>https://techblog.samsung.com/blog/article/93</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/93</guid>
-			<author>구정환</author>
-			<pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/93" alt="">]]></description>
-		</item>
-		<item>
-			<title>LLM에게 계산을 시키지 마세요 — 숫자를 &apos;신뢰&apos;할 수 있는 AI 데이터 애널리스트 개발기</title>
-			<link>https://techblog.samsung.com/blog/article/92</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/92</guid>
-			<author>김용식</author>
-			<pubDate>Fri, 14 Aug 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/92" alt="">]]></description>
-		</item>
-		<item>
-			<title>전문가를 넘어선 AI – 5G vRAN 추론 코드 자동 생성을 위한 Multi-Agent 컴파일러</title>
-			<link>https://techblog.samsung.com/blog/article/91</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/91</guid>
-			<author>정제원</author>
-			<pubDate>Wed, 01 Jul 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/91" alt="">]]></description>
-		</item>
-		<item>
-			<title>가전제품 MCU 펌웨어, AI가 100% 개발하는 시나리오 가능한가</title>
-			<link>https://techblog.samsung.com/blog/article/90</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/90</guid>
-			<author>차재훈</author>
-			<pubDate>Thu, 18 Jun 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/90" alt="">]]></description>
-		</item>
-		<item>
-			<title>AI 저작권 소송 – 美 법원의 판단 기준</title>
-			<link>https://techblog.samsung.com/blog/article/89</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/89</guid>
-			<author>정윤환</author>
-			<pubDate>Mon, 01 Jun 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>6G를 위한 AI/ML 물리계층 – JSCM 기반 오디오 전송</title>
-			<link>https://techblog.samsung.com/blog/article/88</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/88</guid>
-			<author>Na Jiang 외 3명</author>
-			<pubDate>Thu, 21 May 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/88" alt="">]]></description>
-		</item>
-		<item>
-			<title>당신의 모바일폰 영상이 ‘영화’가 되는 순간… APV 코덱으로 현실이 되다</title>
-			<link>https://techblog.samsung.com/blog/article/87</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/87</guid>
-			<author>최광표</author>
-			<pubDate>Thu, 07 May 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/87" alt="">]]></description>
 		</item>
 	</channel>
 </rss>
