@@ -4,8 +4,35 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 10 Nov 2026 06:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 07:30:31 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>美 민주당 AI 규제 강화 전망에도 기업들 “AI 도입·투자 지속”</title>
+			<link>https://www.etnews.com/20261110000006</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000006</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 06:58:19 +0900</pubDate>
+			<description><![CDATA[미국 민주당이 중간선거에서 압승하며 인공지능(AI) 규제 강화 가능성이 커졌지만 주요 기업 기술 책임자·임원들은 AI 도입과 투자에 큰 영향을 미치지 않을 것으로 전망했다. 현재 AI 모델만으로도 기업 수요를 충족할 수 있는 데다 이미 자체 안전·관리 체계를 구축하고 있어 규제 강화가 지속적인 AI 혁신의 걸림돌이 되지는 않을 것이라는 분석이다. 9일(현지시간) 월스트리트저널(WSJ)에 따르면 미국 주요 기업 기술 책임자들은 민주당이 AI 안전...]]></description>
+		</item>
+		<item>
+			<title>AI 시대 콘텐츠 일감 얼마나 줄었나…이병숙 경기도의원, 실태조사 요구</title>
+			<link>https://www.etnews.com/20261110000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000005</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 06:46:53 +0900</pubDate>
+			<description><![CDATA[이병숙 경기도의원이 생성형 인공지능(AI) 확산에 따른 콘텐츠 프리랜서의 일감 감소 실태를 조사하라고 경기도에 촉구했다. 이병숙 도의회 문화체육관광위원회 의원(더불어민주당, 수원12)은 지난 6일 제395회 정례회 문화체육관광위원회 행정사무감사에서 도내 콘텐츠산업 종사자의 일감과 소득 변화를 파악하고 재교육과 직업 전환, 업계 복귀를 지원할 방안을 마련하라고 요구했다. 이 의원은 성우와 번역가, 웹툰 보조작가, 작곡 보조인력 등을 거론하며 콘텐...]]></description>
+		</item>
+		<item>
+			<title>동국대 손영두 연구팀, 세계 최고 AI 학회 NeurlPS 2026 논문 채택</title>
+			<link>https://www.etnews.com/20261110000004</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000004</guid>
+			<author>김신영</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 06:30:00 +0900</pubDate>
+			<description><![CDATA[동국대학교 산업시스템공학과 손영두 교수 연구팀의 논문 '준비도 인식 기반 샘플 선택 방법'이 세계 최고 권위의 인공지능(AI) 학회인 NeurIPS에 최종 채택됐다. 연구는 경상국립대학교 산업시스템공학부 이상호 교수, 뉴욕대학교 그로스만 의과대학 인구보건학과 도형록 교수와의 공동연구를 통해 이뤄졌다. 데이터 수가 불균형한 상황에서 레이블 오류에 강건한 새로운 학습 방법을 제시했다. AI 학습에 활용되는 데이터에는 잘못된 레이블이 할당되는 경우가...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 CDMO, 공장과 품목허가권자가 나누는 책임</title>
 			<link>https://www.etnews.com/20261027000319</link>
@@ -67,33 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 09 Nov 2026 19:34:32 +0900</pubDate>
 			<description><![CDATA[미국 인공지능(AI) 기업 앤트로픽의 생성형 AI 서비스 '클로드'를 사용하는 국내 기업 계정 100여개에서 개인정보가 유출됐다. 9일 개인정보보호위원회에 따르면 앤트로픽은 지난달 31일 국내 기업용 계정 100여개의 개인정보 유출 사실을 신고했다. 개인정보위는 현재 신고 내용을 토대로 사전 검토를 진행하고 있다. 아직 정식 조사에는 착수하지 않은 상태다. 해외 기업을 대상으로 한 조사는 국내 기업과 달리 본격적인 조사에 앞서 자료 요청 등 절...]]></description>
-		</item>
-		<item>
-			<title>족형로봇, 실증 넘어 산업 현장으로…안전·신뢰성 확보 과제</title>
-			<link>https://www.etnews.com/20261109000411</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000411</guid>
-			<author>김명희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 18:30:00 +0900</pubDate>
-			<description><![CDATA[네 발 또는 두 발로 이동하는 족형로봇이 산업 현장 실증을 넘어 설비 점검과 순찰, 용접 등 실제 작업에 도입되고 있다. 산업계는 현장 데이터 축적과 이를 기반으로 한 안전·인증 기준 마련을 핵심 과제로 제시했다. 지능형로봇표준포럼(KOROS)은 9일 서울 용산 드래곤시티호텔에서 '족형로봇 산업 적용·확산을 위한 세미나'를 개최했다. 한국AI·로봇산업협회와 한국로봇산업진흥원 지원으로 열린 행사에서는 족형로봇 기술 발전 방향과 산업 현장 적용 사...]]></description>
-		</item>
-		<item>
-			<title>&apos;2026 Web3 블록체인·AI 융합 해커톤&apos; 성료… 대상에 &apos;블록버스터&apos; 팀</title>
-			<link>https://www.etnews.com/20261109000419</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000419</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 18:05:27 +0900</pubDate>
-			<description><![CDATA[충남대학교 데이터보안·활용 혁신융합대학사업단(COSS사업단)과 한국AI블록체인융합원이 공동 주관한 '2026 Web3 시대의 블록체인·AI 융합 해커톤 대회'가 6~7일 서울 스페이스쉐어 삼성역센터에서 열린 본선 및 데모데이를 끝으로 성황리에 막을 내렸다. 이번 대회는 교육부, 한국연구재단, 대전광역시가 주최하고 한국인터넷진흥원(KISA), 한국정보보호학회, 안랩블록체인컴퍼니 등이 후원했다. 전국 36개 대학에서 참가한 45개 팀 가운데 약 4...]]></description>
-		</item>
-		<item>
-			<title>AI에 직급 주고 개발 문턱 낮춘다…&apos;AI 네이티브 조직&apos; 확산</title>
-			<link>https://www.etnews.com/20261109000280</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000280</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 09 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[국내 인공지능(AI) 기업들이 AI 에이전트에 직급·직무를 부여하고 부서 간 개발 문턱을 낮추는 'AI 네이티브 조직'으로 진화하고 있다. 9일 업계에 따르면 코난테크놀로지는 최근 AI 디지털 직원 '봉대리'를 도입했다. 봉대리는 전사 업무 자동화를 담당하는 AI 에이전트로, 대리 직급과 사내 이메일 계정을 부여받았다. 프로젝트관리시스템(PMS)·지라 등과 연계해 일정 관리, 회의실 예약, 휴가 신청 등 업무를 수행한다. 생산성 개선 효과도 나...]]></description>
 		</item>
 	</channel>
 </rss>
