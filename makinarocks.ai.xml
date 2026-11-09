@@ -4,77 +4,77 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Mon, 09 Nov 2026 18:33:29 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 07:02:45 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
-			<title>정상 데이터만으로 로봇 고장을 예측하는 AI 개발기</title>
-			<link>https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</guid>
+			<title>[기업 AI 주권 테스트] 우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까</title>
+			<link>https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/</guid>
 			<category>Blog</category>
-			<pubDate>Mon, 09 Nov 2026 18:33:22 +0900</pubDate>
+			<pubDate>Tue, 10 Nov 2026 07:02:45 +0900</pubDate>
 		</item>
 		<item>
-			<title>마키나락스 엔지니어의 밤 – Build. Share. Connect.</title>
-			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ec%9d%98-%eb%b0%a4-build-share-connect/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ec%9d%98-%eb%b0%a4-build-share-connect/</guid>
+			<title>AI는 이제 현장에서 동작하고 있습니다 | ATTENTION 2026 인사이트 리포트</title>
+			<link>https://www.makinarocks.ai/blog/attention2026-report/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/attention2026-report/</guid>
 			<category>Blog</category>
-			<pubDate>Mon, 09 Nov 2026 18:33:21 +0900</pubDate>
+			<pubDate>Tue, 10 Nov 2026 07:02:44 +0900</pubDate>
 		</item>
 		<item>
-			<title>[현장 노트] 12일 → 4시간, 반도체 소부장 AX 솔루션 구현 기록</title>
-			<link>https://www.makinarocks.ai/blog/%ed%98%84%ec%9e%a5%eb%85%b8%ed%8a%b8-%ec%84%9c%ed%94%8c%eb%9f%ac%ec%8a%a4%ea%b8%80%eb%a1%9c%eb%b2%8c/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ed%98%84%ec%9e%a5%eb%85%b8%ed%8a%b8-%ec%84%9c%ed%94%8c%eb%9f%ac%ec%8a%a4%ea%b8%80%eb%a1%9c%eb%b2%8c/</guid>
+			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (2)엔지니어 편</title>
+			<link>https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-2/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-2/</guid>
 			<category>Blog</category>
-			<pubDate>Mon, 09 Nov 2026 18:33:20 +0900</pubDate>
+			<pubDate>Tue, 10 Nov 2026 07:02:43 +0900</pubDate>
 		</item>
 		<item>
-			<title>전기차 배터리 공정 SDF: Agentic AI 기반 자율 제어 구현</title>
-			<link>https://www.makinarocks.ai/use-case/%ec%a0%84%ea%b8%b0%ec%b0%a8-%eb%b0%b0%ed%84%b0%eb%a6%ac-%ea%b3%b5%ec%a0%95-sdf-agentic-ai-%ec%9e%90%ec%9c%a8-%ec%a0%9c%ec%96%b4-%ea%b5%ac%ed%98%84/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ec%a0%84%ea%b8%b0%ec%b0%a8-%eb%b0%b0%ed%84%b0%eb%a6%ac-%ea%b3%b5%ec%a0%95-sdf-agentic-ai-%ec%9e%90%ec%9c%a8-%ec%a0%9c%ec%96%b4-%ea%b5%ac%ed%98%84/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:49 +0900</pubDate>
+			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (1)마케팅·P&amp;C 편</title>
+			<link>https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-1/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-1/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:42 +0900</pubDate>
 		</item>
 		<item>
-			<title>AI 트러블슈팅 에이전트: 에러 원인부터 조치까지 한 번에</title>
-			<link>https://www.makinarocks.ai/use-case/ai-%ed%8a%b8%eb%9f%ac%eb%b8%94%ec%8a%88%ed%8c%85-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/ai-%ed%8a%b8%eb%9f%ac%eb%b8%94%ec%8a%88%ed%8c%85-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:48 +0900</pubDate>
+			<title>AI가 산업 현장에 착륙한 순간, ATTENTION 2026</title>
+			<link>https://www.makinarocks.ai/blog/ai%ea%b0%80-%ec%82%b0%ec%97%85-%ed%98%84%ec%9e%a5%ec%97%90-%ec%b0%a9%eb%a5%99%ed%95%9c-%ec%88%9c%ea%b0%84-attention-2026/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/ai%ea%b0%80-%ec%82%b0%ec%97%85-%ed%98%84%ec%9e%a5%ec%97%90-%ec%b0%a9%eb%a5%99%ed%95%9c-%ec%88%9c%ea%b0%84-attention-2026/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:41 +0900</pubDate>
 		</item>
 		<item>
-			<title>물류·시공 AI 에이전트: Knowledge Graph 기반 관계 분석</title>
-			<link>https://www.makinarocks.ai/use-case/%eb%ac%bc%eb%a5%98%c2%b7%ec%8b%9c%ea%b3%b5-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-knowledge-graph-%ea%b8%b0%eb%b0%98-%ea%b4%80%ea%b3%84-%eb%b6%84%ec%84%9d/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%eb%ac%bc%eb%a5%98%c2%b7%ec%8b%9c%ea%b3%b5-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-knowledge-graph-%ea%b8%b0%eb%b0%98-%ea%b4%80%ea%b3%84-%eb%b6%84%ec%84%9d/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:47 +0900</pubDate>
+			<title>대한민국 최초로 전장망에서 AI가 실제로 작동하게 만드는 일 — KJCCS 현장에서 FDE로 일한다는 것</title>
+			<link>https://www.makinarocks.ai/blog/kjccs-%ec%a0%84%ec%9e%a5%eb%a7%9d-ai/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/kjccs-%ec%a0%84%ec%9e%a5%eb%a7%9d-ai/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:40 +0900</pubDate>
 		</item>
 		<item>
-			<title>용접 로봇 이상탐지 AI: 정상 데이터만으로 구현하는 예지보전</title>
-			<link>https://www.makinarocks.ai/use-case/%ec%9a%a9%ec%a0%91-%eb%a1%9c%eb%b4%87-%ec%9d%b4%ec%83%81%ed%83%90%ec%a7%80-ai-%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ea%b5%ac%ed%98%84%ed%95%98%eb%8a%94-%ec%98%88/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ec%9a%a9%ec%a0%91-%eb%a1%9c%eb%b4%87-%ec%9d%b4%ec%83%81%ed%83%90%ec%a7%80-ai-%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ea%b5%ac%ed%98%84%ed%95%98%eb%8a%94-%ec%98%88/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:46 +0900</pubDate>
+			<title>비개발자의 AI 앱 배포 후기: 코딩 어시스턴트와 마키나락스 Runway</title>
+			<link>https://www.makinarocks.ai/blog/runway-code-assistant-ai-app-deployment/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/runway-code-assistant-ai-app-deployment/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:39 +0900</pubDate>
 		</item>
 		<item>
-			<title>구매팀 도면 원가 산정 AI: 견적 산출 시간 최대 90% 단축</title>
-			<link>https://www.makinarocks.ai/use-case/%ea%b5%ac%eb%a7%a4%ed%8c%80-%eb%8f%84%eb%a9%b4-%ec%9b%90%ea%b0%80-%ec%82%b0%ec%a0%95-ai-%ea%b2%ac%ec%a0%81-%ec%82%b0%ec%b6%9c/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ea%b5%ac%eb%a7%a4%ed%8c%80-%eb%8f%84%eb%a9%b4-%ec%9b%90%ea%b0%80-%ec%82%b0%ec%a0%95-ai-%ea%b2%ac%ec%a0%81-%ec%82%b0%ec%b6%9c/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:45 +0900</pubDate>
+			<title>MLOps 플랫폼 도입 전 확인해야 할 5가지 체크리스트</title>
+			<link>https://www.makinarocks.ai/blog/mlops-platform-checklist/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/mlops-platform-checklist/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:35 +0900</pubDate>
 		</item>
 		<item>
-			<title>신용 평가 AI 운영체계: 신규 구축과 마이그레이션 동시 수행</title>
-			<link>https://www.makinarocks.ai/use-case/%ec%8b%a0%ec%9a%a9-%ed%8f%89%ea%b0%80-ai-%ec%9a%b4%ec%98%81%ec%b2%b4%ea%b3%84-%ec%8b%a0%ea%b7%9c-%ea%b5%ac%ec%b6%95%ea%b3%bc-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98-%eb%8f%99%ec%8b%9c/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ec%8b%a0%ec%9a%a9-%ed%8f%89%ea%b0%80-ai-%ec%9a%b4%ec%98%81%ec%b2%b4%ea%b3%84-%ec%8b%a0%ea%b7%9c-%ea%b5%ac%ec%b6%95%ea%b3%bc-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98-%eb%8f%99%ec%8b%9c/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:44 +0900</pubDate>
+			<title>AI 운영에서 실패하지 않는 전략 짜기</title>
+			<link>https://www.makinarocks.ai/blog/ai-%ec%9a%b4%ec%98%81%ec%97%90%ec%84%9c-%ec%8b%a4%ed%8c%a8%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%a0%84%eb%9e%b5-%ec%a7%9c%ea%b8%b0/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/ai-%ec%9a%b4%ec%98%81%ec%97%90%ec%84%9c-%ec%8b%a4%ed%8c%a8%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%a0%84%eb%9e%b5-%ec%a7%9c%ea%b8%b0/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:34 +0900</pubDate>
 		</item>
 		<item>
-			<title>AI 기반 문서 비교: 원자력 기자재 개정 이력 자동 검토</title>
-			<link>https://www.makinarocks.ai/use-case/ai-%ea%b8%b0%eb%b0%98-%eb%ac%b8%ec%84%9c-%eb%b9%84%ea%b5%90-%ec%9b%90%ec%9e%90%eb%a0%a5-%ea%b8%b0%ec%9e%90%ec%9e%ac-%ea%b0%9c%ec%a0%95-%ec%9d%b4%eb%a0%a5-%ec%9e%90%eb%8f%99-%ea%b2%80%ed%86%a0/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/ai-%ea%b8%b0%eb%b0%98-%eb%ac%b8%ec%84%9c-%eb%b9%84%ea%b5%90-%ec%9b%90%ec%9e%90%eb%a0%a5-%ea%b8%b0%ec%9e%90%ec%9e%ac-%ea%b0%9c%ec%a0%95-%ec%9d%b4%eb%a0%a5-%ec%9e%90%eb%8f%99-%ea%b2%80%ed%86%a0/</guid>
-			<category>Use Case</category>
-			<pubDate>Mon, 09 Nov 2026 18:16:43 +0900</pubDate>
+			<title>마키나락스는 왜 AI 하지 말라고 광고할까?</title>
+			<link>https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4%eb%8a%94-%ec%99%9c-ai-%ed%95%98%ec%a7%80-%eb%a7%90%eb%9d%bc%ea%b3%a0-%ea%b4%91%ea%b3%a0%ed%95%a0%ea%b9%8c/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4%eb%8a%94-%ec%99%9c-ai-%ed%95%98%ec%a7%80-%eb%a7%90%eb%9d%bc%ea%b3%a0-%ea%b4%91%ea%b3%a0%ed%95%a0%ea%b9%8c/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 10 Nov 2026 07:02:33 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
