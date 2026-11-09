@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 09 Nov 2026 19:30:35 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 20:30:29 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>앤트로픽, 韓 기업용 계정 100여개 개인정보 유출 신고</title>
+			<link>https://www.etnews.com/20261109000428</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000428</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 09 Nov 2026 19:34:32 +0900</pubDate>
+			<description><![CDATA[미국 인공지능(AI) 기업 앤트로픽의 생성형 AI 서비스 '클로드'를 사용하는 국내 기업 계정 100여개에서 개인정보가 유출됐다. 9일 개인정보보호위원회에 따르면 앤트로픽은 지난달 31일 국내 기업용 계정 100여개의 개인정보 유출 사실을 신고했다. 개인정보위는 현재 신고 내용을 토대로 사전 검토를 진행하고 있다. 아직 정식 조사에는 착수하지 않은 상태다. 해외 기업을 대상으로 한 조사는 국내 기업과 달리 본격적인 조사에 앞서 자료 요청 등 절...]]></description>
+		</item>
 		<item>
 			<title>족형로봇, 실증 넘어 산업 현장으로…안전·신뢰성 확보 과제</title>
 			<link>https://www.etnews.com/20261109000411</link>
@@ -86,14 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 09 Nov 2026 16:24:35 +0900</pubDate>
 			<description><![CDATA[에스피아이디(SPID)는 미국 제품 보안 전문기업 파이나이트스테이트와 손잡고 국내 제조기업의 유럽연합(EU) 사이버복원력법(CRA) 대응 지원을 확대한다고 9일 밝혔다. 양사는 유럽에 디지털 제품을 수출하거나 진출을 준비하는 로봇·산업용 장비·스마트 가전 제조기업 등을 지원한다. CRA는 EU 시장에 공급하는 디지털 제품에 보안 설계와 취약점 관리 등을 요구하는 법이다. 올해 9월 11일부터 실제 악용되는 취약점과 중대한 보안사고 보고 의무가...]]></description>
-		</item>
-		<item>
-			<title>[조현래의 콘텐츠 脈] 〈22〉데이터, K콘텐츠산업의 경쟁력 토대</title>
-			<link>https://www.etnews.com/20261109000123</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261109000123</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 09 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[세계 콘텐츠 시장은 날로 경쟁이 치열해지고 있다. 콘텐츠의 제작과 유통, 소비를 둘러싼 환경과 산업구조가 매우 빠르게 변화하고 있다. 넷플릭스와 같은 글로벌 OTT(over-the-top) 플랫폼은 세계 각지에서 자체 플랫폼을 통해 콘텐츠를 소비하는 이용자들의 다양한 정보를 수집하고, 서비스 운영과 콘텐츠 전략에 활용하고 있다. 소비자가 어떤 콘텐츠를 검색하고 시청하는지, 어떤 장르와 배우를 좋아하는지, 얼마나 오래 이용하는지, 언제 이탈하는지...]]></description>
 		</item>
 	</channel>
 </rss>
