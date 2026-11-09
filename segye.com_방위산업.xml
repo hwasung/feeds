@@ -4,8 +4,15 @@
 		<title>세계일보</title>
 		<link>https://www.segye.com/</link>
 		<description>세계일보</description>
-		<lastBuildDate>Sat, 07 Nov 2026 17:18:13 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 18:34:12 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>방위사업청, AI 분야 선도연구기관 3곳 지정… KAIST·ETRI·LG AI연구원</title>
+			<link>https://www.segye.com/newsView/20261109509923</link>
+			<guid isPermaLink="true">https://www.segye.com/newsView/20261109509923</guid>
+			<pubDate>Mon, 09 Nov 2026 18:34:11 +0900</pubDate>
+			<description><![CDATA[2026-11-09 13:56:53]]></description>
+		</item>
 		<item>
 			<title>한국형 핵추진잠수함 ‘장보고-N’ 본격 추진...2030년대 후반 전력화</title>
 			<link>https://www.segye.com/newsView/20261106513257</link>
@@ -68,13 +75,6 @@
 			<guid isPermaLink="true">https://www.segye.com/newsView/20261027516201</guid>
 			<pubDate>Wed, 28 Oct 2026 08:02:34 +0900</pubDate>
 			<description><![CDATA[2026-10-28 06:00:00]]></description>
-		</item>
-		<item>
-			<title>합참 “北, 구형 자주포 해안에 노출…의도 면밀히 살피는 중”</title>
-			<link>https://www.segye.com/newsView/20261027510056</link>
-			<guid isPermaLink="true">https://www.segye.com/newsView/20261027510056</guid>
-			<pubDate>Tue, 27 Oct 2026 18:34:15 +0900</pubDate>
-			<description><![CDATA[2026-10-27 15:52:21]]></description>
 		</item>
 	</channel>
 </rss>
