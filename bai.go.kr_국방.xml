@@ -4,7 +4,17 @@
 		<title>감사원 국방분야 감사결과</title>
 		<link>https://www.bai.go.kr/bai/result/branch/list</link>
 		<description>감사원 국방분야 감사결과</description>
-		<lastBuildDate>Thu, 08 Oct 2026 15:26:58 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 09 Nov 2026 18:30:11 +0900</lastBuildDate>
+		<ttl>1440</ttl>
+		<item>
+			<title>육군본부 기관정기감사</title>
+			<link>https://www.bai.go.kr/bai/result/branch/detail?srno=3392</link>
+			<guid isPermaLink="true">https://www.bai.go.kr/bai/result/branch/detail?srno=3392</guid>
+			<author>외교국방2과</author>
+			<category>국방</category>
+			<pubDate>Mon, 09 Nov 2026 12:00:00 +0900</pubDate>
+			<description><![CDATA[<ul><li>부서명: 외교국방2과</li><li>공개일: 20261109</li></ul>]]></description>
+		</item>
 		<item>
 			<title>공군본부 정기감사</title>
 			<link>https://www.bai.go.kr/bai/result/branch/detail?srno=3325</link>
@@ -85,15 +95,6 @@
 			<category>국방</category>
 			<pubDate>Tue, 08 Aug 2023 14:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>부서명: 외교국방2과</li><li>공개일: 20230808</li></ul>]]></description>
-		</item>
-		<item>
-			<title>방위사업청 정기감사</title>
-			<link>https://www.bai.go.kr/bai/result/branch/detail?srno=2904</link>
-			<guid isPermaLink="true">https://www.bai.go.kr/bai/result/branch/detail?srno=2904</guid>
-			<author>외교국방3과</author>
-			<category>국방</category>
-			<pubDate>Wed, 24 May 2023 14:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>부서명: 외교국방3과</li><li>공개일: 20230524</li></ul>]]></description>
 		</item>
 	</channel>
 </rss>
