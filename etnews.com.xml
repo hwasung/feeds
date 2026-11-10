@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 11 Nov 2026 06:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 08:30:28 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>앤트로픽, 19일 나스닥 상장…공모가 70~78달러·86조원 조달 추진</title>
+			<link>https://www.etnews.com/20261111000002</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261111000002</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 11 Nov 2026 07:16:02 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 클로드를 운영하는 앤트로픽이 기업공개(IPO)를 진행해 최대 1조4000억달러의 기업가치를 인정받는 것을 목표로 삼았다. 기존 시장에서 거론되던 1조5000억달러보다는 다소 낮은 수준이다. 앤트로픽은 오는 18일 공모가를 확정하고 19일 나스닥에 상장할 예정이다. 엔비디아와 구글 등에 대한 사모 배정 260억달러를 포함해 총 904억달러를 조달하며, 공모가 범위 상단 기준 기업가치는 약 1조4000억달러(약 1876조원)다. 1...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 알룰로스, 승인과 주문 사이의 시간</title>
 			<link>https://www.etnews.com/20261027000262</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 10 Nov 2026 18:08:32 +0900</pubDate>
 			<description><![CDATA[드림시큐리티가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '소프트웨이브 2026'에 참가해 통합 신원인증 및 권한관리 솔루션 'Magic ICAM'을 중심으로 제로트러스트 및 국가망 보안 체계(N2SF) 전환 방안을 선보인다. 'Magic ICAM'은 사용자와 기기, 자원의 신원정보와 자격증명, 접근권한을 통합 관리하는 솔루션이다. 시스템별로 분산된 계정과 자격증명, 누적된 권한으로 인해 발생하는 신원·접근관리의 복잡성을 줄이고, 사...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 구름, 소프트웨이브 2026서 AI 역량 평가 솔루션 &apos;뎁스&apos; 선보여</title>
-			<link>https://www.etnews.com/20261110000466</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000466</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 18:04:17 +0900</pubDate>
-			<description><![CDATA[구름(대표 이상규)이 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '제11회 대한민국 소프트웨어대전(AI x 소프트웨이브 2026)'에 참가해 AI 역량 평가 솔루션 '뎁스(Devth)'를 선보인다. 구름은 한국인공지능·소프트웨어산업협회(KOSA) 공동관에서 관람객이 자신의 AI 역량을 직접 확인할 수 있는 체험 부스를 운영할 예정이다. 관람객은 현장 시연을 통해 '뎁스 AISA(아이사)'로 AI와 협업해 문제를 해결하는 AI 활용 역...]]></description>
 		</item>
 	</channel>
 </rss>
