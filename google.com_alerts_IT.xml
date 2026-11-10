@@ -4,8 +4,16 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Sun, 08 Nov 2026 14:30:41 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 13:30:47 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[김승주 교수 칼럼] 전수조사는 반복되는데, 왜 보안 사각지대는 사라지지 않는가 - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209423</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209423</guid>
+			<category>김승주 교수</category>
+			<pubDate>Tue, 10 Nov 2026 11:05:22 +0900</pubDate>
+			<description><![CDATA[자산목록에는 없지만 실제로 운영 중인 시스템, 공식적인 관리대상에서는 빠져 있지만 외부에서 접근할 수 있는 시스템이 존재한다면 아무리 좋은 <b>보안</b>장비&nbsp;...]]></description>
+		</item>
 		<item>
 			<title>[AIS 2026] 망 끊으면 안전할까…김승주 교수 “AI 시대 보안, 자산 파악부터 다시” - 데일리시큐</title>
 			<link>https://www.dailysecu.com/news/articleView.html?idxno=209369</link>
