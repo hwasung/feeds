@@ -4,8 +4,50 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Tue, 10 Nov 2026 21:30:58 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 06:31:11 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>랜섬웨어 그룹 BYOD, 토요타 개인정보 유출 주장… 침해·피해 규모 미확인</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8108</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8108</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Wed, 11 Nov 2026 05:12:12 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2611/20261111050850_583f3523.jpg" alt="토요타자동차. 사진=AP 연합뉴스.jpg" style="width: 720px; height: 479px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">토요타자동차. 사진=AP 연합뉴스</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 랜섬웨어 그룹 BYOD가 토요타의 개인정보와 키오스크 기기에 접근했다고 주장했다. 그러나 공개된 자료만으로는 토요타 시스템이 침해됐거나 정보가 실제로 유출됐다는 사실을 확인할 수 없다.</p>
+<p>
+   <br />
+</p>
+<p>사이버시큐리티뉴스는 10일(현지시각) BYOD가 유출 사이트에 올린 토요타 관련 목록을 보도했다. 11월 10일자로 갱신된 화면에는 풀네임과 이메일 주소, 실제 주소, 전화번호, 생년월일이 포함됐다고 적혀 있다. ‘키오스크 기기’도 언급됐지만, 기기의 위치와 용도, 소유자는 공개되지 않았다.</p>
+<p>
+   <br />
+</p>
+<p>목록에는 영향을 받았을 수 있는 사람이나 기록, 기기 수가 나오지 않는다. 정보가 새 자료인지, 토요타와 직접 관련된 것인지도 확인할 수 없다.</p>
+<p>
+   <br />
+</p>
+<p>BYOD는 대부분의 환경이 격리돼 있었지만 남아 있는 접근 경로를 찾았다는 취지로 주장했다. 하지만 공개된 화면에는 침입 지점이나 탈취 계정, 소프트웨어 취약점 등 구체적인 근거가 없다. 키오스크 기기 접근 주장이 토요타 전체 시스템 침해를 뜻하는 것도 아니다. 기기에 저장된 기록을 확보했는지, 원격 제어 권한을 얻었는지, 기기 정보만 확인했는지는 공개된 자료로 알 수 없다.</p>
+<p>
+   <br />
+</p>
+<p>목록에는 몸값이나 지급 기한, 파일 암호화 정황, 업무 차질에 관한 설명도 없다. 따라서 현재 자료만으로는 침해 범위와 고객·직원에 미칠 영향을 가늠하기 어렵다.</p>
+<p>
+   <br />
+</p>
+<p>토요타는 2023년 클라우드 설정 오류로 일부 고객 정보가 외부에서 접근 가능했을 수 있다고 공지했다. 당시 회사는 외부 접근을 차단하고 클라우드 설정을 지속적으로 점검하겠다고 밝혔다. 이 사고는 별개의 사안으로, BYOD의 이번 주장을 뒷받침하지 않는다.&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>기업용 사이버보안 정보 서비스 업체 Breachsense는 BYOD를 랜섬웨어 그룹으로 추적하고 있다. 다만 그룹 활동 기록은 개별 피해 주장의 진위를 확인해 주지 않는다. 토요타 관련 내용도 독립적인 확인이 필요한 상태다.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+		</item>
 		<item>
 			<title>에어버스·탈레스, 프랑스 차세대 군사정찰위성 만든다</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8107</link>
@@ -430,81 +472,6 @@
    <br />
 </p>
 <p>이형석 방사청 방위산업진흥국장은 “인공지능은 미래 국방의 핵심 기술로 우수한 민간 기술을 국방 분야에 신속하게 적용하기 위해서는 연구기관과 기업 간 긴밀한 협력이 중요하다”며 “선도연구기관을 중심으로 중소기업의 기술개발과 사업화를 지원해 국방 AI 기술혁신을 촉진하고 경쟁력 있는 방산 생태계를 조성해 나가겠다”고 밝혔다.</p>]]></description>
-		</item>
-		<item>
-			<title>쉴드 AI, 빌 게이츠 투자한 레이더 기업 에코다인 53억 달러에 인수</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8098</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8098</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Fri, 06 Nov 2026 18:52:15 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2611/20261106184754_af26d333.jpg" alt="레이더가 장착된 대드론 무기체계. 출처=에코다인.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">레이더가 장착된 대드론 무기체계. 출처=에코다인</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 미국 방산기술 기업 쉴드 AI(Shield AI)가 마이크로소프트 창업자 빌 게이츠 측이 초기 투자한 레이더 전문기업 에코다인(Echodyne)을 최대 53억 달러(약 7조1700억 원)에 인수한다. 자율비행 인공지능(AI)과 군용 무인기를 개발해 온 쉴드 AI는 이번 인수로 드론 탐지·추적 레이더 사업에도 진출한다.</p>
-<p>
-   <br />
-</p>
-<p>쉴드 AI는 5일(현지시각) 워싱턴주 커클랜드에 본사를 둔 에코다인과 인수 확정 계약을 체결했다고 발표했다. 거래는 규제 당국의 승인 등을 거쳐 2027년 초 마무리될 예정이다.</p>
-<p>
-   <br />
-</p>
-<p>인수 대금 가운데 48억 달러(약 6조4900억 원)는 거래 종결 때 현금과 쉴드 AI 주식으로 지급하고, 나머지 최대 5억 달러(약 6700억 원)는 에코다인이 합의된 실적 목표를 달성하면 추가로 지급한다.</p>
-<p>
-   <br />
-</p>
-<p>쉴드 AI는 인수 자금 마련을 위해 25억 달러(약 3조3800억 원)를 조달한다. 시리즈 H 투자 10억 달러(약 1조3500억 원), 블랙스톤이 운용하는 펀드의 구조화 지분투자 10억 달러(약 1조3500억 원), JP모건체이스뱅크가 주선하는 차입금 5억 달러(약 6700억 원)로 구성된다.</p>
-<p>
-   <br />
-</p>
-<p>시리즈 H 투자 후 쉴드 AI의 기업가치는 288억 달러(약 38조9900억 원)로 평가됐다. 지난 3월 투자 유치 당시 평가액 127억 달러(약 17조1900억 원)의 두 배를 넘는다.</p>
-<h3>빌 게이츠 측이 초기 투자한 에코다인은 어떤 회사</h3>
-<p>에코다인은 2014년 미국 발명기업 인텔렉추얼 벤처스에서 분사한 레이더 전문기업이다. 설립 초기 1500만 달러(약 200억 원) 규모의 투자 유치에 빌 게이츠 측 투자 조직과 벤처투자사 마드로나 등이 참여했다. 마드로나는 당시 550만 달러(약 74억 원)를 투자했으며, 게이츠 측의 투자액은 공개되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>에코다인이 만드는 것은 하늘을 나는 소형 드론을 찾아내고 이동 경로를 추적하는 레이더다. 자체 개발한 메타물질 기반 전자주사배열(MESA) 기술을 사용한다. 안테나를 기계적으로 회전시키는 대신 전자적으로 전파의 방향을 조절해 목표물을 탐지하는 방식이다. 움직이는 부품이 없는 소형 레이더여서 다양한 무기와 감시 장비에 장착할 수 있다.</p>
-<p>
-   <br />
-</p>
-<p>회사 발표에 따르면 에코다인 레이더는 40개국 이상에서 운용되는 수백 개의 대드론·보안 시스템에 사용되고 있다. 고에너지 레이저와 고출력 마이크로파 무기, 원격무장장치 등에 연결돼 접근하는 드론의 위치를 파악하고 요격을 지원한다. 공항과 경기장에서는 허가받지 않은 드론을 감시하는 데 쓰인다.</p>
-<p>
-   <br />
-</p>
-<p>지난 9월에는 미국의 대드론 대응 조직인 합동기관 태스크포스 401(JIATF 401)로부터 최대 2억5000만 달러(약 3380억 원) 규모의 레이더 공급 계약도 확보했다. 이 금액은 계약 상한액으로, 전액이 확정 발주된 것은 아니다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2611/20261106185029_189c56c3.jpg" alt="자율 전투항공기 X-BAT. 출처=쉴드 AI.jpg" style="width: 720px; height: 540px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">수직이착륙 무인기 X-BAT. 출처=쉴드 AI</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<h3>쉴드 AI는 드론 탐지 레이더 기업을 왜 인수했나</h3>
-<p>쉴드 AI는 자율비행 소프트웨어 '하이브마인드(Hivemind)'와 수직이착륙 무인기 V-BAT를 개발한 기업이다. AI가 조종하는 자율 전투항공기 X-BAT도 개발하고 있다.</p>
-<p>
-   <br />
-</p>
-<p>게리 스틸 쉴드 AI 최고경영자(CEO)는 이번 인수의 목적으로 고객의 다양한 임무 수요에 대한 대응, 대드론 방어시장 진출 확대, 매출원 다변화를 제시했다. 자율비행 소프트웨어와 무인기 외에 레이더를 비롯한 임무 장비를 별도의 사업 축으로 키우겠다는 구상이다.</p>
-<p>
-   <br />
-</p>
-<p>민간시장도 새로운 사업 대상이다. 스틸 CEO는 블룸버그 인터뷰에서 슈퍼볼과 국제축구연맹(FIFA) 행사 등을 거론하며 대형 스포츠 행사에도 드론 방어가 필요하다고 설명했다.</p>
-<p>
-   <br />
-</p>
-<p>에코다인은 인수 후에도 기존 레이더를 독립 제품으로 계속 판매한다. 공동 창업자인 에벤 프랑켄버그 CEO가 유임돼 제품 개발과 제조, 고객·협력업체 관계를 맡고 스틸 CEO에게 직접 보고한다.</p>
-<p>
-   <br />
-</p>
-<p>에코다인은 지난 7월 워싱턴주 우딘빌에 4000만 달러(약 540억 원)를 투자한 레이더 공장을 열었다. 이 시설은 연간 약 3만 대의 레이더를 생산할 수 있는 능력을 갖출 예정이다. 쉴드 AI도 같은 워싱턴주에서 X-BAT 생산을 추진하고 있다.</p>
-<p>&nbsp;</p>]]></description>
 		</item>
 	</channel>
 </rss>
