@@ -4,7 +4,7 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Tue, 10 Nov 2026 17:05:10 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 17:06:34 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>기업 AI 주권, 어디서부터 채워야 할까: 9가지 유형별 실행 가이드</title>
@@ -258,298 +258,34 @@
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
-			<title>타이어 구매 AI 에이전트: 탐색부터 구매까지 대화형으로 통합 지원</title>
-			<link>https://www.makinarocks.ai/use-case/%ed%83%80%ec%9d%b4%ec%96%b4-%ea%b5%ac%eb%a7%a4-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%83%90%ec%83%89%eb%b6%80%ed%84%b0-%ea%b5%ac%eb%a7%a4%ea%b9%8c%ec%a7%80-%eb%8c%80%ed%99%94%ed%98%95%ec%9c%bc/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ed%83%80%ec%9d%b4%ec%96%b4-%ea%b5%ac%eb%a7%a4-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%83%90%ec%83%89%eb%b6%80%ed%84%b0-%ea%b5%ac%eb%a7%a4%ea%b9%8c%ec%a7%80-%eb%8c%80%ed%99%94%ed%98%95%ec%9c%bc/</guid>
-			<category>Use Case</category>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>산업용 로봇 이상탐지: 5일 전 고장 예측, 1500+대 로봇 적용</title>
-			<link>https://www.makinarocks.ai/use-case/industrial-robot-anomaly-detection-automotive-factory/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/industrial-robot-anomaly-detection-automotive-factory/</guid>
-			<category>Use Case</category>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>P&amp;ID 도면 I/O 리스트 자동 추출 시스템: 설계 리소스 90% 이상 절감</title>
-			<link>https://www.makinarocks.ai/use-case/pid-%eb%8f%84%eb%a9%b4-io-%eb%a6%ac%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99-%ec%b6%94%ec%b6%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/pid-%eb%8f%84%eb%a9%b4-io-%eb%a6%ac%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99-%ec%b6%94%ec%b6%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c/</guid>
-			<category>Use Case</category>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>반도체 공정 품질 예측을 위한 AI 플랫폼: 공정 최적화 기반 확보</title>
-			<link>https://www.makinarocks.ai/use-case/%eb%b0%98%eb%8f%84%ec%b2%b4-%ea%b3%b5%ec%a0%95-%ed%92%88%ec%a7%88-%ec%98%88%ec%b8%a1-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%eb%b0%98%eb%8f%84%ec%b2%b4-%ea%b3%b5%ec%a0%95-%ed%92%88%ec%a7%88-%ec%98%88%ec%b8%a1-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc/</guid>
-			<category>Use Case</category>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>제조AI24 지능형 검색 플랫폼: 정부 지원사업 정보 접근성 개선</title>
-			<link>https://www.makinarocks.ai/use-case/%ec%a0%9c%ec%a1%b0ai24-%ec%a7%80%eb%8a%a5%ed%98%95-%ea%b2%80%ec%83%89-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%a0%95%eb%b6%80-%ec%a7%80%ec%9b%90%ec%82%ac%ec%97%85-%ec%a0%95%eb%b3%b4-%ec%a0%91%ea%b7%bc/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ec%a0%9c%ec%a1%b0ai24-%ec%a7%80%eb%8a%a5%ed%98%95-%ea%b2%80%ec%83%89-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%a0%95%eb%b6%80-%ec%a7%80%ec%9b%90%ec%82%ac%ec%97%85-%ec%a0%95%eb%b3%b4-%ec%a0%91%ea%b7%bc/</guid>
-			<category>Use Case</category>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
 			<title>AI는 이제 현장에서 동작하고 있습니다 | ATTENTION 2026 인사이트 리포트</title>
 			<link>https://www.makinarocks.ai/blog/attention2026-report/</link>
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/attention2026-report/</guid>
 			<category>Blog</category>
 			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>[기업 AI 주권 테스트] 우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까</title>
-			<link>https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/</link>
-			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/</guid>
-			<category>Blog</category>
-			<pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/%EA%B8%B0%EC%97%85AI%EC%A3%BC%EA%B6%8C%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/ATTENTION-Report_cover.png"/>
 
 </div>
 </div> <div>
-
-<p>요즘 업무에 AI를 활용하지 않는 회사가 있을까요? 보고서 초안을 잡고, 회의록을 정리하고, 메일 문장을 다듬는 일까지 ChatGPT나 Claude 같은 도구가 거듭니다. 직원 한 명 한 명의 일하는 속도는 분명 빨라졌습니다.</p>
-
-<p>그런데 질문을 조금 바꿔 보겠습니다. 팀에서 AI를 가장 잘 쓰던 담당자가 퇴사하면, 그가 쌓아 온 노하우는 어디에 남을까요? 쓰던 AI 서비스가 가격을 올리거나 정책을 바꾸면, 우리 회사는 어떤 결과물들을 갖고 다른 서비스로 옮길 수 있을까요? 이 질문들에 대한 답이 곧 우리 회사의 기업 AI 주권 수준입니다.</p>
-
-<h2>AI를 많이 쓰는 것과, AI가 회사에 남는 것은 다른 이야기입니다.</h2>
-
-<p>‘AI를 많이 쓴다’는 것은 직원 각자가 범용 AI 도구를 업무에 적극적으로 활용하는 상태를 말합니다. 생산성은 올라가지만, <strong>그 과정에서 오간 질문과 수정, 판단은 개인 계정과 외부 서비스 안에 흩어집니다.</strong></p>
-
-<p>‘AI가 회사에 남는다’는 것은 단순히 결과물을 저장해 두는 것을 의미하지 않습니다. <strong>그 결과를 만든 데이터, 업무 규칙과 판단 기준, 일이 처리되는 흐름, 사람이 고치고 덧붙인 노하우까지 회사 시스템에 쌓이는 것</strong>을 의미합니다. 다른 직원도, 다음에 도입할 AI도, 다른 연동 시스템이 들어오더라도 지금의 AI를 계속 쓸 수 있어야 비로소 AI가 회사의 자산이 되는 것이죠. 기업은 AI를 쓰면서 내부의 자산으로 남는 활용 방식을 고민해야 합니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-ai-usage-vs-ai-assets-comparison.png" alt="AI를 많이 쓰는 회사와 AI가 회사에 남는 회사를 남는 것, 노하우 위치, 담당자·서비스 교체 시 차이로 비교한 표. AI가 남는 회사는 쓸수록 강해진다."/><figcaption>AI를 많이 쓰는 회사와 AI가 남는 회사의 차이</figcaption></figure>
-
-<h2>소버린 AI와 기업 AI 주권은 어떻게 다를까?</h2>
-
-<p>최근 국가 단위에서는 소버린 AI(Sovereign AI)가 화두입니다. 핵심 기술과 데이터를 남에게 기대지 않고 스스로 통제할 수 있어야 한다는 국가적 논의입니다. <strong>하지만 국가가 AI를 갖추는 일과 기업이 AI 주권(AI Sovereignty)을 갖는 것은 다른 문제</strong>입니다.</p>
-
-<p>여기서 두 개념을 구분해 볼 필요가 있습니다. 소버린 AI는 국가가 자국의 데이터와 인프라, 인재로 독자적인 AI 모델과 기반을 갖추는 것에 대한 논의입니다. 즉, ‘어떤 국가적 AI 기반을 만들 것인가’에 대한 이야기입니다. <strong>반면, AI 주권은 어떤 AI를 쓰든 그 AI를 누가 소유하고, 선택하고, 통제하는가에 방점이 있습니다. 기업이 AI를 ‘어떻게 쓸 것인가’에 대한 문제인 것이죠.</strong></p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-sovereign-ai-vs-enterprise-ai-sovereignty.png" alt="소버린 AI와 기업 AI 주권을 주체, 핵심 질문, 관심 대상, 확보 방식, 판가름 기준으로 비교한 표. 기업 AI 주권은 기술의 국적이 아니라 권한의 위치로 판단한다."/><figcaption>소버린 AI와 기업 AI 주권의 차이</figcaption></figure>
-
-<p><strong>좋은 국산 AI가 만들어져도 기업 AI 주권(Enterprise AI Sovereignty)이 저절로 확보되지 않습니다</strong>. 국산 모델이라도 업무 규칙과 판단 기준이 특정 서비스에 갇혀 있고, 회사가 접근 권한과 실행 기록을 확인할 수 없다면 기업은 국내 공급사에 종속됩니다. 반대로 해외 기술을 활용하더라도 데이터 접근, 운영 권한, 교체 가능성을 회사가 쥐고 있는 기업은 AI 주권을 실현할 수 있습니다. <strong>기업 AI 주권은 기술의 국적이 아니라, 그 기술을 다루는 권한이 어디에 있는지로 판가름할 수 있습니다.</strong></p>
-
-<p>그렇다면 이 질문을 회사로 가져와 보겠습니다. 여러분의 회사는 주권을 갖고 AI를 쓰고 있나요? 기업 AI 주권은 생각하지 못한 채 AI에 쓰이고 있지는 않나요? 오늘 포스팅에서는 기업 AI 주권에 대한 마키나락스의 정의를 소개하고, 기업이 AI 주권을 가져가고 있는지를 점검해 볼 수 있는 자가 진단 테스트도 소개합니다.</p>
-
-<h2>기업 AI 주권, 모든 걸 직접 갖는다는 뜻일까?</h2>
-
-<p>기업 AI 주권(Enterprise AI Sovereignty)이란 기업이 어떤 AI를 쓰든 그 AI가 만든 지식과 결과를 소유하고, 기술을 선택하고, 사용을 통제할 수 있는 상태를 말합니다. <strong>마키나락스가 정의하는 기업 AI 주권은 모델과 인프라를 전부 직접 만들거나 소유하는 것을 의미하지 않습니다.</strong> 필요한 모델과 기술은 얼마든지 밖에서 가져와 쓸 수 있어야 합니다. 중요한 것은 그 기술을 쓰는 동안 기업이 놓치지 말아야 할 것이 무엇인가입니다. 기업이 지켜야 할 것은 <strong>소유·독립·통제 3개의 권리</strong>이고, 이 셋이 제대로 작동할 때 <strong>축적이라는 1개의 결과</strong>가 나타납니다.</p>
-
-<ul>
-<li><strong>권리 1) 소유(Ownership): 무엇이 우리에게 남는가</strong>
-<ul>
-<li>데이터뿐 아니라 AI를 쓰며 만들어진 업무 지식, 판단 기준, 업무 흐름, 실행 결과가 기업의 자산으로 남아야 합니다.</li>
-</ul>
-</li>
-
-<li><strong>권리 2) 독립(Independence): 무엇을 우리가 선택할 수 있는가</strong>
-<ul>
-<li>특정 모델이나 공급사, 인프라에 묶이지 않고, 업무 목적과 보안 수준에 맞는 기술을 골라 바꿀 수 있어야 합니다.</li>
-</ul>
-</li>
-
-<li><strong>권리 3) 통제(Control): 무엇을 우리가 결정하고 확인할 수 있는가</strong>
-<ul>
-<li>사람과 AI가 어떤 데이터에 접근하고 무엇을 할 수 있는지 기업이 정하고, 영향이 큰 일은 실행 전에 검증하고 승인할 수 있어야 합니다.</li>
-</ul>
-</li>
-
-<li><strong>결과) 축적(Accumulation): 무엇이 반복할수록 강해지는가</strong>
-<ul>
-<li>축적은 위의 세 권리가 모두 확보됐을 때 나타나는 결과입니다. AI를 쓰며 쌓인 판단과 경험이 다시 기업의 지식이 되고, 그 지식이 다음 AI와 업무를 더 낫게 만드는 순환입니다.</li>
-</ul>
-</li>
-</ul>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-enterprise-ai-sovereignty-framework.png" alt="기업 AI 주권의 틀. 소유·독립·통제 3개의 권리가 갖춰지면 사용할수록 강해지는 축적의 순환이 나타난다."/><figcaption>기업 AI 주권을 보는 틀: 3개의 권리와 1개의 결과</figcaption></figure>
-
-<p>마키나락스는 9월 3일 열린 ATTENTION 2026에서 기업 AI 주권에 대한 메시지를 전한 바 있는데요. 마키나락스가 정의하는 기업 AI 주권, 그리고 이 기업 AI 주권을 실현하는 방식이 궁금하다면 <a href="https://youtu.be/wltVhqYtwQ0?si=aiJl0kjWugIYVM0h">윤성호 대표의 키노트</a>를 통해서도 만나보실 수 있습니다.</p>
-
-<h2>기업 AI 주권 10문항 테스트</h2>
-
-<p>앞서 말한 ‘AI가 회사에 남는 상태’는 바로 AI에 대한 소유·독립·통제의 권리를 갖고, AI가 만든 성과를 축적해갈 수 있는 체계가 갖춰진 상태를 의미합니다. 그렇다면 여러분의 회사는 지금 어디까지 와 있나요? 아래의 테스트를 통해 ‘예’ 또는 ‘아니오’로 답해 보세요. 질문 아래에는 현장에서 실제로 자주 듣는 답을 함께 적었습니다. <strong>현장에서 자주 듣는 답이 내가 할 수 있는 답과 비슷하다면, 그 문항은 ‘아니오’에 가깝습니다.</strong></p>
-
-<div>
-<div>AI Sovereignty Test
-<h3>우리 회사의 AI 주권은<br/><em>몇 점</em>일까요?</h3>
-<p>10개의 질문에 ‘예’ 또는 ‘아니오’로 답해 보세요. AI를 쓰는 동안 만들어진 것들이 우리 회사에 남고 있는지 확인할 수 있습니다.</p>
-<div>10 Questions약 2분</div>
-<div>OwnershipIndependenceControlAccumulation</div>
-<button>테스트 시작하기</button></div>
-<div>
-<div><b>Q01</b> / 10 Ownership · 소유</div>
-
-<p>직원들이 AI로 업무를 하며 쌓은 노하우(질문, 답, 수정 내용)가 회사 시스템에 남고, 다른 직원도 업무에 활용할 수 있습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“그건 각자 알아서 쓰는 거라… 회사 차원에서는 따로 안 남기고 있습니다.”</p>
-<p>AI를 쓰며 만들어진 업무 노하우가 개인 계정과 외부 서비스에 흩어져 있습니다. 담당자가 바뀌면 함께 사라집니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q02</b> / 10 Ownership · 소유</div>
-
-<p>회사 데이터가 외부 AI 서비스의 모델 학습에 쓰이지 않도록 하는 설정이, 모든 계정에서 꺼져 있는지 확인했습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“그거는… IT팀에서 계약할 때 다 확인했을 겁니다.”</p>
-<p>학습 활용 설정은 기본값이 켜져 있는 경우가 많습니다. 확인하는 사람이 없으면 데이터 보호는 계정별 설정과 약관에 맡겨집니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q03</b> / 10 Ownership · 소유</div>
-
-<p>지금 쓰는 AI 서비스 계약을 해지해도, 그동안 만들어 온 업무 규칙과 판단 기준은 회사 시스템에 그대로 남습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“결과물은 다 저장해뒀죠. 보고서도 있고요.”</p>
-<p>결과물은 남습니다. 하지만 그것을 만든 업무 규칙과 판단 기준은 특정 서비스의 프롬프트와 설정 안에 있어, 해지하는 날 함께 사라집니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q04</b> / 10 Independence · 독립</div>
-
-<p>지금 쓰는 AI 모델을 다른 모델로 바꿀 때, 데이터 연동·권한·업무 흐름은 그대로 두고 모델만 교체하고 검증하면 됩니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“API만 바꾸면 되는 거 아니에요? 그렇게 어렵진 않을 것 같은데요.”</p>
-<p>모델 하나를 바꾸려면 프롬프트·연동·권한·업무 흐름을 다시 만들어야 하는 경우가 많습니다. 더 나은 모델이 나와도 실제로는 갈아타기 어렵습니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q05</b> / 10 Independence · 독립</div>
-
-<p>생산 이미지나 설계 도면처럼 외부로 나갈 수 없는 데이터를 다루는 업무에도, 공장 내부 환경에서 필요한 AI를 운영할 수 있습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“거긴 아직입니다. 보안 때문에 손을 못 대고 있어요.”</p>
-<p>외부로 나갈 수 없는 핵심 데이터일수록 AI 활용에서 빠집니다. 가장 가치 있는 업무에 AI가 닿지 못하는 것입니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q06</b> / 10 Independence · 독립</div>
-
-<p>쓰던 AI 공급사가 가격을 두 배로 올리거나 서비스를 중단해도, 하던 AI 업무를 다른 상용 모델이나 자체·오픈소스 모델로 옮겨 계속할 수 있습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“그럼… 그냥 더 내야죠, 어쩌겠습니까.”</p>
-<p>대안이 없으니 공급사의 가격과 정책이 바뀔 때마다 그대로 따라갈 수밖에 없습니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q07</b> / 10 Control · 통제</div>
-
-<p>인사 평가나 원가 정보를 AI에게 물었을 때, 권한이 없는 직원에게는 답하지 않도록 되어 있습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“원래 권한 체계가 있으니까 당연히 그렇게 되어 있겠죠.”</p>
-<p>문서를 AI에 통째로 연결하면 권한 구분 없이 민감한 정보가 조회될 수 있습니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q08</b> / 10 Control · 통제</div>
-
-<p>어제 AI가 내린 품질 판정 하나를 골라, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 지금 바로 확인할 수 있습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“담당자한테 물어보면 알 수 있을 겁니다.”</p>
-<p>판단 근거가 기록되지 않거나 시스템마다 흩어져 있습니다. 문제가 생겨도 원인을 따라가기 어렵습니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q09</b> / 10 Control · 통제</div>
-
-<p>생산 계획 변경 같은 현장 업무를 AI에게 맡길 때, 실행 전에 영향을 검증하고 중요한 결정은 사람의 승인을 받습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“그런 건 아직 AI한테 안 맡깁니다. 추천까지만 받죠.”</p>
-<p>AI의 판단을 현장에 적용해도 안전한지 확인할 방법이 없습니다. 그래서 AI 활용이 조회와 추천에 머물러 있습니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>
-<div><b>Q10</b> / 10 Accumulation · 축적</div>
-
-<p>1년 전보다 회사의 AI가 나아졌다면, 그게 공급사의 모델이 좋아져서가 아니라 우리 데이터와 경험이 쌓인 덕분이라고 말할 수 있습니까?</p>
-<details>
-<summary>현장에서 흔히 듣는 답</summary>
-<p>“확실히 좋아지긴 했죠. 모델이 좋아져서 그런 거 아닐까요?”</p>
-<p>성능이 좋아진 이유의 대부분이 공급사의 모델 업데이트입니다. 같은 모델을 쓰는 경쟁사도 똑같이 좋아졌고, 우리 회사만의 경험은 쌓이지 않고 있는 것입니다.</p>
-</details>
-<div><button>예</button> <button>아니오</button></div>
-<button>이전</button></div>
-<div>Your Result
-<div><b>0</b>/ 10</div>
-
-<div>
-<div>
-<p>소유</p>
-<p>0 / 0</p>
-
-</div>
-<div>
-<p>독립</p>
-<p>0 / 0</p>
-
-</div>
-<div>
-<p>통제</p>
-<p>0 / 0</p>
-
-</div>
-<div>
-<p>축적</p>
-<p>0 / 0</p>
-
-</div>
-</div>
-
-<div>
-<p>‘아니오’가 나온 질문, 어떻게 ‘예’로 바꿀 수 있을까요? 다음 편에서 10개의 ‘아니오’를 하나의 구조로 풀어 봅니다.</p>
-<div><a href="#">2편에서 해법 보기</a> <button>결과 복사하기</button> <button>다시 하기</button></div>
-
-</div>
-</div>
-</div>
-
-<h2>‘예’는 몇 개였나요?</h2>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-enterprise-ai-sovereignty-test-result-scaled.png" alt="기업 AI 주권 테스트 결과표. ‘예’ 0~3개는 주권 취약, 4~6개는 부분 확보, 7~10개는 주권 확보 수준 높음 단계와 단계별 우선 과제."/><figcaption>‘예’ 개수로 보는 우리 회사의 AI 주권 단계</figcaption></figure>
-
-<p>점수도 중요하지만 <strong>‘아니오’가 몰린 영역도 눈여겨봐 주세요.</strong> 같은 5개라도 통제 영역이 비어 있다면 보안과 책임의 문제가, 독립 영역이 비어 있다면 비용과 종속의 문제가 먼저 찾아옵니다.</p>
-
-<h2>AI와 함께 강해지는 회사의 조건</h2>
-
-<p>10문항이 묻는 것은 결국 하나입니다. 데이터, 프로세스, 결과물 등 <strong>AI를 쓰는 동안 만들어진 성과가 어디에 남고 있느냐</strong>는 것이죠. 도구는 앞으로도 계속 바뀝니다. 더 좋은 모델이 나오고, 가격과 정책도 달라집니다. 그때마다 처음부터 다시 시작하는 회사와, 쌓아 둔 지식과 기준 위에 새 도구만 올리는 회사의 차이는 시간이 갈수록 벌어집니다.</p>
-
-<p>예를 들어 1년 뒤, 두 회사가 같은 날 더 나은 모델로 바꾼다고 해 보겠습니다. 한 회사는 프롬프트와 연동, 권한을 처음부터 다시 만들고, 직원들이 쌓은 노하우는 이전 서비스의 대화 기록에 남겨 둔 채 떠납니다. 다른 회사는 쌓아 둔 업무 지식과 판단 기준, 권한 체계는 그대로 두고 모델만 바꿔 검증합니다. <strong>첫 번째 회사에게 새 모델은 ‘다시 시작’이고, 두 번째 회사에게는 ‘한 단계 더’입니다.</strong></p>
-
-<p>테스트 결과는 혼자 보기보다 함께 볼 때 더 많은 것이 보입니다. ‘아니오’가 가장 많이 나온 영역을 IT·보안·현업 담당자와 함께 다시 체크해 보세요. 같은 질문에도 부서마다 답이 다르게 나올 수 있고, 그 차이가 바로 우리 회사의 AI 주권이 비어 있는 지점입니다. <strong>이제는 얼마나 많이 활용할지를 고민하는 것이 아니라, 기업 스스로 AI 주권을 인지하며 활용할수록 강해지는 구조를 갖추어야 할 때입니다.</strong></p>
-
-<p>‘아니오’가 나온 영역을 어떻게 ‘예’로 바꿀 수 있는지는 2편 <a href="https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-9%ea%b0%80%ec%a7%80-%ec%9c%a0%ed%98%95%eb%b3%84-%ec%8b%a4%ed%96%89-%ea%b0%80%ec%9d%b4%eb%93%9c/"><strong>[기업 AI 주권, 어디서부터 채워야 할까: 9가지 유형별 실행 가이드]</strong></a>에서 이어집니다. 테스트 결과로 우리 회사의 유형을 확인하고, 업무 지식을 특정 모델 밖에 남기는 방법(소유), 모델과 인프라를 바꿔도 업무가 멈추지 않게 하는 방법(독립), AI의 행동을 정하고 기록하는 방법(통제), 그리고 현장의 판단이 다시 기업의 지식이 되는 순환(축적)까지 축별 실행 방법을 정리했습니다.</p>
-
-<div>
-<p>자주 묻는 질문</p>
-<p>Q. 기업 AI 주권이란 무엇인가요?</p>
-<p>A. 기업 AI 주권(Enterprise AI Sovereignty)은 기업이 어떤 AI를 쓰든 그 AI가 만든 지식과 결과를 소유하고, 기술을 선택하고, 사용을 통제할 수 있는 상태를 말합니다. 모델과 인프라를 모두 직접 만들거나 소유해야 한다는 뜻은 아니며, 소유·독립·통제 3개의 권리가 갖춰질 때 AI를 쓸수록 회사에 지식이 쌓이는 ‘축적’이 나타납니다.</p>
-<p>Q. 소버린 AI와 AI 주권은 어떻게 다른가요?</p>
-<p>A. 소버린 AI(Sovereign AI)는 국가가 자국의 데이터·인프라·인재로 독자적인 AI 모델과 기반을 갖추는 것에 대한 논의입니다. AI 주권은 어떤 AI를 쓰든 그 AI를 누가 소유·선택·통제하는가의 문제로, 기업 단위에서는 기술의 국적이 아니라 그 기술을 다루는 권한이 어디에 있는지로 판가름합니다.</p>
-<p>Q. 우리 회사의 AI 주권 수준은 어떻게 진단하나요?</p>
-<p>A. 소유·독립·통제·축적 4개 영역의 10개 질문에 ‘예’ 또는 ‘아니오’로 답해 보면 됩니다. ‘예’가 0~3개면 주권 취약, 4~6개면 부분 확보, 7~10개면 주권 확보 수준이 높은 단계이며, 점수와 함께 ‘아니오’가 몰린 영역을 확인하는 것이 중요합니다.</p>
-</div>
+<p>AI Has Landed. ATTENTION 2026의 주제였습니다.</p>
+<p>AI는 이제 실제 현장에서 성과를 만들어 내고 있습니다. 기업이 오랜 시간 쌓아 온 데이터와 경험이 AI를 통해 활용되고 있으며, 제조부터 국방까지 다양한 분야에서 적용 사례가 늘어나고 있습니다.</p>
+<p>AI는 각 산업 현장에서 어떻게 동작하고 있을까요? 기업이 AI를 안정적으로 운영하고 실질적인 성과를 얻기 위해서는 어떤 기술과 전략이 필요할까요?</p>
+<p>ATTENTION 2026 인사이트 리포트에는 이러한 질문에 대한 다양한 기업의 경험과 사례를 담았습니다. 그랜드 키노트 5개와 세션 13개의 핵심 내용을 정리해 AI가 실제 현장에서 어떻게 활용되고 있는지, 기업들은 어떤 기술과 전략으로 문제를 해결하고 있는지 살펴볼 수 있습니다.</p>
+<h2>ATTENTION 2026 인사이트 리포트 미리보기</h2>
+<p><strong>KEYNOTE | AI가 현장을 바꾸는 방식</strong></p>
+<p>마키나락스, KAIST·다임리서치, 한국앤컴퍼니그룹, HD현대, 디바이스 인사이트가 그랜드 키노트 연사로 참여했습니다. 기업 AI 주권, 자율형 공장, AI 중심의 업무 재설계, 조선소의 AX, 에이전틱 AI 기반 풍력발전 설비 정비 등 다양한 주제를 통해 AI가 현장을 어떻게 변화시키고 있는지 살펴봅니다.</p>
+<p><strong>AI OS | 도입한 AI를 꾸준히 운영하기 위한 조건</strong></p>
+<p>마키나락스, 서플러스글로벌, 예스24가 공공·반도체·금융·커머스 분야의 실제 사례를 바탕으로 AI 개발·배포·운영에 필요한 기술과 전략을 공유합니다.</p>
+<p><strong>Industrial AI | 반도체·설계·에너지 현장의 적용 사례</strong></p>
+<p>삼성전자, 마키나락스, 덴소코리아가 참여해 반도체 제조 설비 관리, 도면 AI, 에너지 최적화, 신뢰성 시험 자동화 등 제조 현장에서 AI를 적용한 사례와 성과를 소개합니다.</p>
+<p><strong>Defense AI | AI가 전장에서 작동하기 위해 달라져야 할 것들</strong></p>
+<p>KAIST, 마키나락스, LG AI연구원, 삼성SDS, 트웰브랩스가 국방 AI 기술의 발전 방향과 전장 환경에 적합한 AI 운영 체계, 산업 AI 기술의 국방 적용, 신속획득 및 영상이해 AI 활용 전략을 다룹니다.</p>
+<h2>우리 현장에 필요한 AI의 다음 단계는?</h2>
+<p>AI를 적용하는 환경과 해결해야 할 과제는 기업마다 다릅니다. 정답이 하나일 수는 없지만, 그렇다고 매번 백지에서 시작할 필요도 없죠. 다른 현장에서 먼저 시도한 방법과 경험은 우리 회사에 지침서가 될 수 있습니다.</p>
+<p>ATTENTION 2026 인사이트 리포트에는 다양한 기업이 현장에서 마주한 과제와 이를 해결하기 위해 선택한 방법, 그 과정에서 얻은 성과와 인사이트를 담았습니다. 우리가 나눈 이야기들이 각자의 현장에서 AI의 활용 가능성을 검토하고, 다음 단계를 구체화하는 데 도움이 되기를 바랍니다.</p>
+<p><a href="https://makinarocks.my.site.com/lp/landing-page/attention-2026-insight-report-MC2YWDELHOBFHRPO6AUG4LLZHJKQ?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=20261105-attention-report"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EB%B0%B0%EB%84%88-A-%C2%B7-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BC.png"/></a></p>
 
 </div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
@@ -567,6 +303,82 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-1/</guid>
 			<category>Blog</category>
 			<pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>AI가 산업 현장에 착륙한 순간, ATTENTION 2026</title>
+			<link>https://www.makinarocks.ai/blog/ai%ea%b0%80-%ec%82%b0%ec%97%85-%ed%98%84%ec%9e%a5%ec%97%90-%ec%b0%a9%eb%a5%99%ed%95%9c-%ec%88%9c%ea%b0%84-attention-2026/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/ai%ea%b0%80-%ec%82%b0%ec%97%85-%ed%98%84%ec%9e%a5%ec%97%90-%ec%b0%a9%eb%a5%99%ed%95%9c-%ec%88%9c%ea%b0%84-attention-2026/</guid>
+			<category>Blog</category>
+			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>대한민국 최초로 전장망에서 AI가 실제로 작동하게 만드는 일 — KJCCS 현장에서 FDE로 일한다는 것</title>
+			<link>https://www.makinarocks.ai/blog/kjccs-%ec%a0%84%ec%9e%a5%eb%a7%9d-ai/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/kjccs-%ec%a0%84%ec%9e%a5%eb%a7%9d-ai/</guid>
+			<category>Blog</category>
+			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>비개발자의 AI 앱 배포 후기: 코딩 어시스턴트와 마키나락스 Runway</title>
+			<link>https://www.makinarocks.ai/blog/runway-code-assistant-ai-app-deployment/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/runway-code-assistant-ai-app-deployment/</guid>
+			<category>Blog</category>
+			<pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>정상 데이터만으로 로봇 고장을 예측하는 AI 개발기</title>
+			<link>https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</guid>
+			<category>Blog</category>
+			<pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
+		</item>
+		<item>
+			<title>전기차 배터리 공정 SDF: Agentic AI 기반 자율 제어 구현</title>
+			<link>https://www.makinarocks.ai/use-case/%ec%a0%84%ea%b8%b0%ec%b0%a8-%eb%b0%b0%ed%84%b0%eb%a6%ac-%ea%b3%b5%ec%a0%95-sdf-agentic-ai-%ec%9e%90%ec%9c%a8-%ec%a0%9c%ec%96%b4-%ea%b5%ac%ed%98%84/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/%ec%a0%84%ea%b8%b0%ec%b0%a8-%eb%b0%b0%ed%84%b0%eb%a6%ac-%ea%b3%b5%ec%a0%95-sdf-agentic-ai-%ec%9e%90%ec%9c%a8-%ec%a0%9c%ec%96%b4-%ea%b5%ac%ed%98%84/</guid>
+			<category>Use Case</category>
+			<pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+<div>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/08/%EC%A0%84%EA%B8%B0%EC%B0%A8-%EB%B0%B0%ED%84%B0%EB%A6%AC-%EA%B3%B5%EC%A0%95-SDF-5.png"/>
+
+</div>
+</div> <div>
+<h2>하드웨어 중심 생산 라인의 소프트웨어 제어 한계</h2>
+<p>하드웨어 중심으로 운영되던 생산 라인을 소프트웨어로 유연하게 제어하려면, 현장의 실시간 데이터와 LLM을 유기적으로 연계해 공정 곳곳에서 판단과 제어를 수행할 수 있는 특화된 AI 에이전트가 필요했습니다. 외부 네트워크 연결 없이도 AI 에이전트와 LLM이 현장 서버 내에서 완전히 독립적으로 구동될 수 있는 환경을 구성해야 하는 제약이 있었고, PLC·MES·로컬 PC 등 여러 데이터 소스를 연결하는 것부터 실제 라인 테스트까지 검증해야 할 범위도 넓었습니다.</p>
+
+<h2>SDF 환경의 생성형 AI 에이전트와 PLC 자율 제어</h2>
+<p>공정의 요구사항에 따라 다양한 에이전트를 설계하고, AI Report를 통해 그래프 생성·상관성 분석·통계 분석 등 생성형 AI 기반 데이터 시각화 기능을 구현했습니다. 비전 검사 가성 불량 발생 시 설비 재가동을 제어하거나 가압 지그의 최적 토크값을 자동으로 변경하는 등 생성형 AI 기반 설비 파라미터 변경 기술을 검증했으며, 실시간 C/T 측정과 자연어 기반 PLC 데이터 처리를 백엔드 아키텍처와 연계해 제어 타이밍을 조절하도록 구성했습니다.</p>
+
+<h2>품질 일관성 확보와 조업 공수 절감</h2>
+<p>생산 공정의 실시간 데이터를 수집·분석해 PLC를 자율 제어하면서, 파편화되어 있던 기존 AI 모델과 공장 내부 시스템을 하나의 데이터 흐름으로 연결했습니다. 공정 상황을 실시간으로 모니터링·대응해 생산 공정 시간을 단축하고 설비 가동 효율을 안정적으로 유지했으며, 관리 기준 내에서 실시간 제어값을 선제적으로 조정해 외부 환경 변화에도 균일한 품질을 확보했습니다. AI 에이전트가 공정 맥락 데이터로 개별 라인 모델 결과를 재검증해 가성 불량을 걸러내며 품질 예측 정확도를 높였고, 조업 담당자의 반복적인 제어값 수정 부담을 줄여 고부가가치 업무에 집중할 수 있는 환경을 마련했습니다.</p>
+
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>AI 트러블슈팅 에이전트: 에러 원인부터 조치까지 한 번에</title>
+			<link>https://www.makinarocks.ai/use-case/ai-%ed%8a%b8%eb%9f%ac%eb%b8%94%ec%8a%88%ed%8c%85-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8/</link>
+			<guid isPermaLink="true">https://www.makinarocks.ai/use-case/ai-%ed%8a%b8%eb%9f%ac%eb%b8%94%ec%8a%88%ed%8c%85-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8/</guid>
+			<category>Use Case</category>
+			<pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+<div>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/08/AI-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-1.png"/>
+
+</div>
+</div> <div>
+<h2>엔지니어 숙련도 편차와 흩어진 트러블슈팅 지식</h2>
+<p>협동로봇과 반도체 장비 현장에서는 엔지니어마다 숙련도가 달라 문제 해결 속도와 품질에 편차가 발생했습니다. 트러블슈팅에 필요한 지식은 여기저기 흩어져 있어 매번 수작업으로 자료를 찾아야 했고, 기존에 발생한 적 없는 새로운 에러에는 대응할 기준조차 없어 대처가 더욱 어려웠습니다.</p>
+
+<h2>의미 기반 검색과 맞춤 응답 생성 에이전트</h2>
+<p>사용자의 질문이나 입력 문서의 의미와 맥락을 반영해 고차원 벡터화하는 사용자 의도 분석 단계를 구축했습니다. 이 벡터를 DB에 전달해 에러코드 기반 조치 이력과 트러블슈팅 가이드를 유사도 기반으로 탐색하고, 탐색된 유사 문서를 바탕으로 텍스트를 요약해 멀티턴 대화 형태의 맞춤형 응답을 자동으로 생성하도록 설계했습니다.</p>
+
+<h2>흐름형 응답으로 확인한 발전 가능성</h2>
+<p>반복성이 높고 구조화가 가능한 에러 코드 중심의 질의응답에 적용해, 단순 검색형 응답을 넘어 ‘에러 발생 → 원인 후보 → 점검·조치 순서 제안’으로 이어지는 흐름형 응답을 지원했습니다. 이를 통해 일관된 의사결정을 제공해 Human Error 발생률을 낮추고, 문서 처리와 고객 지원을 포함한 프로세스 전반의 품질과 일관성을 향상시킬 수 있는 가능성을 확인했습니다.</p>
+
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
