@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 10 Nov 2026 12:30:38 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 13:30:34 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>네오와이즈, &apos;네오트윈&apos; CES서 혁신상…드론·로봇 영상으로 건설 현장 3D 재현</title>
+			<link>https://www.etnews.com/20261109000081</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261109000081</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 13:00:00 +0900</pubDate>
+			<description><![CDATA[피지컬 인공지능(AI) 스타트업 네오와이즈(대표 신동혁)는 드론·로봇 영상으로 건설 현장을 3차원(3D)으로 재현하는 '네오트윈(NeoTwin)'으로 CES 2027 혁신상 건설·산업 기술 부문에서 수상했다고 10일 밝혔다. CES 혁신상은 미국소비자기술협회(CTA)가 기술 혁신성과 설계 완성도 등을 심사해 수여한다. 네오트윈은 드론·로봇이나 휴대 장비로 찍은 영상으로 15초 안에 초기 3D 모델을 만들어 촬영에서 빠진 구역을 찾아낸다. 해당...]]></description>
+		</item>
+		<item>
+			<title>유라클, AI 인프라 비용 줄고 개발 생산성 높이는 &apos;AURDA&apos;·&apos;아테나 코드 어시스턴트&apos; 사업 확대</title>
+			<link>https://www.etnews.com/20261110000036</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000036</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 12:54:36 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 시장의 경쟁 구도가 AI 모델 개발과 그래픽처리장치(GPU) 확보 등 인프라 투자 경쟁에서 AI 인프라를 얼마나 효율적으로 활용하고 실제 업무 성과로 연결하느냐가 중요한 경쟁력으로 떠오르면서 AI 기술 자체보다 투자 대비 효과(ROI)를 입증할 수 있는 솔루션이 주목받고 있다. AI 플랫폼 전문기업 유라클(대표 조준희·권태일)은 이러한 변화에 발맞춰 AI 인프라 자원관리 플랫폼 'AURDA'와 AI 기반 개발 생산성 향상 솔루션...]]></description>
+		</item>
 		<item>
 			<title>[AIx소프트웨이브 2026] 심버스랩스, 양자내성 블록체인 &apos;심버스 스택 3.0&apos; 공개…AI 시대 디지털 신뢰 인프라 제시</title>
 			<link>https://www.etnews.com/20261110000201</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 10 Nov 2026 10:13:04 +0900</pubDate>
 			<description><![CDATA[에누마 학교용 학습 서비스 '토도 클래스룸'을 도입한 학교와 교육청이 누적 3000개를 넘어섰다. 토도 클래스룸은 세계 누적 1500만 다운로드를 기록한 에누마 '토도 시리즈'를 학교와 기관에서 활용할 수 있게 2023년 출시한 교실용 서비스다. 교사는 학급관리 페이지를 통해 토도한글, 토도수학, 토도영어를 학급 운영 계획과 학생 개개인의 학습 상태에 맞춰 활용할 수 있다. 학생별 진도와 일일·주간 리포트, 평가 결과도 한눈에 확인 가능하다....]]></description>
-		</item>
-		<item>
-			<title>AI스페라 &apos;크리미널 IP&apos;, 유럽 AI 보안 학술 워크숍서 소개</title>
-			<link>https://www.etnews.com/20261110000123</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000123</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 10:11:18 +0900</pubDate>
-			<description><![CDATA[AI스페라는 최근 이탈리아 로마에서 열린 '에소릭스(ESORICS) 2026'의 인공지능(AI) 보안 전문 워크숍 '레이즈(RAISE)'에서 크리미널 IP를 소개됐다고 10일 밝혔다. 에소릭스는 컴퓨터 보안 분야의 최신 연구 성과와 기술 동향을 공유하는 국제 학술행사다. 올해 행사에는 유럽과 아시아 지역 보안 연구자 50여명이 참여했다. 레이즈 워크숍에서는 AI 기반 보안 시스템의 공격·우회 가능성과 AI 에이전트를 활용한 보안 자동화 등 주요...]]></description>
-		</item>
-		<item>
-			<title>와치텍, 공공솔루션마켓서 AI 통합관제·예방점검 기반 IT 운영 전략 제시</title>
-			<link>https://www.etnews.com/20261110000100</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000100</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 09:59:13 +0900</pubDate>
-			<description><![CDATA[정보기술(IT) 통합운영관리 전문기업 와치텍이 인공지능(AI) 기반 통합관제와 선제적 예방점검을 결합한 공공 IT 운영관리 전략을 선보인다. 와치텍은 오는 19일 서울 코엑스 그랜드볼룸에서 열리는 '제28회 공공솔루션마켓'에 참가해 통합 모니터링 데이터의 AI 분석부터 장애 대응, 예방점검까지 연계하는 지능형 IT 운영체계를 소개한다고 밝혔다. 이번 행사는 'NEXT PUBLIC INNOVATION:AI로 완성하는 국가 대전환'을 주제로 공공기...]]></description>
 		</item>
 	</channel>
 </rss>
