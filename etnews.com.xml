@@ -4,8 +4,80 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 10 Nov 2026 18:31:36 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 19:30:31 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>개보위, 앤트로픽 &apos;클로드&apos; 개인정보 유출 사고 조사 착수</title>
+			<link>https://www.etnews.com/20261110000476</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000476</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:51:12 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 미국 앤트로픽의 생성형 인공지능(AI) 서비스 '클로드' 이용 국내 기업의 계정 정보 유출 사고와 관련해 정식 조사에 착수했다. 개인정보위는 10일 앤트로픽의 개인정보 유출 신고와 관련해 사전 검토를 마치고 조사에 착수했다고 밝혔다. 앞서 앤트로픽은 지난달 31일 국내 기업용 계정 100여개의 정보가 외부로 유출됐다는 사실을 개인정보위에 신고했다. 이번 사고는 외부 보안업체가 앤트로픽 내부 시스템에 무단 접근하면서 발생한 것...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 표앤컴퍼니, AI 기반 V-CFO 서비스 &apos;가이파스&apos; 공개</title>
+			<link>https://www.etnews.com/20261110000475</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000475</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:38:18 +0900</pubDate>
+			<description><![CDATA[표앤컴퍼니(대표 표춘미)가 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 개최되는 'AI x 소프트웨이브 2026'에 참가해 생성형 AI 기반 가상 최고재무책임자(V-CFO) 서비스 'GAIFAS(가이파스)'를 선보인다. 가이파스는 지난 10월 출시된 중소기업 대상 재무 의사결정 지원 서비스로, 별도의 ERP 구축 없이 기업이 보유한 엑셀 기반 경영자료와 재무제표를 활용해 경영 현황을 분석하는 것이 특징이다. 매출 목표 대비 실적, 수익성...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] AI 활용 확대, 기업 데이터는 안전한가…엑소스피어랩스, 통합 PC 보안 선보여</title>
+			<link>https://www.etnews.com/20261110000473</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000473</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:31:33 +0900</pubDate>
+			<description><![CDATA[B2B SaaS 보안 전문기업 엑소스피어랩스(대표 박상호)가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 '제11회 대한민국 소프트웨어대전(AI×소프트웨이브 2026)'에 참가해 통합 PC 보안 서비스 '엑소스피어(Exosphere)'를 선보인다. 엑소스피어랩스는 이번 전시에서 'AI로 확장되는 업무 환경의 보안을 하나로'를 주제로 엔드포인트 보안부터 데이터 보호, 업무용 애플리케이션 접근제어까지 아우르는 통합 보안 전략을 소개할 예...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 에이아이브, 분산 GPU 기반 AI 클라우드 플랫폼 공개</title>
+			<link>https://www.etnews.com/20261110000470</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000470</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:24:55 +0900</pubDate>
+			<description><![CDATA[분산형 AI 클라우드 기업 에이아이브(AIEEV, 대표 박세진)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '제11회 대한민국 소프트웨어대전(AI×소프트웨이브 2026)'에 참가해 분산 GPU 기반 AI 클라우드 플랫폼 '에어클라우드(Air Cloud)'를 선보인다. 에이아이브는 데이터센터를 비롯해 기업, 연구기관, 엣지 환경 등에 분산된 GPU 자원을 하나의 클라우드 환경으로 연결하는 기술을 개발해 왔다. 기존 데이터센터 중심 인...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 세인티, 모듈형 MES &apos;팩트로&apos; 공개… 제조 현장 디지털 전환 지원</title>
+			<link>https://www.etnews.com/20261110000469</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000469</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:20:07 +0900</pubDate>
+			<description><![CDATA[AI 제조 솔루션 전문기업 세인티(Sainti Inc.)가 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 개최되는 '제11회 대한민국 소프트웨어대전(AI x 소프트웨이브 2026)'에 참가해 제조실행시스템(MES) 'FacTRo(팩트로) MES'를 선보인다. 세인티는 이번 전시에서 실제 제조 현장을 중심으로 설계된 팩트로 MES의 주요 기능과 스마트공장 적용 사례를 소개하고, 제조기업을 대상으로 생산환경에 맞춘 현장 상담을 진행할 예정이다...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 디티나우, ABBYY와 소프트웨이브 2026 공동 참가…AI 기반 문서처리·업무 자동화 기술 공개</title>
+			<link>https://www.etnews.com/20261110000468</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000468</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:13:36 +0900</pubDate>
+			<description><![CDATA[AI 업무 자동화 전문기업 디티나우(DTNOW, 대표 엄세영)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '소프트웨이브 2026'에 글로벌 지능형 문서처리(IDP) 기업 ABBYY와 공동 참가해 AI 기반 문서처리 및 업무 자동화 기술을 선보인다. 디티나우는 이번 전시에서 ABBYY의 AI 기반 지능형 문서처리 솔루션 'ABBYY Vantage'를 중심으로 기업의 다양한 문서를 자동 인식·분류하고, 데이터를 추출·검증해 실제 업무...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 드림시큐리티, 소프트웨이브 2026서 &apos;Magic ICAM&apos; 기반 제로트러스트 전환 전략 제시</title>
+			<link>https://www.etnews.com/20261110000467</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000467</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:08:32 +0900</pubDate>
+			<description><![CDATA[드림시큐리티가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '소프트웨이브 2026'에 참가해 통합 신원인증 및 권한관리 솔루션 'Magic ICAM'을 중심으로 제로트러스트 및 국가망 보안 체계(N2SF) 전환 방안을 선보인다. 'Magic ICAM'은 사용자와 기기, 자원의 신원정보와 자격증명, 접근권한을 통합 관리하는 솔루션이다. 시스템별로 분산된 계정과 자격증명, 누적된 권한으로 인해 발생하는 신원·접근관리의 복잡성을 줄이고, 사...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 구름, 소프트웨이브 2026서 AI 역량 평가 솔루션 &apos;뎁스&apos; 선보여</title>
+			<link>https://www.etnews.com/20261110000466</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261110000466</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 10 Nov 2026 18:04:17 +0900</pubDate>
+			<description><![CDATA[구름(대표 이상규)이 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '제11회 대한민국 소프트웨어대전(AI x 소프트웨이브 2026)'에 참가해 AI 역량 평가 솔루션 '뎁스(Devth)'를 선보인다. 구름은 한국인공지능·소프트웨어산업협회(KOSA) 공동관에서 관람객이 자신의 AI 역량을 직접 확인할 수 있는 체험 부스를 운영할 예정이다. 관람객은 현장 시연을 통해 '뎁스 AISA(아이사)'로 AI와 협업해 문제를 해결하는 AI 활용 역...]]></description>
+		</item>
 		<item>
 			<title>“AI·SW 산업인 잇는 가을 산책길”…KOSA, 걷기 챌린지 성료</title>
 			<link>https://www.etnews.com/20261110000374</link>
@@ -23,77 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 10 Nov 2026 17:04:52 +0900</pubDate>
 			<description><![CDATA[퀀타리움이 서울 용산구 치매안심센터와 손잡고 치매 어르신 실종 예방과 아동 안전, 스토킹·데이트폭력 대응 기능을 갖춘 스마트 안심케어 애플리케이션(앱) '니어유(NearU)' 보급에 나선다고 10일 밝혔다. 퀀타리움은 지난 9일 서울 용산구 치매안심센터에서 용산구보건소 치매안심센터와 '니어유' 무료 지원을 위한 업무협약(MOU)을 체결했다. 협약식에는 강희경 용산구 치매안심센터장과 노성규 퀀타리움 대표가 참석했다. 니어유는 가족 간 스마트폰을...]]></description>
-		</item>
-		<item>
-			<title>“공격표면관리·보안관제 결합”…이글루, 보안 사각지대 해소</title>
-			<link>https://www.etnews.com/20261110000254</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000254</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[클라우드 서비스와 원격근무 확산으로 기업의 외부 노출 정보기술(IT) 자산이 늘면서 공격표면관리(ASM)의 중요성이 커지고 있다. 기존 경계 보안만으로는 조직이 파악하지 못한 서버와 시스템의 취약점까지 관리하기 어려워졌기 때문이다. 이에 외부 노출 자산을 상시 식별하고 실제 공격 정보와 연계해 대응 우선순위를 정하는 보안 체계가 주목받고 있다. 이글루코퍼레이션은 이러한 보안 수요에 대응해 공격표면관리와 보안관제를 결합한 서비스 '아이스퀘어 액시...]]></description>
-		</item>
-		<item>
-			<title>탕지엔 중국 로봇혁신센터 CTO “2027년 피지컬 AI 로봇 상시 근무 열린다”</title>
-			<link>https://www.etnews.com/20261110000249</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000249</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[중국의 대표적인 피지컬 인공지능(AI)·로봇 기술기업 최고기술책임자(CTO)가 2027년 AI 기반 휴머노이드 로봇이 산업 현장에 상시 근무하는 시대가 도래할 것으로 전망했다. 휴머노이드 로봇이 기술 시연과 초기 실증을 넘어 내년부터 산업 현장에 본격적으로 투입될 것이라는 관측이다. 중국은 대규모 로봇 학습 데이터 확보와 정부 지원 등 '체화지능' 프로젝트로 피지컬 AI 상용화를 추진하고 있다. 한국 기업과 협력도 모색 중이다. 탕지엔 베이징휴...]]></description>
-		</item>
-		<item>
-			<title>[사설] 네이버-두나무 합병, 조속한 결론을</title>
-			<link>https://www.etnews.com/20261110000348</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000348</guid>
-			<author>논설위원실</author>
-			<category>오피니언</category>
-			<pubDate>Tue, 10 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[빅테크와 가상자산 대표 기업의 만남으로 큰 기대를 모았던 네이버파이낸셜과 두나무의 결합이 1년 가까이 지리한 정체 상태다. 지난해 11월 첫 공식 발표 당시만 해도 이듬해 상반기까진 무난히 마무리될 것처럼 보였던 주식교환 절차는 공정거래위원회의 기업결합 심사가 장기화하면서 벌써 세 차례나 미뤄졌다. 당초 지난 6월 말로 잡혔던 거래 종결 예정일은 결국 내년 3월 말까지 밀려난 상황이다. 당국의 꼼꼼한 검증 필요성을 부정할 수는 없으나, 기업의...]]></description>
-		</item>
-		<item>
-			<title>[이시형의 잘 쉬는 법]②붓을 들면 고요해지는 머리, 세로토닌 문인화</title>
-			<link>https://www.etnews.com/20261110000026</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000026</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 10 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[글자는 넘치는데 왜 읽지 못할까 요즘 사람들을 만나 이야기를 나누다 보면 예상치 못한 고민을 듣곤 한다. 예전에는 분명 책을 꽤 읽던 사람인데 이제는 신문 사설이나 긴 보고서 한 장을 끝까지 읽기가 버겁다고 토로한다. 서점가에 가보아도 긴 호흡의 글보다는 핵심만 추린 요약본이 인기다. 모르는 단어나 복잡한 문장이 나오면 앞뒤 맥락을 헤아려보지 않고 쉽게 페이지를 넘겨버린다. 우리 사회 곳곳에서 문해력이 떨어지고 있다는 우려가 나오는 이유다. 얼...]]></description>
-		</item>
-		<item>
-			<title>“과학과 예술의 만남”…갤럭시코퍼레이션 &apos;AI·엔터테크&apos; 융합상 제시</title>
-			<link>https://www.etnews.com/20261110000447</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000447</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 16:49:58 +0900</pubDate>
-			<description><![CDATA[10일 서울 강동구 갤럭시 로봇파크. 삼면이 우주처럼 별빛으로 반짝이는 공연장 한가운데 검은 상자가 놓였다. 이준형 마술사가 “100여년 전 SF소설에서 로봇이 인간을 해쳐서는 안 된다는 원칙이 나왔고 이제 로봇이 현실로 나온다”며 상자를 가린 검은 천을 걷어내자 로봇개가 모습을 드러냈다. 로봇개가 거꾸로 일어선 채 무대로 걸어 나오자 객석에서 환호성이 터졌다. 갤럭시코퍼레이션이 세계 과학의 날을 맞아 과학과 예술을 결합한 '폴리매스' 행사 현...]]></description>
-		</item>
-		<item>
-			<title>[기획]국산화데이터센터 전력 안전 지킨다…1MVA급 UPS 국산화·안전기술 개발 속도</title>
-			<link>https://www.etnews.com/20261110000126</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000126</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 16:33:11 +0900</pubDate>
-			<description><![CDATA[데이터센터 확산으로 전력 수요가 급증하면서 비상전원설비인 무정전전원장치(UPS)의 안전성 확보가 중요해지고 있다. 특히 에너지밀도가 높은 리튬이온배터리(LiB)를 적용한 대용량 UPS가 늘면서 배터리 화재와 전기적 고장에 대응할 수 있는 별도의 안전기술 마련이 과제로 떠올랐다. 이에 한국전기안전공사가 1MVA급 대용량 UPS의 안전성 평가 인프라를 구축하고, 안전강화형 UPS 국산화 관련 기술 개발에 속도를 내고 있다. 전기안전공사는 산업통상자...]]></description>
-		</item>
-		<item>
-			<title>[단독] 국정원, 보안제품 중복 시험 줄인다…업계 부담 완화 기대</title>
-			<link>https://www.etnews.com/20261110000268</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000268</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 16:30:00 +0900</pubDate>
-			<description><![CDATA[국가정보원이 보안제품에 새로운 기능을 추가할 때 거쳐야 하는 보안기능확인 시험을 간소화한다. 이에 따라 보안기업이 통합 플랫폼을 고도화하는 과정에서 발생하는 중복 검증 부담이 줄어들 것으로 기대된다. 10일 업계에 따르면 국정원은 기존에 검증받은 기능의 변경이나 영향이 없다면 신규 기능과 관련 부분만 검증해 보안기능확인서를 인정하는 방안을 검토한다. 업계 의견을 수렴해 내년 상반기까지 세부 계획안을 마련한다는 계획이다. 보안기능확인서는 보안제품...]]></description>
-		</item>
-		<item>
-			<title>WSJ “앤트로픽, 19일 또는 20일 상장…기업가치 관심 집중”</title>
-			<link>https://www.etnews.com/20261110000430</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000430</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 16:26:29 +0900</pubDate>
-			<description><![CDATA[앤트로픽이 최근 여러 시장 악재에도 불구하고 미국 추수감사절(11월 26일) 연휴 이전에 기업공개(IPO)를 완료한다는 방침이라고 월스트리트저널(WSJ), 블룸버그통신 등이 소식통들을 인용해 9일(현지시간) 보도했다. 앤트로픽은 이날 상장 준비과정에서 약 700억달러 규모 IPO 자금 조달 계획안을 기관투자자들에게 이메일로 보냈다가 급히 철회하기도 했다. 로이터 통신에 따르면 앤트로픽은 9일 저녁 약 8억6700만주를 주당 70~80달러에 매각...]]></description>
 		</item>
 	</channel>
 </rss>
