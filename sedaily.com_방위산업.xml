@@ -4,8 +4,24 @@
 		<title>서울경제</title>
 		<link>https://www.sedaily.com/</link>
 		<description>서울경제</description>
-		<lastBuildDate>Tue, 10 Nov 2026 07:03:09 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 18:33:59 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>軍무인기 또 추락…통신 끊겨 김포 공원에 ‘쾅’</title>
+			<link>https://www.sedaily.com/article/20112613</link>
+			<guid isPermaLink="true">https://www.sedaily.com/article/20112613</guid>
+			<author>이현호</author>
+			<category>정치</category>
+			<pubDate>Tue, 10 Nov 2026 17:46:12 +0900</pubDate>
+		</item>
+		<item>
+			<title>[속보] 軍 “김포서 훈련 중 소형무인기 추락…잔해 수거 조사 중”</title>
+			<link>https://www.sedaily.com/article/20112321</link>
+			<guid isPermaLink="true">https://www.sedaily.com/article/20112321</guid>
+			<author>이현호</author>
+			<category>정치</category>
+			<pubDate>Tue, 10 Nov 2026 10:42:38 +0900</pubDate>
+		</item>
 		<item>
 			<title>한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장</title>
 			<link>https://www.sedaily.com/article/20112039</link>
@@ -69,22 +85,6 @@
 			<author>송종호</author>
 			<category>정치</category>
 			<pubDate>Mon, 02 Nov 2026 10:29:31 +0900</pubDate>
-		</item>
-		<item>
-			<title>위기의 K방산…3분기 실적 주춤·신뢰도 하락 국면 [이현호의 방산!톡]</title>
-			<link>https://www.sedaily.com/article/20108814</link>
-			<guid isPermaLink="true">https://www.sedaily.com/article/20108814</guid>
-			<author>이현호</author>
-			<category>정치</category>
-			<pubDate>Mon, 02 Nov 2026 07:00:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>필리조선소 인수 2년 만에…한화, 美 해군함정 첫 수주 결실</title>
-			<link>https://www.sedaily.com/article/20108819</link>
-			<guid isPermaLink="true">https://www.sedaily.com/article/20108819</guid>
-			<author>송주희</author>
-			<category>전체뉴스</category>
-			<pubDate>Sun, 01 Nov 2026 18:15:40 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
