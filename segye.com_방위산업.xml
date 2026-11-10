@@ -4,8 +4,15 @@
 		<title>세계일보</title>
 		<link>https://www.segye.com/</link>
 		<description>세계일보</description>
-		<lastBuildDate>Mon, 09 Nov 2026 18:34:12 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2026 18:34:04 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>김포 공원에 군 무인기 추락…육군 “원인미상, 조사 중”</title>
+			<link>https://www.segye.com/newsView/20261110507929</link>
+			<guid isPermaLink="true">https://www.segye.com/newsView/20261110507929</guid>
+			<pubDate>Tue, 10 Nov 2026 18:34:04 +0900</pubDate>
+			<description><![CDATA[2026-11-10 11:33:05]]></description>
+		</item>
 		<item>
 			<title>방위사업청, AI 분야 선도연구기관 3곳 지정… KAIST·ETRI·LG AI연구원</title>
 			<link>https://www.segye.com/newsView/20261109509923</link>
@@ -68,13 +75,6 @@
 			<guid isPermaLink="true">https://www.segye.com/newsView/20261028505901</guid>
 			<pubDate>Wed, 28 Oct 2026 18:33:38 +0900</pubDate>
 			<description><![CDATA[2026-10-28 10:08:28]]></description>
-		</item>
-		<item>
-			<title>합참 “北 접경지역 노출 자주포는 구형… 의도 파악 중”</title>
-			<link>https://www.segye.com/newsView/20261027516201</link>
-			<guid isPermaLink="true">https://www.segye.com/newsView/20261027516201</guid>
-			<pubDate>Wed, 28 Oct 2026 08:02:34 +0900</pubDate>
-			<description><![CDATA[2026-10-28 06:00:00]]></description>
 		</item>
 	</channel>
 </rss>
