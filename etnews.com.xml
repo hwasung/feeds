@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 11 Nov 2026 08:30:28 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 09:30:32 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>피앤피시큐어, 국내 저축은행에 화면정보 유출 방지 솔루션 공급</title>
+			<link>https://www.etnews.com/20261111000016</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261111000016</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 11 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[정보보안 전문기업 피앤피시큐어가 국내 한 저축은행에 화면정보 유출 방지 솔루션을 공급하며 금융권 보안사업을 확대하고 있다. 피앤피시큐어는 국내 한 저축은행이 고객 개인정보와 내부 업무정보 보호를 위해 자사 비주얼 해킹 방지 솔루션 '페이스락커(FaceLocker)'를 도입하고 본사 구축을 완료했다고 11일 밝혔다. 이번 사업은 스마트폰을 이용한 업무 화면 촬영이나 비인가 사용자의 화면 열람 등 기존 정보보안 체계로 통제하기 어려운 정보 유출 위...]]></description>
+		</item>
 		<item>
 			<title>앤트로픽, 19일 나스닥 상장…공모가 70~78달러·86조원 조달 추진</title>
 			<link>https://www.etnews.com/20261111000002</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 10 Nov 2026 18:13:36 +0900</pubDate>
 			<description><![CDATA[AI 업무 자동화 전문기업 디티나우(DTNOW, 대표 엄세영)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '소프트웨이브 2026'에 글로벌 지능형 문서처리(IDP) 기업 ABBYY와 공동 참가해 AI 기반 문서처리 및 업무 자동화 기술을 선보인다. 디티나우는 이번 전시에서 ABBYY의 AI 기반 지능형 문서처리 솔루션 'ABBYY Vantage'를 중심으로 기업의 다양한 문서를 자동 인식·분류하고, 데이터를 추출·검증해 실제 업무...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 드림시큐리티, 소프트웨이브 2026서 &apos;Magic ICAM&apos; 기반 제로트러스트 전환 전략 제시</title>
-			<link>https://www.etnews.com/20261110000467</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261110000467</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 10 Nov 2026 18:08:32 +0900</pubDate>
-			<description><![CDATA[드림시큐리티가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '소프트웨이브 2026'에 참가해 통합 신원인증 및 권한관리 솔루션 'Magic ICAM'을 중심으로 제로트러스트 및 국가망 보안 체계(N2SF) 전환 방안을 선보인다. 'Magic ICAM'은 사용자와 기기, 자원의 신원정보와 자격증명, 접근권한을 통합 관리하는 솔루션이다. 시스템별로 분산된 계정과 자격증명, 누적된 권한으로 인해 발생하는 신원·접근관리의 복잡성을 줄이고, 사...]]></description>
 		</item>
 	</channel>
 </rss>
