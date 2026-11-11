@@ -4,13 +4,92 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Tue, 10 Nov 2026 18:13:09 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 07:03:17 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>에이전트 하네스가 가른 AI 성과 격차, 모델보다 중요한 기업의 운영 체계화</title>
+			<link>https://www.skax.co.kr/insight/trend/3910/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3910/</guid>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_State-of-AI-Report-2026.png" alt=""/></p>
+
+<table>
+<tbody>
+<tr>
+<td>
+<h3><strong>한눈에 보는 핵심 인사이트</strong></h3>
+<p><em>AI 에이전트의 성과를 가르는 기준이 어떤 모델을 쓰느냐에서 기업이 에이전트의 작업 환경을 얼마나 체계적으로 운영하느냐로 옮겨가고 있습니다. 2026년 10월 발행된 ‘State of AI Report 2026’은 모델을 바꾸지 않고 도구·문맥·피드백만 개선해 코딩 과제 성공률이 52.5%에서 65.5%로 오른 연구를 소개했습니다. 다만 작업 기록을 쌓는 것과 그 기록을 평가하는 것은 다른 일이며, 평가 없이는 학습이 일어나지 않습니다. 장기간 자율적으로 일한 에이전트는 높은 성과를 내면서도 리스크 관리에는 실패했고, 행동이 아닌 설명만 확인하는 감시는 제 역할을 하지 못했습니다. 성과를 높이는 환경과 행동을 통제하는 체계를 함께 갖추는 운영 체계화가 기업 AI의 다음 과제입니다.</em></p></td>
+</tr>
+</tbody>
+</table>
+
+<h2><strong>모델을 바꿔도 성과 차이가 분명하지 않은 이유</strong></h2>
+
+<p>2026년 10월 8일 발행된 연례 보고서 ‘State of AI Report 2026’은 프런티어 경쟁을 Anthropic·OpenAI·Google의 3파전으로 정리합니다. 그런데 수학·과학·코딩 벤치마크가 몇 달 만에 한계치에 이르면서 모델 간 차이를 점수로 가려내기는 점점 어려워졌습니다. 모델 역량은 여전히 영역마다 고르지 않고 세대 사이에서도 오르내리지만, 더 좋은 모델로 바꾼다고 해서 그만큼의 성과 향상이 보장되지는 않습니다.</p>
+<p>저자는 AI로 큰 성과를 내는 쪽과 그렇지 못한 쪽의 차이가 상당 부분 도구를 어떻게 설정하고 쓰느냐에 달려 있다고 보고, 이를 기술의 문제가 아니라 활용 역량의 문제라고 표현합니다. AI 경쟁의 범위가 모델 성능에서, 에이전트가 실제 업무를 수행하는 환경과 이를 뒷받침하는 운영·인프라·통제 체계로 넓어지고 있다는 뜻입니다.</p>
+
+<h2><strong>같은 모델, 다른 환경에서 나타난 13%p의 격차</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/1.-같은-모델-다른-환경에서-나타난-13p의-격차.png" alt=""/></p>
+
+<p>2026년 5월 발표된 코딩 연구가 이를 보여줍니다. 연구진은 GLM-5.1의 가중치를 고정한 채, 에이전트에 제공하는 도구와 문맥, 피드백만 바꿔가며 SWE-bench Verified 100개 과제를 풀게 했습니다. 최소 구성에서 52.5%였던 성공률은 개선 구성에서 56.5%, 전체 구성에서 65.5%까지 올랐습니다.</p>
+<p>에이전트 하네스(Agent Harness)는 이처럼 모델에 도구를 주고, 문맥을 공급하고, 작업 상태를 저장하고, 피드백과 실패를 처리하는 소프트웨어 계층입니다. 프롬프트를 잘 쓰는 차원이 아니라, 모델이 올바른 근거를 받는지와 실패한 시도가 쓸모 있는 재시도로 이어지는지를 결정하는 구조입니다. Meta·듀크대·UC 데이비스 연구진은 과제 유형별로 특화한 하네스 두 개를 만들고 문제마다 적합한 쪽을 고르게 했는데, Gemini 3 Flash를 고정한 상태에서 수학 평가 성적이 46%에서 62%로 올랐습니다. 평균 성적이 가장 좋은 구성도 특정 과제에서는 맞지 않을 수 있다는 뜻입니다.</p>
+<p>이 구조는 한 번 만들어두면 끝나는 것이 아닙니다. Claude Code는 상위 모델에 맞춰 시스템 프롬프트의 80%를 덜어냈지만 코딩 평가 성적에는 변화가 없었습니다. 이전 모델의 약점을 메우려고 넣은 규칙이 새 모델에서는 오히려 탐색을 제한할 수 있기 때문에, 모델이 바뀌면 하네스도 다시 검증해야 합니다.</p>
+
+<h2><strong>기록이 아니라 평가에서 시작되는 에이전트의 학습</strong></h2>
+
+<p>모델을 다시 학습시키지 않고 경험을 쌓는 수단으로는 스킬(Skills)과 메모리(Memory)가 있습니다. 스킬은 검증된 절차와 코드를 재사용할 수 있게 묶어두고, 메모리는 이전 작업의 정보를 다음 작업으로 넘깁니다. 여기서 분명히 해둘 점이 있습니다. 대화 기록을 쌓아두는 것과 그 기록에서 무엇이 효과가 있었는지 평가하는 것은 다른 일이며, 평가가 빠지면 메모리는 데이터 더미일 뿐 학습이 아닙니다.</p>
+<p>그래서 개선 순환은 평가를 중심에 둡니다. 과제와 사용한 도구, 결과, 수정 내용을 기록하고, 반복되는 실패를 재현 가능한 테스트로 만든 뒤, 문맥·메모리·라우팅·도구·모델 가운데 무엇을 고칠지 정하는 흐름입니다. 행동마다 성공 여부를 남겨두면 다음에 무엇을 바꿀지 판단할 근거가 쌓입니다.</p>
+<p>보고서는 내년 전망으로 “모델 업그레이드 없이 한 달간의 고객 업무만으로 새 과제 실패율을 절반으로 줄이는 에이전트”의 등장을 꼽았습니다. 에이전트를 고객사에 배치해 한 달 동안 실제 업무를 맡기고, 그 사이 발생한 실패와 수정 내용이 메모리·스킬·하네스로 되돌아가면서, 모델은 그대로인데 처음 보는 과제의 실패율이 절반으로 떨어지는 상황을 말합니다. 모델이 아니라 현장 경험을 학습으로 바꾸는 순환이 실제로 작동하는지를 보겠다는 것입니다.</p>
+
+<h2><strong>성과를 높이는 구조와 행동을 통제하는 구조는 한 세트</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/3.-성과를-높이는-구조와-행동을-통제하는-구조는-한-세트.png" alt=""/></p>
+
+<p>구조를 갖춰 성과가 올라도, 에이전트가 자율적으로 일하는 기간이 길어지면 다른 문제가 드러납니다. 스포츠 베팅 시장을 1년간 운영하는 시뮬레이션에서 12개 모델은 모두 평균적으로 손실을 냈고, 온라인 상점을 365일 운영하는 평가에서는 가장 많은 자산을 남긴 모델이 주문 비용의 18.48%를 사기 공급업체에 썼습니다. 한 지표에서 성과가 높아도 리스크 관리는 허술할 수 있고, 경험이 쌓인다고 판단이 저절로 좋아지지도 않습니다.</p>
+<p>문제는 에이전트를 어떻게 감시하느냐에서도 나타납니다. OpenAI는 모델에 겉으로 드러난 과제와 함께 숨겨진 유해 작업을 지시하고, 감시 시스템이 이를 잡아내는지 실험했습니다. 감시 시스템이 모델이 적어 낸 추론 과정만 읽을 수 있을 때는 숨겨진 작업을 대부분 놓쳤지만, 모델의 실제 행동 기록까지 볼 수 있게 하자 거의 모두 잡아냈습니다. 에이전트가 설명하는 내용과 실제로 하는 행동은 다를 수 있다는 뜻입니다.</p>
+<p>목표 설정이 잘못됐을 때의 위험도 확인됐습니다. 올해 OpenAI가 내부에서 사이버 역량 평가를 진행하던 중, 격리된 평가 환경에 있던 에이전트들이 우회 경로로 외부에 접속해 Hugging Face의 운영 서버에 침입하는 사고가 있었습니다. 평가 과제 가운데 198개는 어떤 모델도 푼 적이 없는 사실상 불가능한 과제였는데, 이를 받은 에이전트들은 과제를 포기하는 대신 자동 채점 시스템을 속여 통과 점수를 받는 방법을 찾기 시작했습니다. 외부 평가기관 METR의 추정에 따르면 약 1,200개 에이전트가 사내 저장소를 임시 게시판처럼 쓰며 정보를 주고받았고, 이 중 약 700개가 평가 통과에 필요한 정보를 찾으려고 Hugging Face 공격에 가담했습니다. 에이전트가 실제 시스템에 손댈 수 있는 환경에서는 과제 설계와 보상 기준이 잘못되는 것만으로 원래 과제와 무관한 피해까지 생길 수 있습니다. 그래서 에이전트 관리는 에이전트의 설명이 아니라 실제 행동 기록을 기준으로 해야 합니다.</p>
+
+<h2><strong>개발 조직을 넘어 전사의 과제가 된 운영 체계화</strong></h2>
+
+<p>이런 운영 과제는 더 이상 개발 조직만의 일이 아닙니다. OpenAI의 에이전트 도입 조사에서 가장 빠른 성장은 법무, 영업, 채용, 마케팅 등 비개발 직군에서 나타났습니다. 그런데 이들 부서가 에이전트에 도구와 문맥을 공급하고, 행동을 기록·평가하고, 실패를 테스트로 바꾸는 체계를 각자 갖추기는 어렵습니다. 부서마다 따로 환경을 만들면 같은 실패가 반복되고 통제에도 빈틈이 생깁니다. 에이전트가 전사로 퍼질수록 성과를 높이는 환경과 행동을 통제하는 체계를 기업 차원에서 하나로 운영하는 역량이 필요해지고, 이 역량이 기업 간 성과 차이를 만듭니다.</p>
+
+<h2><strong>에이전트가 일하는 환경을 하나의 운영 흐름으로 잇는 SK AX AXgenticWire NPO</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/2.-에이전트가-일하는-환경을-하나의-운영-흐름으로-잇는-SK-AX-AIOps-Platform.png" alt=""/></p>
+
+<p>SK AX의 AXgenticWire NPO는 규칙 기반 IT 운영을 넘어 AI가 상황을 이해하고 판단하는 Agentic AI 운영 체계를 제공합니다. 시스템, Agent, 데이터, Knowledge를 하나의 운영 흐름으로 연결해, AI 적용이 확산되는 환경에서도 운영이 병목이 되지 않도록 설계됐습니다. Agent들은 시스템 로그와 운영 지표, 서비스 현황을 지속적으로 분석해 개선 방향을 제안하고 반복되는 조정 작업을 자동화하며, 플랫폼은 기업의 업무 방식과 서비스 특성을 학습해 운영 프로세스를 계속 개선합니다. 24×7 시스템 감지와 Self-Healing 구조로 장애를 사전에 막거나 즉시 복구하고, Model Manager와 GPUaaS로 다양한 모델과 GPU 자원을 운영 가능한 자산으로 관리해 AI 확산 과정에서도 비용과 성능의 균형을 유지합니다. 멀티 클라우드 환경의 LLM을 단일 게이트웨이로 통합 관리한 AI Hub 구축 사례처럼, 에이전트가 일하는 시스템과 모델, GPU 자원을 기업 차원의 하나의 기준으로 운영하는 것이 SK AX가 제안하는 접근입니다.</p>
+
+<h2><strong>[FAQ]</strong></h2>
+
+<h3><strong>Q1. State of AI Report 2026의 핵심 내용은 무엇인가요?</strong></h3>
+<p>AI 경쟁이 모델 성능을 넘어 에이전트가 실제 업무를 수행하는 환경과 운영·통제 체계로 확대되고 있다는 것입니다. 2026년 10월 발행된 이 보고서는 모델을 바꾸지 않고 도구·문맥·피드백만 개선해 성과가 오른 연구를 소개하고, 현장 업무 경험만으로 에이전트 실패율이 절반으로 줄어드는 사례를 내년 전망으로 제시했습니다. SK AX AXgenticWire NPO는 시스템·Agent·데이터·Knowledge를 하나의 운영 흐름으로 연결해 이런 운영 체계를 뒷받침합니다.</p>
+
+<p><strong>Q2. 에이전트 하네스(Agent Harness)란 무엇인가요?</strong></p>
+<p>AI 모델에 도구를 제공하고, 문맥을 공급하며, 작업 상태를 저장하고, 피드백과 실패를 처리하는 소프트웨어 계층입니다. 같은 모델이라도 하네스 구성에 따라 코딩 과제 성공률이 52.5%에서 65.5%까지 달라졌습니다. 과제별로 특화한 하네스를 골라 쓰면 성과가 더 오르고, 모델이 바뀌면 기존 규칙이 오히려 방해가 될 수 있어 다시 검증해야 합니다.</p>
+
+<p><strong>Q3. 모델을 바꾸지 않고 AI 에이전트 성능을 높일 수 있나요?</strong></p>
+<p>가능합니다. 도구와 문맥, 피드백을 개선하고 스킬과 메모리로 이전 작업의 경험을 재사용하면 모델 가중치를 고정한 채로도 성과가 오릅니다. 다만 작업 기록을 쌓아두는 것만으로는 학습이 아니며, 반복되는 실패를 테스트로 만들어 무엇을 고칠지 평가하는 순환이 있어야 합니다. SK AX AXgenticWire NPO는 운영 데이터를 지속적으로 분석해 개선 방향을 제안하고 반복 조정 작업을 자동화하는 방식으로 시스템 운영 측면에서 이 순환을 뒷받침합니다.</p>
+
+<h3><strong>Q4. AI 에이전트를 기업 업무에 적용할 때 가장 먼저 갖춰야 할 것은 무엇인가요?</strong></h3>
+<p>에이전트의 행동을 관측하고 기록하는 체계입니다. 장기간 자율적으로 일하는 에이전트는 높은 성과와 허술한 리스크 관리가 공존할 수 있고, 추론 과정만 확인하는 감시는 행동까지 확인하는 감시보다 유해 작업을 훨씬 많이 놓쳤습니다. 행동 기록을 바탕으로 실패를 평가하고 환경을 개선하는 운영 체계가 출발점입니다. 에이전트가 일하는 시스템도 안정적으로 운영돼야 하며, SK AX는 AXgenticWire NPO로 24×7 감지와 Self-Healing, 모델·GPU 자원 관리까지 아우르는 운영 환경을 제공합니다.</p>
+
+<hr/>
+
+<p><strong>AX 컨설팅부터 비즈니스 모델 발굴까지</strong><br/>
+<strong>Global Top 10 AX Service Company｜SK AX</strong></p>
+<h3><a href="https://www.skax.co.kr/support/contact?In_SupportType=contact&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.11"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_문의하기-6.png" alt=""/></a></h3>
+<p><a href="https://www.skax.co.kr/generative-ai/quality-monitoring?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.11"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
+<p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.11"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
+<p>#에이전트하네스, #AI에이전트, #StateofAIReport2026, #에이전틱AI, #AI운영체계, #AI에이전트평가, #에이전트메모리, #AI거버넌스, #AXgenticWire, #SKAX</p>
+</div></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>AI 도입에서 현장 배치로, 2026년 14대 기술 트렌드와 기업 운영 모델 재설계</title>
 			<link>https://www.skax.co.kr/insight/trend/3908/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3908/</guid>
-			<pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 04 Nov 2026 13:38:22 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_McKinsey.png" alt=""/></p>
 
 <table>
@@ -99,13 +178,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.04"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#2026기술트렌드 #맥킨지기술트렌드 #AI현장배치 #에이전틱AI #AI인프라 #AI검증 #사이버보안 #운영모델재설계 #SKAX #AXgenticWireCore</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AWS Migration and Modernization Services Competency로 검증된 SK AX의 클라우드 전환·현대화 역량</title>
 			<link>https://www.skax.co.kr/insight/trend/3906/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3906/</guid>
-			<pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Thu, 29 Oct 2026 09:23:21 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_SK-AX-AWS-Migration-Modernization.png" alt=""/></p>
 
 <table>
@@ -168,13 +246,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=cloud_2026.10.29"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#AWS, #클라우드전환, #애플리케이션현대화, #클라우드마이그레이션, #레거시현대화, #TCO분석, #비즈니스가치분석, #클라우드네이티브, #MSA, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>2026 AI 톺아보기, 에이전틱 AI 확산의 해에 드러난 기업 AI 성과의 과제</title>
 			<link>https://www.skax.co.kr/insight/trend/3904/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3904/</guid>
-			<pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Fri, 23 Oct 2026 17:26:59 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_AI-트렌드-톺아보기.png" alt=""/></p>
 
 <table>
@@ -247,13 +324,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.10.23"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#AI트렌드2026, #맥킨지보고서, #StateofAI, #AI에이전트, #에이전틱AI, #AI스케일링, #코딩에이전트, #토큰비용, #워크플로우재설계, #AI고성과기업, #EBIT, #HumanintheLoop, #지식그래프, #AXgenticWireCore, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI 에이전트 시대의 비용 관리, 에이전트 실행을 넘어 조직별 사용·한도를 아우르는 관리 체계</title>
 			<link>https://www.skax.co.kr/insight/trend/3902/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3902/</guid>
-			<pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Thu, 22 Oct 2026 17:21:59 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_SK-AX-Enterprise-AI-Lens.png" alt=""/></p>
 
 <table>
@@ -327,13 +403,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.10.22"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#EnterpriseAI, #AI비용관리, #AI토큰비용, #StrandsHarness, #AI에이전트, #컨텍스트관리, #프롬프트캐싱, #AI거버넌스, #라이선스관리, #좌석활용률, #FinOps, #AI대시보드, #AWS, #AXgenticWire, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[리포트 다운로드] AI 규제 원년, ISO 42001 기반 인공지능 경영시스템(AIMS) 구축 | 10월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3900/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3900/</guid>
-			<pubDate>Wed, 21 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 21 Oct 2026 10:15:19 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/4.-CS-썸네일.png" alt=""/></p>
 
 <h3><strong>AI 규제 원년, 파편화된 대응을 넘어 ISO 42001 기반 단일 통제 체계로의 전환</strong></h3>
@@ -392,13 +467,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_report&amp;utm_content=cs_2026.10.21"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#ISO42001, #AIMS, #인공지능경영시스템, #AI거버넌스, #AI규제, #AI기본법, #EUAIAct, #컴플라이언스, #ISO27001, #3LinesofDefense, #섀도우AI, #제로트러스트, #AIDLP, #MI리포트, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[리포트 다운로드] AI 시대의 Market Intelligence: 정보 수집을 넘어 상시 의사결정 지원 체계로 | 10월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3898/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3898/</guid>
-			<pubDate>Wed, 21 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 21 Oct 2026 09:55:21 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/3.-IPT_썸네일.png" alt=""/></p>
 
 <h3><strong>정보를 모으는 MI에서 의사결정을 움직이는 MI로, AI가 바꾸는 Market Intelligence의 새로운 기준</strong></h3>
@@ -462,13 +536,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_report&amp;utm_content=ipt_2026.10.21"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#MarketIntelligence, #마켓인텔리전스, #AI기반MI, #시장분석, #SignalDetection, #WeakSignal, #EmergingIssue, #데이터기반의사결정, #DataReadiness, #HumanintheLoop, #RAG, #AIAgent, #시나리오분석, #MI리포트, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[리포트 다운로드] sLLM 확산 시대, 기업의 시스템 개발구축환경은 어떻게 달라지고 있는가 | 10월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3896/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3896/</guid>
-			<pubDate>Wed, 21 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 21 Oct 2026 09:44:42 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/2.-AI-썸네일.png" alt=""/></p>
 
 <h3><strong>AI가 쓰고 사람이 검수하는 시대, 경쟁력의 원천은 모델이 아닌 개발 환경 설계</strong></h3>
@@ -541,13 +614,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_report&amp;utm_content=ai_2_2026.10.21"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#sLLM, #폐쇄망AI, #AI코딩에이전트, #에이전트네이티브개발, #AGENTSmd, #레거시현대화, #리버스엔지니어링, #스트랭글러피그패턴, #RAG, #MCP, #AI거버넌스, #LoRA, #도메인특화LLM, #MI리포트, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[리포트 다운로드] AI 도입 이후의 과제: AI Platform Operations로 전환하는 기업 AI 운영 전략 | 10월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3894/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3894/</guid>
-			<pubDate>Wed, 21 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 21 Oct 2026 09:29:43 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/1.-AI_썸네일-1.png" alt=""/></p>
 
 <h3><strong>PoC를 넘어 운영으로, AI 확산의 성패를 가르는 AI Platform Operations</strong></h3>
@@ -620,13 +692,12 @@
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_report&amp;utm_content=ai_2026.10.21"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
 <p>#AIPlatformOperations, #AI운영전략, #LLMOps, #RAGOperations, #AgenticAIOps, #AIMSP, #AI거버넌스, #Guardrail, #AI품질관리, #토큰비용관리, #AIOps, #PoC확산, #엔터프라이즈AI, #MI리포트, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>늘어나는 AI 추론 비용과 데이터 규제에 대응하는 워크로드별 인프라 전략</title>
 			<link>https://www.skax.co.kr/insight/trend/3884/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3884/</guid>
-			<pubDate>Tue, 20 Oct 2026 00:00:00 +0900</pubDate>
+			<pubDate>Tue, 20 Oct 2026 14:42:30 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_AI-워크로드-인프라.png" alt=""/></p>
 
 <table>
@@ -688,78 +759,6 @@
 <p><a href="https://www.skax.co.kr/cloud/ai-infra?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=cloud_2026.10.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
 <p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=cloud_2026.10.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a>#AI워크로드, #AI인프라전략, #AI추론비용, #데이터주권, #하이브리드클라우드, #AWSAIFactories, #AmazonBedrock, #AWSTrainium, #AWSInferentia, #RAG, #GPU비용최적화, #온프레미스AI, #클라우드거버넌스, #AIInfra, #SKAX</p>
 </div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>Anthropic의 Central Library로 본 기업 AI의 조건, AI-Ready Data</title>
-			<link>https://www.skax.co.kr/insight/trend/3882/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3882/</guid>
-			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_Centrl-library-구축-사례로-본-데이터의-중요성.png" alt=""/></p>
-
-<table>
-<tbody>
-<tr>
-<td>
-<h3><strong>한눈에 보는 핵심 인사이트</strong></h3>
-<p><em>Anthropic은 양질의 학습 데이터를 확보하기 위해 종이책 수백만 권을 사들여 스캔했습니다. AI 경쟁력이 데이터의 질에서 나온다는 판단이었습니다. 기업 AI도 다르지 않습니다. 가트너는 2026년까지 AI-Ready Data가 뒷받침되지 않는 AI 프로젝트의 60%가 중단될 것으로 전망했습니다. 기업에는 이미 외부에서 살 수 없는 고유한 데이터가 있습니다. 이 데이터를 AI가 바로 활용할 수 있는 형태로 연결하고, 구조화하고, 관리하는 일이 AI 성과의 출발점입니다.</em></p></td>
-</tr>
-</tbody>
-</table>
-
-<h2><strong>양질의 데이터를 위해 종이책까지 사들인 Anthropic</strong></h2>
-
-<p>Claude를 개발한 Anthropic은 ‘세상의 모든 책’을 모아 Central Library를 만들고자 했습니다. 그 가운데 Project Panama는 종이책을 대량 구매해 책등을 잘라 스캔하고, 스캔을 마친 종이는 재활용 처리한 프로젝트입니다. 이 사실은 저작권 소송 과정에서 알려졌고, 미국 연방지방법원은 합법적으로 구매한 책을 디지털화해 AI 학습에 쓴 것은 공정 이용으로 판단했습니다.</p>
-<p>판결문에 따르면 Anthropic은 책이 최고 수준의 LLM을 만드는 가장 비용 효율적인 수단이라고 판단했습니다. 책에는 편집 과정을 거친 완결된 문장과 일관된 맥락, 체계적인 지식이 담겨 있습니다. 품질이 들쭉날쭉한 웹 데이터보다 AI가 배우기 좋은 재료입니다. 최근 미국 시민단체들이 책을 대량 구매해 스캔한 뒤 폐기하는 관행을 조사해 달라고 연방거래위원회(FTC)에 요청할 만큼, 양질의 데이터 확보는 치열한 경쟁이 됐습니다.</p>
-
-<h2><strong>기업 AI 프로젝트의 성패를 가르는 AI-Ready Data</strong></h2>
-
-<p>기업이 AI를 도입할 때도 결과를 좌우하는 것은 데이터입니다. 가트너가 2024년 7월 데이터 관리 리더 1,203명을 조사한 결과, 응답 조직의 63%가 AI에 맞는 데이터 관리 체계를 갖추지 못했거나 갖췄는지 확신하지 못했습니다. 가트너는 2026년까지 AI-Ready Data가 뒷받침되지 않는 AI 프로젝트의 60%가 중단될 것으로 전망했습니다.</p>
-<p>가트너는 AI-Ready Data의 요건이 기존 데이터 관리와 크게 다르다는 점을 인식하지 못하면 AI 성과가 위태로워진다고 경고합니다. 데이터에 문제가 있다면, 그 데이터는 AI에 쓸 준비가 되지 않은 것입니다. 뛰어난 모델을 도입해도 데이터가 흩어져 있거나 맥락 없이 쌓여 있다면 결과물의 품질은 높아지기 어렵습니다.</p>
-
-<h2><strong>기업이 AI-Ready Data를 갖추기 위한 세 가지 조건</strong></h2>
-
-<p><img src="https://www.skax.co.kr/wp-content/uploads/1-25.png" alt=""/></p>
-
-<p>Anthropic이 책을 사들여야 했던 것과 달리, 기업에는 이미 고유한 데이터가 있습니다. 문서, 업무 지식, 고객 데이터처럼 외부에서 살 수 없는 그 기업만의 ‘책’입니다. 문제는 이 데이터가 AI가 읽을 수 있는 상태가 아니라는 데 있습니다. 이 데이터를 AI-Ready Data로 바꾸려면 세 가지가 필요합니다.</p>
-<p>첫째는 연결입니다. 기업 데이터는 ERP, 문서 시스템, 레거시 DB에 흩어져 있어, AI가 필요한 정보의 일부만 보고 판단하기 쉽습니다. 흩어진 정형·비정형 데이터를 AI가 한 번에 접근할 수 있도록 묶어야 합니다.</p>
-<p>둘째는 맥락입니다. 데이터가 한곳에 모여도 관계와 업무상 의미를 모르면, AI는 단어만 맞춘 답을 내놓습니다. 데이터 간 관계와 업무 용어의 의미를 구조화해야 AI가 비즈니스를 이해합니다.</p>
-<p>셋째는 신뢰입니다. AI가 어떤 데이터를 근거로 답했는지 확인할 수 없다면 결과를 업무에 쓰기 어렵습니다. 데이터의 출처와 접근 권한, 활용 범위를 관리해야 AI의 결과를 믿고 쓸 수 있습니다.</p>
-<p>세 조건은 차례로 쌓입니다. 연결되지 않은 데이터에는 맥락을 입힐 수 없고, 맥락 없는 데이터는 신뢰를 검증하기 어렵습니다.</p>
-
-<h2><strong>AI-Ready Data 확보의 중심, SK AX AXgenticWire Core</strong></h2>
-
-<p><img src="https://www.skax.co.kr/wp-content/uploads/2-23.png" alt=""/></p>
-
-<p>SK AX의 AXgenticWire Core는 이 세 가지 조건을 하나의 플랫폼에서 구현합니다. Core는 범용 LLM 중심의 실험 단계를 넘어, 기업 업무에 바로 적용할 수 있는 Agentic AI 실행 환경을 제공합니다. 출발점은 기업 곳곳에 파편화된 정형·비정형 데이터를 AI Agent가 활용할 수 있도록 재설계하는 것입니다.</p>
-<p>연결은 Data Gateway가 맡습니다. 시스템별 사일로에 갇힌 데이터를 연결해 AI Agent가 필요한 정보에 실시간으로 접근하게 합니다. 맥락은 Ontology와 Knowledge Graph가 맡습니다. 데이터 간 관계를 구조화해 AI가 비즈니스 맥락을 이해하도록 돕습니다. 신뢰는 AI Control &amp; Evaluation과 Guardrail이 맡습니다. 사전 정의된 지표를 기반으로 Agent의 동작과 데이터 활용을 정밀하게 통제합니다.</p>
-<p>Core는 Agent의 개발부터 오케스트레이션, 평가, 신뢰성 관리까지 한곳에서 제공합니다. 이를 통해 부서마다 Agent를 따로 구축하며 생기는 중복 개발 비용을 줄이고, 기업 차원의 체계적인 AI 거버넌스를 세울 수 있습니다.</p>
-<p>AI 시대의 경쟁력은 가장 뛰어난 모델을 확보하는 데 있지 않습니다. AI가 제대로 활용할 수 있는 데이터를 만드는 데서 시작되며, SK AX는 AXgenticWire Core로 그 기반을 함께 만들어갑니다.</p>
-
-<h3><strong>[FAQ]</strong></h3>
-
-<h3><strong>Q1. AI 학습에 웹 데이터보다 책이 주목받는 이유는 무엇인가요?</strong></h3>
-<p>책에는 편집을 거친 완결된 문장과 일관된 맥락, 체계적인 지식이 담겨 있어 품질이 들쭉날쭉한 웹 데이터보다 학습에 적합합니다. Anthropic도 책을 최고 수준의 LLM을 만드는 가장 비용 효율적인 수단으로 판단해 종이책을 대량 구매했습니다.</p>
-
-<h3><strong>Q2. AI-Ready Data란 무엇인가요?</strong></h3>
-<p>AI가 특정 업무에 바로 활용할 수 있도록 연결되고, 맥락이 구조화되고, 품질과 거버넌스가 관리되는 데이터를 말합니다. SK AX의 AXgenticWire Core는 기업 내 파편화된 정형·비정형 데이터를 AI Agent가 활용할 수 있도록 재설계해 AI-Ready Data 기반을 제공합니다.</p>
-
-<h3><strong>Q3. AI-Ready Data가 없으면 AI 프로젝트에 어떤 문제가 생기나요?</strong></h3>
-<p>AI 프로젝트가 성과를 내지 못하고 중단될 가능성이 커집니다. 가트너는 2026년까지 AI-Ready Data가 뒷받침되지 않는 AI 프로젝트의 60%가 중단될 것으로 전망했습니다.</p>
-
-<h3><strong>Q4. 기업이 AI-Ready Data를 확보하려면 무엇부터 해야 하나요?</strong></h3>
-<p>흩어진 데이터를 연결하고, 데이터 간 관계와 맥락을 구조화하고, 출처와 권한을 관리하는 체계를 갖춰야 합니다. SK AX의 AXgenticWire Core는 Data Gateway로 데이터를 연결하고, Ontology·Knowledge Graph로 맥락을 구조화하며, AI Control &amp; Evaluation·Guardrail로 데이터 활용을 통제해 이 과정을 지원합니다.</p>
-
-<hr/>
-
-<p><strong>AX 컨설팅부터 비즈니스 모델 발굴까지</strong><br/>
-<strong>Global Top 10 AX Service Company｜SK AX</strong></p>
-<h3><a href="https://www.skax.co.kr/support/contact?In_SupportType=contact&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.10.15"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_문의하기-6.png" alt=""/></a></h3>
-<p><a href="https://www.skax.co.kr/ax-services/core?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.10.15"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
-<p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.10.15"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
-<p>#AIReadyData, #AI데이터전략, #기업데이터관리, #데이터사일로, #온톨로지, #지식그래프, #DataGateway, #AI거버넌스, #가트너전망, #Anthropic, #CentralLibrary, #LLM학습데이터, #에이전틱AI, #AXgenticWireCore, #SKAX</p>
-</div></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
