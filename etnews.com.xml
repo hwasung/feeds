@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 11 Nov 2026 11:30:30 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 12:30:35 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>위즈코어, &apos;2026 로보월드&apos;서 이기종 설비 잇는 통합 운영 방안 제시</title>
+			<link>https://www.etnews.com/20261111000184</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261111000184</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 11 Nov 2026 11:22:29 +0900</pubDate>
+			<description><![CDATA[설계·제조 인공지능 전환(AX) 전문기업 위즈코어는 지난 4일부터 7일까지 경기 고양시 킨텍스에서 열린 '2026 로보월드(ROBOTWORLD 2026)'에 참가해 제조사와 기종이 다른 설비를 연결하는 통합 운영 방안을 제시했다고 11일 밝혔다. 위즈코어는 이번 전시에 로봇·자동화 장비 기업 4개사와 공동 부스로 참가했다. 공동 부스에는 하이브리드 이형 부품 삽입 자동화 전문기업 파워오토로보틱스, 셀렉티브 솔더링(Selective Solderi...]]></description>
+		</item>
 		<item>
 			<title>이찬희 삼성 준감위원장 “법적·윤리적 리스크에 선제적 컴플라이언스 전략 논의”</title>
 			<link>https://www.etnews.com/20261111000163</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 11 Nov 2026 09:48:07 +0900</pubDate>
 			<description><![CDATA[강원 춘천의 공간 인공지능(AI) 전문기업 더픽트가 중소벤처기업부의 딥테크 팁스(TIPS)에 선정돼 공간 AI 운영체제 개발에 나선다. 더픽트(대표 전창대)는 딥테크 팁스 선정으로 3년간 최대 15억원의 연구개발(R&D) 자금을 지원받는다고 11일 밝혔다. 2021년 일반 팁스 선정 이후 후속 투자와 사업 성과를 바탕으로 딥테크 트랙에 진입했다. 운영사는 더존비즈온이 맡았다. 개발 과제는 '자율 인지·추론형 시맨틱 디지털트윈 기반 공간 AI 운...]]></description>
-		</item>
-		<item>
-			<title>GTA 6 출시 앞두고 콘솔 탈옥·가짜 다운로드 사기 기승…게이머 보안 주의보</title>
-			<link>https://www.etnews.com/20261111000073</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261111000073</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 11 Nov 2026 09:44:50 +0900</pubDate>
-			<description><![CDATA[2020년대 최대 기대작으로 꼽히는 '그랜드 테프트 오토 6(GTA 6)'의 오는 19일 출시를 앞두고 게이머를 겨냥한 사이버 위협이 확산하고 있다. 콘솔 탈옥과 펌웨어 취약점 악용을 내세워 미지원 기기에서 게임을 실행할 수 있다고 홍보하는 웹사이트와 온라인 커뮤니티, 동영상 콘텐츠가 잇따라 등장하면서다. 사이버보안 기업 서프샤크(Surfshark)는 출시를 앞둔 게이머들에게 비공식 탈옥 정보와 출처가 불분명한 다운로드 콘텐츠에 각별한 주의를...]]></description>
 		</item>
 	</channel>
 </rss>
