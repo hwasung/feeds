@@ -4,7 +4,7 @@
 		<title>정책연구관리시스템 - 국방</title>
 		<link>https://www.prism.go.kr/</link>
 		<description>정책연구관리시스템 - 국방</description>
-		<lastBuildDate>Wed, 11 Nov 2026 10:27:00 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 11:12:11 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>방위사업감독 조직 및 역할 고도화 방안 연구</title>
@@ -13,97 +13,19 @@
 			<author>안보경영연구원</author>
 			<category>국방</category>
 			<pubDate>Wed, 30 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>함정 운항안전성 인증법 발의 관련 수상함 감항인증 적용방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1690000-202500017</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1690000-202500017</guid>
-			<author>국방기술품질원</author>
-			<category>국방</category>
-			<pubDate>Fri, 13 Mar 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>군용 소형 드론 관리체계 구축 방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1690000-202500020</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1690000-202500020</guid>
-			<author>서울대학교산학협력단</author>
-			<category>국방</category>
-			<pubDate>Thu, 05 Mar 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>유무인 복합 무기체계를 활용한 미래 특수작전 수행개념</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1290000-202500037</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1290000-202500037</guid>
-			<author>(사)한국국가전략연구원</author>
-			<category>국방</category>
-			<pubDate>Mon, 16 Feb 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>FMS와 상업구매 경쟁추진 개선방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1690000-202500005</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1690000-202500005</guid>
-			<author>한성대학교 산학협력단</author>
-			<category>국방</category>
-			<pubDate>Tue, 27 Jan 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>지속가능한 방산수출 기반 마련을 위한 수출품목 다변화 방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1690000-202500031</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1690000-202500031</guid>
-			<author>안보경영연구원</author>
-			<category>국방</category>
-			<pubDate>Sat, 24 Jan 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>군 복무 중 사망한 미순직자 재조사 등 방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1290000-202600005</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1290000-202600005</guid>
-			<author>(사)한국국가전략연구원</author>
-			<category>국방</category>
-			<pubDate>Wed, 14 Jan 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>군 사이버 네트워크작전 간 AI 활용방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1290000-202500028</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1290000-202500028</guid>
-			<author>경기대학교 산학협력단</author>
-			<category>국방</category>
-			<pubDate>Wed, 31 Dec 2025 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>드론 통합관제체계 구축 추진전략 수립 연구 용역</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1290000-202600004</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1290000-202600004</guid>
-			<author>아이비리더스</author>
-			<category>국방</category>
-			<pubDate>Wed, 31 Dec 2025 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>군사시설보호구역등의 토지이용규제 정비방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1290000-202600013</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1290000-202600013</guid>
-			<author>LX 공간정보연구원</author>
-			<category>국방</category>
-			<pubDate>Fri, 26 Dec 2025 00:00:00 +0900</pubDate>
-			<description><![CDATA[<!doctype html><html><head><meta/><meta/><meta/><meta/><meta/><link/><link/><link/><link/><link/><link/><link/><link/><link/><link/><title>정책연구관리시스템 PRISM</title><base><link/></head><body><noscript>You need to enable JavaScript to run this app.</noscript></body></html>]]></description>
+			<description><![CDATA[<ul>
+<li>관리기관: 방위사업청</li>
+<li>수행기관: 안보경영연구원</li>
+<li>연구기간: 2026-03-31 ~ 2026-09-30</li>
+</ul>
+<br/>
+<b>목차</b><br/>
+<br/>
+1 연구개요<br/>2 방위사업감독관 현황<br/>3 방위사업감독관의 현주소<br/>4 국내 방산 환경 변화에 따른 감독관 역할 고도화 방향<br/>5 국내외 유사 업무 조직 사례 조사<br/>6 방위사업감독관 조직 및 역할 고도화를 위한 개선방안<br/>7 결론 및 정책적 제언<br/>
+<br/>
+<b>초록</b><br/>
+<br/>
+방위사업감독관 업무-사업검증 법무지원 정보수집-는 신설 초기 경직된 업무와 부정적 이미지에서 벗어나 현재는 오히려 사업을 추진하는데 위험요인을 최소화할 뿐 아니라 사업관리자 관점에서 해결책을 제시해주고 경험을 사업관리자와 상호 공유하는 분위기로 전환된 상황이라 보인다 이는 감독관이 관련 제도개선 추진 ‘방위사업감독 체크리스트  주요사례’ 배포 온라인 교육 등을 통해 방위사업이 지속 발전하도록 조율하는 코디네이터 역할을 맡고 있기 때문이라 생각된다<br/>한편 국내 무기가 이른바 ‘K-방산’으로 글로벌 방산시장의 이목을 받으면서 무기체계 연구개발사업이 활기를 띠고 있는 가운데 업체의 해외시장 진출도 다각화되고 있다 그런데 이는 국제계약 분쟁 기술 유출 이해충돌 및 공정성 문제 등 수출확대와 함께 증대하는 위험요인을 내재하고 있다<br/>이에 따라 감독관의 업무는 수출 리스크 관리까지 확대될 필요가 있다고 본다 즉 국제계약과 사업관리 과정에서 발생할 수 있는 법률적 사업적 위험요인을 선제적으로 관리해야 한다는 의미이다 여기서 감독관의 수출 관련 업무가 ‘규제’나 ‘통제’가 아닌 ‘지원’의 개념을 가지고 있어야 하며 동시에 기존 업무와도 연계하여 기능과 역할이 확대되어야 할 것으로 보인다 특히 검증업무의 고도화와 법무 지원 역할 확대 등이 그 대상으로 판단된다 또한 표면적인 이미지 개선 차원에서 감독관의 기능 및 역할이 제고될 필요가 있다 단적인 예로 ‘감독관’이란 명칭 자체가 외부적으로 경직되고 부정적인 이미지를 보여주고 있으며 이는 감사관과의 업무 경계도 모호하게 한다고 본다<br/>그래서 본 연구는 감독관의 대내외적 인식과 현 업무효과에 대한 전반적인 검토를 통해 기능 및 역할 조직에 이르기까지 개선될 사항과 그 방안을 모색하여 제시하는데 목적을 두고 있다]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
