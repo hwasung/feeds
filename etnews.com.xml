@@ -4,8 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 11 Nov 2026 17:30:34 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 18:31:26 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[기고]인천공항 체크인 시스템 장애, 분산형 이중화 블록체인 기술로 해법 찾는다</title>
+			<link>https://www.etnews.com/20261111000449</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261111000449</guid>
+			<category>오피니언</category>
+			<pubDate>Wed, 11 Nov 2026 17:52:45 +0900</pubDate>
+			<description><![CDATA[지난 10월 30일 인천국제공항에서 발생한 항공사 체크인 시스템 장애는 세계적인 허브공항의 운영 안정성이 글로벌 통신망에 얼마나 크게 의존하고 있는지를 보여준 사건이다. 이번 장애를 계기로 중앙집중형 통신 인프라의 한계를 보완하고, 네트워크 단절 상황에서도 핵심 서비스를 지속할 수 있는 분산형 엣지 컴퓨팅 기술의 필요성이 제기되고 있다. 인천국제공항공사에 따르면 이날 오전 4시 30분부터 항공사 발권과 체크인 업무를 연결하는 글로벌 통신망에 장...]]></description>
+		</item>
+		<item>
+			<title>국가평생교육진흥원, 학부모교육 전문강사 역량 강화 연수 성료</title>
+			<link>https://www.etnews.com/20261111000448</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261111000448</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 11 Nov 2026 17:45:41 +0900</pubDate>
+			<description><![CDATA[국가평생교육진흥원이 교육부와 11일까지 이틀간 '2026년 학부모교육 전문강사 역량 강화 연수' 심화과정을 개최했다. 이번 연수는 2025년부터 2026년까지 총 세 차례에 걸쳐 운영한 '학부모교육 전문강사 연수 기본과정' 후속 과정이다. 기존 수료자 강의 경험을 바탕으로 교육 설계·교수 역량을 한층 강화하고, 지역 학부모교육 현장에서 실질적인 활용도를 높이기 위해 마련됐다. 연수에는 전국 시·도교육청 및 학부모지원센터 관계자, 학부모 교육·상...]]></description>
+		</item>
 		<item>
 			<title>[사설] 가전 에너지효율 눈속임 근절돼야</title>
 			<link>https://www.etnews.com/20261111000375</link>
@@ -74,24 +91,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 11 Nov 2026 15:55:25 +0900</pubDate>
 			<description><![CDATA[국가보안기술연구소(NSR, 이하 국보연) 신임 소장으로 임정석 책임연구원이 내정됐다. 11일 업계에 따르면 임 연구원이 차기 국보연 소장으로 결정됐다. 국보연은 한국전자통신연구원(ETRI) 부호팀과 국방과학연구소(ADD) 샛별팀의 암호관련 부서가 통합, 2000년 만들어진 곳이다. 외형상 ETRI 부설기관으로 돼 있다. 국가 보안기술 전반을 담당한다. 국보연 소장의 임기는 3년이며 연임이 가능하다. 임정석 국보연 소장 내정자는 ADD 샛별팀 출...]]></description>
-		</item>
-		<item>
-			<title>NHN클라우드, 상명대와 바이오헬스 분야 협력 체계 마련…실무형 인재 양성</title>
-			<link>https://www.etnews.com/20261111000382</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261111000382</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 11 Nov 2026 15:15:47 +0900</pubDate>
-			<description><![CDATA[NHN클라우드가 상명대학교와 손잡고 바이오헬스 연구·교육 분야의 클라우드 활용을 확대하고 전문인력 양성에 나선다. NHN클라우드는 상명대학교 바이오헬스 혁신융합대학 사업단과 바이오헬스 분야의 클라우드 활용 확대 및 전문인력 양성을 위한 업무협약을 체결했다고 11일 밝혔다. 상명대학교 바이오헬스 혁신융합대학 사업단은 교육부와 한국연구재단이 주관하는 첨단분야 혁신융합대학사업(COSS)의 바이오헬스 분야 컨소시엄에 참여하고 있다. 해당 사업은 여러...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] AI+X 투자사협의회 “AI 기업 키울 전주기 투자 생태계 구축해야”</title>
-			<link>https://www.etnews.com/20261111000371</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261111000371</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 11 Nov 2026 15:09:15 +0900</pubDate>
-			<description><![CDATA[“인공지능(AI)·딥테크 기업이 성장하려면 기술과 자본, 산업 현장이 끊김 없이 연결되는 생태계가 필요합니다.” AI+X 투자사협의회(이하 협의회) 공동회장인 최치호 한국과학기술지주 대표와 조남훈 케이그라운드벤처스 대표는 최근 본지와 만나 국내 AI·딥테크 기업의 기술을 사업화로 연결할 투자 생태계 구축의 중요성을 강조했다. 유망 기술이 있어도 자금과 시장 진입 기회가 끊기면 사업화가 어려운 만큼, 기술과 자본, 산업계의 인공지능 전환(AX)...]]></description>
 		</item>
 	</channel>
 </rss>
