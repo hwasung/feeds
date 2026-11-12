@@ -4,8 +4,17 @@
 		<title>방위사업청 사전정보공개</title>
 		<link>https://www.dapa.go.kr/dapa/na/co/priorInfo.do?bbsSeq=243&amp;menuSeq=3049</link>
 		<description>방위사업청 사전정보공개</description>
-		<lastBuildDate>Wed, 11 Nov 2026 14:30:25 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 09:30:28 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>(2025) 부패공익신고 및 보상 사례집</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59463&amp;menuSeq=3838&amp;bbsSeq=245</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59463&amp;menuSeq=3838&amp;bbsSeq=245</guid>
+			<author>황경태</author>
+			<category>행정감시 관련정보</category>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<p>국민권익위원회에서 발간한 (2025) 부패공익신고 및 보상 사례집 입니다.</p>]]></description>
+		</item>
 		<item>
 			<title>방위사업청 전문연구기관 위촉현황(&apos;26.11.11.)</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59452&amp;menuSeq=3847&amp;bbsSeq=246</link>
@@ -86,15 +95,6 @@
 			<category>기타 공개정보</category>
 			<pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<p>사업검증담당관실 필수검증 실시 현황(10월말 기준)</p>]]></description>
-		</item>
-		<item>
-			<title>F-15K 성능개량 3종 사업 추진현황</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59424&amp;menuSeq=3802&amp;bbsSeq=362</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59424&amp;menuSeq=3802&amp;bbsSeq=362</guid>
-			<author>신민철</author>
-			<category>사업정보</category>
-			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p>F-15K 성능개량 3종 사업 추진현황</p>]]></description>
 		</item>
 	</channel>
 </rss>
