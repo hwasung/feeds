@@ -4,8 +4,35 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 12 Nov 2026 18:31:45 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 19:30:32 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>NIA “AI 포용 정책, 이용 접근성 넘어 판단·검증 역량 살펴야”</title>
+			<link>https://www.etnews.com/20261112000471</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261112000471</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 12 Nov 2026 18:31:57 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 시대 디지털 포용 정책을 설계할 때 기술 접근성 뿐만 아니라 생성 결과를 판단·검증하는 역량까지 고려해야 한다는 제언이 나왔다. 12일 한국지능정보사회진흥원(NIA)은 최근 발간한 '누가 AI 시대의 취약계층인가: 디지털 접근 격차를 넘어 AI를 판단하는 역량의 격차로' 보고서에서 이같이 강조했다. 연구를 총괄한 김태원 NIA AI정책연구팀 팀장은 “기존에 디지털 취약계층 지원 정책이 기기 보급과 활용에 집중했다면, 이제는 판단...]]></description>
+		</item>
+		<item>
+			<title>솔트룩스, 국가기록원 지능형 검색 AI 에이전트로 고도화</title>
+			<link>https://www.etnews.com/20261112000470</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261112000470</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 12 Nov 2026 18:27:40 +0900</pubDate>
+			<description><![CDATA[솔트룩스는 국가기록원 '인공지능(AI) 기반 지능형 기록정보 검색 솔루션 개발·실증 사업'을 추진한다고 12일 밝혔다. 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 부처 협업 AI 확산 사업으로, 국민이 방대한 국가기록을 쉽고 정확하게 활용할 수 있는 환경을 마련하는 것이 목표다. 솔트룩스는 데이터 구축과 AI 에이전트 검색 기능의 통합 검증을 진행하고 있다. 현재까지 약 2380만건의 기록물 목록과 54만여건의 원문 데이터를 색...]]></description>
+		</item>
+		<item>
+			<title>노타, 하이퍼엑셀과 &apos;AI 반도체 최적화&apos; 후속 계약 체결</title>
+			<link>https://www.etnews.com/20261112000469</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261112000469</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 12 Nov 2026 18:25:22 +0900</pubDate>
+			<description><![CDATA[노타는 하이퍼엑셀과 거대언어모델(LLM) 최적화 기술 공급 후속 계약을 체결했다고 12일 밝혔다. 지난해 9월 첫 계약에 이어 2년 연속 수주다. 하이퍼엑셀 LLM 추론 전용 반도체 '베르다 LPU'에 LLM과 연산 최적화 기술을 공급한다. 베르다에서 실행할 수 있는 LLM의 범위를 넓혀 서비스 목적에 맞는 인공지능(AI) 모델을 활용할 수 있게 지원한다. AI 최적화 플랫폼 '넷츠프레소'를 활용해 베르다의 하드웨어(HW) 특성에 맞춘 모델 최...]]></description>
+		</item>
 		<item>
 			<title>[신간안내] 아이들 방에서 흘러나온 노래가 대화로…&apos;노래를 듣다, 마음을 잇다&apos; 출간</title>
 			<link>https://www.etnews.com/20261112000465</link>
@@ -66,33 +93,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 12 Nov 2026 17:05:30 +0900</pubDate>
 			<description><![CDATA[성균관대학교(총장 유지범)는 지난 6일부터 7일까지 이틀간 서울 종로구 인문사회과학캠퍼스 국제관에서 고교생과 대학, 첨단 기업이 함께하는 '인공지능(AI) 심화연구반 멘토링 캠프'를 개최했다고 밝혔다. 행사는 성균관대 실감미디어공학과와 인공지능융합학과 소속 5개 연구실이 중심이 되어 기획됐다. 대학에서 진행 중인 최첨단 AI 연구 성과를 나누고, 급변하는 인공지능 기술의 흐름을 중·고등학생 눈높이에 맞춰 알기 쉽게 소개하는 자리였다. 아울러 미...]]></description>
-		</item>
-		<item>
-			<title>[사설] 메가프로젝트 첫삽, 진척 속도가 중요하다</title>
-			<link>https://www.etnews.com/20261112000348</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261112000348</guid>
-			<author>논설위원실</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 12 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[충청권 메가프로젝트의 핵심인 삼성전자 온양 5라인이 12일 첫삽을 떴다. 35년간 범용 메모리 후공정을 맡아온 구공정 기지가 총 46조원 규모 투자를 통해 차세대 고대역폭메모리(HBM) 패키징 전초기지로 환골탈태한다. 주목할 대목은 인허가 패스트트랙을 통해 소요 기간을 기존 대비 3분의1로 줄이며 가동 목표 시점을 2028년 6월로 1년 앞당긴 속도전이다. 기업의 과감한 투자 결단과 충남도·아산시의 행정 지원, 중앙정부의 정책 역량이 맞물려 빚...]]></description>
-		</item>
-		<item>
-			<title>스크립스코리아항체연구원 제8대 원장에 왕명현 강원대 명예교수 취임</title>
-			<link>https://www.etnews.com/20261112000060</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261112000060</guid>
-			<author>권상희</author>
-			<category>오피니언</category>
-			<pubDate>Thu, 12 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[스크립스코리아항체연구원 제8대 원장에 왕명현 강원대학교 의생명공학과 명예교수가 취임했다. 스크립스코리아항체연구원은 왕명현 신임 원장이 12일 우상호 강원특별자치도지사로부터 임명장을 받고 공식 업무를 시작했다고 밝혔다. 임기는 2029년 11월 11일까지 3년이다. 왕 신임 원장은 강원대 식품공학과를 졸업하고 같은 대학 대학원에서 식품공학 석사학위를 받았다. 이후 영국 리즈대학교(University of Leeds)에서 유전공학 박사학위를 취득했...]]></description>
-		</item>
-		<item>
-			<title>나무AX, 3분기 누적 매출 1081억…나무ICT 성장 영향</title>
-			<link>https://www.etnews.com/20261112000424</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261112000424</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 12 Nov 2026 16:32:47 +0900</pubDate>
-			<description><![CDATA[나무AX가 자회사 성장과 가상화·클라우드 사업 확대에 힘입어 3분기 만에 지난해 연간 매출을 넘어섰다. 나무AX는 연결 기준 지난 3분기 매출은 357억원으로 전년 동기 대비 9% 늘어난 것으로 잠정집계됐다고 12일 공시했다. 다만 같은기간 영업이익은 6억원으로 80% 줄었다. 3분기 누적 연결 매출은 1081억원을 기록했다. 전년 동기보다 60.7% 늘어난 규모로, 지난해 연간 매출 1023억원을 9개월 만에 넘어선 것이다. 누적으로 보면 수...]]></description>
 		</item>
 	</channel>
 </rss>
