@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Thu, 12 Nov 2026 11:57:48 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 12:44:13 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[낙찰] 군.관.민 통합, 테마형 드론센터 구축</title>
@@ -13,19 +13,14 @@
 			<author>국방부(운영지원과)</author>
 			<category>낙찰</category>
 			<pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 긴급공고 MCD0074</li>
-	<li>발주기관: 국방부(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-27 17:00</li>
-	<li>입찰결과
-		<ul>
-			<li>명지대학교 산학협력단: 낙찰</li>
-			<li>사단법인 안보경영연구원: 탈락</li>
-			<li>중원대학교 산학협력단: 탈락</li>
-			<li>제이에스융합교육 주식회사: 탈락</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 긴급공고 MCD0074
+  • 발주기관: 국방부(운영지원과)
+  • 개찰/협상일시: 2026-10-27 17:00
+  • 입찰결과
+    . 명지대학교 산학협력단: 낙찰
+    . 사단법인 안보경영연구원: 탈락
+    . 중원대학교 산학협력단: 탈락
+    . 제이에스융합교육 주식회사: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -35,17 +30,12 @@
 			<author>방위사업청(운영지원과)</author>
 			<category>낙찰</category>
 			<pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 긴급공고 MHD0081</li>
-	<li>발주기관: 방위사업청(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-23 15:00</li>
-	<li>입찰결과
-		<ul>
-			<li>(재)동양경제연구원: 낙찰</li>
-			<li>사단법인 한국기업연구원: 탈락</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 긴급공고 MHD0081
+  • 발주기관: 방위사업청(운영지원과)
+  • 개찰/협상일시: 2026-10-23 15:00
+  • 입찰결과
+    . (재)동양경제연구원: 낙찰
+    . 사단법인 한국기업연구원: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -55,20 +45,15 @@
 			<author>방위사업청(운영지원과)</author>
 			<category>순위확정</category>
 			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 정상공고 MHD0068</li>
-	<li>발주기관: 방위사업청(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-15 15:00</li>
-	<li>입찰결과
-		<ul>
-			<li>프런티어랩 주식회사: 탈락</li>
-			<li>중앙대학교 산학협력단: 2순위</li>
-			<li>세종대학교산학협력단: 1순위</li>
-			<li>사단법인 안보경영연구원: 3순위</li>
-			<li>명지대학교 산학협력단: 4순위</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 정상공고 MHD0068
+  • 발주기관: 방위사업청(운영지원과)
+  • 개찰/협상일시: 2026-10-15 15:00
+  • 입찰결과
+    . 프런티어랩 주식회사: 탈락
+    . 중앙대학교 산학협력단: 2순위
+    . 세종대학교산학협력단: 1순위
+    . 사단법인 안보경영연구원: 3순위
+    . 명지대학교 산학협력단: 4순위]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -78,18 +63,13 @@
 			<author>방위사업청(운영지원과)</author>
 			<category>낙찰</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 정상공고 MHD0067</li>
-	<li>발주기관: 방위사업청(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-13 15:00</li>
-	<li>입찰결과
-		<ul>
-			<li>사단법인 안보경영연구원: 낙찰</li>
-			<li>한성대학교 산학협력단: 탈락</li>
-			<li>한남대학교 산학협력단: 탈락</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 정상공고 MHD0067
+  • 발주기관: 방위사업청(운영지원과)
+  • 개찰/협상일시: 2026-10-13 15:00
+  • 입찰결과
+    . 사단법인 안보경영연구원: 낙찰
+    . 한성대학교 산학협력단: 탈락
+    . 한남대학교 산학협력단: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -99,17 +79,12 @@
 			<author>방위사업청(운영지원과)</author>
 			<category>순위확정</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 정상공고 MHD0065</li>
-	<li>발주기관: 방위사업청(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-13 15:00</li>
-	<li>입찰결과
-		<ul>
-			<li>한성대학교 산학협력단: 2순위</li>
-			<li>사단법인 안보경영연구원: 1순위</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 정상공고 MHD0065
+  • 발주기관: 방위사업청(운영지원과)
+  • 개찰/협상일시: 2026-10-13 15:00
+  • 입찰결과
+    . 한성대학교 산학협력단: 2순위
+    . 사단법인 안보경영연구원: 1순위]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -119,19 +94,14 @@
 			<author>방위사업청(운영지원과)</author>
 			<category>낙찰</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 긴급공고 MHD0073</li>
-	<li>발주기관: 방위사업청(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-13 15:00</li>
-	<li>입찰결과
-		<ul>
-			<li>산업연구원: 낙찰</li>
-			<li>사단법인 안보경영연구원: 탈락</li>
-			<li>국방대학교산학협력단: 탈락</li>
-			<li>프런티어랩 주식회사: 탈락</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 긴급공고 MHD0073
+  • 발주기관: 방위사업청(운영지원과)
+  • 개찰/협상일시: 2026-10-13 15:00
+  • 입찰결과
+    . 산업연구원: 낙찰
+    . 사단법인 안보경영연구원: 탈락
+    . 국방대학교산학협력단: 탈락
+    . 프런티어랩 주식회사: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -141,17 +111,12 @@
 			<author>국방부(운영지원과)</author>
 			<category>낙찰</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 긴급공고 MCD0072</li>
-	<li>발주기관: 국방부(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-13 12:00</li>
-	<li>입찰결과
-		<ul>
-			<li>단국대학교 산학협력단: 낙찰</li>
-			<li>경희대학교 산학협력단: 탈락</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 긴급공고 MCD0072
+  • 발주기관: 국방부(운영지원과)
+  • 개찰/협상일시: 2026-10-13 12:00
+  • 입찰결과
+    . 단국대학교 산학협력단: 낙찰
+    . 경희대학교 산학협력단: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -161,18 +126,13 @@
 			<author>국방부(운영지원과)</author>
 			<category>낙찰</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고번호: 긴급공고 MCD0073</li>
-	<li>발주기관: 국방부(운영지원과)</li>
-	<li>개찰/협상일시: 2026-10-13 12:00</li>
-	<li>입찰결과
-		<ul>
-			<li>법무법인(유한)태평양: 낙찰</li>
-			<li>한국법제연구원: 탈락</li>
-			<li>(재)한국법령정보원: 탈락</li>
-		</ul>
-	</li>
-</ul>]]></description>
+			<description><![CDATA[• 공고번호: 긴급공고 MCD0073
+  • 발주기관: 국방부(운영지원과)
+  • 개찰/협상일시: 2026-10-13 12:00
+  • 입찰결과
+    . 법무법인(유한)태평양: 낙찰
+    . 한국법제연구원: 탈락
+    . (재)한국법령정보원: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
