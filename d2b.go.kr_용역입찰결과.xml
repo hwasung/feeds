@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Thu, 12 Nov 2026 12:44:13 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 23:09:20 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[낙찰] 군.관.민 통합, 테마형 드론센터 구축</title>
@@ -20,7 +20,12 @@
     . 명지대학교 산학협력단: 낙찰
     . 사단법인 안보경영연구원: 탈락
     . 중원대학교 산학협력단: 탈락
-    . 제이에스융합교육 주식회사: 탈락]]></description>
+    . 제이에스융합교육 주식회사: 탈락
+  • 입찰결과
+    ◦ 명지대학교 산학협력단: 낙찰
+    ◦ 중원대학교 산학협력단: 탈락
+    ◦ 사단법인 안보경영연구원: 탈락
+    ◦ 제이에스융합교육 주식회사: 탈락]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
@@ -36,7 +41,6 @@
   • 입찰결과
     . (재)동양경제연구원: 낙찰
     . 사단법인 한국기업연구원: 탈락]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[순위확정] 클라우드서비스 도입 대비 방산기술보호 대책 수립</title>
@@ -54,7 +58,6 @@
     . 세종대학교산학협력단: 1순위
     . 사단법인 안보경영연구원: 3순위
     . 명지대학교 산학협력단: 4순위]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 스마트공장 원가산정 및 이윤구조 개선 방안 연구</title>
@@ -70,7 +73,6 @@
     . 사단법인 안보경영연구원: 낙찰
     . 한성대학교 산학협력단: 탈락
     . 한남대학교 산학협력단: 탈락]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[순위확정] 함정 무기체계 제안서평가 평가항목 및 배점연구</title>
@@ -85,7 +87,6 @@
   • 입찰결과
     . 한성대학교 산학협력단: 2순위
     . 사단법인 안보경영연구원: 1순위]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 방위사업 분야 핵심품목 공급망 안정화 방안 연구</title>
@@ -102,7 +103,6 @@
     . 사단법인 안보경영연구원: 탈락
     . 국방대학교산학협력단: 탈락
     . 프런티어랩 주식회사: 탈락]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 핵추진잠수함 원자력 안전관리체계 기술기준 연구</title>
@@ -117,7 +117,6 @@
   • 입찰결과
     . 단국대학교 산학협력단: 낙찰
     . 경희대학교 산학협력단: 탈락]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 핵추진잠수함 특별법 하위법령 제정 연구</title>
@@ -133,7 +132,6 @@
     . 법무법인(유한)태평양: 낙찰
     . 한국법제연구원: 탈락
     . (재)한국법령정보원: 탈락]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
