@@ -4,8 +4,20 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Mon, 09 Nov 2026 16:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 16:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>이라크 천궁Ⅱ 수출 탄력..논란이던 대금지급 해결</title>
+			<link>https://www.fnnews.com/news/202611111614111177</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202611111614111177</guid>
+			<author>정원일</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Thu, 12 Nov 2026 15:37:06 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]이라크 정부가 약 3조7000억원 규모의 한국산 중거리 지대공 유도무기 천궁Ⅱ 도입 계약에 대한 자금 지원을 지시했다. 계약 체결 이후 현지에서 대금 지급 지연 주장이 제기되고 양국 간 금융 협의가 이어진 가운데 나온 조치다. 계약 당사자인 LIG디펜스앤에어로스페이스(LIG D&A)는 선급금을 정상적으로 수령했으며 사업 일정에도 변동이 없다는 입장이다.
+12일 업계에 따르면 이라크 재무부는 전날 재무·국방장관 회동에서 한국산 방공체계 구매계약에 자금을 지원하도록 지시했다고 발표했다. 영공 보호와 군의 방위능력 개발 계획을 지원하기 위한 조치라는 설명이다. 재무부는 군의 무장과 장비 확보에 필요한 재원을 제공하겠다는 방침도 밝혔다. 이번 조치는 천궁Ⅱ 계약과 관련된 것으로 파악됐다.
+천궁Ⅱ는 적 항공기와 탄도...]]></description>
+		</item>
 		<item>
 			<title>한화에어로, 軍정비센터 짓고 수출무기 MRO 나선다</title>
 			<link>https://www.fnnews.com/news/202611091532250880</link>
@@ -117,18 +129,6 @@ LIG D&A는 이번 행사에서 소형 정찰·타격 복합형 드론(MPD)과 �
 			<description><![CDATA[[파이낸셜뉴스]한국항공우주산업(KAI)이 인공지능(AI)을 활용해 무기체계의 고장을 예측하고 유지·보수 비용을 관리하는 통합 군수 분석 플랫폼 개발에 나선다.
 KAI는 4일 대전컨벤션센터에서 국방부, 산업통상부, 민군협력진흥원, 군 및 정부 관계자 등 100여명이 참석한 가운데 'RAM-C AI 에이전트' 개발 사업 착수 회의를 개최했다고 밝혔다. 이번 사업은 국방부와 산업부가 출연하고 국방과학연구소 민군협력진흥원이 주관하는 부처 연계 협력 기술개발 과제다. 총사업비는 293억원으로 개발 기간은 48개월이다. KAI는 지난 9월 주관 연구개발기관으로 선정돼 민군협력진흥원과 협약을 체결했다.
 RAM-C는 무기체계의 신뢰도(Reliability), 가용도(Availability), 정비도(Maintainability), 비용(Cost)을 뜻한다. 무기체계의 도입부터 운용·유지, 성능개량, 퇴역에 이르...]]></description>
-		</item>
-		<item>
-			<title>한화에어로, 국내 최대 민간 우주발사체 생산기지 가동</title>
-			<link>https://www.fnnews.com/news/202611041426575836</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202611041426575836</guid>
-			<author>정원일</author>
-			<category>산업|대기업</category>
-			<category>산업</category>
-			<pubDate>Wed, 04 Nov 2026 14:41:59 +0900</pubDate>
-			<description><![CDATA[[파이낸셜뉴스]한화에어로스페이스가 전남 순천에 국내 최대 규모의 민간 우주발사체 생산거점을 구축했다. 누리호를 비롯한 국가 우주발사체부터 자체 개발 발사체까지 생산하는 통합 제조시설을 확보하면서 글로벌 우주수송 시장 진출에 속도를 낼 전망이다.
-한화에어로스페이스는 4일 전남광주 순천시 율촌산업단지에서 우주발사체 제조센터인 '순천사업장' 준공식을 개최했다고 밝혔다. 이날 행사에는 민형배 전남광주통합특별시장, 김문수·황정아 더불어민주당 의원, 권현준 우주항공청 차장, 손훈모 순천시장 등 관계자 300여명이 참석했다.
-약 1만8000평 규모로 조성된 순천사업장은 우주발사체 주요 구성품의 통합·조립과 성능 검증을 담당한다. 오는 2027년 발사 예정인 누리호 6호기에 사용되는 75t급 엔진을 비롯해 발사체 1·2&midd...]]></description>
 		</item>
 	</channel>
 </rss>
