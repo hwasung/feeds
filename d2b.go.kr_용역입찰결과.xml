@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Thu, 12 Nov 2026 11:30:13 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 11:39:29 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[낙찰] 군.관.민 통합, 테마형 드론센터 구축</title>
@@ -29,21 +29,6 @@
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
-			<title>[낙찰] 군.관.민 통합, 테마형 드론센터 구축</title>
-			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=41027&amp;csrt_numb=41027&amp;dmst_itnb=***&amp;bidx_date=20261027&amp;benf_pldt=20261027&amp;anmt_numb=MCD0074&amp;rqst_degr=1&amp;anmt_degr=1</link>
-			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=41027&amp;csrt_numb=41027&amp;dmst_itnb=***&amp;bidx_date=20261027&amp;benf_pldt=20261027&amp;anmt_numb=MCD0074&amp;rqst_degr=1&amp;anmt_degr=1</guid>
-			<author>국방부(운영지원과)</author>
-			<category>낙찰</category>
-			<pubDate>Tue, 27 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-<li>명지대학교 산학협력단: 낙찰</li>
-<li>사단법인 안보경영연구원: 탈락</li>
-<li>중원대학교 산학협력단: 탈락</li>
-<li>제이에스융합교육 주식회사: 탈락</li>
-</ul>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
 			<title>[낙찰] 26년 8차 방위사업 원가계산 외부용역</title>
 			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MHD&amp;dcsn_numb=40619&amp;csrt_numb=40619&amp;dmst_itnb=***&amp;bidx_date=20261023&amp;benf_pldt=20261023&amp;anmt_numb=MHD0081&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=1</link>
 			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MHD&amp;dcsn_numb=40619&amp;csrt_numb=40619&amp;dmst_itnb=***&amp;bidx_date=20261023&amp;benf_pldt=20261023&amp;anmt_numb=MHD0081&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=1</guid>
@@ -60,19 +45,6 @@
 			<li>사단법인 한국기업연구원: 탈락</li>
 		</ul>
 	</li>
-</ul>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>[낙찰] 26년 8차 방위사업 원가계산 외부용역</title>
-			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MHD&amp;dcsn_numb=40619&amp;csrt_numb=40619&amp;dmst_itnb=***&amp;bidx_date=20261023&amp;benf_pldt=20261023&amp;anmt_numb=MHD0081&amp;rqst_degr=1&amp;anmt_degr=1</link>
-			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MHD&amp;dcsn_numb=40619&amp;csrt_numb=40619&amp;dmst_itnb=***&amp;bidx_date=20261023&amp;benf_pldt=20261023&amp;anmt_numb=MHD0081&amp;rqst_degr=1&amp;anmt_degr=1</guid>
-			<author>방위사업청(운영지원과)</author>
-			<category>낙찰</category>
-			<pubDate>Fri, 23 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul>
-<li>(재)동양경제연구원: 낙찰</li>
-<li>사단법인 한국기업연구원: 탈락</li>
 </ul>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
