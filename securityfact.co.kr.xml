@@ -4,8 +4,72 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Thu, 12 Nov 2026 15:31:14 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 16:31:12 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>미 CISA, 사이버·인프라 위협 선제 대응 내부 지침 가동…군사·정보 기획 체계 도입</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8117</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8117</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Thu, 12 Nov 2026 15:40:21 +0900</pubDate>
+			<description><![CDATA[<p>
+   <br />
+</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2611/20261112153658_02c22e8d.jpg" alt="20261112 미CISA.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미국 사이버보안·인프라보안국(CISA) 로고 일러스트레이션./출처=SOPA Images</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>
+   <br />
+</p>
+<p>
+   <br />
+</p>
+<p>[시큐리티팩트=강태임 기자] 미국 사이버보안·인프라보안국(CISA)이 국가 핵심 인프라와 사이버 공간의 중대 위협을 위기 단계로 비화하기 전에 조기 식별하고 신속히 대응하기 위한 새로운 내부 의사결정 체계를 가동했다. 특히 기존 군사 및 정보기관의 작전 기획 용어를 도입해 실무진의 위협 분석과 지휘부의 결심 속도를 한층 끌어올리는 데 초점을 맞췄다.</p>
+<p>
+   <br />
+</p>
+<p>10일(현지시간) 미 연방정부 기술 전문매체 넥스트고브/FCW(Nextgov/FCW)에 따르면 닉 앤더슨 CISA 국장 대행은 지난 5일 전 직원에게 '공무용'으로 분류된 내부 이메일을 발송하고 새로운 위험 평가 및 의사결정 프레임워크를 회람했다.</p>
+<p>
+   <br />
+</p>
+<p>이번 지침은 고위 당국자들이 방대한 위협 데이터 속에서 불필요한 잡음을 걸러내고 단순 참고 정보와 임무 수행에 직결되는 핵심 정보를 명확히 구분해 적시에 결정을 내릴 수 있도록 설계됐다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
+      <img src="https://www.securityfact.co.kr/data/tmp/2611/20261112153840_d6876693.jpg" alt="20261112 닉 앤더슨 CISA 국장 대행.출처=블룸버그.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">닉 앤더슨 CISA 국장 대행./출처=블룸버그</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>새 프레임워크는 6가지 '작전 중점 분야'를 핵심 축으로 삼았다. 국가적 위험 평가와 주요 사이버 위협 방어, 중대 사고 대비를 비롯해 핵심 인프라의 마비·중단 사태 복원력 지원, 파트너 기관과의 협력 강화 등이 주요 우선순위에 포함됐다.</p>
+<p>
+   <br />
+</p>
+<p>이와 함께 지휘부의 신속한 상황 판단을 돕기 위해 '핵심 정보 요구사항(CIR)'과 '우선순위 첩보 요구사항(PIR)'을 구체화했다. CIR에는 위험 수준의 급격한 변화와 중대 위협·사고 발생 여부, 국가 핵심 인프라에 미치는 파급효과가 담겼다. 국가 전반의 대비 태세와 CISA 자체의 임무 수행 역량 점검 항목도 포함됐다.</p>
+<p>
+   <br />
+</p>
+<p>별도로 설정된 PIR은 정보·첩보 수집 역량을 집중해야 할 핵심 질문을 규명한다. 변화하는 안보 환경이 핵심 인프라에 미치는 영향과 중대 위기를 예고하는 조기 경고 징후, 미국 및 동맹국의 전산망과 산업 제어 시스템을 겨냥한 해킹 세력의 활동 위치와 수법이 주요 대상이다. 공급망·생산 역량 및 사이버·물리적 복합 위험 관리 실태 역시 핵심 질문에 포함됐다.</p>
+<p>
+   <br />
+</p>
+<p>미 국방부와 정보기관에서 오랫동안 활용해 온 PIR과 '지휘관 핵심 정보 요구사항(CCIR)' 개념을 사이버 방어 행정에 직접 접목한 것이 특징이다. 앤더슨 국장 대행은 이메일에서 "초기 CIR 발표는 우리 임무에 대해 신중하고 요구사항에 기반한 접근 방식을 취하는 출발점"이라며 향후 몇 달간 사이버 방어 조직 전반에 세부 이행 지침을 순차 배포할 계획이라고 밝혔다.</p>
+<p>
+   <br />
+</p>
+<p>이번 조치는 지난달 CISA가 발표한 중장기 청사진인 'CISA 2030 전략'과도 맞닿아 있다. 해당 전략은 위협 첩보 분석과 인프라 중단 시 파급효과 예측을 바탕으로 예산과 지원 우선순위를 결정하고 산업 기술 보호와 정보기관·민간 운영자 간 공조를 강화하는 내용을 담고 있다.</p>
+<p>
+   <br />
+</p>
+<p>한편 이번 내부 지침 배포는 도널드 트럼프 대통령이 지난 9일 팔란티어의 최고정보보안책임자(CISO)인 마이클 로사피오를 신임 CISA 국장으로 지명하기 불과 며칠 전에 이뤄졌다. 2025년 1월 트럼프 행정부 출범 이후 상원 인준을 거친 정식 국장 없이 대행 체제로 운영되어 온 CISA는 지난 2년간의 강도 높은 구조조정으로 전체 인력의 약 3분의 1이 감축된 상태다. 로사피오 지명자가 상원 인준을 통과할 경우 축소된 인력 구조 속에서 이번 새 의사결정 체계를 바탕으로 조직 재건과 임무 효율화를 이끄는 중책을 맡게 된다.</p>]]></description>
+		</item>
 		<item>
 			<title>[SF 포커스] 프랑스, 원양 작전용 대형 무인전투잠수정 개발 본격화…나발그룹과 계약</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8116</link>
@@ -555,61 +619,6 @@
 </p>
 <p>기업용 사이버보안 정보 서비스 업체 Breachsense는 BYOD를 랜섬웨어 그룹으로 추적하고 있다. 다만 그룹 활동 기록은 개별 피해 주장의 진위를 확인해 주지 않는다. 토요타 관련 내용도 독립적인 확인이 필요한 상태다.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>]]></description>
-		</item>
-		<item>
-			<title>에어버스·탈레스, 프랑스 차세대 군사정찰위성 만든다</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8107</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8107</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Tue, 10 Nov 2026 20:49:32 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2611/20261110204635_7c166d22.jpg" alt="20261110 IRIS.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">IRIS/출처=에어버스</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=최미옥 기자] 에어버스 디펜스 앤드 스페이스와 탈레스 알레니아 스페이스(TAS)가 프랑스군의 차세대 지구관측 위성 2기를 개발한다. 10일(현지시각) DefenseHere에 따르면, 두 회사는 프랑스 국방조달청(DGA)이 IRIS 프로그램 계약을 맡겼다고 발표했다. DGA는 계약을 지난 5일 통보했다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>계약에는 위성 2기의 상세 설계와 제조·시험, 위성 제어 및 사용자 지상 시스템 구축, 궤도 운영과 유지보수가 포함된다. 계약은 2030년대 말까지 이어지며, 에어버스는 컨소시엄 전체 계약 규모가 15억 유로(약 2조2500억 원)를 넘는다고 밝혔다. 회사별 계약액은 공개되지 않았다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>IRIS는 현재 프랑스군의 우주 기반 영상정보(IMINT) 능력을 담당하는 MUSIS 프로그램의 CSO 위성들을 대체할 예정이다. DGA에 따르면 첫 번째 IRIS 위성은 2033년께 운용에 들어가고, 두 위성은 2035년께 궤도에 배치될 계획이다. IRIS는 기존 능력을 이어가면서 이미지 품질을 높이고 영상 제공 시간을 줄이는 것을 목표로 한다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>에어버스는 두 위성의 플랫폼과 첫 번째 위성 탑재체의 상당 부분을 맡고 지상 시스템을 구축한다. TAS는 두 번째 위성의 차세대 탑재체를 개발하고 첫 번째 위성에 들어갈 핵심 구성품을 제공하며 지상 시스템 구축에도 참여한다.</p>
-<p>
-   <br />
-</p>
-<p>TAS가 공개한 광학 장비에는 안정성을 높인 망원경과 초고감도 고속 디지털 센서, 인공지능(AI) 기반 이미지 처리 기능이 포함된다. 회사는 이 장비가 저조도와 야간에도 적외선 영역의 고해상도 이미지를 확보하도록 설계된다고 설명했다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>IRIS 위성은 가시광선과 적외선으로 지구 표면을 주야간 촬영하고, 우주 물체 관측에도 활용된다. 프랑스군은 이를 통해 지상 표적을 파악하는 영상정보 수집과 우주 감시·위협 분석 능력을 확보할 계획이다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<h3>프랑스의 군사위성 사업 IRIS란</h3>
-<p>IRIS는 프랑스어 Instruments de Renseignement et d'Imagerie Spatiale의 약자로, '우주 정보·영상 수집 장비'를 뜻한다. 프랑스군이 위성을 이용해 지상과 우주를 관측하고 군사정보를 확보하는 사업이다. 유럽연합의 보안 통신 위성망인 IRIS²와는 별개다.&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>현재 프랑스군은 MUSIS 프로그램의 CSO 위성 3기로 광학 관측을 수행한다. IRIS 1호기는 CSO-1과 CSO-2를 대체해 영상정보 능력을 이어받고, 2호기는 마지막 CSO 위성의 운용 수명이 끝난 뒤 이를 대신하면서 이미지 해상도를 높일 예정이다.&nbsp;</p>]]></description>
 		</item>
 	</channel>
 </rss>
