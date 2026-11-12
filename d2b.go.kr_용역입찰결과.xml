@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Thu, 12 Nov 2026 11:57:06 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 11:57:48 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[낙찰] 군.관.민 통합, 테마형 드론센터 구축</title>
@@ -17,15 +17,7 @@
 	<li>공고번호: 긴급공고 MCD0074</li>
 	<li>발주기관: 국방부(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-27 17:00</li>
-	<li>
-		<ul>
-			<li>명지대학교 산학협력단: 낙찰</li>
-			<li>사단법인 안보경영연구원: 탈락</li>
-			<li>중원대학교 산학협력단: 탈락</li>
-			<li>제이에스융합교육 주식회사: 탈락</li>
-		</ul>
-	</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>명지대학교 산학협력단: 낙찰</li>
 			<li>사단법인 안보경영연구원: 탈락</li>
@@ -47,13 +39,14 @@
 	<li>공고번호: 긴급공고 MHD0081</li>
 	<li>발주기관: 방위사업청(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-23 15:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>(재)동양경제연구원: 낙찰</li>
 			<li>사단법인 한국기업연구원: 탈락</li>
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[순위확정] 클라우드서비스 도입 대비 방산기술보호 대책 수립</title>
@@ -66,7 +59,7 @@
 	<li>공고번호: 정상공고 MHD0068</li>
 	<li>발주기관: 방위사업청(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-15 15:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>프런티어랩 주식회사: 탈락</li>
 			<li>중앙대학교 산학협력단: 2순위</li>
@@ -76,6 +69,7 @@
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 스마트공장 원가산정 및 이윤구조 개선 방안 연구</title>
@@ -88,7 +82,7 @@
 	<li>공고번호: 정상공고 MHD0067</li>
 	<li>발주기관: 방위사업청(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-13 15:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>사단법인 안보경영연구원: 낙찰</li>
 			<li>한성대학교 산학협력단: 탈락</li>
@@ -96,6 +90,7 @@
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[순위확정] 함정 무기체계 제안서평가 평가항목 및 배점연구</title>
@@ -108,13 +103,14 @@
 	<li>공고번호: 정상공고 MHD0065</li>
 	<li>발주기관: 방위사업청(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-13 15:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>한성대학교 산학협력단: 2순위</li>
 			<li>사단법인 안보경영연구원: 1순위</li>
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 방위사업 분야 핵심품목 공급망 안정화 방안 연구</title>
@@ -127,7 +123,7 @@
 	<li>공고번호: 긴급공고 MHD0073</li>
 	<li>발주기관: 방위사업청(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-13 15:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>산업연구원: 낙찰</li>
 			<li>사단법인 안보경영연구원: 탈락</li>
@@ -136,6 +132,7 @@
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 핵추진잠수함 원자력 안전관리체계 기술기준 연구</title>
@@ -148,13 +145,14 @@
 	<li>공고번호: 긴급공고 MCD0072</li>
 	<li>발주기관: 국방부(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-13 12:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>단국대학교 산학협력단: 낙찰</li>
 			<li>경희대학교 산학협력단: 탈락</li>
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[낙찰] 핵추진잠수함 특별법 하위법령 제정 연구</title>
@@ -167,7 +165,7 @@
 	<li>공고번호: 긴급공고 MCD0073</li>
 	<li>발주기관: 국방부(운영지원과)</li>
 	<li>개찰/협상일시: 2026-10-13 12:00</li>
-	<li>
+	<li>입찰결과
 		<ul>
 			<li>법무법인(유한)태평양: 낙찰</li>
 			<li>한국법제연구원: 탈락</li>
@@ -175,6 +173,7 @@
 		</ul>
 	</li>
 </ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
