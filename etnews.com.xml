@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 13 Nov 2026 06:30:33 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 08:36:07 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>美 국방부 “냉동고 해킹, 사회에 경종”…AI로 군 기반시설 점검</title>
+			<link>https://www.etnews.com/20261113000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000005</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 13 Nov 2026 07:29:45 +0900</pubDate>
+			<description><![CDATA[미국 국방부가 유럽에서 발생한 슈퍼마켓 냉동고 해킹을 계기로 군 핵심 기반시설의 운영기술(OT) 보안 대응을 강화하고 있다. 12일(현지시간) 블룸버그 통신에 따르면 커스틴 데이비스 미 국방부 최고정보책임자(CIO)는 유럽 냉동고 해킹을 “사회 전체에 경종을 울리는 사건”이라고 평가했다. 또한 혈액은행과 혈장·장기 보관, 식품 제조·운송 등 냉장·냉동 설비를 사용하는 필수 기능도 비슷한 공격에 노출될 수 있다고 경고했다. OT는 산업 공정이나...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 금형 소유권만으로는 생산을 옮길 수 없다</title>
 			<link>https://www.etnews.com/20261105000396</link>
@@ -83,15 +92,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 12 Nov 2026 17:24:00 +0900</pubDate>
 			<description><![CDATA[아이티센엔텍이 공공 사업 성장과 자회사 흑자 전환에 힘입어 올해 3분기 만에 지난해 연간 영업이익을 넘어서는 등 성장세를 이어간다. 아이티센엔텍은 2026년 3분기 누적 연결 기준 매출 4085억원, 영업이익 276억원, 당기순이익 278억원을 기록했다고 12일 밝혔다. 전년 동기 대비 매출은 8.4%, 영업이익은 157.9% 늘었다. 특히 3분기 만에 지난해 연간 영업이익(209억원)을 넘어섰다. 수익성도 크게 개선됐다. 연결 영업이익률은 6...]]></description>
-		</item>
-		<item>
-			<title>한국이러닝협회, 원격훈련기관 실무자 대상 AI 교육 실시</title>
-			<link>https://www.etnews.com/20261112000444</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261112000444</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 12 Nov 2026 17:10:31 +0900</pubDate>
-			<description><![CDATA[한국이러닝협회는 오는 18일 서울글로벌센터빌딩 국제회의장에서 '2026 원격훈련 종사자 실무 교육'을 개최한다고 12일 밝혔다. 회원사를 비롯한 전국 원격훈련기관의 전산 및 운영 담당 실무자를 대상으로 직무 역량과 훈련 운영의 품질을 높이기 위한 목적으로 마련됐다. 주요 프로그램으로는 △바이브코딩으로 하는 업무 자동화(코멘터리사무소 조병현 대표) △AI로 만드는 교육영상(KR 스튜디오 서양원 본부장)이 마련됐다. 모든 프로그램은 강연자의 시연과...]]></description>
 		</item>
 	</channel>
 </rss>
