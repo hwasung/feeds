@@ -4,8 +4,28 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Thu, 12 Nov 2026 17:30:40 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 18:32:02 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[사전규격][기술용역] 국방미래항공연구센터 구축사업 전략환경영향평가용역</title>
+			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299526</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299526</guid>
+			<author>국방과학연구소</author>
+			<category>사전규격</category>
+			<pubDate>Thu, 12 Nov 2026 18:10:20 +0900</pubDate>
+			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
+  • 참고번호: R26BD00299526]]></description>
+		</item>
+		<item>
+			<title>[사전규격][물품&#40;내자&#41;] 노트북</title>
+			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299468</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299468</guid>
+			<author>국방과학연구소</author>
+			<category>사전규격</category>
+			<pubDate>Thu, 12 Nov 2026 17:33:14 +0900</pubDate>
+			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
+  • 참고번호: R26BD00299468]]></description>
+		</item>
 		<item>
 			<title>[재공고][일반용역] (재공고)화학작용제 감응형 효소 기반 변색제 기능화 공정 설계</title>
 			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01827762&amp;bidPbancOrd=000</link>
@@ -97,30 +117,6 @@
 			<pubDate>Thu, 12 Nov 2026 14:46:58 +0900</pubDate>
 			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
   • 참고번호: R26BD00299213]]></description>
-		</item>
-		<item>
-			<title>[재공고][물품&#40;내자&#41;] 기체해석용 EWS 등</title>
-			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01825895&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01825895&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Thu, 12 Nov 2026 10:40:50 +0900</pubDate>
-			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
-  • 공고번호: R26BK01825895<br/>
-  • 마감일시: 2026-11-20 13:10<br/>
-  • 개찰일시: 2026-11-20 14:10]]></description>
-		</item>
-		<item>
-			<title>[등록공고][물품&#40;내자&#41;] 설계공학용 SW</title>
-			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01825407&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01825407&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Thu, 12 Nov 2026 09:05:46 +0900</pubDate>
-			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
-  • 공고번호: R26BK01825407<br/>
-  • 마감일시: 2026-11-19 10:00<br/>
-  • 개찰일시: 2026-11-19 11:00]]></description>
 		</item>
 	</channel>
 </rss>
