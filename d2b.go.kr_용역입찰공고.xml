@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰공고</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰공고</description>
-		<lastBuildDate>Tue, 10 Nov 2026 17:30:13 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 11:30:20 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[취소공고] AI READY 데이터 구축 방안 연구</title>
@@ -86,6 +86,15 @@
 			<category>긴급공고</category>
 			<pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>공고번호: 긴급공고 MCD0075</li><li>발주기관: 국방부(운영지원과)</li><li>마감일시: 2026-11-03 10:00</li><li>개찰일시: 2026-11-03 17:00</li></ul>]]></description>
+		</item>
+		<item>
+			<title>[긴급공고] 군.관.민 통합, 테마형 드론센터 구축</title>
+			<link>https://www.d2b.go.kr/pdb/bid/bidAnnounceView.do?dprt_code=MCD&amp;anmt_divs=B&amp;anmt_numb=MCD0074&amp;rqst_degr=1&amp;dcsn_numb=41027&amp;rqst_year=2026&amp;pageDivs=S1</link>
+			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidAnnounceView.do?dprt_code=MCD&amp;anmt_divs=B&amp;anmt_numb=MCD0074&amp;rqst_degr=1&amp;dcsn_numb=41027&amp;rqst_year=2026&amp;pageDivs=S1</guid>
+			<author>국방부(운영지원과)</author>
+			<category>긴급공고</category>
+			<pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<ul><li>공고번호: 긴급공고 MCD0074</li><li>발주기관: 국방부(운영지원과)</li><li>마감일시: 2026-10-27 10:00</li><li>개찰일시: 2026-10-27 17:00</li></ul>]]></description>
 		</item>
 	</channel>
 </rss>
