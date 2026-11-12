@@ -4,8 +4,32 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Thu, 12 Nov 2026 15:30:45 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 12 Nov 2026 16:30:43 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[재공고][일반용역] (재공고)사격제원 계산 소프트웨어 신뢰성 시험/개발지원</title>
+			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01827080&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01827080&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Thu, 12 Nov 2026 16:25:49 +0900</pubDate>
+			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
+  • 공고번호: R26BK01827080<br/>
+  • 마감일시: 2026-11-20 10:00<br/>
+  • 개찰일시: 2026-11-20 11:00]]></description>
+		</item>
+		<item>
+			<title>[변경공고][물품&#40;내자&#41;] 계측용 부품 등 15종</title>
+			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01817539&amp;bidPbancOrd=001</link>
+			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01817539&amp;bidPbancOrd=001</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Thu, 12 Nov 2026 16:16:12 +0900</pubDate>
+			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
+  • 공고번호: R26BK01817539<br/>
+  • 마감일시: 2026-11-20 10:00<br/>
+  • 개찰일시: 2026-11-20 11:00]]></description>
+		</item>
 		<item>
 			<title>[사전규격][일반용역] 피지컬 AI를 위한 환경인식 및 SLAM 기술 검증 지원</title>
 			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299214</link>
@@ -89,30 +113,6 @@
 			<pubDate>Wed, 11 Nov 2026 14:27:09 +0900</pubDate>
 			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
   • 참고번호: R26BD00298431]]></description>
-		</item>
-		<item>
-			<title>[등록공고][물품&#40;내자&#41;] 공중교전 소프트웨어 개발환경 II</title>
-			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01823006&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01823006&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Wed, 11 Nov 2026 10:41:43 +0900</pubDate>
-			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
-  • 공고번호: R26BK01823006<br/>
-  • 마감일시: 2026-11-19 10:00<br/>
-  • 개찰일시: 2026-11-19 11:00]]></description>
-		</item>
-		<item>
-			<title>[취소공고][물품&#40;내자&#41;] 공중교전 소프트웨어 개발환경 II</title>
-			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01817905&amp;bidPbancOrd=001</link>
-			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01817905&amp;bidPbancOrd=001</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Wed, 11 Nov 2026 10:34:18 +0900</pubDate>
-			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
-  • 공고번호: R26BK01817905<br/>
-  • 마감일시: 2026-11-17 10:00<br/>
-  • 개찰일시: 2026-11-17 13:20]]></description>
 		</item>
 	</channel>
 </rss>
