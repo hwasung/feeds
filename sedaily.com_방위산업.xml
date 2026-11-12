@@ -4,8 +4,16 @@
 		<title>서울경제</title>
 		<link>https://www.sedaily.com/</link>
 		<description>서울경제</description>
-		<lastBuildDate>Thu, 12 Nov 2026 18:34:45 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 07:02:45 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>“살아서 못 나올 수도” 출입금지 경고에도…제주 산방산 오른 등반객 결국</title>
+			<link>https://www.sedaily.com/article/20113785</link>
+			<guid isPermaLink="true">https://www.sedaily.com/article/20113785</guid>
+			<author>김수호</author>
+			<category>전체뉴스</category>
+			<pubDate>Fri, 13 Nov 2026 06:52:47 +0900</pubDate>
+		</item>
 		<item>
 			<title>방사청, KDDX 탑재 전투체계 육상통합시험장 개소</title>
 			<link>https://www.sedaily.com/article/20113601</link>
@@ -77,14 +85,6 @@
 			<author>이현호</author>
 			<category>정치</category>
 			<pubDate>Thu, 05 Nov 2026 07:00:05 +0900</pubDate>
-		</item>
-		<item>
-			<title>위성락, 방글라데시 총리 특사 접견…경제·방산 협력 강화 논의</title>
-			<link>https://www.sedaily.com/article/20110364</link>
-			<guid isPermaLink="true">https://www.sedaily.com/article/20110364</guid>
-			<author>송종호</author>
-			<category>정치</category>
-			<pubDate>Wed, 04 Nov 2026 18:39:52 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
