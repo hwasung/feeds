@@ -4,8 +4,16 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Tue, 10 Nov 2026 13:30:47 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 06:30:47 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>국가 사이버복원력 강화 TF 출범…해킹 피해 복구까지 대비 - 머니투데이</title>
+			<link>https://www.mt.co.kr/amp/tech/2026/11/12/2026111209153763850</link>
+			<guid isPermaLink="true">https://www.mt.co.kr/amp/tech/2026/11/12/2026111209153763850</guid>
+			<category>김승주 교수</category>
+			<pubDate>Thu, 12 Nov 2026 14:02:29 +0900</pubDate>
+			<description><![CDATA[... 국가 대응체계 마련에 나선다. <b>김승주</b> 고려대 교수, 정상원 이스트소프트 대표, 조영철 파이오링크 대표 등 <b>보안</b>·AI 전문가 11명이 민간위원으로 참여한다.]]></description>
+		</item>
 		<item>
 			<title>[김승주 교수 칼럼] 전수조사는 반복되는데, 왜 보안 사각지대는 사라지지 않는가 - 데일리시큐</title>
 			<link>https://www.dailysecu.com/news/articleView.html?idxno=209423</link>
@@ -234,14 +242,6 @@
 			<title>[기고 ] AI 시대, 획일적 망분리에서 N2SF로의 신속한 전환이 필요한 이유 - 이데일리</title>
 			<link>https://www.edaily.co.kr/News/Read?newsId=04480486645613248</link>
 			<guid isPermaLink="true">https://www.edaily.co.kr/News/Read?newsId=04480486645613248</guid>
-			<category>김승주 교수</category>
-			<pubDate>Fri, 16 Oct 2026 03:29:17 +0900</pubDate>
-			<description><![CDATA[[고려대학교 정보보호대학원 <b>김승주</b> 교수] 우리나라는 2006년부터 정부와 공공기관 등을 중심으로 &#39;획일적 망분리&#39;라는 <b>보안</b>정책을 시행해 왔다. 업무에&nbsp;...]]></description>
-		</item>
-		<item>
-			<title>[기고 ] AI 시대, 획일적 망분리에서 N2SF로의 신속한 전환이 필요한 이유 - 이데일리</title>
-			<link>https://www.edaily.co.kr/News/Read?newsId=04480486645613248&amp;mediaCodeNo=257</link>
-			<guid isPermaLink="true">https://www.edaily.co.kr/News/Read?newsId=04480486645613248&amp;mediaCodeNo=257</guid>
 			<category>김승주 교수</category>
 			<pubDate>Fri, 16 Oct 2026 03:29:17 +0900</pubDate>
 			<description><![CDATA[[고려대학교 정보보호대학원 <b>김승주</b> 교수] 우리나라는 2006년부터 정부와 공공기관 등을 중심으로 &#39;획일적 망분리&#39;라는 <b>보안</b>정책을 시행해 왔다. 업무에&nbsp;...]]></description>
