@@ -4,8 +4,32 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Thu, 12 Nov 2026 18:32:02 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 09:36:11 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[등록공고][일반용역] 고체로켓 추진기관용 제트베인 작동 하중 특성평가</title>
+			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01828356&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01828356&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Fri, 13 Nov 2026 09:21:06 +0900</pubDate>
+			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
+  • 공고번호: R26BK01828356<br/>
+  • 마감일시: 2026-12-01 10:00<br/>
+  • 개찰일시: 2026-12-04 11:00]]></description>
+		</item>
+		<item>
+			<title>[등록공고][일반용역] 공력가열 해석 격자 모델 개발 용역</title>
+			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01828307&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01828307&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Fri, 13 Nov 2026 09:00:49 +0900</pubDate>
+			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
+  • 공고번호: R26BK01828307<br/>
+  • 마감일시: 2026-12-04 10:00<br/>
+  • 개찰일시: 2026-12-11 11:00]]></description>
+		</item>
 		<item>
 			<title>[사전규격][기술용역] 국방미래항공연구센터 구축사업 전략환경영향평가용역</title>
 			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299526</link>
@@ -97,26 +121,6 @@
   • 공고번호: R26BK01817539<br/>
   • 마감일시: 2026-11-20 10:00<br/>
   • 개찰일시: 2026-11-20 11:00]]></description>
-		</item>
-		<item>
-			<title>[사전규격][일반용역] 피지컬 AI를 위한 환경인식 및 SLAM 기술 검증 지원</title>
-			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299214</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299214</guid>
-			<author>국방과학연구소</author>
-			<category>사전규격</category>
-			<pubDate>Thu, 12 Nov 2026 14:48:10 +0900</pubDate>
-			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
-  • 참고번호: R26BD00299214]]></description>
-		</item>
-		<item>
-			<title>[사전규격][물품&#40;내자&#41;] AI 기술 개발용 워크스테이션</title>
-			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299213</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00299213</guid>
-			<author>국방과학연구소</author>
-			<category>사전규격</category>
-			<pubDate>Thu, 12 Nov 2026 14:46:58 +0900</pubDate>
-			<description><![CDATA[  • 공고/수요기관: 국방과학연구소<br/>
-  • 참고번호: R26BD00299213]]></description>
 		</item>
 	</channel>
 </rss>
