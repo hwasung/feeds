@@ -4,8 +4,15 @@
 		<title>세계일보</title>
 		<link>https://www.segye.com/</link>
 		<description>세계일보</description>
-		<lastBuildDate>Fri, 13 Nov 2026 13:29:51 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 18:34:13 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>LIG D&amp;A 방산업체 지정 취소 요청, 국회서 제동… “국익·방산 경쟁력 고려해야”</title>
+			<link>https://www.segye.com/newsView/20261113511873</link>
+			<guid isPermaLink="true">https://www.segye.com/newsView/20261113511873</guid>
+			<pubDate>Fri, 13 Nov 2026 18:34:13 +0900</pubDate>
+			<description><![CDATA[2026-11-13 16:26:25]]></description>
+		</item>
 		<item>
 			<title>KF-21은 날아올랐는데… 초음속 공대함미사일은 7년 넘게 제자리 [박수찬의 軍]</title>
 			<link>https://www.segye.com/newsView/20261113503821</link>
@@ -68,13 +75,6 @@
 			<guid isPermaLink="true">https://www.segye.com/newsView/20261031502724</guid>
 			<pubDate>Sat, 31 Oct 2026 18:33:59 +0900</pubDate>
 			<description><![CDATA[2026-10-31 15:53:26]]></description>
-		</item>
-		<item>
-			<title>국내 기술로 개발한 KF-21…美 공군과 첫 편대비행</title>
-			<link>https://www.segye.com/newsView/20261030506007</link>
-			<guid isPermaLink="true">https://www.segye.com/newsView/20261030506007</guid>
-			<pubDate>Sat, 31 Oct 2026 18:33:57 +0900</pubDate>
-			<description><![CDATA[2026-10-30 20:00:00]]></description>
 		</item>
 	</channel>
 </rss>
