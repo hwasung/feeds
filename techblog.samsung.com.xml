@@ -4,8 +4,16 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Mon, 09 Nov 2026 12:55:30 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 13:30:11 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>자동화 테스트부터 Perfetto 분석, 코드 개선안 도출까지 한 번에: 갤럭시 워치 성능 분석 AI 에이전트 개발기</title>
+			<link>https://techblog.samsung.com/blog/article/106</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/106</guid>
+			<author>조연호</author>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/106" alt="">]]></description>
+		</item>
 		<item>
 			<title>1년 차 주니어의 AX 스토리: OS 동적 분석 로직 최적화</title>
 			<link>https://techblog.samsung.com/blog/article/104</link>
@@ -77,14 +85,6 @@
 			<author>김완희</author>
 			<pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/96" alt="">]]></description>
-		</item>
-		<item>
-			<title>AI에게 분석을 맡기기 전에, &apos;분석할 수 없음&apos; 부터 가르치세요 — Wear OS 이슈 초도 분석을 자동화한 WOA Agent 개발기</title>
-			<link>https://techblog.samsung.com/blog/article/95</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/95</guid>
-			<author>임병재</author>
-			<pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/95" alt="">]]></description>
 		</item>
 	</channel>
 </rss>
