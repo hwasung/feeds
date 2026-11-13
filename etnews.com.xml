@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 13 Nov 2026 13:09:28 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 14:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>델, AMD 6세대 에픽 탑재 서버 2종 출시…기존 데이터센터 활용 극대화</title>
+			<link>https://www.etnews.com/20261113000177</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000177</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 13 Nov 2026 13:41:50 +0900</pubDate>
+			<description><![CDATA[델 테크놀로지스가 기존 데이터센터의 냉각시설을 교체하지 않고도 컴퓨팅 성능을 높일 수 있는 서버 신제품 2종을 선보였다. 서버 통합을 통해 전력과 냉각, 소프트웨어 라이선스 비용도 절감할 수 있도록 설계했다. 델 테크놀로지스는 13일 AMD 6세대 에픽(EPYC) 프로세서를 탑재한 '파워엣지 R9825'와 '파워엣지 R9815'를 공개했다. 두 제품 모두 기존 데이터센터에서 사용하는 공랭식 냉각을 기본으로 지원한다. 필요에 따라 직접 액체 냉각...]]></description>
+		</item>
 		<item>
 			<title>세일즈인사이트, 문화체육관광부 &apos;2026 여가친화기업&apos; 인증 획득</title>
 			<link>https://www.etnews.com/20261113000161</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 13 Nov 2026 09:33:49 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 소프트웨어 및 디지털 헬스케어 전문기업 토마토시스템(대표 조길주·이강찬)은 정부세종컨벤션센터에서 개최된 'GIX 2026(글로벌 상용SW 엑스포 2026)'에 참가해 생성형 AI 기반 차세대 사용자 인터페이스(UI)·사용자 경험(UX) 개발 솔루션인 '엑스빌더6 아이젠(eXBuilder6 AIGen)'을 선보였다고 13일 밝혔다. 한국상용소프트웨어협회가 주최하는 GIX 2026은 AI 대전환 시대를 맞아 공공 및 민간 기관의...]]></description>
-		</item>
-		<item>
-			<title>위세아이텍, AI 기반 BI 솔루션 &apos;와이즈인텔리전스&apos; SW 어워즈 수상</title>
-			<link>https://www.etnews.com/20261113000049</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000049</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 09:29:50 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)·데이터 플랫폼 전문기업 위세아이텍이 대화형 AI 기반 비즈니스 인텔리전스(BI) 솔루션으로 소프트웨어 분야 상을 수상했다. 위세아이텍(대표 김다산·이제동)은 자사 BI 솔루션 '와이즈인텔리전스(WiseIntelligence)'가 '2026 제12회 글로벌 인텔리전트 SW 어워즈' 상용 소프트웨어 부문에서 공공부문발주자협의회장상을 받았다고 밝혔다. 시상식은 정부세종컨벤션센터에서 열린 '글로벌 인텔리전트 SW 엑스포(GIX 2026...]]></description>
 		</item>
 	</channel>
 </rss>
