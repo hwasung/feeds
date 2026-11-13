@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 13 Nov 2026 10:34:25 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 11:34:14 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>中 해커, AI로 각국 기관 공격</title>
+			<link>https://www.etnews.com/20261112000438</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261112000438</guid>
+			<author>이동은</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 13 Nov 2026 11:00:00 +0900</pubDate>
+			<description><![CDATA[중국 연계 해킹 조직이 인공지능(AI) 기반 침투 도구를 이용해 세계 200개 이상 기관과 기업을 대상으로 대규모 사이버 공격을 벌인 것으로 드러났다. 미국의 반도체·방위산업 기업을 비롯해 각국 정부 부처와 통신사업자 등이 공격 대상에 포함됐다. ▶동영상 콘텐츠는 더존비즈온 '원스튜디오'를 활용해 제작되었습니다....]]></description>
+		</item>
+		<item>
+			<title>한국공학대·시흥시, &apos;산학협력&apos;…과제 참여 기업 27곳, 23명 채용</title>
+			<link>https://www.etnews.com/20261113000126</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000126</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 13 Nov 2026 10:59:35 +0900</pubDate>
+			<description><![CDATA[한국공학대와 경기 시흥시가 지원한 시흥 기업 27곳이 과제 관련 매출 46억5000만원을 올리고 23명을 새로 채용했다. 13일 한국공학대에 따르면 대학 앵커사업단은 지난 9일 교내 산학협력관에서 '기업지원 기관 성과공유회'를 열고 시흥시 재정 지원을 받아 추진한 제조기술·창업·수출 지원사업 실적을 공개했다. 경기산학융합원의 기업 기술 문제 해결 사업에는 2024년부터 올해까지 시흥 기업 52곳이 신청해 27곳이 과제를 수행했다. 대학 교수진이...]]></description>
+		</item>
+		<item>
+			<title>지미션, 스리랑카 JIT와 AI 기반 디지털 전환 사업 협력</title>
+			<link>https://www.etnews.com/20261113000111</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000111</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 13 Nov 2026 10:40:49 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 솔루션 전문기업 지미션이 스리랑카 정보기술(IT) 기업과 협력해 현지 인공지능 전환(AX) 시장 진출을 추진한다. 지미션(대표 한준섭)은 지난 11일 스리랑카 현지에서 스리랑카 IT 기업 저스트인타임 테크놀로지스(Just In Time Technologies·JIT)와 AI 기반 디지털 전환 및 현지 사업 협력을 위한 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 지미션의 AI 솔루션과 JIT의 현지 사업 네트워크를 연계해...]]></description>
+		</item>
+		<item>
+			<title>델, AMD 6세대 EPYC 탑재 서버 출시…기존 데이터센터서 AI·HPC 성능 높인다</title>
+			<link>https://www.etnews.com/20261113000097</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000097</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 13 Nov 2026 10:34:50 +0900</pubDate>
+			<description><![CDATA[델 테크놀로지스(Dell Technologies)가 AMD 6세대 에픽(EPYC) 프로세서를 탑재한 차세대 서버 2종을 출시하며 기업용 인공지능(AI) 및 고성능 컴퓨팅(HPC) 인프라 시장 공략을 강화한다. 기존 데이터센터의 공랭식 설비와 랙 환경을 유지하면서도 컴퓨팅 집적도를 높이고, 서버 통합을 통해 인프라 운영비용까지 절감할 수 있도록 설계한 것이 특징이다. 델 테크놀로지스는 AMD EPYC 9006 SP7 프로세서를 탑재한 '델 파워엣...]]></description>
+		</item>
 		<item>
 			<title>MS 주요 서비스 대규모 장애…국내 기업도 업무 차질</title>
 			<link>https://www.etnews.com/20261113000090</link>
@@ -58,41 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 13 Nov 2026 09:07:52 +0900</pubDate>
 			<description><![CDATA[한국이러닝협회가 원격훈련기관 실무자를 대상으로 인공지능(AI)을 활용한 업무 자동화와 교육영상 제작 교육을 실시한다. 한국이러닝협회는 오는 18일 서울글로벌센터빌딩 국제회의장에서 '2026 원격훈련 종사자 실무 교육'을 개최한다고 밝혔다. 이번 교육은 전국 원격훈련기관의 전산 및 운영 담당자를 대상으로 AI 활용 역량을 높이고 훈련 운영의 효율성을 개선하기 위해 마련됐다. 협회 회원사를 비롯한 원격훈련기관 관계자 120여명이 참석할 예정이다....]]></description>
-		</item>
-		<item>
-			<title>알티베이스, 일본 &apos;DB TECH SHOWCASE 2026&apos;서 차세대 DBMS 기술 소개</title>
-			<link>https://www.etnews.com/20261113000026</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000026</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 09:02:44 +0900</pubDate>
-			<description><![CDATA[국내 데이터베이스관리시스템(DBMS) 전문기업 알티베이스가 일본 데이터 기술 콘퍼런스에서 차세대 DBMS 기술과 국내 구축 사례를 소개하며 일본 시장 공략에 나섰다. 알티베이스는 지난 5일부터 6일까지 일본 도쿄에서 열린 'DB TECH SHOWCASE 2026'에 골드 스폰서로 참가해 하이브리드 DBMS 기술과 데이터베이스 마이그레이션 방안을 소개했다고 밝혔다. DB TECH SHOWCASE는 일본 데이터베이스 전문기업 인사이트 테크놀로지(I...]]></description>
-		</item>
-		<item>
-			<title>엔텔스, &apos;타잔DB AI DBA&apos;로 GIX 어워즈 최우수상 수상</title>
-			<link>https://www.etnews.com/20261112000461</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261112000461</guid>
-			<author>윤건일</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 09:00:00 +0900</pubDate>
-			<description><![CDATA[엔텔스는 데이터베이스관리시스템(DBMS)인 '타잔DB' 운영을 지원하는 인공지능(AI) 솔루션으로 한국상용인공지능소프트웨어협회 주관 GIX 어워즈에서 최우수상을 받았다고 13일 밝혔다. 수상 제품은 '타잔DB AI DBA'다. 엔텔스가 개발한 DBMS '타잔DB' 운영을 AI로 돕는 역할을 한다. DBMS 운영을 지능화한 것이 특징이다. 엔텔스는 국내 상용 DBMS 업계 최초로 '타잔DB AI DBA'에 검색 증강 생성(Multi-RAG) 기술...]]></description>
-		</item>
-		<item>
-			<title>美 국방부 “냉동고 해킹, 사회에 경종”…AI로 군 기반시설 점검</title>
-			<link>https://www.etnews.com/20261113000005</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000005</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 07:29:45 +0900</pubDate>
-			<description><![CDATA[미국 국방부가 유럽에서 발생한 슈퍼마켓 냉동고 해킹을 계기로 군 핵심 기반시설의 운영기술(OT) 보안 대응을 강화하고 있다. 12일(현지시간) 블룸버그 통신에 따르면 커스틴 데이비스 미 국방부 최고정보책임자(CIO)는 유럽 냉동고 해킹을 “사회 전체에 경종을 울리는 사건”이라고 평가했다. 또한 혈액은행과 혈장·장기 보관, 식품 제조·운송 등 냉장·냉동 설비를 사용하는 필수 기능도 비슷한 공격에 노출될 수 있다고 경고했다. OT는 산업 공정이나...]]></description>
-		</item>
-		<item>
-			<title>[테크 차이나] 금형 소유권만으로는 생산을 옮길 수 없다</title>
-			<link>https://www.etnews.com/20261105000396</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000396</guid>
-			<category>오피니언</category>
-			<pubDate>Fri, 13 Nov 2026 05:00:00 +0900</pubDate>
-			<description><![CDATA[신제품 판매가 예상보다 잘돼 생산을 늘리려는데 금형을 다른 공장으로 옮길 수 없다. 금형 제작비는 이미 지급했고 계약서에도 발주사 소유라고 적혀 있다. 그러나 보관 중인 공장은 미정산 대금을 요구하고, 새 공장은 설계 파일과 성형 조건이 없으면 같은 품질을 보장할 수 없다고 한다. 법적으로 내 것인 자산이 생산 현장에서는 내 뜻대로 움직이지 않는 순간이다. 중국 제조업에서 금형은 제품 설계와 양산 공정을 연결하는 자산이다. 제작사가 축적한 수정...]]></description>
 		</item>
 	</channel>
 </rss>
