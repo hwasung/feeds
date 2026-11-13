@@ -4,8 +4,118 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Fri, 13 Nov 2026 06:31:14 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 13 Nov 2026 12:34:56 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>獨 드론기업 &apos;퀀텀시스템스&apos; 사이버 공격 노출…FT &quot;독일군, 드론 운용 전면 중단&quot; 보도</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8120</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8120</guid>
+			<author>sfinfo365@gmail.com 강태임 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Fri, 13 Nov 2026 12:22:05 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQewv8EbpLTgfZeI3PbCzGnrs9UewGww3n4Fi8hGTcDWlJiBJkADZHsIFrvDbf9wjzF13gxYTyiNRT4nZA" alt="독일 호엔펠스 훈련장에서 시연 중인 퀀텀시스템스 정찰드론, AI로 생성" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">독일 호엔펠스 훈련장에서 시연 중인 퀀텀시스템스 '벡터' 정찰드론/출처=Alexandra Beier·Getty Images</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트=강태임 기자] 독일의 방산용 드론 제조업체 퀀텀시스템스(Quantum Systems)가 외부 적대 세력의 사이버 공격에 노출된 사실을 공식 확인했다.</p>
+<p><br /></p>
+<p>퀀텀시스템스는 12일(현지시간) 발표한 공식 성명을 통해 "지난 10월 말 자사의 지상 통제·임무 계획 소프트웨어인 '큐베이스(QBase)'에 업데이트를 제공하는 서버를 통해 변조된 악성 업데이트 파일이 유포된 사실을 확인했다"고 밝혔다.</p>
+<p><br /></p>
+<p>회사 측은 성명에서 "사고 인지 직후 실시한 내부 조사 결과 외부 적대 세력의 표적화된 사이버 공격이 드러났다"며 "자사 정보기술(IT)·보안팀이 관계 당국과 긴밀하고 투명하게 협조해 위협을 차단한 상태"라고 설명했다. 이어 신속한 대응 조치 덕분에 최종 사용자와 운용자가 무인 시스템을 운용하는 데는 위험이 없다고 덧붙였다.</p>
+<p><br /></p>
+<p>이번 공격의 통로로 지목된 '큐베이스'는 퀀텀시스템스의 주력 수직이착륙(VTOL) 정찰드론인 '벡터(Vector)'와 '트리니티(Trinity)' 등을 운용하는 데 필수적인 지상관제소프트웨어(GCS)다. 비행 전 임무 경로 설정부터 실시간 비행 제어, 센서 데이터 수집 및 분석을 총괄하는 핵심 두뇌 역할을 수행하는 만큼 업데이트 서버 침해는 기체 통제권 탈취 등 심각한 보안 위협으로 직결될 수 있다.</p>
+<p><br /></p>
+<p>이 같은 사이버 침해 여파로 독일 연방군은 자국 기업이 제작한 드론의 운용을 일시 중단하는 조처를 했다. 독일 국방부는 작전 보안상의 이유로 별도의 공식 발표를 내놓지 않았으나 영국 일간 파이낸셜타임스(FT)는 12일(현지시간) 사안을 잘 아는 복수의 소식통을 인용해 독일군의 후속 대응 움직임을 상세히 전했다.</p>
+<p><br /></p>
+<p>FT 보도에 따르면 독일군은 퀀텀시스템스의 보안 통보 직후 악성 업데이트 파일이 군 내부 전술 네트워크로 확산하는 것을 막기 위해 예방 차원에서 퀀텀시스템스 드론의 운용을 전면 중단했다. 이로 인해 퀀텀시스템스는 최근 독일군이 실시한 주요 훈련에도 참여하지 못한 것으로 알려졌다. 현재 퀀텀시스템스는 독일을 비롯해 스페인, 네덜란드 등 유럽 주요국 군과 드론 공급 계약을 맺고 있다.</p>
+<p><br /></p>
+<p>퀀텀시스템스는 성명을 통해 유럽 방위산업계가 수년간 지속적인 사이버 공격에 직면해 왔으며 특히 우크라이나를 지원하는 최전선에 있는 기업들이 고객 보안에 결정적인 역할을 한다는 이유로 표적이 되고 있다고 지적했다. 앞서 독일 정보기관도 지난 7월 우크라이나를 지원하는 기업들을 중심으로 독일 방위산업계가 러시아의 사이버 공격과 첩보, 파괴 공작에 노출될 위험이 커졌다고 경고한 바 있다.</p>
+<p><br /></p>
+<p>실제로 퀀텀시스템스는 우크라이나 현지에 200명 이상의 직원을 두고 있다. 우크라이나 기업들과 설립한 합작회사 3곳을 통해 소형 공격용 드론과 요격용 드론, 무인지상차량(UGV) 등을 활발히 생산하고 있다.</p>
+<p><br /></p>
+<p>러시아의 우크라이나 침공 이후 드론이 현대전의 양상을 바꾸고 유럽 각국이 국방 예산을 대폭 늘리면서 드론 스타트업인 퀀텀시스템스는 최근 몇 년 새 가파른 성장세를 이어왔다. 올해 진행된 신규 자금조달 라운드에서는 70억 유로(약 10조 원)의 기업 가치를 인정받기도 했다.</p>]]></description>
+		</item>
+		<item>
+			<title>美 공군, 최신 훈련기 &apos;T-19A 케스트럴&apos; 도입 운용한다</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8119</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8119</guid>
+			<author>sbtm2epdl@gmail.com 강지현 기자</author>
+			<category>밀리터리</category>
+			<category>20250407121048_4964</category>
+			<pubDate>Fri, 13 Nov 2026 11:46:24 +0900</pubDate>
+			<description><![CDATA[<p><br /></p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2611/20261113113242_bc24c437.jpg" alt="20261113 미 공군 최신 훈련기 T-19A-Kestrel 도입.jpg" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미 공군이 도입한 최신 훈련기 'T-19A-Kestrel' 편대가 공군사관학교 상공을 날고 있다./사진=미 공군 제공</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>[시큐리티팩트=강지현 기자] 미 공군은 12일(현지시간) 콜로라도주 콜로라도스프링스 소재 미 공군사관학교(USAFA) 상공에서 축하 비행을 선보이며 최신 훈련기 'T-19A 케스트럴(Kestrel)'을 공식 공개했다.</p>
+<p><br /></p>
+<p>이 기체는 차세대 조종사 훈련에 투입되는 동시에 새로운 공중 시범 비행팀의 주력 기종으로 활용된다. 생도들에게 고중력 가속도(high g-force) 비행을 경험할 기회를 제공하는 한편 만성적인 감소세를 보이는 공군 조종사 인력을 확충하기 위한 새로운 모병 수단으로 삼겠다는 구상이다.</p>
+<p><br /></p>
+<p>T-19A 케스트럴은 2인승 단발 엔진을 장착한 전(全) 탄소섬유 공중 퍼포먼스 항공기인 'GB1 게임버드(Gamebird)'를 군용으로 도입한 기종이다. 미국 아칸소주 벤턴빌에 본사를 둔 게임 에어로스페이스 컴포지츠(Game Aerospace Composites)가 제작했으며 미 공군은 총 4대를 인도받았다. 제조사 측은 이 기체를 "짜릿한 비행 경험을 추구하는 조종사를 위한 궁극의 곡예비행기"라고 설명했다.</p>
+<p><br /></p>
+<h3>생도 비행술 강화 및 차세대 비행팀 창설</h3>
+<p>미 공군은 이날 오후 보도자료를 통해 생도단의 점심 식사 대형 상공을 가로지른 이번 비행이 "최근 최종 군용 인증 비행을 마친 사관학교 최초의 동력 곡예비행기가 공식 배치되었음을 알리는 신호탄"이라고 밝혔다. 이어 "세계적인 수준의 민간 곡예비행 조종사 및 교육과정 개발자들과 협력하여 전국 단위 경쟁력을 갖춘 곡예비행 및 시범 비행팀을 출범시키는 것이 목표"라고 덧붙였다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2026/11/10091424.jpg?strip=all&amp;quality=85&amp;w=1024" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">켄 윌스바흐(Ken Wilsbach) 미 공군참모총장이 'T-19A-Kestrel' 도입에 대해 12일(현지시간) 미 공군사관생도들에게 말하고 있다./사진=미 공군 제공연</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>켄 윌스바흐(Ken Wilsbach) 미 공군참모총장은 이날 데이비스 비행장(Davis Airfield)에서 열린 기념식에서 "아이디어 구상부터 항공기 4대의 제작 및 인도까지 10개월 만에 이루어진 것은 전례 없는 일이며 이를 가능하게 한 모든 이의 비전과 헌신, 팀워크의 증거"라고 말했다. 또한 "이 항공기들은 생도들이 비행술을 더욱 연마할 기회를 제공할 것이며 궁극적으로는 미래의 공군 장병들에게 영감을 불어넣을 경쟁력 있는 비행팀을 창설하게 될 것"이라며 "생도들이 공군 임관이나 학부 조종사 훈련(UPT)에 입과하기 전에 더 많은 비행시간과 곡예비행 경험을 쌓을 수 있게 될 것"이라고 강조했다.</p>
+<p><br /></p>
+<p>트로이 마인크(Troy Meink) 공군장관 역시 "구상에서 인도까지 이 항공기들은 공군부를 강화하는 속도와 혁신을 잘 보여준다"며 "사관학교에서 케스트럴 프로그램이 성숙해짐에 따라 생도들이 결국 훈련과 시범 비행에서 더 큰 역할을 맡게 될 것이며 이는 졸업 후 현역 조종사 훈련을 받는 데 더 나은 밑거름이 될 것"이라고 전했다.</p>
+<p><br /></p>
+<h3>민간 기부로 10개월 만에 조달…TWZ "기존 획득 사업과 대조적"</h3>
+<p>미국 군사전문매체 더 워 존(TWZ)은 이번 T-19A 도입 방식이 T-7A 레드호크(Red Hawk) 제트 훈련기 등 막대한 개발 예산과 장기간 소요되는 미 공군의 여타 신형 항공기 사업과 극명하게 대비된다고 평가했다.</p>
+<p><br /></p>
+<p>TWZ가 공군 관계자를 취재해 보도한 바에 따르면 해당 관계자는 "T-19A 4대의 도입은 전적으로 기업 및 민간 기부금을 통해 이루어졌으며 공군의 초기 조달 예산은 전혀 투입되지 않았다"며 "기부금 규모는 300만 달러(약 40억 원) 상당"이라고 밝혔다. 이 관계자는 이어 "공군은 초기 예비 부품 기증을 보완하고 초기 교관 요원과 미래 생도들에게 필요한 지원 장비 및 승무원 비행 장비를 조달하기 위해 약 40만 달러를 투자했다"고 설명했다.</p>
+<p><br /></p>
+<p>운용 및 유지보수 예산에 대해서도 이 관계자는 "표준 공군 예산 편성 절차를 통해 배정될 것"이라며 "항공기 유지에 드는 연간 비용은 100만 달러를 약간 넘는 수준이며 무기체계 유지보수 계정에서 자금이 조달된다"고 전했다. 연간 비용에는 T-19A 기단의 관리 및 유지를 위한 운용·지원비와 전국 대학 곡예비행 대회 참가를 위한 임시 파견 출장비가 포함된다고 TWZ는 보도했다.</p>
+<p><br /></p>
+<h3>조종사 인력난 타개책…"하늘을 나는 모병 수단"</h3>
+<p>폴 D. 모가(Paul D. Moga) 미 공군사관학교장(중장)은 "T-19A의 도입은 이곳 사관학교 비행술 훈련의 흥미진진한 새 장을 여는 일"이라며 "이 항공기는 과거에는 불가능했던 방식으로 생도들을 훈련할 기회를 제공할 것이며 생도들의 항공 기술을 강화하고 미래 공군 장교에게 필요한 자신감, 규율, 리더십을 길러줄 것"이라고 말했다.</p>
+<p><br /></p>
+<p>공군에 따르면 모가 교장은 "곡예비행 훈련 교육과정을 개발하고 실행할 초기 교관 요원으로 사관학교 교직원 및 제306비행훈련단 소속 현역 군 조종사 6명을 선발했다"고 말했다. 이들 현역 조종사들은 초기 시범 비행팀의 주력 조종사로서 전국의 주요 모병 행사와 에어쇼에서 비행을 선보일 예정이다. 향후 팀 내에 경연 부문을 운영하여 국제곡예비행클럽(IAC) 대회 및 이에 준하는 대회에도 참가할 계획이라고 공군은 밝혔다.</p>
+<p><br /></p>
+<p>이에 대해 TWZ는 미 공군이 사관학교에 곡예비행팀까지 창설하며 적극적인 홍보에 나선 배경에 심각한 조종사 인력난이 자리 잡고 있다고 분석했다. TWZ가 인용한 미 의회조사국(CRS)의 지난 9월 보고서에 따르면 2024 회계연도에 당시 공군참모차장이었던 제임스 C. 슬라이프(James C. Slife) 대장은 "미 공군이 전 세계 작전 소요를 충족하기 위해 필요한 조종사 정원 1만9136명 중 1900명이 부족하다"고 밝혔다. 또한 2026 회계연도 국방수권법안(H.R. 3838)에 수반된 하원 군사위원회 보고서(H.Rept. 119-231)는 미 공군이 학부 조종사 훈련(UPT) 프로그램을 통한 연간 약 1500명 양성 목표치를 달성하지 못했다고 지적했다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.twz.com/wp-content/uploads/2026/11/10091431.jpg?strip=all&amp;quality=85&amp;w=1024" alt="U.S. AIR FORCE ACADEMY, Colo. -- U.S. Air Force Academy cadets attend the T-19A Kestrel debut ceremony at Davis Airfield, U.S. Air Force Academy, Colo., Nov. 12, 2026. The ceremony marked the arrival of the Academy's first powered aerobatic aircraft, highlighting an investment in the next generation of Air Force leaders and expanded cadet airmanship opportunities. (U.S. Air Force photo by Trevor Cokley)" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">최신 훈련기 'T-19A 케스트럴(Kestrel)' 도입식에 참가한 미 공군사관생도들/사진=미 공군 제공</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>한편 '케스트럴(황조롱이)'이라는 기체 명칭은 생도들의 추천으로 결정됐다. 공군은 생도들이 이 이름을 선택한 이유에 대해 "황조롱이는 민첩성, 가속력, 면도날처럼 예리한 시력 그리고 정밀한 타격 능력으로 잘 알려진 맹금류이며 이 모든 특성이 바로 이 항공기가 사관학교 비행 프로그램에 가져다줄 가치이기 때문"이라고 설명했다.</p>
+<p><br /></p>
+<p>모든 비행 운용은 사관학교 내 데이비스 비행장을 기지로 이루어진다. 공군은 "안전이 프로그램의 가장 기본적인 토대이므로 저고도 고성능 곡예비행에 특화된 견고한 안전관리시스템(SMS)을 운용에 적용할 것"이라며 "모든 비행 및 지상 운용은 연방항공청(FAA) 규정과 미 공군 안전 지침 중 더 엄격한 기준을 따르게 된다"고 밝혔다. TWZ는 생도들의 실제 훈련 개시 시점과 새로운 케스트럴 시범 비행팀의 첫 공식 비행 일정은 아직 공개되지 않았다고 덧붙였다.</p>
+<p><br /></p>
+<h3>기존 미 공군 훈련기 사업 및 한국 T-50 참여 가능성에 미치는 영향</h3>
+<p>이번 T-19A 4대 도입은 사관학교 내 학부 과정의 기초 비행술 함양과 대국민 모병 홍보에 특화된 사업으로 미 공군의 주력 비행훈련 체계나 한국항공우주산업(KAI)의 T-50 계열 수출 전망에는 직접적인 타격을 주지 않는다는 것이 방산업계와 미 공군의 중론이다.</p>
+<p><br /></p>
+<p>미 공군 조종사 양성 과정은 ▲공군사관학교의 입문 비행(T-53A·T-41·글라이더 등) 이후 ▲학부 조종사 훈련(UPT)의 초등·중등(T-6A 텍산 II) ▲고등 훈련(T-38C 탤론 및 후속기 T-7A 레드호크) ▲전술입문훈련(IFF) 단계로 엄격히 구분된다. 프로펠러 경항공기인 T-19A는 제트 훈련기 시장을 대체하는 기종이 아니다.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="cheditor-caption-wrapper">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQV49UGdi1iDpaz3r-_sWK7l9zPh0Li7nrMQN0IMURDc7B9NBL4ae0JyQN2RcubhRHh1hTORMn8A8fZA7g" alt="KAI가 개발에 참여하고 사천 공군기지에서 시험 비행 중인 T-50 골든이글 (출처: KAI / Getty Images), AI로 생성" style="width: 100%; height: auto;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">KAI와 록히드마틴이 공동 개발한 T-50 골든이글이 사천 공군기지 활주로에서 이륙하고 있다./출처=KAI</figcaption>
+      </figure>
+   </div>
+<p>&nbsp;</p>
+<p>오히려 한국산 T-50(미국 현지 개량형 TF-50A)의 미 공군 진입 여부는 보잉의 차세대 고등훈련기 T-7A 레드호크 사업 지연과 미 공군의 고등전술훈련기(ATT·Advanced Tactical Trainer) 소요에 달려 있다. 미 회계감사원(GAO)이 지난 7월 발표한 보고서와 미 공군 공식 발표에 따르면 T-7A는 비행제어 소프트웨어 및 사출좌석 결함 등으로 개발 시험이 지연되면서 양산 배치(FRP) 결정 시점이 당초 2027년에서 2029년으로 늦춰졌다.</p>
+<p><br /></p>
+<p>이에 따라 미 공군이 노후화된 T-38 대체 공백을 메우고 5·6세대 전투기 전술 훈련 및 가상적기(Aggressor) 임무를 수행하기 위해 검토해 온 100여 대 규모의 고등전술훈련기(ATT) 사업이 다시 주목받고 있다. 록히드마틴과 KAI는 이미 검증된 양산 실적과 초음속 비행 성능, 무장 운용 능력을 갖춘 TF-50A를 앞세워 미 공군 ATT 사업 및 미 해군 전술훈련기(TSA) 사업 참여를 지속적으로 타진하고 있어 T-19A 도입과는 별개로 향후 미군 훈련기 시장에서의 수주 경쟁은 계속될 전망이다.</p>]]></description>
+		</item>
 		<item>
 			<title>머스크, 인수 기업 IT 시스템 침해 확인… 랜섬웨어 조직 &quot;100GB 탈취&quot;</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8118</link>
@@ -482,139 +592,6 @@
 <p>다만 기술적 도전 과제도 존재한다. 마치나는 최근 에드워즈 공군기지에서 6피트 절반 크기의 축소형 기체 비행 테스트를 마쳤으나 초기 디자인에서 측풍(crosswind) 완화 문제가 발견된 바 있다. 이에 대해 메르 CEO는 "엔진 위치를 약간 조정해 문제를 보완했으며 당사의 강점은 디자인 수정에서 다음 단계로 넘어가는 데 최대 3개월이면 충분하다는 점"이라고 자신감을 보였다.</p>
 <p><br /></p>
 <p>방산 전문가들은 이번 마치나의 900만 달러 검증 계약이 미군의 군수 패러다임을 바꿀 상징적 이정표가 될 것으로 평가한다. 국방부가 본토 공장의 대량 생산 체제에서 벗어나 전선 최일선에 로봇 제조 셀을 배치하는 '분산형 전방 제조(Forward-Deployed Manufacturing)'로 전환할 경우 향후 주요 작전 지역의 군수 지원 양상에도 적지 않은 파급 효과를 미칠 전망이다.</p>]]></description>
-		</item>
-		<item>
-			<title>F-35 ‘41조 부품’ 행방불명… 미 국방부 정비 부실·가동률 폭락 ‘사면초가’</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8110</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8110</guid>
-			<author>sbtm2epdl@gmail.com 강지현 기자</author>
-			<category>무기체계</category>
-			<category>20250407120846_2514</category>
-			<pubDate>Wed, 11 Nov 2026 15:30:49 +0900</pubDate>
-			<description><![CDATA[<p>
-   <br />
-</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 860px;">
-      <img src="https://www.securityfact.co.kr/data/tmp/2611/20261111152604_dc13983b.jpg" alt="20261111 F-35.jpg" style="width: 860px; height: 573px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미 공군의 F-35A Lightning II 전투기 비행 모습./사진=록히드 마틴</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>
-   <br />
-</p>
-<p>
-   <br />
-</p>
-<p>[시큐리티팩트=강지현 기자] 미 국방부(DoD)가 수조 원대 가치를 지닌 F-35 스텔스 전투기 예비 부품 수백만 개를 수년째 파악하지 못해 정비 부실과 가동률 급락이라는 심각한 군수 지원 난항에 직면하고 있다.</p>
-<p>
-   <br />
-</p>
-<p>10일(현지시간) 디펜스뉴스 등 글로벌 군사 전문매체에 따르면 미 정부회계감사원(GAO)은 최신 감사 보고서를 통해 미 국방부의 F-35 프로그램이 역사상 가장 비용이 많이 드는 사업임에도 부품 재고 관리와 자산 책임성 확보에는 고전을 면치 못하고 있다고 밝혔다.</p>
-<p>
-   <br />
-</p>
-<p>GAO는 미 국방부의 F-35 부품 관리 기록이 시대에 뒤처지고 부정확하며 불완전하다고 지적했다. 7년 전 부품 추적 실패 문제가 처음 제기된 이후에도 미 국방부의 개선 노력이 미진했다고 평가했다.</p>
-<p>
-   <br />
-</p>
-<p>F-35 프로그램은 미 공군과 해군, 해병대는 물론 한국을 포함한 해외 도입국들이 엔진과 타이어 등 예비 부품을 공유하는 '공통 예비부품 풀(Joint Spares Pool)' 체계로 운영된다. 2026년 3월 기준 이 예비부품 풀에는 약 310억 달러(약 41조 5천억 원) 상당의 부품 2천600만 개가 등록돼 있다.</p>
-<p>
-   <br />
-</p>
-<p>하지만 이 가운데 최대 25억 달러(약 3조 3천500억 원)에 달하는 1만7천 여 개의 부품이 미 국방부 자산 및 물류 관리 플랫폼인 기업물류관리시스템(ELMS)에 누락된 것으로 확인됐다. 주계약업체인 록히드 마틴과 프랫 앤 휘트니의 자산 관리 시스템이 국방부 ELMS와 실시간 연동되지 않아 분기별 보고 데이터에만 의존하는 구조적 한계 때문이다. 제출 데이터의 약 6%는 부품 취득가가 '0.01달러 이하'로 잘못 기재되는 등 데이터 품질 오류도 적지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>이 같은 공급망 파행과 부품 추적 실패는 F-35 전투기의 실제 임무 가능률(Mission Capable Rate)을 크게 떨어뜨리고 있다. 미 국방부가 설정한 목표 가동률은 65~70% 수준이지만 2021년 65% 수준이던 전 군 통합 가동률은 최근 44~51%까지 급감했다. 모든 임무 수행이 가능한 완전 임무 가능률(Full Mission Capable Rate)은 30% 미만으로 떨어진 상태다.</p>
-<p>
-   <br />
-</p>
-<p>현장에서는 정비에 필요한 부품이 제때 수급되지 않자 정상 작동하는 다른 기체에서 부품을 떼어내 수리하는 '부품 돌려막기(Cannibalization)' 현상이 빈번하게 발생하고 있다. 이는 정비 공수를 이중으로 늘려 전체 가동률을 추가로 악화시키는 악순환을 낳고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 883px;">
-      <img src="https://one.sightlinemg.com/wp-content/uploads/2026/09/f-35.jpg.jpg?w=1024" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">미 해군의 F-35B Lighting II 전투기/사진=미 해군</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>예산 부담도 가중되는 추세다. F-35 프로그램의 2088년 퇴역 시점까지 총 수명주기 비용은 2조 달러(약 2천700조 원)를 넘어설 것으로 추산된다. 이 중 기체 획득 비용은 약 4천억~4천400억 달러(20~25%)인 반면 정비 및 군수 지원(O&amp;S) 예산은 전체의 75~80%에 달하는 1조 5천800억~1조 6천억 달러에 달한다.</p>
-<p>
-   <br />
-</p>
-<p>미 공군 F-35A 기준 비행시간당 운용 비용(CPFH)은 약 3만3천600~4만2천 달러 수준이다. 수직이착륙 및 함재기 구조인 F-35B와 F-35C는 4만5천~5만 달러 이상을 기록하고 있다. 기체당 연간 유지비 역시 당초 목표치인 410만 달러를 크게 상회해 750만 달러 안팎까지 치솟을 것이라는 전망이 나온다.</p>
-<p>
-   <br />
-</p>
-<p>이 같은 미 국방부의 부품 추적 실패와 공급망 파행은 F-35A 60여 대를 도입·운용 중인 한국 공군에도 직접적인 파장을 미칠 것으로 보인다. 한국 공군 역시 예비 부품을 미 국방부의 '글로벌 공통 예비부품 풀'과 성과기반군수지원(PBL) 계약에 의존하고 있다. 미군의 정비 수급 난항이 국내 F-35A 가동률 저하로 전이될 가능성을 배제할 수 없다.</p>
-<p>
-   <br />
-</p>
-<p>방산 전문가들은 "주계약업체의 정비 자산 관리가 불투명하다는 GAO의 지적은 방위사업청과 공군이 록히드 마틴과의 정비 계약 이행을 검증하는 체계를 대폭 강화해야 함을 시사한다"며 "향후 KF-21 등 국산 전투기 군수지원 체계 구축 시 실시간 자산 추적 및 독자 정비 능력 확보가 필수적"이라고 지적했다.</p>
-<p>
-   <br />
-</p>
-<p>GAO 금융 관리 팀의 아시프 칸 이사는 디펜스뉴스와의 인터뷰에서 "국방부가 소유한 부품 현황과 계약업체의 관리 방식을 정확히 파악하지 못한다면 주계약업체가 합리적인 비용으로 충분한 작전 태세를 제공하는지 보장할 수 없다"고 경고했다.</p>
-<p>
-   <br />
-</p>
-<p>GAO는 F-35 합동사업단(JPO)에 분실 부품 기록 절차 개선과 손실 경향 분석 도입, 자산 관리 전담 인력 교육 강화를 공식 권고했다. JPO 역시 2031년까지 137억 달러를 투입해 부품 재고를 확충하고 정부 정비창 능력을 높이는 글로벌 군수지원 체계 재정비(GSS Reset)를 추진 중이지만 부품 추적 불능 문제가 단기간에 해결되기는 어려울 것이라는 관측이 지배적이다.</p>]]></description>
-		</item>
-		<item>
-			<title>구글, 벤츠 독일·헝가리 공장에 로봇 AI &apos;제미나이 2.5&apos; 투입… 부품 분류 성공률 96% 달성</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8109</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8109</guid>
-			<author>sfinfo365@gmail.com 강태임 기자</author>
-			<category>뉴테크</category>
-			<category>20250407121910_3900</category>
-			<pubDate>Wed, 11 Nov 2026 12:58:12 +0900</pubDate>
-			<description><![CDATA[<p><br /></p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://www.securityfact.co.kr/data/tmp/2611/20261111125012_353ac7cf.jpg" alt="20261111 제미나이 로보틱스2.5 메르세데스-벤츠공장 적용.jpg" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">구글 딥마인드는 메르세데스-벤츠공장에 '제미나이 로보틱스 2.5'를 적용해 테스트를 마친 후 결과를 발표했다./출처=구글 답마인드</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<p><br /></p>
-<p><br /></p>
-<p>[시큐리티팩트=강태임 기자] 구글이 유럽 내 메르세데스-벤츠(Mercedes-Benz)의 핵심 자동차 생산라인에 최신 인공지능(AI) 로봇 모델을 투입해 실제 공정 검증을 성공적으로 완료했다.</p>
-<p><br /></p>
-<p>구글 딥마인드(Google DeepMind)는 10일(현지시간) 역대 가장 뛰어난 비전-언어-행동(VLA) 모델인 '제미나이 로보틱스 2.5(Gemini Robotics 2.5)'로 벤츠의 유라시아 주요 생산 거점에서 실시한 실증 개념검증(PoC) 결과를 발표했다.</p>
-<p><br /></p>
-<p>이번 실증 테스트는 미국 로봇기업 앱트로닉(Apptronik)의 휴머노이드 로봇 '아폴로 2(Apollo 2)'를 활용해 독일 진델핑겐(Sindelfingen)과 헝가리 케치케메트(Kecskemét)에 위치한 메르세데스-벤츠의 활성 생산라인 두 곳에서 진행됐다.</p>
-<p><br /></p>
-<p>독일 진델핑겐과 헝가리 케치케메트 공장은 벤츠의 첨단 완성차 생산을 담당하는 핵심 거점이다. 구글이 양국 공장에서 수행한 핵심 과제는 조립 공정의 대표적 고난도 반복 노동인 '키팅(Kitting, 부품 순서 분류 및 정리)' 작업이었다.</p>
-<p><br /></p>
-<p>대형 보관함에 무작위로 섞여 있는 금속 브래킷 등 다양한 부품을 꺼내 컨베이어 벨트를 따라 들어오는 차량별 조립 순서에 맞게 시퀀싱 용기에 정밀하게 배치하는 역할이다.</p>
-<p><br /></p>
-<p>예측 불가능한 실제 공장 환경 속에서도 로봇은 자율적으로 간격과 위치 오차를 보정하며 부품을 정렬했다. 구글의 체화형 추론 모델 '제미나이 로보틱스 ER(Embodied Reasoning)'이 전체 작업 흐름을 추적하고 '제미나이 로보틱스 2.5' 행동 모델이 로봇의 양팔과 손을 제어해 96%의 작업 성공률을 달성했다. 단순 시뮬레이션이나 연구실을 벗어나 정교한 유럽 완성차 공장에서 단조롭고 체력 소모가 큰 사전 작업을 로봇이 정밀하게 대체할 수 있음을 검증한 것이다.</p>
-<p><br /></p>
-<p>현장 실증 효과에 대해 카롤리나 파라다 구글 딥마인드 연구원은 "신뢰성과 정교함을 강화해 로봇이 실험실을 벗어나 비정형 실생활 환경에 진출하도록 도왔다"라며 "메르세데스-벤츠 생산라인에서 아폴로 2가 부품을 96% 성공률로 분류함으로써 엔지니어들이 복잡한 조립 작업에 집중할 수 있는 환경을 만들었다"라고 밝혔다.</p>
-<p><br /></p>
-<p>협력사 앱트로닉의 제프 카르데나스 공동창업자 겸 CEO 역시 "아폴로 2와 제미나이 로보틱스를 결합해 단 몇 주간의 사후 학습만으로 모델 성능이 획기적으로 향상됐고 벤츠 현장에 적용했을 때도 성능 저하가 거의 없었다"라며 "이는 휴머노이드 로봇을 산업 및 상업 환경에 대규모로 도입할 수 있는 결정적 기반"이라고 강조했다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 100%;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0Ne5PTsePFscrmwTfp_033kyFSz7peceTn5To8JkxkdM1c35S0f1Di0&amp;s=10" alt="Gemini Robotics 브랜드 비주얼 그래픽, AI로 생성" style="width: 100%; height: auto;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align: center;">Gemini Robotics 브랜드 비주얼 그래픽./출처=Maginative</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>'제미나이 로보틱스 2.5'란?</h3>
-<p>올 2월 5일 발표한 제미나이 로보틱스 2.5는 로봇이 인간처럼 '보고(Vision), 이해하고(Language), 행동(Action)'하도록 돕는 뇌 역할을 하는 비전-언어-행동(VLA) AI 모델이다. 기존 생성형 AI가 글이나 이미지를 만들어내는 데 그쳤다면 VLA 모델은 주변 물리 환경을 인식해 로봇 관절과 손가락의 정밀한 움직임 명령으로 직접 연결한다.</p>
-<p><br /></p>
-<p>우선 인간 수준의 손동작 정교성(Dexterity)을 크게 높였다. 단순히 물체를 잡고 옮기는 수준을 뛰어넘어 집게로 음식을 건네거나 선물 상자에 리본을 묶고 피펫으로 미세한 액체를 옮기는 등 200여 가지 고난도 과업을 완수한다. 기존 모델 대비 작업 성공률은 30~100% 상승했으며 수행 속도도 20~30% 빨라졌다.</p>
-<p><br /></p>
-<p>뛰어난 작업 신뢰성 및 하드웨어 범용성도 강점이다. 5개 손가락과 22자유도를 갖춘 '아폴로 2'의 섬세한 손(SharpaWave)부터 2핑거 그리퍼 구조의 '프랑카 두오(Franka Duo)'에 이르기까지 다양한 로봇 하드웨어에 곧바로 적용할 수 있는 높은 범용성을 확보했다.</p>
-<p><br /></p>
-<p>물리적 공간에서의 실시간 위험 회피와 에이전트 안전성 역시 대폭 개선됐다. 추론 시점 가이던스 기술을 적용해 장애물 주변 작업 완료율을 33%, 주변에 사람이 있을 때의 안전 작업 완료율을 43% 끌어올렸다. 또한 로봇 전용 악의적 탈옥 공격을 평가하는 'ASIMOV-Jailbreak' 벤치마크에서 99.5%의 방어율을 기록해 강력한 보안성을 증명했다.</p>
-<p><br /></p>
-<p>개발 과정에서는 구글의 최첨단 AI '제미나이 4 아르곤(Gemini 4 Argon)'이 시뮬레이션 엔진으로 활용됐다. 실제 카메라 영상 하나만으로 수천 개의 시뮬레이션 시나리오와 디지털 트윈(Digital Twin)을 만들어내 학습 시간을 획기적으로 단축했다.</p>
-<p><br /></p>
-<p>구글 딥마인드는 제미나이 로보틱스 2.5를 주요 파트너 로봇 기업들에 순차 배포하며 산업 현장 및 실생활 영역으로의 물리적 AI(Physical AI) 적용을 가속화할 방침이다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
