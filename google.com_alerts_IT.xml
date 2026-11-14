@@ -4,8 +4,24 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Fri, 13 Nov 2026 06:30:47 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 14 Nov 2026 17:30:59 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[김승주 교수 칼럼] 한국형 사이버보안 차르의 세 가지 조건 - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209493</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209493</guid>
+			<category>김승주 교수</category>
+			<pubDate>Sat, 14 Nov 2026 00:47:36 +0900</pubDate>
+			<description><![CDATA[대형 해킹 사고가 잇따를 때마다 강력한 사이버<b>보안</b> 컨트롤타워가 필요하다는 주장이 나온다. 최근에는 분야 전체를 총괄하는 책임자를 뜻하는 &#39;차르&#39;라는&nbsp;...]]></description>
+		</item>
+		<item>
+			<title>2차 모두의창업 개인정보 유출, API 취약점 재발 - 스페셜타임스</title>
+			<link>https://www.specialtimes.co.kr/news/articleView.html?idxno=485423</link>
+			<guid isPermaLink="true">https://www.specialtimes.co.kr/news/articleView.html?idxno=485423</guid>
+			<category>김승주 교수</category>
+			<pubDate>Fri, 13 Nov 2026 21:55:48 +0900</pubDate>
+			<description><![CDATA[고려대 정보보호대학원 <b>김승주</b> 교수는 &quot;1차 사고 이후 몇 달 만에 다시 발생한 것은 정부 전체 <b>보안</b> 관리체계에 문제가 있다는 방증&quot;이라며 점검 필요성을 강조&nbsp;...]]></description>
+		</item>
 		<item>
 			<title>국가 사이버복원력 강화 TF 출범…해킹 피해 복구까지 대비 - 머니투데이</title>
 			<link>https://www.mt.co.kr/amp/tech/2026/11/12/2026111209153763850</link>
@@ -229,22 +245,6 @@
 			<category>김승주 교수</category>
 			<pubDate>Tue, 27 Oct 2026 19:37:30 +0900</pubDate>
 			<description><![CDATA[심의위는 학계 최고 권위자인 <b>김승주</b> 고려대 정보보호대학원 교수가 초대 위원장을 맡아 이끈다. ... <b>보안</b> 업계 일각에서는 “국가 핵심 인프라 및 주요 기업의&nbsp;...]]></description>
-		</item>
-		<item>
-			<title>처벌 강화만으론 해킹 못 막는다…숨은 IT 자산부터 찾아야 - 이데일리</title>
-			<link>https://m.edaily.co.kr/News/Read?newsId=07035606645615544</link>
-			<guid isPermaLink="true">https://m.edaily.co.kr/News/Read?newsId=07035606645615544</guid>
-			<category>김승주 교수</category>
-			<pubDate>Thu, 22 Oct 2026 22:40:34 +0900</pubDate>
-			<description><![CDATA[... 운영 중인 서버와 데이터베이스를 빠짐없이 파악하지 못하면 <b>보안</b> 장비를 갖춰도 해킹을 막는 데 한계가 있다 ... <b>김승주</b> 고려대 정보보호대학원&nbsp;...]]></description>
-		</item>
-		<item>
-			<title>[기고 ] AI 시대, 획일적 망분리에서 N2SF로의 신속한 전환이 필요한 이유 - 이데일리</title>
-			<link>https://www.edaily.co.kr/News/Read?newsId=04480486645613248</link>
-			<guid isPermaLink="true">https://www.edaily.co.kr/News/Read?newsId=04480486645613248</guid>
-			<category>김승주 교수</category>
-			<pubDate>Fri, 16 Oct 2026 03:29:17 +0900</pubDate>
-			<description><![CDATA[[고려대학교 정보보호대학원 <b>김승주</b> 교수] 우리나라는 2006년부터 정부와 공공기관 등을 중심으로 &#39;획일적 망분리&#39;라는 <b>보안</b>정책을 시행해 왔다. 업무에&nbsp;...]]></description>
 		</item>
 	</channel>
 </rss>
