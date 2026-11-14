@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 13 Nov 2026 19:30:47 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 14 Nov 2026 11:31:10 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>&apos;3D 디지털 휴먼&apos; 지상파 데뷔...오모션·KBS 합작</title>
+			<link>https://www.etnews.com/20261114000010</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261114000010</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 14 Nov 2026 10:30:00 +0900</pubDate>
+			<description><![CDATA[오모션이 KBS 미디어연구소와 함께 개발한 가상인간이 지상파 방송 무대에 등장했다. 사전에 제작된 영상을 재생하는 방식이 아니라 인공지능(AI)을 활용해 현장에서 전달된 심사평에 맞춰 입 모양과 움직임을 구현하며 디지털 휴먼의 방송 활용 가능성을 보여줬다. 오모션은 회사가 제작에 참여한 3D 디지털 휴먼 '누리담'이 최근 KBS 2TV에서 방송된 '2026 창원 K-POP 월드페스티벌(KWF)'에 가상 심사위원으로 출연했다고 13일 밝혔다. 누...]]></description>
+		</item>
+		<item>
+			<title>美 전역 항공기 이륙 중단…관제통신 장애에 항공대란</title>
+			<link>https://www.etnews.com/20261114000013</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261114000013</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 14 Nov 2026 10:06:28 +0900</pubDate>
+			<description><![CDATA[미국 전역에서 항공교통 관제통신 시스템 장애가 발생해 항공기 이륙이 전면 중단됐다. 수천 편의 항공기가 지연되거나 결항하면서 항공대란이 빚어졌다. 미국 당국은 현재까지 사이버공격 징후는 확인되지 않았다며 소프트웨어 업데이트 오류 등 장애 원인을 조사하고 있다. 13일(현지시간) 미국 연방항공청(FAA)에 따르면 미 동부시간 기준 이날 오후 4시께부터 전국 공항에 항공기 이륙 중단 조치가 내려졌다. FAA는 이례적인 상황과 안전상의 이유를 들어...]]></description>
+		</item>
 		<item>
 			<title>이스트소프트, 3분기 매출액 273억원…영업손실 56.8% 감소</title>
 			<link>https://www.etnews.com/20261113000301</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 13 Nov 2026 17:13:43 +0900</pubDate>
 			<description><![CDATA[AI 인프라 솔루션 전문기업 제타큐브(대표 조정현)가 '2026 ISACA Korea IT 거버넌스 상'을 수상하며 AI 인프라 기술력과 디지털 신뢰 확보 성과를 인정받았다. 제타큐브는 13일 서울 연세대학교 경영관 용재홀에서 열린 '2026 추계 공동학술대회 및 ISACA Korea 콘퍼런스'에서 IT Governance Award를 수상했다고 밝혔다. 이번 행사는 한국정보시스템감사통제협회(ISACA Korea) 등이 참여한 가운데 'AI G...]]></description>
-		</item>
-		<item>
-			<title>NC AI, 게임 개발자 AI 창작 협력 &apos;판교 빌더스&apos; 밋업 성료</title>
-			<link>https://www.etnews.com/20261113000279</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000279</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 16:48:07 +0900</pubDate>
-			<description><![CDATA[NC AI가 게임 개발자들과 인공지능(AI) 창작 노하우를 공유하는 커뮤니티 운영에 나섰다. NC AI는 게임 개발자 커뮤니티 '판교 빌더스' 첫 행사인 '빌더스 나잇'을 개최했다고 13일 밝혔다. 행사에는 게임 개발자와 업계 관계자 70여명이 참석했다. 판교 빌더스는 생성형 AI 활용 사례를 공유하고 협력 기회를 모색하기 위해 마련됐다. 소속 기업이나 직군과 관계없이 게임 개발자와 창작자들이 교류할 수 있다. 행사는 'AI로 게임 빌드하기'를...]]></description>
-		</item>
-		<item>
-			<title>앤앤에스피, &apos;CPS 시큐어 AX 서밋 2026&apos; 개최</title>
-			<link>https://www.etnews.com/20261113000267</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000267</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 16:07:23 +0900</pubDate>
-			<description><![CDATA[앤앤에스피가 인공지능(AI) 시대 산업현장의 운영기술(OT) 보안 강화와 안전한 데이터 연계 방안을 제시했다. 앤앤에스피는 13일 한국기계전기전자시험연구원(KTC), K-ICS협의회와 서울 엘타워에서 'CPS 시큐어 AX 서밋 2026'을 공동 개최했다. 행사에서는 산업현장의 사이버 위협과 대응 전략을 비롯해 OT 제어망 보안, 산업용 네트워크 시험인증, 제조기업의 보안 운영 사례 등을 공유했다. 특히 AI 활용에 필요한 데이터를 안전하게 연결...]]></description>
 		</item>
 	</channel>
 </rss>
