@@ -4,8 +4,62 @@
 		<title>ITFIND</title>
 		<link>https://www.itfind.or.kr/</link>
 		<description>ITFIND</description>
-		<lastBuildDate>Fri, 13 Nov 2026 07:01:23 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 14 Nov 2026 18:31:23 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>대만 반도체 경기 호황의 특징과 우리경제에 대한 시사점</title>
+			<link>https://www.bok.or.kr/portal/bbs/B0000565/view.do?nttId=11066541&amp;searchCnd=1&amp;searchKwd=&amp;depth2=201156&amp;depth3=201757&amp;date=&amp;sdate=&amp;edate=&amp;sort=1&amp;pageUnit=10&amp;depth=201757&amp;pageIndex=1&amp;programType=newsData&amp;menuNo=201757&amp;oldMenuNo=200433</link>
+			<guid isPermaLink="true">https://www.bok.or.kr/portal/bbs/B0000565/view.do?nttId=11066541&amp;searchCnd=1&amp;searchKwd=&amp;depth2=201156&amp;depth3=201757&amp;date=&amp;sdate=&amp;edate=&amp;sort=1&amp;pageUnit=10&amp;depth=201757&amp;pageIndex=1&amp;programType=newsData&amp;menuNo=201757&amp;oldMenuNo=200433</guid>
+			<author>한국은행</author>
+			<category>분석리포트</category>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[o AI發 반도체 호황으로 대만은 반도체 등 IT제품 수출을 중심으로 이례적인 고성장을 나타내고 있음<br/>   * 24.3/4~26.3/4분기중 누적 기준으로 GDP 25.6% 성장<br/>ㅇ 대만은 IT제조업 비중이 커 AI 확산의 영향이 IT산업 전반으로 파급되는 모습이나, 非IT 부문은 여전히 정체되면서 IT와 非IT간 K자형 불균형이 심화<br/>o 대만 소비는 반도체發 고성장이 시작된 24.3/4분기 이후에도 한동안 부진하였으나, 25.4/4 분기 이후 증시 호조, 정부의 재정지원 등에 힘입어 회복세를 보이면서 금년 1/4~3/4분기 중 5.4% 증가하며 개선세가 큰 폭 확대<br/>o 한국은 대만과 함께 글로벌 AI 투자 확대의 수혜국으로서 대만보다 1년 늦은 2025년 하반기부터 성장세가 크게 확대<br/>ㅇ 대만 사례를 보면 한국도 시차를 두고 소비 개선세가 점차 확대될 수 있겠으나, 상대적으로 낮은 IT제조업 고용 비중*을 감안하면 소비 회복세가 대만에 비해 더딜 가능성<br/>* 2025년 대만 91만명(전체 종사자의 10.6%), 한국 39만명(1.9%)]]></description>
+		</item>
+		<item>
+			<title>중국 정부, 대형 모델과 에이전트를 포함한 AI 기술 수출 통제 추진 外 [SPRi AI BRIEF 2026년 11월호]</title>
+			<link>https://spri.kr/posts/view/24039?code=AI-Brief&amp;s_year=&amp;data_page=1</link>
+			<guid isPermaLink="true">https://spri.kr/posts/view/24039?code=AI-Brief&amp;s_year=&amp;data_page=1</guid>
+			<author>소프트웨어정책연구소</author>
+			<category>정기간행물</category>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[중국 정부, 대형 모델과 에이전트를 포함한 AI 기술 수출 통제 추진<br/><br/>ㅁ 중국 상무부와 과학기술부가 대형 모델과 에이전트, 컴퓨팅 클러스터 등 AI 관련 기술을 포함한 40개 기술을 수출 금지·제한 기술 목록에 추가하는 개정안 공개<br/>ㅁ 중요 데이터로 훈련되고 매개변수 2조 개 이상의 모델과 주요 지표에서 세계 상위 10위 안에 드는 모델의 핵심 기술은 수출 제한 대상에 포함]]></description>
+		</item>
+		<item>
+			<title>구글·엔비디아, 차세대 로봇 AI 모델 연이어 발표 [글로벌 AI 동향(2026.11.12)]</title>
+			<link>https://www.globalict.kr/ai/globalAiInfo.do?menuCode=010600&amp;knwldNo=145993</link>
+			<guid isPermaLink="true">https://www.globalict.kr/ai/globalAiInfo.do?menuCode=010600&amp;knwldNo=145993</guid>
+			<author>정보통신산업진흥원</author>
+			<category>정기간행물</category>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[공장 실증과 시뮬레이션 학습으로 피지컬 AI 경쟁 본격화<br/><br/>엔비디아는 11월 9일 로봇학습학회(CoRL)에서 개방형 로봇 파운데이션 모델 GR00T 2를 공개했고, 이튿날 구글 딥마인드는 로봇 AI 모델 Gemini Robotics 2.5를 발표했다. 구글은 메르세데스-벤츠 생산라인 실증에서 96% 성공률을 제시했으며, 엔비디아는 인간 영상 학습과 시뮬레이션 도구를 앞세웠다. 양사가 잇따라 신모델을 내놓으면서 산업 현장 적용 성과를 겨루는 피지컬 AI 모델 경쟁이 가속화되고 있다.]]></description>
+		</item>
+		<item>
+			<title>유튜브 뮤직, 파트너 신고와 자체 탐지를 결합한 AI 생성 음원 라벨 도입 外 [저작권 이슈 브리프(2026-11-1호)]</title>
+			<link>https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56145&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</link>
+			<guid isPermaLink="true">https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56145&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</guid>
+			<author>한국저작권위원회</author>
+			<category>정기간행물</category>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ 유튜브 뮤직, 파트너 신고와 자체 탐지를 결합한 AI 생성 음원 라벨 도입<br/>생성형 AI를 활용한 음악 제작이 늘면서 AI 생성 음원이 빠르게 증가했고, 청취자들은 듣는 음원에 AI가 사용됐는지 알려 달라고 요구해 왔다. 이에 유튜브 뮤직은 10월 14일 주로 생성형 AI로 제작한 음원의 재생 화면에 라벨을 표시하기 시작했다. 라벨은 파트너가 완전 생성형 AI, 부분 생성형 AI, 생성형 AI 미사용 세 항목으로 신고한 내용을 토대로 하되, 자체 탐지 결과로 신고를 보완하고 미신고 음원도 판별한다. 유튜브는 AI 사용만을 이유로 수익화를 제한하지 않아, 추천이나 저작권료 배분을 제한하는 타 음악 스트리밍 서비스와 달리 정보 공개에 중점을 둔다. 다만 항목의 해석이 파트너에게 맡겨져 있고 미신고 음원의 판별이 탐지 성능에 좌우되는 만큼, 라벨과 추천, 저작권료 지급의 관계를 설명하는 일이 과제로 남는다.<br/><br/>ㅁ 디텍티프AI의 AI 생성 음성 탐지 모델 개방과 판별 결과의 활용 조건<br/>짧은 녹음만으로 목소리를 복제할 수 있게 되면서, 화자 검증과 별도로 음성의 AI 생성 여부를 확인할 필요가 커졌다. 이에 디텍티프AI는 2026년 10월 AI 생성 음성 탐지 모델 알레테이아와 화자 검증 모델 에이도스를 API와 MCP로 개발자에게 개방했으며, 두 모델은 하나의 키로 함께 쓸 수 있다. 알레테이아는 전화 음성을 기준으로 생성 흔적을 찾아 판정과 구간별 점수를 반환하며, 포도노스 벤치마크에서 정확도 94.47%를 기록했다. 다만 실제 음성의 8.4%를 AI 생성으로 판정했고, 영어 음성에 맞춰 조정돼 전화 음질에서는 신뢰도가 낮아진다. 따라서 탐지 결과는 다른 검증과 결합한 보조 신호로 쓰고, 성능 수치는 자체 환경에서 다시 검증해야 한다.<br/><br/>ㅁ 우크라이나 공영방송의 C2PA 도입과 보도 출처 증명 체계 구축<br/>전쟁 중인 우크라이나에서 AI로 생성한 허위 콘텐츠가 대규모로 퍼지면서, 언론이 보도의 신뢰를 지키기 어려워지고 있다. 이에 우크라이나 공영방송 수스필네는 허위 콘텐츠를 모두 가려내는 대신 자사 보도임을 증명하는 쪽으로 대응 방향을 바꾸고 C2PA 표준을 도입했다. 수스필네는 소수 인력으로 6개월 만에 서명 도구를 구축해 C2PA 신뢰 목록에 올랐으며, 서명된 보도 사진은 누구나 허가 없이 검증할 수 있다. 다만 서명 대상은 아직 선별된 보도 사진에 한정되어 있다. 수스필네가 강조했듯 출처 증명은 업계가 함께 구축할 때 비로소 작동하므로, 앞으로는 서명 대상을 넓히는 동시에 업계 전반의 참여를 확산할 필요가 있다.<br/><br/>ㅁ 하쿠호도 사례로 본 AI 생성 이미지의 기존 저작물 유사성 확인 자동화<br/>생성형 AI로 광고 제작물을 만드는 일이 늘면서 AI 생성 이미지가 기존 저작물과 비슷한지 확인하는 작업이 요구되고 있지만, 사람이 직접 확인하면 많은 시간이 소요되고 확인 담당자마다 판단이 달라지는 문제가 있다. 이에 하쿠호도는 그룹 내부에서 쓰던 이미지 유사도 체커를 2026년 10월 19일부터 고객사에 제공하기 시작했다. 이 도구는 생성형 AI로 만든 키워드로 웹에서 유사 이미지를 찾고, 의미와 구조 등 여러 관점의 유사도 점수를 목록으로 보여주며, 확인 과정을 리포트와 감사 로그로 남긴다. 다만 하쿠호도는 이 도구가 저작권 침해 여부를 판정하지 않으며 최종 권리 판단은 이용 기업이 내린다는 전제를 밝혀, 유사도 점수와 확인 이력을 기업의 제작 절차와 연결해 최종 판단까지 이어지도록 운영하는 일이 과제로 남는다.<br/><br/>ㅁ 일본 방송업계의 C2PA 도입과 촬영부터 시청까지 이어지는 출처 증명의 확대<br/>일본에서 AI로 생성한 허위 광고와 재해 관련 허위 이미지가 늘면서, 방송사들은 제보 영상의 진위 확인 부담과 보도 신뢰 하락이라는 문제에 직면하고 있다. 2026년 10월 도쿄에서 열린 미디어 프로버넌스 서밋에서는 카메라 렌즈부터 시청 화면까지 출처 정보를 유지하는 글래스 투 글래스가 강조되었다. NHK와 후지TV는 제작 과정에 C2PA를 적용했고, 후지TV는 광고 송출에도 이를 도입했으며, NTT도코모와 액세스는 출처 정보의 복원과 시청 화면 검증 기술을 선보였다. 다만 복원 기술은 실증 단계이고 브라우저는 시제품 단계이며, ‘cr’ 아이콘은 일본 시청자에게 큰 의미를 전달하지 못하고 있다. 이에 관련 기술의 상용화와 함께 시청자가 출처 정보의 의미를 쉽게 이해할 수 있는 표시 방식을 마련할 필요가 있다.<br/><br/>ㅁ 주간 기술 동향<br/>유럽연합이 AI법의 투명성 요건을 적용하기 시작하면서 AI 생성 텍스트의 출처를 확인하는 기술이 주목받고 있다. 그러나 기존 텍스트 워터마킹은 편집 이후 식별 정보를 복원하는 성능과 생성 품질을 동시에 확보하기 어렵고, 같은 앞 토큰이 반복될 때 생성 결과가 치우치거나 워터마크를 삽입할 기회가 줄어드는 한계가 있다. ClockMark는 후보 토큰들이 카운트다운 경주를 벌여 다음 토큰을 선택하는 방식으로, 이전 선택의 진행 상태를 저장하는 적응형 삽입과 현재 확률을 따르는 확률 의존 삽입을 결합한다. 그 결과 AI 모델의 원래 생성 확률을 유지하면서도, 토큰 삭제, 단어 교체, 문장 전체 바꿔 쓰기 등의 편집 이후에도 기존 기술보다 높은 식별 정보 복원 정확도를 기록한다.]]></description>
+		</item>
+		<item>
+			<title>넷플릭스의 성장 둔화와 이용자 이탈 증가에 따른 스포츠 중계권·콘텐츠 라이선스 확보 전략 강화 [비즈니스 인사이트(2026-11-1호)]</title>
+			<link>https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56144&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</link>
+			<guid isPermaLink="true">https://www.copyright.or.kr/information-materials/trend/tmis/view.do?brdctsno=56144&amp;pageIndex=1&amp;brdclasscodeList=&amp;etc2=&amp;etc1=&amp;searchText=&amp;searchkeyword=&amp;brdclasscode=&amp;nationcodeList=&amp;searchTarget=ALL&amp;nationcode=</guid>
+			<author>한국저작권위원회</author>
+			<category>정기간행물</category>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[넷플릭스, 2030 FIFA 월드컵 독점 중계권 확보<br/>넷플릭스는 스페인과 안도라 지역의 2030 FIFA 월드컵 독점 중계권을 확보해 총 104경기를 생중계할 계획임. 이는 스포츠 콘텐츠를 통해 시청 수요를 확대하고 플랫폼 경쟁력을 강화하려는 사례임.<br/><br/>본 보고서의 주요내용<br/>넷플릭스는 이용자 이탈 증가와 경쟁 심화로 매출 성장세가 둔화되고 있음. 이에 스포츠 독점 중계권과 외부 콘텐츠 라이선스 확보를 통해 콘텐츠 경쟁력 강화에 나서고 있음.<br/><br/>본 보고서의 시사점<br/>스트리밍 플랫폼 간 경쟁이 심화되면서 스포츠 중계권과 외부 콘텐츠 확보를 통한 서비스 차별화 및 이용자 이탈 방지의 중요성이 커지고 있음.]]></description>
+		</item>
+		<item>
+			<title>2027년 AI·ICT 10대 이슈 (발표자료)</title>
+			<link>https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261113-000001</link>
+			<guid isPermaLink="true">https://www.itfind.or.kr/admin/getStreamDocsRegi.htm?identifier=02-001-261113-000001</guid>
+			<author>정보통신기획평가원</author>
+			<category>정기간행물</category>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ㅁ “AI·ICT 10대 이슈”는 향후 1~2년 내 주목할 기술과 경제·사회 파급효과를 조망<br/>* (’08) 2009 IT산업 10대 이슈 (1회) → (’26) 2027 AI·ICT 10대 이슈 (19회차)<br/>ㅇ 올해는 AI 에이전트가 자료 수집·후보 도출·검증을 맡고 전문가 인터뷰·FGI 등 다층 검증을 거쳐 최종 이슈를 선정하는 AI–연구자 협업 방식의 이슈 선정 체계 도입<br/><br/>ㅁ 선정된 10대 이슈는 <br/>1. 실행을 넘어 자율 완수 '에이전틱 이코노미'  <br/>2. 경험 데이터 축적 '피지컬 AI 범용화 도전' <br/>3. AI가 만드는 AI 'AGI 경쟁의 분수령' <br/>4. 추론의 시대 'AI 반도체 최적화' <br/>5. AI 혁신의 Key 'AIDC 속도 · 성능의 이중 경쟁' <br/>6. Task Cost 절감이 관건 '토큰 효율성 극대화' <br/>7. AX의 새로운 인터페이스 '공간컴퓨팅, AX를 여는 窓' <br/>8. AI 실행 인프라로 확장 'Al Native 6G' <br/>9. 자율 다층 방어 체제 '사이버쉴드돔' <br/>10. AI 주권 경쟁 전선의 확장 '풀스택 소버린 AI']]></description>
+		</item>
 		<item>
 			<title>투자판단에서의 핀플루언서 의존 실태와 규제 방안</title>
 			<link>https://www.kcmi.re.kr/report/report_view?report_no=2350&amp;s_report_subject=&amp;s_report_type=&amp;thispage=1</link>
@@ -401,60 +455,6 @@
 			<category>IT동향정보</category>
 			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[조사기관 Krungsri Research에 따르면, 태국 메모리반도체 시장은 인공지능(AI), 데이터센터, 스마트 전자기기 등 데이터 처리·저장 기능을 활용하는 산업의 확대와 함께 수요 기반이 넓어지고 있다. Krungsri Research는 2026년 10월 발간한 전자산업 전망 보고서에서 AI, 머신러닝, 데이터 분석 기술의 발전이 고집적·고용량·고속·고대역폭 메모리 수요를 확대하는 주요 요인이라고 분석했다. 특히 생성형 AI 처리를 위한 데이터센터 투자가 늘어나면서 첨단 로직반도체와 메모리반도체의 중요성이 높아지고 있다. 다만 태국은 첨단 메모리반도체의 생산보다는 OSAT, 조립 및 테스트 등 반도체 후공정을 중심으로 글로벌 공급망에 참여하고 있다. 따라서 태국 메모리반도체 시장은 현지 첨단 메모리 생산 확대보다는 전자제품 제조와 디지털 인프라 확충에 필요한 부품 수요를 중심으로 살펴볼 필요가 있다.]]></description>
-		</item>
-		<item>
-			<title>아프리카 영상산업의 재편과 전망</title>
-			<link>https://www.kocca.kr/shortUrl/f4Cq</link>
-			<guid isPermaLink="true">https://www.kocca.kr/shortUrl/f4Cq</guid>
-			<author>한국콘텐츠진흥원</author>
-			<category>IT동향정보</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[본 보고서는 남아공을 중심으로 아프리카 영상산업의 구조와 시장 재편 동향을 분석하고, 한국 콘텐츠 기업의 진출 방향을 제시함. 아프리카 영상시장은 국가별 성장 격차가 존재하는 가운데, 카날플러스의 멀티초이스 인수, 쇼맥스 종료, 통신·광고 기반 스트리밍 확대 등으로 유통구조가 변화하고 있음. 남아공은 방송·제작 인프라를 기반으로 범아프리카 유통 및 국제 공동제작의 주요 거점으로 기능하고 있으나, 제작금융과 수익화 측면의 과제도 존재함. 이에 한국 기업은 국가·언어권별 특성을 고려한 단계적 진출과 현지 유통망 확보, 공동제작·IP 사업 확대 및 규제 리스크 관리가 필요함.]]></description>
-		</item>
-		<item>
-			<title>보험산업의 AI 전환, 효율화를 넘어 비즈니스 모델 재설계로</title>
-			<link>https://kpmg.com/kr/ko/insights/eri/2026/gtl-1109.html</link>
-			<guid isPermaLink="true">https://kpmg.com/kr/ko/insights/eri/2026/gtl-1109.html</guid>
-			<author>삼정KPMG 경제연구원</author>
-			<category>분석리포트</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[KPMG는 '보험산업의 AI 전환, 효율화를 넘어 비즈니스 모델 재설계로 (Unlocking AI value in insurance)' 보고서를 발간했습니다. 본 보고서는 전 세계 20개국·6개 지역의 보험업계 리더를 대상으로 한 설문조사를 바탕으로, 보험사의 AI 전환 성숙도와 도입 전략, 인력·운영에 미치는 영향, 가치 창출 현황 등을 분석하고 있습니다. <br/><br/>조사 결과, 응답자의 77%는 AI에 대응하지 못할 경우 향후 5년 내 경쟁력이 약화될 것으로 전망하며 AI 전환 필요성에 공감하고 있습니다. 그러나 실제 AI 활용은 콘텐츠 생성과 반복 업무 자동화 등 기존 업무의 효율화에 집중되어 있습니다. 보험사 10곳 중 9곳 이상이 AI를 통해 생산성을 높이고 운영비용을 절감하며, AI 예산의 약 50%를 운영 및 백오피스 효율화에 투입하고 있습니다. 반면 새로운 수익 창출에 AI를 활용한다는 응답은 25%, 신상품·신규 수익모델 개발에 배분하는 예산은 5~10%에 그치는 등 AI에 대한 기대가 사업 혁신으로 충분히 이어지지는 못하고 있습니다.<br/><br/>AI전환을 뒷받침할 기반도 과제로 나타났습니다. 명확한 AI 전략·비전과 경영진의 실행 방향이 정립됐다는 응답은 18%였으며, 견고한 데이터 기반·거버넌스를 확보했다는 응답과 AI 투자수익률을 매우 명확히 파악한다는 응답은 각각 11%에 불과했습니다. 인력의 AI 활용 역량이 매우 높다는 응답은 8%, AI 혁신의 책임을 기술 부문 리더가 맡는다는 응답은 45%로 나타나, 전략·데이터·인력·성과관리의 동반 강화가 필요한 것으로 분석됐습니다.<br/><br/>보고서는 보험사가 AI를 실질적인 혁신 동력으로 활용하기 위해 ① 효율성·효과성 제고, ② 비즈니스 재구상, ③ 산업 생태계 재편으로 전환 범위를 단계적으로 확대해야 한다고 강조합니다. 또한 중장기적으로 개인 리스크 비서, 탈중앙화 보험 플랫폼, 생태계 오케스트레이터 등 새로운 비즈니스 모델을 개발하고 고객 일상 속 보험과 연계될 수 있는 기반 마련도 필요합니다.]]></description>
-		</item>
-		<item>
-			<title>2026년 국가별 ICT 진출환경 보고서_독일</title>
-			<link>https://www.globalict.kr/country/country_list.do?menuCode=040100&amp;knwldNo=145979</link>
-			<guid isPermaLink="true">https://www.globalict.kr/country/country_list.do?menuCode=040100&amp;knwldNo=145979</guid>
-			<author>정보통신산업진흥원</author>
-			<category>분석리포트</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[o 시장 규모 및 전망<br/>- 독일 시장은 년 억 달러 약 조 억 원 로 ICT 2031 3,252.9 ( 430 3,700 )연평균 성장할 전망이며 클라우드 컴퓨팅 과 8.79% , (15.08%)데이터센터 가 성장을 이끌어 수요의 중심이 클라우드 로 (14.18%) ·AI이동하는 추세임<br/>- EU 24.2%정보통신 서비스 부가가치의 를 차지하는 역내 최대 시장이자 고용 만 명의 산업 기반을 갖췄으나 년 ICT 136 , 2026성장률이 로 세계 평균 의 절반에 그쳐 성장 속도는 4.1% (8.5%) 뒤처지는 구조임]]></description>
-		</item>
-		<item>
-			<title>에이전틱 AI 제로트러스트 안내서</title>
-			<link>https://www.kisa.or.kr/20302/form?postSeq=603&amp;page=1</link>
-			<guid isPermaLink="true">https://www.kisa.or.kr/20302/form?postSeq=603&amp;page=1</guid>
-			<author>과학기술정보통신부; 한국인터넷진흥원</author>
-			<category>분석리포트</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[본 안내서는 에이전틱 AI 이용 환경을 설계·구축·운영하는 보안 담당자 및 시스템 설계자가 새로운 위협을 구체적으로 인식하고, 에이전틱 AI 이용 환경에서도 제로트러스트 기반 보안 체계 수립·전환을 단계적으로 진행할 수 있도록 다음의 네 가지 목적을 설정하였다.<br/>첫째, 에이전틱 AI를 이용하는 환경을 분석하여 기존 기업망 환경과 다른 5가지 핵심 특성을 명확히 정의하고, 에이전틱 AI 이용 환경에서 발생할 수 있는 고유한 위협을 제시한다. 이를 통해 독자가 기존 보안 체계의 한계와 추가 보안 기능의 필요성을 이해할 수 있도록 한다.<br/>둘째, 가이드라인 2.0의 핵심 요소를 에이전틱 AI 이용 환경에 맞게 재정의하고 보안 기능을 추가·확장함으로써, 기존 제로트러스트 체계를 도입한 조직이 연속성을 유지하면서도 에이전틱 AI 환경에 필요한 보안 통제를 빠짐없이 파악하고 적용할 수 있도록 한다.<br/>셋째, 에이전틱 AI 이용 환경을 위한 제로트러스트 성숙도 모델을 제시함으로써, 조직이 현재 보안 수준을 자가 진단하고 우선순위에 따라 단계적으로 개선할 수 있는 기준을 갖출 수 있도록 한다.<br/>넷째, 본 안내서에서 정의하는 제로트러스트 아키텍처의 도입·운영 절차와 구체적인 활용 시나리오를 제시함으로써, 보안 담당자가 에이전틱 AI를 이용하는 실무 환경에 보안 솔루션 등을 구축할 때 본 안내서를 직접 참조할 수 있도록 한다.]]></description>
-		</item>
-		<item>
-			<title>COP31과 ‘초과 온난화’ 경로… 감축 목표, 적응 노력 강화 불가피 [주간 글로벌 경제 리뷰 11월 1주차]</title>
-			<link>https://www.deloitte.com/kr/ko/our-thinking/global-economic-review/ger-2026-11-1st.html</link>
-			<guid isPermaLink="true">https://www.deloitte.com/kr/ko/our-thinking/global-economic-review/ger-2026-11-1st.html</guid>
-			<author>Deloitte</author>
-			<category>분석리포트</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[올해 8월 네팔·중국 국경에서 파괴적인 홍수가 발생해 수천 명의 목숨을 앗아가고 전 세계인들의 간담을 서늘하게 했다. 이미 수억 명 인구의 생존을 위협하는 해수면 상승, 지구의 해양과 기상 시스템에 발생하는 잠재적으로 돌이킬 수 없는 교란은 기후 위기의 현주소를 보여주는 증거들이다.<br/>파리기후변화협정(파리협정)에서 제시한 지구 기온 상승 한계선인 ‘1.5도(°C)’를 지키려면, 현재 각국이 목표로 삼은 온실가스(GHG) 감축 목표보다 10배나 더 많이 줄여야 한다는 유엔기후변화협약(UNFCCC)의 분석이 나왔다.[1]한국은 당장 2035년 목표(2018년 대비 53~61% 감축)를 달성하려면 과거 6년간 줄인 온실가스 배출량의 3배 이상을 향후 10년간 감축해야 하는데, 이 분석에 의하면 원래 설정한 것보다 훨씬 더 높은 감축 목표를 추진해야 한다.[]]></description>
-		</item>
-		<item>
-			<title>최근 프랑스 시위의 주요 쟁점과 시사점</title>
-			<link>https://www.kiep.go.kr/gallery.es?mid=a10102030000&amp;bid=0004&amp;list_no=12677&amp;act=view</link>
-			<guid isPermaLink="true">https://www.kiep.go.kr/gallery.es?mid=a10102030000&amp;bid=0004&amp;list_no=12677&amp;act=view</guid>
-			<author>대외경제정책연구원</author>
-			<category>분석리포트</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[o [시위 경과] 2026년 9월 고등학생들의 학교 봉쇄로 시작된 프랑스 시위가 학부모·교원단체·노조·노란조끼 시위대 등이 합류한 대규모 시위로 확대되어 11월 현재까지 지속 중<br/>- 9월 중순 파리 근교 고등학교에서 시작된 학교 봉쇄가 전국으로 확산되었고, 이후 노조, 농민, 노란조끼 등이 가세하며 시위 쟁점이 교육에서 임금, 물가, 생활비 전반으로 확대되어 11월 현재까지 진행 중<br/>- 프랑스 정부는 연료비, 농가 지원, 교육 대책 등을 내놓았으나 시위대의 요구 수준과는 격차가 있으며, 상당 부분 2027년 예산안 수정을 전제로 하고 있어 대응에 난항을 겪는 중<br/><br/>o [주요 쟁점] 시위의 직접적인 계기는 교육 인프라 및 생활비 문제였으나, 시위 대응을 어렵게 하는 근본적 원인으로 연금제도를 비롯한 재정 문제와 저성장, 양극화 등 지목<br/>- [교육] 학교시설 노후화, 과밀학급, 교원 부족, 대입제도 형평성 등으로 학생 및 교원단체 시위 촉발<br/>- [재정] 재정적자 및 국가부채 증가로 중장기 국가 재정의 지속가능성에 대한 우려가 확대되고 있으며, 특히 연금 지출 유지를 위해 필요한 재원이 미래세대에 대한 투자를 제약한다는 인식 때문에 세대 갈등 심화<br/>- [저성장] 코로나19 팬데믹과 우크라이나 전쟁을 거치며 경제 성장이 둔화되었고, 여기에 최근 고물가가 결합하여 실질임금 정체와 생활고를 겪는 계층 증가<br/>- [양극화] 소득, 자산, 세대, 지역, 국적별 불균형으로 인해 프랑스의 거시경제 상황 악화로 인한 고통이 특정 계층에 집중되는 경향 발생]]></description>
 		</item>
 	</channel>
 </rss>
