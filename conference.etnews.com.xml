@@ -4,8 +4,47 @@
 		<title>전자신문 컨퍼런스/웨비나</title>
 		<link>https://conference.etnews.com/</link>
 		<description>전자신문 컨퍼런스/웨비나</description>
-		<lastBuildDate>Sat, 14 Nov 2026 18:30:28 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 14 Nov 2026 18:48:50 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>2026 데이터센터 서밋 in 충청</title>
+			<link>https://www.sek.co.kr/2026/datasummit</link>
+			<guid isPermaLink="true">https://www.sek.co.kr/2026/datasummit</guid>
+			<category>Conference</category>
+			<pubDate>Sat, 14 Nov 2026 18:48:49 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+                <a href="https://www.sek.co.kr/2026/datasummit" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/11/11/cms_conference_list_11140634292450.png">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-11-30(월)</span>
+                <strong><a href="https://www.sek.co.kr/2026/datasummit">2026 데이터센터 서밋 in 충청</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
+		<item>
+			<title>Next Smart Work Summit 2026</title>
+			<link>https://nsws.etnews.com/</link>
+			<guid isPermaLink="true">https://nsws.etnews.com/</guid>
+			<category>Conference</category>
+			<pubDate>Sat, 14 Nov 2026 18:48:41 +0900</pubDate>
+			<description><![CDATA[<li>
+              <figure>
+				<span class="label_day">D-5</span>
+                <a href="https://nsws.etnews.com/" target="_blank">
+                  <img src="https://img.etnews.com/photo_main/conference/2026/11/09/cms_conference_list_09100549744162.jpg">
+                </a>
+              </figure>
+              <div class="text">
+                <span class="date">2026-11-19(목)</span>
+                <strong><a href="https://nsws.etnews.com/">Next Smart Work Summit 2026</a></strong>
+                <span class="category">Conference</span>
+              </div>
+            </li>]]></description>
+		</item>
 		<item>
 			<title>제28회 공공솔루션마켓</title>
 			<link>https://www.sek.co.kr/2026/psm28</link>
@@ -159,45 +198,6 @@
                 <span class="date">2026-11-19(목)</span>
                 <strong><a href="https://www.allshowtv.com/detail.html?idx=1767">우아한형제들, AI 시대에 디자인과 개발을 잇다</a></strong>
                 <span class="category">allshowTV</span>
-              </div>
-            </li>]]></description>
-		</item>
-		<item>
-			<title>[IBM] AI 시대, 기업 경쟁력을 바꾸는 두 가지 혁신: AI 데이터 인프라와 AI 개발 자동화</title>
-			<link>https://www.allshowtv.com/detail.html?idx=1763</link>
-			<guid isPermaLink="true">https://www.allshowtv.com/detail.html?idx=1763</guid>
-			<category>allshowTV</category>
-			<pubDate>Fri, 13 Nov 2026 13:31:28 +0900</pubDate>
-			<description><![CDATA[<li>
-              <figure>
-				<span class="label_day">D-6</span>
-                <a href="https://www.allshowtv.com/detail.html?idx=1763" target="_blank">
-                  <img src="https://img.etnews.com/photo_main/conference/2026/11/02/cms_conference_list_02101456586468.jpg">
-                </a>
-              </figure>
-              <div class="text">
-                <span class="date">2026-11-19(목)</span>
-                <strong><a href="https://www.allshowtv.com/detail.html?idx=1763">[IBM] AI 시대, 기업 경쟁력을 바꾸는 두 가지 혁신: AI 데이터 인프라와 AI 개발 자동화</a></strong>
-                <span class="category">allshowTV</span>
-              </div>
-            </li>]]></description>
-		</item>
-		<item>
-			<title>대답하는 AI에서 행동하는 AI로: Aside와 Computer Use로 만드는 나만의 AI 동료</title>
-			<link>https://conference.etnews.com/conf_info.html?uid=530</link>
-			<guid isPermaLink="true">https://conference.etnews.com/conf_info.html?uid=530</guid>
-			<category>Conference</category>
-			<pubDate>Fri, 13 Nov 2026 07:00:20 +0900</pubDate>
-			<description><![CDATA[<li>
-              <figure>
-                <a href="https://conference.etnews.com/conf_info.html?uid=530" target="_blank">
-                  <img src="https://img.etnews.com/photo_main/conference/2026/10/28/cms_conference_list_28163612794946.jpg">
-                </a>
-              </figure>
-              <div class="text">
-                <span class="date">2026-12-04(금)</span>
-                <strong><a href="https://conference.etnews.com/conf_info.html?uid=530">대답하는 AI에서 행동하는 AI로: Aside와 Computer Use로 만드는 나만의 AI 동료</a></strong>
-                <span class="category">Conference</span>
               </div>
             </li>]]></description>
 		</item>
