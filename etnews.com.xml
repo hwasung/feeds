@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 15 Nov 2026 17:30:31 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 15 Nov 2026 20:30:35 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>경기도, &apos;42조1946억원&apos; 내년도 예산안 제출…인건비 3개월분 미반영</title>
+			<link>https://www.etnews.com/20261115000146</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261115000146</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 15 Nov 2026 18:27:06 +0900</pubDate>
+			<description><![CDATA[경기도가 민생·안전 사업을 우선 반영한 42조1946억원 규모 내년도 예산안을 편성했다. 15일 경기도에 따르면 도는 지난 13일 예산안을 도의회에 제출했으며, 재원 부족으로 공무원 인건비 3개월분과 법정 경비 일부를 반영하지 못했다. 내년도 예산안은 올해 본예산 40조577억원보다 2조1369억원(5.3%) 늘었다. 정부가 비용을 보조하는 사업이 늘어난 영향이다. 반면 도가 자체적으로 쓸 수 있는 재원은 올해 4조595억원에서 내년 1조650...]]></description>
+		</item>
 		<item>
 			<title>[전화성의 기술창업 Targeting] 〈416〉 [AC협회장 주간록126] 초기투자 시계를 3년에서 5년으로</title>
 			<link>https://www.etnews.com/20261113000187</link>
@@ -84,15 +93,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 15 Nov 2026 14:02:00 +0900</pubDate>
 			<description><![CDATA[기업 정보기술(IT) 인프라가 고도화되고 관리 대상 시스템이 기하급수적으로 늘어나면서 서버 운영과 배치작업, 크론탭 관리 등 반복적인 운영 업무의 자동화 및 표준화가 핵심 과제로 부상했다. 특히 무중단 서비스가 필수적인 금융권과 대규모 제조기업에서는 수작업 의존도를 낮추고 휴먼에러를 차단하는 정교한 자동화 체계가 요구된다. IT 운영 자동화 전문기업 씨즈솔루션(대표 조영란)은 이러한 흐름을 반영해 금융·제조·공공 등 다양한 산업군에서 축적한 대...]]></description>
-		</item>
-		<item>
-			<title>제18회 ICT논문공모전 대상에 포스텍 이찬희·강예원·GIST 송영환 씨 팀…내달 18일 시상식</title>
-			<link>https://www.etnews.com/20261113000259</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000259</guid>
-			<author>박준호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 15 Nov 2026 13:54:59 +0900</pubDate>
-			<description><![CDATA[올해 대학(원)생 최고의 정보통신기술(ICT) 논문을 가리는 '제18회 전자신문 ICT논문 공모대제전'에서 포항공과대(포스텍) 인공지능대학원 이찬희 씨와 같은 학교 컴퓨터공학과 강예원 씨, 광주과학기술원(GIST) AI학과 송영환 씨가 함께 영예의 대상(과학기술정보통신부 장관상) 수상자로 선정됐다. 전자신문과 웹케시그룹, 소프트웨어공제조합이 공동 주최하는 공모전은 지난 12일 서울 서초구 전자신문사에서 최종심사회의를 갖고, 대상을 포함한 9편의...]]></description>
 		</item>
 	</channel>
 </rss>
