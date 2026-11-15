@@ -4,8 +4,50 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Sat, 14 Nov 2026 08:31:13 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 07:31:04 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>ULA 벌컨, 9개월 만에 발사 재개했지만 실패… 아마존 위성 40기 손실</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8123</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8123</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>방산기업</category>
+			<category>20140925141337_5787</category>
+			<pubDate>Mon, 16 Nov 2026 07:10:14 +0900</pubDate>
+			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
+   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
+      <img src="https://securityfact.co.kr/data/tmp/2611/20261116070844_d2d5a898.jpg" alt="유나이티드 론치 얼라이언스(ULA)의 '벌컨 로켓'. 출처=ULA.jpg" style="width: 720px; height: 406px;" />
+      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">유나이티드 론치 얼라이언스(ULA)의 '벌컨 로켓'. 출처=ULA</figcaption>
+   </figure>
+</div>
+<p>&nbsp;</p>
+<p>[시큐리티팩트=최미옥 기자] 미국 우주발사 기업 유나이티드 런치 얼라이언스(ULA)가 9개월 만에 발사를 재개한 벌컨 로켓의 임무 실패를 확인했다. 로켓에 실린 아마존의 저궤도 인터넷 위성 40기도 손실됐다.</p>
+<p>
+   <br />
+</p>
+<p>로이터통신은 15일(현지시각) 보잉과 록히드마틴의 합작사 ULA가 플로리다주 케이프커내버럴에서 벌컨을 발사했으나, 이륙 약 10분 만에 이상이 발생했다고 보도했다. ULA는 위성을 목표 궤도에 올리지 못했다고 밝혔다. 사고 원인은 아직 밝혀지지 않았다. 우주 전문매체 스페이스플라이트나우는 이번 사고를 ULA의 첫 완전 임무 실패로 규정했다.</p>
+<p>
+   <br />
+</p>
+<p>벌컨은 지난 2월 12일 미 우주군 임무(USSF-87)에서 고체 로켓 부스터(SRB, 이륙 때 추력을 보태는 보조 로켓)의 노즐 이상을 겪은 뒤 발사를 멈췄다. 위성 전문매체 샛뉴스(SatNews)에 따르면 미 우주군은 이후 국가안보 발사 임무를 스페이스X로 재배정했다.</p>
+<p>
+   <br />
+</p>
+<p>벌컨은 발사 재개 첫 임무에서 실패하면서 군 위성 발사체로서 신뢰 회복이라는 과제를 떠안았다. 다만 이번 사고가 2월 부스터 이상과 관련됐는지는 확인되지 않았다.</p>
+<p>
+   <br />
+</p>
+<p>이번 발사는 아마존이 계약한 벌컨 발사 38회 가운데 첫 번째였다. 아마존은 3236기의 위성으로 저궤도 인터넷망을 구축해 스페이스X의 스타링크와 경쟁할 계획이다. 벌컨 발사가 한동안 재개되지 못하면 위성 배치 일정에도 영향을 줄 수 있다.</p>
+<p>
+   <br />
+</p>
+<p>한국군도 미국 민간 발사체를 이용하고 있다. 군 정찰위성 425사업의 1호기부터 5호기까지 모두 스페이스X의 팰컨9으로 발사됐다. 다만 이번 벌컨 사고가 한국군 위성 발사에 직접 영향을 준다는 근거는 없다.</p>
+<p>
+   <br />
+</p>
+<p>ULA는 사고 원인을 규명한 뒤 다음 발사 일정을 결정할 것으로 보인다.</p>
+]]></description>
+		</item>
 		<item>
 			<title>안두릴, 2년 내 IPO 희망… 미 국방부에 수주 분산 촉구</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8122</link>
@@ -39,7 +81,7 @@
 <p>&nbsp;</p>]]></description>
 		</item>
 		<item>
-			<title>새팀, 독일·폴란드에 군사 위성 영상 분석  제공</title>
+			<title>새팀, 독일·폴란드에 군사 위성 영상 분석 제공</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8121</link>
 			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8121</guid>
 			<author>sbtm2epdl@gmail.com 강지현 기자</author>
@@ -488,102 +530,6 @@
    <br />
 </p>
 <p>에어로바이런먼트는 최근에도 미군 관련 계약을 수주했다. 9월 미 육군은 LOCUST X3 레이저 무기 공급을 위해 4억6480만 달러 계약을 발주했고, 8월에는 스위치블레이드 600 추가분 5100만 달러를 주문했다. 두 건은 이번 계약과 별개의 사업이다.&nbsp;</p>]]></description>
-		</item>
-		<item>
-			<title>[2027 신무기②] 미국 &apos;HACM&apos;, 토마호크보다 5~6배 빠른 극초음속 순항미사일</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8113</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8113</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>무기체계|글로벌</category>
-			<category>20250407120846_2514|20250407120859_3077</category>
-			<pubDate>Wed, 11 Nov 2026 18:24:26 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2611/20261111181717_7e26f29d.jpg" alt="레이시온이 공개한 극초음속 공격 순항미사일 HACM의 개념도. 출처=레이시온.jpg" style="width: 720px; height: 405px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">레이시온이 공개한 극초음속 공격 순항미사일 HACM의 개념도. 출처=레이시온</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 미국 공군이 기존 토마호크 순항미사일보다 훨씬 빠른 극초음속 공격 순항미사일 'HACM'의 초기 생산과 조달을 추진하고 있다. 음속의 5배 이상으로 비행하도록 개발 중인 무기로, 토마호크보다 5~6배 빠르다는 비교는 목표 속도를 바탕으로 한 추산이다. 미 공군은 올해 호주에서 첫 비행시험을 실시했으며, 2027 회계연도에 신속 전력화 단계로 전환할 계획이다.</p>
-<p>
-   <br />
-</p>
-<p>HACM은 미국 방산기업 RTX 산하 레이시온이 주계약자로 개발하고, 노스럽그루먼이 스크램제트 엔진을 담당한다. 미 공군은 2022년 9월 레이시온과 약 9억8500만 달러 규모의 개발 계약을 체결했다.</p>
-<h3>극초음속 엔진으로 비행… 적 방공망 대응 시간 줄인다</h3>
-<p>HACM은 항공기에서 발사된 뒤 로켓 부스터로 가속하고, 이어 스크램제트 엔진으로 비행하도록 설계됐다. 스크램제트는 엔진 내부로 들어오는 공기가 초음속으로 흐르는 상태에서 연료를 태우는 추진기관이다. 일반 제트엔진보다 훨씬 높은 속도에서 작동한다.</p>
-<p>
-   <br />
-</p>
-<p>극초음속의 기준인 마하 5는 음속의 5배를 뜻한다. 음속은 고도와 기온에 따라 달라지므로 같은 마하 5라도 실제 비행 속도는 일정하지 않다. HACM의 최고속도와 사거리는 공개되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>미국의 대표적인 순항미사일 토마호크는 약 시속 880㎞로 비행한다. HACM이 고도 약 20㎞에서 마하 5로 비행한다고 가정하면 시속 약 5300㎞로, 토마호크보다 약 6배 빠르다. 이는 목표 속도를 기준으로 환산한 값이며, 실제 시험에서 입증된 성능은 아니다.</p>
-<p>
-   <br />
-</p>
-<p>두 미사일이 직선거리 1000㎞를 일정한 속도로 날아간다고 가정해도 차이는 크다. 토마호크는 약 68분이 걸리지만, 마하 5로 비행하는 미사일은 비행 조건에 따라 약 10~11분이면 같은 거리를 이동한다. 실제 비행에는 가속 과정과 비행경로 등의 변수가 있어 이 계산을 곧바로 실전 성능에 적용할 수는 없다.</p>
-<p>
-   <br />
-</p>
-<p>극초음속 미사일의 군사적 가치는 빠른 접근 속도에 있다. 방어 측은 미사일을 탐지하고 경로를 추적한 뒤 요격 여부를 판단해야 한다. 접근 시간이 짧아질수록 대응에 사용할 수 있는 시간도 줄어든다.</p>
-<p>
-   <br />
-</p>
-<p>그러나 속도가 빠르다고 모든 방공망을 돌파하는 것은 아니다. HACM의 탄두 중량과 파괴력도 공개되지 않아 토마호크보다 타격 위력이 크다고 단정할 근거는 없다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2611/20261111182112_0cdd5b38.jpg" alt="극초음속 공격 순항 미사일(HACM)의 콘셉트 아트. 출처=레이시온.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">극초음속 공격 순항 미사일(HACM)의 콘셉트 아트. 출처=레이시온</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<h3>호주 첫 시험으로 개발 진전…스크램제트 성능 검증은 과제</h3>
-<p>HACM 개발에는 미국과 호주의 극초음속 공동연구 사업 'SCIFiRE'와 미 국방고등연구계획국(DARPA)의 'HAWC'에서 축적한 기술이 활용되고 있다. 미 공군은 이를 바탕으로 전투기에서 운용할 수 있는 극초음속 정밀타격 무기를 확보하려 한다.</p>
-<p>
-   <br />
-</p>
-<p>미 공군은 지난 10월 6일 호주에서 HACM의 첫 비행시험이 이뤄졌다고 확인했다. 항공기에서 비행시험체를 분리하는 시험으로, 정확한 실시 날짜와 항공기 기종, 비행시간, 속도 등은 공개하지 않았다. 시험체가 분리된 뒤 자체 추진력으로 비행했는지, 스크램제트 엔진이 작동했는지도 알려지지 않았다. 따라서 첫 시험을 마하 5 이상의 극초음속 비행 성공으로 평가하기에는 공개된 정보가 부족하다.</p>
-<p>
-   <br />
-</p>
-<p>개발 일정은 당초 계획보다 늦어졌다. 미 회계감사원(GAO)의 2026년 7월 보고서에 따르면 공군은 신속 시제품 개발 단계에서 예정했던 비행시험을 7회에서 5회로 줄였다. 초기 3차례 비행시험은 2027 회계연도 신속 전력화와 조달 결정을 뒷받침할 중요한 검증 단계다. 사업 관계자들은 GAO에 추가 지연이 발생하면 목표 일정을 맞추기 어려울 수 있다는 취지로 설명했다.</p>
-<p>
-   <br />
-</p>
-<p>시험 횟수가 줄어든 만큼 제한된 일정 안에 필요한 성능 자료를 확보해야 한다. 첫 시험에서 공개되지 않은 추진 성능과 실제 극초음속 비행 능력은 후속 시험을 통해 검증해야 할 과제로 남아 있다.</p>
-<p>
-   <br />
-</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2611/20261111181907_ffc8cb5e.jpg" alt="HACM이 탑재될 F-15E 스트라이크 이글 전투기. 출처=미 공군 알렉산드리아 브룬 하사.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">HACM이 탑재될 F-15E 스트라이크 이글 전투기. 출처=미 공군 알렉산드리아 브룬 하사</figcaption>
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">&nbsp;</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<h3>2027 회계연도 초기 생산·조달 추진… F-15E 탑재 목표</h3>
-<p>미 공군은 HACM을 2027 회계연도에 신속 전력화 단계로 전환하고 초기 조달을 추진하고 있다. 미국의 2027 회계연도는 2026년 10월부터 2027년 9월까지다. 2027 회계연도 예산 요청안에는 연구개발비 약 8억600만 달러와 조달비 약 4억400만 달러가 포함됐다. 합계 약 12억1000만 달러다.</p>
-<p>
-   <br />
-</p>
-<p>조달 요청액에는 초기 완성탄뿐 아니라 보관·운송용 컨테이너와 지원 장비도 포함된다. 따라서 조달 예산 전체를 미사일 구매 비용으로 볼 수는 없다. 이 금액은 예산 요청 단계의 수치로, 최종 승인액과 실제 집행액은 별도로 확인해야 한다.</p>
-<p>
-   <br />
-</p>
-<p>초기 탑재 기종으로는 F-15E 스트라이크 이글 전투기가 제시돼 있다. 미국은 전투기에서 발사할 수 있는 극초음속 미사일을 확보해 원거리 표적에 대한 신속한 공격 능력을 확대하려 한다. 다만 2027 회계연도 초기 조달이 곧 실전 배치 완료를 뜻하지는 않는다. 개발 일정 지연으로 당초 목표였던 2027년 인도 일정에도 불확실성이 생겼다.</p>
-<p>
-   <br />
-</p>
-<p>GAO 자료에는 2029 회계연도 생산 착수 계획이 제시돼 있으며, 본격 생산을 위한 결정도 이 시기의 주요 이정표로 거론된다. 미국의 2029 회계연도는 2028년 10월부터 2029년 9월까지다.</p>
-<p>
-   <br />
-</p>
-<p>HACM이 2027 회계연도에 초기 생산·조달 단계로 진입할 수 있을지는 후속 비행시험 결과와 미 공군의 조달 결정에 달려 있다.</p>]]></description>
 		</item>
 	</channel>
 </rss>
