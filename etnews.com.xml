@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 14 Nov 2026 17:30:47 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 15 Nov 2026 11:30:34 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>LG유플러스, 내년 AI 토큰 사업 진출…“기업 AX 청구서 낮춘다”</title>
+			<link>https://www.etnews.com/20261113000248</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000248</guid>
+			<author>박준호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[LG유플러스가 내년 인공지능(AI) 토큰 사업에 진출한다. 내재화한 토큰 최적화 기술로 기업 고객의 AI전환(AX) 부담을 줄이는 사업이다. 모델 라우팅·경량화·칩 믹스를 결합해 업무 완결 총비용(TCO)을 절감하는 데 초점을 맞췄다. 이상엽 LG유플러스 최고기술책임자(CTO)는 “AI 시장 패권은 누가 더 큰 모델을 만드느냐를 넘어 고객이 원하는 비즈니스 결과를 얼마나 정교하고 경제적으로 완수하느냐로 이동했다”며 “단순히 토큰 단가 경쟁보다...]]></description>
+		</item>
 		<item>
 			<title>정부, MS365 장애 비상대응반 구성…MS “근본 문제 해결”</title>
 			<link>https://www.etnews.com/20261114000035</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 13 Nov 2026 18:24:23 +0900</pubDate>
 			<description><![CDATA[영림원소프트랩은 3분기 연결 기준 매출 217억2000만원, 영업이익 14억원을 기록했다고 13일 밝혔다. 이는 전년 동기 대비 각각 5.6%, 8.6% 증가한 수치다. 3분기 누적 매출은 631억2000만원으로 전년 동기 대비 12.2% 증가했으나, 누적 영업이익은 15억7000만원으로 40.3% 감소했다. 대형 ERP 프로젝트 증가에 따른 외주용역비 등 사업 수행 비용이 일시적으로 늘어난 영향이다. 회사는 프로젝트별 비용 관리를 강화해 수익...]]></description>
-		</item>
-		<item>
-			<title>코난테크놀로지, 국방 AI 참모 &apos;아르고엑스&apos; 첫 공개…“팔란티어 고담에 도전”</title>
-			<link>https://www.etnews.com/20261113000299</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261113000299</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 13 Nov 2026 18:21:19 +0900</pubDate>
-			<description><![CDATA[코난테크놀로지가 국방 분야 여러 출처의 정보를 융합해 분석하는 플랫폼 '코난 아르고엑스(Konan ARGO-X)'를 선보이며 국방 인텔리전스 시장 공략을 본격화한다. 김영섬 코난테크놀로지 대표는 13일 서울 용산 나인트리 로카우스에서 열린 '제5회 코난테크놀로지 국방 AI 서밋 2026'에서 “지난 20년간 실제 군 전력체계에 적용해 온 기술과 경험을 바탕으로 글로벌 미래 신안보 시대를 선도하는 국방 AI 기업으로 도약하겠다”며 “전출처 정보융...]]></description>
 		</item>
 	</channel>
 </rss>
