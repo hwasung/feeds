@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 16 Nov 2026 06:30:28 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 08:30:36 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>서혜진 경기도의원, 경기교육 &apos;지원이&apos; 운영 개선과 반복 민원 대책 주문</title>
+			<link>https://www.etnews.com/20261116000003</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000003</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 07:16:39 +0900</pubDate>
+			<description><![CDATA[경기교육 디지털 플랫폼 '지원이(G-ONE)'의 학생 가입률이 0.5% 수준에 그쳐 운영을 개선해야 한다는 지적이 나왔다. 경기도의회 교육기획위원회 서혜진 의원(더불어민주당, 비례)은 지난 12일 경기도교육청 기획조정실 행정사무감사에서 학생과 학부모가 '지원이'를 더 쉽게 이용하고 교직원은 행정 부담을 덜 수 있도록 대책을 마련하라고 주문했다. 서 의원이 감사에서 제시한 자료에 따르면 '지원이' 사업에 약 430억원이 투입됐으며 교직원 가입률은...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 제철소가 지탱하고 반도체가 검증하는 중국 산업가스</title>
 			<link>https://www.etnews.com/20261105000398</link>
@@ -83,15 +92,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 15 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 기술의 폭발적인 확산이 산업 전반에 혁신을 가져오고 있다. 동시에 사이버 위협도 전례 없이 고도화하고 있다. AI 기반 사이버 공격은 더 이상 미래의 가상 시나리오가 아니다. 산업 전반을 직접 위협하는 현실이 됐다. 그러나 이러한 변화의 속도에 비해 국내 사이버보안 인력 양성과 관리체계는 여전히 과거의 틀에 머물러 있다. 급변하는 위협 환경과 보안 인력의 대응 역량 사이에 심각한 불균형이 발생하고 있는 것이다. 최근 AI를 악용...]]></description>
-		</item>
-		<item>
-			<title>[ET톡]먹는 알츠하이머 신약을 기다리는 이유</title>
-			<link>https://www.etnews.com/20261115000069</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261115000069</guid>
-			<author>배옥진</author>
-			<category>오피니언</category>
-			<pubDate>Sun, 15 Nov 2026 15:30:00 +0900</pubDate>
-			<description><![CDATA[한국시간으로 17일 오전 6시에 미국 보스턴에서는 세계 바이오 시장을 들썩일 빅 이벤트가 열린다. 아리바이오가 미국 알츠하이머병 임상시험 학회(CTAD 2026)에서 경구용 알츠하이머 치료제 후보물질 'AR1001'의 임상 3상 톱라인 결과를 발표하는 이벤트다. 하루 한 번 복용으로 알츠하이머병 진행을 늦출 수 있을지 세계 시장의 관심이 고조돼 있다. 알츠하이머병은 '세상에서 가장 슬픈 병' '인간 소멸의 병' 등으로 불릴 정도로 환자 본인은...]]></description>
 		</item>
 	</channel>
 </rss>
