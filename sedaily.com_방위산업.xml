@@ -4,8 +4,16 @@
 		<title>서울경제</title>
 		<link>https://www.sedaily.com/</link>
 		<description>서울경제</description>
-		<lastBuildDate>Fri, 13 Nov 2026 07:02:45 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 15 Nov 2026 18:33:10 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>9년 걸릴 새 함정, 1년 만에…美 안두릴도 놀란 K조선</title>
+			<link>https://www.sedaily.com/article/20114504</link>
+			<guid isPermaLink="true">https://www.sedaily.com/article/20114504</guid>
+			<author>송주희</author>
+			<category>전체뉴스</category>
+			<pubDate>Sun, 15 Nov 2026 17:45:02 +0900</pubDate>
+		</item>
 		<item>
 			<title>“살아서 못 나올 수도” 출입금지 경고에도…제주 산방산 오른 등반객 결국</title>
 			<link>https://www.sedaily.com/article/20113785</link>
@@ -77,14 +85,6 @@
 			<author>송종호</author>
 			<category>정치</category>
 			<pubDate>Fri, 06 Nov 2026 15:31:46 +0900</pubDate>
-		</item>
-		<item>
-			<title>[단독] 국기연, 오는 10일 LIG D&amp;A에 ‘1000억원 규모 제재부가금’ 부과 심의[이현호의 방산!톡]</title>
-			<link>https://www.sedaily.com/article/20110239</link>
-			<guid isPermaLink="true">https://www.sedaily.com/article/20110239</guid>
-			<author>이현호</author>
-			<category>정치</category>
-			<pubDate>Thu, 05 Nov 2026 07:00:05 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
