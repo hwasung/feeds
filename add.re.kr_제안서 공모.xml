@@ -4,7 +4,7 @@
 		<title>국방과학연구소 제안서 공모</title>
 		<link>https://www.add.re.kr/kps/publicNtis/ntisList?menuId=MENU02201</link>
 		<description>국방과학연구소 제안서 공모</description>
-		<lastBuildDate>Mon, 16 Nov 2026 18:30:05 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 07:00:06 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>[공모] 위탁연구기관 선정을 위한 제안서 공모 (세부과제명: 스텔스 전투기 기체용 복합소재)</title>
@@ -144,7 +144,6 @@
 <hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
 <li><a href="https://www.add.re.kr/fileDownloadDev?titleId=1770&amp;fileId=1&amp;fileDownType=ntis&amp;paramMenuId=MENU02201">붙임1. 제안서 공모문.hwp (0.12 MB)</a></li>
 </ul></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[협상우선순위]핵심기술 시제업체 협상우선순위 선정결과 공고(시제명 : 10,000lbf급 터보팬 엔진 시제)</title>
@@ -152,16 +151,7 @@
 			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1769&amp;menuId=MENU02200&amp;titleId=0</guid>
 			<category>결과안내</category>
 			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p>핵심기술(시험개발)과제 시제업체 협상우선순위<br/></p> <p>"10,000lbf급 고바이패스 터보팬 엔진 개발" 핵심기술 과제의 시제업체 협상우선순위 선정결과를 붙임과 같이 공시합니다.</p> <div>
-
-<p><big><big>■ 시제</big></big>명</p>
-<div>
-<div>
-<p>- 10,000lbf급 터보팬 엔진 시제</p></div>
-</div></div>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://www.add.re.kr/fileDownloadDev?titleId=1769&amp;fileId=1&amp;fileDownType=ntis&amp;paramMenuId=MENU02200">붙임. 시제업체 협상우선순위 (공고용).hwp(25KB)</a></li>
-</ul></div>]]></description>
+			<description><![CDATA[[협상우선순위]핵심기술 시제업체 협상우선순위 선정결과 공고(시제명 : 10,000lbf급 터보팬 엔진 시제)<br>공고일: 2026-11-13<br>접수시작일: 2026-11-13<br>접수마감일: 2026-11-13]]></description>
 		</item>
 		<item>
 			<title>[공모] 위탁연구기관 선정을 위한 제안서 공모 (위탁연구명: 자연어 지시 기반 비정형 환경 임무 수행을 위한 족형 모바일 매니퓰레이터의 이동-조작 전신제어 기술 연구)</title>
