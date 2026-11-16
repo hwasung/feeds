@@ -4,7 +4,7 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Mon, 16 Nov 2026 18:35:21 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 07:03:18 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>기업 AI 주권, 어디서부터 채워야 할까: 9가지 유형별 실행 가이드</title>
@@ -255,7 +255,6 @@
 </div>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI는 이제 현장에서 동작하고 있습니다 | ATTENTION 2026 인사이트 리포트</title>
@@ -288,7 +287,6 @@
 <p><a href="https://makinarocks.my.site.com/lp/landing-page/attention-2026-insight-report-MC2YWDELHOBFHRPO6AUG4LLZHJKQ?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=20261105-attention-report"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EB%B0%B0%EB%84%88-A-%C2%B7-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BC.png" alt=""/></a></p>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[기업 AI 주권 테스트] 우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까</title>
@@ -301,7 +299,7 @@
 <img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/%EA%B8%B0%EC%97%85AI%EC%A3%BC%EA%B6%8C%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 
 <p>요즘 업무에 AI를 활용하지 않는 회사가 있을까요? 보고서 초안을 잡고, 회의록을 정리하고, 메일 문장을 다듬는 일까지 ChatGPT나 Claude 같은 도구가 거듭니다. 직원 한 명 한 명의 일하는 속도는 분명 빨라졌습니다.</p>
 
@@ -543,6 +541,7 @@
 </div>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (2)엔지니어 편</title>
@@ -692,7 +691,6 @@
 <div><iframe src="https://www.youtube.com/embed/X2CFbyPzNp0"></iframe></div>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (1)마케팅·P&amp;C 편</title>
@@ -747,7 +745,6 @@
 <p>2편에서는 마키나락스 엔지니어 네 명의 이야기가 이어집니다. AI가 코드를 대신 짜주는 시대, 엔지니어들은 왜 더 바빠졌고 그 문제를 어떻게 풀고 있을까요? 인지부채와 PR 리뷰, 복잡한 비즈니스 로직, 그리고 기억을 대신하는 기록까지. 엔지니어들의 AI 활용기를 다룰 2편도 많은 관심 부탁드립니다.</p>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI가 산업 현장에 착륙한 순간, ATTENTION 2026</title>
@@ -830,7 +827,6 @@
 <p><strong>우리는 벌써 다음 ATTENTION을 준비하고 있습니다.</strong></p>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>대한민국 최초로 전장망에서 AI가 실제로 작동하게 만드는 일 — KJCCS 현장에서 FDE로 일한다는 것</title>
@@ -897,7 +893,6 @@
 <p>향후 확장성을 기대하기 위해서는 방대한 비문에 대한 처리가 실시간으로 권한에 맞춰 이루어져야 합니다. 현재 기능실별 데이터 적재를 설계에 반영하여 적재하고 있어서 내년 훈련에서는 보다 광범위한 서비스를 제공할 수 있을 것으로 기대하고 있습니다.</p>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>비개발자의 AI 앱 배포 후기: 코딩 어시스턴트와 마키나락스 Runway</title>
@@ -1049,7 +1044,6 @@
 </div>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>정상 데이터만으로 로봇 고장을 예측하는 AI 개발기</title>
@@ -1095,7 +1089,6 @@
 <p>이러한 접근은 정상 데이터의 분포 변화에 따른 오탐지을 줄이는 동시에, 부품 마모나 성능 저하와 같은 초기 열화 징후를 더욱 민감하게 탐지할 가능성을 확인했습니다. 이는 단순한 이상 여부 판단을 넘어 설비의 상태 변화를 조기에 감지하고 유지보수 의사결정을 지원하는 기반 기술로 활용될 수 있으며, 향후 다양한 로봇 기종과 제조 공정에 적용 가능한 예지보전(Predictive Maintenance) 기술로 확장될 수 있을 것으로 기대됩니다.</p>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 엔지니어의 밤 – Build. Share. Connect.</title>
@@ -1162,7 +1155,6 @@
 <p><a href="https://makinarocks.career.greetinghr.com/ko/home"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/06/MakinaRocks-Recruit-banner-no-date-1024x160.png" alt=""/></a></p>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
