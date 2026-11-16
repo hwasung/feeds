@@ -4,7 +4,7 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Wed, 11 Nov 2026 07:02:58 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 18:35:21 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>기업 AI 주권, 어디서부터 채워야 할까: 9가지 유형별 실행 가이드</title>
@@ -14,10 +14,10 @@
 			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85AI%EC%A3%BC%EA%B6%8C%EA%B0%80%EC%9D%B4%EB%93%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85AI%EC%A3%BC%EA%B6%8C%EA%B0%80%EC%9D%B4%EB%93%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 
 <h2>기업 AI 주권 점수를 확인했다면, 이제 어디서부터 바꿀까요</h2>
 
@@ -255,6 +255,7 @@
 </div>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI는 이제 현장에서 동작하고 있습니다 | ATTENTION 2026 인사이트 리포트</title>
@@ -264,10 +265,10 @@
 			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/ATTENTION-Report_cover.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/ATTENTION-Report_cover.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 <p>AI Has Landed. ATTENTION 2026의 주제였습니다.</p>
 <p>AI는 이제 실제 현장에서 성과를 만들어 내고 있습니다. 기업이 오랜 시간 쌓아 온 데이터와 경험이 AI를 통해 활용되고 있으며, 제조부터 국방까지 다양한 분야에서 적용 사례가 늘어나고 있습니다.</p>
 <p>AI는 각 산업 현장에서 어떻게 동작하고 있을까요? 기업이 AI를 안정적으로 운영하고 실질적인 성과를 얻기 위해서는 어떤 기술과 전략이 필요할까요?</p>
@@ -284,9 +285,10 @@
 <h2>우리 현장에 필요한 AI의 다음 단계는?</h2>
 <p>AI를 적용하는 환경과 해결해야 할 과제는 기업마다 다릅니다. 정답이 하나일 수는 없지만, 그렇다고 매번 백지에서 시작할 필요도 없죠. 다른 현장에서 먼저 시도한 방법과 경험은 우리 회사에 지침서가 될 수 있습니다.</p>
 <p>ATTENTION 2026 인사이트 리포트에는 다양한 기업이 현장에서 마주한 과제와 이를 해결하기 위해 선택한 방법, 그 과정에서 얻은 성과와 인사이트를 담았습니다. 우리가 나눈 이야기들이 각자의 현장에서 AI의 활용 가능성을 검토하고, 다음 단계를 구체화하는 데 도움이 되기를 바랍니다.</p>
-<p><a href="https://makinarocks.my.site.com/lp/landing-page/attention-2026-insight-report-MC2YWDELHOBFHRPO6AUG4LLZHJKQ?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=20261105-attention-report"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EB%B0%B0%EB%84%88-A-%C2%B7-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BC.png"/></a></p>
+<p><a href="https://makinarocks.my.site.com/lp/landing-page/attention-2026-insight-report-MC2YWDELHOBFHRPO6AUG4LLZHJKQ?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=20261105-attention-report"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EB%B0%B0%EB%84%88-A-%C2%B7-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BC.png" alt=""/></a></p>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[기업 AI 주권 테스트] 우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까</title>
@@ -541,7 +543,6 @@
 </div>
 
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (2)엔지니어 편</title>
@@ -551,10 +552,10 @@
 			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/thumnail-ATL2.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/thumnail-ATL2.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 
 <p>AI가 코드를 대신 짜주는 시대, 엔지니어는 더 편해졌을까요?</p>
 
@@ -688,7 +689,10 @@
 
 <p>지금까지 두 편에 걸쳐 마키나락스의 ALT 현장을 전해드렸습니다. ALT에서 나눈 이야기들이 저희에게 너무나 유익했기에, 이 중 엔지니어 세션들을 외부에 공개 가능한 정보로 재구성해 영상으로도 준비했습니다. AI 활용을 고민하는 많은 분들께 저희의 고민이 유의미한 실마리가 될 수 있길 바랍니다.</p>
 
+<div><iframe src="https://www.youtube.com/embed/X2CFbyPzNp0"></iframe></div>
+
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (1)마케팅·P&amp;C 편</title>
@@ -698,10 +702,10 @@
 			<pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-thumbnail_1.jpg"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-thumbnail_1.jpg" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 <p>AI 덕분에 일하는 속도는 확실히 빨라졌습니다. 그런데 이상하게 더 바빠지고, 일이 정리되지 않는 것 같다는 느낌을 받진 않나요? 점심시간, 마키나원들이 손에는 햄버거를, 머릿속에는 이 질문을 들고 라운지에 모였습니다. AI 노하우를 함께 나누는 마키나락스 문화, 그 첫 번째 AI Lunch Talk(이하 ALT) 현장입니다.</p>
 <h2>점심 먹으면서 AI 얘기 좀 할까요?</h2>
 <p>ALT는 하나의 질문에서 출발했습니다. <strong>“우리는 AI를 얼마나 잘 활용하고 있을까?”</strong></p>
@@ -743,6 +747,7 @@
 <p>2편에서는 마키나락스 엔지니어 네 명의 이야기가 이어집니다. AI가 코드를 대신 짜주는 시대, 엔지니어들은 왜 더 바빠졌고 그 문제를 어떻게 풀고 있을까요? 인지부채와 PR 리뷰, 복잡한 비즈니스 로직, 그리고 기억을 대신하는 기록까지. 엔지니어들의 AI 활용기를 다룰 2편도 많은 관심 부탁드립니다.</p>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI가 산업 현장에 착륙한 순간, ATTENTION 2026</title>
@@ -752,10 +757,10 @@
 			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 <p>지난 9월 3일, 웨스틴 서울 파르나스에서 마키나락스의 플래그십 AI 컨퍼런스 <strong>ATTENTION 2026</strong>이 열렸습니다.</p>
 <p>올해의 주제는 <strong>‘AI Has Landed.’</strong></p>
 <p>AI가 무엇을 할 수 있는지 이야기하는 것을 넘어, 실제 산업 현장에서 AI가 어떻게 쓰이고 있는지를 한자리에서 보여주고 싶었습니다.</p>
@@ -764,7 +769,7 @@
 <p>ATTENTION 2026의 현장으로 다시 돌아가 봅니다.</p>
 
 <h2>아침부터 예상보다 뜨거웠던 ATTENTION 2026</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-c-1024x576.png"/></p>
+<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-c-1024x576.png" alt=""/></p>
 <p>행사가 시작되기 전부터 로비는 참석자들로 빠르게 채워졌습니다.</p>
 <p>올해 ATTENTION에는 제조, 반도체, 자동차, 에너지, 국방, 공공 등 370여 개 기업에서 약 800명이 함께했습니다.</p>
 
@@ -796,7 +801,7 @@
 <p>이미 보여줄 수 있는 사례가 생기고 있었으니까요.</p>
 <h2>발표장 밖에서도 이야기는 계속됐습니다</h2>
 
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Group-2147258131-1024x224.png"/></p>
+<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Group-2147258131-1024x224.png" alt=""/></p>
 <p>ATTENTION의 콘텐츠는 발표장 안에만 있지 않았습니다.</p>
 <p>올해는 행사장 로비에 <strong>Physical AI Ecosystem Village</strong>를 구성했습니다. 단순히 쉬는 시간에 둘러보는 전시 공간이 아니라, 세션에서 들었던 기술과 사례를 직접 확인하고 다시 대화를 시작할 수 있는 또 하나의 콘텐츠 공간으로 만들고 싶었습니다.</p>
 <p>AI 반도체·클라우드·로봇 등 8개의 체험 부스가 운영됐고, 마키나락스의 AI OS Runway가 실제로 AI를 개발·배포·운영하는 과정도 라이브 데모로 선보였습니다.</p>
@@ -817,7 +822,7 @@
 <p>현장에서 미처 듣지 못한 발표는 <strong>ATTENTION 2026 다시보기</strong>에서 만나보세요.</p>
 <p><a href="https://www.makinarocks.ai/attention-2026/?utm_source=blog&amp;utm_medium=owned&amp;utm_campaign=202610-attention-sketch-blog">[WATCH — 다시보기 →]</a></p>
 <h2>그리고 우리는 벌써 다음 ATTENTION을 이야기하고 있습니다</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a-1024x576.png"/></p>
+<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a-1024x576.png" alt=""/></p>
 <p>올해 9월 3일, 서로 다른 산업에서 온 사람들이 한 공간에 모여 각자의 AI 경험을 나눴습니다.</p>
 <p>하루를 마치고 돌아보니 올해의 주제였던 ‘AI Has Landed’가 조금 다르게 보였습니다.</p>
 <p>AI의 가능성을 설명하는 것보다, 실제 경험을 나누는 사람들이 많아진 하루였습니다. 그리고 ATTENTION도 그 변화와 함께 조금씩 달라지고 있습니다.</p>
@@ -825,6 +830,7 @@
 <p><strong>우리는 벌써 다음 ATTENTION을 준비하고 있습니다.</strong></p>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>대한민국 최초로 전장망에서 AI가 실제로 작동하게 만드는 일 — KJCCS 현장에서 FDE로 일한다는 것</title>
@@ -834,10 +840,10 @@
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Thumbnail.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Thumbnail.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 
 <p>안녕하세요. 저는 마키나락스의 FDE(Forward Deployed Engineer, 전방 배치 엔지니어) 김태민입니다.</p>
 <p>저는 최근 합동참모본부의 <strong>‘생성형 AI 적용 KJCCS 정보 검색 및 운영 기술 실증’</strong> 프로젝트에 참여했습니다. 이번 프로젝트는 <strong>KJCCS 전장망 AI</strong> 적용 사례로, 마키나락스는 AI OS Runway 기반으로 전장망에 AI 개발·운영 환경을 구축했고, 2026 을지 자유의 방패(UFS) 연습에서 실제 군 운용 환경을 대상으로 활용 가능성을 검증했습니다.</p>
@@ -891,6 +897,7 @@
 <p>향후 확장성을 기대하기 위해서는 방대한 비문에 대한 처리가 실시간으로 권한에 맞춰 이루어져야 합니다. 현재 기능실별 데이터 적재를 설계에 반영하여 적재하고 있어서 내년 훈련에서는 보다 광범위한 서비스를 제공할 수 있을 것으로 기대하고 있습니다.</p>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>비개발자의 AI 앱 배포 후기: 코딩 어시스턴트와 마키나락스 Runway</title>
@@ -900,10 +907,10 @@
 			<pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-AI-%EC%95%B1-%EB%B0%B0%ED%8F%AC%EA%B8%B0_-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EA%B3%BC-Runway.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-AI-%EC%95%B1-%EB%B0%B0%ED%8F%AC%EA%B8%B0_-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EA%B3%BC-Runway.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 <p><em><strong>Prologue</strong></em></p>
 <div>
 <div>
@@ -1042,6 +1049,7 @@
 </div>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>정상 데이터만으로 로봇 고장을 예측하는 AI 개발기</title>
@@ -1051,10 +1059,10 @@
 			<pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-%EC%A0%95%EC%83%81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EB%B4%87-%EA%B3%A0%EC%9E%A5%EC%9D%84-%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94-AI-%EA%B0%9C%EB%B0%9C%EA%B8%B0.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-%EC%A0%95%EC%83%81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EB%B4%87-%EA%B3%A0%EC%9E%A5%EC%9D%84-%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94-AI-%EA%B0%9C%EB%B0%9C%EA%B8%B0.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 <p>산업용 로봇은 이제 용접, 조립, 이송 같은 반복 공정에서 사람을 대신해 정밀하고 일관된 작업을 수행하는 핵심 생산 설비로 자리 잡았습니다. 하지만 로봇 의존도가 높아질수록 감속기 마모, 모터 성능 저하, 센서 이상 같은 작은 이상 징후가 생산 현장 전체에 미치는 영향은 더 커집니다. 문제는 이런 초기 고장 징후가 외관상 쉽게 드러나지 않고, 실제 고장으로 이어진 뒤에야 발견되는 경우가 많다는 점입니다.</p>
 <p>이번 테크블로그에서는 세계 4위 규모의 선박 생산 능력을 보유한 HD현대삼호의 조선소 용접 로봇을 대상으로 정상 데이터만으로 로봇의 고장 징후를 조기에 감지하는 이상 탐지 모델을 개발한 과정을 공유합니다. 기존 One-class Learning이 왜 한계를 가지는지 살펴보고 이를 극복하기 위해 로봇의 물리 법칙을 모델에 반영한 접근을 소개합니다.</p>
 <h2>One-class Learning의 한계</h2>
@@ -1087,6 +1095,7 @@
 <p>이러한 접근은 정상 데이터의 분포 변화에 따른 오탐지을 줄이는 동시에, 부품 마모나 성능 저하와 같은 초기 열화 징후를 더욱 민감하게 탐지할 가능성을 확인했습니다. 이는 단순한 이상 여부 판단을 넘어 설비의 상태 변화를 조기에 감지하고 유지보수 의사결정을 지원하는 기반 기술로 활용될 수 있으며, 향후 다양한 로봇 기종과 제조 공정에 적용 가능한 예지보전(Predictive Maintenance) 기술로 확장될 수 있을 것으로 기대됩니다.</p>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 엔지니어의 밤 – Build. Share. Connect.</title>
@@ -1096,16 +1105,16 @@
 			<pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/Thumnail-%EB%A7%88%EC%97%94%EB%B0%A4.png"/>
+<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/Thumnail-%EB%A7%88%EC%97%94%EB%B0%A4.png" alt=""/>
 
 </div>
-</div> <div>
+</div><div>
 <p>마키나락스에는 엔지니어가 많습니다. 그리고 다들 바쁩니다. 어떤 팀은 현장에 나가 있고, 어떤 팀은 새로운 모델을 학습시키고 있으며, 또 다른 팀은 Runway, DrawX와 같은 제품을 만들고 있습니다. 각자 프로젝트를 진행하고 고객 현장을 오가다 보면 같은 회사에서 일하면서도 서로 얼굴 볼 시간이 많지 않습니다.</p>
 <p>이런 아쉬움에서 시작한 행사가<strong> MakinaRocks Engineers’ Night, 줄여서 마엔밤(MEN)</strong>입니다. 올해 두 번째를 맞은 마엔밤의 슬로건은 <strong>‘Build. Share. Connect.’</strong> AI 기술을 만들고, 경험을 나누고, 엔지니어들을 연결한다는 의미를 담았습니다.</p>
 <p>오랜만에 한자리에 모인 마키나락스 엔지니어들이 서로의 기술과 고민을 공유하고, 함께 배우고, 웃으며 조금 더 가까워졌던 하루를 소개합니다.</p>
-
+<p><iframe src="https://www.youtube.com/embed/gjMGveLYX18"></iframe></p>
 <h2>마키나락스 엔지니어는 ‘자부심’입니다</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%A0%84%EC%B2%B4-1024x576.png"/></p>
+<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%A0%84%EC%B2%B4-1024x576.png" alt=""/></p>
 <blockquote><p><strong>“마키나락스 엔지니어는 회사의 자부심이자 제 자부심입니다.”</strong></p></blockquote>
 <p>마엔밤은 윤성호 대표의 한마디로 시작했습니다. 상장 이후 미디어, 투자자, 고객, 파트너 등 다양한 곳에서 마키나락스를 소개할 기회가 생길 때마다 자신 있게 말할 수 있는 이유는 마키나락스 엔지니어들이 현장에서 만들어내는 기술과 가치가 있기 때문이라고 강조했어요.</p>
 <p>그래서일까요. <strong>‘마키나락스 엔지니어는 어떻게 성장할 수 있을까’</strong> 항상 고민한다고 합니다. 깊은 고심 끝에 엔지니어의 성장을 세 가지로 정의하며 마키나락스가 지향하는 엔지니어의 성장 방향을 공유했습니다.</p>
@@ -1148,11 +1157,12 @@
 <p>“평소 AI들과만 대화하느라 동료들과의 대화 시간이 점점 줄고 있었는데, 마엔밤에서 오랜만에 옹기종기 모여 앉아 근황도 나누고 업무 인사이트도 얻을 수 있어 정말 좋은 시간이었습니다. 처음에는 모두 조금 어색했지만, 시간이 지날수록 서로 가까워지고 적극적으로 참여하는 모습을 보며 오랜만에 컴퓨터 바깥세상에서 즐거운 시간을 보냈습니다.” <strong>-플랫폼팀 김인호님</strong></p>
 <p>“마엔밤 준비 과정에 참여하면서 행사의 취지와 의미를 더 깊이 이해할 수 있었습니다. 행사를 성공적으로 운영하기 위해 많은 분들의 노력과 준비가 필요하다는 점도 새삼 느꼈고, 그 과정에 조금이나마 함께할 수 있어 뿌듯했습니다.” <strong>-FD 에이전트팀 황가희님</strong></p>
 <p>“평소에는 프로젝트에 치여 다른 엔지니어들과 이야기하고 교류할 시간이 부족했는데, 오늘은 그런 아쉬움을 많이 채울 수 있었습니다. 앞으로도 마엔밤처럼 서로 어떤 기술을 만들고 있는지 공유하고, 엔지니어 관점에서 시너지를 낼 수 있는 문화가 계속 이어졌으면 좋겠습니다.”<strong> – CAIO 임용섭님</strong></p>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84-1024x576.png"/></p>
+<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84-1024x576.png" alt=""/></p>
 <p>지금까지 마엔밤 현장에서 함께했습니다. 현장에서 치열하게 기술을 만들고, 동료와 경험을 나누며, 더 나은 엔지니어로 성장하기 위해 서로를 연결되는 시간이었습니다. 마키나락스의 문화가 더 궁금하다면, 지금 마키나락스 채용 페이지에서 더 많은 이야기를 만나보세요.</p>
-<p><a href="https://makinarocks.career.greetinghr.com/ko/home"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/06/MakinaRocks-Recruit-banner-no-date-1024x160.png"/></a></p>
+<p><a href="https://makinarocks.career.greetinghr.com/ko/home"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/06/MakinaRocks-Recruit-banner-no-date-1024x160.png" alt=""/></a></p>
 
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
