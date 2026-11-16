@@ -4,7 +4,7 @@
 		<title>한국국방연구원 발간물</title>
 		<link>https://www.kida.re.kr/</link>
 		<description>한국국방연구원 발간물</description>
-		<lastBuildDate>Mon, 16 Nov 2026 18:33:39 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 07:02:19 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>택티컬 버블, 우리 군은 어떻게 구현할 것인가?</title>
@@ -12,21 +12,7 @@
 			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2182&amp;depth=3&amp;lang=kr</guid>
 			<author>고현호</author>
 			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<br/><br/><h4>초록</h4>
-
-<br/><p>
-현대 전장은 유-무인 복합체계, 대규모 드론 운용, 실시간 ISR 데이터 공유 등 초연결 중심 작전 환경으로 빠르게 전환되고 있다. 그러나 우리 군의 현재 통신체계는 현대 전장에서 요구하는 대용량 데이터 전송과 초저지연 지휘통제를 지원하기 어려운 한계가 있다. 이를 극복하기 위해 특정 지역에서 초연결을 형성하는 ’택티컬 버블(Tactical Bubble)’ 개념이 차세대 전술 통신체계의 중요한 방향으로 제시되고 있다. 아직은 택티컬 버블을 형성하고 연결하기 위한 우리 군 차원의 무선접속기술(RAT) 아키텍처 설계 및 구체적인 구현 방안이 상대적으로 초기 단계에 머물러 있다.
-</p>
-
-<p>
-본고에서는 택티컬 버블을 3GPP 표준 기반으로 전술 환경에 최적화된 RAT 구조를 구성하는 개념을 제시한다. 이를 구현하기 위한 다섯 가지 핵심 과제로 5G 중심 택티컬 버블 구현, TN-NTN 다계층 통합 구조 확보, 지상망 회복탄력성 확보, 제로트러스트 기반 보안 강화, 그리고 작전 환경에 유연한 대응을 위한 지능화 및 구조적 유연성 확보를 제안한다. 다섯 가지 핵심 과제는 우리 군이 택티컬 버블을 구현하고 운영하기 위한 시작점으로서, 향후 미래 전장을 지탱하는 초연결 통신체계의 핵심 인프라 역할을 수행할 것이다.
-</p>
-
-<br/><br/>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://www.kida.re.kr/cmm/viewBoardImageFile.do?idx=48701">편집(제2116호) 고현호.pdf</a></li>
-</ul></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
+			<description><![CDATA[<ul><li>저자: 고현호</li><li>발행일자: 2026-11-16</li></ul>]]></description>
 		</item>
 		<item>
 			<title>시리아 화학무기 폐기의 최근 진전과 한반도 안보에의 함의 (제26-58호)</title>
