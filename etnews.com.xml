@@ -4,94 +4,97 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 16 Nov 2026 16:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 17:31:16 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>[AIx소프트웨이브 2026] 셀키에이아이, 소프트웨이브 2026서 AI 오믹스 마켓플레이스 &apos;오믹스팜&apos; 공개</title>
-			<link>https://www.etnews.com/20261116000422</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000422</guid>
+			<title>[사설] AI 조력 응시, 아예 불능케 만들라</title>
+			<link>https://www.etnews.com/20261116000370</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000370</guid>
+			<author>논설위원실</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[16일 정부와 국회가 인공지능(AI) 조력 응시에 대해 강력한 단속을 선언했지만, 이미 시스템이 뚫린 뒤였음을 자인하는 격밖에 안 됐다. 당장 19일로 다가온 대학수학능력시험에서까지 만약 이 같은 일이 재발한다면 사태는 돌이킬 수 없는 민심 이반과 사회적 혼란으로 이어질 것이다. 정부 차원의 범정부 긴급대응팀 가동이나, 입법부 나름의 응시 제한 확대나 특별법 제정까지 동원됐지만 사실상 사후 처벌 강화에 기반한 사전 경고, 혹은 자진해서 포기하도...]]></description>
+		</item>
+		<item>
+			<title>김기혁 SWM 대표 “자율주행 경쟁력은 주행거리보다 데이터의 질에 달려”</title>
+			<link>https://www.etnews.com/20261116000153</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000153</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 17:00:00 +0900</pubDate>
+			<description><![CDATA[“자율주행 기술의 경쟁력을 단순히 누적 주행거리만으로 평가하기는 어렵습니다. 상대적으로 정형화된 도로에서 반복적으로 주행하는 것과 다양한 돌발 상황이 발생하는 복잡한 도심에서 주행하는 것은 기술적으로 요구되는 과제가 다릅니다.” 김기혁 에스더블유엠(SWM) 대표는 글로벌 자율주행 시장에서 경쟁력을 결정하는 핵심 요소로 실도로 데이터의 질과 이를 실제 차량의 주행 성능으로 연결하는 소프트웨어 기술을 꼽았다. 에스더블유엠은 서울 강남 일대에서 운행...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 크레아타테크놀로지스, 소프트웨이브 2026서 금융기관용 디지털자산 운영 플랫폼 공개</title>
+			<link>https://www.etnews.com/20261116000481</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000481</guid>
 			<author>정동수</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 16:01:45 +0900</pubDate>
-			<description><![CDATA[멀티오믹스 AI 전문기업 셀키에이아이가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 AI 기반 오믹스 마켓플레이스 '오믹스팜(OmicsPharm)'과 바이오 특화 AI 에이전트 'BioEOS'를 선보인다고 밝혔다. 셀키에이아이는 최근 출시 한 달 만에 200여 곳의 기업 회원을 확보한 오믹스팜을 통해 바이오 연구 및 신약 개발 시장의 디지털 전환을 본격화한다는...]]></description>
+			<pubDate>Mon, 16 Nov 2026 16:58:38 +0900</pubDate>
+			<description><![CDATA[디지털자산 운영 소프트웨어 전문기업 크레아타테크놀로지스(Creata Technologies)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 금융기관을 위한 디지털자산 운영 플랫폼을 선보인다고 밝혔다. 크레아타테크놀로지스는 은행, 증권사 등 금융기관이 디지털자산을 보다 안전하고 효율적으로 관리할 수 있도록 지원하는 소프트웨어를 개발하고 있다. 디지털자산 거래 과...]]></description>
 		</item>
 		<item>
-			<title>[기획] 병원 찾기·다국어 상담…&apos;AX 원스톱&apos;으로 공공서비스 고도화</title>
-			<link>https://www.etnews.com/20261116000410</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000410</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[건강보험심사평가원(이하 심평원)과 성평등가족부·한국건강가정진흥원이 국민의 의료정보 검색과 다문화가족 상담을 돕는 인공지능(AI) 서비스 기획을 구체화했다. 범정부 AX 컨설팅을 통해 현장의 불편과 업무상 어려움을 짚고, AI 적용 범위와 서비스 추진 방향을 마련했다. 두 사례 모두 현장의 불편을 AI로 해결한다는 구상을 구체적인 서비스 기능과 업무지원 방안으로 발전시켰다는 공통점이 있다. 먼저 성평등가족부·한국건강가정진흥원은 '다누리콜센터 AX...]]></description>
-		</item>
-		<item>
-			<title>[기획] NIPA, 정부 AX 기획부터 실증까지 잇는다…10개 과제 밑그림</title>
-			<link>https://www.etnews.com/20261116000407</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000407</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[정보통신산업진흥원(NIPA)이 범정부 인공지능 전환(AX) 원스톱 지원을 통해 환경·복지·안전 등 10개 과제의 서비스 목표와 구현방안을 구체화했다. 부처의 업무 현안에 민간 전문성을 연결해 데이터 확보부터 인공지능(AI) 모델 선정, 인프라 구성까지 실행 경로를 제시했다. 기획 단계의 어려움을 풀고 후속 실증·확산으로 이어가는 지원체계를 통해 공공 AX의 실행력을 높이겠다는 구상이다. ◇부처 AX 기획·수행·확산 지원…NIPA 원스톱 창구 범...]]></description>
-		</item>
-		<item>
-			<title>[ET단상] AI 에이전트 시대, 기업의 속도를 결정하는 것은 &apos;엔진&apos;이 아닌 &apos;브레이크&apos;</title>
-			<link>https://www.etnews.com/20261116000200</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000200</guid>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[국내 기업의 관심이 질문에 답하는 인공지능(AI)을 넘어 업무를 직접 수행하는 AI 에이전트로 옮겨가고 있다. 올해 1월 AI기본법이 시행되면서, AI의 투명성과 안전성을 확보하는 일 역시 경영진의 핵심 과제로 떠올랐다. 이제 경영진에게 중요한 질문은 'AI를 어디에 도입할 것인가'에 그치지 않는다. AI를 어떻게 안전하게 운영하고 비용을 관리할 것인지도 함께 고민해야 한다. 국내 기업의 AI 도입 열기가 뜨거운 가운데, 예상치 못한 비용 관리...]]></description>
-		</item>
-		<item>
-			<title>[송민택 교수의 D-엣지] 스테이블코인, 앞만 보지 말고 뒤를 보라</title>
-			<link>https://www.etnews.com/20261116000164</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000164</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 16 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[원화 스테이블코인 도입을 위한 입법 논의가 속도를 내고 있다. 정부는 이달 중 디지털자산기본법 정부안을 국회에 제출할 예정이라고 한다. 발행 주체와 지분 요건, 준비자산 관리와 이용자 보호 등 쟁점도 구체화되고 있다. 그렇다면 스테이블코인의 도입으로 금융 인프라는 어떻게 달라질까. 현재 금융서비스는 충분히 편리하다. 스마트폰으로 송금하고 카드로 결제하면 몇 초 만에 거래가 끝난다. 핀테크의 등장과 경쟁 확대로 수수료도 상당 부분 낮아졌다. 그러...]]></description>
-		</item>
-		<item>
-			<title>[이상직 변호사의 생성과 소멸] 〈32〉AI시대 보안(상):사이버 공격, 각개전투로는 막을 수 없다</title>
-			<link>https://www.etnews.com/20261116000044</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000044</guid>
-			<category>오피니언</category>
-			<pubDate>Mon, 16 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[최근 해킹 등 사이버 공격의 가장 큰 변화는 기술이 아니라 경제학에 있다. 인공지능(AI)이 공격에 드는 비용을 대폭 낮추면서 공격과 방어 사이의 균형이 무너졌다. 특정 기업에 국한된 문제가 아니라 모든 기업이 '함께' 짊어진 과제가 됐다. 위기의 정체부터 짚어 보자. AI 기술이 대중화되기 이전에도 사이버보안 침해사고는 매년 가파르게 증가해 왔고, 통신사·금융사·가상자산거래소 등 핵심 기반 시설도 예외가 아니었다. 한국인터넷진흥원 통계에 따르...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 세포아소프트, 소프트웨이브 2026서 AI 기반 지능형 구매 솔루션 공개</title>
-			<link>https://www.etnews.com/20261116000419</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000419</guid>
+			<title>[AIx소프트웨이브 2026] 지에스엔씨, 소프트웨이브 2026서 AI 기반 통합 이메일 보안 솔루션 &apos;아이즈레인&apos; 공개</title>
+			<link>https://www.etnews.com/20261116000468</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000468</guid>
 			<author>정동수</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 15:57:02 +0900</pubDate>
-			<description><![CDATA[기업용 지출관리 및 구매 솔루션 전문기업 세포아소프트가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 AI 기반 지능형 구매 솔루션을 선보인다고 밝혔다. 세포아소프트는 'AI가 바꾸는 구매의 미래'를 주제로 구매요청부터 견적·입찰, 역경매, 전자계약, 발주·납품, 정산, 협력사 관리까지 구매 전 과정(Source-to-Pay)을 통합 지원하는 플랫폼을 공개할...]]></description>
+			<pubDate>Mon, 16 Nov 2026 16:47:22 +0900</pubDate>
+			<description><![CDATA[정보보안 전문기업 지에스엔씨(GSNC)가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 AI 기반 통합 이메일 보안 솔루션 '아이즈레인(ISREIGN)'을 선보인다고 밝혔다. 최근 이메일을 활용한 사이버 공격이 피싱, 발신자 사칭, 악성 첨부파일, 악성 URL 유포 등 다양한 형태로 진화하면서 기업의 이메일 보안 중요성이 더욱 커지고 있다. 특히 정상 업무 메...]]></description>
 		</item>
 		<item>
-			<title>[AIx소프트웨이브 2026] 세인엔에스, 소프트웨이브 2026서 구독형 네트워크 관리 서비스 &apos;NSCARE&apos; 공개</title>
-			<link>https://www.etnews.com/20261116000415</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000415</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 15:53:55 +0900</pubDate>
-			<description><![CDATA[IT 인프라 구축 및 전산 유지보수 전문기업 세인엔에스가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 구독형 무선 네트워크 관리 서비스 'NSCARE-AP구독'과 기업 맞춤형 전산 유지보수 서비스를 선보인다고 밝혔다. 세인엔에스는 네트워크, 서버, 스토리지 등 핵심 IT 인프라의 구축부터 운영, 유지보수까지 통합 서비스를 제공하는 전문기업으로, 이번 전시를 통...]]></description>
-		</item>
-		<item>
-			<title>시스원, KDT &apos;AI 캠퍼스&apos; 선정… AI 인재양성 본격 나선다</title>
-			<link>https://www.etnews.com/20261116000404</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000404</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 15:49:42 +0900</pubDate>
-			<description><![CDATA[정보통신기술(ICT) 종합전문기업 시스원은 고용노동부의 '2026년 K-디지털 트레이닝(K-Digital Training) AI 캠퍼스' 운영기관으로 최종 선정, 인공지능(AI) 전문인재 양성에 본격적으로 나선다고 16일 밝혔다. 그동안 정보기술(IT) 인프라 구축·운영과 AI 기술 개발을 통해 축적해 온 역량을 교육 분야로 확장하고, 산업 현장에서 필요로 하는 AI 전문인력을 직접 양성한다는 계획이다. 1982년 설립된 시스원은 공공·금융 분...]]></description>
-		</item>
-		<item>
-			<title>이스트시큐리티, 기업·기관 대상 연말 보안 솔루션 프로모션</title>
-			<link>https://www.etnews.com/20261116000402</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000402</guid>
+			<title>KISIA, 개인정보보호 인력양성 성과평가 &apos;최우수&apos;</title>
+			<link>https://www.etnews.com/20261116000465</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000465</guid>
 			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 15:48:55 +0900</pubDate>
-			<description><![CDATA[이스트시큐리티는 연말까지 기업·기관 고객을 대상으로 '2026 연말 특별 프로모션'을 진행한다고 16일 밝혔다. 프로모션 대상은 △알약 △문서중앙화 △알툴즈 △보안팩 등이다. 신규 고객뿐 아니라 기존에 구매하지 않았던 다른 제품군을 추가 도입하는 고객도 참여할 수 있다. 구매 금액에 따라 사은품을 제공하며, 1억원 이상 구매 고객에게는 LG 스탠바이미 2 MAX 또는 LG 스타일러를 증정한다. 5000만원 이상 구매 고객에게는 애플워치 또는 접...]]></description>
+			<pubDate>Mon, 16 Nov 2026 16:44:08 +0900</pubDate>
+			<description><![CDATA[한국정보보호산업협회(KISIA)는 '2025년도 국가인적자원개발컨소시엄 사업 성과평가'에서 최우수기관(S등급)에 선정됐다고 16일 밝혔다. 국가인적자원개발컨소시엄은 고용노동부와 한국산업인력공단이 주최하는 직업능력개발훈련 사업이다. 공동훈련센터로 지정된 기관이 기업과 협약을 맺고 재직자를 대상으로 맞춤형 교육을 제공한다. KISIA는 2022년 개인정보보호 인력양성 공동훈련센터로 참여한 이후 2023년과 2024년 연속 A등급을 받았다. 2025...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 지란지교소프트, 소프트웨이브 2026서 기업용 AI 에이전트 &apos;오피스에이전트&apos; 공개</title>
+			<link>https://www.etnews.com/20261116000460</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000460</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 16:40:56 +0900</pubDate>
+			<description><![CDATA[지란지교소프트가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 기업용 AI 에이전트 솔루션 '오피스에이전트(OfficeAgent)'를 선보인다고 밝혔다. 지란지교소프트는 이번 전시를 통해 데이터 보안과 높은 도입 비용으로 생성형 AI 활용에 어려움을 겪고 있는 중소기업을 대상으로 실무 중심의 AI 업무 환경 구축 방안을 제시할 계획이다. 오피스에이전트는 노코드...]]></description>
+		</item>
+		<item>
+			<title>SK쉴더스, 북한산 자연숲 복원 활동…나무 800그루 심어</title>
+			<link>https://www.etnews.com/20261116000451</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000451</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 16:34:34 +0900</pubDate>
+			<description><![CDATA[SK쉴더스는 북한산국립공원사무소와 함께 북한산국립공원 내 자연숲 복원 활동을 진행했다고 16일 밝혔다. 이번 활동은 생물다양성을 보전하고 건강한 산림 생태계를 회복하기 위한 환경·사회·지배구조(ESG) 경영의 일환으로 마련됐다. SK쉴더스 구성원 50여명은 북한산국립공원 경계부 약 900㎡ 부지에 팥배나무, 국수나무, 생강나무 등 자생 수종 800주를 심었다. 생태계 교란식물도 제거해 기존 식생이 안정적으로 자리 잡을 수 있는 환경을 조성했다....]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 제타큐브, 소프트웨이브 2026서 AI 워크스테이션 &apos;라피스 스튜디오&apos; 공개</title>
+			<link>https://www.etnews.com/20261116000448</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000448</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 16:32:32 +0900</pubDate>
+			<description><![CDATA[AI 인프라 솔루션 전문기업 제타큐브(ZETACUBE)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 온프레미스 기반 AI 워크스테이션 '라피스 스튜디오(LAPIS Studio)'를 출시한다고 밝혔다. 제타큐브는 이번 전시에서 AI 콘텐츠 생성부터 멀티모달 대규모언어모델(LLM), 검색증강생성(RAG), AI 에이전트 운영까지 지원하는 통합 AI 플랫폼 '라피...]]></description>
+		</item>
+		<item>
+			<title>국가평생교육진흥원, 중앙도서관·인천시교육청과 독서·학습 활성화 협력</title>
+			<link>https://www.etnews.com/20261116000449</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000449</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 16:32:25 +0900</pubDate>
+			<description><![CDATA[국가평생교육진흥원이 국립중앙도서관·인천시교육청과 독서문화 진흥과 시민 평생학습 활성화를 위한 업무협약(MOU)을 16일 체결했다. 세 기관은 이번 협약으로 각 기관이 보유한 독서·교육·학습·지식정보 자원과 전문 역량을 연계, 국민이 생애 전반에 걸쳐 평생학습에 참여하고 일상에서 독서를 즐길 수 있는 환경을 조성하는 데 협력하기로 했다. 생애 전반의 평생학습 참여 촉진 및 일상 속 독서문화 활성화, 각 기관 독서·교육·학습·지식정보 자원과 전문...]]></description>
+		</item>
+		<item>
+			<title>탈탈 털린 은행권, 계정·접근관리 대수술…권한통제 대규모 투자</title>
+			<link>https://www.etnews.com/20261116000343</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000343</guid>
+			<author>류태웅</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 16:30:00 +0900</pubDate>
+			<description><![CDATA[연쇄 해킹으로 고객정보가 빠져나간 국내 은행이 계정·접근관리 체계를 전면 손질한다. 해커가 예금·대출을 처리하는 핵심 전산망 대신 대출모집인·직원·외주 인력이 쓰는 업무시스템의 허술한 '출입 권한'을 노렸기 때문이다. 각 은행은 권한 통제체계 개편을 서두르는 한편 내년 정보보호 예산을 최대 2.8배로 늘렸다. 16일 금융권에 따르면 하나은행은 계정통제감사시스템 도입에 착수했다. 시스템 접속 계정마다 권한을 제한하고 사용 이력을 감사하는 체계다....]]></description>
 		</item>
 	</channel>
 </rss>
