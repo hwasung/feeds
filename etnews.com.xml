@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 16 Nov 2026 13:33:06 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 14:30:49 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>포티넷코리아, 신임 김종덕 지사장 선임</title>
+			<link>https://www.etnews.com/20261116000282</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000282</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 13:58:44 +0900</pubDate>
+			<description><![CDATA[글로벌 네트워크 보안 융합 솔루션 기업 포티넷코리아는 김종덕 신임 지사장을 선임했다고 16일 밝혔다. 김종덕 지사장은 AI와 데이터 사이언스, 퍼블릭 클라우드, 가상화, 네트워크 보안, 컴퓨팅 등 IT 분야에 30년 이상 몸담아왔다. 연세대학교 경제학과를 졸업하고 한국IBM을 거쳐 스트라투스테크놀로지스 코리아, 포티넷코리아, 블루코트 코리아, 한국EMC RSA정보보안사업부, 뉴타닉스 코리아, 하시코프 코리아, 데이터이쿠 코리아 등 다국적 IT...]]></description>
+		</item>
 		<item>
 			<title>행정업무용 이메일 해킹…행안부, 관계기관 합동점검 착수</title>
 			<link>https://www.etnews.com/20261116000201</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 16 Nov 2026 10:05:13 +0900</pubDate>
 			<description><![CDATA[법무법인 민후가 지난 10월 1일 '법무법인 원'과 통합, 출범했다. 그동안 정보기술(IT) 전문 로펌 민후를 이끌어 왔던 김경환 변호사는 원에서 대표변호사를 맡는 동시에 'TIF 팀'을 이끌게 됐다. TIF팀은 테크·IP·핀테크 분야 전문 변호사들로 구성됐다. 김경환 대표변호사를 비롯 오정익 변호사, 양진영 변호사, 최주선 변호사, 황은정 변호사가 포진했다. 김경환 대표변호사는 “국내외 산업 구조와 시장 상황이 급변하고 있다. 정보기술(IT)...]]></description>
-		</item>
-		<item>
-			<title>쿠도커뮤니케이션, 금융권 서버 보안 강화 위한 턱스케어 솔루션 제시</title>
-			<link>https://www.etnews.com/20261116000105</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000105</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 09:54:41 +0900</pubDate>
-			<description><![CDATA[금융당국이 금융권 전반에 대한 보안 점검을 강화하는 가운데 쿠도커뮤니케이션이 서버 운영 중단 없이 취약점을 보완할 수 있는 보안 솔루션 공급에 나섰다. 쿠도커뮤니케이션(대표 김용식)은 국내 독점 총판을 맡고 있는 글로벌 오픈소스 보안기업 턱스케어(TuxCare)의 솔루션을 활용해 금융권의 서버 취약점 관리와 보안 유지보수를 지원한다고 16일 밝혔다. 금융위원회가 지난 5일 발표한 자료에 따르면 9월 30일부터 11월 3일까지 금융권 37개사에서...]]></description>
 		</item>
 	</channel>
 </rss>
