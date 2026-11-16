@@ -4,8 +4,23 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Mon, 16 Nov 2026 13:33:00 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 15:30:04 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[순위확정] 2027년 신문기사 스크랩 솔루션 용역</title>
+			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=42453&amp;csrt_numb=42453&amp;dmst_itnb=***&amp;bidx_date=20261109&amp;benf_pldt=20261109&amp;anmt_numb=MCD0076&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=2</link>
+			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=42453&amp;csrt_numb=42453&amp;dmst_itnb=***&amp;bidx_date=20261109&amp;benf_pldt=20261109&amp;anmt_numb=MCD0076&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=2</guid>
+			<author>국방부(운영지원과)</author>
+			<category>순위확정</category>
+			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[  • 공고번호: 긴급공고 MCD0076<br/>
+  • 발주기관: 국방부(운영지원과)<br/>
+  • 개찰/협상일시: 2026-11-09 17:00
+  • 입찰결과
+    ◦ (주)다하미커뮤니케이션즈: 1순위<br/>
+    ◦ 주식회사 비큐에이아이 (BECU AI Inc.): 2순위]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>[순위확정] 첨단전력 전주기 획득절차 제도화 방안</title>
 			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=41956&amp;csrt_numb=41956&amp;dmst_itnb=***&amp;bidx_date=20261103&amp;benf_pldt=20261103&amp;anmt_numb=MCD0075&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=2</link>
