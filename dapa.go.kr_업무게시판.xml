@@ -4,7 +4,7 @@
 		<title>방위사업청 업무게시판</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3042&amp;bbsSeq=462</link>
 		<description>방위사업청 업무게시판</description>
-		<lastBuildDate>Sat, 07 Nov 2026 17:16:23 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 18:31:17 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.34버전 소프트웨어 배포</title>
@@ -40,7 +40,7 @@
 			<author>박정은</author>
 			<category>통합체계지원</category>
 			<pubDate>Fri, 07 Aug 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><br/></div><div><br/></div><div><div>체계지원분석시스템 PSA개발체계 v.1.0.32버전 소프트웨어 배포합니다.</div><div><br/></div><div>*&nbsp;PSA개발체계 v.1.0.31버전은 라이선스 체크 관련 내부 문제로 삭제되었으니&nbsp;v.1.0.32버전으로 사용바랍니다.</div><br/></div>]]></description>
+			<description><![CDATA[<br/><br/><div><div>체계지원분석시스템 PSA개발체계 v.1.0.32버전 소프트웨어 배포합니다.</div><br/><div>* PSA개발체계 v.1.0.31버전은 라이선스 체크 관련 내부 문제로 삭제되었으니 v.1.0.32버전으로 사용바랍니다.</div><br/></div>]]></description>
 		</item>
 		<item>
 			<title>전자식기술교범 소프트웨어(지상, 해상) 패치(&apos;26.6.) 배포</title>
@@ -49,7 +49,7 @@
 			<author>박정은</author>
 			<category>통합체계지원</category>
 			<pubDate>Thu, 09 Jul 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><br/></div><div><div>전자식기술교범 소프트웨어(지상, 해상) 패치('26.6.) 입니다.</div><br/></div>]]></description>
+			<description><![CDATA[<br/><div><div>전자식기술교범 소프트웨어(지상, 해상) 패치('26.6.) 입니다.</div><br/></div>]]></description>
 		</item>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.30버전 소프트웨어 배포</title>
@@ -58,7 +58,7 @@
 			<author>박정은</author>
 			<category>통합체계지원</category>
 			<pubDate>Fri, 08 May 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><br/></div><div><div>체계지원분석시스템 PSA개발체계 v.1.0.30버전 소프트웨어 배포합니다.</div><br/></div>]]></description>
+			<description><![CDATA[<br/><div><div>체계지원분석시스템 PSA개발체계 v.1.0.30버전 소프트웨어 배포합니다.</div><br/></div>]]></description>
 		</item>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.29버전 소프트웨어 배포</title>
@@ -67,7 +67,7 @@
 			<author>박귀태</author>
 			<category>통합체계지원</category>
 			<pubDate>Fri, 03 Apr 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p><a href="https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3042&amp;bbsSeq=462&amp;ctgrySeq=211#none"><br/></a></p><p>체계지원분석시스템 PSA개발체계 v.1.0.29버전 소프트웨어 배포합니다.</p>]]></description>
+			<description><![CDATA[<p>체계지원분석시스템 PSA개발체계 v.1.0.29버전 소프트웨어 배포합니다.</p>]]></description>
 		</item>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.28버전 소프트웨어 배포</title>
