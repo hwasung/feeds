@@ -4,7 +4,7 @@
 		<title>방위사업청 공지사항</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&amp;bbsSeq=443</link>
 		<description>방위사업청 공지사항</description>
-		<lastBuildDate>Mon, 16 Nov 2026 10:30:22 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 11:30:30 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>2026 국방우주표준화 성과 공유회 안내</title>
@@ -13,12 +13,11 @@
 			<author>관리자</author>
 			<category>일반공지</category>
 			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p style="font-family:맑은 고딕; font-size:11pt;"><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=51BwN3d13y225LcWk00A" style="width: 946px; height: 1419px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none;" width="1000" height="1500"><br></p>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
+			<description><![CDATA[<p><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=51BwN3d13y225LcWk00A"/><br/></p>
+<hr/><div><strong>첨부파일</strong><ul>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59470&amp;fileNum=1">2026 국방우주표준화 성과공유회 개최 안내.pdf (0.49 MB)</a></li>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59470&amp;fileNum=2">2026 국방우주표준화 성과공유회 포스터.png (4.91 MB)</a></li>
 </ul></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>2026 국방첨단인증 시범사업 성과 공유회 안내</title>
@@ -27,12 +26,11 @@
 			<author>관리자</author>
 			<category>일반공지</category>
 			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p style="font-family:맑은 고딕; font-size:11pt;"><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=23kduvs3wT7QSmWJE9h2" style=" width:808px; height:1079px; vertical-align:auto; border:none;" width="808" height="1079"><br></p>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
+			<description><![CDATA[<p><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=23kduvs3wT7QSmWJE9h2"/><br/></p>
+<hr/><div><strong>첨부파일</strong><ul>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59471&amp;fileNum=1">2026 국방첨단인증 시범사업 성과공유회 안내 (배포용).hwpx (0.35 MB)</a></li>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59471&amp;fileNum=2">2026 국방첨단인증 시범사업 성과공유회 안내.jpg (0.2 MB)</a></li>
 </ul></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>(합격자 발표) 제7차 임기제공무원(디지털홍보, 일반임기제 6급) 서류전형 합격자, 자료 제출 및 면접시험 일정 공고</title>
