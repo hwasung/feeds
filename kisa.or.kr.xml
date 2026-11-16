@@ -4,7 +4,7 @@
 		<title>KISA 한국인터넷진흥원</title>
 		<link>https://www.kisa.or.kr/</link>
 		<description>KISA 한국인터넷진흥원</description>
-		<lastBuildDate>Mon, 16 Nov 2026 18:33:52 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 21:58:50 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>주요 국제 프레임워크의 AI 보안 위협 분류·비교 및 유형별 대응방안 분석</title>
@@ -15,7 +15,10 @@
 			<description><![CDATA[<p>안녕하세요.<br/>
 <br/>
 '글로벌 AI 보안 동향 조사·분석 보고서(주요 국제 프레임워크의 AI 보안 위협 분류·비교 및 유형별 대응방안 분석)'를 공지합니다.</p>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul><li><a href="https://www.kisa.or.kr/post/fileDownload?menuSeq=20302&amp;postSeq=604&amp;attachSeq=1&amp;lang_type=KO">주요 국제 프레임워크의 AI 보안 위협 분류·비교 및 유형별 대응방안 분석.pdf (927 MB)</a></li></ul></div>]]></description>
+<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
+<li><a href="https://www.kisa.or.kr/post/fileDownload?menuSeq=20302&amp;postSeq=604&amp;attachSeq=1&amp;lang_type=KO">주요 국제 프레임워크의 AI 보안 위협 분류·비교 및 유형별 대응방안 분석.pdf (0.91 MB)</a></li>
+</ul></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>에이전틱 AI 제로트러스트 안내서</title>
