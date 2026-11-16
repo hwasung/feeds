@@ -4,8 +4,24 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Fri, 13 Nov 2026 13:30:11 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 18:36:19 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>TV 앱 실행 시간 측정 자동화 개발기</title>
+			<link>https://techblog.samsung.com/blog/article/108</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/108</guid>
+			<author>박일규</author>
+			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/108" alt="">]]></description>
+		</item>
+		<item>
+			<title>AI의 답에 동료 AI가 질문을 던졌다― weave-agents로 엮은 멀티 벤더 AI 협업</title>
+			<link>https://techblog.samsung.com/blog/article/107</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/107</guid>
+			<author>안태정</author>
+			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/107" alt="">]]></description>
+		</item>
 		<item>
 			<title>자동화 테스트부터 Perfetto 분석, 코드 개선안 도출까지 한 번에: 갤럭시 워치 성능 분석 AI 에이전트 개발기</title>
 			<link>https://techblog.samsung.com/blog/article/106</link>
@@ -47,7 +63,7 @@
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/101" alt="">]]></description>
 		</item>
 		<item>
-			<title>CLI 에이전트를 API 뒤에 세우기  — Claude Code와 Codex를 앱에서 안전하게 활용하기 위한 세 가지 장치</title>
+			<title>CLI 에이전트를 API 뒤에 세우기 — Claude Code와 Codex를 앱에서 안전하게 활용하기 위한 세 가지 장치</title>
 			<link>https://techblog.samsung.com/blog/article/100</link>
 			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/100</guid>
 			<author>김완희</author>
@@ -69,22 +85,6 @@
 			<author>김완희</author>
 			<pubDate>Wed, 23 Sep 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/98" alt="">]]></description>
-		</item>
-		<item>
-			<title>몇 달 전에 풀었던 문제를 오늘 또 풀고 있었습니다 — AI와의 대화를 팀의 지식으로 자동 축적한 이야기</title>
-			<link>https://techblog.samsung.com/blog/article/97</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/97</guid>
-			<author>박성제</author>
-			<pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/97" alt="">]]></description>
-		</item>
-		<item>
-			<title>구독만 하던 Codex와 Claude, LLM 서버로 바꿔 쓰기</title>
-			<link>https://techblog.samsung.com/blog/article/96</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/96</guid>
-			<author>김완희</author>
-			<pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/96" alt="">]]></description>
 		</item>
 	</channel>
 </rss>
