@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 17 Nov 2026 06:30:33 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 08:30:43 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>美 캘리포니아, 안전장치 없이 AI 개발 이유로 오픈AI 상대 소송</title>
+			<link>https://www.etnews.com/20261117000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000005</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 17 Nov 2026 07:57:16 +0900</pubDate>
+			<description><![CDATA[미국 캘리포니아주가 안전장치 없이 위험한 인공지능(AI) 모델을 개발하고 대중을 오도했다는 이유로 오픈AI를 상대로 소송을 제기했다. 지난 7월 발생한 오픈AI의 AI 에이전트가 무단으로 허깅페이스 내부 시스템에 침해한 사건이 법원 판결을 가를 핵심 쟁점으로 거론된다. 16일(현지시간) 월스트리트저널(WSJ)에 따르면 캘리포니아주 법무장관실은 이날 샌프란시스코 고등법원에 오픈AI를 상대로 소송을 제기했다. 오픈AI가 자사 AI 모델의 위험성을...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 광산 다음의 장벽…중국 희토류의 분리·정제 시스템</title>
 			<link>https://www.etnews.com/20261105000403</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 16 Nov 2026 17:15:08 +0900</pubDate>
 			<description><![CDATA[보안·AI 솔루션 전문기업 페스트페이스(FASTPACE)가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 기업 이메일·메신저 아카이빙 및 AI 검색·분석 솔루션 '메일인사이트(MailInsight)'를 선보인다고 밝혔다. 페스트페이스는 이번 전시를 통해 기업 내 이메일과 협업 도구에 축적된 업무 데이터를 조직의 지식 자산으로 전환하고, AI를 활용해 업무 연속...]]></description>
-		</item>
-		<item>
-			<title>EBS, 수능 등급컷·합격 예측부터 논술 대비까지…풀서비스 제공</title>
-			<link>https://www.etnews.com/20261116000496</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000496</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 17:10:52 +0900</pubDate>
-			<description><![CDATA[EBS가 성적 진단부터 정시 준비까지 지원하는 '2027학년도 수능 풀서비스 이벤트'를 진행한다. 2027학년도 대학수학능력시험을 치르는 수험생을 응원하고 실질적인 입시 전략 수립을 돕기 위한 차원이다. 이벤트는 고도화된 분석 시스템 제공을 중심으로 16일부터 내년 1월 7일까지 이어진다. 수험생들은 EBSi 풀서비스로 빅데이터 기반 적중률 높은 실시간 등급컷 확인, 정시 가·나·다군별 모의지원을 통한 합격 가능성 예측 서비스를 모두 무료 이용...]]></description>
 		</item>
 	</channel>
 </rss>
