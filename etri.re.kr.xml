@@ -4,7 +4,15 @@
 		<title>ETRI 단행본/발표자료</title>
 		<link>https://ksp.etri.re.kr/ksp/plan-report/search</link>
 		<description>ETRI 단행본/발표자료</description>
-		<lastBuildDate>Sat, 17 Oct 2026 07:00:26 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 18:32:15 +0900</lastBuildDate>
+		<ttl>1440</ttl>
+		<item>
+			<title>AI 글래스 확산에 따른 사회적 이슈 및 대응 동향 분석</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1574&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1574&amp;dataDivCd=01</guid>
+			<pubDate>Mon, 16 Nov 2026 18:32:14 +0900</pubDate>
+			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1574.pdf]]></description>
+		</item>
 		<item>
 			<title>Physical AI 시대, 디스플레이 역할 재조명</title>
 			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1572&amp;dataDivCd=01</link>
@@ -67,90 +75,6 @@
 			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1558&amp;dataDivCd=01</guid>
 			<pubDate>Sat, 19 Sep 2026 07:00:38 +0900</pubDate>
 			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1558.pdf]]></description>
-		</item>
-		<item>
-			<title>[ICT정책 이슈&amp;트렌드]  미·중 주요 AI 기업의 기술개발 특징: 상위 10대 AI 모델을 중심으로</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1559&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1559&amp;dataDivCd=01</guid>
-			<pubDate>Sat, 19 Sep 2026 07:00:37 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1559.pdf]]></description>
-		</item>
-		<item>
-			<title>ICT 융합 표준 프레임워크: 시티버스</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1542&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1542&amp;dataDivCd=02</guid>
-			<pubDate>Sat, 19 Sep 2026 07:00:36 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1542.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제210호 (2026.07.31)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1570&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1570&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:41 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1570.pdf]]></description>
-		</item>
-		<item>
-			<title>On Body Device 폼팩터별 기능 구현 수준 및 개선 가능성 분석</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:40 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1571.pdf]]></description>
-		</item>
-		<item>
-			<title>추론의 시대, AI 구조 전환과 기술패권 전망</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:39 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1562.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제209호 (2026.06.30)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1569&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1569&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:38 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1569.pdf]]></description>
-		</item>
-		<item>
-			<title>Quantum-AI 융합: 계산과 지능의 공진화 프레임워크</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:37 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1563.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제208호 (2026.05.31)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1568&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1568&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:35 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1568.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제207호 (2026.04.30)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1567&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1567&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:34 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1567.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제206호 (2026.03.31)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1566&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1566&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:33 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1566.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제205호 (2026.02.28)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1565&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1565&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:32 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1565.pdf]]></description>
-		</item>
-		<item>
-			<title>[표준화 Newsletter] 제204호 (2026.01.30)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1564&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1564&amp;dataDivCd=02</guid>
-			<pubDate>Fri, 18 Sep 2026 13:56:29 +0900</pubDate>
-			<description><![CDATA[https://ksp.etri.re.kr/ksp/plan-report/file/1564.pdf]]></description>
 		</item>
 	</channel>
 </rss>
