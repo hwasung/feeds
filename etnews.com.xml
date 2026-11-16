@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 16 Nov 2026 13:30:47 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 13:33:06 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>행정업무용 이메일 해킹…행안부, 관계기관 합동점검 착수</title>
+			<link>https://www.etnews.com/20261116000201</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000201</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 13:31:00 +0900</pubDate>
+			<description><![CDATA[행정기관 업무용 이메일시스템 등이 외부 해킹을 받아 300여개 계정에서 비정상 접속이 확인됐다. 행정안전부는 피해 확산을 막기 위한 긴급 보안조치와 관계기관 합동점검에 나섰다. 행정안전부는 지난 9일 유관기관으로부터 행정기관의 업무용 이메일 등에 대한 외부 해킹 사실을 통보받고, 정확한 사고 원인과 피해 현황을 파악하기 위해 관계기관 합동점검에 착수했다고 16일 밝혔다. 현재까지 확인된 바에 따르면, 공격자는 일부 지방정부의 취약한 네트워크를...]]></description>
+		</item>
 		<item>
 			<title>안랩클라우드메이트, &apos;제21회 대한민국 인터넷대상&apos; 특별상 수상</title>
 			<link>https://www.etnews.com/20261116000203</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 16 Nov 2026 09:54:41 +0900</pubDate>
 			<description><![CDATA[금융당국이 금융권 전반에 대한 보안 점검을 강화하는 가운데 쿠도커뮤니케이션이 서버 운영 중단 없이 취약점을 보완할 수 있는 보안 솔루션 공급에 나섰다. 쿠도커뮤니케이션(대표 김용식)은 국내 독점 총판을 맡고 있는 글로벌 오픈소스 보안기업 턱스케어(TuxCare)의 솔루션을 활용해 금융권의 서버 취약점 관리와 보안 유지보수를 지원한다고 16일 밝혔다. 금융위원회가 지난 5일 발표한 자료에 따르면 9월 30일부터 11월 3일까지 금융권 37개사에서...]]></description>
-		</item>
-		<item>
-			<title>슈퍼브에이아이, &apos;디지털 이노베이션 어워드&apos; 부총리 표창 수상</title>
-			<link>https://www.etnews.com/20261116000099</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000099</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 09:51:15 +0900</pubDate>
-			<description><![CDATA[슈퍼브에이아이는 지난 13일 서울 중구 포스트타워에서 열린 '제21회 대한민국 인터넷대상 및 2026 대한민국 디지털 이노베이션 어워드' 시상식에서 ICT 혁신 유공 부문 부총리 겸 과학기술정보통신부 장관 표창을 받았다고 16일 밝혔다. 대한민국 디지털 이노베이션 어워드는 과학기술정보통신부가 주최하고 한국정보방송통신대연합(ICT대연합)이 주관하는 정부 포상이다. 정보통신기술(ICT)의 개발·보급과 융복합 활용으로 디지털 경제·사회 구현에 기여한...]]></description>
 		</item>
 	</channel>
 </rss>
