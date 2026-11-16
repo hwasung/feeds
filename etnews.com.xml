@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 16 Nov 2026 18:32:04 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 21:30:31 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>경희대·경기대·아주대, 17일 학생 &apos;AI·SW&apos; 작품 45점 전시</title>
+			<link>https://www.etnews.com/20261116000539</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261116000539</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 16 Nov 2026 20:38:00 +0900</pubDate>
+			<description><![CDATA[경희대·경기대·아주대 학생들이 개발한 인공지능(AI)·소프트웨어(SW) 작품 45점이 오는 17일 경희대에서 공개된다. 경희대는 SW중심대학사업단이 이날 경기 용인시 국제캠퍼스 중앙도서관에서 '2026년 SW중심대학 연합 AI·SW페스티벌'을 연다고 16일 밝혔다. 예선을 통과한 45개 작품은 중앙도서관 로비에 전시한다. 참가 학생들은 전시판에 작품의 기능을 소개하고 관람객 앞에서 작동 모습을 보여준다. 이 가운데 본선에 오른 11개 팀은 팀당...]]></description>
+		</item>
 		<item>
 			<title>이노에이엑스, 3분기 누적 매출 231억원…역대 최대</title>
 			<link>https://www.etnews.com/20261116000522</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 16 Nov 2026 17:04:16 +0900</pubDate>
 			<description><![CDATA[크리니티, 소프트웨이브 2026서 AI Work OS '써팀' 공개… 업무 데이터 기반 AX 혁신 제시 AI SaaS 메일협업·메일보안 전문기업 크리니티가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 AI Work OS '써팀(SirTEAM)'을 선보이고 기업의 AI 전환(AX)을 지원하는 업무 연계 및 자동화 기술을 공개한다고 밝혔다. 크리니티는 이번 전시에...]]></description>
-		</item>
-		<item>
-			<title>[사설] AI 조력 응시, 아예 불능케 만들라</title>
-			<link>https://www.etnews.com/20261116000370</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261116000370</guid>
-			<author>논설위원실</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 16 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[16일 정부와 국회가 인공지능(AI) 조력 응시에 대해 강력한 단속을 선언했지만, 이미 시스템이 뚫린 뒤였음을 자인하는 격밖에 안 됐다. 당장 19일로 다가온 대학수학능력시험에서까지 만약 이 같은 일이 재발한다면 사태는 돌이킬 수 없는 민심 이반과 사회적 혼란으로 이어질 것이다. 정부 차원의 범정부 긴급대응팀 가동이나, 입법부 나름의 응시 제한 확대나 특별법 제정까지 동원됐지만 사실상 사후 처벌 강화에 기반한 사전 경고, 혹은 자진해서 포기하도...]]></description>
 		</item>
 	</channel>
 </rss>
