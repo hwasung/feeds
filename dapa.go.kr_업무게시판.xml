@@ -4,7 +4,7 @@
 		<title>방위사업청 업무게시판</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3042&amp;bbsSeq=462</link>
 		<description>방위사업청 업무게시판</description>
-		<lastBuildDate>Mon, 16 Nov 2026 18:31:17 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 17:38:06 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.34버전 소프트웨어 배포</title>
@@ -13,7 +13,11 @@
 			<author>최민정</author>
 			<category>통합체계지원</category>
 			<pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p>체계지원분석시스템 PSA개발체계 v.1.0.34버전 소프트웨어 배포합니다.</p>]]></description>
+			<description><![CDATA[<p>체계지원분석시스템 PSA개발체계 v.1.0.34버전 소프트웨어 배포합니다.</p>
+<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
+<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59399&amp;fileNum=1">PSA_v1.0.34.zip (222.13 MB)</a></li>
+</ul></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>체계지원분석시스템 PSA개발체계 v.1.0.35버전 소프트웨어 배포</title>
