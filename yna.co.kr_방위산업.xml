@@ -4,8 +4,30 @@
 		<title>연합뉴스</title>
 		<link>https://www.yna.co.kr/</link>
 		<description>연합뉴스</description>
-		<lastBuildDate>Tue, 17 Nov 2026 14:31:30 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 15:00:04 +0900</lastBuildDate>
 		<ttl>30</ttl>
+		<item>
+			<title>[게시판] 수출플러스지원단, 경남 창원 방산기업 간담회</title>
+			<link>https://www.yna.co.kr/view/AKR20261117104300002</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20261117104300002</guid>
+			<author>이대희</author>
+			<category>수출플러스지원단</category>
+			<pubDate>Tue, 17 Nov 2026 14:30:00 +0900</pubDate>
+			<description><![CDATA[<div>
+<figure>
+<div><img src="https://img4.yna.co.kr/photo/cms/2026/09/02/05/PCM20260902000005990_P4.jpg" alt="재경부 간판"/>
+
+</div>
+<figcaption>
+<strong>재경부 간판</strong>
+<p>재경부 간판 자료사진</p>
+
+</figcaption>
+</figure>
+</div><p>▲ 재정경제부 수출플러스지원단은 17일 경남 창원 방위산업진흥센터에서 방산 협력기업을 대상으로 맞춤형 수출지원을 논의하는 간담회를 했다고 밝혔다. 지원단은 해외 전시회 및 현지 지사화 사업, 수출 물류 이용권, 금융지원프로그램과 무역보험 제도, 해외 지식재산권 출원·등록 지원사업 등 수출 애로 유형에 맞는 활용 가능한 다양한 지원사업을 안내했다. (세종=연합뉴스)<br/></p>]]></description>
+			<x-step-done>add_to_feedly_board</x-step-done>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>LIG D&amp;A, 공군과 국내개발 무기체계 유지·보수·운영 맞손</title>
 			<link>https://www.yna.co.kr/view/AKR20261117106400003</link>
@@ -232,23 +254,6 @@
 			<category>BNCP</category>
 			<pubDate>Mon, 16 Nov 2026 08:42:12 +0900</pubDate>
 			<description><![CDATA[... 연구원은 이날 발간 보고서에서 &quot;한화의 3분기 실적을 보면 한화에어로스페이스[012450]와 한화생명[088350] 실적 부진에 연결 기준 매출액은 전년 ...으로 상향했다&quot;면서 &quot;한화의 배당 수입 역시 (자회사인)한화에어로스페이스와 한화솔루션[009830]의 배당을 고려하면 전년 대비 약 200억원 ...]]></description>
-		</item>
-		<item>
-			<title>李대통령 &quot;한-아세안 FTA 개선, 미래지향적 통상규범 목표&quot;</title>
-			<link>https://www.yna.co.kr/view/AKR20261116005700001</link>
-			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20261116005700001</guid>
-			<author>고동욱</author>
-			<category>이재명</category>
-			<category>아세안</category>
-			<category>필리핀</category>
-			<pubDate>Mon, 16 Nov 2026 06:23:19 +0900</pubDate>
-			<description><![CDATA[...안 치안 협력으로&quot;
-&quot;한-필리핀, AI·원전·핵심광물 등 협력…방산 협력도 범위 확대&quot;
-
-
-
-    (서울=연합뉴스) 고동욱 기자 = 이재명 ...심 광물 등 새로운 분야로도 협력을 확대하고 있다&quot;고 부연했다.
-    방위산업 협력과 관련해서도 &quot;광대한 해양과 도서 지역을 방어해야 하는 ...]]></description>
 		</item>
 	</channel>
 </rss>
