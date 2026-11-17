@@ -4,97 +4,94 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 17 Nov 2026 15:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 16:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>[CIO·CISO 세미나] 코헤시티 “해킹 이후 업무 정상화, 복구 속도가 관건”</title>
-			<link>https://www.etnews.com/20261117000183</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000183</guid>
+			<title>[보안칼럼] 포스트양자 시대…K보안 &apos;퍼스트무버&apos;가 되는 법</title>
+			<link>https://www.etnews.com/20261117000073</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000073</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[2024년 8월 미국 국립표준기술연구소(NIST)는 포스트양자암호 표준 3종을 확정했다. 석 달 뒤에는 기존 공개키 암호를 2030년 이후 단계적으로 줄이고 2035년 이후에는 금지하는 전환 일정 초안을 내놓았다. 양자컴퓨터는 아직 일상에서 체감하기 어렵지만 보안 산업에서는 이미 시한이 붙은 현재의 과제가 됐다. 암호 기술은 위협이 현실화된 뒤 단기간에 교체할 수 있는 소프트웨어(SW) 기능과 성격이 다르다. 인증서, 전자서명, 통신 구간 암호...]]></description>
+		</item>
+		<item>
+			<title>[사이버보안, 패러다임 전환]〈1〉국가 사이버보안 정책, 새 판 짜자</title>
+			<link>https://www.etnews.com/20261117000310</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000310</guid>
 			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 15:00:00 +0900</pubDate>
-			<description><![CDATA[“기업이 사이버 공격으로 시스템이 마비되는 상황을 가정해야 합니다. 중요한 것은 얼마나 신속하게 복구할 수 있느냐입니다.” 산제이 푸넨 코헤시티 최고경영자(CEO)는 17일 서울 강남구 웨스틴 서울 파르나스에서 열린 '전자신문 11월 CIO·CISO 조찬 세미나'에서 사이버 공격 이후 업무를 정상화할 수 있는 '사이버 복원력' 확보가 중요하다고 강조했다. 코헤시티가 지난 9월 발표한 '글로벌 사이버 복원력 보고서'에 따르면 세계 12개국의 기업...]]></description>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기반 사이버 공격이 고도화하고 침해사고가 잇따르면서 국가 사이버보안 정책의 실효성과 산업 경쟁력을 높여야 한다는 목소리가 커지고 있다. 전자신문은 한국정보보호산업협회(KISIA), 한국정보보호학회와 공동으로 4회에 걸쳐 사이버보안 정책·산업 현황을 진단하고 개선 방향을 모색한다. [글 싣는 순서] 〈1〉국가 사이버보안 정책, 새 판 짜자 〈2〉실질적 사이버보안 차르 만들자 〈3〉K-사이버보안, 체력 키우자 〈4·끝〉사이버보안 정...]]></description>
 		</item>
 		<item>
-			<title>한예종-한국외대, 어문·예술·AI 등 공동 교육과정 확대한다</title>
-			<link>https://www.etnews.com/20261117000323</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000323</guid>
-			<author>박종진</author>
+			<title>[사이버보안, 패러다임 전환]〈1〉주요국, 사이버보안 컨트롤타워 재편…조정 권한 강화</title>
+			<link>https://www.etnews.com/20261117000311</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000311</guid>
+			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:56:03 +0900</pubDate>
-			<description><![CDATA[한국예술종합학교가 한국외대와 17일 한국외대 서울캠퍼스 본관 이덕선 회의실에서 '공동 교육과정 운영 확대를 위한 업무협약'을 체결했다. 두 대학은 교양 교과목 중심 교류를 교과·비교과 교육과정 전반과 교원·학생·시설 공유로 넓힌다. 특히 한국외대가 개발·운영해 온 AI 기본교육과정을 한예종 학생들에 개방, 어문·지역학과 예술 교육을 잇는 새로운 융합 교육 모델을 만들어갈 계획이다. 협약에 따라 두 학교는 교류협정체제 확대, 교과·비교과 교육과정...]]></description>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[사이버보안 위협은 우리나라만의 문제가 아니다. 미국·영국·일본·호주 등 주요국은 사이버 공격이 고도화하고 침해사고가 잇따르자 국가 차원의 대응 역량을 강화하기 위해 사이버보안 거버넌스를 개편해 왔다. 우리 정부도 범정부 사이버보안 대응체계 개편을 위한 준비에 착수한 만큼, 주요국의 개편 사례를 참고해 국내 실정에 맞는 조직과 권한을 마련할 필요가 있다. ◇미국, 정책 평가·예산 검토권 부여 국내 사이버보안 거버넌스 개편 논의에서 대표적인 참고...]]></description>
 		</item>
 		<item>
-			<title>하정우 부위원장, GPU·모두의 AI 등 민·관 풀스택 전략 논의 주도</title>
-			<link>https://www.etnews.com/20261117000318</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000318</guid>
-			<author>박종진</author>
+			<title>정부, &apos;사이버보안 차르&apos; 밑그림 그린다…부처별 개선안 마련 착수</title>
+			<link>https://www.etnews.com/20261117000308</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000308</guid>
+			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:47:21 +0900</pubDate>
-			<description><![CDATA[정부가 주요 기업 전문가와 그래픽처리장치(GPU)·신경망처리장치(NPU) 등 인공지능(AI) 핵심 인프라 활용 극대화·최적화 방안을 논의한 것으로 확인됐다. 반도체부터 모델·응용 서비스까지 국가 AI 풀스택 경쟁력 강화를 위한 의견도 청취했다. 17일 업계에 따르면 국가AI전략위원회와 과학기술정보통신부 등 정부는 전날 SK텔레콤, KT, 카카오 등 '모두의 AI' 프로젝트 컨소시엄 주관 사업자를 비롯해 LG AI연구원, 라이너, 뤼튼테크놀로지스...]]></description>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[정부가 범정부 사이버보안 컨트롤타워인 '사이버보안 차르' 구성을 위한 준비 작업에 착수했다. 이달 초 이재명 대통령이 직접 '차르'를 언급하며 사이버보안 대응체계 개편을 주문한 데 따른 것이다. 관계부처가 각자 개선안 수립에 나섰으며, 이를 바탕으로 부처 간 협의를 거쳐 조직 구성과 권한 조정 방향을 구체화할 전망이다. 17일 업계에 따르면 과학기술정보통신부, 국가정보원 등 관계부처는 사이버보안 차르 구성 논의에 대비해 부처별 검토안을 마련하고...]]></description>
 		</item>
 		<item>
-			<title>[ICT 시사용어] 컨텍스트 엔지니어링</title>
-			<link>https://www.etnews.com/20261117000312</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000312</guid>
-			<author>최다현</author>
+			<title>[人사이트] 최종복 직스테크놀로지 대표 “CAD 국산화 다음은 설계 생태계 혁신”</title>
+			<link>https://www.etnews.com/20261117000207</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000207</guid>
+			<author>강성전</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:43:07 +0900</pubDate>
-			<description><![CDATA[컨텍스트 엔지니어링은 인공지능(AI)이 답변을 생성하거나 작업을 수행하는 데 필요한 정보와 도구, 기억, 규칙 등을 적절하게 구성해 제공하는 기술이다. 사용자의 질문 문장을 다듬은 '프롬프트 엔지니어링'보다 범위가 넓다. 생성형 AI 초기에는 어떤 명령어를 입력하느냐가 결과물의 품질을 좌우했다. 하지만 AI가 단순 질의응답을 넘어 검색, 문서 분석, 일정 관리 등 여러 단계의 업무를 수행하는 'AI 에이전트'로 발전하면서 프롬프트만 잘 만드는...]]></description>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[“직스캐드 AX로 경쟁 제품을 대체하고 AI를 넣어 한 단계 나아갔다면, 다음은 설계 생태계를 바꾸는 단계입니다. 국산 컴퓨터지원설계(CAD)의 기술력과 생태계를 키워 국내 기업의 외산 소프트웨어(SW) 의존도를 낮추겠습니다.” 최종복 직스테크놀로지 대표는 최근 본지와 인터뷰에서 이같이 강조했다. 국내 고객과 협력해 확보한 실무 도면을 인공지능(AI)에 학습시키고, 이를 설계 현장에 맞는 제품 경쟁력으로 발전시키겠다는 구상이다. 직스테크놀로지는...]]></description>
 		</item>
 		<item>
-			<title>[한국IT리더스포럼] 이진준 KAIST 교수 “AI 시대 인간다움의 핵심은 예술적 상상력”</title>
-			<link>https://www.etnews.com/20261117000309</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000309</guid>
+			<title>[미래포럼] AI 에이전트가 여는 새로운 사업의 기회</title>
+			<link>https://www.etnews.com/20261117000048</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000048</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 에이전트의 발전을 지켜보면서 최근 한 가지 질문을 하게 된다. 만약 지금 새로운 사업을 시작한다면, 과연 몇 명의 직원과 어느 정도의 시스템이 필요할까? 이 질문에 대한 답이 빠르게 달라지고 있다. 변화의 중심에는 AI 에이전트의 협업과 이를 조율하는 멀티 에이전트 오케스트레이션이 있다. AI를 다양한 데이터와 외부 서비스에 연결하는 표준 규격인 MCP(Model Context Protocol)가 확산되면서, 시장을 분석하는 에...]]></description>
+		</item>
+		<item>
+			<title>[김경진의 AI전략노트]〈41〉시험장의 스마트 안경, 일상의 스마트 안경</title>
+			<link>https://www.etnews.com/20261117000222</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000222</guid>
+			<category>오피니언</category>
+			<pubDate>Tue, 17 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[지난 15일 제63회 세무사 시험 수석 합격자가 인공지능(AI)을 이용한 부정행위를 자백하고 경찰에 자수했다. 스마트안경을 썼다는 의혹으로 시작된 사건이었지만, 본인이 밝힌 수법은 초소형 카메라와 스마트폰, 생성형 AI를 결합한 방식이었다. 한국산업인력공단은 불과 사흘 전 감독위원 4명에게 확인한 결과 의심할 만한 행동이 없었다고 발표한 바 있다. 정부는 합격 취소와 5년간 응시 제한, 올해 시행된 모든 국가 자격시험에 대한 전수조사를 추진하고...]]></description>
+		</item>
+		<item>
+			<title>유엔넷, &apos;PGConf 2026&apos;서 DB 성능 진단 솔루션 &apos;타란튜너&apos; 공개… 아시아 시장 공략 본격화</title>
+			<link>https://www.etnews.com/20261117000364</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000364</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 17 Nov 2026 15:52:24 +0900</pubDate>
+			<description><![CDATA[유엔넷이 자체 개발한 데이터베이스(DB) 성능 진단·튜닝 솔루션을 공개하고 아시아 시장 공략에 나섰다. 유엔넷은 17일부터 이틀간 홍콩에서 열리는 국제 포스트그레SQL(PostgreSQL) 기술 컨퍼런스 'PGConf.Asia 2026'에 참가해 자체 개발한 DB 성능 진단·튜닝 플랫폼 '타란튜너'를 선보인다. 타란튜너는 포스트그레SQL 기반 DB의 성능을 실시간 모니터링하고, 세션 이력과 SQL 실행계획, 잠금(Lock) 정보, 시스템 자원...]]></description>
+		</item>
+		<item>
+			<title>지오이스트 이병찬 대표, 벤처창업진흥 유공 중기부 장관표창 수상</title>
+			<link>https://www.etnews.com/20261117000351</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000351</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 17 Nov 2026 15:44:46 +0900</pubDate>
+			<description><![CDATA[IT 보안·네트워크 전문기업 지오이스트가 악성 봇 탐지·차단 기술을 결합한 통합 보안 장비 개발 성과를 인정받아 벤처창업진흥 유공 정부 포상을 받았다. 지오이스트는 이병찬 대표가 17일 서울 양재 aT센터 그랜드홀에서 열린 '2026 세계기업가정신주간 한국행사' 개막식에서 '2026 벤처창업진흥 유공' 청년기업 부문 중소벤처기업부 장관표창을 수상했다고 밝혔다. 벤처창업진흥 유공 포상은 벤처·창업 활성화에 기여한 기업인을 격려하기 위한 정부 포상...]]></description>
+		</item>
+		<item>
+			<title>이콜트리, 아웃시스템즈와 기업 AI 혁신 파트너십 확대</title>
+			<link>https://www.etnews.com/20261117000349</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261117000349</guid>
 			<author>조벼리</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:40:39 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)이 창작 활동의 기술적 장벽을 낮출수록 예술을 감상하고 새로운 세계를 상상하는 인간 고유의 능력이 더욱 중요해질 것이라는 분석이 나왔다. 이진준 한국과학기술원(KAIST) 문화기술대학원 교수는 17일 서울 중구 프레스센터에서 열린 한국IT리더스포럼 11월 정기조찬회에서 'AI 시대의 예술'을 주제로 특별강연하며 이같이 강조했다. 이 교수는 “기술이 창작의 허들을 낮추면서 마치 클릭 한 번으로 예술이 만들어지는 것처럼 보일수록 오히...]]></description>
-		</item>
-		<item>
-			<title>상용AI·SW협회·육군본부, 국산 SW 국방 활용 확대 모색</title>
-			<link>https://www.etnews.com/20261117000293</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000293</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:24:03 +0900</pubDate>
-			<description><![CDATA[한국상용인공지능소프트웨어협회와 육군본부가 미래 전장에 대응하기 위한 국산 상용 인공지능(AI)·소프트웨어(SW)의 국방 분야 활용 확대 방안을 논의했다. 한국상용인공지능소프트웨어협회(이하 협회) 국방분과위원회는 충남 계룡대 육군본부 소강당에서 육군본부 정보화기획참모부와 공동으로 '2026 제6차 기술교류회'를 성황리에 개최했다고 17일 밝혔다. '초연결·초지능 미래 전장을 위한 국방 SW 및 데이터 융합 발전학습 환경 구현'을 대주제로 열린 이...]]></description>
-		</item>
-		<item>
-			<title>“개발 프로세스 단위로 업무 맡는다”…AWS, AI 에이전트 &apos;키로 봇&apos; 출시</title>
-			<link>https://www.etnews.com/20261117000279</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000279</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:12:23 +0900</pubDate>
-			<description><![CDATA[아마존웹서비스(AWS)가 개발 업무를 역할별로 전담하고 여러 인공지능(AI) 에이전트의 작업을 조율하는 '키로 봇'을 정식 출시했다. AWS는 AI 에이전트 기반 개발 워크스페이스 키로 크루(Kiro Crew)에서 '키로 봇'을 정식 출시했다고 17일 밝혔다. 키로 봇은 개발팀이 소프트웨어를 만드는 과정 중 한 부분을 각각 전담하는 장기 실행 에이전트다. 개발자는 개발 프로세스를 여러 역할로 나누고 각 역할을 봇에 맡긴 뒤 방향을 정하고 결과를...]]></description>
-		</item>
-		<item>
-			<title>비아이씨엔에스, &apos;제21회 대한민국 인터넷대상&apos; 특별상 수상</title>
-			<link>https://www.etnews.com/20261117000272</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000272</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:09:47 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 음성인식 전문기업 비아이씨엔에스(대표 이원철)는 지난 13일 서울 중구 포스트타워 대회의실에서 열린'제21회 대한민국 인터넷대상' 시상식에서 사회 공헌 부문 특별상(한국정보방송통신대연합회장상)을 수상했다고 17일 밝혔다. 과학기술정보통신부가 주최하고 한국정보방송통신대연합이 주관하는 대한민국 인터넷대상은 인터넷 산업 발전과 건전한 인터넷 문화 확산에 기여한 기업·단체·개인을 선정해 포상하는 정부 시상이다. 2006년부터 이어져 왔...]]></description>
-		</item>
-		<item>
-			<title>금감원, 대부업권 해킹 취약점 점검 강화…정보유출 시 엄정 제재</title>
-			<link>https://www.etnews.com/20261117000013</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000013</guid>
-			<author>박진혁</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 14:00:00 +0900</pubDate>
-			<description><![CDATA[금융감독원이 최근 금융권에서 잇따른 해킹사고와 관련해 대부업권의 정보보안 관리 강화에 나섰다. 대부업체의 보안 취약점이 개인정보 유출과 보이스피싱 등 2차 피해로 이어질 수 있는 만큼 연말까지 자체 점검을 실시하고 부실 관리에 대해서는 엄정 대응할 방침이다. 금감원은 17일 서울 여의도 본원에서 약 70개 대부업체의 보안·전산 담당자 등 100여명을 대상으로 금융권 침해사고 관련 설명회를 개최했다고 밝혔다. 이번 설명회는 최근 금융권에서 발생한...]]></description>
-		</item>
-		<item>
-			<title>다쏘시스템, 아리스글로벌 인수 완료…AI 네이티브 통합 플랫폼 구축</title>
-			<link>https://www.etnews.com/20261117000259</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000259</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 13:55:21 +0900</pubDate>
-			<description><![CDATA[다쏘시스템이 아리스글로벌 인수를 마무리하고 신약 연구부터 임상·제조·환자 치료까지 연결하는 통합 인공지능(AI) 플랫폼 구축에 나선다. 다쏘시스템은 아리스글로벌 인수를 완료하고, 생명과학 및 헬스케어 역량을 결합해 과학·의료·환자를 연결하는 통합 AI 플랫폼 구축에 나선다고 17일 밝혔다. 동시에 다쏘시스템은 아슈위니 제누즈 박사를 생명과학 및 헬스케어 부문 수석부사장 겸 최고경영자(CEO)로 선임했다. 다쏘시스템은 거래 종결 시 현금 18억...]]></description>
+			<pubDate>Tue, 17 Nov 2026 15:42:33 +0900</pubDate>
+			<description><![CDATA[이콜트리는 아웃시스템즈의 공식 프로페셔널 서비스 제공사와 공인 교육 파트너로 선정되며 기업 인공지능(AI) 혁신을 위한 전략적 파트너십을 확대한다고 17일 밝혔다. 이콜트리는 지난 9월 아웃시스템즈와 프로페셔널 서비스 계약을 체결한 데 이어 지난달 공인 교육 파트너로 선정됐다. 파트너십 확대로 전문 컨설팅부터 AI 애플리케이션 개발, 시스템 최적화 기술 지원을 개발자 양성·인증 프로그램과 결합해 통합 지원하는 체계를 구축했다. 프로페셔널 서비스...]]></description>
 		</item>
 	</channel>
 </rss>
