@@ -4,8 +4,22 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Tue, 17 Nov 2026 08:30:53 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 10:30:47 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[등록공고][일반용역] MUDL 아키텍처‧프로토콜 기술 활용성 검토 전문가 WG</title>
+			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01834800&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01834800&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Tue, 17 Nov 2026 10:19:02 +0900</pubDate>
+			<description><![CDATA[<ul>
+	<li>공고/수요기관: 국방과학연구소</li>
+	<li>공고번호: R26BK01834800</li>
+	<li>마감일시: 2026-12-29 10:00</li>
+	<li>개찰일시: 2027-01-04 11:00</li>
+</ul>]]></description>
+		</item>
 		<item>
 			<title>[등록공고][기술용역] 시험통제센터 증축 설계용역</title>
 			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01834256&amp;bidPbancOrd=000</link>
@@ -122,20 +136,6 @@
 			<description><![CDATA[<ul>
 	<li>공고/수요기관: 국방과학연구소</li>
 	<li>참고번호: R26BD00300016</li>
-</ul>]]></description>
-		</item>
-		<item>
-			<title>[등록공고][일반용역] 고체로켓 추진기관용 제트베인 작동 하중 특성평가</title>
-			<link>/link/PNPE027_01/single/?bidPbancNo=R26BK01828356&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">/link/PNPE027_01/single/?bidPbancNo=R26BK01828356&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Fri, 13 Nov 2026 09:21:06 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고/수요기관: 국방과학연구소</li>
-	<li>공고번호: R26BK01828356</li>
-	<li>마감일시: 2026-12-01 10:00</li>
-	<li>개찰일시: 2026-12-04 11:00</li>
 </ul>]]></description>
 		</item>
 	</channel>
