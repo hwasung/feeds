@@ -4,8 +4,20 @@
 		<title>파이낸셜뉴스</title>
 		<link>http://www.fnnews.com/</link>
 		<description>파이낸셜뉴스</description>
-		<lastBuildDate>Mon, 16 Nov 2026 19:30:48 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 17 Nov 2026 14:30:41 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>LIG D&amp;A, 2032년 IT 메카 성남으로 간다..R&amp;D 효율 극대화</title>
+			<link>https://www.fnnews.com/news/202611161500476427</link>
+			<guid isPermaLink="true">https://www.fnnews.com/news/202611161500476427</guid>
+			<author>김윤호</author>
+			<category>산업|대기업</category>
+			<category>산업</category>
+			<pubDate>Tue, 17 Nov 2026 14:21:46 +0900</pubDate>
+			<description><![CDATA[[파이낸셜뉴스]LIG디펜스앤에어로스페이스(LIG D&A)가 2031년에는 용인 본사를 성남시로 이전할 예정이다. 정보통신기술(IT) 메카인 판교와 지리적으로 가까운 이점을 활용해 인공지능(AI) 기술협력을 가속화해 미래성장동력을 키운다는 구상에서다.
+17일 업계에 따르면 LIG D&A는 보유하고 있는 옛 세종연구소 부지에 연구·개발(R&D) 단지를 2031년까지 조성키로 했고, 1년 후 본사도 이전키로 정했다. 성남시는 사전에 협상한 대로 도시계획을 변경하고, LIG D&A는 1107억원 규모인 1만5820㎡ 부지를 2028년 연구단지 착공 전에 공공기여키로 했다.
+성남 R&D단지 조성은 산재한 단지를 한 데 모아 R&D 역량을 극대화한다는 목표에서 추진된다. 신규 채용으로 인해 늘어난 R&D 인력 업무공간을 확보해 통합 연구개발 역량을 강화한다는 것이다. 분산...]]></description>
+		</item>
 		<item>
 			<title>SNT다이내믹스 &apos;K방산&apos; 기술개발 박차</title>
 			<link>https://www.fnnews.com/news/202611161922128514</link>
@@ -112,19 +124,6 @@ LG전자는 진흥원의 휴머노이드 로봇 안전인증센터 평가 시스
 			<description><![CDATA[[파이낸셜뉴스] 삼성전자와 LG전자가 오는 19일 치러지는 2027학년도 대학수학능력시험을 앞두고 시험장 냉난방 설비 점검과 긴급 대응체계 구축에 나섰다. 시스템에어컨 사전 점검부터 시험 당일 긴급 출동까지 지원해 수험생들이 안정적인 환경에서 시험을 치를 수 있도록 한다는 방침이다. 양사는 인공지능(AI) 기반 원격진단 기술도 활용해 냉난방 설비의 이상 여부를 확인하고 신속한 조치를 지원한다. 
 16일 업계에 따르면 삼성전자서비스는 수능 당일 시스템에어컨 고장 등 긴급 상황에 대응하기 위한 전담 서비스팀을 구성했다. 전담 서비스팀은 시험장 주변에 상주하며 긴급 상황 발생 시 출장 서비스와 임시 사용 방법 안내 등을 지원할 예정이다. 
 AI 기술을 접목한 '가전제품 원격진단(HRM)' 서비스도 가동한다. 스마트싱스에 연결된 시...]]></description>
-		</item>
-		<item>
-			<title>기보, 中企 &apos;AI 전환&apos; 진단 서비스…전략·기술·활용 등 평가</title>
-			<link>https://www.fnnews.com/news/202611160928126307</link>
-			<guid isPermaLink="true">https://www.fnnews.com/news/202611160928126307</guid>
-			<author>honestly82@fnnews.com 김현철</author>
-			<category>산업|중소기업</category>
-			<category>산업</category>
-			<pubDate>Mon, 16 Nov 2026 10:59:44 +0900</pubDate>
-			<description><![CDATA[[파이낸셜뉴스] 기술보증기금이 중소벤처기업을 대상으로 제2차 'AX혁신지수' 자가진단 서비스를 실시한다.
- 16일 기보에 따르면 중소벤처기업부, 벤처기업협회와 협력해 진행하는 이번 서비스는 중소벤처기업의 인공지능(AI) 활용 수준과 전환 역량 변화를 파악하기 위해 마련됐다. 앞서 1차 진단 분석 결과 참여 437개 벤처기업의 종합 평균 점수는 48점으로 집계됐다. 5단계 성숙도 체계에서 48점은 핵심 업무에 AI를 적용하기 시작하는 구축 초입에 해당한다.
- 기보가 개발한 AI 전환(AX)혁신지수 간이평가 체계는 기업이 AI 도입·활용 수준을 스스로 진단할 수 있도록 설계됐다. 평가는 △전략 및 의지 △자원 및 조직 △기술 및 데이터 △활용 및 성과 등 4개 영역, 12개 세부지표로 진행된다. 
- 진단 결과는 종합점수와 항목별 분석 ...]]></description>
 		</item>
 	</channel>
 </rss>
