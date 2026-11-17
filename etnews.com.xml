@@ -4,8 +4,35 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 18 Nov 2026 06:30:33 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 08:30:32 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>PHP 이어 &apos;자바&apos;서도 치명적 취약점…공공·금융·기업 보안 비상</title>
+			<link>https://www.etnews.com/20261118000005</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000005</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 07:46:55 +0900</pubDate>
+			<description><![CDATA[최근 웹 개발 언어 PHP에서 심각한 보안 취약점이 발견된 데 이어 공공기관과 기업의 정보시스템에 널리 쓰이는 자바(Java)에서도 치명적 수준의 취약점이 확인됐다. 오라클은 17일(현지시간) 중요 보안 패치 업데이트를 통해 자바 표준판(Java SE) 관련 보안 패치 11건을 공개했다. 패치 대상 취약점 모두 별도 사용자 인증 없이 네트워크를 통해 악용될 가능성이 있는 것으로 파악됐다. 이 가운데 미국 보안업체 칼리프(Calif)가 발견한 취...]]></description>
+		</item>
+		<item>
+			<title>자바 &apos;오픈JDK&apos; 보안 취약점 발견…과기정통부·KISA, 보안조치 권고</title>
+			<link>https://www.etnews.com/20261118000004</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000004</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 07:46:18 +0900</pubDate>
+			<description><![CDATA[자바(Java) 실행 환경인 오픈JDK에서 보안 취약점이 발견됐다. 과학기술정보통신부와 한국인터넷진흥원(KISA)은 18일 이와 관련 긴급 점검과 보안 업데이트를 권고했다. 해당 취약점을 공격자가 악용할 경우 악성코드 실행 등 피해가 발생할 수 있어 보호나라 홈페이지 보안공지에 따라 신속한 보안조치를 당부했다. 자바는 웹서비스, 그룹웨어, 전사자원관리(ERP) 등 다양한 프로그램을 개발하고 실행하는 데 사용하는 기반 프로그램이다. 기업이 직접...]]></description>
+		</item>
+		<item>
+			<title>“앤트로픽 IPO 흥행 전망…공모가 희망범위 상단 웃돌듯”</title>
+			<link>https://www.etnews.com/20261118000003</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000003</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 07:34:32 +0900</pubDate>
+			<description><![CDATA[기업공개(IPO)를 앞둔 미국 인공지능(AI) 기업 앤트로픽의 공모가가 당초 제시된 희망 범위를 웃돌 것이라는 전망이 나왔다. 17일(현지시간) CNBC는 복수의 소식통을 인용, 앤트로픽의 최종 공모가가 당초 희망 범위인 주당 70~78달러를 웃돌 가능성이 크다고 보도했다. 최종 공모가가 희망 범위 상단을 넘어설 경우 최근 AI 투자 열기가 꺾였다는 시장의 우려를 딛고 투자자들의 강한 매수 수요를 확인하는 신호로 해석될 수 있다. 앤트로픽이 공...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 화학단지의 경쟁력은 공장 사이에서 갈린다</title>
 			<link>https://www.etnews.com/20261105000408</link>
@@ -66,33 +93,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 17 Nov 2026 17:35:28 +0900</pubDate>
 			<description><![CDATA[국가인공지능전략위원회가 대전 과학기술 인공지능(AI) 연구·창업 현장을 찾아 국가 연구개발(R&D) 혁신과 AI 산업 생태계 활성화 방안을 논의했다. 하정우 국가AI전략위 부위원장은 17일 대전 국가과학AI연구센터(NAIS)·팁스타운·KAIST 등을 방문해 산·학·연 관계자들과 현장 간담회를 진행했다. NAIS에서는 과학기술 R&D 전 과정에 AI를 접목하는 'AI 네이티브 R&D' 추진 현황을 점검했다. 올해 5월 국가과학기술연구회(NST)에...]]></description>
-		</item>
-		<item>
-			<title>샘 올트먼 오픈AI CEO “젠슨 황 없는 AI 혁명 상상하기 어려워”</title>
-			<link>https://www.etnews.com/20261117000399</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000399</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 17:33:28 +0900</pubDate>
-			<description><![CDATA[샘 올트먼 오픈AI 최고경영자(CEO)가 최근 사임한 젠슨 황 전 엔비디아 CEO에 대해 인공지능(AI) 산업 발전에 기여한 공로를 언급하며 개인적으로 공감한다고 밝혔다. 16일(현지시간) 미국 온라인 매체 세마포에 따르면 올트먼 CEO는 '실리콘 밸리와 세계' 행사 대담에서 “젠슨은 오랫동안 나의 영웅이었고 영웅에게도 결점은 있다”며 “그와 그가 세운 기업을 빼고 AI 혁명을 상상하기는 어렵다”고 말했다. 올트먼 CEO는 “엔비디아는 초기부터...]]></description>
-		</item>
-		<item>
-			<title>플리토, 서울·부산 등 4개 전통시장 &apos;AI 통번역 서비스&apos; 지원</title>
-			<link>https://www.etnews.com/20261117000395</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000395</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 17:23:37 +0900</pubDate>
-			<description><![CDATA[플리토가 서울과 부산을 비롯한 4개 전통시장에 인공지능(AI) 다국어 통번역 솔루션을 공급했다. 한국관광공사 'AI 관광집사' 사업으로, 외국인 관광객의 전통시장 이용 편의 향상과 상권 디지털 전환을 지원한다. 플리토는 서울 망원시장·경동시장, 부산 해운대시장, 경상북도 안동 안동구시장 4개 전통시장 내 점포에 AI 기반 메뉴 번역 서비스와 실시간 통역 서비스를 제공했다. 메뉴 번역 서비스는 영어·중국어·일본어·아랍어·몽골어·태국어 등 10개...]]></description>
-		</item>
-		<item>
-			<title>한국외대·한예종, 대학 경계 넘어 공동 교육과정 확대한다</title>
-			<link>https://www.etnews.com/20261117000392</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000392</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 17:15:30 +0900</pubDate>
-			<description><![CDATA[한국외국어대학교(총장 강기훈)는 17일 서울캠퍼스 대학본부 이덕선 회의실에서 한국예술종합학교(총장 편장완)와 공동 교육과정 운영 확대를 위한 업무협약(MOU)을 맺고 12년간 이어온 공동 교양교육의 협력 범위를 확대한다고 밝혔다. 이를 통해 한국외대의 인공지능(AI) 교육 역량과 한예종의 예술 교육 전문성을 연계해 대학 간 경계를 허무는 새로운 교육 협력 모델을 구축한다는 계획이다. 협약에 따라 양 대학은 △교류협정체계 확대 △교과·비교과 교육...]]></description>
 		</item>
 	</channel>
 </rss>
