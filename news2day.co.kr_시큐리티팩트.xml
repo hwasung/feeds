@@ -4,14 +4,275 @@
 		<title>뉴스투데이</title>
 		<link>https://www.news2day.co.kr/list/23</link>
 		<description>뉴스투데이</description>
-		<lastBuildDate>Wed, 18 Nov 2026 10:31:15 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 13:15:30 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>줌·CNN·BBC 등 글로벌 기업·기관 178곳에 악성코드 유포… 아이폰도 공격 표적</title>
+			<title>줌·CNN·BBC 등 글로벌 기업·기관 178곳에 악성코드 유포… 전체 리스트 공개</title>
 			<link>https://www.news2day.co.kr/article/20261118500088</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261118500088</guid>
 			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[[뉴스투데이=강남욱 기자] 줌(Zoom), CNN, BBC, HSBC 등 세계적인 기업과 기관 178곳의 웹사이트에서 악성코드가 포함된 스크립트가 발견됐다. 공격자는 미국 소프트웨어 기업 옵티마이즐리(Optimizely)의 서비스를 악용해 악성코드를 배포했다. 이 코드에는 암호화폐 지갑 주소를 바꾸거나 결제카드 정보를 탈취하고, 아이폰의 보안 취약점을 공격하는 기능이 포함돼 있었다. 17일(현지시각) 미국 사이버보안 전문매체 블리핑컴퓨터와 로이터 등의 보도에 따르면 이번 공격은 16일 옵티마이즐리의 웹사이트 실험 플랫폼을 통해 이뤄졌다. 보안업체 리포트 URI(Report URI)는 옵티마이즐리의 자바스크립트 파일 1611개를 조사한 결과, 178개 조직에 속한 188개 파일에서 악성코드를 발견했다고 밝혔다. 이는 조사 대상에서 확인된 수치로, 실제 영향을 받은 조직은 더 많을 가능성이 있다. 악성 스크립트가 발견된 조직에는 줌, CNN, BBC, 세일즈포스, 깃랩, 이케아, HSBC, 에퀴팩스, 에어프랑스-KLM, 폭스뉴스 등이 포함됐다. 금융, 정보기술, 유통, 항공, 언론 등 20개 업종에 걸쳐 악성코드가 배포됐다. 다만 이들 조직의 웹사이트에서 악성 스크립트가 발견됐다는 사실이 해당 기업의 내부 시스템 침해나 고객정보 유출을 의미하지는 않는다. 실제 악성코드에 노출된 이용자 수와 피해 규모는 아직 확인되지 않았다. ■ 정상 서버 통해 악성코드 배포 옵티마이즐리는 기업들이 웹사이트의 화면 구성이나 광고 문구 등을 변경하고 이용자 반응을 비교할 수 있도록 지원하는 소프트웨어 업체다. 고객사는 자사 웹사이트에 옵티마이즐리의 자바스크립트를 삽입해 서비스를 이용한다. 옵티마이즐리 측 설명에 따르면 공격자는 웹사이트 실험 서비스인 'Experimentation'의 계정 가입 과정에서 발견된 취약점을 악용해 일부 고객 프로젝트에 악성 자바스크립트를 삽입했다. 악성코드는 옵티마이즐리의 정상적인 콘텐츠 전송 서버인 'cdn.optimizely.com'을 통해 고객 웹사이트로 전달됐다. 해당 서버에는 정상적인 보안 인증서가 적용돼 있어 브라우저에서는 일반적인 외부 서비스 코드와 같은 경로로 처리됐다. 리포트 URI는 이번 사건이 콘텐츠 전송 네트워크(CDN)의 캐시를 오염시킨 공격은 아니라고 분석했다. 블리핑컴퓨터도 웹사이트 분석 서비스 urlscan.io의 기록을 조사해 여러 기업 웹사이트에서 악성 스크립트가 로드됐거나 로드가 시도된 사실을 확인했다. ■ 암호화폐·결제정보 노린 악성코드 보안 연구진이 분석한 악성코드에는 여러 종류의 정보 탈취 기능이 포함돼 있었다. 우선 웹페이지에 표시되거나 복사된 암호화폐 지갑 주소를 공격자가 관리하는 주소로 바꾸는 기능이 발견됐다. 이용자가 변경 사실을 알아채지 못하고 송금하면 암호화폐가 공격자에게 전달될 수 있는 방식이다. 리포트 URI는 16일 약 9시간 동안 공격자가 사용하는 지갑에 약 7040달러의 암호화폐가 유입된 것으로 집계했다. 다만 일부 지갑은 이번 사건 이전부터 사용된 것으로 확인돼 해당 금액 전체를 이번 공격으로 탈취한 피해액으로 단정할 수는 없다. 결제카드 정보를 수집하는 기능도 확인됐다. 악성코드는 이용자가 웹사이트에 입력한 카드번호와 유효기간, 보안코드(CVV)를 수집하도록 설계됐다. 세 가지 정보가 모두 확인된 경우 공격자가 관리하는 외부 서버로 전송하는 방식이다. 다만 결제대행업체가 별도로 제공하는 입력창(iframe)은 공격 대상에 포함되지 않았다. 웹사이트 자체의 입력란에 카드정보를 입력한 경우가 주요 표적이었다. 악성코드에는 웹페이지 화면을 캡처하고 브라우저 쿠키 정보를 수집하는 기능도 있었다. 다만 자바스크립트의 접근을 제한하는 'HttpOnly' 속성이 설정된 쿠키는 수집 대상에서 제외됐다. 아이폰 이용자를 겨냥한 공격 코드도 발견됐다. 보안 연구진에 따르면 공격자는 iOS 13~17 버전에는 '코루나(Coruna)', iOS 18 계열에는 '다크소드(DarkSword)'라는 공격 도구 모음(익스플로잇 킷)을 전달하려 했다. 익스플로잇 킷은 소프트웨어의 여러 보안 취약점을 이용해 기기를 공격하도록 구성된 도구 모음이다. 다만 이번 사건에서 실제 아이폰이 침해됐는지는 확인되지 않았다. ■ 옵티마이즐리 취약점 수정… 피해 조사 계속 옵티마이즐리는 이번 보안 사고를 인정하고 취약점을 수정했다고 밝혔다. 회사는 공격자가 악성코드를 삽입하는 데 이용한 경로를 차단하고, 영향을 받은 고객 프로젝트에서 악성코드를 제거했다. 관련 인증 토큰을 폐기하고 계정 접근 권한을 재설정하는 등 추가 보안 조치도 시행했다. 또한 영향을 받은 고객들에게 사고 사실을 통보했으며, 현재 조사를 계속하고 있다고 설명했다. 세일즈포스는 예방 차원에서 옵티마이즐리 스크립트를 비활성화하고 조사에 착수했다. 에퀴팩스 역시 자사 시스템이나 고객 데이터가 영향을 받았다는 증거를 발견하지 못했다고 밝히고 옵티마이즐리 서비스 사용을 중단했다. 이번 사건은 기업의 자체 서버가 직접 침해되지 않더라도 웹사이트에 연결된 외부 소프트웨어를 통해 악성코드가 이용자에게 전달될 수 있다는 점을 보여준다. 보안업계에서는 이처럼 정상적인 소프트웨어 공급·배포 경로를 악용하는 수법을 공급망 공격으로 분류한다.]]></description>
+			<description><![CDATA[<h3>옵티마이즐리 서비스 취약점 악용… 암호화폐 주소 변조·결제정보 탈취 시도</h3><div>
+
+<div>
+
+<figure>
+<img alt="image" src="https://cdn.news2day.co.kr/data2/content/image/2026/11/18/.cache/512/20261118500073.jpg"/>
+<figcaption>
+CNN 조형물 앞에서 인터뷰하는 남성. 사진=AP 연합뉴스
+</figcaption>
+</figure>
+
+<p>[뉴스투데이=강남욱 기자] 줌(Zoom), CNN, BBC, HSBC 등 세계적인 기업과 기관 178곳의 관련 웹사이트에서 악성코드가 포함된 스크립트가 발견됐다. 미국 소프트웨어 기업 옵티마이즐리(Optimizely)의 서비스 취약점을 악용한 공격으로, 암호화폐 지갑 주소 변조와 결제카드 정보 탈취, 아이폰 보안 취약점 공격까지 시도된 것으로 나타났다.</p>
+
+<p>미국 시사주간지 뉴스위크는 17일(현지시각) 보안업체 리포트 URI(Report URI)의 조사 결과를 토대로 악성 스크립트가 발견된 글로벌 기업·기관 전체 명단을 공개했다. 명단에는 세일즈포스, 깃랩, 이케아, 에퀴팩스, 에어프랑스-KLM, 폭스뉴스를 비롯해 리바이스 코리아(Levi's Korea)도 포함됐다.</p>
+
+<p>리포트 URI는 옵티마이즐리의 자바스크립트 파일 1611개를 조사해 178개 조직에 속한 188개 파일에서 악성코드를 확인했다. 뉴스위크가 공개한 명단은 금융, 정보기술, 유통, 항공, 언론 등 20개 업종에 걸쳐 있다. 국가별 웹사이트와 계열사 등을 별도로 기재한 원문 명단을 합산하면 186개 항목이다.</p>
+
+<p>이번 공격은 16일 옵티마이즐리의 웹사이트 실험 플랫폼을 통해 이뤄졌다. 공격자는 정상적인 소프트웨어 배포 경로를 이용해 여러 기업의 웹사이트에 악성코드를 전달했다.</p>
+
+<p>리포트 URI 설립자 스콧 헬름은 뉴스위크에 악성코드가 로드됐을 가능성이 있는 페이지 방문 횟수를 약 3400만 회로 추정한다고 밝혔다. 추정 범위는 600만~1억5000만 회다. 다만 이는 실제 피해자 수가 아닌 페이지 방문 횟수로, 개인정보나 금전적 피해가 발생한 규모는 확인되지 않았다. 또한 명단에 포함됐다는 사실이 해당 기업의 내부 시스템 침해나 고객정보 유출을 의미하지는 않는다.</p>
+
+<p><strong>■ 정상 서버 통해 악성코드 배포</strong></p>
+
+<p>옵티마이즐리는 기업들이 웹사이트의 화면 구성이나 광고 문구 등을 변경하고 이용자 반응을 비교할 수 있도록 지원하는 소프트웨어 업체다. 고객사는 자사 웹사이트에 옵티마이즐리의 자바스크립트를 삽입해 서비스를 이용한다.</p>
+
+<p>옵티마이즐리 측 설명에 따르면 공격자는 웹사이트 실험 서비스인 'Experimentation'의 취약점을 악용해 일부 고객 프로젝트에 악성 자바스크립트를 삽입했다. 악성코드는 옵티마이즐리의 정상적인 콘텐츠 전송 서버인 'cdn.optimizely.com'을 통해 고객 웹사이트로 전달됐다. 해당 서버에는 정상적인 보안 인증서가 적용돼 있었으며, 악성코드도 고객 웹사이트가 기존에 신뢰하던 경로를 통해 배포됐다.</p>
+
+<p>리포트 URI는 이번 사건이 콘텐츠 전송 네트워크(CDN)의 캐시를 오염시킨 공격은 아니라고 분석했다. 블리핑컴퓨터도 웹사이트 분석 서비스 urlscan.io의 기록을 조사해 여러 기업 웹사이트에서 악성 스크립트가 로드됐거나 로드가 시도된 사실을 확인했다.</p>
+
+<figure>
+<img alt="image" src="https://cdn.news2day.co.kr/data2/content/image/2026/11/18/.cache/512/20261118500079.jpg"/>
+<figcaption>
+HSBC 빌딩. 사진=연합뉴스
+</figcaption>
+</figure>
+
+<p><strong>■ 암호화폐·결제정보 노린 악성코드</strong></p>
+
+<p>보안 연구진이 분석한 악성코드에는 여러 종류의 정보 탈취 기능이 포함돼 있었다. 우선 웹페이지에 표시되거나 복사된 암호화폐 지갑 주소를 공격자가 관리하는 주소로 바꾸는 기능이 발견됐다. 이용자가 변경 사실을 알아채지 못하고 송금하면 암호화폐가 공격자에게 전달될 수 있는 방식이다.</p>
+
+<p>리포트 URI는 16일 약 9시간 동안 공격자가 사용하는 지갑에 약 7040달러의 암호화폐가 유입된 것으로 집계했다. 다만 일부 지갑은 이번 사건 이전부터 사용된 것으로 확인돼 해당 금액 전체를 이번 공격으로 탈취한 피해액으로 단정할 수는 없다.</p>
+
+<p>결제카드 정보를 수집하는 기능도 확인됐다. 악성코드는 이용자가 웹사이트에 입력한 카드번호와 유효기간, 보안코드(CVV)를 수집하도록 설계됐다. 세 가지 정보가 모두 확인된 경우 공격자가 관리하는 외부 서버로 전송하는 방식이다. 다만 결제대행업체가 별도로 제공하는 입력창(iframe)은 공격 대상에 포함되지 않았다. 웹사이트 자체의 입력란에 카드정보를 입력한 경우가 주요 표적이었다.</p>
+
+<p>악성코드에는 웹페이지 화면을 캡처하고 브라우저 쿠키 정보를 수집하는 기능도 있었다. 다만 자바스크립트의 접근을 제한하는 'HttpOnly' 속성이 설정된 쿠키는 수집 대상에서 제외됐다.</p>
+
+<p>아이폰 이용자를 겨냥한 공격 코드도 발견됐다. 보안 연구진에 따르면 공격자는 iOS 13~17 버전에는 '코루나(Coruna)', iOS 18 계열에는 '다크소드(DarkSword)'라는 공격 도구 모음(익스플로잇 킷)을 전달하려 했다. 익스플로잇 킷은 소프트웨어의 여러 보안 취약점을 이용해 기기를 공격하도록 구성된 도구 모음이다. 다만 이번 사건에서 실제 아이폰이 침해됐는지는 확인되지 않았다.</p>
+
+<p><strong>■ 옵티마이즐리 취약점 수정… 피해 조사 계속</strong></p>
+
+<p>옵티마이즐리는 이번 보안 사고를 인정하고 취약점을 수정했다고 밝혔다. 회사는 공격자가 악성코드를 삽입하는 데 이용한 경로를 차단하고, 영향을 받은 고객 프로젝트에서 악성코드를 제거했다. 관련 계정의 활성 세션을 종료하고 인증 토큰을 폐기했으며, 계정 접근 권한을 재설정하는 등 추가 보안 조치도 시행했다. 또한 영향을 받은 고객들에게 사고 사실을 통보했으며, 현재 조사를 계속하고 있다고 설명했다.</p>
+
+<p>세일즈포스는 예방 차원에서 옵티마이즐리 스크립트를 비활성화하고 조사에 착수했다. 에퀴팩스 역시 자사 시스템이나 고객 데이터가 영향을 받았다는 증거를 발견하지 못했다고 밝히고 옵티마이즐리 서비스 사용을 중단했다.</p>
+
+<p>보안업계는 이번 사건을 외부 소프트웨어의 취약점을 이용해 여러 고객사 웹사이트에 악성코드를 배포한 공급망 공격으로 보고 있다.</p>
+
+<p><strong>■ 악성 스크립트 발견 글로벌 기업·기관 명단</strong></p>
+
+<p>아래는 뉴스위크가 공개한 악성 스크립트 발견 기업·기관 명단이다. 원문에 수록된 20개 업종을 유사 분야별로 묶어 10개 분야로 재분류했다. 국가별 웹사이트와 계열사, 중복 브랜드 등이 별도 항목으로 포함돼 총 186개 항목으로 구성됐다. 이는 186개 기업이 각각 해킹당했다는 의미는 아니다.</p>
+
+<p><strong>▲ 금융·은행·보험 (38개)</strong></p>
+<p>페이첵스(Paychex)</p>
+<p>HSBC 미국(HSBC US)</p>
+<p>에퀴팩스(Equifax)</p>
+<p>스마트애셋(SmartAsset)</p>
+<p>HSBC 홍콩(HSBC Hong Kong)</p>
+<p>ABN암로(ABN AMRO)</p>
+<p>택스액트(TaxAct)</p>
+<p>HSBC 멕시코(HSBC Mexico)</p>
+<p>HSBC 싱가포르(HSBC Singapore)</p>
+<p>넷크레딧(NetCredit)</p>
+<p>어소시에이티드 뱅크(Associated Bank)</p>
+<p>S은행(S-Pankki)</p>
+<p>에퀴팩스 캐나다(Equifax Canada)</p>
+<p>에퀴팩스 영국(Equifax UK)</p>
+<p>더 워크 넘버(The Work Number)</p>
+<p>펀딩서클(Funding Circle)</p>
+<p>HSBC 호주(HSBC Australia)</p>
+<p>캐시넷USA(CashNetUSA)</p>
+<p>온덱(OnDeck)</p>
+<p>ICS 카드(ICS Cards)</p>
+<p>HSBC 아랍에미리트(HSBC UAE)</p>
+<p>HSBC 말레이시아(HSBC Malaysia)</p>
+<p>레스트 슈퍼(Rest Super)</p>
+<p>HSBC 대만(HSBC Taiwan)</p>
+<p>HSBC 베트남(HSBC Vietnam)</p>
+<p>HSBC 이집트(HSBC Egypt)</p>
+<p>HSBC 필리핀(HSBC Philippines)</p>
+<p>스마트어드바이저 매치(SmartAdvisor Match)</p>
+<p>컴페어클럽(Compare Club)</p>
+<p>ABN암로 리스(ABN AMRO Lease)</p>
+<p>에너지 스카우트(Energy Scout)</p>
+<p>항셍 인베스트먼트(Hang Seng Investment)</p>
+<p>애슈리온·유브레이크아이픽스(Asurion/uBreakiFix)</p>
+<p>뮤추얼 오브 오마하(Mutual of Omaha)</p>
+<p>애드미럴(Admiral)</p>
+<p>시큐리언 파이낸셜(Securian Financial)</p>
+<p>이렌터플랜(eRenterPlan)</p>
+<p>덴마크 실업보험기금(AKA)</p>
+
+<p><strong>▲ 정보기술·소프트웨어 (23개)</strong></p>
+<p>줌(Zoom)</p>
+<p>비틀리(Bitly)</p>
+<p>세일즈포스(Salesforce)</p>
+<p>깃랩(GitLab)</p>
+<p>옵티마이즐리(Optimizely)</p>
+<p>믹스패널(Mixpanel)</p>
+<p>타입폼(Typeform)</p>
+<p>인모션 호스팅(InMotion Hosting)</p>
+<p>와사비(Wasabi)</p>
+<p>퍼포스·젠드·퍼핏(Perforce/Zend/Puppet)</p>
+<p>태블로(Tableau)</p>
+<p>후트스위트(Hootsuite)</p>
+<p>스마트시트(Smartsheet)</p>
+<p>뮬소프트(MuleSoft)</p>
+<p>탈레스·임퍼바(Thales/Imperva)</p>
+<p>트라이센티스(Tricentis)</p>
+<p>웹 호스팅 허브(Web Hosting Hub)</p>
+<p>QR코드 제너레이터(QR Code Generator)</p>
+<p>서비스채널(ServiceChannel)</p>
+<p>브랜드폴더(Brandfolder)</p>
+<p>인텔렉스(Intelex)</p>
+<p>엔베러스(Enverus)</p>
+<p>어크루언트(Accruent)</p>
+
+<p><strong>▲ 유통·패션·소비재 (20개)</strong></p>
+<p>이케아(IKEA)</p>
+<p>에이소스(ASOS)</p>
+<p>마텔(Mattel)</p>
+<p>아메리칸 이글(American Eagle)</p>
+<p>쉴스(Scheels)</p>
+<p>아리아트(Ariat)</p>
+<p>아메리칸 걸(American Girl)</p>
+<p>스택소셜(StackSocial)</p>
+<p>크록스 인도(Crocs India)</p>
+<p>리바이스 일본(Levi's Japan)</p>
+<p>토드 스나이더(Todd Snyder)</p>
+<p>리바이스 인도네시아(Levi's Indonesia)</p>
+<p>저스트 러셀(Just Russel)</p>
+<p>롤로이 러그스(Loloi Rugs)</p>
+<p>리바이스 호주(Levi's Australia)</p>
+<p>리바이스 말레이시아(Levi's Malaysia)</p>
+<p>리바이스 필리핀(Levi's Philippines)</p>
+<p>리바이스 싱가포르(Levi's Singapore)</p>
+<p>리바이스 코리아(Levi's Korea)</p>
+<p>리바이스 뉴질랜드(Levi's New Zealand)</p>
+
+<p><strong>▲ 언론·방송·스트리밍·엔터테인먼트 (22개)</strong></p>
+<p>CNN(CNN)</p>
+<p>BBC(BBC)</p>
+<p>폭스뉴스(Fox News)</p>
+<p>미국 공영라디오 NPR(NPR)</p>
+<p>CTV뉴스(CTV News)</p>
+<p>폭스스포츠(Fox Sports)</p>
+<p>BNN블룸버그·CP24(BNN Bloomberg/CP24)</p>
+<p>TSN(TSN)</p>
+<p>톱기어(Top Gear)</p>
+<p>BBC어스(BBC Earth)</p>
+<p>피콕(Peacock)</p>
+<p>던전 앤 드래곤 비욘드(D&amp;D Beyond)</p>
+<p>위저즈 오브 더 코스트(Wizards of the Coast)</p>
+<p>나우TV(NOW TV)</p>
+<p>자투(Zattoo)</p>
+<p>크레이브(Crave)</p>
+<p>스타즈(Starz)</p>
+<p>스카이쇼타임(SkyShowtime)</p>
+<p>브라보(Bravo)</p>
+<p>씨월드(SeaWorld)</p>
+<p>와우·스카이 도이칠란트(WOW, Sky Deutschland)</p>
+<p>나우 이탈리아(NOW Italia)</p>
+
+<p><strong>▲ 항공·여행·물류 (12개)</strong></p>
+<p>알래스카항공·하와이안항공(Alaska Airlines/Hawaiian Airlines)</p>
+<p>트랜스아비아(Transavia)</p>
+<p>에어프랑스-KLM(Air France-KLM)</p>
+<p>KLM 네덜란드(KLM Netherlands)</p>
+<p>트라팔가(Trafalgar)</p>
+<p>콘티키(Contiki)</p>
+<p>인사이트 베케이션스(Insight Vacations)</p>
+<p>더 트래블 코퍼레이션(The Travel Corporation)</p>
+<p>코스트세이버(Costsaver)</p>
+<p>쉽스테이션·쉽엔진(ShipStation/ShipEngine)</p>
+<p>스탬프스닷컴(Stamps.com)</p>
+<p>쉽엔진(ShipEngine)</p>
+
+<p><strong>▲ 의료·제약·산업·제조 (16개)</strong></p>
+<p>인비절라인(Invisalign)</p>
+<p>다케다(Takeda)</p>
+<p>코베트러스(Covetrus)</p>
+<p>아이테로(iTero)</p>
+<p>코베트러스 파머시(Covetrus Pharmacy)</p>
+<p>마이코베트러스(myCovetrus)</p>
+<p>레이세이프(RaySafe)</p>
+<p>다케다 온콜로지(Takeda Oncology)</p>
+<p>플루크(Fluke)</p>
+<p>이메인트(eMaint)</p>
+<p>플루크 네트웍스(Fluke Networks)</p>
+<p>바일란트 독일(Vaillant Germany)</p>
+<p>플루크 프로세스 인스트루먼츠(Fluke Process Instruments)</p>
+<p>플루크 바이오메디컬(Fluke Biomedical)</p>
+<p>란다우어(Landauer)</p>
+<p>바일란트 스페인(Vaillant Spain)</p>
+
+<p><strong>▲ 통신·스마트홈·자동차 (15개)</strong></p>
+<p>버진미디어(Virgin Media)</p>
+<p>버진미디어 O2(Virgin Media O2)</p>
+<p>보다폰 호주(Vodafone Australia)</p>
+<p>O2(O2)</p>
+<p>TPG텔레콤(TPG Telecom)</p>
+<p>민트모바일(Mint Mobile)</p>
+<p>톡톡(TalkTalk)</p>
+<p>레지디오(Resideo)</p>
+<p>하니웰 홈(Honeywell Home)</p>
+<p>마이큐(myQ)</p>
+<p>체임벌린(Chamberlain)</p>
+<p>퍼스트 얼럿(First Alert)</p>
+<p>루시드 모터스(Lucid Motors)</p>
+<p>오브라이언 글래스(O'Brien Glass)</p>
+<p>쉐보레 판매점 네트워크·빌 랩 등(Chevrolet dealer network, including Bill Rapp)</p>
+
+<p><strong>▲ 암호화폐·투자거래·온라인 도박 (10개)</strong></p>
+<p>렛저(Ledger)</p>
+<p>IG(IG)</p>
+<p>오안다·코인패스(OANDA/Coinpass)</p>
+<p>인터랙티브 인베스터(Interactive Investor)</p>
+<p>TMS브로커스(TMS Brokers)</p>
+<p>베타셰어스(Betashares)</p>
+<p>벳손(Betsson)</p>
+<p>포커스타즈(PokerStars)</p>
+<p>톰볼라(Tombola)</p>
+<p>벳프레드(Betfred)</p>
+
+<p><strong>▲ 부동산·식품·외식·전문 서비스 (15개)</strong></p>
+<p>빌디움·매니지빌딩(Buildium (managebuilding.com))</p>
+<p>로프트 리빙 아파트(Loft Living apartments)</p>
+<p>빌디움(Buildium)</p>
+<p>하이어어헬퍼(HireAHelper)</p>
+<p>플리테닷노 및 관련 비교 사이트(Flytte.no and sister comparison sites)</p>
+<p>무빙플레이스(MovingPlace)</p>
+<p>음식 주문 사이트·오더온라인(Restaurant ordering sites (order.online))</p>
+<p>하이네켄(Heineken)</p>
+<p>홈셰프(Home Chef)</p>
+<p>스타벅스 캐나다(Starbucks Canada)</p>
+<p>시나본(Cinnabon)</p>
+<p>프레시필즈(Freshfields)</p>
+<p>콘레즈닉(CohnReznick)</p>
+<p>베어링가(Baringa)</p>
+<p>크로 메트릭스(Cro Metrics)</p>
+
+<p><strong>▲ 비영리·시민단체·교육 (7개)</strong></p>
+<p>체인지닷오알지(Change.org)</p>
+<p>미국 동물학대방지협회(ASPCA)</p>
+<p>유니세프 미국위원회(UNICEF USA)</p>
+<p>도너스추즈(DonorsChoose)</p>
+<p>월든대학교(Walden University)</p>
+<p>퍼레고(Perlego)</p>
+<p>체임벌린대학교(Chamberlain University)</p>
+
+<input>
+</div>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>해킹 조직 n0n, 비자·마스터카드·JP모건 등 글로벌 기업 무더기 공격 주장</title>
