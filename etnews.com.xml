@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 18 Nov 2026 08:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 10:30:38 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>&apos;공공입찰 검색부터 경쟁사 수주 분석까지&apos; 씨에스리, 비드버드 출시</title>
+			<link>https://www.etnews.com/20261118000087</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000087</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 09:47:16 +0900</pubDate>
+			<description><![CDATA[씨에스리(대표 이춘식)가 공공입찰 정보 검색과 입찰 조건 분석, 경쟁사 수주 현황을 파악할 수 있는 웹 기반 서비스 '비드버드(BidBird)'를 출시한다고 18일 밝혔다. 비드버드는 공공사업에 참여하는 기업의 사업기회 발굴과 입찰 준비를 지원하는 서비스다. 여러 기관에 분산된 사업공고를 통합 검색하고, 인공지능(AI)을 활용해 입찰공고와 제안요청서(RFP)를 분석한다. 경쟁기업의 입찰·낙찰 이력 분석과 관심 사업 알림, 입찰 일정 관리 기능도...]]></description>
+		</item>
+		<item>
+			<title>공공SW 과심위 의무화 구체화…20억원 이상 개발사업 대상</title>
+			<link>https://www.etnews.com/20261118000065</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000065</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 09:35:37 +0900</pubDate>
+			<description><![CDATA[지난 7월 국회를 통과한 소프트웨어(SW)진흥법 개정안의 과심위 의무화 기준이 구체화됐다. 앞으로 공공 SW 개발사업 중 20억원 이상 사업은 분석·설계 단계가 끝나면 과업심의위원회(이하 과심위)를 의무적으로 열어야 한다. 18일 과학기술정보통신부는 이 같은 내용을 담은 '소프트웨어 진흥법 시행령 일부개정령안'을 입법예고했다. 개정안은 12월 28일까지 의견을 수렴하며, 내년 2월 12일 시행을 목표로 한다. 가장 큰 변화는 과심위 의무 개최...]]></description>
+		</item>
+		<item>
+			<title>위즈코어 &apos;캐드 파서&apos;, 수십 년 쌓인 도면을 AI 설계 자산으로 바꾼다</title>
+			<link>https://www.etnews.com/20261118000053</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000053</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 09:28:11 +0900</pubDate>
+			<description><![CDATA[설계·제조 인공지능 전환(AX) 전문기업 위즈코어(대표 박승훈)는 2020년부터 독자 개발해 온 AI 도면 분석·해석 기술 '캐드 파서(CAD Parser)'를 앞세워 기업의 설계 데이터 자산화와 산업별 맞춤형 인공지능(AI) 솔루션 사업을 본격 확대한다고 18일 밝혔다. 기업이 수십 년간 축적한 도면에는 제품의 형상과 규격, 부품 구성 등 핵심 엔지니어링 노하우가 담겨 있다. 그러나 종이 도면이나 스캔 이미지, PDF 형태로 보관된 자료는 필...]]></description>
+		</item>
+		<item>
+			<title>&apos;곡면 유리로 개방감 UP&apos; 대원씨티에스, NZXT 케이스 &apos;H5 ·H7 시리즈&apos; 출시</title>
+			<link>https://www.etnews.com/20261118000046</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000046</guid>
+			<author>조호현</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 18 Nov 2026 09:27:02 +0900</pubDate>
+			<description><![CDATA[대원씨티에스(대표 김보경·이상호·하성원)는 곡면 유리 적용으로 개방감을 강조한 NZXT PC 케이스 'H5 시리즈'와 'H7 시리즈'를 출시한다고 18일 밝혔다. 유리가 이음매 없이 이어져 시각적 디자인을 강조했으며, 두 시리즈 모두 케이블 연결 부위가 메인보드 후면에 위치한 '백커넥트(Back-Connect)' ATX 메인보드를 지원해 내부를 깔끔하게 구성할 수 있다고 설명했다. 'H5 시리즈'는 47ℓ 부피 컴팩트 미들 타워 케이스다. 최대...]]></description>
+		</item>
 		<item>
 			<title>PHP 이어 &apos;자바&apos;서도 치명적 취약점…공공·금융·기업 보안 비상</title>
 			<link>https://www.etnews.com/20261118000005</link>
@@ -58,41 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 17 Nov 2026 23:41:15 +0900</pubDate>
 			<description><![CDATA[SAS가 기업 업무 전반에 인공지능(AI) 에이전트 도입이 확산되며 책임 소재와 투자 성과, 의사결정 신뢰성이 핵심 과제로 부상할 것으로 전망했다. AI가 단순 업무 지원을 넘어 스스로 판단하고 실행하는 단계로 점차 발전하며 기업의 관리·감독 체계와 경영 전략에도 변화가 있을 것이라고 예상했다. SAS는 17일 이같은 내용을 담은 '2027년 AI 산업 주요 전망' 11가지를 제시했다. 'AI가 결과로 평가받는 해'가 될 것이며 지난 몇 년간...]]></description>
-		</item>
-		<item>
-			<title>서울시, 외국인 채용박람회 개최…인재 취업·정착 지원</title>
-			<link>https://www.etnews.com/20261117000456</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000456</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 23:14:46 +0900</pubDate>
-			<description><![CDATA[서울시가 외국인 인재의 국내 취업부터 안정적인 정착까지 지원을 확대한다. 외국인 구직자와 기업 간 채용 연계를 강화하고 글로벌 인재의 서울 정착을 촉진한다는 구상이다. 서울시는 18일 강남구 세텍(SETEC)에서 '2026 서울 외국인 취업·채용박람회'를 개최한다. 지난해에 이어 두 번째 열리는 행사로, 기업 모집 3주 만에 117개 기업이 참여를 신청했다. 외국인 구직자 사전 신청자도 2500명을 넘어섰다. 국내 외국인 유학생은 올해 처음 3...]]></description>
-		</item>
-		<item>
-			<title>[기고] AI 리버스 엔지니어링, 복제인가 혁신인가?</title>
-			<link>https://www.etnews.com/20261117000405</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000405</guid>
-			<category>오피니언</category>
-			<pubDate>Tue, 17 Nov 2026 17:42:32 +0900</pubDate>
-			<description><![CDATA[AI 기반 리버스 엔지니어링이 깃허브에 등장한 이후, 미국 SW 개발자 브랜든 토머스는 빅테크 제국에 충격을 안겼다. 그는 AI 코딩 에이전트 등을 활용해 어도비 포토샵·프리미어, MS 오피스의 주요 기능을 구현하는 오픈소스 SW 패키지 '아트크래프트(ArtCraft)' 시리즈를 만들어 공개했기 때문이다. 국내 개발자 역시 AI로 한글(HWP) 문서 편집기를 역설계한 '탄글 2026'을 시연하며 관련 업계를 긴장시키고 있다. 이제 AI는 웹사이...]]></description>
-		</item>
-		<item>
-			<title>크라우드웍스, 제조 AX 데이터 구축 전략 담은 백서 발간</title>
-			<link>https://www.etnews.com/20261117000402</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000402</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 17:36:33 +0900</pubDate>
-			<description><![CDATA[크라우드웍스는 제조 인공지능(AI) 도입을 위한 데이터 전략 백서 '10년 모은 공장 데이터, AI는 왜 제대로 일하지 못할까'를 발간했다고 17일 밝혔다. 백서에서 제조업 AI 도입 과정의 문제는 데이터 활용 목적과 구축 방식에서 비롯된다고 진단했다. 제조 기업이 생산관리시스템(MES), 전사자원관리(ERP), 설비 센서 등을 통해 축적한 데이터는 생산 이력 관리에 초점이 맞춰져 있어 AI 학습용 데이터로 활용하기 어렵다고 설명했다. 제조 A...]]></description>
-		</item>
-		<item>
-			<title>국가AI전략위, 대전 과학 AI 연구 현장서 R&amp;D 혁신 논의</title>
-			<link>https://www.etnews.com/20261117000400</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261117000400</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 17 Nov 2026 17:35:28 +0900</pubDate>
-			<description><![CDATA[국가인공지능전략위원회가 대전 과학기술 인공지능(AI) 연구·창업 현장을 찾아 국가 연구개발(R&D) 혁신과 AI 산업 생태계 활성화 방안을 논의했다. 하정우 국가AI전략위 부위원장은 17일 대전 국가과학AI연구센터(NAIS)·팁스타운·KAIST 등을 방문해 산·학·연 관계자들과 현장 간담회를 진행했다. NAIS에서는 과학기술 R&D 전 과정에 AI를 접목하는 'AI 네이티브 R&D' 추진 현황을 점검했다. 올해 5월 국가과학기술연구회(NST)에...]]></description>
 		</item>
 	</channel>
 </rss>
