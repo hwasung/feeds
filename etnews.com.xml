@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 18 Nov 2026 17:30:36 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 18:32:11 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[사설] 게임산업, 재도약 전기가 필요하다</title>
+			<link>https://www.etnews.com/20261118000267</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261118000267</guid>
+			<author>논설위원실</author>
+			<category>오피니언</category>
+			<pubDate>Wed, 18 Nov 2026 17:40:00 +0900</pubDate>
+			<description><![CDATA[18일 저녁 대한민국 게임대상 시상식을 시작으로 19일 지스타2026 개막 등 게임산업 대축제가 부산광역시 벡스코와 그 일원에서 펼쳐진다. 1년에 한 번 찾아오는 바닷가 해양도시에서 열리는 게임 축제로 인해 게임 산업인과 이용자 모두의 흥겨운 한마당이 펼쳐진다. 문화체육관광부 장관이 직접 현장을 방문해 게임산업 응원의 메시지도 내놓을 예정이어서 어느 때보다 분위기는 밝다. 하지만 이런 즐거움과 축하에도 불구하고 우리 게임산업 자체는 오랜 시름에...]]></description>
+		</item>
 		<item>
 			<title>[데스크가 만났습니다] 홍정화 다올티에스 대표 “HW·SW·서비스 풀스택…기업 AI 도입, 선택 부담 줄여”</title>
 			<link>https://www.etnews.com/20261118000192</link>
@@ -52,7 +61,7 @@
 			<description><![CDATA[EBS가 '특별 생방송 2027 대학수학능력시험' 4부작 프로그램을 EBS 1TV에서 수능 당일인 19일 오전 8시 35분부터 방송한다. 올해 시험은 2015 개정 교육과정을 기반으로 치르는 마지막 수능이다. 내년부터는 2022 개정 교육과정이 적용되고 대입제도와 수능이 바뀐다. 이번 특별 생방송에서는 올해 시험을 치를 수험생이 대입을 위해 꼭 확인해야 할 내용은 물론, 내년 수능을 준비하는 예비 수험생을 위한 정보까지 모두 담는다. 진행은 E...]]></description>
 		</item>
 		<item>
-			<title>1년 전 챗GPT, 수능 수학 만점…“국가 교육·시험체계 개편해야”</title>
+			<title>“AI가 만점 받는 시험평가 방식 전면개편해야”</title>
 			<link>https://www.etnews.com/20261118000364</link>
 			<guid isPermaLink="true">https://www.etnews.com/20261118000364</guid>
 			<author>박종진</author>
@@ -85,14 +94,6 @@
 			<category>오피니언</category>
 			<pubDate>Wed, 18 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA[미국의 대표적인 버거 브랜드 인앤아웃(In-N-Out)의 메뉴판은 극단적으로 단출하다. 수십 가지 조합을 나열하는 여느 프랜차이즈와 달리 기본 품목은 햄버거, 치즈버거, 더블더블버거 단 세 가지뿐이다. 그럼에도 고객들은 이 단출한 메뉴판 앞에서 망설임 없이 구매를 확정한다. 기본 골격이 명확하기 때문에 '애니멀 스타일'처럼 각자의 기호에 맞춘 세부 조율이 훨씬 수월하기 때문이다. 선택지가 적다고 해서 소비자의 자율성이 제한되는 것은 아니다. 이...]]></description>
-		</item>
-		<item>
-			<title>[기고] &apos;바코드 없는 계산대&apos; 인건비 절감 넘어 운영 효율 높인다</title>
-			<link>https://www.etnews.com/20261118000082</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000082</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 18 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[내년 1월부터 적용되는 최저임금은 시간당 1만700원이다. 올해보다 3.7% 인상된다. 매년 반복되는 최저임금 인상은 소규모 매장 운영자에게 적지 않은 부담이다. 특히 계산과 진열, 고객 응대를 소수 인원이 함께 담당하는 베이커리 업종에서는 운영 효율을 높일 수 있는 대안 마련이 절실하다. 이러한 상황에서 인공지능(AI) 기반 계산 기술이 대안으로 주목받고 있다. 다만 기술의 성능만으로 현장 도입이 결정되는 것은 아니다. 기존 매장 환경과의 호...]]></description>
 		</item>
 	</channel>
 </rss>
