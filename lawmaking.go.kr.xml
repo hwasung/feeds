@@ -4,8 +4,8 @@
 		<title>국민참여입법센터</title>
 		<link>https://opinion.lawmaking.go.kr/</link>
 		<description>국민참여입법센터</description>
-		<lastBuildDate>Wed, 18 Nov 2026 07:02:56 +0900</lastBuildDate>
-		<ttl>1440</ttl>
+		<lastBuildDate>Wed, 18 Nov 2026 18:34:44 +0900</lastBuildDate>
+		<ttl>240</ttl>
 		<item>
 			<title>재정경제부 직제 시행규칙 일부개정령안 입법예고</title>
 			<link>https://opinion.lawmaking.go.kr/gcom/ogLmPp/89558?cptOfiOrgCd=1053000</link>
@@ -75,6 +75,7 @@
 			<title>국방부와 그 소속기관 직제 시행규칙 일부개정령안 입법예고</title>
 			<link>https://opinion.lawmaking.go.kr/gcom/ogLmPp/89498?cptOfiOrgCd=1290000</link>
 			<guid isPermaLink="true">https://opinion.lawmaking.go.kr/gcom/ogLmPp/89498?cptOfiOrgCd=1290000</guid>
+			<author>국방부</author>
 			<category>국방부 입법예고</category>
 			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
@@ -121,12 +122,13 @@
 <br/>
 
 </div>
-<hr/><div><strong>첨부파일</strong><ul>
+<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
 <li><a href="https://opinion.lawmaking.go.kr/file/download/11225604/JV1D7O5NASYXGSD6IVBY">(법령안) 국방부와 그 소속기관 직제 시행규칙 일부개정령(안).hwpx</a></li>
 <li><a href="https://opinion.lawmaking.go.kr/file/download/11225606/94VZH8BFN40YWSVUTYZR">(법령안) 국방부와 그 소속기관 직제 시행규칙 일부개정령(안).pdf</a></li>
 <li><a href="https://opinion.lawmaking.go.kr/file/download/11225674/PS8G6JPFR0ZU1ZYM4CXQ">(규제영향분석서 미첨부 확인서) 국방부와 그 소속기관 직제 시행규칙 일부개정령(안).hwpx</a></li>
 <li><a href="https://opinion.lawmaking.go.kr/file/download/11225650/8YOMIF9KXR8OI3SSID1O">(조문별 제개정 이유서) 국방부와 그 소속기관 직제 시행규칙 일부개정령(안)#2.hwpx</a></li>
 </ul></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>개별소비세법 시행령 일부개정령안 입법예고</title>
@@ -254,6 +256,7 @@
 			<title>국가를 당사자로 하는 계약에 관한 법률 시행령 일부개정령안 입법예고</title>
 			<link>https://opinion.lawmaking.go.kr/gcom/ogLmPp/89416?cptOfiOrgCd=1053000</link>
 			<guid isPermaLink="true">https://opinion.lawmaking.go.kr/gcom/ogLmPp/89416?cptOfiOrgCd=1053000</guid>
+			<author>재정경제부</author>
 			<category>재정경제부 입법예고</category>
 			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
@@ -481,6 +484,7 @@
 			<title>지뢰의 제거 등 지뢰대응활동에 관한 법률 시행령 일부개정령안 입법예고</title>
 			<link>https://opinion.lawmaking.go.kr/gcom/ogLmPp/89302?cptOfiOrgCd=1290000</link>
 			<guid isPermaLink="true">https://opinion.lawmaking.go.kr/gcom/ogLmPp/89302?cptOfiOrgCd=1290000</guid>
+			<author>국방부</author>
 			<category>국방부 입법예고</category>
 			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<div>
