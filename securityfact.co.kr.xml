@@ -4,8 +4,100 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Tue, 17 Nov 2026 15:31:22 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 11:31:40 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>글로벌 금융·IT·유통 등 178개 조직에 악성코드 유포</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8133</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8133</guid>
+			<author>sc.minugi@gmail.com 최미옥 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Wed, 18 Nov 2026 11:09:29 +0900</pubDate>
+			<description><![CDATA[<div>
+<figure>
+<img src="https://securityfact.co.kr/data/tmp/2611/20261118110649_6db4893a.jpg" alt="홍콩에 있는 HSBC 본사. 사진=로이터 연합뉴스.jpg"/>
+<figcaption>홍콩에 있는 HSBC 본사. 사진=로이터 연합뉴스</figcaption>
+</figure>
+</div>
+<br/>
+<div>[시큐리티팩트=최미옥 기자] 글로벌 금융·정보기술(IT)·유통·언론 등 다양한 업종의 178개 조직과 관련된 웹사이트에서 악성코드가 발견됐다. 미국 소프트웨어 기업 옵티마이즐리(Optimizely)의 서비스 취약점을 악용한 공급망 공격으로, HSBC, 줌(Zoom), 이케아, CNN, BBC 등 세계적인 기업과 기관이 영향권에 포함됐다.</div>
+<br/>
+<div>미국 시사주간지 뉴스위크는 17일(현지시각) 보안업체 리포트 URI(Report URI)의 조사 결과를 인용해 악성 스크립트가 발견된 기업·기관 전체 명단을 공개했다. 명단에는 세일즈포스, 깃랩, 이케아, 에퀴팩스, 에어프랑스-KLM, 폭스뉴스와 리바이스 코리아(Levi's Korea) 등이 포함됐다.</div>
+<br/>
+<div>리포트 URI는 옵티마이즐리의 자바스크립트 파일 1611개를 조사해 178개 조직에 속한 188개 파일에서 악성코드를 확인했다. 이번 공격은 16일 옵티마이즐리의 웹사이트 실험 서비스인 'Experimentation'의 취약점을 통해 이뤄졌다. 공격자는 고객 프로젝트에 악성코드를 삽입한 뒤 정상적인 콘텐츠 전송 서버(cdn.optimizely.com)를 통해 배포했다.</div>
+<br/>
+<div>악성코드에는 암호화폐 지갑 주소를 공격자 주소로 바꾸고, 웹사이트에 입력된 결제카드 번호와 유효기간, 보안코드(CVV)를 수집하는 기능이 포함됐다. 브라우저 쿠키와 웹페이지 화면을 수집하거나 보안 취약점이 남아 있는 아이폰·아이패드를 공격하려는 시도도 확인됐다.</div>
+<br/>
+<div>리포트 URI 설립자 스콧 헬름은 악성코드가 로드됐을 가능성이 있는 페이지 방문 횟수를 약 3400만 회로 추정했다. 다만 이는 실제 피해자 수가 아닌 방문 횟수로, 개인정보 유출이나 금전적 피해 규모는 확인되지 않았다.</div>
+<br/>
+<div>옵티마이즐리는 취약점을 수정하고 고객 프로젝트에 삽입된 악성코드를 제거했다고 밝혔다. 관련 인증 토큰 폐기와 계정 접근 권한 재설정 등 후속 조치도 시행했다. 세일즈포스는 해당 스크립트를 비활성화했으며, 에퀴팩스는 자사 시스템이나 고객 데이터가 영향을 받았다는 증거를 발견하지 못했다고 밝혔다.</div>
+<br/>
+<div>이번 사건은 외부 소프트웨어의 정상적인 배포 경로를 악용한 공급망 공격으로 분류된다. 다만 명단에 포함된 기업의 내부 시스템이 모두 침해됐거나 고객정보가 유출된 것은 아니다.</div>
+<br/>
+<div>다음은 뉴스위크가 17일 공개한 명단을 유사 업종별로 묶어 10개 분야로 재분류한 것이다.</div>
+<br/>
+<div>
+<b>▲ 금융·은행·보험(38개)</b>
+</div>
+<br/>
+<div>페이첵스(Paychex), HSBC 미국(HSBC US), 에퀴팩스(Equifax), 스마트애셋(SmartAsset), HSBC 홍콩(HSBC Hong Kong), ABN암로(ABN AMRO), 택스액트(TaxAct), HSBC 멕시코(HSBC Mexico), HSBC 싱가포르(HSBC Singapore), 넷크레딧(NetCredit), 어소시에이티드 뱅크(Associated Bank), S은행(S-Pankki), 에퀴팩스 캐나다(Equifax Canada), 에퀴팩스 영국(Equifax UK), 더 워크 넘버(The Work Number), 펀딩서클(Funding Circle), HSBC 호주(HSBC Australia), 캐시넷USA(CashNetUSA), 온덱(OnDeck), ICS 카드(ICS Cards), HSBC 아랍에미리트(HSBC UAE), HSBC 말레이시아(HSBC Malaysia), 레스트 슈퍼(Rest Super), HSBC 대만(HSBC Taiwan), HSBC 베트남(HSBC Vietnam), HSBC 이집트(HSBC Egypt), HSBC 필리핀(HSBC Philippines), 스마트어드바이저 매치(SmartAdvisor Match), 컴페어클럽(Compare Club), ABN암로 리스(ABN AMRO Lease), 에너지 스카우트(Energy Scout), 항셍 인베스트먼트(Hang Seng Investment), 애슈리온·유브레이크아이픽스(Asurion/uBreakiFix), 뮤추얼 오브 오마하(Mutual of Omaha), 애드미럴(Admiral), 시큐리언 파이낸셜(Securian Financial), 이렌터플랜(eRenterPlan), 덴마크 실업보험기금(AKA)</div>
+<br/>
+<div>
+<b>▲ 정보기술·소프트웨어(23개)</b>
+</div>
+<br/>
+<div>줌(Zoom), 비틀리(Bitly), 세일즈포스(Salesforce), 깃랩(GitLab), 옵티마이즐리(Optimizely), 믹스패널(Mixpanel), 타입폼(Typeform), 인모션 호스팅(InMotion Hosting), 와사비(Wasabi), 퍼포스·젠드·퍼핏(Perforce/Zend/Puppet), 태블로(Tableau), 후트스위트(Hootsuite), 스마트시트(Smartsheet), 뮬소프트(MuleSoft), 탈레스·임퍼바(Thales/Imperva), 트라이센티스(Tricentis), 웹 호스팅 허브(Web Hosting Hub), QR코드 제너레이터(QR Code Generator), 서비스채널(ServiceChannel), 브랜드폴더(Brandfolder), 인텔렉스(Intelex), 엔베러스(Enverus), 어크루언트(Accruent)</div>
+<br/>
+<div>
+<b>▲ 유통·패션·소비재(20개)</b>
+</div>
+<br/>
+<div>이케아(IKEA), 에이소스(ASOS), 마텔(Mattel), 아메리칸 이글(American Eagle), 쉴스(Scheels), 아리아트(Ariat), 아메리칸 걸(American Girl), 스택소셜(StackSocial), 크록스 인도(Crocs India), 리바이스 일본(Levi's Japan), 토드 스나이더(Todd Snyder), 리바이스 인도네시아(Levi's Indonesia), 저스트 러셀(Just Russel), 롤로이 러그스(Loloi Rugs), 리바이스 호주(Levi's Australia), 리바이스 말레이시아(Levi's Malaysia), 리바이스 필리핀(Levi's Philippines), 리바이스 싱가포르(Levi's Singapore), 리바이스 코리아(Levi's Korea), 리바이스 뉴질랜드(Levi's New Zealand)</div>
+<br/>
+<div>
+<b>▲ 언론·방송·스트리밍·엔터테인먼트(22개)</b>
+</div>
+<br/>
+<div>CNN(CNN), BBC(BBC), 폭스뉴스(Fox News), 미국 공영라디오(NPR), CTV뉴스(CTV News), 폭스스포츠(Fox Sports), BNN블룸버그·CP24(BNN Bloomberg/CP24), TSN(TSN), 톱기어(Top Gear), BBC어스(BBC Earth), 피콕(Peacock), 던전 앤 드래곤 비욘드(D&amp;D Beyond), 위저즈 오브 더 코스트(Wizards of the Coast), 나우TV(NOW TV), 자투(Zattoo), 크레이브(Crave), 스타즈(Starz), 스카이쇼타임(SkyShowtime), 브라보(Bravo), 씨월드(SeaWorld), 와우·스카이 도이칠란트(WOW, Sky Deutschland), 나우 이탈리아(NOW Italia)</div>
+<br/>
+<div>
+<b>▲ 항공·여행·물류(12개)</b>
+</div>
+<br/>
+<div>알래스카항공·하와이안항공(Alaska Airlines/Hawaiian Airlines), 트랜스아비아(Transavia), 에어프랑스-KLM(Air France-KLM), KLM 네덜란드(KLM Netherlands), 트라팔가(Trafalgar), 콘티키(Contiki), 인사이트 베케이션스(Insight Vacations), 더 트래블 코퍼레이션(The Travel Corporation), 코스트세이버(Costsaver), 쉽스테이션·쉽엔진(ShipStation/ShipEngine), 스탬프스닷컴(Stamps.com), 쉽엔진(ShipEngine)</div>
+<br/>
+<div>
+<b>▲ 의료·제약·산업·제조(16개)</b>
+</div>
+<br/>
+<div>인비절라인(Invisalign), 다케다(Takeda), 코베트러스(Covetrus), 아이테로(iTero), 코베트러스 파머시(Covetrus Pharmacy), 마이코베트러스(myCovetrus), 레이세이프(RaySafe), 다케다 온콜로지(Takeda Oncology), 플루크(Fluke), 이메인트(eMaint), 플루크 네트웍스(Fluke Networks), 바일란트 독일(Vaillant Germany), 플루크 프로세스 인스트루먼츠(Fluke Process Instruments), 플루크 바이오메디컬(Fluke Biomedical), 란다우어(Landauer), 바일란트 스페인(Vaillant Spain)</div>
+<br/>
+<div>
+<b>▲ 통신·스마트홈·자동차(15개)</b>
+</div>
+<br/>
+<div>버진미디어(Virgin Media), 버진미디어 O2(Virgin Media O2), 보다폰 호주(Vodafone Australia), O2(O2), TPG텔레콤(TPG Telecom), 민트모바일(Mint Mobile), 톡톡(TalkTalk), 레지디오(Resideo), 하니웰 홈(Honeywell Home), 마이큐(myQ), 체임벌린(Chamberlain), 퍼스트 얼럿(First Alert), 루시드 모터스(Lucid Motors), 오브라이언 글래스(O'Brien Glass), 쉐보레 판매점 네트워크·빌 랩 등(Chevrolet dealer network, including Bill Rapp)</div>
+<br/>
+<div>
+<b>▲ 암호화폐·투자거래·온라인 도박(10개)</b>
+</div>
+<br/>
+<div>렛저(Ledger), IG(IG), 오안다·코인패스(OANDA/Coinpass), 인터랙티브 인베스터(Interactive Investor), TMS브로커스(TMS Brokers), 베타셰어스(Betashares), 벳손(Betsson), 포커스타즈(PokerStars), 톰볼라(Tombola), 벳프레드(Betfred)</div>
+<br/>
+<div>
+<b>▲ 부동산·식품·외식·전문 서비스(15개)</b>
+</div>
+<br/>
+<div>빌디움·매니지빌딩(Buildium (managebuilding.com)), 로프트 리빙 아파트(Loft Living apartments), 빌디움(Buildium), 하이어어헬퍼(HireAHelper), 플리테닷노 및 관련 비교 사이트(Flytte.no and sister comparison sites), 무빙플레이스(MovingPlace), 음식 주문 사이트·오더온라인(Restaurant ordering sites (order.online)), 하이네켄(Heineken), 홈셰프(Home Chef), 스타벅스 캐나다(Starbucks Canada), 시나본(Cinnabon), 프레시필즈(Freshfields), 콘레즈닉(CohnReznick), 베어링가(Baringa), 크로 메트릭스(Cro Metrics)</div>
+<br/>
+<div>
+<b>▲ 비영리·시민단체·교육(7개)</b>
+</div>
+<br/>
+<div>체인지닷오알지(Change.org), 미국 동물학대방지협회(ASPCA), 유니세프 미국위원회(UNICEF USA), 도너스추즈(DonorsChoose), 월든대학교(Walden University), 퍼레고(Perlego), 체임벌린대학교(Chamberlain University)</div>
+<br/>]]></description>
+		</item>
 		<item>
 			<title>우크라이나, 케르치 대교 24시간 만에 연속 타격</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8132</link>
@@ -557,48 +649,6 @@
 <p>고이즈미 방위상은 "기본 방침 책정 후 2년여가 지났지만 변화가 빠른 분야인 만큼 필요한 재검토를 주저 없이 단행하겠다"고 배경을 설명했다. 앞서 그는 지난달 의회에서도 정부가 연내 개정을 추진 중인 안전보장 관련 3대 문서(국가안전보장전략·국가방위전략·방위력정비계획) 논의를 바탕으로 기존 AI 활용 방침을 재검토하겠다는 입장을 밝힌 바 있다.</p>
 <p><br /></p>
 <p>일본 방위성은 구체적인 후속 로드맵도 가동한다. 이달 말 디펜스 AI 비전을 공식 발표한 데 이어 12월 개정 예정인 안보 관련 3대 문서에도 AI 활용 강화 내용을 반영할 계획이다. 아울러 내년 3월에는 항공자위대의 핵심 방공 지휘통제망인 자동경계관제시스템(JADGE)에 AI 기술을 실제로 도입해 운용 효율성과 대응 속도를 끌어올릴 방침이다.</p>
-]]></description>
-		</item>
-		<item>
-			<title>ULA 벌컨, 9개월 만에 발사 재개했지만 실패… 아마존 위성 40기 손실</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8123</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8123</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Mon, 16 Nov 2026 07:10:14 +0900</pubDate>
-			<description><![CDATA[<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;">
-      <img src="https://securityfact.co.kr/data/tmp/2611/20261116070844_d2d5a898.jpg" alt="유나이티드 론치 얼라이언스(ULA)의 '벌컨 로켓'. 출처=ULA.jpg" style="width: 720px; height: 406px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">유나이티드 론치 얼라이언스(ULA)의 '벌컨 로켓'. 출처=ULA</figcaption>
-   </figure>
-</div>
-<p>&nbsp;</p>
-<p>[시큐리티팩트=최미옥 기자] 미국 우주발사 기업 유나이티드 런치 얼라이언스(ULA)가 9개월 만에 발사를 재개한 벌컨 로켓의 임무 실패를 확인했다. 로켓에 실린 아마존의 저궤도 인터넷 위성 40기도 손실됐다.</p>
-<p>
-   <br />
-</p>
-<p>로이터통신은 15일(현지시각) 보잉과 록히드마틴의 합작사 ULA가 플로리다주 케이프커내버럴에서 벌컨을 발사했으나, 이륙 약 10분 만에 이상이 발생했다고 보도했다. ULA는 위성을 목표 궤도에 올리지 못했다고 밝혔다. 사고 원인은 아직 밝혀지지 않았다. 우주 전문매체 스페이스플라이트나우는 이번 사고를 ULA의 첫 완전 임무 실패로 규정했다.</p>
-<p>
-   <br />
-</p>
-<p>벌컨은 지난 2월 12일 미 우주군 임무(USSF-87)에서 고체 로켓 부스터(SRB, 이륙 때 추력을 보태는 보조 로켓)의 노즐 이상을 겪은 뒤 발사를 멈췄다. 위성 전문매체 샛뉴스(SatNews)에 따르면 미 우주군은 이후 국가안보 발사 임무를 스페이스X로 재배정했다.</p>
-<p>
-   <br />
-</p>
-<p>벌컨은 발사 재개 첫 임무에서 실패하면서 군 위성 발사체로서 신뢰 회복이라는 과제를 떠안았다. 다만 이번 사고가 2월 부스터 이상과 관련됐는지는 확인되지 않았다.</p>
-<p>
-   <br />
-</p>
-<p>이번 발사는 아마존이 계약한 벌컨 발사 38회 가운데 첫 번째였다. 아마존은 3236기의 위성으로 저궤도 인터넷망을 구축해 스페이스X의 스타링크와 경쟁할 계획이다. 벌컨 발사가 한동안 재개되지 못하면 위성 배치 일정에도 영향을 줄 수 있다.</p>
-<p>
-   <br />
-</p>
-<p>한국군도 미국 민간 발사체를 이용하고 있다. 군 정찰위성 425사업의 1호기부터 5호기까지 모두 스페이스X의 팰컨9으로 발사됐다. 다만 이번 벌컨 사고가 한국군 위성 발사에 직접 영향을 준다는 근거는 없다.</p>
-<p>
-   <br />
-</p>
-<p>ULA는 사고 원인을 규명한 뒤 다음 발사 일정을 결정할 것으로 보인다.</p>
 ]]></description>
 		</item>
 	</channel>
