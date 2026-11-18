@@ -4,14 +4,57 @@
 		<title>뉴스투데이</title>
 		<link>https://www.news2day.co.kr/list/23</link>
 		<description>뉴스투데이</description>
-		<lastBuildDate>Wed, 18 Nov 2026 14:13:33 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 18:35:25 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>미국 메신저 &apos;킥&apos; 이미지 1억5000만 건 노출… 아동 성착취물 의심 사진도 발견</title>
+			<link>https://www.news2day.co.kr/article/20261118500377</link>
+			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261118500377</guid>
+			<author>이종택 기자</author>
+			<pubDate>Wed, 18 Nov 2026 18:33:00 +0900</pubDate>
+			<description><![CDATA[<h3>프로필 원본·썸네일 합쳐 1억5000만 건, 고유 이미지 약 7500만 건 추정</h3><div>
+
+<div>
+
+<figure>
+<img alt="image" src="https://cdn.news2day.co.kr/data2/content/image/2026/11/18/.cache/512/20261118500376.jpg"/>
+<figcaption>
+출처=Kik
+</figcaption>
+</figure>
+
+<p>[뉴스투데이=이종택 기자] 미국 메신저 애플리케이션 '킥(Kik)'의 이용자 프로필 사진으로 추정되는 이미지 1억5000만 건 이상이 인터넷에 노출된 사실이 확인됐다. 이 가운데 아동 성착취물로 의심되는 이미지 66건도 발견돼 미국 아동 보호기관과 주 법무장관실에 신고됐다.</p>
+
+<p>17일(현지시각) 영국 IT 전문매체 테크레이더에 따르면 보안 연구원 제러마이아 파울러(Jeremiah Fowler)는 비밀번호 보호와 암호화가 적용되지 않은 데이터베이스를 발견했다. 파울러는 전날인 16일 익스프레스VPN을 통해 조사 결과를 공개했다.</p>
+
+<p>해당 데이터베이스에는 2021년부터 2026년까지 업로드된 이미지 1억5014만6000건이 저장돼 있었다. 원본과 축소 이미지인 썸네일을 합친 수치로, 고유 이미지는 약 7500만 건으로 추정됐다. 다만 이미지 수가 실제 이용자 수를 의미하지는 않는다.</p>
+
+<p>이미지 파일은 클라우드 저장소에 보관돼 있었으며, 별도의 인증 절차 없이 인터넷 브라우저로 접근할 수 있었다. 파울러는 데이터베이스 이름과 킥 관련 하위 도메인(서브도메인)에 저장된 이미지 파일을 근거로 해당 자료가 킥과 연관돼 있다고 판단했다.</p>
+
+<p>이번에 확인된 노출 자료는 프로필 사진과 썸네일 등 이미지 파일이다. 이름과 이메일 주소, 전화번호, 계정 비밀번호 등 다른 개인정보나 대화 내용이 함께 노출됐다는 사실은 확인되지 않았다. 다만 얼굴이 드러난 사진은 이미지 검색이나 얼굴 인식 기술을 통해 개인 신원을 파악하는 데 이용될 수 있다.</p>
+
+<p>파울러는 약 2000건의 이미지를 표본 조사하는 과정에서 66건이 아동 성착취물(CSAM)에 해당할 가능성이 있다고 밝혔다. 이와 별도로 미성년자로 보이는 인물의 사진과 노출 또는 성인용 콘텐츠가 포함된 이미지도 다수 발견했다고 설명했다.</p>
+
+<p>그는 아동 성착취물 의심 이미지를 미국 국립실종아동착취센터(NCMEC)와 코네티컷주 법무장관실에 신고했다. 다만 사진만으로 인물의 실제 나이를 확인할 수 없으며, 해당 이미지가 아동 성착취물에 해당하는지도 관계기관의 판단이 필요하다.</p>
+
+<p>2010년 출시된 킥은 미국 디지털 미디어 기업 미디어랩 AI(MediaLab AI)가 운영하는 메신저 서비스다. 킥은 2025년 이용 약관을 변경해 서비스 이용 연령을 18세 이상으로 제한했다.</p>
+
+<p>코네티컷주 법무장관은 지난 9월 킥의 아동 안전과 콘텐츠 관리 문제를 이유로 운영사 미디어랩 AI에 대한 공식 조사에 착수한 바 있다.</p>
+
+<p>파울러는 킥과 운영사에 데이터베이스 노출 사실을 알렸지만, 통보 이메일 대부분이 반송됐고 고객지원 접수 사실만 확인했다고 밝혔다. 데이터베이스는 통보 며칠 뒤 외부 접근이 차단됐다.</p>
+
+<p>그러나 데이터베이스가 공개된 기간과 제3자의 사전 접근 여부는 확인되지 않았다. 저장소를 킥이나 미디어랩 AI가 직접 관리했는지, 외부 업체가 운영했는지도 불분명하다. 테크레이더는 킥 측이 이번 사건에 대한 논평 요청에 응답하지 않았다고 전했다.</p>
+
+<input>
+</div>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>줌·CNN·BBC 등 글로벌 기업·기관 178곳에 악성코드 유포… 전체 리스트 공개</title>
 			<link>https://www.news2day.co.kr/article/20261118500088</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261118500088</guid>
-			<author>강남욱 기자</author>
-			<pubDate>Wed, 18 Nov 2026 10:00:00 +0900</pubDate>
+			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>옵티마이즐리 서비스 취약점 악용… 암호화폐 주소 변조·결제정보 탈취 시도</h3><div>
 
 <div>
@@ -279,8 +322,7 @@ HSBC 빌딩. 사진=연합뉴스
 			<title>해킹 조직 n0n, 비자·마스터카드·JP모건 등 글로벌 기업 무더기 공격 주장</title>
 			<link>https://www.news2day.co.kr/article/20261117500380</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261117500380</guid>
-			<author>이종택 기자</author>
-			<pubDate>Tue, 17 Nov 2026 19:47:00 +0900</pubDate>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>금융·유통·소비재 기업 한꺼번에 지목… 고객정보 공개 협박, 실제 침해 여부 미확인</h3><div>
 
 <div>
@@ -338,8 +380,7 @@ HSBC 빌딩. 사진=연합뉴스
 			<title>[현장] 록히드마틴, 한국과 차세대 기동헬기 공동개발 추진…한미 방산협력 ‘공동 수출’까지 협력</title>
 			<link>https://www.news2day.co.kr/article/20261117500353</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261117500353</guid>
-			<author>김한경 안보전문기자</author>
-			<pubDate>Tue, 17 Nov 2026 18:14:00 +0900</pubDate>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>미국 건국 250주년 기념행사 ‘Freedom 250’ 개최…X2 기술 적용한 고속 회전익 기술 실증기 최초 공개</h3><div>
 
 <div>
@@ -404,8 +445,7 @@ X2 기술을 적용한 고속 회전익 기술 실증기 S-97 레이더(RAIDER)�
 			<title>국내개발 유도무기 MRO 체계 강화…LIG D&amp;A, 공군과 민·군 정비지원 협력</title>
 			<link>https://www.news2day.co.kr/article/20261117500315</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261117500315</guid>
-			<author>김한경 안보전문기자</author>
-			<pubDate>Tue, 17 Nov 2026 17:24:00 +0900</pubDate>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>정비지원센터 조성·운영 등 우선 협력…군 운용 경험과 업체의 전문 기술력 연계해 효율성·안전성 강화</h3><div>
 
 <div>
@@ -442,8 +482,7 @@ X2 기술을 적용한 고속 회전익 기술 실증기 S-97 레이더(RAIDER)�
 			<title>[이기식 칼럼] 사관학교 통합, 민간자문특별위원회는 무엇을 자문하는가</title>
 			<link>https://www.news2day.co.kr/article/20261117500162</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261117500162</guid>
-			<author>김한경 안보전문기자</author>
-			<pubDate>Tue, 17 Nov 2026 13:14:00 +0900</pubDate>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>생도 설문·전문가 검토 전 기본계획 수정 추진…통합 방향 정하고 의견 수렴하는 것인지 의문</h3><div>
 
 <div>
@@ -518,8 +557,7 @@ X2 기술을 적용한 고속 회전익 기술 실증기 S-97 레이더(RAIDER)�
 			<title>유용원 의원·한미우호협회, 오는 19일 전작권 전환 준비 점검하는 ‘한미동맹 세미나’ 개최</title>
 			<link>https://www.news2day.co.kr/article/20261117500118</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261117500118</guid>
-			<author>김한경 안보전문기자</author>
-			<pubDate>Tue, 17 Nov 2026 10:24:00 +0900</pubDate>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>고려대 이신화 교수 등 전문가 5명 발제…북핵 고도화 속 한국군 연합방위 역량 검증이 관건</h3><div>
 
 <div>
@@ -560,8 +598,7 @@ X2 기술을 적용한 고속 회전익 기술 실증기 S-97 레이더(RAIDER)�
 			<title>노스롭그루먼, 록히드마틴서 16억 달러 수주… PAC-3 로켓모터 증산</title>
 			<link>https://www.news2day.co.kr/article/20261117500018</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261117500018</guid>
-			<author>강남욱 기자</author>
-			<pubDate>Tue, 17 Nov 2026 08:28:00 +0900</pubDate>
+			<pubDate>Tue, 17 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>고체 로켓모터·점화 안전장치 다년 공급…미국의 요격미사일 생산능력 확대 뒷받침</h3><div>
 
 <div>
@@ -616,8 +653,7 @@ X2 기술을 적용한 고속 회전익 기술 실증기 S-97 레이더(RAIDER)�
 			<title>양자컴퓨터發 암호 위협 대비…국가기밀·기반시설 암호체계 전환 2031년으로 앞당겨</title>
 			<link>https://www.news2day.co.kr/article/20261116500202</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261116500202</guid>
-			<author>김한경 안보전문기자</author>
-			<pubDate>Mon, 16 Nov 2026 13:23:00 +0900</pubDate>
+			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>국정원, 국가·공공기관 대상으로 ‘암호 안전성 기준’과 ‘양자내성암호 전환 가이드북’ 초안 공개</h3><div>
 
 <div>
@@ -660,8 +696,7 @@ X2 기술을 적용한 고속 회전익 기술 실증기 S-97 레이더(RAIDER)�
 			<title>미 항공관제 장애에 L3해리스 조사… 500억 달러 현대화 사업 새 국면</title>
 			<link>https://www.news2day.co.kr/article/20261116500050</link>
 			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261116500050</guid>
-			<author>강남욱 기자</author>
-			<pubDate>Mon, 16 Nov 2026 08:50:00 +0900</pubDate>
+			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<h3>더피 장관, 추가 예산 300억 달러서 500억 달러로 상향 요구… RTX·레이도스·탈레스 수혜 가능성</h3><div>
 
 <div>
@@ -735,56 +770,6 @@ L3해리스의 FAA 통신 인프라. 출처=L3해리스
 
 <hr/>
 <p>※ 이 기사는 FAA 등 공개된 정부 자료와 해외 주요 외신 보도를 바탕으로 작성한 정보성 기사입니다. 특정 종목이나 금융상품의 매수·매도를 권유하는 내용이 아니며, 투자 판단과 그에 따른 책임은 전적으로 투자자 본인에게 있습니다. 주식 등 금융상품 투자에는 원금 손실 위험이 따릅니다.</p>
-
-<input>
-</div>
-</div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>보잉·록히드 합작 ULA 로켓 발사 실패… 아마존 위성 40기 유실</title>
-			<link>https://www.news2day.co.kr/article/20261116500007</link>
-			<guid isPermaLink="true">https://www.news2day.co.kr/article/20261116500007</guid>
-			<author>이종택 기자</author>
-			<pubDate>Mon, 16 Nov 2026 06:03:00 +0900</pubDate>
-			<description><![CDATA[<h3>벌컨 발사 10분 만에 이상 발생… 창사 20년 만에 첫 임무 차질</h3><div>
-
-<div>
-
-<figure>
-<img alt="image" src="https://cdn.news2day.co.kr/data2/content/image/2026/11/16/.cache/512/20261116500006.jpg"/>
-<figcaption>
-2026년 2월 12일 미국 우주군이 촬영한 벌컨 로켓 발사 장면. 출처=U.S. Space Force/Samuel Becker
-</figcaption>
-</figure>
-
-<p>[뉴스투데이=이종택 기자] 미국 보잉과 록히드마틴의 합작 우주기업 유나이티드 론치 얼라이언스(ULA)가 로켓 발사에 실패해 아마존의 인터넷 통신위성 40기를 잃었다. 2006년 설립된 ULA가 20년 만에 처음 겪은 완전한 임무 실패다. 스페이스X의 스타링크를 추격하고 있는 아마존의 저궤도 위성 인터넷망 구축 일정에도 부담이 커졌다.</p>
-
-<p>로이터통신은 15일(현지시각) 미국 플로리다주 케이프커내버럴에서 발사된 ULA의 벌컨(Vulcan) 로켓이 비행 도중 이상을 일으켜 탑재 위성을 궤도에 올려놓지 못했다고 보도했다. 로켓에는 아마존의 위성 인터넷 사업인 '아마존 레오(Amazon Leo·옛 프로젝트 카이퍼)' 통신위성 40기가 실려 있었으며, 모두 유실됐다.</p>
-
-<p>벌컨은 15일 케이프커내버럴 우주군기지에서 이륙했으나 약 10분 뒤 비행 중 이상이 발생했다. ULA는 위성을 목표 궤도에 투입하지 못했다고 확인했다. 다만 이상이 발생한 구체적인 원인은 아직 공개되지 않았다.</p>
-
-<p>이번 발사는 벌컨이 처음으로 고체로켓 부스터 6개를 장착한 VC6L 구성으로 비행한 임무였다. 저궤도 위성 발사에 맞춘 단축형 센타우르 V 상단 로켓도 처음 사용됐다. 그러나 이 같은 새로운 구성이 사고와 관련됐는지는 확인되지 않았다.</p>
-
-<p>벌컨은 앞서 고체로켓 부스터 노즐 문제로 발사 일정에 차질을 겪었다. 2024년 10월과 올해 2월 비행에서 노즐 이상이 발생했으며, ULA는 이후 설계와 제조 공정을 변경했다. 이번 발사는 2월 12일 이후 약 9개월 만의 복귀 비행이었다.</p>
-
-<p>당초 13일로 예정됐던 발사도 질소 공급 설비의 정전과 통신 오류로 두 차례 연기됐다. 그러나 15일 이뤄진 발사에서 이상이 발생하면서 벌컨의 후속 발사 일정에도 불확실성이 커졌다.</p>
-
-<p>ULA는 보잉과 록히드마틴이 2006년 공동 설립한 우주발사 기업이다. 두 회사의 로켓 발사 사업을 통합해 미국 정부와 군, 상업용 위성 고객에게 발사 서비스를 제공해 왔다.</p>
-
-<p>이번 사고는 ULA 설립 이후 첫 번째 완전한 임무 실패다. 특히 벌컨은 기존 아틀라스 V와 델타 IV를 대체할 차세대 주력 발사체로 개발됐으며, 미국의 국가안보 우주발사 사업에서도 중요한 역할을 맡고 있다. 이에 따라 사고 원인 규명과 후속 발사 일정이 주목된다. 다만 이번 실패가 벌컨의 장기적인 발사 중단으로 이어질지는 아직 알 수 없다. ULA가 구체적인 사고 원인이나 향후 발사 일정 변경 계획을 공개하지 않은 만큼 실제 영향은 추가 발표를 지켜봐야 한다.</p>
-
-<p><strong>■ 아마존, 벌컨 38회 계약 첫 임무부터 실패… 스타링크 추격 부담</strong></p>
-
-<p>아마존에도 이번 사고는 적지 않은 타격이다. 아마존은 스페이스X의 스타링크와 경쟁하기 위해 수천 기의 저궤도 통신위성을 배치하는 '아마존 레오' 사업을 추진하고 있다. 우주 전문매체 스페이스플라이트나우에 따르면 이번 발사 전까지 궤도에 배치된 아마존 레오 위성은 400기에 가까웠다.</p>
-
-<p>아마존은 위성망 구축을 위해 ULA와 벌컨 로켓 38회 발사 계약을 체결했다. 이번 비행은 해당 계약에 따른 첫 번째 임무였지만 위성 40기를 한꺼번에 잃으면서 벌컨을 이용한 위성 배치 계획에 차질이 생겼다.</p>
-
-<p>아마존은 ULA 외에도 블루오리진, 아리안스페이스, 스페이스X 등과 발사 계약을 맺고 있다. 아리안스페이스의 아리안 6와 스페이스X의 팰컨 9은 이미 아마존 레오 위성을 발사했지만, 블루오리진의 뉴 글렌은 아직 위성 발사 임무를 수행하지 못했다.</p>
-
-<p>블루오리진은 올해 5월 28일 뉴 글렌(New Glenn) 로켓의 발사 전 정적 연소시험 과정에서 발사대 폭발 사고를 겪었다. 당시 로켓에는 아마존 위성이 실려 있지 않았지만, 사고로 발사 일정에 차질이 발생했다. 아마존이 뉴 글렌으로 예약한 24회 발사 가운데 첫 임무도 이 사고로 무산됐다.</p>
-
-<p>아마존은 스타링크와의 경쟁을 위해 위성 배치 속도를 높여야 하는 상황이다. 그러나 블루오리진에 이어 ULA에서도 문제가 발생하면서 발사 일정 조정이 새로운 과제로 떠올랐다. 이번 사고로 인한 구체적인 손실 규모와 대체 위성 발사 계획, 상용 서비스 일정에 미칠 영향은 아직 공개되지 않았다.</p>
 
 <input>
 </div>
