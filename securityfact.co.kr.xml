@@ -4,8 +4,53 @@
 		<title>시큐리티팩트</title>
 		<link>https://www.securityfact.co.kr</link>
 		<description>시큐리티팩트</description>
-		<lastBuildDate>Wed, 18 Nov 2026 14:31:15 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2026 15:31:16 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>미 NSA, 기밀 통신망 마비 소동… 연이은 IT 인프라 장애에 &apos;패치 안일함&apos; 논란</title>
+			<link>https://www.securityfact.co.kr/news/view.php?no=8138</link>
+			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8138</guid>
+			<author>sbtm2epdl@gmail.com 강지현 기자</author>
+			<category>시큐리티</category>
+			<category>20171121074254_1125</category>
+			<pubDate>Wed, 18 Nov 2026 15:04:28 +0900</pubDate>
+			<description><![CDATA[<div>
+<figure><img src="https://imgnews.pstatic.net/image/001/2026/11/18/PAP20261118047401009_P4_20261118080516912.jpg?type=w860" alt="미국 국가안보국(NSA) 입구의 표지판
+[AP=연합뉴스. 재판매 및 DB 금지]"/>
+<figcaption>미국 국가안보국(NSA) 입구의 표지판/사진= AP연합뉴스.</figcaption>
+</figure>
+</div>
+<br/>
+<br/>
+<div>[시큐리티팩트=강지현 기자] 미국 국가안보국(NSA)의 핵심 기밀 내부 통신망인 'NSA 넷(NSANet)'이 일시적으로 마비되는 사태가 벌어지면서 미국 전역이 한바탕 홍역을 치렀다. 17일(현지시간) 주요 외신 및 미 보안 전문 매체들의 보도를 종합하면 이번 사태는 지난 10월 발견된 치명적인 보안 취약점의 패치를 적용하는 과정에서 시스템이 재부팅되지 않으면서 촉발된 것으로 드러났다.</div>
+<br/>
+<div>이번 장애는 단순히 내부 메신저가 멈춘 수준이 아니었다. CNN은 이 사안에 정통한 소식통 6명을 인용해 NSA 직원들이 일급 기밀 정보를 주고받는 전용 네트워크가 다운되자 기관 측이 피해 규모를 파악하는 동안 직원들의 출근 시간을 분산하는 시차 출근제를 급히 시행했다고 가장 먼저 전했다.</div>
+<br/>
+<div>현장의 긴박한 분위기는 뉴욕타임스(NYT)의 보도를 통해서도 고스란히 전해졌다. NYT는 메릴랜드주 포트미드 본부의 직원용 긴급 음성 안내 전화를 확인한 결과 주간 근무 상황이 두 번째로 높은 경보 단계인 '코드 옐로(Code Yellow)'로 발령되었으며 비필수 인력은 정오 이전 출근을 자제하라는 지침이 내려졌다고 보도했다. 일부 내부 소식통은 시스템이 이미 수주 전부터 불안정한 상태를 보여왔다고 털어놓기도 했다.</div>
+<br/>
+<div>장애의 직접적인 원인은 보안 전문 매체인 블리핑컴퓨터와 다크 리딩의 분석을 통해 구체화됐다. 매체들은 이번 사태가 지난 10월 발표된 PHP 원격 코드 실행 취약점(PHP2Shell, CVE-2026-109618 등)을 해결하기 위해 보안 패치를 적용한 뒤 서버를 재기동하는 과정에서 빚어진 오류 때문이라고 분석했다. 사이버 방어의 총본산인 NSA가 자사 내부망에 패치를 적용하다가 역풍을 맞은 셈이다.</div>
+<br/>
+<div>사태가 확산되자 백악관과 정보 당국 수장들도 진화에 나섰다. 제이 클레이튼 국가정보국(DNI) 국장은 브리핑을 통해 "지난 10월 발견된 주요 PHP 취약점을 해결하기 위한 소프트웨어 패치 적용 과정에서 일부 핵심 시스템이 예상대로 재시작되지 않아 발생한 일"이라며 다중 백업 통신망이 가동 중이어서 아시아 순방 중인 대통령 보고나 동맹국 정보 공유에는 차질이 없다고 해명했다. 로렌 비스 백악관 공보담당 역시 성명을 통해 외부 사이버 공격의 증거는 없으며 국가적 위기 상황이 아니라고 선을 그었다. 마크 워너 상원 정보위원회 부위원장(민주당)도 시스템을 보호하려는 정당한 보안 조치 과정에서 빚어진 일이라고 강조했다.</div>
+<br/>
+<div>영국 가디언은 아시아 순방 중인 도널드 트럼프 대통령이 이번 장애들에 대해 "인생이 다 그런 것"이라며 대수롭지 않다는 반응을 보였다고 전했다. 반면 보안 전문가들은 정부가 포렌식 검증도 거치지 않은 채 불과 몇 시간 만에 사이버 공격 가능성을 단정 지은 것에 대해 깊은 우려를 표명했다.</div>
+<br/>
+<h3>NSA 넷은 무엇인가?… 일급비밀을 다루는 '정보공동체의 핵심 작업 공간'</h3>
+<div>그렇다면 이번에 마비된 NSANet의 실체는 무엇일까. NSA는 전 세계의 신호정보를 수집·분석하고 미 정부의 암호 체계를 총괄하는 세계 최대 정보기관이다.</div>
+<br/>
+<div>이들이 운용하는 NSANet은 일반 인터넷과 물리적으로 완전히 단절된 일급비밀 및 민감구획정보 전용 통신망이다. 전 세계 감청 기지와 본부를 연결해 방대한 첩보를 분석하고 사이버 작전 도구를 다루는 정보공동체의 핵심 작업 공간 역할을 수행한다. 이 때문에 이번 통신망 마비는 단순한 행정 차질을 넘어 정보기관의 심장부가 멈춰 선 초유의 사건으로 기록됐다.</div>
+<br/>
+<br/>
+<div>
+<figure><img src="https://cdn.polinews.co.kr/news/photo/202611/748505_573301_1833.jpg" alt="항공편 운항 중단된 워싱턴 레이건 공항 [사진=EPA=연합뉴스]"/>
+<figcaption>항공편 운항 중단된 워싱턴 레이건 공항/사진=EPA연합뉴스</figcaption>
+</figure>
+</div>
+<br/>
+<h3>반복되는 전산 대란… "패치 관리의 안일함이 부른 인프라 위기"</h3>
+<div>더욱 심각한 문제는 이번 NSA넷 마비가 불과 일주일 사이 미국 전역을 강타한 연쇄 전산 장애의 연장선상에 있다는 점이다. 지난 12일 마이크로소프트(MS 365)의 클라우드 서비스 접속 장애를 시작으로 14일에는 미 연방항공청(FAA)이 라우터 교체 오류로 전국 항공기 이륙을 일시 중단시켰다. 15일에는 JP모건 체이스 등 주요 은행의 온라인 뱅킹이 먹통이 됐다. 이어 16일 애플 서비스까지 불안정한 모습을 보인 끝에 17일 NSA넷까지 연달아 주저앉은 것이다.</div>
+<br/>
+<div>미 보안 전문 매체인 더 레코드와 다크 리딩은 이 일련의 사태를 두고 쓴소리를 아끼지 않았다. 매체들은 "일주일 사이에 금융, 항공, 클라우드에 이어 최고 기밀을 다루는 정보기관까지 연달아 멈춰 선 것은 단순한 우연이 아니다"라며 "소프트웨어 업데이트 주기가 빨라지고 인프라가 복잡해지면서 조직들이 변경 사항의 파급 효과를 사전에 충분히 검증하지 않는 '패치 관리의 안일함'이 국가 인프라를 위협하는 최대의 적이 되고 있다"고 강도 높게 비판했다.</div>]]></description>
+		</item>
 		<item>
 			<title>러시아 Tu-95 폭격기 2대 이례적 베트남 다낭 착륙... 동북아 영공 및 방공식별구역 일제히 긴장</title>
 			<link>https://www.securityfact.co.kr/news/view.php?no=8137</link>
@@ -547,106 +592,6 @@
    <br />
 </p>
 <p>전투 드론 도입을 검토하는 국가에는 기체 성능 외에도 수출 승인, 무장 공급, 정비·교육 체계, 기존 군 전력과의 연동이 중요한 판단 기준이다. 특히 방공망과 전자전 장비가 밀집한 전장에서는 공개 제원만으로 실제 작전 성과를 예측하기 어렵다.</p>
-]]></description>
-		</item>
-		<item>
-			<title>RTX 신용등급 &apos;A-&apos;로 상향… 미 방산 5사 중 GD &apos;A&apos; 최고, 보잉은 &apos;BBB-&apos;</title>
-			<link>https://www.securityfact.co.kr/news/view.php?no=8128</link>
-			<guid isPermaLink="true">https://www.securityfact.co.kr/news/view.php?no=8128</guid>
-			<author>sc.minugi@gmail.com 최미옥 기자</author>
-			<category>방산기업</category>
-			<category>20140925141337_5787</category>
-			<pubDate>Tue, 17 Nov 2026 07:53:06 +0900</pubDate>
-			<description><![CDATA[<p>[시큐리티팩트=최미옥 기자] 미국 항공우주·방산기업 RTX의 신용등급이 'BBB+'에서 'A-'로 한 단계 올라갔다. 독일 경제매체 AD HOC NEWS는 16일(현지시각) 국제 신용평가사 S&amp;P 글로벌 레이팅스의 RTX 신용등급 상향 소식을 전했다. S&amp;P가 지난 13일 발표한 평가에 따르면 등급 전망은 '안정적'이다. 방산과 민간 항공우주 수요 증가, 부채 상환에 따른 재무건전성 개선이 상향 배경이다.</p>
-<p>
-   <br />
-</p>
-<p>미국 주요 항공우주·방산기업 5곳의 S&amp;P 신용등급을 비교하면 제너럴다이내믹스(GD)가 'A'로 가장 높다. 록히드마틴과 RTX는 'A-', 노스럽그러먼은 'BBB+', 보잉은 투자적격 최하단인 'BBB-'다. GD·록히드마틴·노스럽그러먼은 지난 5월 신용등급을 유지한 채 전망이 '긍정적'으로 상향됐다. 보잉의 전망은 '안정적'이다.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2611/20261117074516_aac8a9b2.jpg" alt="RTX의 레이시온이 생산하는 SM-6 미사일. 출처=RTX.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">RTX의 레이시온이 생산하는 SM-6 미사일. 출처=RTX</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>RTX, 미사일 증산에 부채도 줄여</h3>
-<p>S&amp;P는 RTX의 장기 발행사 신용등급과 무담보채 신용등급을 모두 'A-'로 올리고 단기 신용등급은 'A-2'로 유지했다. 레이시온 방산사업의 수주잔고는 1300억 달러에 달한다. 최근 12개월간 신규 수주액을 매출액으로 나눈 비율인 북투빌(book-to-bill)은 2.9배다. 해당 기간 신규 수주가 매출의 2.9배였다는 의미다.</p>
-<p><br /></p>
-<p>RTX 전체 수주잔고는 3분기 말 3400억 달러로, 민간 항공우주 부문 1760억 달러와 방산 부문 1640억 달러로 구성돼 있다.</p>
-<p><br /></p>
-<p>RTX는 올해 미 전쟁부(옛 국방부)와 토마호크 순항미사일, AMRAAM 공대공미사일, SM-6 함대공미사일, SM-3 요격미사일 등의 생산 확대를 위한 기본합의를 체결했다. 주요 미사일의 생산능력을 향후 최대 7년에 걸쳐 기존의 2~4배 수준으로 늘리는 것이 목표다.</p>
-<p><br /></p>
-<p>RTX는 10월 20일 3분기 실적 발표에서 토마호크와 AMRAAM 관련 기본합의가 3분기 다년 생산계약으로 이어졌다고 밝혔다. 11월 10일 열린 베어드 글로벌 산업 콘퍼런스에서도 SM-6와 SM-3 관련 계약이 10월 체결됐다는 내용이 언급됐다.</p>
-<p><br /></p>
-<p>S&amp;P는 미사일 생산설비 확충에 추가 투자가 필요하지만, 계약 구조가 단기 현금흐름 부담을 일부 덜어줄 것으로 평가했다.</p>
-<p><br /></p>
-<p>부채 상환도 등급 상향의 주요 근거다. RTX는 2023년 100억 달러 규모의 자사주 매입을 위해 조달한 차입금 가운데 남아 있는 29억 달러를 상환할 계획이다. 관련 차입금 상환을 마칠 때까지 추가 자사주 매입을 중단하겠다는 방침도 유지해 왔다.</p>
-<p><br /></p>
-<p>S&amp;P는 올해 RTX의 잉여영업현금흐름이 90억 달러를 넘어서고 조정 부채는 약 300억 달러 수준이 될 것으로 예상했다. RTX가 10월 20일 제시한 올해 잉여현금흐름 전망치는 90억~92억 달러다. 두 수치는 각각 신용평가사와 회사 자체 기준에 따른 전망이다.</p>
-<p><br /></p>
-<p>S&amp;P는 조정 부채를 상각 전 영업이익(EBITDA)으로 나눈 비율이 2.5배 미만을 유지하고, 영업활동에서 창출한 자금(FFO)을 부채로 나눈 비율이 30%를 넘는 것을 현재 등급의 주요 조건으로 제시했다. 부채 부담이 추가로 줄면 등급 상향 여지도 있지만, 공격적인 자사주 매입이나 공급망 차질은 부담 요인으로 지목했다.</p>
-<p><br /></p>
-<p>민간 항공우주사업의 회복도 긍정적인 요인이다. S&amp;P는 항공기 제작사들의 수주잔고가 콜린스 에어로스페이스의 매출을 뒷받침한다고 평가했다. 프랫앤드휘트니의 기어드 터보팬(GTF) 엔진 제조결함에 따른 점검·수리도 절반 이상 진행됐다. 운항이 중단된 항공기는 지난해 말보다 25% 줄었다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2611/20261117074627_f07076b1.jpg" alt="록히드마틴의 F-35 스텔스 전투기. 출처=록히드마틴.jpg" style="width: 720px; height: 479px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">록히드마틴의 F-35 스텔스 전투기. 출처=록히드마틴</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>GD·록히드·노스럽, 전망 개선</h3>
-<p>S&amp;P는 지난 5월 28일 GD, 록히드마틴, 노스럽그루먼의 장기 신용등급을 유지하면서 전망을 모두 '안정적'에서 '긍정적'으로 올렸다. 긍정적 전망은 향후 신용등급이 상향될 가능성을 반영하지만, 실제 상향이 확정됐다는 의미는 아니다.</p>
-<p><br /></p>
-<p>GD는 'A' 등급으로 이번 비교 대상 가운데 가장 높은 신용도를 인정받고 있다. 미 해군의 버지니아급·컬럼비아급 잠수함 건조와 지상전투차량, 탄약사업을 운영하며 민간 부문에서는 걸프스트림 비즈니스 제트기를 생산한다.</p>
-<p><br /></p>
-<p>S&amp;P는 방산제품과 비즈니스 제트기 수요 증가, 부채 축소가 GD의 재무지표를 개선하고 있다고 평가했다. 회사는 2021년 이후 부채를 약 50억 달러 줄였으며 지난해에도 7억5000만 달러를 상환했다. S&amp;P는 FFO/부채 비율이 올해 80%, 내년 90%에 이를 것으로 전망했다. 잠수함 생산 확대 등에 따라 설비투자는 매출의 3.5~4% 수준으로 늘어날 것으로 예상했다.</p>
-<p><br /></p>
-<p>록히드마틴은 RTX와 같은 'A-' 등급이지만 전망은 '긍정적'이다. F-35 전투기와 PAC-3 패트리엇 요격탄, 사드(THAAD) 미사일방어체계 등의 생산 확대가 실적을 뒷받침하고 있다.</p>
-<p><br /></p>
-<p>S&amp;P는 주요 무기체계의 수요 증가와 현금흐름 개선 가능성을 긍정적으로 평가했다. 다만 대규모 생산 확대에 필요한 투자와 차입금 관리가 향후 신용등급을 결정하는 주요 요인으로 남아 있다.</p>
-<p><br /></p>
-<p>노스럽그루먼은 'BBB+'로 록히드마틴과 RTX보다 한 단계 낮다. B-21 레이더(Raider) 스텔스 폭격기와 우주체계, 미사일방어 사업을 운영하고 있다.</p>
-<p><br /></p>
-<p>노스럽그루먼이 3분기 미국 증권거래위원회(SEC)에 제출한 보고서에 따르면 회사는 B-21 생산능력 확대를 위해 여러 해에 걸쳐 약 25억 달러를 투자할 계획이다. 생산 확대에 필요한 자금 부담이 있지만 방산 수요 증가와 향후 현금흐름 개선 가능성이 등급 전망에 반영됐다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2611/20261117074929_d20019a3.jpg" alt="보잉의 F-15EX 이글 II 전투기. 출처=미 국방부.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">보잉의 F-15EX 이글 II 전투기. 출처=미 국방부</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>보잉, 민항기 사업 부담 여전</h3>
-<p>보잉의 S&amp;P 장기 신용등급은 'BBB-', 전망은 '안정적'이다. 투자적격 등급 가운데 가장 낮은 단계다. 보잉이 지난 10월 제출한 2026년 3분기 보고서에도 같은 등급이 기재돼 있다.</p>
-<p><br /></p>
-<p>이 등급은 보잉의 방산사업만을 평가한 것이 아니다. 보잉은 F-15EX 전투기와 KC-46 공중급유기 등을 생산하는 국방·우주·안보(BDS) 사업 외에 민간 항공기와 항공서비스 사업을 운영하고 있다. 민항기 생산과 인도, 품질관리, 차입금 등 회사 전체의 재무 위험이 신용등급에 반영된다.</p>
-<p><br /></p>
-<p>보잉의 3분기 방산·우주·안보 부문 매출은 79억3500만 달러로 전년 동기보다 15% 증가했다. 수주잔고도 1010억 달러로 사상 최대를 기록했다.</p>
-<p><br /></p>
-<p>반면 민간 항공기 부문에서는 같은 기간 6억9700만 달러의 영업손실이 발생했다. 9월 말 기준 보잉의 현금과 단기투자자산은 207억 달러였으며, 연결 부채는 459억 달러였다. 사용하지 않은 신용한도는 100억 달러다.</p>
-<p><br /></p>
-<p>방산 부문의 수주 증가에도 민항기 사업의 재무 부담이 회사 전체의 신용평가에 영향을 미치고 있다. 신용평가사 피치는 지난 6월 보잉의 등급 전망을 '긍정적'으로 변경했지만 S&amp;P는 '안정적' 전망을 유지하고 있다.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<div class="cheditor-caption-wrapper" style="text-align: center;">
-   <figure class="cheditor-caption" style="border: 0px solid rgb(204, 204, 204); background-color: #ffffff; margin: 0px; color: #999999; text-align: left; display: inline-block; width: 720px;"><img src="https://securityfact.co.kr/data/tmp/2611/20261117075022_a4aa2dac.jpg" alt="안두릴이 개발하는 YFQ-44A 퓨리 무인 전투항공기. 미 국방부.jpg" style="width: 720px; height: 480px;" />
-      <figcaption class="cheditor-caption-text" style="margin: 10px 0px 10px 0px; text-align: left; line-height: 18px; font-size: 12px; letter-spacing: -0.04em; text-align:center;">안두릴이 개발하는 YFQ-44A 퓨리 무인 전투항공기. 미 국방부</figcaption>
-      </figure>
-   </div>
-<p>&nbsp;</p>
-<h3>안두릴·팔란티어는 별도 비교</h3>
-<p>무인무기와 군사 인공지능(AI) 분야에서 성장하는 안두릴과 팔란티어는 이번 신용등급 비교에서 제외했다. 두 기업 모두 공개적으로 확인 가능한 S&amp;P 장기 발행사 신용등급이 확보되지 않았기 때문이다. 공개 등급이 확인되지 않는다고 해서 재무건전성이 낮다는 의미는 아니다.</p>
-<p><br /></p>
-<p>비상장 방산기업 안두릴은 자율무기와 무인항공기, 통합 감시·지휘체계 등을 개발하고 있다. 지난 5월 대규모 투자 유치를 통해 기업가치 610억 달러를 인정받은 것으로 알려졌다. 블룸버그는 10월 14일 직원 지분 매각이 약 900억 달러의 기업가치를 기준으로 추진되고 있다고 보도했다. 다만 이러한 기업가치 평가는 신용평가사의 채무 상환 능력 평가와는 다르다.</p>
-<p><br /></p>
-<p>팔란티어는 군사·정보분석 소프트웨어와 AI 플랫폼을 공급한다. 회사의 2026년 3분기 SEC 보고서에 따르면 9월 말 기준 현금과 현금성 자산, 미국 국채 보유액은 104억 달러다. 올해 1~9월 영업활동으로 창출한 현금은 약 33억2000만 달러였다.</p>
-<p><br /></p>
-<p>팔란티어의 3분기 미국 상업 부문 매출은 9억8400만 달러로 미국 정부 부문 매출 9억5300만 달러를 처음 넘어섰다. 전통적인 방산기업과 달리 소프트웨어 중심의 사업구조를 갖고 있어 재무지표를 비교할 때도 차이를 고려해야 한다.</p>
-<p><br /></p>
-<p>신용등급은 기업의 기술력이나 주가 상승 가능성이 아니라 채무 상환 능력에 대한 평가다. 방산 수요가 늘어나는 상황에서도 기업별 등급이 다른 것은 수주 규모뿐 아니라 부채 수준, 현금창출 능력, 생산설비 투자 부담과 사업구조 등이 함께 반영되기 때문이다.</p>
-<p>&nbsp;</p>
 ]]></description>
 		</item>
 	</channel>
