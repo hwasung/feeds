@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 19 Nov 2026 06:30:32 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 19 Nov 2026 08:30:29 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>앤트로픽, IPO 공모가 83달러…940억달러 조달 &apos;역대 최대&apos;</title>
+			<link>https://www.etnews.com/20261119000001</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000001</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 07:47:34 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 챗봇 '클로드' 개발사 앤트로픽이 역대 최대 규모 기업공개(IPO) 기록을 경신할 전망이다. 블룸버그통신은 19일(한국시간) 복수의 소식통을 인용해 앤트로픽이 IPO 공모가를 주당 83달러로 책정하고 공모 물량도 확대했다고 보도했다. 이는 당초 제시한 희망 공모가 70~78달러의 상단보다 약 6.4% 높은 수준이다. 앤트로픽은 앞서 회사 발행 주식 약 8억140만주와 공동 창업자 7명이 보유한 약 2360만주 등 총 8억2500...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 신약 허가 다음의 시장…중국은 보험과 병원을 연결한다</title>
 			<link>https://www.etnews.com/20261105000411</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 18 Nov 2026 16:06:49 +0900</pubDate>
 			<description><![CDATA[EBS가 '특별 생방송 2027 대학수학능력시험' 4부작 프로그램을 EBS 1TV에서 수능 당일인 19일 오전 8시 35분부터 방송한다. 올해 시험은 2015 개정 교육과정을 기반으로 치르는 마지막 수능이다. 내년부터는 2022 개정 교육과정이 적용되고 대입제도와 수능이 바뀐다. 이번 특별 생방송에서는 올해 시험을 치를 수험생이 대입을 위해 꼭 확인해야 할 내용은 물론, 내년 수능을 준비하는 예비 수험생을 위한 정보까지 모두 담는다. 진행은 E...]]></description>
-		</item>
-		<item>
-			<title>1년전 AI도 수능 수학 만점 …교육·시험평가체계 낙제</title>
-			<link>https://www.etnews.com/20261118000364</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000364</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 18 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[1년 전 인공지능(AI) 기술로도 대학수학능력시험 수학영역 만점이 가능했던 것으로 확인됐다. 미국 빅테크를 중심으로 프런티어급(최상위) AI 모델 경쟁이 지속되는 데다 한두 달 간격으로 최첨단 AI 모델이 등장하는 등 기술 발전 속도를 고려했을 때, 교과과정과 시험제도 등을 전면 개편을 검토해야 한다는 목소리가 높아지고 있다. 18일 전자신문이 확보한 충남대 지능형소프트웨어연구실(ISoft Lab)의 '2026학년도 수능 수학영역 거대언어모델(...]]></description>
 		</item>
 	</channel>
 </rss>
