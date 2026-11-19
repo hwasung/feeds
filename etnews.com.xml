@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 19 Nov 2026 08:30:29 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 19 Nov 2026 09:30:50 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>디에스앤지 &apos;이노베이션데이2026&apos; 25일 개최…AI 인프라 핵심 기술 및 구축 전략 조명</title>
+			<link>https://www.etnews.com/20261119000024</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000024</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 09:00:40 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 인프라 전문기업 디에스앤지(대표 서정열)는 오는월 25일 콘래드 서울(Conrad Seoul)에서 '디에스앤지 이노베이션데이 2026(DS&G Innovation Day 2026)'을 개최한다고 19일 밝혔다. 이번 DS&G Innovation Day 2026은 고밀도 AI 데이터센터를 위한 액체 냉각(Liquid Cooling) 기술을 비롯해 AI 인프라의 최신 기술 동향과 구축 전략을 공유하는 자리다. 슈퍼마이크로, 엔비디아...]]></description>
+		</item>
+		<item>
+			<title>엔키화이트햇, 자바 보안 취약점 &apos;Java4Shell&apos; 점검 도구 배포</title>
+			<link>https://www.etnews.com/20261119000023</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000023</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 09:00:21 +0900</pubDate>
+			<description><![CDATA[엔키화이트햇이 자바(Java) 실행환경에서 발견된 치명적인 보안 취약점 '자바포셸(Java4Shell)'에 대응하기 위한 점검 도구를 공개했다. 실제 공격을 시도하지 않고도 서버의 취약 여부를 확인해 서비스 중단 위험을 줄이는 것이 특징이다. 엔키화이트햇(대표 이성권)은 자사 홈페이지를 통해 자바 원격 코드 실행(RCE) 취약점 '자바포셸(CVE-2026-114938)'을 탐지하는 내부 점검 스크립트와 분석 보고서를 배포한다고 19일 밝혔다....]]></description>
+		</item>
+		<item>
+			<title>알티베이스, 솔트레이와 공공·금융·이커머스 시장 공략</title>
+			<link>https://www.etnews.com/20261119000017</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000017</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 08:53:30 +0900</pubDate>
+			<description><![CDATA[알티베이스는 솔트레이와 공공·금융·이커머스 시장 확대 및 데이터 솔루션 사업 강화를 위한 전략적 업무협약(MOU)을 체결했다고 19일 밝혔다. 알티베이스의 DBMS 기술과 솔트레이의 시스템 구축 및 데이터 통합 역량을 결합해 양사 사업 경쟁력을 강화하기 위해 추진했다고 설명했다. 솔트레이는 공공·금융·이커머스·클라우드 분야에서 시스템 구축과 컨설팅 사업을 하는 IT 전문기업이다. 특히 금융권 업무 시스템 및 이커머스 플랫폼 구축, 데이터 아키텍...]]></description>
+		</item>
+		<item>
+			<title>美 국토안보부 “AI 활용 사이버 공격 확대…핵심 인프라 위협”</title>
+			<link>https://www.etnews.com/20261119000015</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000015</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 08:51:02 +0900</pubDate>
+			<description><![CDATA[미국 정부가 인공지능(AI)을 활용한 사이버 공격이 확대되면서 국가 핵심 기반시설에 대한 위협이 커지고 있다고 경고했다. 공격 규모 확대와 데이터 탈취, 제3자 서비스 제공업체를 통한 피해 확산 가능성을 제기했다. 마크웨인 멀린 미국 국토안보부(DHS) 장관은 18일(현지시간) 하원 국토안보위원회에 제출한 '2026년 미국 본토에 대한 전 세계적 위협' 서면 증언에서 이같이 밝혔다. 멀린 장관은 “사이버범죄자들이 공격 수법을 지속적으로 변화시키...]]></description>
+		</item>
 		<item>
 			<title>앤트로픽, IPO 공모가 83달러…940억달러 조달 &apos;역대 최대&apos;</title>
 			<link>https://www.etnews.com/20261119000001</link>
@@ -58,42 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 18 Nov 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[“고객의 업무 과제를 중심으로 필요한 기술과 기업을 연결하고, 각자의 역량이 실제 사업 성과로 이어지도록 지원하는데 역량을 총동원하겠습니다.” 홍정화 다올티에스 대표가 제시한 회사의 성장 방향은 고객의 인공지능(AI) 도입을 검증부터 구축·운영까지 지원하는 기업이다. 델테크놀로지스 총판 사업에서 축적한 인프라 전문성에 국산 AI 소프트웨어(SW)와 클라우드·보안 기술을 결합해 고객의 선택과 도입 부담을 줄이겠다는 구상이다. 그 중심에는 통합 A...]]></description>
-		</item>
-		<item>
-			<title>몬드리안AI, 서울대 공대에 AI 클라우드 플랫폼 &apos;런유어 클라우드&apos; 공급</title>
-			<link>https://www.etnews.com/20261118000420</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000420</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 18 Nov 2026 16:34:29 +0900</pubDate>
-			<description><![CDATA[몬드리안AI는 서울대학교 공과대학에 프라이빗 AI 클라우드 플랫폼 '런유어 클라우드(Runyour Cloud)'를 공급했다고 17일 밝혔다. 이번 사례는 서울대학교 공과대학이 기존에 운용하던 타사 AI 플랫폼을 전격 교체한 대표적인 '윈백' 성과다. 특히 신규 인프라 도입이 아닌, 기존에 구축된 플랫폼과의 직접 비교 검증을 거쳐 선택되었다는 점에서 기술적 상징성이 크다. 서울대 공대는 다수의 연구실과 연구원이 대규모 그래픽처리장치(GPU) 자원...]]></description>
-		</item>
-		<item>
-			<title>에스더블유엠(SWM.ai), &apos;자율주행 로보택시 시스템&apos; 차세대 세계일류상품 선정</title>
-			<link>https://www.etnews.com/20261118000408</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000408</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 18 Nov 2026 16:16:32 +0900</pubDate>
-			<description><![CDATA[로보택시 기술기업 SWM.ai(에스더블유엠)는 자체 개발한 '자율주행 로보택시 시스템' 상품의 기술력과 글로벌 시장 경쟁력을 인정 받아 '2026년 차세대 세계일류상품'에 선정됐다고 18일 밝혔다. 세계일류상품은 산업통상부와 대한무역투자진흥공사(KOTRA)가 국내 상품과 생산기업의 글로벌 경쟁력 강화와 해외시장 진출을 지원하기 위해 운영하는 제도다. 이 가운데 차세대 세계일류상품은 시장성과 성장성을 평가해 향후 7년 이내 세계시장 점유율 5위...]]></description>
-		</item>
-		<item>
-			<title>삼성화재, AI 데이터센터 위험관리 논의…“설계부터 사고 예방”</title>
-			<link>https://www.etnews.com/20261118000407</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000407</guid>
-			<author>박진혁</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 18 Nov 2026 16:10:55 +0900</pubDate>
-			<description><![CDATA[삼성화재는 서울 서초구 삼성금융캠퍼스에서 '글로벌 AIDC 포럼 2026'을 열고 인공지능 데이터센터(AIDC)의 안전기준과 보험산업의 역할을 논의했다고 18일 밝혔다. 삼성화재는 데이터센터 설계부터 건설·운영까지 단계별로 위험을 평가하고, 사고 예방과 손실 경감 방안을 보험에 연계할 계획이다. 이번 포럼은 'AIDC 산업의 지속가능한 성장을 위한 기준과 협력'을 주제로 열렸다. 정부기관과 학계, AIDC 얼라이언스 회원사, 금융·보험업계 등에...]]></description>
-		</item>
-		<item>
-			<title>EBS, 영역별 문제풀이·대입 전략 등 19일 수능 생방송 편성</title>
-			<link>https://www.etnews.com/20261118000406</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000406</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 18 Nov 2026 16:06:49 +0900</pubDate>
-			<description><![CDATA[EBS가 '특별 생방송 2027 대학수학능력시험' 4부작 프로그램을 EBS 1TV에서 수능 당일인 19일 오전 8시 35분부터 방송한다. 올해 시험은 2015 개정 교육과정을 기반으로 치르는 마지막 수능이다. 내년부터는 2022 개정 교육과정이 적용되고 대입제도와 수능이 바뀐다. 이번 특별 생방송에서는 올해 시험을 치를 수험생이 대입을 위해 꼭 확인해야 할 내용은 물론, 내년 수능을 준비하는 예비 수험생을 위한 정보까지 모두 담는다. 진행은 E...]]></description>
 		</item>
 	</channel>
 </rss>
