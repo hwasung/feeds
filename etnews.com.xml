@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 19 Nov 2026 19:30:44 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 19 Nov 2026 20:30:50 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>K-에듀테크 해외진출 확대…&apos;글로벌 에듀맵&apos; 일본·중국·인도 정보도 제공</title>
+			<link>https://www.etnews.com/20261119000453</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000453</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 19:09:55 +0900</pubDate>
+			<description><![CDATA[국내 에듀테크 기업의 해외 진출을 지원하는 교육·산업 정보 플랫폼 '글로벌 에듀맵(G-EdMap)'이 중국·일본·인도로 영역을 확장했다. 한국교육학술정보원(KERIS)과 한국디지털교육협회(KEFA)는 19일 서울 호텔리베라 청담에서 '제2차 에듀테크 산업계 포럼'을 열고 글로벌 에듀맵 성과와 추진 방향, 에듀테크 기업의 해외진출 사례를 공유했다. 교육부와 KERIS가 지원하는 글로벌 에듀맵은 국내 에듀테크 기업 해외 진출에 필요한 국가별 교육·...]]></description>
+		</item>
 		<item>
 			<title>래블업, 3분기 누적 매출 48% 상승…상장 후 첫 실적 발표</title>
 			<link>https://www.etnews.com/20261119000452</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 19 Nov 2026 17:00:43 +0900</pubDate>
 			<description><![CDATA[이스트소프트가 인공지능(AI) 더빙 특화 K-FAST(광고 기반 무료 스트리밍 TV) 확산 지원사업을 2년 연속 수행하며 기술 경쟁력을 강화했다고 19일 밝혔다. FAST 플랫폼 기반 K-콘텐츠 해외 유통을 지원하는 사업이다. 이스트소프트는 지난 2년간 드라마·예능·다큐멘터리 등 약 300시간 방송 콘텐츠를 AI로 더빙했다. AI 더빙 기술을 활용해 한국 콘텐츠 중남미 시장 진출을 확대했다. 정부 지원사업으로 300시간 분량 콘텐츠를 더빙하고...]]></description>
-		</item>
-		<item>
-			<title>30개국 41개 클러스터 품은 &apos;글로벌로봇클러스터(GRC)&apos;, 대구서 글로벌 로봇산업의 미래를 열다</title>
-			<link>https://www.etnews.com/20261118000476</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261118000476</guid>
-			<author>정재훈</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[글로벌로봇클러스터(GRC)가 전 세계 30개국, 41개 로봇 클러스터가 참여하는 거대한 글로벌 협력 네트워크로 확장되며 국제 로봇산업의 명실상부한 핵심 생태계로 자리매김했다. 세계 각국의 로봇산업 인프라를 연결하고, 기술 교류부터 공동 연구개발(R&D), 해외 실증 및 사업화까지 촉진하는 GRC의 거침없는 확장세가 대구를 글로벌 로봇 협력의 중심지로 이끌고 있다. GRC와 대경로봇기업진흥협회는 이처럼 한층 막강해진 글로벌 네트워크를 바탕으로,...]]></description>
 		</item>
 	</channel>
 </rss>
