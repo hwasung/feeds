@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 19 Nov 2026 12:30:49 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 19 Nov 2026 13:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>엘에스웨어 박준석 본부장, 기술혁신 장관표창… 회사는 &apos;R&amp;D 우수성과 50선&apos; 선정</title>
+			<link>https://www.etnews.com/20261119000205</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000205</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 13:01:59 +0900</pubDate>
+			<description><![CDATA[사이버보안 전문기업 엘에스웨어(대표 김민수)는 자사 박준석 오픈소스사업본부장이 지난 18일 충북 청주 오스코(OSCO)에서 열린 '2026 중소기업 혁신주간(K-INNO WEEK)' 개막식 및 중소기업 혁신 유공자 포상 시상식에서 기술혁신 분야 중소벤처기업부 장관표창을 수상했다고 19일 밝혔다. 같은 날 엘에스웨어도 '2026년 중소기업 R&D 우수성과 공유회 및 포상식'에서 사업화 우수성과 부문 '누적성과 우수기업'으로 선정돼 포상을 받았다....]]></description>
+		</item>
 		<item>
 			<title>제논·업스테이지·피클, 수능 AI 문제풀이 제한…공정한 시험 동참</title>
 			<link>https://www.etnews.com/20261119000191</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 19 Nov 2026 10:24:25 +0900</pubDate>
 			<description><![CDATA[와이즈넛은 AI 에이전트 솔루션 5종에 대해 '인공지능 제품·서비스 확인서'를 취득했다고 19일 밝혔다. 이번에 확인서를 받은 제품은 △멀티 에이전트 통합 플랫폼 '와이즈 에이전트 스피어(WISE Agent Sphere)' △AI 에이전트 올인원 제작도구 '와이즈 에이전트 랩스(WISE Agent Labs)' △에이전트 특화 거대언어모델(LLM) '와이즈 엘엘오에이(WISE LLOA)' △검색증강생성(RAG) 기반 인공지능 에이전트 솔루션 '와...]]></description>
-		</item>
-		<item>
-			<title>성균관대 박진성 교수 연구팀, AI로 초고감도 비타민 C 센서 개발</title>
-			<link>https://www.etnews.com/20261119000099</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000099</guid>
-			<author>조호현</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 10:09:38 +0900</pubDate>
-			<description><![CDATA[성균관대학교는 바이오메카트로닉스학과 박진성 교수 연구팀이 인공지능(AI)을 활용해 극미량 비타민 C를 검출할 수 있는 초고감도 센서를 개발했다고 19일 밝혔다. 비타민 C는 우리 몸의 항산화 작용과 면역 기능에 중요 역할을 하는 영양소다. 혈액 속 비타민 C 농도는 영양 상태를 파악하는 데 도움을 줄 수 있지만, 정확한 분석을 위해서는 복잡한 장비가 필요한 경우가 많다. 이를 측정할 수 있는 센서를 만들기 위해서도 재료의 농도나 제작 방법을 여...]]></description>
 		</item>
 	</channel>
 </rss>
