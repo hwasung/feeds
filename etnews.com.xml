@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 06:30:36 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 07:30:33 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>앤트로픽, 상장 첫날 97.17달러로 마감…공모가 대비 17% 상승</title>
+			<link>https://www.etnews.com/20261120000001</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000001</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 06:24:31 +0900</pubDate>
+			<description><![CDATA[생성형 인공지능(AI) 모델 '클로드' 개발사 앤트로픽이 미국 나스닥 상장 첫날 공모가보다 약 17% 높은 가격에 거래를 마쳤다. 19일(현지시간) 나스닥 시장에 상장한 앤트로픽 주가는 이날 공모가 83달러 대비 17.07% 오른 97.17달러에 거래를 마감했다. 앞서 앤트로픽은 주당 111.5달러로 거래를 시작했다. 이는 전날 확정된 공모가 83달러와 비교해 약 34.3% 오른 금액이다. 시초가 기준 완전희석 시가총액은 약 2조달러로 일론 머...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 수출 환급 축소가 가격을 바꾸는 경로</title>
 			<link>https://www.etnews.com/20261105000416</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 19 Nov 2026 17:31:05 +0900</pubDate>
 			<description><![CDATA[LG CNS가 인공지능 전환(AX) 사업 확대에 초점을 맞춘 임원인사를 단행했다. 금융·공공사업 성장을 주도한 배민 전무가 부사장으로 승진해 산업 전반의 AX 사업을 책임진다. AX 분야 상무 5명 발탁과 외부 AI 전문가도 영입했다. 19일 LG CNS는 이사회를 열고 △부사장 승진 1명 △전무 승진 2명 △상무 신규 선임 9명 △계열사 전입 1명 △외부 영입 1명을 포함한 2027년 정기 임원인사를 단행했다. LG CNS는 “이번 임원인사에...]]></description>
-		</item>
-		<item>
-			<title>퀀텀에이아이, 녹색병원에 AICC 솔루션 &apos;순이&apos; 구축</title>
-			<link>https://www.etnews.com/20261119000424</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000424</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 17:07:23 +0900</pubDate>
-			<description><![CDATA[퀀텀에이아이는 서울 중랑구 녹색병원에 자사 인공지능 컨택센터(AICC) 솔루션인 '순이(sooni)'를 구축하고 챗봇과 더불어 음성봇도 도입한다고 19일 밝혔다. 녹색병원은 공익형 민간병원으로 300병상 규모의 종합병원이다. 병원은 한정된 인력으로 고객상담 콜센터를 운영하며 반복 문의 처리에 많은 시간을 써왔는데 지능형 소통플랫폼을 활용해 단순반복 문의는 AI가 맡고 상담원은 세심한 응대가 필요한 문의에 집중한다는 계획이다. '순이'는 고객의...]]></description>
 		</item>
 	</channel>
 </rss>
