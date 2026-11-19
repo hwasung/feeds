@@ -4,97 +4,95 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 19 Nov 2026 15:30:53 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 19 Nov 2026 16:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>파네시아, 글로벌 AI 데이터센터 시장 공략…CXL 차세대 칩 내년 공개</title>
-			<link>https://www.etnews.com/20261119000263</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000263</guid>
-			<author>김현민</author>
+			<title>[사이버보안, 패러다임 전환]〈2〉美 NIST, 공통 보안기준 마련…정책 일관성 확보</title>
+			<link>https://www.etnews.com/20261119000120</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000120</guid>
+			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 15:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 인터커넥트 반도체 기업 파네시아(대표 정명수)가 차세대 컴퓨트 익스프레스 링크(CXL) 기술을 앞세워 글로벌 AI 데이터센터 시장 공략에 속도를 낸다. 미국 현지 법인을 중심으로 글로벌 고객사 및 시스템 업체와 협력을 확대하는 한편, 기존 퓨전 스위치 후속 반도체를 내년 공개해 차세대 AI 인프라 시장 선점에 나선다는 전략이다. 파네시아는 미국 시카고에서 열린 국제 슈퍼컴퓨팅 콘퍼런스 'SC26(Supercomputing 202...]]></description>
+			<pubDate>Thu, 19 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[국가 사이버보안 정책의 일관성과 실효성을 높이기 위한 모델로 미국 국립표준기술연구소(NIST)의 운영체계가 주목된다. NIST는 신기술과 보안 위협을 연구해 연방정부가 공통으로 활용할 기술기준을 개발하고, 각 기관은 이를 바탕으로 소관 분야의 보안정책을 구체화한다. 기술적 기준은 공유하면서 부처별 전문성을 유지하는 구조다. NIST의 전신은 1901년 설립된 국가표준국(NBS)이다. 1970년대 컴퓨터 보안 연구를 시작했고, 1987년 컴퓨터보...]]></description>
 		</item>
 		<item>
-			<title>[AIx소프트웨이브 2026] 에스알포스트, AI x 소프트웨이브 2026서 차세대 AI 보이스 에이전트 &apos;MIRVO&apos; 공개</title>
-			<link>https://www.etnews.com/20261119000317</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000317</guid>
-			<author>정동수</author>
+			<title>[사이버보안, 패러다임 전환] 〈2〉실질적 사이버보안 차르 만들자</title>
+			<link>https://www.etnews.com/20261119000114</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000114</guid>
+			<author>박진형</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:56:39 +0900</pubDate>
-			<description><![CDATA[AI 보이스 에이전트 전문기업 에스알포스트(대표 오창용)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 차세대 AI 보이스 에이전트 'MIRVO(미르보)'를 선보인다고 밝혔다. 에스알포스트는 이번 전시를 통해 기존 콜봇의 한계를 개선한 4세대 음성 AI 기술과 실제 구축 사례를 공개하며, 기업과 공공기관의 고객 응대 자동화 혁신 방안을 제시할 예정이다. MIR...]]></description>
+			<pubDate>Thu, 19 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기반 사이버 공격이 고도화하고 침해사고가 잇따르면서 국가 사이버보안 정책의 실효성과 산업 경쟁력을 높여야 한다는 목소리가 커지고 있다. 전자신문은 한국정보보호산업협회(KISIA), 한국정보보호학회와 공동으로 4회에 걸쳐 사이버보안 정책·산업 현황을 진단하고 개선 방향을 모색한다. [글 싣는 순서] 〈1〉국가 사이버보안 정책, 새 판 짜자 〈2〉실질적 사이버보안 차르 만들자 〈3〉K-사이버보안, 체력 키우자 〈4·끝〉사이버보안 정...]]></description>
 		</item>
 		<item>
-			<title>[AIx소프트웨이브 2026] 스카피, AI x 소프트웨이브 2026서 폐쇄망 지원 차세대 백엔드 플랫폼 공개</title>
-			<link>https://www.etnews.com/20261119000314</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000314</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:53:24 +0900</pubDate>
-			<description><![CDATA[백엔드 솔루션 전문기업 스카피(SKAPI)가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 기업용(B2B) 환경에 특화된 차세대 데이터·백엔드 플랫폼을 선보인다고 밝혔다. 스카피는 별도의 서버 인프라 구축이나 복잡한 데이터베이스(DB) 설계 없이 웹 서비스와 AI 서비스 운영에 필요한 핵심 기능을 API 형태로 제공하는 올인원(All-in-One) 백엔드 플랫...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 소프트웍스, AI x SOFTWAVE 2026서 AI 인프라·에이전트·프라이빗 AI 통합 전략 공개</title>
-			<link>https://www.etnews.com/20261119000312</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000312</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:49:17 +0900</pubDate>
-			<description><![CDATA[소프트웍스(SOFTWORKS)가 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 개최되는 'AI x SOFTWAVE 2026'에 참가해 기업 업무 프로세스 혁신을 위한 AI 솔루션 3종을 선보인다고 밝혔다. 이번 전시에서 소프트웍스는 엔터프라이즈 AI 에이전트 플랫폼 'AgentOn', AI 인프라 플랫폼 'GenWorks', 브로드컴 VMware Cloud Foundation 9(VCF9) 기반의 프라이빗 AI 플랫폼을 한자리에서 공개하며...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 리드스피커코리아, &apos;소프트웨이브 2026&apos;서 AI 실시간 통번역 자막·웹 접근성 솔루션 선보인다</title>
-			<link>https://www.etnews.com/20261119000304</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000304</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:37:52 +0900</pubDate>
-			<description><![CDATA[AI 음성 기술 전문기업 리드스피커코리아(ReadSpeaker Korea)가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 '제11회 대한민국 소프트웨어대전(AI x 소프트웨이브 2026)'에 참가해 실시간 음성인식 통번역 자막 기술과 음성합성 기반 웹 접근성 솔루션을 선보인다. 리드스피커코리아는 이번 전시회를 통해 음성인식(STT)과 음성합성(TTS) 기술을 기반으로 한 다양한 AI 음성 서비스를 공개하며, 글로벌 환경에서의 소통 지원...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 르몽, AI 기반 심리케어 서비스로 시니어 고독사 예방 나선다</title>
-			<link>https://www.etnews.com/20261119000299</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000299</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:31:45 +0900</pubDate>
-			<description><![CDATA[AI 기업 르몽(공동대표 이희용·김보형)이 자체 개발한 AI 프레임워크 '루미니르 AI(Luminir AI)'를 기반으로 시니어 고독사·고립 위험을 조기에 발굴하는 심리케어 AI 서비스 '마음온(Maeum-ON)'의 현장 실증 사업을 추진하고 있다. 이번 사업은 보건복지부와 한국사회보장정보원이 추진하는 '2026년 복지 분야 AX-Sprint 지원사업'의 일환으로 진행된다. 르몽이 주관기관을 맡고 마고, 삼성물산, 이닛케어가 참여하는 컨소시엄...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 달파, &apos;소프트웨이브 2026&apos;서 진화하는 기업 AI &apos;슈퍼 인텔리전스&apos; 공개</title>
-			<link>https://www.etnews.com/20261119000290</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000290</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:25:12 +0900</pubDate>
-			<description><![CDATA[B2B AI 전문기업 달파(대표 김도균)가 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 열리는 '제11회 대한민국 소프트웨어대전(AI x 소프트웨이브 2026)'에 참가해 기업의 업무 노하우를 전사 자산으로 축적·활용하는 차세대 AI 시스템 '슈퍼 인텔리전스(Super Intelligence)'를 선보인다. 달파가 공개하는 슈퍼 인텔리전스는 단순히 업무를 수행하는 AI 에이전트를 넘어 조직 내 지식과 경험을 지속해 축적하고 스스로 성능을...]]></description>
-		</item>
-		<item>
-			<title>앤트로픽, 공모가 83달러 확정…813억달러 역대 최대 IPO</title>
-			<link>https://www.etnews.com/20261119000288</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000288</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:23:26 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 모델 '클로드' 개발사 앤트로픽이 스페이스X를 제치고 역대 최대 기업공개(IPO) 기록을 경신한다. AI 산업 수익성을 둘러싼 논란에도 성장 기대감은 여전한 것으로 나타났다. 앤트로픽은 18일(현지시간) 공모가를 희망가격 범위(70~78달러) 상단보다 6.4% 높은 주당 83달러로 확정했다고 밝혔다. 공모 주식 수도 당초 8억2500만주에서 9억8000만주로 18.8% 늘렸다. 투자설명회 과정에서 수요가 급증해 공모가를 높인 것...]]></description>
-		</item>
-		<item>
-			<title>[AIx소프트웨이브 2026] 넥스트비즈, AI 에이전트 기반 AX 플랫폼 &apos;올리사이트&apos;로 공공·교육시장 공략</title>
-			<link>https://www.etnews.com/20261119000284</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000284</guid>
-			<author>정동수</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 14:18:37 +0900</pubDate>
-			<description><![CDATA[넥스트비즈(대표 박영욱)가 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 열리는 '제11회 대한민국 소프트웨어대전(AI x 소프트웨이브 2026)'에 참가해 회원 기반 AX(AI 전환) 플랫폼 '올리사이트(OllySite)'와 AI 에이전트 서비스를 선보인다. 한국인공지능·소프트웨어산업협회(KOSA) 공동관에서 전시에 나서는 넥스트비즈는 웹사이트와 학습관리시스템(LMS), 그룹웨어를 하나의 통합 회원 체계로 운영할 수 있는 클라우드 기반...]]></description>
-		</item>
-		<item>
-			<title>[ET톡] 해킹보다 두려운 것은 알 수 없다는 불안</title>
-			<link>https://www.etnews.com/20261119000280</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000280</guid>
-			<author>송혜영</author>
+			<title>[전대진의 AI시대 스토리노믹스] 〈5·끝〉소버린 스토리텔링:이야기를 멈출 자리</title>
+			<link>https://www.etnews.com/20261119000058</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000058</guid>
 			<category>오피니언</category>
-			<pubDate>Thu, 19 Nov 2026 14:13:11 +0900</pubDate>
-			<description><![CDATA[증권사의 보안 투자는 늘고 있지만 해킹 사고는 끊이지 않고 있다. 국내 10대 증권사의 지난해 정보보호 예산은 1428억원으로 2023년보다 10.4% 늘었고, 실제 집행액도 13.8% 증가한 1171억원을 기록했다. 그러나 최근 대신증권과 한양증권, 미래에셋증권에서 잇따라 개인정보 유출 사고가 발생했다. 보안 투자 확대만으로는 고객 안전을 보장할 수 없다는 사실을 보여준다. 해킹을 완벽하게 막을 수 있는 금융회사는 없다. 문제는 사고 뒤 고객...]]></description>
+			<pubDate>Thu, 19 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[지금 인공지능(AI)이 쓰는 이야기는 아직 사람이 다시 고쳐야 내놓을 만하다. 그러나 현재를 보면 안 된다. AI는 학습의 달인이라 수억개의 데이터와 독자 반응을 실시간으로 먹으며 인과를 메워간다. 머지않아 사람보다 매끄러운 웹소설을 찍어낼 것이라는 건 상식적인 예측이다. 그날이 오면 매끄러운 자체는 더 이상 무기가 아니다. 다들 같은 수준의 매끄러움을 갖게 되는 순간, 매끄러움은 오히려 평범한이 된다. 그렇다면 우리는 어디서 승부해야 하는가....]]></description>
+		</item>
+		<item>
+			<title>[김주한 교수의 정보의료·디지털 사피엔스]42와 DON&apos;T PANIC, 우주라는 거대한 농담</title>
+			<link>https://www.etnews.com/20261119000115</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000115</guid>
+			<category>오피니언</category>
+			<pubDate>Thu, 19 Nov 2026 16:00:00 +0900</pubDate>
+			<description><![CDATA[스페이스X는 로켓과 우주선에 일련번호를 부여한다. 더글러스 애덤스의 팬인 일론 머스크는 42번째 우주선 'Ship 42'의 외벽에 애덤스 SF의 농담, 'DON'T PANIC'을 새겨 넣고, “Ship 42가 발사탑 로봇 팔로 포획된 최초의 상단부 '우주선'이 될 것”이라 예언했다. 2026년 11월 14일 오후 3시 20분, Ship 42는 발사탑 로봇 팔로 회수되며 새 우주사를 썼다. 우연일까? 인류는 꽤 뻔뻔한 종족이다. 비만 와도 외출을...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 퐁, AI x 소프트웨이브 2026서 공감형 AI 심리상담 플랫폼 &apos;에필굿&apos; 선보인다</title>
+			<link>https://www.etnews.com/20261119000369</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000369</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 15:53:21 +0900</pubDate>
+			<description><![CDATA[AI 심리케어 전문기업 퐁(대표 정보연)이 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 공감형 AI 심리상담 서비스 '에필굿(efg)'을 공개한다고 밝혔다. 퐁은 이번 전시에서 한국사회보장정보원 부스를 통해 공공기관과 기업을 대상으로 한 AI 기반 마음건강 관리 솔루션과 실제 적용 사례를 소개할 예정이다. 에필굿은 퐁이 연세대학교 인공감성지능융합연구센터와 공...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] FunS, AI x SOFTWAVE 2026서 신규 라이브 플랫폼 &apos;FunS LIVE&apos; 첫 공개</title>
+			<link>https://www.etnews.com/20261119000360</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000360</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 15:47:37 +0900</pubDate>
+			<description><![CDATA[글로벌 통합 디지털 플랫폼 기업 FunS가 오는 12월 2일부터 4일까지 서울 코엑스에서 열리는 'AI x SOFTWAVE 2026(제11회 대한민국 소프트웨어대전)'에 참가해 메신저 서비스 'FunS Talk'를 중심으로 구축한 통합 플랫폼 생태계를 선보인다고 밝혔다. 이번 전시에서 FunS는 핵심 서비스인 FunS Talk과 함께 신규 서비스인 'FunS LIVE'를 처음 공개한다. 회사는 실시간 커뮤니케이션과 디지털 자산 서비스를 결합한...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 콕스웨이브, AI x SOFTWAVE 2026서 AI 에이전트 운영 플랫폼 &apos;크루와&apos; 공개</title>
+			<link>https://www.etnews.com/20261119000358</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000358</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 15:43:26 +0900</pubDate>
+			<description><![CDATA[AI 신뢰성(AI Reliability) 전문기업 콕스웨이브(대표 김주원)가 오는 12월 서울 코엑스에서 개최되는 'AI x SOFTWAVE 2026(제11회 대한민국 소프트웨어대전)'에 참가해 AI 에이전트 운영 플랫폼 '크루와(Kruwa)'를 선보인다고 밝혔다. 크루와는 기업 업무에 최적화된 AI 에이전트를 구축하고 운영, 통제, 개선하는 전 과정을 지원하는 AI AgentOps 플랫폼이다. 여러 AI 크루(AI Crew)가 역할을 분담해...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 제트컨버터클라우드, &apos;AI 레질리언스&apos; 전략 공개</title>
+			<link>https://www.etnews.com/20261119000356</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000356</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 15:37:25 +0900</pubDate>
+			<description><![CDATA[AI 워크로드 레질리언스 전문기업 제트컨버터클라우드(대표 민동준)가 오는 12월 2일부터 4일까지 서울 코엑스에서 개최되는 '제11회 대한민국 소프트웨어대전 AI x SOFTWAVE 2026'에 참가해 AI 시대의 새로운 과제로 떠오른 'AI 레질리언스(AI Resilience)' 해법을 제시한다고 밝혔다. 제트컨버터클라우드는 이번 전시 및 발표 세션을 통해 'AI 셧다운 = 비즈니스 마비 : AI 대전환의 숨은 병목, AI 레질리언스의 부재'...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 정션메드, AI x 소프트웨이브 2026서 음성 기반 AI 심리케어 플랫폼 공개</title>
+			<link>https://www.etnews.com/20261119000355</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000355</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 15:32:21 +0900</pubDate>
+			<description><![CDATA[AI 헬스케어 기업 정션메드(대표 박지민)가 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 개최되는 'AI x 소프트웨이브 2026(제11회 대한민국 소프트웨어대전)'에 참가해 발화 데이터 기반 AI 심리케어 플랫폼을 선보인다고 밝혔다. 정션메드는 이번 전시에서 청년부터 시니어까지 전 세대를 대상으로 한 심리·돌봄 서비스를 소개하며, 음성과 대화 데이터를 활용해 감정 상태를 분석하고 고위험군을 조기에 발견하는 AI 기반 돌봄 혁신 모델을...]]></description>
+		</item>
+		<item>
+			<title>[AIx소프트웨이브 2026] 이원정보기술, 애플리케이션 현대화·AI 운영 통합 플랫폼 선보여</title>
+			<link>https://www.etnews.com/20261119000344</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261119000344</guid>
+			<author>정동수</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 19 Nov 2026 15:25:40 +0900</pubDate>
+			<description><![CDATA[이원정보기술(E1)이 오는 12월 2일부터 4일까지 서울 코엑스 A홀에서 개최되는 'AI x SOFTWAVE 2026(제11회 대한민국 소프트웨어대전)'에 참가해 공공·기업 정보시스템의 현대화와 AI 적용, 운영관리를 아우르는 통합 플랫폼 전략을 공개한다. 이원정보기술은 'AI, Application Modernization with ARCUS and Dynatrace'를 주제로 부스(E21)를 운영하며, 애플리케이션 현대화 플랫폼 'ARCUS...]]></description>
 		</item>
 	</channel>
 </rss>
