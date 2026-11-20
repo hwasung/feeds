@@ -4,8 +4,16 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Sat, 14 Nov 2026 17:30:59 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 16:30:49 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[김승주 교수 칼럼] 무엇을 갖고 있는지 알아야 업데이트도 하고 지킬 수 있습니다 - 부제: 자산 ...</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209611</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209611</guid>
+			<category>김승주 교수</category>
+			<pubDate>Thu, 19 Nov 2026 23:36:34 +0900</pubDate>
+			<description><![CDATA[무슨 책을 갖고 있는지도 모르면 신판이 나와도 바꿀 수 없듯, 어떤 버전의 무슨 소프트웨어를 어디서 쓰고 있는지 모르면 <b>보안</b> 업데이트가 나와도 어디에 적용&nbsp;...]]></description>
+		</item>
 		<item>
 			<title>[김승주 교수 칼럼] 한국형 사이버보안 차르의 세 가지 조건 - 데일리시큐</title>
 			<link>https://www.dailysecu.com/news/articleView.html?idxno=209493</link>
@@ -237,14 +245,6 @@
 			<category>김승주 교수</category>
 			<pubDate>Tue, 03 Nov 2026 09:35:14 +0900</pubDate>
 			<description><![CDATA[4일에는 김명주 인공지능안전연구소장이 AI 안전 생태계와 <b>보안</b>을 주제로 발표에 나서며, 5일에는 <b>김승주</b> 고려대 정보보호대학원 교수가 국가의 사이버 회복력에&nbsp;...]]></description>
-		</item>
-		<item>
-			<title>[단독] 정부 &apos;해킹조사 심의위원&apos; 유지연 상명대 교수 선임...29일 킥오프 - 매일경제 마켓</title>
-			<link>https://stock.mk.co.kr/news/view/1181979</link>
-			<guid isPermaLink="true">https://stock.mk.co.kr/news/view/1181979</guid>
-			<category>김승주 교수</category>
-			<pubDate>Tue, 27 Oct 2026 19:37:30 +0900</pubDate>
-			<description><![CDATA[심의위는 학계 최고 권위자인 <b>김승주</b> 고려대 정보보호대학원 교수가 초대 위원장을 맡아 이끈다. ... <b>보안</b> 업계 일각에서는 “국가 핵심 인프라 및 주요 기업의&nbsp;...]]></description>
 		</item>
 	</channel>
 </rss>
