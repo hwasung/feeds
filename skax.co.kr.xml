@@ -4,13 +4,175 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 18 Nov 2026 18:37:10 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 18:35:40 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>AI가 수학 난제의 답을 내놓는 시대, 기업이 AI의 답을 신뢰하고 활용하기 위한 운영 구조</title>
+			<link>https://www.skax.co.kr/insight/trend/3932/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3932/</guid>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_난제를-해결하는-AI.png" alt=""/></p>
+
+<table>
+<tbody>
+<tr>
+<td>
+<h3><strong>한눈에 보는 핵심 인사이트</strong></h3>
+<p><em>2026년 9월 OpenAI는 자사 AI 시스템이 유체의 움직임을 다루는 밀레니엄 수학 난제인 나비에-스토크스 문제의 해법을 도출했다고 발표했습니다. 10월에는 OpenAI와 앤트로픽이 컴퓨터과학 난제인 지수 시간 가설(ETH)을 반박하는 결과를 잇따라 내놓았습니다. AI가 정보를 요약하고 콘텐츠를 만드는 단계를 넘어 인류의 오랜 난제에 답을 제시하기 시작한 것입니다. 하지만 이 결과들은 아직 공식적으로 인정받지 못했으며, 사람이 AI의 증명을 이해하고 검토하는 과정이 이어지고 있습니다. 기업도 마찬가지입니다. AI의 답이 의사결정과 실행으로 이어지려면 근거를 확인하고, 검증과 책임의 주체를 정하고, 오류에 대응할 운영 구조를 갖춰야 합니다. AI의 답을 기업의 가치로 바꾸는 것은 답 자체가 아니라 그 답을 다루는 체계입니다.</em></p></td>
+</tr>
+</tbody>
+</table>
+
+<h2><strong>밀레니엄 문제부터 ETH까지 난제에 답을 내놓기 시작한 AI</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/1.-난제에-답을-내놓기-시작한-AI.png" alt=""/></p>
+
+<p>물이 흐르고 공기가 움직이는 방식을 설명하는 나비에-스토크스(Navier-Stokes) 방정식은 항공기 설계와 일기 예보, 혈류 연구에 쓰입니다. 하지만 이 방정식이 언제나 성립하는지는 약 90년 동안 아무도 증명하지 못했습니다. 2000년 클레이 수학연구소(Clay Mathematics Institute)가 7대 밀레니엄 문제 중 하나로 선정한 이 난제에 대해, OpenAI는 2026년 9월 AI가 도출한 해법을 공개했습니다. 약 10,000개의 AI 에이전트가 협업해 88시간 만에 내놓은 결과입니다.</p>
+<p>이런 흐름은 하나의 사례에 그치지 않습니다. 2026년 10월에는 OpenAI와 앤트로픽이 여러 분야 연구의 전제로 쓰여 온 컴퓨터과학 난제인 지수 시간 가설(ETH, Exponential Time Hypothesis)을 반박하는 결과를 잇따라 발표했습니다. 두 회사의 AI가 같은 날 각자 비슷한 결론에 이르렀습니다. AI가 인류의 오랜 난제에 답을 내놓는 일이 반복되기 시작한 것입니다.</p>
+
+<h2><strong>해법 공개 이후에도 이어지는 검증과 해석의 과정</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/2.-해법-공개-이후에도-이어지는-검증과-해석의-과정.png" alt=""/></p>
+
+<p>답이 나왔다고 해서 문제가 풀린 것은 아닙니다. 두 결과 모두 아직 학계의 공식 인정을 받지 못했고, 사람의 검토가 이어지고 있습니다. 두 회사는 수학 증명을 컴퓨터로 검증하는 언어인 Lean으로 형식화한 증명을 공개했습니다. 그러나 Lean은 각 단계에 논리적 오류가 없는지를 확인할 뿐, 그 증명이 왜 성립하는지는 설명해 주지 않습니다. 증명의 핵심 아이디어를 이해하고 평가하는 일은 여전히 수학자와 과학자의 몫입니다.</p>
+<p>결과를 어떻게 해석할지도 사람이 판단해야 합니다. 나비에-스토크스 해법은 유체에 외력이 가해지는 경우를 다루고 있어, 외력이 없는 근본적인 문제는 여전히 남아 있다는 지적이 나옵니다. ETH 반박 역시 이론적인 계산 시간에 관한 결과로, 실제 프로그램이 당장 빨라지는 것은 아닙니다. AI가 내놓은 답이 어떤 조건에서 성립하고 무엇을 의미하는지 가려내는 일은 결국 사람에게 남습니다.</p>
+
+<h2><strong>답을 내는 능력과 답을 신뢰하는 능력의 차이</strong></h2>
+
+<p>이번 사례들은 AI가 답을 내놓는 능력과 그 답을 신뢰하고 활용하는 능력이 서로 다르다는 점을 보여줍니다. 물론 사람이 AI의 결과를 즉시 완전히 이해해야만 활용할 수 있다는 뜻은 아닙니다. 과학과 기술은 발견과 활용이 먼저 일어나고, 설명과 이론이 뒤따르며 발전해 온 경우도 많습니다.</p>
+<p>달라지는 것은 사람의 역할입니다. AI가 답을 찾는 일을 더 많이 맡을수록, 사람의 일은 어떤 문제를 풀지 정하고 그 결과에 책임을 지는 쪽으로 옮겨 갑니다. 수학계에서도 AI의 발견을 누가 검증하고, 그 결과에 대한 기여와 책임을 어떻게 나눌지를 두고 논의가 이어지고 있습니다.</p>
+<p>기업에서는 이 역할이 더 무겁습니다. AI의 답이 가격 결정, 설비 운영, 고객 응대 같은 실제 의사결정과 실행으로 이어지기 때문입니다. 수학계가 증명을 검토하고 해석하는 절차를 갖추고 있듯, 기업에도 AI의 답을 확인하고 승인하며 바로잡는 구조가 필요합니다.</p>
+
+<h2><strong>AI의 답을 업무에 쓰기 전 점검할 네 가지 운영 구조</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/3.-AI의-답을-업무에-쓰기-전-점검할-네-가지-운영-구조.png" alt=""/></p>
+<p>AI의 답을 의사결정과 실행에 연결하려면 다음 네 가지를 점검해야 합니다.</p>
+<p>– 근거와 적용 조건: 결과가 어떤 데이터와 논리에서 나왔고 어떤 조건에서 유효한지 확인할 수 있는가<br/>
+– 검증과 승인: 결과의 검증, 승인, 예외 처리를 누가 맡는가<br/>
+– 오류 대응과 책임: 오류가 생기면 누가 멈추고 수정하며 책임지는가<br/>
+– 맥락의 연결: 데이터와 모델, 업무 맥락이 하나로 연결돼 있는가</p>
+<p>나비에-스토크스 증명이 ‘외력이 있는 경우’라는 조건 아래서 성립했듯, AI의 답도 어떤 조건에서 유효한지 함께 확인해야 오해 없이 쓸 수 있습니다. 자동화된 검증 도구가 있어도 사람의 해석과 판단이 필요한 이유입니다. AI의 답 자체가 신뢰를 만들지는 않습니다. 검증 가능성, 책임 주체, 운영 구조가 AI의 답을 기업의 가치로 바꿉니다.</p>
+
+<h2><strong>AI의 답을 책임 있게 활용하는 기반, SK AX AXgenticWire</strong></h2>
+
+<p>수많은 에이전트가 협업해 난제의 답을 찾았듯, 기업에서도 여러 AI 에이전트가 함께 일하는 환경이 현실이 되고 있습니다. 이때 경쟁력을 가르는 것은 에이전트의 수나 모델 성능만이 아니라 그 결과를 기업의 데이터, 시스템, 프로세스와 연결하고 통제하는 구조입니다.</p>
+<p>SK AX는 더 많은 AI 답을 만드는 것을 넘어, 기업이 그 답을 신뢰하고 책임 있게 활용할 수 있는 기반을 설계합니다. SK AX의 AXgenticWire는 AX를 기술이 아닌 연결의 문제로 봅니다. 구성원의 AI 활용 역량과 에이전트 운영 환경, 비즈니스 가치 창출을 하나로 묶어, AI의 답이 검증과 책임의 구조 안에서 기업의 성과로 이어지도록 돕습니다. 이를 통해 기업의 운영 체계 전반을 Agentic 환경에 맞게 혁신합니다.</p>
+
+<h2><strong>[FAQ]</strong></h2>
+
+<h3><strong>Q1. 나비에-스토크스 밀레니엄 문제란 무엇인가요?</strong></h3>
+<p>유체 운동을 설명하는 나비에-스토크스 방정식의 해가 항상 매끄럽게 유지되는지를 묻는 수학 난제입니다. 2000년 클레이 수학연구소가 7대 밀레니엄 문제 중 하나로 선정했습니다.</p>
+
+<h3><strong>Q2. OpenAI는 나비에-스토크스 문제를 해결했나요?</strong></h3>
+<p>해법을 제시했지만 공식적으로 해결이 인정된 단계는 아닙니다. 독립적인 제3자 검증이 완료됐다는 공식 발표는 아직 없으며, 클레이 수학연구소는 학술지 게재와 2년간의 검증을 거친 뒤에야 심사를 시작합니다.</p>
+
+<h3><strong>Q3. AI가 내놓은 결과는 어떻게 검증하나요?</strong></h3>
+<p>자동화된 검증 도구와 사람의 검토를 함께 거쳐야 합니다. OpenAI는 나비에-스토크스 증명을 수학 증명 검증 언어인 Lean으로 형식화해 공개했습니다. Lean은 증명의 모든 단계가 논리적으로 맞는지 컴퓨터가 하나하나 확인하는 도구로, 사람이 따라가기 어려운 AI의 증명도 객관적으로 검증할 수 있는 기준이 된다는 점에서 의미가 있습니다. 다만 증명의 아이디어를 설명해 주지는 않고, 원래 문제가 정확히 옮겨졌는지도 별도로 확인해야 하기에 수학계의 독립적인 검토가 이어지고 있습니다. 기업에서도 AI 결과가 어떤 데이터와 조건에서 나왔는지 확인하고, 업무 영향이 큰 결과는 담당자의 검토와 승인을 거치도록 설계해야 합니다.</p>
+
+<h3><strong>Q4. 기업은 AI가 내놓은 답을 어떻게 신뢰할 수 있나요?</strong></h3>
+<p>답 자체보다 답을 다루는 운영 구조에서 신뢰가 생깁니다. 오류가 생겼을 때 누가 멈추고 수정하며 책임지는지, 데이터와 모델, 업무 맥락이 연결돼 있는지가 핵심입니다. SK AX는 AXgenticWire를 기반으로 기업이 AI의 답을 책임 있게 활용하는 운영 구조를 설계합니다.</p>
+
+<h3><strong>Q5. AXgenticWire는 무엇인가요?</strong></h3>
+<p>SK AX의 Agentic AI 통합 브랜드입니다. 배우고(Learn More), 만들고(Build Better), 가치를 더하는(Create Value) 단계에 맞춰, 기업이 AI 도입에서 그치지 않고 이를 업무 성과로 이어 가도록 지원합니다. AI가 낯선 구성원도 바로 활용할 수 있고, 한 사람이 만든 에이전트를 조직 전체가 함께 쓰며, 그 결과를 비즈니스 가치로 연결할 수 있습니다.</p>
+
+<hr/>
+
+<p><strong>AX 컨설팅부터 비즈니스 모델 발굴까지</strong><br/>
+<strong>Global Top 10 AX Service Company｜SK AX</strong></p>
+<h3><a href="https://www.skax.co.kr/support/contact?In_SupportType=contact&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_문의하기-6.png" alt=""/></a></h3>
+<p><a href="https://www.skax.co.kr/axgenticwire?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
+<p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
+<p>#AI수학난제, #나비에스토크스, #밀레니엄문제, #지수시간가설, #OpenAI, #Anthropic, #Lean, #AI검증, #HumanintheLoop, #AI거버넌스, #AI신뢰성, #멀티에이전트, #AI운영구조, #AXgenticWire, #SKAX</p>
+</div></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>정상 계정으로 위장한 데이터 유출, 쿼리까지 분석하는 GuardDuty 기반 DB 위협 탐지</title>
+			<link>https://www.skax.co.kr/insight/trend/3930/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3930/</guid>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_AWS-GuardDuty-RDS-Protection.png" alt=""/></p>
+
+<table>
+<tbody>
+<tr>
+<td>
+<h3><strong>한눈에 보는 핵심 인사이트</strong></h3>
+<p><em>피싱이나 잘못된 설정으로 노출된 정상 계정은 인증을 문제없이 통과하기 때문에, 로그인 이상 탐지만으로는 이후의 데이터 유출과 파괴를 알아차리기 어렵습니다. 최근 AWS가 Amazon GuardDuty RDS Protection에 추가한 데이터 활동 탐지는 이 공백을 겨냥한 기능입니다. 로그인 기록이 아니라 접속 이후 실행되는 쿼리를 분석하고, 데이터베이스와 사용자별 평소 패턴을 학습해 비정상적인 대량 조회와 데이터 삭제를 찾아냅니다. 에이전트 설치나 DB 설정 변경 없이 Amazon Aurora PostgreSQL과 Amazon RDS for PostgreSQL에 적용할 수 있다는 점도 특징입니다. 클라우드 보안은 이제 접근 차단을 넘어, 정상처럼 보이는 이상 행위를 빠르게 식별하고 대응하는 체계로 확장돼야 합니다.</em></p></td>
+</tr>
+</tbody>
+</table>
+
+<h2><strong>인증을 통과한 계정에서 시작되는 데이터 유출</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/1.-인증을-통과한-계정에서-시작되는-데이터-유출.png" alt=""/></p>
+<p>데이터 유출이 반드시 방화벽을 뚫거나 시스템 취약점을 파고드는 방식으로 일어나는 것은 아닙니다. 피싱, 사회공학 기법, 잘못된 설정 등으로 정상 계정 정보를 확보한 공격자는 데이터베이스에 정당한 사용자처럼 접속합니다. 아이디와 비밀번호가 맞으니 인증은 그대로 통과하고, 주어진 권한 안에서 데이터를 조회하거나 삭제합니다.</p>
+<p>기존 DB 위협 탐지는 무차별 대입 공격이나 처음 보는 외부 주체의 접속처럼 로그인 시점의 이상 징후에 초점을 맞춰 왔습니다. 올바른 계정 정보로 접속하면 로그인 성공 여부만으로는 공격자를 구분하기 어렵습니다. 평소 일부 레코드만 조회하던 계정이 고객 테이블 전체를 읽어 들이거나 운영 중인 테이블을 삭제하는 행위는 로그인 기록이 아니라 실행된 쿼리에서 드러납니다.</p>
+
+<h2><strong>접속 이후의 쿼리를 분석하는 GuardDuty 데이터 활동 탐지</strong></h2>
+
+<p>Amazon GuardDuty는 AWS 계정과 워크로드의 악의적 활동과 이상 행위를 모니터링하는 관리형 위협 탐지 서비스입니다. 그중 RDS Protection은 로그인 활동을 분석해 DB 위협을 탐지해 왔고, 2026년 10월 ‘데이터 활동에 대한 RDS Protection’이 추가되면서 탐지 범위가 접속 이후의 행위로 넓어졌습니다.</p>
+<p>새 기능은 Amazon Aurora PostgreSQL과 Amazon RDS for PostgreSQL의 쿼리 패턴을 지속적으로 모니터링합니다. 해당 DB나 사용자의 평소 수준보다 훨씬 많은 행을 읽는 대량 조회, 데이터를 삭제(DELETE)하거나 제거(DROP)하는 파괴 행위, 알려진 악성 IP나 Tor IP 주소에서의 접근이 대표적인 탐지 대상입니다. 의심스러운 행위가 탐지되면 침해 가능성이 있는 데이터베이스의 상세 정보를 담은 탐지 결과(Finding)를 생성합니다.</p>
+
+<h2><strong>기존 DB 보안과 다른 세 가지 차별점</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/2.-기존-DB-보안과-다른-세-가지-차별점.png" alt=""/></p>
+
+<p><strong>1. 누가 들어왔는지보다 무엇을 했는지를 분석</strong></p>
+<p>로그인 성공 여부가 아니라 실제 실행된 쿼리를 분석합니다. 계정이 정상이어도 행동이 비정상이면 탐지할 수 있어, 탈취된 계정을 이용한 공격에 대응할 수 있습니다.</p>
+
+<p><strong>2. DB와 사용자별 평소 패턴을 기준으로 판단</strong></p>
+<p>머신러닝으로 데이터베이스와 사용자별 정상 쿼리 패턴의 기준선을 만들고, 여기에 위협 인텔리전스를 결합합니다. 일괄 규칙이 아니라 각 계정의 평소 행동과 비교하기 때문에 기존 도구가 놓치기 쉬운 이상 행위를 가려낼 수 있습니다.</p>
+
+<p><strong>3. 운영 중인 DB에 부담 없이 적용</strong></p>
+<p>에이전트 설치, 추가 인프라, DB 설정 변경이 필요 없고 DB 인스턴스 성능에 영향을 주지 않도록 설계됐습니다. 기존 로그인 활동 RDS Protection에 더하는 방식이며, GuardDuty 콘솔에서 클릭 한 번으로 조직 전체에 활성화하거나 API, SDK, CLI, AWS CloudFormation으로 적용할 수 있습니다.</p>
+
+<h2><strong>탐지에서 대응까지 이어지는 보안 운영</strong></h2>
+
+<p>도입 시 미리 감안할 점도 있습니다. 처음 활성화하거나 새 DB 인스턴스를 만들면 기준선을 학습하는 데 최대 2주가 걸립니다. 이 기간에는 정상 행위와의 차이를 분석하는 이상 행위 탐지 결과가 생성되지 않을 수 있습니다. 또 GuardDuty는 탐지 결과만 제공하고 데이터 활동 로그 자체는 제공하지 않으므로, 사고 조사와 컴플라이언스에 필요한 감사 로그는 별도로 갖춰야 합니다.</p>
+<p>탐지 결과를 실제 조치로 연결하는 체계도 필요합니다. 결과가 나왔을 때 누가 확인하고 어떤 기준으로 계정 권한을 회수하거나 비밀번호를 교체할지 정해 두어야 대응 시간을 줄일 수 있습니다. GuardDuty 탐지 결과는 AWS Security Hub, Amazon EventBridge, 서드파티 솔루션으로 보낼 수 있어 알림과 자동 대응 흐름에 연결하기 쉽습니다. 탐지 이전의 예방도 함께 봐야 합니다. 잘못된 설정은 계정 정보가 노출되는 경로가 되고, 필요 이상의 권한은 계정이 탈취됐을 때 피해 범위를 키웁니다.</p>
+
+<h2><strong>위협 탐지부터 대응 프로세스까지 아우르는 SK AX 통합 보안 체계</strong></h2>
+
+<p><img src="https://www.skax.co.kr/wp-content/uploads/3.-대응-프로세스까지-아우르는-SK-AX-통합-보안-체계.png" alt=""/></p>
+
+<p>SK AX는 GuardDuty 기반 위협 탐지부터 클라우드 보안 구성 점검, 데이터·권한 관리, 탐지 결과 기반 대응 프로세스까지 통합 보안 체계 구축을 지원합니다.</p>
+<p>• GuardDuty 기반 위협 탐지: 정상 접근으로 위장한 이상 행위를 탐지하는 체계를 구성합니다.<br/>
+• 클라우드 보안 구성 점검: 계정 정보 노출로 이어질 수 있는 설정 미흡을 점검합니다.<br/>
+• 데이터·권한 관리: 데이터와 계정 권한을 정비해 계정이 탈취되더라도 피해가 번지지 않도록 합니다.<br/>
+• 탐지 결과 기반 대응 프로세스: 탐지 결과가 확인과 조치로 곧바로 이어지도록 대응 절차를 설계합니다.</p>
+<p>탐지 도구 하나를 도입하는 데 그치지 않고 예방, 탐지, 대응을 하나의 흐름으로 연결해, 기업이 정상 접근 속에 숨은 위협까지 관리할 수 있도록 돕습니다.</p>
+
+<h2><strong>[FAQ]</strong></h2>
+
+<h3><strong>Q1. GuardDuty RDS Protection 데이터 활동 탐지는 기존 DB 보안과 무엇이 다른가요?</strong></h3>
+<p>로그인이 아니라 접속 이후 실행되는 쿼리를 분석한다는 점이 가장 큰 차이입니다. DB와 사용자별 평소 패턴을 학습해 대량 조회, 데이터 삭제·제거, 악성 IP 접근을 탐지하므로 탈취된 정상 계정을 이용한 공격도 찾아낼 수 있습니다. 에이전트 설치나 DB 설정 변경 없이 적용할 수 있다는 점도 특징입니다.</p>
+
+<h3><strong>Q2. 탈취된 정상 계정을 이용한 데이터 유출은 왜 탐지하기 어렵나요?</strong></h3>
+<p>공격자가 올바른 계정 정보로 인증을 통과하기 때문입니다. 로그인 이상 탐지는 접속 시점의 징후를 보는데, 정상 계정으로 접속하면 이 단계에서 걸러지지 않습니다. SK AX는 GuardDuty 기반 위협 탐지와 클라우드 보안 구성 점검을 함께 지원해 접속 이후의 이상 행위까지 확인할 수 있는 체계를 마련합니다.</p>
+
+<h3><strong>Q3. GuardDuty 데이터 활동 탐지는 어떤 데이터베이스에 적용할 수 있나요?</strong></h3>
+<p>Amazon Aurora PostgreSQL과 Amazon RDS for PostgreSQL에 적용할 수 있으며, 지원 엔진 버전은 GuardDuty 공식 문서에서 확인할 수 있습니다. 처음 활성화하거나 새 DB 인스턴스를 만들면 정상 패턴을 학습하는 데 최대 2주가 걸릴 수 있으므로 도입 초기 운영 계획에 반영하는 것이 좋습니다.</p>
+
+<h3><strong>Q4. DB 이상 행위가 탐지되면 어떻게 대응해야 하나요?</strong></h3>
+<p>탐지 내용을 확인한 뒤 침해가 의심되면 관련 계정의 접근 권한 회수나 비밀번호 교체 등으로 피해 확산을 막고 원인을 조사해야 합니다. 탐지 결과를 Security Hub나 EventBridge로 연결해 두면 알림과 대응을 자동화하기 쉽습니다. SK AX는 탐지 결과에 따른 대응 프로세스 설계는 물론 데이터·권한 관리까지 아우르는 통합 보안 체계 구축을 지원합니다.</p>
+
+<hr/>
+
+<p><strong>AX 컨설팅부터 비즈니스 모델 발굴까지</strong><br/>
+<strong>Global Top 10 AX Service Company｜SK AX</strong></p>
+<h3><a href="https://www.skax.co.kr/support/contact?In_SupportType=contact&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=cloud_2026.11.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_문의하기-6.png" alt=""/></a></h3>
+<p><a href="https://www.skax.co.kr/commerce/security-enhancement?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=cloud_2026.11.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
+<p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=cloud_2026.11.20"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
+<p>#AmazonGuardDuty, #RDSProtection, #DB보안, #데이터유출탐지, #계정탈취, #클라우드보안, #이상행위탐지, #AuroraPostgreSQL, #AmazonRDS, #SecurityHub, #EventBridge, #최소권한, #보안운영, #AWS보안, #SKAX</p>
+</div></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>[리포트 다운로드] ESG 공시 로드맵 확정: 3대 쟁점과 기업의 당면과제 | 11월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3928/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3928/</guid>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 18 Nov 2026 15:44:39 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/4.-ESG_썸네일.png" alt=""/></p>
 
 <h3><strong>ESG 공시는 이제 법정 의무, 2028년 첫 공시를 좌우할 2027년 1월 1일의 데이터</strong></h3>
@@ -79,7 +241,7 @@
 			<title>[리포트 다운로드] AI 기반 SOP: AI Native 조직전환을 위한 업무 지식 체계화 | 11월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3926/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3926/</guid>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 18 Nov 2026 15:36:22 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/3.-AI-썸네일.png" alt=""/></p>
 
 <h3><strong>AI Native 조직 전환의 출발점, 사람과 AI가 함께 쓰는 살아 있는 업무 표준 ‘AI 기반 SOP’</strong></h3>
@@ -152,7 +314,7 @@
 			<title>[리포트 다운로드] SCM이 제공하는 경영 의사결정 Data 및 SCM 솔루션의 역할 | 11월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3924/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3924/</guid>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 18 Nov 2026 15:30:33 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/2.-SCM.png" alt=""/></p>
 
 <h3><strong>업무를 관리하는 시스템에서 경영의 선택지를 만드는 시스템으로, SCM 데이터가 바꾸는 의사결정의 기준</strong></h3>
@@ -227,7 +389,7 @@
 			<title>[리포트 다운로드] 첨단 산업의 오픈이노베이션으로 보는 세상과 Insight | 11월 MI리포트</title>
 			<link>https://www.skax.co.kr/insight/trend/3922/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3922/</guid>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 18 Nov 2026 15:19:29 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/1.-오픈이노베이션.png" alt=""/></p>
 
 <h3><strong>모든 것을 직접 만드는 기업이 아닌, 연결을 지배하는 기업이 승리하는 첨단 산업의 새로운 경쟁 공식</strong></h3>
@@ -292,7 +454,7 @@
 			<title>가트너 2027 전략 기술 트렌드, 경쟁력을 가르는 음성 추론 모델과 AI 에이전트 아이덴티티</title>
 			<link>https://www.skax.co.kr/insight/trend/3912/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3912/</guid>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 18 Nov 2026 10:51:42 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_가트너2027.png" alt=""/></p>
 
 <table>
@@ -401,20 +563,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3906/</guid>
 			<pubDate>Thu, 29 Oct 2026 09:23:21 +0900</pubDate>
 			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_SK-AX-AWS-Migration-Modernization-1.png"/></figure>AWS가 Migration과 Modernization 역량을 나눠 검증하는 이유는 무엇이며, 두 인증을 모두 취득한 SK AX는 보험·ERP 차세대 프로젝트에서 어떻게 현대화 방향을 도출했을까요?]]></description>
-		</item>
-		<item>
-			<title>2026 AI 톺아보기, 에이전틱 AI 확산의 해에 드러난 기업 AI 성과의 과제</title>
-			<link>https://www.skax.co.kr/insight/trend/3904/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3904/</guid>
-			<pubDate>Fri, 23 Oct 2026 17:26:59 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_AI-트렌드-톺아보기.png"/></figure>응답자의 80%가 AI로 개인 생산성이 높아졌다고 답했지만, AI가 영업이익에 기여했다는 응답은 37%로 제자리였습니다. 도입을 성과로 바꿔낸 소수의 기업은 다른 기업과 무엇이 달랐을까요?]]></description>
-		</item>
-		<item>
-			<title>AI 에이전트 시대의 비용 관리, 에이전트 실행을 넘어 조직별 사용·한도를 아우르는 관리 체계</title>
-			<link>https://www.skax.co.kr/insight/trend/3902/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3902/</guid>
-			<pubDate>Thu, 22 Oct 2026 17:21:59 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_SK-AX-Enterprise-AI-Lens-2.png"/></figure>같은 모델을 써도 실행 방식에 따라 토큰 비용은 28%까지 달라집니다. 하지만 청구서는 전사 단위로 오고 사용 데이터는 플랫폼별로 흩어집니다. 에이전트 안의 낭비와 조직 단위의 사각지대를 함께 잡으려면 무엇을 봐야 할까요?]]></description>
 		</item>
 	</channel>
 </rss>
