@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Fri, 20 Nov 2026 09:30:06 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 10:30:05 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[낙찰] 2027년 신문기사 스크랩 솔루션 용역</title>
@@ -40,6 +40,26 @@
 		<ul>
 			<li>(주)다하미커뮤니케이션즈: 1순위</li>
 			<li>주식회사 비큐에이아이 (BECU AI Inc.): 2순위</li>
+		</ul>
+</ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>[순위확정] 첨단전력 전주기 획득 절차 제도화 연구</title>
+			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MHD&amp;dcsn_numb=40139&amp;csrt_numb=40139&amp;dmst_itnb=***&amp;bidx_date=20261103&amp;benf_pldt=20261103&amp;anmt_numb=MHD0078&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=2</link>
+			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MHD&amp;dcsn_numb=40139&amp;csrt_numb=40139&amp;dmst_itnb=***&amp;bidx_date=20261103&amp;benf_pldt=20261103&amp;anmt_numb=MHD0078&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=2</guid>
+			<author>방위사업청(운영지원과)</author>
+			<category>순위확정</category>
+			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<ul>
+	<li>공고번호: 긴급공고 MHD0078</li>
+	<li>발주기관: 방위사업청(운영지원과)</li>
+	<li>개찰/협상일시: 2026-11-03 15:00</li>
+	<li>입찰결과
+		<ul>
+			<li>법무법인(유한)태평양: 1순위</li>
+			<li>한국법제연구원: 2순위</li>
+			<li>사단법인기술과법연구소: 탈락</li>
 		</ul>
 </ul>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
