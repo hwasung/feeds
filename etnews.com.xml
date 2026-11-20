@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 14:30:38 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 15:30:36 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>위세아이텍 “AI 에이전트로 공공분야 데이터 분석 보고 업무 혁신”</title>
+			<link>https://www.etnews.com/20261120000256</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000256</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 14:50:46 +0900</pubDate>
+			<description><![CDATA[엔드투엔드 AI·데이터 플랫폼 기업 위세아이텍(대표 김다산, 이제동)은 19일 코엑스 그랜드볼룸에서 열린 '제28회 공공솔루션마켓'에 참가해 AI 에이전트를 활용한 공공 데이터 분석·보고 업무 혁신 방안을 발표했다고 20일 밝혔다. 공공솔루션마켓은 공공기관 정보화 담당자와 IT 기업이 모여 공공 정보화 정책과 최신 기술 동향을 공유하는 행사다. 올해는 'AI로 여는 공공 혁신 대도약'을 주제로 AI·행정혁신, AI 데이터·보안·사이버 복원력,...]]></description>
+		</item>
+		<item>
+			<title>국가AI전략위, 전남광주 AI·AX 현장 방문…“메가프로젝트 지원”</title>
+			<link>https://www.etnews.com/20261120000248</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000248</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 14:32:37 +0900</pubDate>
+			<description><![CDATA[국가인공지능전략위원회가 전남광주 지역 인공지능(AI) 정책 현장을 19일부터 이틀간 방문했다. 국산 AI 반도체와 AI 인프라, 조선 AX(AI전환) 현장을 직접 살폈다. 지난 6월 정부가 '대한민국 대도약 3대 메가프로젝트'로 전남광주를 메모리 팹 4기가 들어서는 제2 반도체 생산거점으로 육성하기로 하고, 8월 '3대 메가프로젝트 연계 권역별 성장엔진 육성방안'에서 서남권을 '재생에너지 기반 반도체·AI 클러스터'로 키우기로 한 데 따른 현장...]]></description>
+		</item>
 		<item>
 			<title>KISA, 악성 문자 5억건·스팸 전화 1200만건 사전 차단</title>
 			<link>https://www.etnews.com/20261120000021</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 10:59:16 +0900</pubDate>
 			<description><![CDATA[올해 세무사 1차 시험에서 회계학개론 고득점자가 급증한 현상이 시험 직전 출시된 인공지능(AI) 모델의 풀이 결과와 유사한 것으로 나타났다. 시험 9일 전 공개된 AI 모델이 별도 학습 없이 문제지만 보고 회계학개론 40문항을 모두 맞힌 것이다. 실제 시험에서는 90점 이상 득점자가 전년보다 30배 이상 늘었다. 20일 황정아 더불어민주당 의원은 2026년 제63회 세무사 1차 시험 문제지를 미국 앤트로픽의 AI 모델 '클로드'에 입력해 풀이...]]></description>
-		</item>
-		<item>
-			<title>샵링커, AI 이미지 편집 기능 탑재한 &apos;이미지호스팅&apos; 정식 출시</title>
-			<link>https://www.etnews.com/20261120000124</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000124</guid>
-			<author>이원지</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:58:00 +0900</pubDate>
-			<description><![CDATA[쇼핑몰 통합관리 전문기업 ㈜샵링커지앤씨(한국정보공학 자회사, 대표 김영식)가 지난 9월 베타 서비스로 선보인 '이미지호스팅'에 AI 이미지 편집 기능을 추가하고, 20일 정식 서비스로 전환한다고 밝혔다. 이번 정식 서비스의 가장 큰 특징은 기존 이미지 저장 및 관리 기능에 AI 기반 이미지 편집 기능을 결합했다는 점이다. 특히 사용자가 원하는 편집 내용을 프롬프트로 입력하면 AI가 이미지에 반영하는 방식으로, 별도의 전문 편집 프로그램이나 복잡...]]></description>
-		</item>
-		<item>
-			<title>오썸피아, 그리드맵AI 특허로 드론 기반 공공안전 분야 확대</title>
-			<link>https://www.etnews.com/20261120000128</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000128</guid>
-			<author>박유민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:54:25 +0900</pubDate>
-			<description><![CDATA[공간 인공지능(AI) 기업 오썸피아(대표 민문호)가 자체 개발한 '그리드맵 AI' 관련 기술 2건에 대해 각각 특허 등록과 등록결정을 받았다고 20일 밝혔다. 'XR 기술이 융합된 지능형 화재 감지 시스템(특허 제10-2979711호)'은 2026년 6월 15일 등록됐다, '단위 격자 기반의 지능형 산불 관리 시스템(출원번호 10-2026-0132876)'은 11월 17일 지식재산처의 특허결정을 받았다. 그리드맵 AI는 관리 지역을 작은 격자로...]]></description>
 		</item>
 	</channel>
 </rss>
