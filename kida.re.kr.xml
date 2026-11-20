@@ -4,8 +4,38 @@
 		<title>한국국방연구원 발간물</title>
 		<link>https://www.kida.re.kr/</link>
 		<description>한국국방연구원 발간물</description>
-		<lastBuildDate>Thu, 19 Nov 2026 18:33:56 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 18:33:24 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>일본의 러시아 그림자 선단 제재와 안보적 함의 (제26-62호)</title>
+			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=154&amp;depth=2&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=154&amp;depth=2&amp;lang=kr</guid>
+			<author>조은일</author>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[java.util.concurrent.TimeoutException: The source did not signal an event for 12000 milliseconds and has been terminated.]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>두뇌 컴퓨터 인터페이스(BCI)의 군사적 활용 가능성 (제26-61호)</title>
+			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=153&amp;depth=2&amp;lang=kr</link>
+			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=153&amp;depth=2&amp;lang=kr</guid>
+			<author>이장욱</author>
+			<pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<p>◎ 최근 미국을 중심으로 BCI의 군사적 활용을 위한 연구개발이 추진되고 있음.</p>
+<p>- 건강한 인간 병사가 수술 없이 사용할 수 있는 ‘비침습’형 BCI가 유력</p>
+<p>- 뇌 신호로 (반자율) 드론 통제 및 외부 장비의 조작을 목표로 하고 있음.</p>
+<p>- 비침습형의 경우, 선명한 뇌 신호를 얻을 수 없다는 단점이 있어 기술적 난제를 돌파하기 위한 시도가 이루어지고 있음(DARPA).</p>
+<p>- 현실적인 구현 형태는 기존의 헬멧 디스플레이에 BCI 전극을 부착하는 형태임.</p>
+
+<p>◎ BCI의 군사적 활용은 전쟁 양상 변화를 포함한 안보적 파급력을 예고하고 있음.</p>
+<p>- 전장의 초연결성 강화, 유무인 복합의 고도화, 원격전(“No Blood for First Contact”)의 확대를 예고</p>
+<p>- 미·중 간의 BCI 기술 경쟁은 기술통제와 공급망 무기화를 통해 격화될 수도 있음.</p>
+<p>- 한미연합전력이 BCI 기반 첨단 유무인 복합 전력을 강화할 경우, 북한은 전파교란, 사이버, 핵 고도화 등 비대칭적 접근을 더욱 강화하게 될 가능성 큼.</p>
+<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
+<li><a href="https://www.kida.re.kr/cmm/viewBoardImageFile.do?idx=48740">[FOCUS 26-61] 두뇌 컴퓨터 인터페이스(BCI)의 군사적 활용 가능성(최종).pdf</a></li>
+</ul></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>군사 인공지능 국제규범의 발전과 한국의 대응 : 「국방인공지능법안」을 중심으로 (제26-60호)</title>
 			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=152&amp;depth=2&amp;lang=kr</link>
@@ -31,24 +61,6 @@
 			<author>고현호</author>
 			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>저자: 고현호</li><li>발행일자: 2026-11-16</li></ul>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>시리아 화학무기 폐기의 최근 진전과 한반도 안보에의 함의 (제26-58호)</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=150&amp;depth=2&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=3244&amp;idx=150&amp;depth=2&amp;lang=kr</guid>
-			<author>진의림</author>
-			<pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 진의림</li><li>발행일자: 2026-11-12</li></ul>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>전시 인지전의 개념과 체제별 차이: 러시아-우크라이나 전쟁을 중심으로</title>
-			<link>https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2181&amp;depth=3&amp;lang=kr</link>
-			<guid isPermaLink="true">https://www.kida.re.kr/frt/board/frtNormalBoardDetail.do?sidx=382&amp;idx=2181&amp;depth=3&amp;lang=kr</guid>
-			<author>김윤종, 박상현</author>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>저자: 김윤종, 박상현</li><li>발행일자: 2026-11-09</li></ul>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
