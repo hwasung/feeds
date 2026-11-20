@@ -4,8 +4,59 @@
 		<title>지디넷코리아</title>
 		<link>http://zdnet.co.kr/</link>
 		<description>지디넷코리아</description>
-		<lastBuildDate>Fri, 20 Nov 2026 21:31:25 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 21 Nov 2026 08:31:30 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>&quot;에지 AI 확산이 메모리 성장 견인&quot;…CXMT, 차세대 저전력 제품 양산</title>
+			<link>https://zdnet.co.kr/view/?no=20261118203029</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261118203029</guid>
+			<author>진운용 기자</author>
+			<category>CXMT</category>
+			<category>중국</category>
+			<category>메모리</category>
+			<category>반도체</category>
+			<category>삼성전자</category>
+			<category>SK하이닉스</category>
+			<category>엣지 AI</category>
+			<category>스마트폰</category>
+			<category>PC</category>
+			<category>스마트 주행</category>
+			<category>자동차</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Sat, 21 Nov 2026 07:00:01 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/18/fae68083d164b8b12e037fd2d2e8b908.jpg" alt=""><p>에지 인공지능(AI)이 글로벌 메모리 시장 확장을 이끄는 동력으로 부상했다. 데이터센터에 집중됐던 메모리 반도체 수요가 AI 스마트폰과 자동차, 소비자용 기기 전반으로 확산하고 있다. 중국 메모리 반도체 기업 창신메모리테크놀로지(CXMT)는 차세대 저전력 메모리 LPDDR6 양산에 돌입했다.</p>
+<p>21일 중국 펑파이신문에 따르면 차오칸위 CXMT 총재는 최근 3분기 실적발표에서 메모리 반도체 수요 증가세가 데이터센터에서 소비자용 단말기로 옮겨가고 있다고 밝혔다. AI 스마트폰과 AI PC, AI 글래스, 스마트 주행차량 등 신형 단말기 보급으로 기기 자체에서 AI를 구동하는 온디바이스 AI용 메모리 수요가 증가하고 있다. </p>
+<p><span style="letter-spacing: 0.8px;">차오칸위 총재는 "온디바이스 AI 메모리 수요 증가율이 다른 분야를 웃돈다"며 "글로벌 메모리 시장 확장을 이끄는 핵심동력</span><span style="letter-spacing: 0.8px;">"이라고 진단했다.</span></p>
+<img src="https://image.zdnet.co.kr/2026/11/18/fae68083d164b8b12e037fd2d2e8b908.jpg" alt="CXMT의 차세대 모바일 저전력 메모리 LPDDR6. (사진=CXMT 홈페이지)">
+<p><span style="letter-spacing: 0.8px;">최근 거시경제 환경 악화와 원가 상승 등으로 </span><span style="letter-spacing: 0.8px;">전체 소비자용 기기 시장이 위축됐으나, CXMT는 AI 단말기 보급이 창출할 메모리 추가 수요를 긍정 평가했다. 차량용 시장 역시 스마트 주행 기술이 상용화 단계에 접어들면서 메모리 탑재량이 늘고 있다.</span></p>
+<p>CXMT는 에지 AI 수요 확대에 대응하기 위해 LPDDR6 제품을 출시했다. 신제품은 중국 업체 플래그십 스마트폰에 탑재하기 위해 양산을 시작했다. 최고 전송속도는 <span style="letter-spacing: 0.8px;">1만 </span><span style="letter-spacing: 0.8px;">2800Mbps(초당 메가비트)다. 이전 세대인 LPDDR5X와 비교해 데이터 전송대역폭은 60% 넓어졌고 전력소모는 20% 줄었다. 데이터 처리속도를 높이면서 전력효율을 개선해 플래그십폰이 요구하는 고성능 연산과 장시간 배터리 구동 조건을 충족했다. </span></p>
+<p><span style="letter-spacing: 0.8px;">LPDDR6 활용처는 모바일을 넘어 산업 전반으로 넓어지고 있다. 향후 스마트 주행차량과 에지 컴퓨팅 기기는 물론 높은 전력효율을 요구하는 서버 환경으로도 적용 범위를 확대할 수 있다. 단말기에서 수집한 데이터를 실시간</span><span style="letter-spacing: 0.8px;"> 처리해야 하는 에지 AI 특성상 저전력·고성능 메모리 중요성이 커진 결과다.</span></p>
+<p>CXMT는 실적발표에서 데이터센터와 기업용 서버 시장을 겨냥한 고성능 제품군도 구체화했다. CXMT는 서버용 메모리 분야에서 DDR5 기반 등록형 듀얼 인라인 메모리 모듈(RDIMM)과 멀티플렉스드 랭크 듀얼 인라인 메모리 모듈(MRDIMM) 등 규격 제품을 선보였다. </p>
+<p>RDIMM은 32기가바이트(GB)부터 128GB까지 주력 용량대를 구성했다. 전송 속도는 5600Mbps에서 8000Mbps를 지원한다. <span style="letter-spacing: 0.8px;">고성능 연산에 특화한 MRDIMM은 128GB와 192GB 두 가지 용량 규격으로 공개됐다. 최고 전송 속도는 </span><span style="letter-spacing: 0.8px;">1만 </span><span style="letter-spacing: 0.8px;">2800Mbps에 이른다.</span></p>
+<p>CXMT의 3분기 매출은 1187억 위안(약 23조 7000억원)으로 전년 동기 대비 613% 증가했다. 지배주주 귀속 순이익은 지난해 적자에서 올해 544억 위안(약 10조 9000억원)으로 흑자 전환했다.</p>
+]]></description>
+		</item>
+		<item>
+			<title>오킨스전자, 케미텍 반도체 검사장비 커넥터 특허 2건 무효심판 청구</title>
+			<link>https://zdnet.co.kr/view/?no=20261121002518</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261121002518</guid>
+			<author>이기종 기자</author>
+			<category>오킨스전자</category>
+			<category>케미텍</category>
+			<category>반도체</category>
+			<category>검사장비</category>
+			<category>반도체ㆍ디스플레이</category>
+			<pubDate>Sat, 21 Nov 2026 00:38:23 +0900</pubDate>
+			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/21/b50e57f26d68262e33e7dadf575b9510.png" alt=""><p><span style="letter-spacing: 0.8px;">반도체 검사장비 부품업체</span><span style="letter-spacing: 0.8px;"> </span><span style="letter-spacing: 0.8px;">오킨스전자가 케미텍</span><span style="letter-spacing: 0.8px;"> </span><span style="letter-spacing: 0.8px;">특허 2건을 상대로 무효심판을 청구했다. 반도체 검사장비 커넥터 기술이 쟁점이다. 오킨스전자는 특허 2건 중 1건에 대해선 </span><span style="letter-spacing: 0.8px;">특허를 침해하지 않았다고 주장하는 소극적 권리범위확인심판(소극심판)도 청구했다. </span></p>
+<p><span style="letter-spacing: 0.8px;">21일 업계에 따르면 오킨스전자는 지난 6월 케미텍의 &apos;테스트 장치용 커넥터 어셈블리&apos; 특허(등록번호 1984493, 아래 &apos;493 특허)의 청구항 1항(독립항)과 2항(종속항), 지난 10월 &apos;저삽입력 커넥터 어셈블리&apos; 특허(등록번호 2363330, 아래 &apos;330 특허)의 청구항 1항을 상대로 </span><span style="letter-spacing: 0.8px;">특허심판원에 무효심판을 </span><span style="letter-spacing: 0.8px;">청구했다. </span><span style="letter-spacing: 0.8px;">오킨스전자는 &apos;330 특허에 대해선 </span><span style="letter-spacing: 0.8px;">소극심판도 청구했다. </span><span style="letter-spacing: 0.8px;">소극심판의 쟁점 청구항도 1항이다. </span></p>
+<p><span style="letter-spacing: 0.8px;">&apos;493 특허는 반도체 검사장비용 커넥터 정렬</span>·<span style="letter-spacing: 0.8px;">연결 기술이다. 커넥터를 결합할 때 가이드 돌기가 홈에 먼저 들어가고 커넥터가 조금 움직일 수 있어, 위치 오차에 따른 핀 파손과 접촉 불량을 줄일 수 있다. &apos;330 특허는 반도체 검사장비에서 테스트 헤드에 설치한 커넥터와 상대 커넥터를 작은 힘으로 </span><span style="letter-spacing: 0.8px;">결합하고, 핸들 조작으로 핀을 가압해 접촉하는 기술</span><span style="letter-spacing: 0.8px;">이다. </span><span style="letter-spacing: 0.8px;">두 특허 모두 반도체 검사장비 내부 전기 연결 부품 </span><span style="letter-spacing: 0.8px;">기술이다. </span></p>
+<img src="https://image.zdnet.co.kr/2026/11/21/b50e57f26d68262e33e7dadf575b9510.png" alt="(사진=오킨스전자)">
+<p><span style="letter-spacing: 0.8px;">일반적으로 특허무효심판과 소극심판은 특허권자로부터 특허침해를 경고받았거나, 특허침해소송의 피고가 된 업체가 </span><span style="letter-spacing: 0.8px;">대응 차원에서 청구하는 분쟁이다. 오킨스</span><span style="letter-spacing: 0.8px;">전자 입장에선 케미텍 특허가 사업에 걸림돌이 된다고 판단한 것으로 보인다. </span></p>
+<p><span style="letter-spacing: 0.8px;">코스닥 상장사인 오킨스전자의 </span>주력품은 반도체 검사용 번인 소켓과 테스트 소켓, 커넥터, 프로브핀 등이다. 국내외 고객사는 삼성전자와 SK하이닉스, 마이크론, CXMT, YMTC, 세메스, 코리아인스트루먼트 등이다. </p>
+<p><span style="letter-spacing: 0.8px;">오킨스전자의 올해 3분기 누적 실적은 매출 986억원, 영업이익 192억원, 당기순이익 176억원 등이다. 전년 동기보다 매출은 42% 늘었다. 영업이익은 106억원, 당기순이익은 136억원 늘었다. </span></p>
+<p><span style="letter-spacing: 0.8px;">비상장사인 케미텍의 지난 2025년 실적은 매출 510억원, 영업이익 318억원, 당기순이익 263억원 등이다. 전년비 매출과 영업이익, 당기순이익 모두 상승했다. </span></p>
+]]></description>
+		</item>
 		<item>
 			<title>[카드뉴스] AI와 전문가 말이 다른데 전문가가 틀리면 누구 책임일까</title>
 			<link>https://zdnet.co.kr/view/?no=20261120102440</link>
@@ -89,7 +140,7 @@
 ]]></description>
 		</item>
 		<item>
-			<title>3달 만에 로봇 만들고, 비전공자가 의료 앱 개발…애플이 만든 &apos;IT 교실&apos;</title>
+			<title>3개월 만에 로봇 만들고, 비전공자가 의료 앱 개발…애플이 만든 &apos;IT 교실&apos;</title>
 			<link>https://zdnet.co.kr/view/?no=20261120175216</link>
 			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261120175216</guid>
 			<author>장경윤 기자</author>
@@ -104,6 +155,7 @@
 			<category>아이폰</category>
 			<category>R&amp;D</category>
 			<category>스타트업</category>
+			<category>반도체ㆍ디스플레이</category>
 			<category>반도체ㆍ디스플레이</category>
 			<pubDate>Fri, 20 Nov 2026 18:05:12 +0900</pubDate>
 			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/20/6209e9a0d3f05960c47e907b1b0051f9.jpg" alt=""><p><span style="letter-spacing: 0.8px;">20일 오후 포</span><span style="letter-spacing: 0.8px;">항공과대학교(POSTECH) C5동</span><span style="letter-spacing: 0.8px;">. 양과 알파카를 닮은 귀여운 로봇이 사람들의 이목을 사로잡았다. </span><span style="letter-spacing: 0.8px;">&apos;애플 디벨로퍼 아카데미&apos; 팀원들이 만든 아이폰 기반의 개인 가정용 로봇, &apos;양파카&apos;의 모습이다.</span></p>
@@ -286,7 +338,7 @@
 ]]></description>
 		</item>
 		<item>
-			<title>[AI 고속도로] AI 데이터센터 구축 문턱 낮아진다…업계 기대 속 남은 과제는</title>
+			<title>AI 데이터센터 구축 문턱 낮아진다…업계 기대 속 남은 과제는</title>
 			<link>https://zdnet.co.kr/view/?no=20261120171231</link>
 			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261120171231</guid>
 			<author>한정호 기자</author>
@@ -793,60 +845,6 @@
 <p>방미통위는 2024년 6월 인터넷 대량문자 전송 서비스를 하는 문자재판매사업자가 영업에 앞서 문자중계사업자의 인증을 받도록 한 전송자격인증제를 도입했다. 지난 9월에는 불법스팸 전송자와 방지 의무를 소홀히 한 사업자에게 관련 매출의 1~6% 또는 1억~20억원의 과징금을 물리는 정보통신망법 시행령 개정안을 의결했다. 그전에는 3000만원 이하 과태료 수준이었다.</p>
 <p>방미통위와 KISA가 16일 공개한 올해 상반기 스팸 유통현황에서 이용자 1인당 월평균 스팸 수신량은 8.52통으로 지난해 하반기보다 17.7% 줄었다. 접수, 탐지 건수는 문자스팸이 1288만건에서 697만건으로 45.9% 줄었다. 음성스팸은 873만건에서 1118만건으로 28.1%, 이메일 스팸은 206만건에서 331만건으로 60.7% 늘었다. </p>
 <p>방미통위는 전송자격인증제 등 규제 강화와 통신사, 단말기 제조사의 차단 노력이 문자스팸 감소에 영향을 준 것으로 분석했다.</p>
-]]></description>
-		</item>
-		<item>
-			<title>[유미&apos;s 픽] 中, APEC서 AI 주도권 확보 승부수…美 기술 통제에 &apos;맞불&apos;</title>
-			<link>https://zdnet.co.kr/view/?no=20261120153836</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261120153836</guid>
-			<author>장유미 기자</author>
-			<category>유미</category>
-			<category>유미s 픽</category>
-			<category>APEC</category>
-			<category>시진핑</category>
-			<category>트럼프</category>
-			<category>시진핑 트럼프</category>
-			<category>미중 AI</category>
-			<category>AI GPU</category>
-			<category>중국 APEC</category>
-			<category>선전 APEC</category>
-			<category>컴퓨팅</category>
-			<pubDate>Fri, 20 Nov 2026 15:42:48 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/20/3c4d8301251fa6335d6331141a8769e0.jpg" alt=""><p>미국과 중국의 인공지능(AI) 패권 경쟁이 첨단 반도체를 넘어 연산 자원과 데이터 협력망을 둘러싼 주도권 다툼으로 확대되고 있다. 중국이 아시아태평양경제협력체(APEC)를 무대로 AI·디지털 기술 분야의 국제 협력 확대에 나선 가운데 미국은 해외 데이터센터를 통한 중국 기업의 첨단 AI 연산 자원 활용까지 통제하며 견제 수위를 높이고 있다.</p>
-<p>20일 중국 외교부에 따르면 시진핑 중국 국가주석은 지난 19일 선전에서 열린 APEC 정상회의에서 AI와 디지털 경제를 혁신 성장의 동력으로 제시하며 역내 협력 강화를 촉구했다. 특히 디지털 인프라 구축과 데이터 거버넌스 협력, 안전하고 효율적인 국경 간 데이터 이동을 확대해야 한다고 강조했다.</p>
-<p>중국은 이를 지원하기 위해 디지털 기술과 국경 간 데이터 이동 등을 위한 협력 기구를 설립하겠다는 계획도 공개했다. APEC 정상들이 채택한 공동문서 &apos;선전 전망&apos;에도 국경 간 데이터 이동과 디지털 기술 활용을 촉진하기 위한 협력 방향이 담겼다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/20/3c4d8301251fa6335d6331141a8769e0.jpg" alt="중국 선전국제교류센터서 열린 APEC 정상회의에 참석한 각국 정상들. 2026.11.19 (사진=뉴스1)">
-<p>이 같은 움직임은 미국의 AI 기술 통제가 강화되는 상황에서 중국이 역내 협력 관계를 확대하며 AI 생태계에서 영향력을 확보하려는 시도로 해석된다. AI 모델 개발에 필요한 컴퓨팅 자원뿐 아니라 데이터를 활용하고 서비스를 해외에 공급할 수 있는 환경도 글로벌 AI 산업의 경쟁력을 좌우하는 요소로 떠오르고 있기 때문이다.<br><br>특히 이번 APEC에서는 AI를 비롯한 신기술의 산업 적용 확대와 함께 디지털 무역 환경을 개선하기 위한 협력도 강조됐다. 정상들은 &apos;APEC 무역 디지털화 협력 프레임워크(2027~2030)&apos;를 환영하며 국경 간 전자상거래와 디지털 기술 활용을 촉진하기로 했다. 이는 중국 AI 기업들이 해외 시장에서 사업을 확대하는 데 필요한 협력 기반을 넓힐 수 있다는 점에서도 의미가 있다.</p>
-<p>실제 미국은 이번 APEC 정상회의를 앞두고 중국의 첨단 AI 연산 자원 접근을 제한하는 새로운 규제를 내놨다. 미국 상무부 산업안보국(BIS)은 지난 16일 관련 잠정 최종 규칙(RIN 0694-AK50)을 공개하고 19일부터 시행했다. 이는 중국 등 규제 대상국 기업이 제3국 데이터센터를 통해 미국 기술 기반의 첨단 AI 반도체를 활용하는 우회 경로를 차단하려는 조치다.</p>
-<p>이번 규제는 반도체의 물리적 수출뿐 아니라 해외에 설치된 AI 인프라의 활용 목적까지 통제 범위를 넓힌 것이 특징이다. 단일 데이터센터 또는 디지털로 연결된 여러 데이터센터에서 중국 등 규제 대상 기업에 제공하는 연산 성능이 1200만 TPP(총처리성능)를 초과하는 경우 관련 첨단 반도체의 수출·재수출·이전에 미국 정부의 허가가 필요하다.</p>
-<p>제3국 기업이 중국 기업을 대신해 AI 모델을 학습시키거나 공급하는 방식도 규제 대상에 포함된다. 다만 모든 원격 연산 이용을 금지하는 것은 아니며 최종 이용자와 거래 조건 등에 따라 허가 요건이 달라진다.</p>
-<p>이로 인해 중국 AI 기업들의 기술 개발 부담도 커질 것으로 예상된다. 중국 기업들은 미국의 첨단 반도체 수출통제 속에서 학습 효율을 높이는 알고리즘과 지식 증류 기술 등을 활용해 경쟁력을 확보해 왔다. 이 탓에 해외 고성능 그래픽처리장치(GPU)를 활용한 모델 학습과 합성 데이터 생성에 제약이 커지면 자체 AI 반도체와 컴퓨팅 인프라 확보의 중요성도 높아질 수밖에 없다.</p>
-<p>그러나 미중 양국은 기술 주도권을 둘러싼 경쟁 속에서도 이번에 AI 안전성 확보를 위한 협력 가능성은 열어뒀다. 도널드 트럼프 미국 대통령은 지난 19일 NBC방송과의 인터뷰에서 시 주석과 AI 안전장치 도입 방안을 논의했다고 밝혔다. 다만 구체적인 협의 내용이나 합의 여부는 공개하지 않았다.</p>
-<p>업계에선 중국이 APEC을 통해 AI 협력망 확대를 추진하고 있지만 미국의 첨단 연산 자원 통제에 따른 기술적 제약을 해소하기는 쉽지 않을 것으로 전망했다. 특히 중국 기업들이 제한된 컴퓨팅 자원을 효율적으로 활용하며 미국과의 기술 격차를 좁혀온 만큼 해외 연산 인프라에 대한 접근 제한은 기존 개발 전략에도 영향을 미칠 것으로 내다봤다.</p>
-<p>이승현 알파카랩 대표는 "중국은 지금 미국을 앞설 생각은 없어 보인다"며 "그동안 미국이 앞서가면 이를 효율적으로 따라가는 패스트 팔로어 전략을 취해 왔는데 미국이 이제 그걸 차단하려는 것"이라고 말했다.</p>
-]]></description>
-		</item>
-		<item>
-			<title>항공권·패키지 할인·적립 제공…네이버여행, &apos;슈퍼위크&apos; 진행</title>
-			<link>https://zdnet.co.kr/view/?no=20261120144955</link>
-			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261120144955</guid>
-			<author>박서린 기자</author>
-			<category>네이버</category>
-			<category>여행</category>
-			<category>패키지여행</category>
-			<category>숙박</category>
-			<category>호텔</category>
-			<category>항공권</category>
-			<category>인터넷</category>
-			<pubDate>Fri, 20 Nov 2026 15:31:08 +0900</pubDate>
-			<description><![CDATA[[지디넷코리아]<img src="https://image.zdnet.co.kr/2026/11/20/0929eeffee71810f5cfb06c58a06dc5e.png" alt=""><p>네이버는 오는 29일까지 여행 상품에 할인·적립 혜택을 지급하는 &apos;네이버여행 슈퍼위크&apos;를 실시한다고 20일 밝혔다.</p>
-<p>이번 행사는 ▲항공권 ▲숙박시설 ▲패키지여행 등 여러 상품을 대상으로 마련됐다. 펜션도 행사 대상에 포함된다.</p>
-<p>행사에서는 매일 수량을 제한해 ▲항공권 ▲호텔 ▲패키지 상품을 할인 판매한다. 국내선 항공권을 대상으로 한 시간 한정 판매는 오전 11시마다 시작한다. 일부 국내 노선의 할인 폭은 최대 90%다.</p>
-<img src="https://image.zdnet.co.kr/2026/11/20/0929eeffee71810f5cfb06c58a06dc5e.png" alt="(사진=네이버)">
-<p><span style="letter-spacing: 0.8px;">해외 항공편 예약 고객에게는 할인과 적립을 합쳐 최대 10만원 상당의 혜택이 제공된다. 대상 여행지는 ▲시드니 ▲호놀룰루 ▲뉴욕 ▲로스앤젤레스 ▲로마 ▲바르셀로나 ▲파리 ▲런던 ▲프라하 ▲리스본이다.</span></p>
-<p>100원에 여행 상품을 살 수 있는 추첨 행사도 열린다. 일본행 항공권과 국내 호텔 숙박권이 대상이다. 당첨자는 청주공항에서 출발하는 일본 노선 항공권 또는 국내 호텔 숙박권을 각각 100원에 구매할 수 있다.</p>
-<p>네이버플러스 멤버십 가입자를 위한 포인트 행사도 진행한다. 행사 기간 여행 상품을 예약한 회원 가운데 먼저 참여한 400명에게 네이버페이 포인트 총 2000만원 상당을 지급한다.</p>
-<p>국내 고급 호텔과 해외 휴양지 리조트 예약에도 할인 가격이 적용된다. 패키지여행 특가 상품도 판매하며, 행사 기간 방송되는 &apos;여행 라이브&apos;에서는 방송 전용 혜택을 제공한다.</p>
 ]]></description>
 		</item>
 	</channel>
