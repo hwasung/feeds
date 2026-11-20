@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 13:30:36 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 14:30:38 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>KISA, 악성 문자 5억건·스팸 전화 1200만건 사전 차단</title>
+			<link>https://www.etnews.com/20261120000021</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000021</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 14:00:00 +0900</pubDate>
+			<description><![CDATA[한국인터넷진흥원(KISA)이 민간기업과 협력해 악성 문자 약 5억건과 스팸 전화 약 1200만건을 이용자 수신 전에 차단했다. 국민이 신고한 스팸 데이터를 인공지능(AI)으로 분석하고 민간기업의 차단 기술과 결합한 성과다. KISA와 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 '2026 스팸 데이터 개방 성과 공유회'를 개최하고 이 같은 성과를 발표했다. 대표 사례는 삼성전자와 공동 개발한 AI 기반 '악성 메시지 차단' 서비스다....]]></description>
+		</item>
+		<item>
+			<title>한국이러닝협회, 원격훈련 실무자를 위한 AI 활용 교육 실시</title>
+			<link>https://www.etnews.com/20261120000224</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000224</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 13:58:19 +0900</pubDate>
+			<description><![CDATA[한국이러닝협회는 지난 18일 서울글로벌센터빌딩 국제회의장에서 '2026 원격훈련 종사자 실무 교육'을 개최했다고 20일 밝혔다. 이번 교육은 원격훈련기관 전산·운영 담당자의 실무 역량을 강화하고, AI 기술을 활용한 업무 효율화와 교육 콘텐츠 제작 방안을 공유하기 위해 마련됐다. 현장에는 협회 회원사와 비회원사 등 다양한 원격훈련기관의 관계자들이 참석했다. 강호준 한국이러닝협회 국장은 인사말을 통해 2027년 사업주훈련에서 AI 기초 및 융합훈...]]></description>
+		</item>
+		<item>
+			<title>유라클, 금융권 UMS 사업 잇따라 수주…금융 메시징 플랫폼 경쟁력 입증</title>
+			<link>https://www.etnews.com/20261120000214</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000214</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 13:51:06 +0900</pubDate>
+			<description><![CDATA[모바일 플랫폼 및 인공지능(AI) 전문기업 유라클(대표 조준희, 권태일)은 금융권 통합 메시지 시스템(UMS) 통합 메시지 시스템) 사업을 잇달아 수주하며 금융 IT 시장에서 입지를 확대하고 있다. 유라클은 최근 LG CNS와 협력해 신한카드 통합 마케팅 플랫폼 구축 사업 중 UMS 구축 부문을 수주한 데 이어, SK AX와 함께 저축은행중앙회 차세대 시스템의 UMS 구축 사업도 수주했다고 밝혔다. 국내 주요 금융기관의 핵심 IT 프로젝트에 연...]]></description>
+		</item>
+		<item>
+			<title>센스톤, 美 정부 수도시설 보안 프로젝트 참여…OT 보안 기술 공급</title>
+			<link>https://www.etnews.com/20261120000211</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000211</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 13:48:48 +0900</pubDate>
+			<description><![CDATA[국내 운영기술(OT) 보안 기업 센스톤이 미국 백악관과 텍사스 주정부가 추진하는 핵심 인프라 사이버보안 프로젝트에 참여한다. 미국 보안기업과 컨소시엄을 구성해 수도시설의 산업제어시스템 접근 보안을 강화할 계획이다. 센스톤은 미국 산업·핵심 인프라 보안 전문기업 어플라이드 시큐리티 컨버전스(ASC)와 함께 '프로젝트 워터셰드 250'에 참여한다고 20일 밝혔다. 프로젝트 워터셰드 250은 백악관 국가사이버국장실(ONCD), 텍사스 주지사실, 텍사...]]></description>
+		</item>
 		<item>
 			<title>비수도권 AIDC 50㎿ 이하 전평 면제…인정 기준도 구체화</title>
 			<link>https://www.etnews.com/20261120000171</link>
@@ -59,42 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 10:54:25 +0900</pubDate>
 			<description><![CDATA[공간 인공지능(AI) 기업 오썸피아(대표 민문호)가 자체 개발한 '그리드맵 AI' 관련 기술 2건에 대해 각각 특허 등록과 등록결정을 받았다고 20일 밝혔다. 'XR 기술이 융합된 지능형 화재 감지 시스템(특허 제10-2979711호)'은 2026년 6월 15일 등록됐다, '단위 격자 기반의 지능형 산불 관리 시스템(출원번호 10-2026-0132876)'은 11월 17일 지식재산처의 특허결정을 받았다. 그리드맵 AI는 관리 지역을 작은 격자로...]]></description>
-		</item>
-		<item>
-			<title>[꿈을 향한 교육] 전자신문, 경기자동차과학고 전교생 대상 중소기업 이해 교육 실시</title>
-			<link>https://www.etnews.com/20261120000095</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000095</guid>
-			<author>추경애</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:25:10 +0900</pubDate>
-			<description><![CDATA[경기자동차과학고등학교가 전교생을 대상으로 앞으로 졸업과 함께 취업을 준비할 중소기업에 대해 이해도를 높이는 진로·취업 역량 강화 교육 시간을 가졌다. 전자신문은 경기자동차과학고에서 지난 19일 전학년 대상 '중소기업 이해 연수' 교육을 실시했다. 이번 연수는 중소벤처기업부와 중소벤처기업진흥공단이 추진하는 '특성화고 인력 양성 사업'의 하나로 마련됐다. 경기자동차과학고는 해당 사업에 참여하면서 산업 현장에 필요한 실무형 인재 양성과 학생들의 안정...]]></description>
-		</item>
-		<item>
-			<title>수험생 57%, 2027 수능 &apos;어려웠다&apos;…EBS 등급 예상컷 공개</title>
-			<link>https://www.etnews.com/20261120000088</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000088</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:20:58 +0900</pubDate>
-			<description><![CDATA[2027학년도 대학수학능력시험(수능)을 치른 수험생 10명 중 5명 이상이 시험이 어려웠다고 평가했다. 특히 사회탐구와 과학탐구 영역이 어렵다는 응답이 높았다. EBS는 19일 수능 종료 후 EBSi 홈페이지에서 실시한 이같은 수험생 체감난이도 설문조사와 국어·수학 영역 예상 등급컷을 공개했다. 이날 오후 8시 30분 기준 설문에 참여한 수험생 2035명 가운데 41.5%가 전체적인 시험 난이도에 대해 '약간 어려웠다', 15.7%는 '매우 어...]]></description>
-		</item>
-		<item>
-			<title>AI·디지털 시대 법적 쟁점 해법 모색…KISA, 학술 경연대회 개최</title>
-			<link>https://www.etnews.com/20261120000076</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000076</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:09:33 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)과 디지털 전환으로 새롭게 등장하는 법적 쟁점과 해결 방안을 모색하는 학술 경연대회가 열렸다. 한국인터넷진흥원(KISA)은 지난 19일 고려대 법학전문대학원에서 과학기술정보통신부와 '제1회 디지털 시대의 법 학술 경연대회' 본선을 개최했다고 20일 밝혔다. 올해 처음 열린 대회에는 전국 25개 법학전문대학원 중 22개교 재학생을 비롯해 총 45개 팀이 참가했다. 블록체인, 스팸, 전자서명·전자문서, 위치정보, 디지털 분쟁조정 등...]]></description>
-		</item>
-		<item>
-			<title>아이티센클로잇, &apos;에이전트고&apos; 기반 제약·바이오 산업 특화 AX 전략 제시</title>
-			<link>https://www.etnews.com/20261120000071</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000071</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:06:17 +0900</pubDate>
-			<description><![CDATA[아이티센클로잇은 기업용 AI 에이전트 관리 플랫폼 '에이전트고'를 기반으로 제약·바이오 산업의 AI 전환(AX) 지원을 확대한다. 아이티센클로잇은 제약·바이오 산업 특화 AX 전략을 공유하기 위해 지난 17일 서울 서초구 한국제약바이오협회에서 '제약·바이오 AX 대전환 세미나: 데모를 넘어 실제 성과로'를 개최했다고 20일 밝혔다. 세미나에서는 제약·바이오 산업의 AI 활용 성과를 높이기 위한 업무 혁신과 규제 대응 방안이 집중적으로 다뤄졌다....]]></description>
 		</item>
 	</channel>
 </rss>
