@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 12:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 13:30:36 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>비수도권 AIDC 50㎿ 이하 전평 면제…인정 기준도 구체화</title>
+			<link>https://www.etnews.com/20261120000171</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000171</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 12:59:26 +0900</pubDate>
+			<description><![CDATA[비수도권에서 신축·증축하거나 기존 시설을 전환하는 인공지능 데이터센터(AIDC) 가운데 계약전력 50㎿ 이하 시설은 전력계통영향평가(전평)를 면제받는다. 정부는 특례를 적용할 AIDC의 인정 기준도 구체화했다. 과학기술정보통신부는 20일 이 같은 내용을 담은 '인공지능 데이터센터 산업 진흥에 관한 특별법'(AIDC 특별법) 시행령·시행규칙 제정안을 입법예고했다. 과기정통부와 기후에너지환경부(이하 기후부)는 AIDC의 전평 절차도 함께 개선할 계...]]></description>
+		</item>
+		<item>
+			<title>에듀스, &apos;온테스트&apos;에 AI 스마트안경 탐지 기술 적용…온라인 시험 보안 강화</title>
+			<link>https://www.etnews.com/20261120000163</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000163</guid>
+			<author>조호현</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 12:03:44 +0900</pubDate>
+			<description><![CDATA[온라인 평가 플랫폼 전문기업 에듀스(대표 박수한)가 인공지능(AI) 스마트안경을 활용한 시험 부정행위 대응에 나섰다. 에듀스는 자사 온라인 시험 플랫폼 '온테스트(onTEST)'에 AI 안경 탐지 및 부정행위 방지 기능을 도입했다고 20일 밝혔다. 최근 AI 스마트안경 등 초소형 웨어러블 기기를 악용한 부정행위가 시험과 자격평가 분야의 새로운 보안 위협으로 떠오르고 있다. 이에 온라인 시험 공정성과 신뢰성 확보가 중요해지고 있다. 에듀스가 도입...]]></description>
+		</item>
 		<item>
 			<title>모레, 차세대 AI 추론 최적화 프레임워크 &apos;TIDE&apos; 공개…처리량 1.66배 향상</title>
 			<link>https://www.etnews.com/20261120000159</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 10:06:17 +0900</pubDate>
 			<description><![CDATA[아이티센클로잇은 기업용 AI 에이전트 관리 플랫폼 '에이전트고'를 기반으로 제약·바이오 산업의 AI 전환(AX) 지원을 확대한다. 아이티센클로잇은 제약·바이오 산업 특화 AX 전략을 공유하기 위해 지난 17일 서울 서초구 한국제약바이오협회에서 '제약·바이오 AX 대전환 세미나: 데모를 넘어 실제 성과로'를 개최했다고 20일 밝혔다. 세미나에서는 제약·바이오 산업의 AI 활용 성과를 높이기 위한 업무 혁신과 규제 대응 방안이 집중적으로 다뤄졌다....]]></description>
-		</item>
-		<item>
-			<title>엑스퍼트아이엔씨, &apos;2026 로보월드&apos;에서 AI 실시간 화면 통역 &apos;씨비즈(C-BIZ)&apos; 선보여</title>
-			<link>https://www.etnews.com/20261120000069</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000069</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 10:03:42 +0900</pubDate>
-			<description><![CDATA[스마트안경 기반 실시간 자막·번역 솔루션 전문기업 엑스퍼트아이엔씨(XPERTINC)는 지난 4일부터 7일까지 경기도 고양시 킨텍스 제1전시장에서 열린 '2026 로보월드(ROBOT WORLD)'에서 AI 실시간 통역 서비스 '씨비즈(C-BIZ)'를 화면 통역 방식으로 제공했다고 밝혔다. 로봇과 AI 기술이 총집결하는 국제 무대에서, 서로 다른 언어를 쓰는 사람들 사이의 소통을 돕는 AI 솔루션으로 관심을 모았다. 로보월드는 산업통상자원부가 주최...]]></description>
-		</item>
-		<item>
-			<title>아이티아이즈, KHISC 2026 참가 “병원 랜섬웨어 확산 방지 해법 제시”</title>
-			<link>https://www.etnews.com/20261120000061</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000061</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 09:55:54 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 플랫폼 전문기업 아이티아이즈는 일루미오와 세종대학교에서 개최된 'KHISC 2026(병원 의료정보보호 컨퍼런스)'에 참가해 병원의 랜섬웨어 확산 방지 전략을 소개했다고 20일 밝혔다. 아이티아이즈는 이번 행사를 통해 일루미오 핵심 기술인 마이크로세그멘테이션 솔루션을 선보이고 기존 금융·공공 분야를 넘어 의료까지 제로트러스트 보안 사업 확대를 모색했다. 행사에선 일루미오의 글로벌 보안 기술과 아이티아이즈의 IT 서비스 역량을 결합...]]></description>
 		</item>
 	</channel>
 </rss>
