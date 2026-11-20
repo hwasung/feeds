@@ -4,8 +4,16 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Wed, 18 Nov 2026 17:04:34 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 18:35:48 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>DynamoDB Export를 BigQuery CDC로 처리하기까지</title>
+			<link>https://techblog.samsung.com/blog/article/110</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/110</guid>
+			<author>박훈민</author>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/110" alt="">]]></description>
+		</item>
 		<item>
 			<title>하루 187건의 테스트 실패, 사람이 보는 건수는 10건 — LLM이 로그를 읽고 담당까지 정하는 파이프라인 구축기</title>
 			<link>https://techblog.samsung.com/blog/article/109</link>
@@ -77,14 +85,6 @@
 			<author>김완희</author>
 			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/100" alt="">]]></description>
-		</item>
-		<item>
-			<title>AI가 과거 근거를 확인한 44일, 그리고 달라진 결론들</title>
-			<link>https://techblog.samsung.com/blog/article/99</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/99</guid>
-			<author>안태정</author>
-			<pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/99" alt="">]]></description>
 		</item>
 	</channel>
 </rss>
