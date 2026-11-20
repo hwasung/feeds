@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 07:30:33 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 09:30:43 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>비자·마스터카드·JP모건 고객정보 유출…협력사 뚫렸다</title>
+			<link>https://www.etnews.com/20261120000015</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000015</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 09:00:53 +0900</pubDate>
+			<description><![CDATA[글로벌 결제기업 비자와 마스터카드, 미국 최대 은행 JP모건체이스의 고객 수천명에 관한 정보가 랜섬웨어 공격으로 유출됐다. 기업 내부 시스템이 아닌 외부 서비스 제공업체가 해킹당하면서 고객정보가 노출된 것으로 파악됐다. 19일(현지시간) 월스트리트저널(WSJ)에 따르면 비자, 마스터카드, JP모건체이스는 외부 협력업체를 겨냥한 사이버 공격으로 일부 고객정보가 유출됐다고 밝혔다. 다만 결제망과 금융서비스 등 핵심 시스템에는 영향을 미치지 않았다는...]]></description>
+		</item>
 		<item>
 			<title>앤트로픽, 상장 첫날 97.17달러로 마감…공모가 대비 17% 상승</title>
 			<link>https://www.etnews.com/20261120000001</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 19 Nov 2026 18:04:15 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 기반 해킹 도구가 국내 대학과 교육기관을 겨냥한 사이버 공격에 활용된 정황이 포착됐다. 여러 대학이 공통으로 사용하는 업무시스템의 취약점이 악용되면서 AI를 활용한 대규모 공격 확산 우려가 커지고 있다. 19일 S2W의 '한국 대학교·교육기관 타겟 위협 행위자 분석' 보고서에 따르면 해커 'KimJEN'은 지난 12일부터 17일까지 국내 대학과 공공기관을 해킹했다고 주장하며 텔레그램을 통해 내부 데이터를 공개했다. 약 100개...]]></description>
-		</item>
-		<item>
-			<title>LG CNS, AX 사업 확대에 인사 집중…배민 부사장 승진</title>
-			<link>https://www.etnews.com/20261119000432</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261119000432</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 19 Nov 2026 17:31:05 +0900</pubDate>
-			<description><![CDATA[LG CNS가 인공지능 전환(AX) 사업 확대에 초점을 맞춘 임원인사를 단행했다. 금융·공공사업 성장을 주도한 배민 전무가 부사장으로 승진해 산업 전반의 AX 사업을 책임진다. AX 분야 상무 5명 발탁과 외부 AI 전문가도 영입했다. 19일 LG CNS는 이사회를 열고 △부사장 승진 1명 △전무 승진 2명 △상무 신규 선임 9명 △계열사 전입 1명 △외부 영입 1명을 포함한 2027년 정기 임원인사를 단행했다. LG CNS는 “이번 임원인사에...]]></description>
 		</item>
 	</channel>
 </rss>
