@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 17:30:38 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 19:30:30 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>클라우데라, 데이터 주권 지키는 &apos;애니웨어 클라우드&apos; 전략 제시</title>
+			<link>https://www.etnews.com/20261120000323</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000323</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 18:30:53 +0900</pubDate>
+			<description><![CDATA[클라우데라가 데이터 주권과 보안을 유지하면서 퍼블릭 클라우드부터 프라이빗·소버린·엣지 환경까지 인공지능(AI)을 자유롭게 구현하는 AI·데이터 전략을 제시했다. 에이전틱 AI 확산에 대응해 데이터 관리부터 AI 개발·운영까지 아우르는 통합 플랫폼 경쟁력을 강화한다는 구상이다. 클라우데라는 최근 서울 강남구 조선 팰리스 서울 강남에서 열린 '이볼브 포럼 서울'에서 이 같은 내용의 '클라우데라 애니웨어 클라우드' 비전과 2027년을 향한 데이터·A...]]></description>
+		</item>
 		<item>
 			<title>한국, 유엔 전자정부평가 12년만에 세계 1위…서비스·인프라 고른 성적</title>
 			<link>https://www.etnews.com/20261120000299</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 13:58:19 +0900</pubDate>
 			<description><![CDATA[한국이러닝협회는 지난 18일 서울글로벌센터빌딩 국제회의장에서 '2026 원격훈련 종사자 실무 교육'을 개최했다고 20일 밝혔다. 이번 교육은 원격훈련기관 전산·운영 담당자의 실무 역량을 강화하고, AI 기술을 활용한 업무 효율화와 교육 콘텐츠 제작 방안을 공유하기 위해 마련됐다. 현장에는 협회 회원사와 비회원사 등 다양한 원격훈련기관의 관계자들이 참석했다. 강호준 한국이러닝협회 국장은 인사말을 통해 2027년 사업주훈련에서 AI 기초 및 융합훈...]]></description>
-		</item>
-		<item>
-			<title>유라클, 금융권 UMS 사업 잇따라 수주…금융 메시징 플랫폼 경쟁력 입증</title>
-			<link>https://www.etnews.com/20261120000214</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000214</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 13:51:06 +0900</pubDate>
-			<description><![CDATA[모바일 플랫폼 및 인공지능(AI) 전문기업 유라클(대표 조준희, 권태일)은 금융권 통합 메시지 시스템(UMS) 통합 메시지 시스템) 사업을 잇달아 수주하며 금융 IT 시장에서 입지를 확대하고 있다. 유라클은 최근 LG CNS와 협력해 신한카드 통합 마케팅 플랫폼 구축 사업 중 UMS 구축 부문을 수주한 데 이어, SK AX와 함께 저축은행중앙회 차세대 시스템의 UMS 구축 사업도 수주했다고 밝혔다. 국내 주요 금융기관의 핵심 IT 프로젝트에 연...]]></description>
 		</item>
 	</channel>
 </rss>
