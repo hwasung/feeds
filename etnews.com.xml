@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 11:30:39 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 12:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>모레, 차세대 AI 추론 최적화 프레임워크 &apos;TIDE&apos; 공개…처리량 1.66배 향상</title>
+			<link>https://www.etnews.com/20261120000159</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000159</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 11:43:49 +0900</pubDate>
+			<description><![CDATA[모레는 미국 시카고에서 진행되는 '슈퍼컴퓨팅 2026(SC26)'에서 대규모 언어모델(LLM)의 추론 성능과 효율을 높이는 자기 개선형 추론 프레임워크 'TIDE(Temporal Incremental Draft Engine)'를 첫 공개했다고 20일 밝혔다. 최근 생성형 AI와 추론형 AI의 활용이 확대되면서 대규모 언어모델의 추론 효율은 AI 서비스 경쟁력을 좌우하는 핵심 요소로 부상하고 있다. 모레가 개발한 TIDE는 추론 과정의 비효율을...]]></description>
+		</item>
 		<item>
 			<title>AI로 세무사·리트 풀어보니 &apos;만점&apos;…황정아 “전수조사해야”</title>
 			<link>https://www.etnews.com/20261120000132</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 09:55:54 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 플랫폼 전문기업 아이티아이즈는 일루미오와 세종대학교에서 개최된 'KHISC 2026(병원 의료정보보호 컨퍼런스)'에 참가해 병원의 랜섬웨어 확산 방지 전략을 소개했다고 20일 밝혔다. 아이티아이즈는 이번 행사를 통해 일루미오 핵심 기술인 마이크로세그멘테이션 솔루션을 선보이고 기존 금융·공공 분야를 넘어 의료까지 제로트러스트 보안 사업 확대를 모색했다. 행사에선 일루미오의 글로벌 보안 기술과 아이티아이즈의 IT 서비스 역량을 결합...]]></description>
-		</item>
-		<item>
-			<title>롯데이노베이트, 동반성장지수 2년 연속 &apos;최우수&apos;…상생경영 성과 인정</title>
-			<link>https://www.etnews.com/20261120000055</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000055</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 09:48:27 +0900</pubDate>
-			<description><![CDATA[롯데이노베이트가 동반성장지수 평가에서 2년 연속 최우수 등급을 획득하며 상생경영 성과를 인정받았다. 롯데이노베이트는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 최고 등급인 최우수를 획득했다고 20일 밝혔다. 전체 평가 대상 231개 기업 가운데 최우수 등급을 받은 기업은 44개사로, 약 19%에 해당한다. 롯데이노베이트는 공정한 거래 환경을 조성하고 파트너사의 경영 안정과 기술 역량 강화를 지원하는 등 다양한 상생 프로그램을...]]></description>
 		</item>
 	</channel>
 </rss>
