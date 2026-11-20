@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 16:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 20 Nov 2026 17:30:38 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>한국, 유엔 전자정부평가 12년만에 세계 1위…서비스·인프라 고른 성적</title>
+			<link>https://www.etnews.com/20261120000299</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000299</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 20 Nov 2026 16:23:33 +0900</pubDate>
+			<description><![CDATA[우리나라가 국제연합(유엔)의 '2026년 전자정부평가'에서 12년 만에 세계 1위를 되찾았다. 국민 맞춤형 온라인 서비스와 통신 인프라, 디지털 활용 역량 모두 고르게 좋은 평가를 받은 결과다. 행정안전부는 유엔이 실시한 '2026년 전자정부평가'에서 대한민국이 194개 국가 가운데 세계 1위를 차지했다고 20일 밝혔다. 종합 1위에 오른 것은 2014년 이후 12년 만이다. 우리나라는 지난 2020년 2위, 2022년 3위, 2024년 4위로...]]></description>
+		</item>
 		<item>
 			<title>이강수 더존비즈온 부회장, &apos;중견기업인의 날&apos; 대통령표창 수상</title>
 			<link>https://www.etnews.com/20261120000294</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 13:51:06 +0900</pubDate>
 			<description><![CDATA[모바일 플랫폼 및 인공지능(AI) 전문기업 유라클(대표 조준희, 권태일)은 금융권 통합 메시지 시스템(UMS) 통합 메시지 시스템) 사업을 잇달아 수주하며 금융 IT 시장에서 입지를 확대하고 있다. 유라클은 최근 LG CNS와 협력해 신한카드 통합 마케팅 플랫폼 구축 사업 중 UMS 구축 부문을 수주한 데 이어, SK AX와 함께 저축은행중앙회 차세대 시스템의 UMS 구축 사업도 수주했다고 밝혔다. 국내 주요 금융기관의 핵심 IT 프로젝트에 연...]]></description>
-		</item>
-		<item>
-			<title>센스톤, 美 정부 수도시설 보안 프로젝트 참여…OT 보안 기술 공급</title>
-			<link>https://www.etnews.com/20261120000211</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000211</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 13:48:48 +0900</pubDate>
-			<description><![CDATA[국내 운영기술(OT) 보안 기업 센스톤이 미국 백악관과 텍사스 주정부가 추진하는 핵심 인프라 사이버보안 프로젝트에 참여한다. 미국 보안기업과 컨소시엄을 구성해 수도시설의 산업제어시스템 접근 보안을 강화할 계획이다. 센스톤은 미국 산업·핵심 인프라 보안 전문기업 어플라이드 시큐리티 컨버전스(ASC)와 함께 '프로젝트 워터셰드 250'에 참여한다고 20일 밝혔다. 프로젝트 워터셰드 250은 백악관 국가사이버국장실(ONCD), 텍사스 주지사실, 텍사...]]></description>
 		</item>
 	</channel>
 </rss>
