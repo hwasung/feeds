@@ -4,257 +4,324 @@
 		<title>MakinaRocks</title>
 		<link>https://www.makinarocks.ai/blog/</link>
 		<description>MakinaRocks</description>
-		<lastBuildDate>Tue, 17 Nov 2026 07:03:18 +0900</lastBuildDate>
-		<ttl>1440</ttl>
+		<lastBuildDate>Sat, 21 Nov 2026 18:32:45 +0900</lastBuildDate>
+		<ttl>240</ttl>
 		<item>
 			<title>기업 AI 주권, 어디서부터 채워야 할까: 9가지 유형별 실행 가이드</title>
 			<link>https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-9%ea%b0%80%ec%a7%80-%ec%9c%a0%ed%98%95%eb%b3%84-%ec%8b%a4%ed%96%89-%ea%b0%80%ec%9d%b4%eb%93%9c/</link>
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-9%ea%b0%80%ec%a7%80-%ec%9c%a0%ed%98%95%eb%b3%84-%ec%8b%a4%ed%96%89-%ea%b0%80%ec%9d%b4%eb%93%9c/</guid>
 			<category>Blog</category>
 			<pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85AI%EC%A3%BC%EA%B6%8C%EA%B0%80%EC%9D%B4%EB%93%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85AI%EC%A3%BC%EA%B6%8C%EA%B0%80%EC%9D%B4%EB%93%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" alt=""/>
-
-</div>
-</div><div>
-
-<h2>기업 AI 주권 점수를 확인했다면, 이제 어디서부터 바꿀까요</h2>
-
-<p><a href="https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/">기업 AI 주권 테스트 1편 ‘우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까’</a>에서 10개 질문에 답해 보셨나요? 기업 AI 주권이 무엇인지, 그리고 소유·독립·통제·축적이라는 틀은 1편에서 소개했습니다. 이번 글은 그다음 이야기입니다. <strong>‘아니오’가 나온 질문을 어떻게 ‘예’로 바꿀 수 있을까요?</strong></p>
-
-<blockquote>
-<p><strong>기업 AI 주권(Enterprise AI Sovereignty)이란</strong> 기업이 어떤 AI를 쓰든 그 AI가 만든 지식과 결과를 소유하고, 기술을 선택하고, 사용을 통제할 수 있는 상태를 말합니다. 기업 AI 주권을 확보하려면 지식은 기업에 남고(소유), 모델과 실행 환경은 선택할 수 있으며(독립), AI의 행동은 기업이 결정하고 확인할 수 있고(통제), 그 경험이 다시 쌓이는(축적) 구조가 필요합니다. 이 글은 네 가지 축별로 기업 AI 주권을 채우는 실행 방법을 정리합니다.</p>
-
-</blockquote>
-
-<div><div><div>
-<header>
-<div>
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MjAuMDEwIiBoZWlnaHQ9IjgwLjAxMCIgdmlld0JveD0iMCAwIDcyMC4wMTAgODAuMDEwIiBmaWxsPSJub25lIj4KICA8cGF0aCBkPSJNIDIzMy43MiAxMS4wOSBMIDI0Ny45MSAxNS4zNCBMIDI2MS44NyA0LjMgTCAyNjIuODEgMCBMIDI0My4wOSAxLjkyIEwgMjMzLjcyIDExLjA5IFogTSAyNTYuMTEgMjEuODMgTCAyMzUuNDQgMjEuODMgTCAyMzUuNDQgMjMuNTUgTCAyMzkuOTEgMjguMDIgTCAyMzkuOTEgNzMuODEgTCAyMzUuNDQgNzguMjggTCAyMDUuNTkgNDIuNyBMIDIyNC4yMSAyNC4wOCBMIDIyNC4yMSAyMS44MiBMIDIwOS4wOCAyMS44MiBMIDIwOS4wOCAyOC4wMSBMIDE4OC45MiA0OC4xNyBMIDE4OC45MiAwLjcxIEwgMTY4LjI1IDAuNzEgTCAxNjguMjUgMi40MyBMIDE3Mi43MiA2LjkgTCAxNzIuNzIgNzMuODEgTCAxNjguMjUgNzguMjggTCAxNjguMjUgODAgTCAxOTMuMzkgODAgTCAxOTMuMzkgNzguMjggTCAxODguOTIgNzMuODEgTCAxODguOTIgNTkuMzcgTCAxOTUuMzEgNTIuOTggTCAyMTIuNyA3My44IEwgMjA4LjIzIDc4LjI3IEwgMjA4LjIzIDc5Ljk5IEwgMjM1LjQ1IDc5Ljk5IEwgMjYwLjU5IDc5Ljk5IEwgMjYwLjU5IDc4LjI3IEwgMjU2LjEyIDczLjggTCAyNTYuMTIgMjEuODIgTCAyNTYuMTEgMjEuODMgWiBNIDUxNyAyMy4xOSBDIDUxNi4xMyAyMi4zMiA1MTQuOTUgMjEuODMgNTEzLjcyIDIxLjgzIEwgNDg3LjE1IDIxLjgzIEMgNDg1LjkyIDIxLjgzIDQ4NC43NCAyMi4zMiA0ODMuODcgMjMuMTkgTCA0NzMuNDMgMzMuNjMgQyA0NzIuNTYgMzQuNSA0NzIuMDcgMzUuNjggNDcyLjA3IDM2LjkxIEwgNDcyLjA3IDY0LjkzIEMgNDcyLjA3IDY2LjE2IDQ3Mi41NiA2Ny4zNCA0NzMuNDMgNjguMjEgTCA0ODMuODcgNzguNjUgQyA0ODQuNzQgNzkuNTIgNDg1LjkyIDgwLjAxIDQ4Ny4xNSA4MC4wMSBMIDUxMy43MiA4MC4wMSBDIDUxNC45NSA4MC4wMSA1MTYuMTMgNzkuNTIgNTE3IDc4LjY1IEwgNTI3LjQ0IDY4LjIxIEMgNTI4LjMxIDY3LjM0IDUyOC44IDY2LjE2IDUyOC44IDY0LjkzIEwgNTI4LjggMzYuOTEgQyA1MjguOCAzNS42OCA1MjguMzEgMzQuNSA1MjcuNDQgMzMuNjMgTCA1MTcgMjMuMTkgWiBNIDUxMi42IDYzLjA5IEMgNTEyLjYgNjQuOTMgNTExLjg3IDY2LjcgNTEwLjU2IDY4LjAxIEwgNTA4LjI3IDcwLjMgQyA1MDYuOTcgNzEuNiA1MDUuMiA3Mi4zNCA1MDMuMzUgNzIuMzQgTCA0OTcuNTEgNzIuMzQgQyA0OTUuNjYgNzIuMzQgNDkzLjkgNzEuNjEgNDkyLjU5IDcwLjMgTCA0OTAuMyA2OC4wMSBDIDQ4OSA2Ni43MSA0ODguMjYgNjQuOTQgNDg4LjI2IDYzLjA5IEwgNDg4LjI2IDM4LjczIEMgNDg4LjI2IDM2Ljg4IDQ4OC45OSAzNS4xMiA0OTAuMyAzMy44MSBMIDQ5Mi41OSAzMS41MiBDIDQ5My44OSAzMC4yMiA0OTUuNjYgMjkuNDggNDk3LjUxIDI5LjQ4IEwgNTAzLjM1IDI5LjQ4IEMgNTA1LjIgMjkuNDggNTA2Ljk2IDMwLjIxIDUwOC4yNyAzMS41MiBMIDUxMC41NiAzMy44MSBDIDUxMS44NiAzNS4xMSA1MTIuNiAzNi44OCA1MTIuNiAzOC43MyBMIDUxMi42IDYzLjA5IFogTSAxNTguOTMgMzUuNDEgQyAxNTguOTMgMzQuMTggMTU4LjQ0IDMzIDE1Ny41NyAzMi4xMyBMIDE0OC42MyAyMy4xOSBDIDE0Ny43NiAyMi4zMiAxNDYuNTggMjEuODMgMTQ1LjM1IDIxLjgzIEwgMTE5LjYzIDIxLjgzIEMgMTE4LjQgMjEuODMgMTE3LjIyIDIyLjMyIDExNi4zNSAyMy4xOSBMIDEwNS45MSAzMy42MyBDIDEwNS4wNCAzNC41IDEwNC41NSAzNS42OCAxMDQuNTUgMzYuOTEgTCAxMDQuNTUgMzkuNzggTCAxMjAuNzUgMzkuNzggTCAxMjAuNzUgMzguNzQgQyAxMjAuNzUgMzYuOSAxMjEuNDggMzUuMTMgMTIyLjc5IDMzLjgyIEwgMTI1LjA4IDMxLjUzIEMgMTI2LjM4IDMwLjIzIDEyOC4xNSAyOS40OSAxMzAgMjkuNDkgTCAxMzYuOCAyOS40OSBDIDEzOC4zNyAyOS40OSAxMzkuODggMzAuMTEgMTQwLjk5IDMxLjIzIEMgMTQyLjEgMzIuMzQgMTQyLjczIDMzLjg1IDE0Mi43MyAzNS40MiBMIDE0Mi43MyA0NS4yMSBMIDExNi4xNiA0NS4yNCBDIDExNC45MyA0NS4yNCAxMTMuNzUgNDUuNzMgMTEyLjg5IDQ2LjYgTCAxMDQuODggNTQuNjEgQyAxMDQuMDEgNTUuNDggMTAzLjUyIDU2LjY2IDEwMy41MiA1Ny44OSBMIDEwMy41MiA2Ny4zNiBDIDEwMy41MiA2OC41OSAxMDQuMDEgNjkuNzcgMTA0Ljg4IDcwLjY0IEwgMTEyLjg4IDc4LjY0IEMgMTEzLjc1IDc5LjUxIDExNC45MyA4MCAxMTYuMTYgODAgTCAxMzIuNDEgODAgQyAxMzMuNjQgODAgMTM0LjgyIDc5LjUxIDEzNS42OSA3OC42NCBMIDE0Mi43MyA3MS42IEwgMTQyLjczIDgwIEwgMTYzLjQgODAgTCAxNjMuNCA3OC4yOSBMIDE1OC45MyA3My44MiBMIDE1OC45MyAzNS40MiBMIDE1OC45MyAzNS40MSBaIE0gMTQyLjc0IDY0LjM4IEwgMTM2LjgyIDcwLjI5IEMgMTM1LjUyIDcxLjU5IDEzMy43NSA3Mi4zMyAxMzEuOSA3Mi4zMyBMIDEyNS42NiA3Mi4zMyBDIDEyNC4wOSA3Mi4zMyAxMjIuNTggNzEuNzEgMTIxLjQ3IDcwLjU5IEMgMTIwLjM2IDY5LjQ4IDExOS43MyA2Ny45NyAxMTkuNzMgNjYuNCBMIDExOS43MyA1OC42OSBDIDExOS43MyA1Ny4wMSAxMjAuNDQgNTUuNDEgMTIxLjY5IDU0LjI5IEwgMTIzLjUgNTIuNjYgQyAxMjQuNTkgNTEuNjggMTI2LjAxIDUxLjEzIDEyNy40NyA1MS4xMyBMIDE0Mi43NCA1MS4xMyBMIDE0Mi43NCA2NC4zOCBaIE0gNDkuMjYgNjIuNiBMIDI0LjY3IDAuNzEgTCAwIDAuNzEgTCAwIDIuNDMgTCA0LjQ3IDYuOSBMIDQuNDcgNzMuODEgTCAwIDc4LjI4IEwgMCA4MCBMIDE4LjQxIDgwIEwgMTguNDEgNzguMjggTCAxMy45NCA3My44MSBMIDEzLjk0IDE2LjI5IEwgMzkuMTMgODAgTCA1MC44NyA4MCBMIDc2LjA0IDE2LjcxIEwgNzYuMDQgNzMuODEgTCA3MS41NyA3OC4yOCBMIDcxLjU3IDgwIEwgOTYuNzEgODAgTCA5Ni43MSA3OC4yOCBMIDkyLjI0IDczLjgxIEwgOTIuMjQgNi45IEwgOTYuNzEgMi40MyBMIDk2LjcxIDAuNzEgTCA3My41NSAwLjcxIEwgNDkuMjYgNjIuNiBaIE0gMzI1LjMgMzUuNDEgQyAzMjUuMyAzNC4xOCAzMjQuODEgMzMgMzIzLjk0IDMyLjEzIEwgMzE1IDIzLjE5IEMgMzE0LjEzIDIyLjMyIDMxMi45NSAyMS44MyAzMTEuNzIgMjEuODMgTCAyOTYuNDEgMjEuODMgQyAyOTUuMTggMjEuODMgMjk0IDIyLjMyIDI5My4xMyAyMy4xOSBMIDI4Ni4wOSAzMC4yMyBMIDI4Ni4wOSAyMS44MyBMIDI2OS44OSAyMS44MyBMIDI2NS40MiAyMS44MyBMIDI2NS40MiAyMy41NSBMIDI2OS44OSAyOC4wMiBMIDI2OS44OSA3My44MSBMIDI2NS40MiA3OC4yOCBMIDI2NS40MiA4MCBMIDI5MC41NiA4MCBMIDI5MC41NiA3OC4yOCBMIDI4Ni4wOSA3My44MSBMIDI4Ni4wOSAzNy40NCBMIDI5MiAzMS41MyBDIDI5My4zIDMwLjIzIDI5NS4wOCAyOS40OSAyOTYuOTIgMjkuNDkgTCAzMDMuMTYgMjkuNDkgQyAzMDQuNzMgMjkuNDkgMzA2LjI0IDMwLjExIDMwNy4zNSAzMS4yMyBDIDMwOC40NiAzMi4zNCAzMDkuMDkgMzMuODUgMzA5LjA5IDM1LjQyIEwgMzA5LjA5IDczLjgxIEwgMzA0LjYyIDc4LjI4IEwgMzA0LjYyIDgwIEwgMzI5Ljc2IDgwIEwgMzI5Ljc2IDc4LjI4IEwgMzI1LjI5IDczLjgxIEwgMzI1LjI5IDM1LjQxIEwgMzI1LjMgMzUuNDEgWiBNIDQ1Mi4yNiA0MS45MyBMIDQ2Mi4wOCAzMi4xMSBDIDQ2Mi45NSAzMS4yNCA0NjMuNDQgMzAuMDYgNDYzLjQ0IDI4LjgzIEwgNDYzLjQ0IDE1Ljc5IEMgNDYzLjQ0IDE0LjU2IDQ2Mi45NSAxMy4zOCA0NjIuMDggMTIuNTEgTCA0NTEuNjQgMi4wNyBDIDQ1MC43NyAxLjIgNDQ5LjU5IDAuNzEgNDQ4LjM2IDAuNzEgTCA0MDEuMDEgMC43MSBMIDQwMS4wMSAyLjQzIEwgNDA1LjQ4IDYuOSBMIDQwNS40OCA3My44MSBMIDQwMS4wMSA3OC4yOCBMIDQwMS4wMSA4MCBMIDQyNi4xNSA4MCBMIDQyNi4xNSA3OC4yOCBMIDQyMS42OCA3My44MSBMIDQyMS42OCA0My45IEwgNDM2LjYxIDQzLjkgTCA0NTAuMTIgNzMuODEgTCA0NDUuNjUgNzguMjggTCA0NDUuNjUgODAgTCA0NzEuNTggODAgTCA0NzEuNTggNzguMjggTCA0NjcuMTEgNzMuODEgTCA0NTIuMjUgNDEuOTMgTCA0NTIuMjYgNDEuOTMgWiBNIDQ0Ny4yNCAyNyBDIDQ0Ny4yNCAyOC44NCA0NDYuNTEgMzAuNjEgNDQ1LjIgMzEuOTIgTCA0NDIuOTEgMzQuMjEgQyA0NDEuNjEgMzUuNTEgNDM5Ljg0IDM2LjI1IDQzNy45OSAzNi4yNSBMIDQyMS42OCAzNi4yNSBMIDQyMS42OCA4LjM4IEwgNDM3Ljk5IDguMzggQyA0MzkuODQgOC4zOCA0NDEuNiA5LjExIDQ0Mi45MSAxMC40MiBMIDQ0NS4yIDEyLjcxIEMgNDQ2LjUgMTQuMDEgNDQ3LjI0IDE1Ljc4IDQ0Ny4yNCAxNy42MyBMIDQ0Ny4yNCAyNy4wMSBMIDQ0Ny4yNCAyNyBaIE0gNzE1LjA0IDUxLjE1IEwgNjgzLjg1IDQyLjI5IEMgNjgxLjg4IDQxLjcxIDY4MC41MyAzOS45IDY4MC41MyAzNy44NCBMIDY4MC41MyAzNS40MSBDIDY4MC41MyAzMy44NCA2ODEuMTUgMzIuMzMgNjgyLjI3IDMxLjIyIEMgNjgzLjM4IDMwLjExIDY4NC44OSAyOS40OCA2ODYuNDYgMjkuNDggTCA2OTQuNSAyOS40OCBDIDY5NS43MyAyOS40OCA2OTYuOTEgMjkuOTcgNjk3Ljc4IDMwLjg0IEwgNzAxLjQzIDM0LjQ5IEMgNzAyLjMgMzUuMzYgNzAyLjc5IDM2LjU0IDcwMi43OSAzNy43NyBMIDcwMi43OSA0MS4zMSBMIDcxOC45OSA0MS4zMSBMIDcxOC45OSAzNi45IEMgNzE4Ljk5IDM1LjY3IDcxOC41IDM0LjQ5IDcxNy42MyAzMy42MiBMIDcwNy4xOSAyMy4xOCBDIDcwNi4zMiAyMi4zMSA3MDUuMTQgMjEuODIgNzAzLjkxIDIxLjgyIEwgNjc5LjQgMjEuODIgQyA2NzguMTcgMjEuODIgNjc2Ljk5IDIyLjMxIDY3Ni4xMiAyMy4xOCBMIDY2NS42OCAzMy42MiBDIDY2NC44MSAzNC40OSA2NjQuMzIgMzUuNjcgNjY0LjMyIDM2LjkgTCA2NjQuMzIgNDQgQyA2NjQuMzIgNDcuMDggNjY2LjM1IDQ5Ljc5IDY2OS4zIDUwLjY3IEwgNzAwLjQ5IDU5LjUzIEMgNzAyLjQ2IDYwLjExIDcwMy44MSA2MS45MiA3MDMuODEgNjMuOTggTCA3MDMuODEgNjYuNDEgQyA3MDMuODEgNjcuOTggNzAzLjE5IDY5LjQ5IDcwMi4wNyA3MC42IEMgNzAwLjk1IDcxLjcxIDY5OS40NSA3Mi4zNCA2OTcuODggNzIuMzQgTCA2ODcuNzcgNzIuMzQgQyA2ODYuNTQgNzIuMzQgNjg1LjM2IDcxLjg1IDY4NC40OSA3MC45OCBMIDY4MC44NCA2Ny4zMyBDIDY3OS45NyA2Ni40NiA2NzkuNDggNjUuMjggNjc5LjQ4IDY0LjA1IEwgNjc5LjQ4IDU5Ljg2IEwgNjYzLjI4IDU5Ljg2IEwgNjYzLjI4IDY0LjkyIEMgNjYzLjI4IDY2LjE1IDY2My43NyA2Ny4zMyA2NjQuNjQgNjguMiBMIDY3NS4wOCA3OC42NCBDIDY3NS45NSA3OS41MSA2NzcuMTMgODAgNjc4LjM2IDgwIEwgNzA0LjkzIDgwIEMgNzA2LjE2IDgwIDcwNy4zNCA3OS41MSA3MDguMjEgNzguNjQgTCA3MTguNjUgNjguMiBDIDcxOS41MiA2Ny4zMyA3MjAuMDEgNjYuMTUgNzIwLjAxIDY0LjkyIEwgNzIwLjAxIDU3LjgyIEMgNzIwLjAxIDU0Ljc0IDcxNy45OCA1Mi4wMyA3MTUuMDMgNTEuMTUgTCA3MTUuMDQgNTEuMTUgWiBNIDU4Mi4yNSAyMy4xOSBDIDU4MS4zOCAyMi4zMiA1ODAuMiAyMS44MyA1NzguOTcgMjEuODMgTCA1NTIuNCAyMS44MyBDIDU1MS4xNyAyMS44MyA1NDkuOTkgMjIuMzIgNTQ5LjEyIDIzLjE5IEwgNTM4LjY4IDMzLjYzIEMgNTM3LjgxIDM0LjUgNTM3LjMyIDM1LjY4IDUzNy4zMiAzNi45MSBMIDUzNy4zMiA2NC45MyBDIDUzNy4zMiA2Ni4xNiA1MzcuODEgNjcuMzQgNTM4LjY4IDY4LjIxIEwgNTQ5LjEyIDc4LjY1IEMgNTQ5Ljk5IDc5LjUyIDU1MS4xNyA4MC4wMSA1NTIuNCA4MC4wMSBMIDU3OC45NyA4MC4wMSBDIDU4MC4yIDgwLjAxIDU4MS4zOCA3OS41MiA1ODIuMjUgNzguNjUgTCA1OTIuNjkgNjguMjEgQyA1OTMuNTYgNjcuMzQgNTk0LjA1IDY2LjE2IDU5NC4wNSA2NC45MyBMIDU5NC4wNSA1OC41NSBMIDU3Ny44NSA1OC41NSBMIDU3Ny44NSA2My4xIEMgNTc3Ljg1IDY0Ljk0IDU3Ny4xMiA2Ni43MSA1NzUuODEgNjguMDIgTCA1NzMuNTIgNzAuMzEgQyA1NzIuMjIgNzEuNjEgNTcwLjQ1IDcyLjM1IDU2OC42IDcyLjM1IEwgNTYyLjc2IDcyLjM1IEMgNTYwLjkxIDcyLjM1IDU1OS4xNSA3MS42MiA1NTcuODQgNzAuMzEgTCA1NTUuNTUgNjguMDIgQyA1NTQuMjUgNjYuNzIgNTUzLjUxIDY0Ljk1IDU1My41MSA2My4xIEwgNTUzLjUxIDM4Ljc0IEMgNTUzLjUxIDM2Ljg5IDU1NC4yNCAzNS4xMyA1NTUuNTUgMzMuODIgTCA1NTcuODQgMzEuNTMgQyA1NTkuMTQgMzAuMjMgNTYwLjkxIDI5LjQ5IDU2Mi43NiAyOS40OSBMIDU2OC42IDI5LjQ5IEMgNTcwLjQ1IDI5LjQ5IDU3Mi4yMSAzMC4yMiA1NzMuNTIgMzEuNTMgTCA1NzUuODEgMzMuODIgQyA1NzcuMTEgMzUuMTIgNTc3Ljg1IDM2Ljg5IDU3Ny44NSAzOC43NCBMIDU3Ny44NSA0Mi42MyBMIDU5NC4wNSA0Mi42MyBMIDU5NC4wNSAzNi45MSBDIDU5NC4wNSAzNS42OCA1OTMuNTYgMzQuNSA1OTIuNjkgMzMuNjMgTCA1ODIuMjUgMjMuMTkgWiBNIDM5MC45OSAzNS40MSBDIDM5MC45OSAzNC4xOCAzOTAuNSAzMyAzODkuNjMgMzIuMTMgTCAzODAuNjkgMjMuMTkgQyAzNzkuODIgMjIuMzIgMzc4LjY0IDIxLjgzIDM3Ny40MSAyMS44MyBMIDM1MS42OSAyMS44MyBDIDM1MC40NiAyMS44MyAzNDkuMjggMjIuMzIgMzQ4LjQxIDIzLjE5IEwgMzM3Ljk3IDMzLjYzIEMgMzM3LjEgMzQuNSAzMzYuNjEgMzUuNjggMzM2LjYxIDM2LjkxIEwgMzM2LjYxIDM5Ljc4IEwgMzUyLjgxIDM5Ljc4IEwgMzUyLjgxIDM4Ljc0IEMgMzUyLjgxIDM2LjkgMzUzLjU0IDM1LjEzIDM1NC44NSAzMy44MiBMIDM1Ny4xNCAzMS41MyBDIDM1OC40NCAzMC4yMyAzNjAuMjEgMjkuNDkgMzYyLjA2IDI5LjQ5IEwgMzY4Ljg2IDI5LjQ5IEMgMzcwLjQzIDI5LjQ5IDM3MS45NCAzMC4xMSAzNzMuMDUgMzEuMjMgQyAzNzQuMTYgMzIuMzQgMzc0Ljc5IDMzLjg1IDM3NC43OSAzNS40MiBMIDM3NC43OSA0NS4yMSBMIDM0OC4yMiA0NS4yNCBDIDM0Ni45OSA0NS4yNCAzNDUuODEgNDUuNzMgMzQ0Ljk1IDQ2LjYgTCAzMzYuOTQgNTQuNjEgQyAzMzYuMDcgNTUuNDggMzM1LjU4IDU2LjY2IDMzNS41OCA1Ny44OSBMIDMzNS41OCA2Ny4zNiBDIDMzNS41OCA2OC41OSAzMzYuMDcgNjkuNzcgMzM2Ljk0IDcwLjY0IEwgMzQ0Ljk0IDc4LjY0IEMgMzQ1LjgxIDc5LjUxIDM0Ni45OSA4MCAzNDguMjIgODAgTCAzNjQuNDcgODAgQyAzNjUuNyA4MCAzNjYuODggNzkuNTEgMzY3Ljc1IDc4LjY0IEwgMzc0Ljc5IDcxLjYgTCAzNzQuNzkgODAgTCAzOTUuNDYgODAgTCAzOTUuNDYgNzguMjkgTCAzOTAuOTkgNzMuODIgTCAzOTAuOTkgMzUuNDIgTCAzOTAuOTkgMzUuNDEgWiBNIDM3NC43OSA2NC4zOCBMIDM2OC44NyA3MC4yOSBDIDM2Ny41NyA3MS41OSAzNjUuOCA3Mi4zMyAzNjMuOTUgNzIuMzMgTCAzNTcuNzEgNzIuMzMgQyAzNTYuMTQgNzIuMzMgMzU0LjYzIDcxLjcxIDM1My41MiA3MC41OSBDIDM1Mi40MSA2OS40OCAzNTEuNzggNjcuOTcgMzUxLjc4IDY2LjQgTCAzNTEuNzggNTguNjkgQyAzNTEuNzggNTcuMDEgMzUyLjQ5IDU1LjQxIDM1My43NCA1NC4yOSBMIDM1NS41NSA1Mi42NiBDIDM1Ni42NCA1MS42OCAzNTguMDYgNTEuMTMgMzU5LjUyIDUxLjEzIEwgMzc0Ljc5IDUxLjEzIEwgMzc0Ljc5IDY0LjM4IFogTSA2NTQuNTkgMjQuMDkgTCA2NTQuNTkgMjEuODMgTCA2MzkuNDYgMjEuODMgTCA2MzkuNDYgMjguMDIgTCA2MTkuMyA0OC4xOCBMIDYxOS4zIDAuNzIgTCA1OTguNjMgMC43MiBMIDU5OC42MyAyLjQ0IEwgNjAzLjEgNi45MSBMIDYwMy4xIDczLjgyIEwgNTk4LjYzIDc4LjI5IEwgNTk4LjYzIDgwLjAxIEwgNjIzLjc3IDgwLjAxIEwgNjIzLjc3IDc4LjI5IEwgNjE5LjMgNzMuODIgTCA2MTkuMyA1OS4zOCBMIDYyNS42OSA1Mi45OSBMIDY0My4wOCA3My44MSBMIDYzOC42MSA3OC4yOCBMIDYzOC42MSA4MCBMIDY2NS44MyA4MCBMIDY2NS44MyA3OC4yOCBMIDYzNS45OCA0Mi43IEwgNjU0LjYgMjQuMDggTCA2NTQuNTkgMjQuMDkgWiIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+Cjwvc3ZnPg==" alt="MakinaRocks"/>
-<p>Enterprise AI Sovereignty Test</p>
-<div>기업 AI 주권 테스트</div>
-<p>10개 질문에 ‘예’ 또는 ‘아니오’를 체크하면, 맨 아래에 우리 회사의 유형이 나타납니다.</p>
-</div>
-<div><b>0</b> / 10 응답</div>
-</header>
-
-<table>
-<thead>
-<tr>
-<th>기업 AI 주권 테스트 질문 리스트</th>
-<th>예</th>
-<th>아니오</th>
-<th>Layer</th>
-</tr>
-</thead>
-
-</table>
-
-</div></div></div>
-
-<details><summary>기업 AI 주권 테스트 10문항 (텍스트로 보기)</summary>
-<figure><table><thead><tr><th>영역</th><th>문항</th></tr></thead><tbody><tr><td>소유</td><td>Q1. 직원들이 AI로 업무를 하며 쌓은 노하우(질문, 답, 수정 내용)가 회사 시스템에 남고, 다른 직원도 업무에 활용할 수 있습니까?</td></tr><tr><td>소유</td><td>Q2. 회사 데이터가 외부 AI 서비스의 모델 학습에 쓰이지 않도록 하는 설정이, 모든 계정에서 꺼져 있는지 확인했습니까?</td></tr><tr><td>소유</td><td>Q3. 지금 쓰는 AI 서비스 계약을 해지해도, 그동안 만들어 온 업무 규칙과 판단 기준은 회사 시스템에 그대로 남습니까?</td></tr><tr><td>독립</td><td>Q4. 지금 쓰는 AI 모델을 다른 모델로 바꿀 때, 데이터 연동·권한·업무 흐름은 그대로 두고 모델만 교체하고 검증하면 됩니까?</td></tr><tr><td>독립</td><td>Q5. 생산 이미지나 설계 도면처럼 외부로 나갈 수 없는 데이터를 다루는 업무에도, 공장 내부 환경에서 필요한 AI를 운영할 수 있습니까?</td></tr><tr><td>독립</td><td>Q6. 쓰던 AI 공급사가 가격을 두 배로 올리거나 서비스를 중단해도, 하던 AI 업무를 다른 상용 모델이나 자체·오픈소스 모델로 옮겨 계속할 수 있습니까?</td></tr><tr><td>통제</td><td>Q7. 인사 평가나 원가 정보를 AI에게 물었을 때, 권한이 없는 직원에게는 답하지 않도록 되어 있습니까?</td></tr><tr><td>통제</td><td>Q8. 어제 AI가 내린 품질 판정 하나를 골라, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 지금 바로 확인할 수 있습니까?</td></tr><tr><td>통제</td><td>Q9. 생산 계획 변경 같은 현장 업무를 AI에게 맡길 때, 실행 전에 영향을 검증하고 중요한 결정은 사람의 승인을 받습니까?</td></tr><tr><td>축적</td><td>Q10. 1년 전보다 회사의 AI가 나아졌다면, 그게 공급사의 모델이 좋아져서가 아니라 우리 데이터와 경험이 쌓인 덕분이라고 말할 수 있습니까?</td></tr></tbody></table></figure>
-</details>
-
-<p>그 전에 한 가지 짚고 가겠습니다. 같은 점수라도 출발점은 회사마다 다릅니다.</p>
-
-<h2>점수보다 중요한 것: 우리 회사는 어떤 기업 AI 주권 유형일까</h2>
-
-<p>1편의 결과를 축별로 다시 나눠 보세요. 소유(Q1~Q3), 독립(Q4~Q6), 통제(Q7~Q9) 각각에서 ‘예’가 2개 이상이면 확보, 1개 이하면 취약입니다. 세 축의 조합을 보면 우리 회사가 어떤 상태인지, 무엇부터 손대야 하는지가 보입니다.</p>
-
-<div><div><div>
-<p>AI Sovereignty Types</p>
-<div>AI 주권 진단 유형</div>
-<p>유형을 클릭하면 상태 설명과 먼저 볼 문항이 열립니다.</p>
-
-<div>
-<div>
-취약
-확보
-</div>
-<button>모두 펼치기</button>
-</div>
-
-<div>
-<div>유형조합</div>
-
-</div>
-</div></div></div>
-
-<details><summary>기업 AI 주권 9가지 유형 (텍스트로 보기)</summary>
-<figure><table><thead><tr><th>유형</th><th>조합</th><th>이런 상태입니다</th><th>먼저 볼 문항</th></tr></thead><tbody><tr><td>AI 의존형</td><td>소유·독립·통제 모두 취약</td><td>지식도, 선택권도, 통제권도 아직 회사 밖에 있습니다. 지키고 고를 대상이 먼저 회사 안에 있어야 하므로, 소유부터 시작합니다.</td><td>Q1, Q2</td></tr><tr><td>관리 중심형</td><td>소유·독립 취약, 통제 확보</td><td>AI를 안전하게 쓰고는 있지만, 회사에 남는 것도, 기술을 고를 선택권도 없습니다.</td><td>Q1, Q4</td></tr><tr><td>도구 교체형</td><td>소유·통제 취약, 독립 확보</td><td>AI를 골라 쓸 수는 있지만, 결과가 남지 않고 AI의 행동도 관리되지 않습니다. 도구는 바뀌어도 역량은 쌓이지 않습니다.</td><td>Q1, Q7</td></tr><tr><td>자산 정체형</td><td>독립·통제 취약, 소유 확보</td><td>지식은 쌓이고 있지만, 다른 선택지로 옮기거나 AI에게 일을 맡기는 데까지 쓰이지 못합니다.</td><td>Q4, Q7</td></tr><tr><td>활용 제한형</td><td>통제 취약, 소유·독립 확보</td><td>자산과 선택권은 있지만, AI에게 중요한 일을 맡길 장치가 부족해 활용이 조회와 추천에 머뭅니다.</td><td>Q7, Q9</td></tr><tr><td>선택권 부족형</td><td>독립 취약, 소유·통제 확보</td><td>자산과 통제 체계는 갖췄지만, 모델·실행 환경·공급사를 실제로 바꾸기는 어렵습니다.</td><td>Q4, Q6</td></tr><tr><td>전환 반복형</td><td>소유 취약, 독립·통제 확보</td><td>바꿀 수는 있지만 남는 것이 없어, 바꿀 때마다 처음부터 다시 쌓습니다.</td><td>Q1, Q3</td></tr><tr><td>순환 단절형</td><td>세 축 모두 확보, 축적(Q10) 취약</td><td>권리는 갖췄지만, AI를 쓰며 생긴 경험이 다음 판단에 다시 쓰이는 순환이 없습니다.</td><td>Q10</td></tr><tr><td>주권 실현형</td><td>세 축 모두 확보, 축적(Q10) 확보</td><td>AI를 쓸수록 회사가 강해지고 있습니다. 이 순환을 핵심 업무 전반으로 넓히는 것이 다음 과제입니다.</td><td>—</td></tr></tbody></table></figure>
-</details>
-
-<p>유형을 확인했다면, 이제 영역별로 ‘아니오’를 ‘예’로 바꾸는 방법을 살펴보겠습니다. 가상의 제조기업 한 곳을 따라가 보죠. 이 회사는 공장 설비의 이상을 분석하는 AI를 운영하고 있습니다. 같은 장면을 네 가지 축으로 차례로 들여다보면, 각 영역에서 무엇을 바꿔야 하는지가 조금 더 분명해집니다.</p>
-
-<h2>1. 소유: 기업 AI 주권은 데이터보다 넓은 것을 남기는 데서 시작합니다</h2>
-
-<p>소유라고 하면 보통 데이터를 떠올립니다. 하지만 데이터는 이미 대부분 회사 안에 있습니다. 정말 물어야 할 것은 <strong>AI를 쓸수록 무엇이 기업 고유의 자산으로 남는가</strong>입니다.</p>
-
-<h3>흩어진 데이터는 어떻게 기업의 지식이 될까요?</h3>
-
-<p>설비 A에 대한 정보는 여러 시스템에 나뉘어 있습니다. 생산정보는 MES에, 정비이력은 설비관리 시스템에, 진동·온도 데이터는 센서 DB에, 정비 매뉴얼은 문서로, 부품 정보는 ERP에 있습니다.</p>
-
-<p>AI가 필요할 때마다 이것들을 검색하는 것만으로는 부족합니다. 설비 A가 1번 라인에 속하고, 부품 B로 구성되며, 설비보전팀이 담당하고, 과거에 어떤 고장이 있었는지처럼 <strong>데이터가 업무의 의미와 관계로 연결될 때</strong> 비로소 AI와 사람이 함께 쓸 수 있는 기업의 지식이 됩니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-equipment-knowledge-graph.png" alt="설비 A를 중심으로 1번 라인(생산정보·MES), 부품 B(부품 정보·ERP), 진동·온도 데이터(센서 DB), 과거 고장(정비 이력·설비관리 시스템), 정비 절차(정비 매뉴얼·문서), 설비보전팀(담당 조직)이 소속·구성·측정·이력·준수·담당 관계로 연결된 기업 지식 관계도"/><figcaption>흩어진 데이터가 업무의 의미와 관계로 연결될 때 기업의 지식이 된다</figcaption></figure>
-
-<h3>AI를 쓰며 새로 생기는 지식도 자산입니다</h3>
-
-<p>어느 날 AI가 설비 A의 진동 데이터를 보고 ‘베어링 교체가 필요하다’고 판단했습니다. 현장 엔지니어는 과거 경험을 근거로 ‘윤활 상태부터 점검하자’고 판단을 바꿨습니다.</p>
-
-<p>이 과정에서 생긴 AI의 판단, 전문가의 수정과 그 이유도 회사의 자산입니다. 이것이 엔지니어 개인의 기억이나 외부 서비스의 대화 기록으로만 남는다면, 담당자가 바뀌는 순간 함께 사라집니다.</p>
-
-<p>이렇게 시작하세요</p>
-
-<ul>
-<li><strong>누가 어떤 AI를 쓰는지부터 파악하기</strong><br/><mark><strong>Q1. 직원들이 AI로 업무를 하며 쌓은 노하우(질문, 답, 수정 내용)가 회사 시스템에 남고, 다른 직원도 업무에 활용할 수 있습니까?</strong></mark><br/>부서별로 어떤 AI를 어떤 업무에 쓰고 있는지 확인하고, 핵심 업무부터 AI 활용 결과와 사람이 고친 내용을 회사 시스템에 남기는 기준을 정합니다.<br/></li>
-
-<li><strong>데이터가 갈 수 있는 곳 정하기</strong><br/><mark><strong>Q2. 회사 데이터가 외부 AI 서비스의 모델 학습에 쓰이지 않도록 하는 설정이, 모든 계정에서 꺼져 있는지 확인했습니까?</strong></mark><br/>AI 서비스별 학습 활용과 데이터 보관 설정을 확인할 담당자를 두고, 공개 자료·사내 문서·핵심 공정·기밀처럼 민감도에 따라 쓸 수 있는 AI와 처리 위치를 정합니다.<br/></li>
-
-<li><strong>규칙과 기준을 서비스 밖으로 옮기</strong>기<br/><mark><strong>Q3. 지금 쓰는 AI 서비스 계약을 해지해도, 그동안 만들어 온 업무 규칙과 판단 기준은 회사 시스템에 그대로 남습니까?</strong></mark><br/>AI 업무에 쓰이는 규칙, 판단 기준, 지시문, 업무 흐름을 목록으로 정리해 회사가 관리하는 저장소로 옮깁니다.</li>
-</ul>
-
-<p>세 가지가 가리키는 방향은 하나입니다. <strong>기업의 지식은 모델 안이 아니라, 모델과 분리된 곳에 있어야 합니다.</strong></p>
-
-<h2>2. 독립: 외부 기술을 쓰되, 떠날 수 있어야 합니다</h2>
-
-<p>독립은 외부 AI를 쓰지 않는 것이 아닙니다. 최신 모델과 클라우드를 활용하는 것은 비용과 속도 면에서 합리적인 선택일 수 있습니다. <strong>독립은 지금 가장 적합한 것을 쓰면서도, 필요할 때 다른 선택으로 옮겨갈 수 있는 상태입니다.</strong></p>
-
-<h3>AI 모델을 ‘지원’하는 것과 ‘바꿀 수 있는’ 것은 어떻게 다를까요?</h3>
-
-<p>1편에서 1년 뒤 같은 날 더 나은 모델로 바꾸는 두 회사를 이야기했습니다. 한 회사는 처음부터 다시 시작하고, 다른 회사는 모델만 바꿔 검증합니다. 그 차이는 어디서 생길까요? 설비 A의 이상을 분석하는 AI가 모델 A로 돌고 있는데, 제조 추론에 더 강하고 비용도 낮은 모델 B가 나왔다고 해보겠습니다.</p>
-
-<p>그런데 모델을 바꾸려면 설비 데이터 연결부터 권한, 업무 흐름, 화면까지 다시 만들어야 한다면 어떨까요? 기술적으로는 선택지가 있어도, 실제로는 모델 A에 묶여 있는 상태입니다.</p>
-
-<p>모델을 바꿀 때는 세 가지가 구분돼야 합니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-model-switch-scope.png" alt="AI 모델 교체 시 구분할 세 가지. 그대로 남는 것(설비 지식, 업무 규칙, 정비 절차, 업무 흐름, 과거 실행 경험), 바뀌는 것(모델 A에서 모델 B로), 다시 확인할 것(지시문 적합성, 결과 품질, 업무별 성능)"/><figcaption>모델 교체 시 그대로 남는 것, 바뀌는 것, 다시 확인할 것</figcaption></figure>
-
-<details><summary>모델 교체 시 구분할 세 가지 (텍스트로 보기)</summary>
-<figure><table><thead><tr><th>구분</th><th>내용</th></tr></thead><tbody><tr><td>그대로 남는 것</td><td>설비 지식, 업무 규칙, 정비 절차, 업무 흐름, 과거 실행 경험</td></tr><tr><td>바뀌는 것</td><td>원인을 추론하고 답을 만드는 모델 (A → B)</td></tr><tr><td>다시 확인할 것</td><td>지시문 적합성, 결과 품질, 업무별 성능</td></tr></tbody></table></figure>
-</details>
-
-<p>모델마다 특성이 다르니 아무것도 손대지 않고 바꿀 수는 없습니다. 중요한 것은 <strong>모델 하나를 바꾸기 위해 업무 체계 전체를 다시 만들지 않는 것</strong>입니다. 모델은 기업 AI의 중심이 아니라, 업무에 따라 고르고 교체하는 부품에 가까워야 합니다.</p>
-
-<p>실행 환경도 마찬가지입니다. 클라우드에서 잘 돌던 품질 검사 AI도, 보안 정책이 바뀌어 생산 이미지를 공장 밖으로 보낼 수 없게 되면 멈춥니다. <strong>기존 AI 업무 체계를 최대한 유지하면서 공장 내부나 폐쇄망에서도 운영할 수 있어야</strong> 기술이 기업의 조건에 맞춰집니다.</p>
-
-<p>이렇게 시작하세요</p>
-
-<ul>
-<li><strong>모델 교체 범위 나눠 보기</strong><br/><mark><strong>Q4. 지금 쓰는 AI 모델을 다른 모델로 바꿀 때, 데이터 연동·권한·업무 흐름은 그대로 두고 모델만 교체하고 검증하면 됩니까?</strong></mark><br/>주요 AI 업무 하나를 골라 위의 표처럼 남는 것, 바뀌는 것, 다시 확인할 것을 나눠 봅니다. 업무별 평가 기준을 만들어 두면 새 모델이 나왔을 때 같은 기준으로 비교할 수 있습니다.<br/></li>
-
-<li><strong>업무별 실행 환경 정하기</strong><br/><mark><strong>Q5. 생산 이미지나 설계 도면처럼 외부로 나갈 수 없는 데이터를 다루는 업무에도, 공장 내부 환경에서 필요한 AI를 운영할 수 있습니까?</strong></mark><br/>업무마다 필요한 실행 환경을 클라우드, 사내 서버, 외부와 분리된 폐쇄망으로 나누고, 보안 때문에 보류된 AI 과제를 내부에서 운영할 방법을 검토합니다.<br/></li>
-
-<li><strong>공급사 의존도 점검하기</strong><br/><mark><strong>Q6. 쓰던 AI 공급사가 가격을 두 배로 올리거나 서비스를 중단해도, 하던 AI 업무를 다른 상용 모델이나 자체·오픈소스 모델로 옮겨 계속할 수 있습니까?</strong></mark><br/>어떤 업무가 어떤 공급사의 고유 기능에 묶여 있는지 파악하고, 핵심 업무마다 옮겨갈 수 있는 모델 후보(상용, 오픈소스, 자체 모델)와 옮겼을 때의 영향을 미리 점검합니다.</li>
-</ul>
-
-<p>Q4가 기술 변화에 대한 선택권이라면, Q6은 공급사의 조건 변화에 대한 선택권입니다. <strong>대안이 있다는 것 자체가 협상력입니다.</strong></p>
-
-<h2>3. 통제: AI를 막기 위한 것이 아니라, 더 많이 맡기기 위한 것입니다</h2>
-
-<p>AI가 질문에 답하는 수준을 넘어 실제 업무를 처리하기 시작하면 상황이 달라집니다. 정비 요청을 만들고, 생산 계획을 바꾸고, 설비에 영향을 주는 판단까지 내리게 됩니다.</p>
-
-<p>이때 통제 장치가 없으면 기업은 두 가지 중 하나를 골라야 합니다. AI를 현장 업무에서 아예 빼든지, 위험을 그대로 감수하든지요. 실제로 많은 기업이 앞의 길을 택하고, AI는 추천까지만 하는 도구로 남습니다.</p>
-
-<p><strong>통제는 AI의 사용을 제한하는 장치가 아닙니다. 기업이 통제권을 유지하면서 AI에게 맡길 수 있는 일을 넓혀가는 기반입니다.</strong></p>
-
-<p>통제는 세 단계로 이어집니다. 무엇을 할 수 있는지 <strong>정하고</strong>, 실제로 무엇을 했는지 <strong>확인하고</strong>, 영향이 큰 일은 실행 전에 <strong>거르는</strong> 것입니다.</p>
-
-<h3>정한다: 볼 수 있는 것과 할 수 있는 것을 나눕니다</h3>
-
-<p>설비 정보를 조회할 수 있다고 해서 설비 설정을 바꿀 권한까지 있는 것은 아닙니다. 같은 설비 A 분석 AI라도 현장 작업자는 조회까지, 정비 담당자는 정비 요청까지처럼 누가 쓰느냐에 따라 허용 범위가 달라져야 합니다.</p>
-
-<p>평가 자료나 원가 정보도 마찬가지입니다. <strong>사람에게 적용하던 권한 체계가 AI에도 그대로 적용돼야 합니다.</strong> 문서를 AI에 통째로 연결하면, 기존 권한 체계를 우회하는 길이 생길 수 있습니다.</p>
-
-<h3>확인한다: AI의 판단 과정을 어떻게 되짚을 수 있을까요?</h3>
-
-<p>AI가 ‘베어링 이상 가능성이 높다’고 판단하고 정비 요청을 만들었다고 해보겠습니다. 며칠 뒤 그 판단이 틀렸다는 것이 밝혀졌습니다.</p>
-
-<p>누가 요청했는지, 어떤 센서 데이터와 정비 이력을 참고했는지, 어떤 모델이 판단했는지, 그것이 어떤 조치로 이어졌는지를 하나의 흐름으로 볼 수 있어야 원인을 찾을 수 있습니다. “담당자한테 물어보면 알 겁니다”는 답이 나온다면, 기록이 없거나 시스템마다 흩어져 있다는 뜻입니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-ai-decision-traceability.png" alt="AI 판단 추적 흐름. 요청(설비보전팀 담당자의 설비 A 이상 분석 요청), AI 처리(이상 분석 AI, 모델 A), 참고 데이터(진동 센서 데이터, 설비 A 정비 이력), 판단(베어링 이상 가능성 높음), 실제 조치(정비 요청 생성)로 이어지며, 판단이 틀렸다면 조치에서 요청까지 거꾸로 되짚을 수 있다"/><figcaption>요청부터 실제 조치까지, AI의 판단 과정을 되짚을 수 있어야 한다</figcaption></figure>
-
-<p>모든 처리 과정을 기록하자는 것이 아닙니다. <strong>문제가 생겼을 때 원인을 되짚을 수 있을 만큼</strong>이면 충분합니다.</p>
-
-<h3>거른다: 영향이 큰 일은 실행 전에 확인합니다</h3>
-
-<p>잘못 만든 정비 요청은 취소하면 됩니다. 하지만 AI의 판단으로 생산라인이 이미 멈췄다면, 그 손실은 이미 발생한 뒤입니다.</p>
-
-<p>그래서 제조 현장에서는 <strong>실행 전 통제</strong>가 무엇보다 중요합니다. 모든 행동에 승인을 받으면 AI를 쓰는 의미가 없고, 모든 행동을 AI에게 맡기면 위험이 큽니다. 답은 그 사이에 있습니다.</p>
-
-<ol>
-<li><strong>분석과 조회</strong>는 AI가 바로 수행합니다.</li>
-
-<li><strong>정비 요청처럼 영향이 제한적인 일</strong>은 정해진 조건 안에서 AI가 수행합니다.</li>
-
-<li><strong>생산 계획 변경이나 설비 제어처럼 영향이 큰 일</strong>은 실행 전에 영향을 미리 따져보고, 사람의 승인을 거칩니다.</li>
-</ol>
-
-<p>핵심은 AI의 자율성을 줄이는 것이 아니라, <strong>기업이 감당할 수 있는 범위 안에서 AI가 더 많은 일을 하도록 만드는 것</strong>입니다.</p>
-
-<p>이렇게 시작하세요</p>
-
-<ul>
-<li><strong>AI의 권한을 사람과 같은 기준으로 맞추기</strong><br/><mark><strong>Q7. 인사 평가나 원가 정보를 AI에게 물었을 때, 권한이 없는 직원에게는 답하지 않도록 되어 있습니까?</strong></mark><br/>AI에 연결된 데이터와 시스템을 정리하고, 직원별 권한과 조회·요청·변경·실행 같은 행동 단위의 허용 범위를 AI에도 똑같이 적용합니다.<br/></li>
-
-<li><strong>판단 하나를 거꾸로 따라가 보기</strong><br/><mark><strong>Q8. 어제 AI가 내린 품질 판정 하나를 골라, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 지금 바로 확인할 수 있습니까?</strong></mark><br/>최근 AI가 내린 판단 하나를 골라 실제로 역추적해 보세요. 기록이 끊기는 지점이 바로 보입니다. 그다음 중요한 업무부터 요청자, 모델, 데이터, 결과, 조치를 연결해 남기는 기준을 만듭니다.<br/></li>
-
-<li><strong>행동을 영향의 크기로 나누기</strong><br/><mark><strong>Q9. 생산 계획 변경 같은 현장 업무를 AI에게 맡길 때, 실행 전에 영향을 검증하고 중요한 결정은 사람의 승인을 받습니까?</strong></mark><br/>위의 세 단계처럼 AI의 행동을 나누고, 영향이 큰 작업에는 실행 전 검증과 승인 절차를 둡니다.</li>
-</ul>
-
-<h2>4. 축적: 저장되는 것과 쌓이는 것은 다릅니다</h2>
-
-<p>1편의 마지막 질문을 다시 떠올려 보겠습니다. 1년 전보다 회사 AI가 나아졌다면, 그것은 모델이 좋아져서일까요, 우리 경험이 쌓여서일까요?</p>
-
-<p>모델이 좋아져서라면, 경쟁사도 똑같이 누리는 변화입니다. <strong>우리 회사만의 경험이 쌓여서 좋아진 것이어야 경쟁력입니다.</strong></p>
-
-<h3>AI의 판단은 어떻게 다음에 더 나아질까요?</h3>
-
-<p>앞서 AI는 설비 A에 대해 ‘베어링 교체’를 권고했고, 현장 엔지니어는 ‘윤활 상태 점검’으로 판단을 바꿨습니다. 점검 결과 실제로 윤활 문제였고, 조치 후 진동은 정상 범위로 돌아왔습니다.</p>
-
-<p>이 과정이 대화 기록과 정비 이력으로 각각 따로 저장되면, 다음에 비슷한 이상이 생겨도 AI는 또 베어링 교체를 권할 것입니다. 반대로 AI의 판단, 전문가의 수정과 이유, 실제 조치와 결과가 <strong>설비 A와 그 이상 유형에 연결된 지식으로 쌓이면</strong>, 다음 AI는 이 회사에서 실제로 있었던 일을 참고해 판단합니다.</p>
-
-<p>같은 사례가 반복된다면 점검 순서나 작업 표준 자체를 고치는 근거가 되기도 합니다. 이것이 ‘AI 사용 이력이 쌓이는 것’과 ‘기업의 경쟁력이 쌓이는 것’의 차이입니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-knowledge-accumulation-loop.png" alt="쓸수록 강해지는 순환 구조. AI 활용(설비 A 진동 데이터 분석), 판단·실행(베어링 교체 권고), 결과·전문가 수정(윤활 점검으로 수정, 정상화), 기업 지식으로 축적(설비 A와 이상 유형에 연결), 다음 AI·업무에서 재사용, 더 나은 판단(윤활 상태 점검부터 권고)으로 이어진다"/><figcaption>AI 활용 경험이 기업 지식으로 쌓여 다음 판단을 바꾸는 순환 구조</figcaption></figure>
-
-<p>그리고 이 순환은 앞의 세 권리 위에서만 돌아갑니다. 판단과 수정이 회사에 남아야(소유), 모델이 바뀌어도 그 지식을 계속 쓸 수 있고(독립), AI의 판단이 어떤 결과로 이어졌는지 확인할 수 있어야(통제) 쌓일 것이 생깁니다.</p>
-
-<p>이렇게 시작하세요</p>
-
-<ul>
-<li><strong>수정이 잦은 업무 하나부터</strong><br/><strong><mark>Q10. 1년 전보다 회사의 AI가 나아졌다면, 그게 공급사의 모델이 좋아져서가 아니라 우리 데이터와 경험이 쌓인 덕분이라고 말할 수 있습니까?</mark><br/></strong>사람이 AI 결과를 자주 고치는 업무를 하나 골라, 그 수정 내용과 근거가 관련 설비·업무·사례와 연결되어 남는지, 다음 AI 판단에 실제로 쓰이는지 확인합니다. 연결이 끊겨 있다면 그 지점부터 이어 주는 것이 축적의 첫걸음입니다.</li>
-</ul>
-
-<h2>기업 AI 주권은 네 가지가 하나의 구조로 이어질 때 완성됩니다</h2>
-
-<p>지금까지의 내용을 한 문장으로 줄이면 이렇습니다.</p>
-
-<blockquote>
-<p>지식은 기업에 남고, 모델과 실행 환경은 선택할 수 있으며, AI의 행동은 기업이 결정하고 확인할 수 있고, 그 경험이 다시 축적되는 구조.</p>
-</blockquote>
-
-<p>이 구조는 AI 도구를 하나씩 더해서는 만들어지지 않습니다. 도구마다 지식이 따로 쌓이고, 권한을 따로 설정하고, 기록을 따로 모아야 한다면 AI를 도입할수록 관리해야 할 것만 늘어납니다. <strong>데이터와 지식, 모델, 애플리케이션, 권한과 기록이 하나의 기반 위에서 연결될 때</strong> 비로소 가능합니다.</p>
-
-<p>그리고 그 기반 위에서, 각 기업의 설비와 시스템, 업무 방식에 맞춘 구현이 더해져야 합니다. 어떤 데이터를 어디까지 내보낼지, 어떤 행동에 승인이 필요한지는 기업마다 다르기 때문입니다.</p>
-
-<p>마키나락스의 <a href="https://www.makinarocks.ai/product/runway/">AI OS Runway</a>는 이 구조를 받치는 공통 기반을 지향합니다. 그 위에 산업 현장에서 쌓아온 구축 경험을 더해, 기업이 자사 환경에서 기업 AI 주권을 갖출 수 있도록 돕습니다.</p>
-
-<p>우리 회사의 유형과 ‘아니오’가 나온 영역을 확인했다면, 어디서부터 시작하면 좋을지 함께 이야기해 보세요.</p>
-
-<div>
-<p>자주 묻는 질문</p>
-<p>Q. 외부 LLM이나 클라우드를 쓰면 기업 AI 주권이 없는 건가요?</p>
-<p>A. 아닙니다. 기업 AI 주권은 외부 AI를 쓰지 않는 것이 아니라, 지금 가장 적합한 기술을 쓰면서도 필요할 때 다른 선택으로 옮겨갈 수 있는 상태를 말합니다. 업무 지식과 판단 기준이 특정 모델 밖, 회사가 관리하는 곳에 남고(소유), 모델·실행 환경·공급사를 업무 체계 전체를 다시 만들지 않고 바꿀 수 있으며(독립), 권한과 실행 기록을 회사가 정하고 확인할 수 있다면(통제) 외부 LLM과 클라우드를 쓰면서도 기업 AI 주권을 갖출 수 있습니다.</p>
-<p>Q. 제조 현장에서 AI 에이전트를 통제하려면 무엇이 필요한가요?</p>
-<p>A. 세 가지가 필요합니다. 첫째, AI가 볼 수 있는 것과 할 수 있는 것을 사람과 같은 권한 기준으로 정합니다. 둘째, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 되짚을 수 있도록 기록을 남깁니다. 셋째, 분석·조회는 AI가 바로 수행하고, 정비 요청처럼 영향이 제한적인 일은 정해진 조건 안에서 맡기며, 생산 계획 변경이나 설비 제어처럼 영향이 큰 일은 실행 전에 영향을 검증하고 사람의 승인을 거칩니다.</p>
-<p>Q. 소버린 AI와 기업 AI 주권은 어떻게 다른가요?</p>
-<p>A. 소버린 AI(Sovereign AI)는 국가가 자국의 데이터·인프라·인재로 독자적인 AI 모델과 기반을 갖추는 것에 대한 논의입니다. 기업 AI 주권(Enterprise AI Sovereignty)은 기업 단위에서, 어떤 AI를 쓰든 그 AI가 만든 지식과 결과를 소유하고 기술을 선택하며 사용을 통제할 수 있는지를 묻습니다. 두 논의는 층위가 다릅니다. 국가 차원의 AI 기반이 갖춰지더라도, 그 기술이 기업의 경쟁력으로 이어지려면 기업 안에서 소유·독립·통제가 함께 갖춰져야 합니다.</p>
-</div>
-
+	<h2>기업 AI 주권 점수를 확인했다면, 이제 어디서부터 바꿀까요</h2>
+	<div><a href="https://www.makinarocks.ai/blog/%ea%b8%b0%ec%97%85-ai-%ec%a3%bc%ea%b6%8c-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ec%b0%a8%ec%9d%b4/">기업 AI 주권 테스트 1편 ‘우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까’</a>에서 10개 질문에 답해 보셨나요? 기업 AI 주권이 무엇인지, 그리고 소유·독립·통제·축적이라는 틀은 1편에서 소개했습니다. 이번 글은 그다음 이야기입니다. <strong>‘아니오’가 나온 질문을 어떻게 ‘예’로 바꿀 수 있을까요?</strong></div>
+	<blockquote>
+		<div><strong>기업 AI 주권(Enterprise AI Sovereignty)이란</strong> 기업이 어떤 AI를 쓰든 그 AI가 만든 지식과 결과를 소유하고, 기술을 선택하고, 사용을 통제할 수 있는 상태를 말합니다. 기업 AI 주권을 확보하려면 지식은 기업에 남고(소유), 모델과 실행 환경은 선택할 수 있으며(독립), AI의 행동은 기업이 결정하고 확인할 수 있고(통제), 그 경험이 다시 쌓이는(축적) 구조가 필요합니다. 이 글은 네 가지 축별로 기업 AI 주권을 채우는 실행 방법을 정리합니다.</div>
+	</blockquote>
+	<div>
+		<header>
+			<div>
+				<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MjAuMDEwIiBoZWlnaHQ9IjgwLjAxMCIgdmlld0JveD0iMCAwIDcyMC4wMTAgODAuMDEwIiBmaWxsPSJub25lIj4KICA8cGF0aCBkPSJNIDIzMy43MiAxMS4wOSBMIDI0Ny45MSAxNS4zNCBMIDI2MS44NyA0LjMgTCAyNjIuODEgMCBMIDI0My4wOSAxLjkyIEwgMjMzLjcyIDExLjA5IFogTSAyNTYuMTEgMjEuODMgTCAyMzUuNDQgMjEuODMgTCAyMzUuNDQgMjMuNTUgTCAyMzkuOTEgMjguMDIgTCAyMzkuOTEgNzMuODEgTCAyMzUuNDQgNzguMjggTCAyMDUuNTkgNDIuNyBMIDIyNC4yMSAyNC4wOCBMIDIyNC4yMSAyMS44MiBMIDIwOS4wOCAyMS44MiBMIDIwOS4wOCAyOC4wMSBMIDE4OC45MiA0OC4xNyBMIDE4OC45MiAwLjcxIEwgMTY4LjI1IDAuNzEgTCAxNjguMjUgMi40MyBMIDE3Mi43MiA2LjkgTCAxNzIuNzIgNzMuODEgTCAxNjguMjUgNzguMjggTCAxNjguMjUgODAgTCAxOTMuMzkgODAgTCAxOTMuMzkgNzguMjggTCAxODguOTIgNzMuODEgTCAxODguOTIgNTkuMzcgTCAxOTUuMzEgNTIuOTggTCAyMTIuNyA3My44IEwgMjA4LjIzIDc4LjI3IEwgMjA4LjIzIDc5Ljk5IEwgMjM1LjQ1IDc5Ljk5IEwgMjYwLjU5IDc5Ljk5IEwgMjYwLjU5IDc4LjI3IEwgMjU2LjEyIDczLjggTCAyNTYuMTIgMjEuODIgTCAyNTYuMTEgMjEuODMgWiBNIDUxNyAyMy4xOSBDIDUxNi4xMyAyMi4zMiA1MTQuOTUgMjEuODMgNTEzLjcyIDIxLjgzIEwgNDg3LjE1IDIxLjgzIEMgNDg1LjkyIDIxLjgzIDQ4NC43NCAyMi4zMiA0ODMuODcgMjMuMTkgTCA0NzMuNDMgMzMuNjMgQyA0NzIuNTYgMzQuNSA0NzIuMDcgMzUuNjggNDcyLjA3IDM2LjkxIEwgNDcyLjA3IDY0LjkzIEMgNDcyLjA3IDY2LjE2IDQ3Mi41NiA2Ny4zNCA0NzMuNDMgNjguMjEgTCA0ODMuODcgNzguNjUgQyA0ODQuNzQgNzkuNTIgNDg1LjkyIDgwLjAxIDQ4Ny4xNSA4MC4wMSBMIDUxMy43MiA4MC4wMSBDIDUxNC45NSA4MC4wMSA1MTYuMTMgNzkuNTIgNTE3IDc4LjY1IEwgNTI3LjQ0IDY4LjIxIEMgNTI4LjMxIDY3LjM0IDUyOC44IDY2LjE2IDUyOC44IDY0LjkzIEwgNTI4LjggMzYuOTEgQyA1MjguOCAzNS42OCA1MjguMzEgMzQuNSA1MjcuNDQgMzMuNjMgTCA1MTcgMjMuMTkgWiBNIDUxMi42IDYzLjA5IEMgNTEyLjYgNjQuOTMgNTExLjg3IDY2LjcgNTEwLjU2IDY4LjAxIEwgNTA4LjI3IDcwLjMgQyA1MDYuOTcgNzEuNiA1MDUuMiA3Mi4zNCA1MDMuMzUgNzIuMzQgTCA0OTcuNTEgNzIuMzQgQyA0OTUuNjYgNzIuMzQgNDkzLjkgNzEuNjEgNDkyLjU5IDcwLjMgTCA0OTAuMyA2OC4wMSBDIDQ4OSA2Ni43MSA0ODguMjYgNjQuOTQgNDg4LjI2IDYzLjA5IEwgNDg4LjI2IDM4LjczIEMgNDg4LjI2IDM2Ljg4IDQ4OC45OSAzNS4xMiA0OTAuMyAzMy44MSBMIDQ5Mi41OSAzMS41MiBDIDQ5My44OSAzMC4yMiA0OTUuNjYgMjkuNDggNDk3LjUxIDI5LjQ4IEwgNTAzLjM1IDI5LjQ4IEMgNTA1LjIgMjkuNDggNTA2Ljk2IDMwLjIxIDUwOC4yNyAzMS41MiBMIDUxMC41NiAzMy44MSBDIDUxMS44NiAzNS4xMSA1MTIuNiAzNi44OCA1MTIuNiAzOC43MyBMIDUxMi42IDYzLjA5IFogTSAxNTguOTMgMzUuNDEgQyAxNTguOTMgMzQuMTggMTU4LjQ0IDMzIDE1Ny41NyAzMi4xMyBMIDE0OC42MyAyMy4xOSBDIDE0Ny43NiAyMi4zMiAxNDYuNTggMjEuODMgMTQ1LjM1IDIxLjgzIEwgMTE5LjYzIDIxLjgzIEMgMTE4LjQgMjEuODMgMTE3LjIyIDIyLjMyIDExNi4zNSAyMy4xOSBMIDEwNS45MSAzMy42MyBDIDEwNS4wNCAzNC41IDEwNC41NSAzNS42OCAxMDQuNTUgMzYuOTEgTCAxMDQuNTUgMzkuNzggTCAxMjAuNzUgMzkuNzggTCAxMjAuNzUgMzguNzQgQyAxMjAuNzUgMzYuOSAxMjEuNDggMzUuMTMgMTIyLjc5IDMzLjgyIEwgMTI1LjA4IDMxLjUzIEMgMTI2LjM4IDMwLjIzIDEyOC4xNSAyOS40OSAxMzAgMjkuNDkgTCAxMzYuOCAyOS40OSBDIDEzOC4zNyAyOS40OSAxMzkuODggMzAuMTEgMTQwLjk5IDMxLjIzIEMgMTQyLjEgMzIuMzQgMTQyLjczIDMzLjg1IDE0Mi43MyAzNS40MiBMIDE0Mi43MyA0NS4yMSBMIDExNi4xNiA0NS4yNCBDIDExNC45MyA0NS4yNCAxMTMuNzUgNDUuNzMgMTEyLjg5IDQ2LjYgTCAxMDQuODggNTQuNjEgQyAxMDQuMDEgNTUuNDggMTAzLjUyIDU2LjY2IDEwMy41MiA1Ny44OSBMIDEwMy41MiA2Ny4zNiBDIDEwMy41MiA2OC41OSAxMDQuMDEgNjkuNzcgMTA0Ljg4IDcwLjY0IEwgMTEyLjg4IDc4LjY0IEMgMTEzLjc1IDc5LjUxIDExNC45MyA4MCAxMTYuMTYgODAgTCAxMzIuNDEgODAgQyAxMzMuNjQgODAgMTM0LjgyIDc5LjUxIDEzNS42OSA3OC42NCBMIDE0Mi43MyA3MS42IEwgMTQyLjczIDgwIEwgMTYzLjQgODAgTCAxNjMuNCA3OC4yOSBMIDE1OC45MyA3My44MiBMIDE1OC45MyAzNS40MiBMIDE1OC45MyAzNS40MSBaIE0gMTQyLjc0IDY0LjM4IEwgMTM2LjgyIDcwLjI5IEMgMTM1LjUyIDcxLjU5IDEzMy43NSA3Mi4zMyAxMzEuOSA3Mi4zMyBMIDEyNS42NiA3Mi4zMyBDIDEyNC4wOSA3Mi4zMyAxMjIuNTggNzEuNzEgMTIxLjQ3IDcwLjU5IEMgMTIwLjM2IDY5LjQ4IDExOS43MyA2Ny45NyAxMTkuNzMgNjYuNCBMIDExOS43MyA1OC42OSBDIDExOS43MyA1Ny4wMSAxMjAuNDQgNTUuNDEgMTIxLjY5IDU0LjI5IEwgMTIzLjUgNTIuNjYgQyAxMjQuNTkgNTEuNjggMTI2LjAxIDUxLjEzIDEyNy40NyA1MS4xMyBMIDE0Mi43NCA1MS4xMyBMIDE0Mi43NCA2NC4zOCBaIE0gNDkuMjYgNjIuNiBMIDI0LjY3IDAuNzEgTCAwIDAuNzEgTCAwIDIuNDMgTCA0LjQ3IDYuOSBMIDQuNDcgNzMuODEgTCAwIDc4LjI4IEwgMCA4MCBMIDE4LjQxIDgwIEwgMTguNDEgNzguMjggTCAxMy45NCA3My44MSBMIDEzLjk0IDE2LjI5IEwgMzkuMTMgODAgTCA1MC44NyA4MCBMIDc2LjA0IDE2LjcxIEwgNzYuMDQgNzMuODEgTCA3MS41NyA3OC4yOCBMIDcxLjU3IDgwIEwgOTYuNzEgODAgTCA5Ni43MSA3OC4yOCBMIDkyLjI0IDczLjgxIEwgOTIuMjQgNi45IEwgOTYuNzEgMi40MyBMIDk2LjcxIDAuNzEgTCA3My41NSAwLjcxIEwgNDkuMjYgNjIuNiBaIE0gMzI1LjMgMzUuNDEgQyAzMjUuMyAzNC4xOCAzMjQuODEgMzMgMzIzLjk0IDMyLjEzIEwgMzE1IDIzLjE5IEMgMzE0LjEzIDIyLjMyIDMxMi45NSAyMS44MyAzMTEuNzIgMjEuODMgTCAyOTYuNDEgMjEuODMgQyAyOTUuMTggMjEuODMgMjk0IDIyLjMyIDI5My4xMyAyMy4xOSBMIDI4Ni4wOSAzMC4yMyBMIDI4Ni4wOSAyMS44MyBMIDI2OS44OSAyMS44MyBMIDI2NS40MiAyMS44MyBMIDI2NS40MiAyMy41NSBMIDI2OS44OSAyOC4wMiBMIDI2OS44OSA3My44MSBMIDI2NS40MiA3OC4yOCBMIDI2NS40MiA4MCBMIDI5MC41NiA4MCBMIDI5MC41NiA3OC4yOCBMIDI4Ni4wOSA3My44MSBMIDI4Ni4wOSAzNy40NCBMIDI5MiAzMS41MyBDIDI5My4zIDMwLjIzIDI5NS4wOCAyOS40OSAyOTYuOTIgMjkuNDkgTCAzMDMuMTYgMjkuNDkgQyAzMDQuNzMgMjkuNDkgMzA2LjI0IDMwLjExIDMwNy4zNSAzMS4yMyBDIDMwOC40NiAzMi4zNCAzMDkuMDkgMzMuODUgMzA5LjA5IDM1LjQyIEwgMzA5LjA5IDczLjgxIEwgMzA0LjYyIDc4LjI4IEwgMzA0LjYyIDgwIEwgMzI5Ljc2IDgwIEwgMzI5Ljc2IDc4LjI4IEwgMzI1LjI5IDczLjgxIEwgMzI1LjI5IDM1LjQxIEwgMzI1LjMgMzUuNDEgWiBNIDQ1Mi4yNiA0MS45MyBMIDQ2Mi4wOCAzMi4xMSBDIDQ2Mi45NSAzMS4yNCA0NjMuNDQgMzAuMDYgNDYzLjQ0IDI4LjgzIEwgNDYzLjQ0IDE1Ljc5IEMgNDYzLjQ0IDE0LjU2IDQ2Mi45NSAxMy4zOCA0NjIuMDggMTIuNTEgTCA0NTEuNjQgMi4wNyBDIDQ1MC43NyAxLjIgNDQ5LjU5IDAuNzEgNDQ4LjM2IDAuNzEgTCA0MDEuMDEgMC43MSBMIDQwMS4wMSAyLjQzIEwgNDA1LjQ4IDYuOSBMIDQwNS40OCA3My44MSBMIDQwMS4wMSA3OC4yOCBMIDQwMS4wMSA4MCBMIDQyNi4xNSA4MCBMIDQyNi4xNSA3OC4yOCBMIDQyMS42OCA3My44MSBMIDQyMS42OCA0My45IEwgNDM2LjYxIDQzLjkgTCA0NTAuMTIgNzMuODEgTCA0NDUuNjUgNzguMjggTCA0NDUuNjUgODAgTCA0NzEuNTggODAgTCA0NzEuNTggNzguMjggTCA0NjcuMTEgNzMuODEgTCA0NTIuMjUgNDEuOTMgTCA0NTIuMjYgNDEuOTMgWiBNIDQ0Ny4yNCAyNyBDIDQ0Ny4yNCAyOC44NCA0NDYuNTEgMzAuNjEgNDQ1LjIgMzEuOTIgTCA0NDIuOTEgMzQuMjEgQyA0NDEuNjEgMzUuNTEgNDM5Ljg0IDM2LjI1IDQzNy45OSAzNi4yNSBMIDQyMS42OCAzNi4yNSBMIDQyMS42OCA4LjM4IEwgNDM3Ljk5IDguMzggQyA0MzkuODQgOC4zOCA0NDEuNiA5LjExIDQ0Mi45MSAxMC40MiBMIDQ0NS4yIDEyLjcxIEMgNDQ2LjUgMTQuMDEgNDQ3LjI0IDE1Ljc4IDQ0Ny4yNCAxNy42MyBMIDQ0Ny4yNCAyNy4wMSBMIDQ0Ny4yNCAyNyBaIE0gNzE1LjA0IDUxLjE1IEwgNjgzLjg1IDQyLjI5IEMgNjgxLjg4IDQxLjcxIDY4MC41MyAzOS45IDY4MC41MyAzNy44NCBMIDY4MC41MyAzNS40MSBDIDY4MC41MyAzMy44NCA2ODEuMTUgMzIuMzMgNjgyLjI3IDMxLjIyIEMgNjgzLjM4IDMwLjExIDY4NC44OSAyOS40OCA2ODYuNDYgMjkuNDggTCA2OTQuNSAyOS40OCBDIDY5NS43MyAyOS40OCA2OTYuOTEgMjkuOTcgNjk3Ljc4IDMwLjg0IEwgNzAxLjQzIDM0LjQ5IEMgNzAyLjMgMzUuMzYgNzAyLjc5IDM2LjU0IDcwMi43OSAzNy43NyBMIDcwMi43OSA0MS4zMSBMIDcxOC45OSA0MS4zMSBMIDcxOC45OSAzNi45IEMgNzE4Ljk5IDM1LjY3IDcxOC41IDM0LjQ5IDcxNy42MyAzMy42MiBMIDcwNy4xOSAyMy4xOCBDIDcwNi4zMiAyMi4zMSA3MDUuMTQgMjEuODIgNzAzLjkxIDIxLjgyIEwgNjc5LjQgMjEuODIgQyA2NzguMTcgMjEuODIgNjc2Ljk5IDIyLjMxIDY3Ni4xMiAyMy4xOCBMIDY2NS42OCAzMy42MiBDIDY2NC44MSAzNC40OSA2NjQuMzIgMzUuNjcgNjY0LjMyIDM2LjkgTCA2NjQuMzIgNDQgQyA2NjQuMzIgNDcuMDggNjY2LjM1IDQ5Ljc5IDY2OS4zIDUwLjY3IEwgNzAwLjQ5IDU5LjUzIEMgNzAyLjQ2IDYwLjExIDcwMy44MSA2MS45MiA3MDMuODEgNjMuOTggTCA3MDMuODEgNjYuNDEgQyA3MDMuODEgNjcuOTggNzAzLjE5IDY5LjQ5IDcwMi4wNyA3MC42IEMgNzAwLjk1IDcxLjcxIDY5OS40NSA3Mi4zNCA2OTcuODggNzIuMzQgTCA2ODcuNzcgNzIuMzQgQyA2ODYuNTQgNzIuMzQgNjg1LjM2IDcxLjg1IDY4NC40OSA3MC45OCBMIDY4MC44NCA2Ny4zMyBDIDY3OS45NyA2Ni40NiA2NzkuNDggNjUuMjggNjc5LjQ4IDY0LjA1IEwgNjc5LjQ4IDU5Ljg2IEwgNjYzLjI4IDU5Ljg2IEwgNjYzLjI4IDY0LjkyIEMgNjYzLjI4IDY2LjE1IDY2My43NyA2Ny4zMyA2NjQuNjQgNjguMiBMIDY3NS4wOCA3OC42NCBDIDY3NS45NSA3OS41MSA2NzcuMTMgODAgNjc4LjM2IDgwIEwgNzA0LjkzIDgwIEMgNzA2LjE2IDgwIDcwNy4zNCA3OS41MSA3MDguMjEgNzguNjQgTCA3MTguNjUgNjguMiBDIDcxOS41MiA2Ny4zMyA3MjAuMDEgNjYuMTUgNzIwLjAxIDY0LjkyIEwgNzIwLjAxIDU3LjgyIEMgNzIwLjAxIDU0Ljc0IDcxNy45OCA1Mi4wMyA3MTUuMDMgNTEuMTUgTCA3MTUuMDQgNTEuMTUgWiBNIDU4Mi4yNSAyMy4xOSBDIDU4MS4zOCAyMi4zMiA1ODAuMiAyMS44MyA1NzguOTcgMjEuODMgTCA1NTIuNCAyMS44MyBDIDU1MS4xNyAyMS44MyA1NDkuOTkgMjIuMzIgNTQ5LjEyIDIzLjE5IEwgNTM4LjY4IDMzLjYzIEMgNTM3LjgxIDM0LjUgNTM3LjMyIDM1LjY4IDUzNy4zMiAzNi45MSBMIDUzNy4zMiA2NC45MyBDIDUzNy4zMiA2Ni4xNiA1MzcuODEgNjcuMzQgNTM4LjY4IDY4LjIxIEwgNTQ5LjEyIDc4LjY1IEMgNTQ5Ljk5IDc5LjUyIDU1MS4xNyA4MC4wMSA1NTIuNCA4MC4wMSBMIDU3OC45NyA4MC4wMSBDIDU4MC4yIDgwLjAxIDU4MS4zOCA3OS41MiA1ODIuMjUgNzguNjUgTCA1OTIuNjkgNjguMjEgQyA1OTMuNTYgNjcuMzQgNTk0LjA1IDY2LjE2IDU5NC4wNSA2NC45MyBMIDU5NC4wNSA1OC41NSBMIDU3Ny44NSA1OC41NSBMIDU3Ny44NSA2My4xIEMgNTc3Ljg1IDY0Ljk0IDU3Ny4xMiA2Ni43MSA1NzUuODEgNjguMDIgTCA1NzMuNTIgNzAuMzEgQyA1NzIuMjIgNzEuNjEgNTcwLjQ1IDcyLjM1IDU2OC42IDcyLjM1IEwgNTYyLjc2IDcyLjM1IEMgNTYwLjkxIDcyLjM1IDU1OS4xNSA3MS42MiA1NTcuODQgNzAuMzEgTCA1NTUuNTUgNjguMDIgQyA1NTQuMjUgNjYuNzIgNTUzLjUxIDY0Ljk1IDU1My41MSA2My4xIEwgNTUzLjUxIDM4Ljc0IEMgNTUzLjUxIDM2Ljg5IDU1NC4yNCAzNS4xMyA1NTUuNTUgMzMuODIgTCA1NTcuODQgMzEuNTMgQyA1NTkuMTQgMzAuMjMgNTYwLjkxIDI5LjQ5IDU2Mi43NiAyOS40OSBMIDU2OC42IDI5LjQ5IEMgNTcwLjQ1IDI5LjQ5IDU3Mi4yMSAzMC4yMiA1NzMuNTIgMzEuNTMgTCA1NzUuODEgMzMuODIgQyA1NzcuMTEgMzUuMTIgNTc3Ljg1IDM2Ljg5IDU3Ny44NSAzOC43NCBMIDU3Ny44NSA0Mi42MyBMIDU5NC4wNSA0Mi42MyBMIDU5NC4wNSAzNi45MSBDIDU5NC4wNSAzNS42OCA1OTMuNTYgMzQuNSA1OTIuNjkgMzMuNjMgTCA1ODIuMjUgMjMuMTkgWiBNIDM5MC45OSAzNS40MSBDIDM5MC45OSAzNC4xOCAzOTAuNSAzMyAzODkuNjMgMzIuMTMgTCAzODAuNjkgMjMuMTkgQyAzNzkuODIgMjIuMzIgMzc4LjY0IDIxLjgzIDM3Ny40MSAyMS44MyBMIDM1MS42OSAyMS44MyBDIDM1MC40NiAyMS44MyAzNDkuMjggMjIuMzIgMzQ4LjQxIDIzLjE5IEwgMzM3Ljk3IDMzLjYzIEMgMzM3LjEgMzQuNSAzMzYuNjEgMzUuNjggMzM2LjYxIDM2LjkxIEwgMzM2LjYxIDM5Ljc4IEwgMzUyLjgxIDM5Ljc4IEwgMzUyLjgxIDM4Ljc0IEMgMzUyLjgxIDM2LjkgMzUzLjU0IDM1LjEzIDM1NC44NSAzMy44MiBMIDM1Ny4xNCAzMS41MyBDIDM1OC40NCAzMC4yMyAzNjAuMjEgMjkuNDkgMzYyLjA2IDI5LjQ5IEwgMzY4Ljg2IDI5LjQ5IEMgMzcwLjQzIDI5LjQ5IDM3MS45NCAzMC4xMSAzNzMuMDUgMzEuMjMgQyAzNzQuMTYgMzIuMzQgMzc0Ljc5IDMzLjg1IDM3NC43OSAzNS40MiBMIDM3NC43OSA0NS4yMSBMIDM0OC4yMiA0NS4yNCBDIDM0Ni45OSA0NS4yNCAzNDUuODEgNDUuNzMgMzQ0Ljk1IDQ2LjYgTCAzMzYuOTQgNTQuNjEgQyAzMzYuMDcgNTUuNDggMzM1LjU4IDU2LjY2IDMzNS41OCA1Ny44OSBMIDMzNS41OCA2Ny4zNiBDIDMzNS41OCA2OC41OSAzMzYuMDcgNjkuNzcgMzM2Ljk0IDcwLjY0IEwgMzQ0Ljk0IDc4LjY0IEMgMzQ1LjgxIDc5LjUxIDM0Ni45OSA4MCAzNDguMjIgODAgTCAzNjQuNDcgODAgQyAzNjUuNyA4MCAzNjYuODggNzkuNTEgMzY3Ljc1IDc4LjY0IEwgMzc0Ljc5IDcxLjYgTCAzNzQuNzkgODAgTCAzOTUuNDYgODAgTCAzOTUuNDYgNzguMjkgTCAzOTAuOTkgNzMuODIgTCAzOTAuOTkgMzUuNDIgTCAzOTAuOTkgMzUuNDEgWiBNIDM3NC43OSA2NC4zOCBMIDM2OC44NyA3MC4yOSBDIDM2Ny41NyA3MS41OSAzNjUuOCA3Mi4zMyAzNjMuOTUgNzIuMzMgTCAzNTcuNzEgNzIuMzMgQyAzNTYuMTQgNzIuMzMgMzU0LjYzIDcxLjcxIDM1My41MiA3MC41OSBDIDM1Mi40MSA2OS40OCAzNTEuNzggNjcuOTcgMzUxLjc4IDY2LjQgTCAzNTEuNzggNTguNjkgQyAzNTEuNzggNTcuMDEgMzUyLjQ5IDU1LjQxIDM1My43NCA1NC4yOSBMIDM1NS41NSA1Mi42NiBDIDM1Ni42NCA1MS42OCAzNTguMDYgNTEuMTMgMzU5LjUyIDUxLjEzIEwgMzc0Ljc5IDUxLjEzIEwgMzc0Ljc5IDY0LjM4IFogTSA2NTQuNTkgMjQuMDkgTCA2NTQuNTkgMjEuODMgTCA2MzkuNDYgMjEuODMgTCA2MzkuNDYgMjguMDIgTCA2MTkuMyA0OC4xOCBMIDYxOS4zIDAuNzIgTCA1OTguNjMgMC43MiBMIDU5OC42MyAyLjQ0IEwgNjAzLjEgNi45MSBMIDYwMy4xIDczLjgyIEwgNTk4LjYzIDc4LjI5IEwgNTk4LjYzIDgwLjAxIEwgNjIzLjc3IDgwLjAxIEwgNjIzLjc3IDc4LjI5IEwgNjE5LjMgNzMuODIgTCA2MTkuMyA1OS4zOCBMIDYyNS42OSA1Mi45OSBMIDY0My4wOCA3My44MSBMIDYzOC42MSA3OC4yOCBMIDYzOC42MSA4MCBMIDY2NS44MyA4MCBMIDY2NS44MyA3OC4yOCBMIDYzNS45OCA0Mi43IEwgNjU0LjYgMjQuMDggTCA2NTQuNTkgMjQuMDkgWiIgZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+Cjwvc3ZnPg==" alt="MakinaRocks"/>
+				<div>Enterprise AI Sovereignty Test</div>
+				<div>기업 AI 주권 테스트</div>
+				<div>10개 질문에 ‘예’ 또는 ‘아니오’를 체크하면, 맨 아래에 우리 회사의 유형이 나타납니다.</div>
+			</div>
+			<div><strong>0</strong> / 10 응답</div>
+		</header>
+		<table>
+			<thead>
+				<tr>
+					<th>기업 AI 주권 테스트 질문 리스트</th>
+					<th>예</th>
+					<th>아니오</th>
+					<th>Layer</th>
+				</tr>
+			</thead>
+		</table>
+	</div>
+	<details><summary>기업 AI 주권 테스트 10문항 (텍스트로 보기)</summary> 	<figure>
+		<table>
+			<thead>
+				<tr>
+					<th>영역</th>
+					<th>문항</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>소유</td>
+					<td>Q1. 직원들이 AI로 업무를 하며 쌓은 노하우(질문, 답, 수정 내용)가 회사 시스템에 남고, 다른 직원도 업무에 활용할 수 있습니까?</td>
+				</tr>
+				<tr>
+					<td>소유</td>
+					<td>Q2. 회사 데이터가 외부 AI 서비스의 모델 학습에 쓰이지 않도록 하는 설정이, 모든 계정에서 꺼져 있는지 확인했습니까?</td>
+				</tr>
+				<tr>
+					<td>소유</td>
+					<td>Q3. 지금 쓰는 AI 서비스 계약을 해지해도, 그동안 만들어 온 업무 규칙과 판단 기준은 회사 시스템에 그대로 남습니까?</td>
+				</tr>
+				<tr>
+					<td>독립</td>
+					<td>Q4. 지금 쓰는 AI 모델을 다른 모델로 바꿀 때, 데이터 연동·권한·업무 흐름은 그대로 두고 모델만 교체하고 검증하면 됩니까?</td>
+				</tr>
+				<tr>
+					<td>독립</td>
+					<td>Q5. 생산 이미지나 설계 도면처럼 외부로 나갈 수 없는 데이터를 다루는 업무에도, 공장 내부 환경에서 필요한 AI를 운영할 수 있습니까?</td>
+				</tr>
+				<tr>
+					<td>독립</td>
+					<td>Q6. 쓰던 AI 공급사가 가격을 두 배로 올리거나 서비스를 중단해도, 하던 AI 업무를 다른 상용 모델이나 자체·오픈소스 모델로 옮겨 계속할 수 있습니까?</td>
+				</tr>
+				<tr>
+					<td>통제</td>
+					<td>Q7. 인사 평가나 원가 정보를 AI에게 물었을 때, 권한이 없는 직원에게는 답하지 않도록 되어 있습니까?</td>
+				</tr>
+				<tr>
+					<td>통제</td>
+					<td>Q8. 어제 AI가 내린 품질 판정 하나를 골라, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 지금 바로 확인할 수 있습니까?</td>
+				</tr>
+				<tr>
+					<td>통제</td>
+					<td>Q9. 생산 계획 변경 같은 현장 업무를 AI에게 맡길 때, 실행 전에 영향을 검증하고 중요한 결정은 사람의 승인을 받습니까?</td>
+				</tr>
+				<tr>
+					<td>축적</td>
+					<td>Q10. 1년 전보다 회사의 AI가 나아졌다면, 그게 공급사의 모델이 좋아져서가 아니라 우리 데이터와 경험이 쌓인 덕분이라고 말할 수 있습니까?</td>
+				</tr>
+			</tbody>
+		</table>
+	</figure> </details>
+	<div>그 전에 한 가지 짚고 가겠습니다. 같은 점수라도 출발점은 회사마다 다릅니다.</div>
+	<h2>점수보다 중요한 것: 우리 회사는 어떤 기업 AI 주권 유형일까</h2>
+	<div>1편의 결과를 축별로 다시 나눠 보세요. 소유(Q1~Q3), 독립(Q4~Q6), 통제(Q7~Q9) 각각에서 ‘예’가 2개 이상이면 확보, 1개 이하면 취약입니다. 세 축의 조합을 보면 우리 회사가 어떤 상태인지, 무엇부터 손대야 하는지가 보입니다.</div>
+	<div>
+		<div>AI Sovereignty Types</div>
+		<div>AI 주권 진단 유형</div>
+		<div>유형을 클릭하면 상태 설명과 먼저 볼 문항이 열립니다.</div>
+		<div>
+			<div>  취약 확보</div>
+			<button>모두 펼치기</button>
+		</div>
+		<div>  유형조합</div>
+	</div>
+	<details><summary>기업 AI 주권 9가지 유형 (텍스트로 보기)</summary> 	<figure>
+		<table>
+			<thead>
+				<tr>
+					<th>유형</th>
+					<th>조합</th>
+					<th>이런 상태입니다</th>
+					<th>먼저 볼 문항</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>AI 의존형</td>
+					<td>소유·독립·통제 모두 취약</td>
+					<td>지식도, 선택권도, 통제권도 아직 회사 밖에 있습니다. 지키고 고를 대상이 먼저 회사 안에 있어야 하므로, 소유부터 시작합니다.</td>
+					<td>Q1, Q2</td>
+				</tr>
+				<tr>
+					<td>관리 중심형</td>
+					<td>소유·독립 취약, 통제 확보</td>
+					<td>AI를 안전하게 쓰고는 있지만, 회사에 남는 것도, 기술을 고를 선택권도 없습니다.</td>
+					<td>Q1, Q4</td>
+				</tr>
+				<tr>
+					<td>도구 교체형</td>
+					<td>소유·통제 취약, 독립 확보</td>
+					<td>AI를 골라 쓸 수는 있지만, 결과가 남지 않고 AI의 행동도 관리되지 않습니다. 도구는 바뀌어도 역량은 쌓이지 않습니다.</td>
+					<td>Q1, Q7</td>
+				</tr>
+				<tr>
+					<td>자산 정체형</td>
+					<td>독립·통제 취약, 소유 확보</td>
+					<td>지식은 쌓이고 있지만, 다른 선택지로 옮기거나 AI에게 일을 맡기는 데까지 쓰이지 못합니다.</td>
+					<td>Q4, Q7</td>
+				</tr>
+				<tr>
+					<td>활용 제한형</td>
+					<td>통제 취약, 소유·독립 확보</td>
+					<td>자산과 선택권은 있지만, AI에게 중요한 일을 맡길 장치가 부족해 활용이 조회와 추천에 머뭅니다.</td>
+					<td>Q7, Q9</td>
+				</tr>
+				<tr>
+					<td>선택권 부족형</td>
+					<td>독립 취약, 소유·통제 확보</td>
+					<td>자산과 통제 체계는 갖췄지만, 모델·실행 환경·공급사를 실제로 바꾸기는 어렵습니다.</td>
+					<td>Q4, Q6</td>
+				</tr>
+				<tr>
+					<td>전환 반복형</td>
+					<td>소유 취약, 독립·통제 확보</td>
+					<td>바꿀 수는 있지만 남는 것이 없어, 바꿀 때마다 처음부터 다시 쌓습니다.</td>
+					<td>Q1, Q3</td>
+				</tr>
+				<tr>
+					<td>순환 단절형</td>
+					<td>세 축 모두 확보, 축적(Q10) 취약</td>
+					<td>권리는 갖췄지만, AI를 쓰며 생긴 경험이 다음 판단에 다시 쓰이는 순환이 없습니다.</td>
+					<td>Q10</td>
+				</tr>
+				<tr>
+					<td>주권 실현형</td>
+					<td>세 축 모두 확보, 축적(Q10) 확보</td>
+					<td>AI를 쓸수록 회사가 강해지고 있습니다. 이 순환을 핵심 업무 전반으로 넓히는 것이 다음 과제입니다.</td>
+					<td>—</td>
+				</tr>
+			</tbody>
+		</table>
+	</figure> </details>
+	<div>유형을 확인했다면, 이제 영역별로 ‘아니오’를 ‘예’로 바꾸는 방법을 살펴보겠습니다. 가상의 제조기업 한 곳을 따라가 보죠. 이 회사는 공장 설비의 이상을 분석하는 AI를 운영하고 있습니다. 같은 장면을 네 가지 축으로 차례로 들여다보면, 각 영역에서 무엇을 바꿔야 하는지가 조금 더 분명해집니다.</div>
+	<h2>1. 소유: 기업 AI 주권은 데이터보다 넓은 것을 남기는 데서 시작합니다</h2>
+	<div>소유라고 하면 보통 데이터를 떠올립니다. 하지만 데이터는 이미 대부분 회사 안에 있습니다. 정말 물어야 할 것은 <strong>AI를 쓸수록 무엇이 기업 고유의 자산으로 남는가</strong>입니다.</div>
+	<h3>흩어진 데이터는 어떻게 기업의 지식이 될까요?</h3>
+	<div>설비 A에 대한 정보는 여러 시스템에 나뉘어 있습니다. 생산정보는 MES에, 정비이력은 설비관리 시스템에, 진동·온도 데이터는 센서 DB에, 정비 매뉴얼은 문서로, 부품 정보는 ERP에 있습니다.</div>
+	<div>AI가 필요할 때마다 이것들을 검색하는 것만으로는 부족합니다. 설비 A가 1번 라인에 속하고, 부품 B로 구성되며, 설비보전팀이 담당하고, 과거에 어떤 고장이 있었는지처럼 <strong>데이터가 업무의 의미와 관계로 연결될 때</strong> 비로소 AI와 사람이 함께 쓸 수 있는 기업의 지식이 됩니다.</div>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-equipment-knowledge-graph.png" alt="설비 A를 중심으로 1번 라인(생산정보·MES), 부품 B(부품 정보·ERP), 진동·온도 데이터(센서 DB), 과거 고장(정비 이력·설비관리 시스템), 정비 절차(정비 매뉴얼·문서), 설비보전팀(담당 조직)이 소속·구성·측정·이력·준수·담당 관계로 연결된 기업 지식 관계도"/>
+		<figcaption>흩어진 데이터가 업무의 의미와 관계로 연결될 때 기업의 지식이 된다</figcaption>
+	</figure>
+	<h3>AI를 쓰며 새로 생기는 지식도 자산입니다</h3>
+	<div>어느 날 AI가 설비 A의 진동 데이터를 보고 ‘베어링 교체가 필요하다’고 판단했습니다. 현장 엔지니어는 과거 경험을 근거로 ‘윤활 상태부터 점검하자’고 판단을 바꿨습니다.</div>
+	<div>이 과정에서 생긴 AI의 판단, 전문가의 수정과 그 이유도 회사의 자산입니다. 이것이 엔지니어 개인의 기억이나 외부 서비스의 대화 기록으로만 남는다면, 담당자가 바뀌는 순간 함께 사라집니다.</div>
+	<div>이렇게 시작하세요</div>
+	<ul>
+		<li><strong>누가 어떤 AI를 쓰는지부터 파악하기</strong><br/>
+			<mark><strong>Q1. 직원들이 AI로 업무를 하며 쌓은 노하우(질문, 답, 수정 내용)가 회사 시스템에 남고, 다른 직원도 업무에 활용할 수 있습니까?</strong></mark><br/>
+			부서별로 어떤 AI를 어떤 업무에 쓰고 있는지 확인하고, 핵심 업무부터 AI 활용 결과와 사람이 고친 내용을 회사 시스템에 남기는 기준을 정합니다.</li>
+		<li><strong>데이터가 갈 수 있는 곳 정하기</strong><br/>
+			<mark><strong>Q2. 회사 데이터가 외부 AI 서비스의 모델 학습에 쓰이지 않도록 하는 설정이, 모든 계정에서 꺼져 있는지 확인했습니까?</strong></mark><br/>
+			AI 서비스별 학습 활용과 데이터 보관 설정을 확인할 담당자를 두고, 공개 자료·사내 문서·핵심 공정·기밀처럼 민감도에 따라 쓸 수 있는 AI와 처리 위치를 정합니다.</li>
+		<li><strong>규칙과 기준을 서비스 밖으로 옮기</strong>기<br/>
+			<mark><strong>Q3. 지금 쓰는 AI 서비스 계약을 해지해도, 그동안 만들어 온 업무 규칙과 판단 기준은 회사 시스템에 그대로 남습니까?</strong></mark><br/>
+			AI 업무에 쓰이는 규칙, 판단 기준, 지시문, 업무 흐름을 목록으로 정리해 회사가 관리하는 저장소로 옮깁니다.</li>
+	</ul>
+	<div>세 가지가 가리키는 방향은 하나입니다. <strong>기업의 지식은 모델 안이 아니라, 모델과 분리된 곳에 있어야 합니다.</strong></div>
+	<h2>2. 독립: 외부 기술을 쓰되, 떠날 수 있어야 합니다</h2>
+	<div>독립은 외부 AI를 쓰지 않는 것이 아닙니다. 최신 모델과 클라우드를 활용하는 것은 비용과 속도 면에서 합리적인 선택일 수 있습니다. <strong>독립은 지금 가장 적합한 것을 쓰면서도, 필요할 때 다른 선택으로 옮겨갈 수 있는 상태입니다.</strong></div>
+	<h3>AI 모델을 ‘지원’하는 것과 ‘바꿀 수 있는’ 것은 어떻게 다를까요?</h3>
+	<div>1편에서 1년 뒤 같은 날 더 나은 모델로 바꾸는 두 회사를 이야기했습니다. 한 회사는 처음부터 다시 시작하고, 다른 회사는 모델만 바꿔 검증합니다. 그 차이는 어디서 생길까요? 설비 A의 이상을 분석하는 AI가 모델 A로 돌고 있는데, 제조 추론에 더 강하고 비용도 낮은 모델 B가 나왔다고 해보겠습니다.</div>
+	<div>그런데 모델을 바꾸려면 설비 데이터 연결부터 권한, 업무 흐름, 화면까지 다시 만들어야 한다면 어떨까요? 기술적으로는 선택지가 있어도, 실제로는 모델 A에 묶여 있는 상태입니다.</div>
+	<div>모델을 바꿀 때는 세 가지가 구분돼야 합니다.</div>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-model-switch-scope.png" alt="AI 모델 교체 시 구분할 세 가지. 그대로 남는 것(설비 지식, 업무 규칙, 정비 절차, 업무 흐름, 과거 실행 경험), 바뀌는 것(모델 A에서 모델 B로), 다시 확인할 것(지시문 적합성, 결과 품질, 업무별 성능)"/>
+		<figcaption>모델 교체 시 그대로 남는 것, 바뀌는 것, 다시 확인할 것</figcaption>
+	</figure>
+	<details><summary>모델 교체 시 구분할 세 가지 (텍스트로 보기)</summary> 	<figure>
+		<table>
+			<thead>
+				<tr>
+					<th>구분</th>
+					<th>내용</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>그대로 남는 것</td>
+					<td>설비 지식, 업무 규칙, 정비 절차, 업무 흐름, 과거 실행 경험</td>
+				</tr>
+				<tr>
+					<td>바뀌는 것</td>
+					<td>원인을 추론하고 답을 만드는 모델 (A → B)</td>
+				</tr>
+				<tr>
+					<td>다시 확인할 것</td>
+					<td>지시문 적합성, 결과 품질, 업무별 성능</td>
+				</tr>
+			</tbody>
+		</table>
+	</figure> </details>
+	<div>모델마다 특성이 다르니 아무것도 손대지 않고 바꿀 수는 없습니다. 중요한 것은 <strong>모델 하나를 바꾸기 위해 업무 체계 전체를 다시 만들지 않는 것</strong>입니다. 모델은 기업 AI의 중심이 아니라, 업무에 따라 고르고 교체하는 부품에 가까워야 합니다.</div>
+	<div>실행 환경도 마찬가지입니다. 클라우드에서 잘 돌던 품질 검사 AI도, 보안 정책이 바뀌어 생산 이미지를 공장 밖으로 보낼 수 없게 되면 멈춥니다. <strong>기존 AI 업무 체계를 최대한 유지하면서 공장 내부나 폐쇄망에서도 운영할 수 있어야</strong> 기술이 기업의 조건에 맞춰집니다.</div>
+	<div>이렇게 시작하세요</div>
+	<ul>
+		<li><strong>모델 교체 범위 나눠 보기</strong><br/>
+			<mark><strong>Q4. 지금 쓰는 AI 모델을 다른 모델로 바꿀 때, 데이터 연동·권한·업무 흐름은 그대로 두고 모델만 교체하고 검증하면 됩니까?</strong></mark><br/>
+			주요 AI 업무 하나를 골라 위의 표처럼 남는 것, 바뀌는 것, 다시 확인할 것을 나눠 봅니다. 업무별 평가 기준을 만들어 두면 새 모델이 나왔을 때 같은 기준으로 비교할 수 있습니다.</li>
+		<li><strong>업무별 실행 환경 정하기</strong><br/>
+			<mark><strong>Q5. 생산 이미지나 설계 도면처럼 외부로 나갈 수 없는 데이터를 다루는 업무에도, 공장 내부 환경에서 필요한 AI를 운영할 수 있습니까?</strong></mark><br/>
+			업무마다 필요한 실행 환경을 클라우드, 사내 서버, 외부와 분리된 폐쇄망으로 나누고, 보안 때문에 보류된 AI 과제를 내부에서 운영할 방법을 검토합니다.</li>
+		<li><strong>공급사 의존도 점검하기</strong><br/>
+			<mark><strong>Q6. 쓰던 AI 공급사가 가격을 두 배로 올리거나 서비스를 중단해도, 하던 AI 업무를 다른 상용 모델이나 자체·오픈소스 모델로 옮겨 계속할 수 있습니까?</strong></mark><br/>
+			어떤 업무가 어떤 공급사의 고유 기능에 묶여 있는지 파악하고, 핵심 업무마다 옮겨갈 수 있는 모델 후보(상용, 오픈소스, 자체 모델)와 옮겼을 때의 영향을 미리 점검합니다.</li>
+	</ul>
+	<div>Q4가 기술 변화에 대한 선택권이라면, Q6은 공급사의 조건 변화에 대한 선택권입니다. <strong>대안이 있다는 것 자체가 협상력입니다.</strong></div>
+	<h2>3. 통제: AI를 막기 위한 것이 아니라, 더 많이 맡기기 위한 것입니다</h2>
+	<div>AI가 질문에 답하는 수준을 넘어 실제 업무를 처리하기 시작하면 상황이 달라집니다. 정비 요청을 만들고, 생산 계획을 바꾸고, 설비에 영향을 주는 판단까지 내리게 됩니다.</div>
+	<div>이때 통제 장치가 없으면 기업은 두 가지 중 하나를 골라야 합니다. AI를 현장 업무에서 아예 빼든지, 위험을 그대로 감수하든지요. 실제로 많은 기업이 앞의 길을 택하고, AI는 추천까지만 하는 도구로 남습니다.</div>
+	<div><strong>통제는 AI의 사용을 제한하는 장치가 아닙니다. 기업이 통제권을 유지하면서 AI에게 맡길 수 있는 일을 넓혀가는 기반입니다.</strong></div>
+	<div>통제는 세 단계로 이어집니다. 무엇을 할 수 있는지 <strong>정하고</strong>, 실제로 무엇을 했는지 <strong>확인하고</strong>, 영향이 큰 일은 실행 전에 <strong>거르는</strong> 것입니다.</div>
+	<h3>정한다: 볼 수 있는 것과 할 수 있는 것을 나눕니다</h3>
+	<div>설비 정보를 조회할 수 있다고 해서 설비 설정을 바꿀 권한까지 있는 것은 아닙니다. 같은 설비 A 분석 AI라도 현장 작업자는 조회까지, 정비 담당자는 정비 요청까지처럼 누가 쓰느냐에 따라 허용 범위가 달라져야 합니다.</div>
+	<div>평가 자료나 원가 정보도 마찬가지입니다. <strong>사람에게 적용하던 권한 체계가 AI에도 그대로 적용돼야 합니다.</strong> 문서를 AI에 통째로 연결하면, 기존 권한 체계를 우회하는 길이 생길 수 있습니다.</div>
+	<h3>확인한다: AI의 판단 과정을 어떻게 되짚을 수 있을까요?</h3>
+	<div>AI가 ‘베어링 이상 가능성이 높다’고 판단하고 정비 요청을 만들었다고 해보겠습니다. 며칠 뒤 그 판단이 틀렸다는 것이 밝혀졌습니다.</div>
+	<div>누가 요청했는지, 어떤 센서 데이터와 정비 이력을 참고했는지, 어떤 모델이 판단했는지, 그것이 어떤 조치로 이어졌는지를 하나의 흐름으로 볼 수 있어야 원인을 찾을 수 있습니다. “담당자한테 물어보면 알 겁니다”는 답이 나온다면, 기록이 없거나 시스템마다 흩어져 있다는 뜻입니다.</div>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-ai-decision-traceability.png" alt="AI 판단 추적 흐름. 요청(설비보전팀 담당자의 설비 A 이상 분석 요청), AI 처리(이상 분석 AI, 모델 A), 참고 데이터(진동 센서 데이터, 설비 A 정비 이력), 판단(베어링 이상 가능성 높음), 실제 조치(정비 요청 생성)로 이어지며, 판단이 틀렸다면 조치에서 요청까지 거꾸로 되짚을 수 있다"/>
+		<figcaption>요청부터 실제 조치까지, AI의 판단 과정을 되짚을 수 있어야 한다</figcaption>
+	</figure>
+	<div>모든 처리 과정을 기록하자는 것이 아닙니다. <strong>문제가 생겼을 때 원인을 되짚을 수 있을 만큼</strong>이면 충분합니다.</div>
+	<h3>거른다: 영향이 큰 일은 실행 전에 확인합니다</h3>
+	<div>잘못 만든 정비 요청은 취소하면 됩니다. 하지만 AI의 판단으로 생산라인이 이미 멈췄다면, 그 손실은 이미 발생한 뒤입니다.</div>
+	<div>그래서 제조 현장에서는 <strong>실행 전 통제</strong>가 무엇보다 중요합니다. 모든 행동에 승인을 받으면 AI를 쓰는 의미가 없고, 모든 행동을 AI에게 맡기면 위험이 큽니다. 답은 그 사이에 있습니다.</div>
+	<ol>
+		<li><strong>분석과 조회</strong>는 AI가 바로 수행합니다.</li>
+		<li><strong>정비 요청처럼 영향이 제한적인 일</strong>은 정해진 조건 안에서 AI가 수행합니다.</li>
+		<li><strong>생산 계획 변경이나 설비 제어처럼 영향이 큰 일</strong>은 실행 전에 영향을 미리 따져보고, 사람의 승인을 거칩니다.</li>
+	</ol>
+	<div>핵심은 AI의 자율성을 줄이는 것이 아니라, <strong>기업이 감당할 수 있는 범위 안에서 AI가 더 많은 일을 하도록 만드는 것</strong>입니다.</div>
+	<div>이렇게 시작하세요</div>
+	<ul>
+		<li><strong>AI의 권한을 사람과 같은 기준으로 맞추기</strong><br/>
+			<mark><strong>Q7. 인사 평가나 원가 정보를 AI에게 물었을 때, 권한이 없는 직원에게는 답하지 않도록 되어 있습니까?</strong></mark><br/>
+			AI에 연결된 데이터와 시스템을 정리하고, 직원별 권한과 조회·요청·변경·실행 같은 행동 단위의 허용 범위를 AI에도 똑같이 적용합니다.</li>
+		<li><strong>판단 하나를 거꾸로 따라가 보기</strong><br/>
+			<mark><strong>Q8. 어제 AI가 내린 품질 판정 하나를 골라, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 지금 바로 확인할 수 있습니까?</strong></mark><br/>
+			최근 AI가 내린 판단 하나를 골라 실제로 역추적해 보세요. 기록이 끊기는 지점이 바로 보입니다. 그다음 중요한 업무부터 요청자, 모델, 데이터, 결과, 조치를 연결해 남기는 기준을 만듭니다.</li>
+		<li><strong>행동을 영향의 크기로 나누기</strong><br/>
+			<mark><strong>Q9. 생산 계획 변경 같은 현장 업무를 AI에게 맡길 때, 실행 전에 영향을 검증하고 중요한 결정은 사람의 승인을 받습니까?</strong></mark><br/>
+			위의 세 단계처럼 AI의 행동을 나누고, 영향이 큰 작업에는 실행 전 검증과 승인 절차를 둡니다.</li>
+	</ul>
+	<h2>4. 축적: 저장되는 것과 쌓이는 것은 다릅니다</h2>
+	<div>1편의 마지막 질문을 다시 떠올려 보겠습니다. 1년 전보다 회사 AI가 나아졌다면, 그것은 모델이 좋아져서일까요, 우리 경험이 쌓여서일까요?</div>
+	<div>모델이 좋아져서라면, 경쟁사도 똑같이 누리는 변화입니다. <strong>우리 회사만의 경험이 쌓여서 좋아진 것이어야 경쟁력입니다.</strong></div>
+	<h3>AI의 판단은 어떻게 다음에 더 나아질까요?</h3>
+	<div>앞서 AI는 설비 A에 대해 ‘베어링 교체’를 권고했고, 현장 엔지니어는 ‘윤활 상태 점검’으로 판단을 바꿨습니다. 점검 결과 실제로 윤활 문제였고, 조치 후 진동은 정상 범위로 돌아왔습니다.</div>
+	<div>이 과정이 대화 기록과 정비 이력으로 각각 따로 저장되면, 다음에 비슷한 이상이 생겨도 AI는 또 베어링 교체를 권할 것입니다. 반대로 AI의 판단, 전문가의 수정과 이유, 실제 조치와 결과가 <strong>설비 A와 그 이상 유형에 연결된 지식으로 쌓이면</strong>, 다음 AI는 이 회사에서 실제로 있었던 일을 참고해 판단합니다.</div>
+	<div>같은 사례가 반복된다면 점검 순서나 작업 표준 자체를 고치는 근거가 되기도 합니다. 이것이 ‘AI 사용 이력이 쌓이는 것’과 ‘기업의 경쟁력이 쌓이는 것’의 차이입니다.</div>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EA%B8%B0%EC%97%85-AI-%EC%A3%BC%EA%B6%8C-knowledge-accumulation-loop.png" alt="쓸수록 강해지는 순환 구조. AI 활용(설비 A 진동 데이터 분석), 판단·실행(베어링 교체 권고), 결과·전문가 수정(윤활 점검으로 수정, 정상화), 기업 지식으로 축적(설비 A와 이상 유형에 연결), 다음 AI·업무에서 재사용, 더 나은 판단(윤활 상태 점검부터 권고)으로 이어진다"/>
+		<figcaption>AI 활용 경험이 기업 지식으로 쌓여 다음 판단을 바꾸는 순환 구조</figcaption>
+	</figure>
+	<div>그리고 이 순환은 앞의 세 권리 위에서만 돌아갑니다. 판단과 수정이 회사에 남아야(소유), 모델이 바뀌어도 그 지식을 계속 쓸 수 있고(독립), AI의 판단이 어떤 결과로 이어졌는지 확인할 수 있어야(통제) 쌓일 것이 생깁니다.</div>
+	<div>이렇게 시작하세요</div>
+	<ul>
+		<li><strong>수정이 잦은 업무 하나부터</strong><br/>
+			<strong><mark>Q10. 1년 전보다 회사의 AI가 나아졌다면, 그게 공급사의 모델이 좋아져서가 아니라 우리 데이터와 경험이 쌓인 덕분이라고 말할 수 있습니까?</mark><br/></strong>사람이 AI 결과를 자주 고치는 업무를 하나 골라, 그 수정 내용과 근거가 관련 설비·업무·사례와 연결되어 남는지, 다음 AI 판단에 실제로 쓰이는지 확인합니다. 연결이 끊겨 있다면 그 지점부터 이어 주는 것이 축적의 첫걸음입니다.</li>
+	</ul>
+	<h2>기업 AI 주권은 네 가지가 하나의 구조로 이어질 때 완성됩니다</h2>
+	<div>지금까지의 내용을 한 문장으로 줄이면 이렇습니다.</div>
+	<blockquote>
+		<div>지식은 기업에 남고, 모델과 실행 환경은 선택할 수 있으며, AI의 행동은 기업이 결정하고 확인할 수 있고, 그 경험이 다시 축적되는 구조.</div>
+	</blockquote>
+	<div>이 구조는 AI 도구를 하나씩 더해서는 만들어지지 않습니다. 도구마다 지식이 따로 쌓이고, 권한을 따로 설정하고, 기록을 따로 모아야 한다면 AI를 도입할수록 관리해야 할 것만 늘어납니다. <strong>데이터와 지식, 모델, 애플리케이션, 권한과 기록이 하나의 기반 위에서 연결될 때</strong> 비로소 가능합니다.</div>
+	<div>그리고 그 기반 위에서, 각 기업의 설비와 시스템, 업무 방식에 맞춘 구현이 더해져야 합니다. 어떤 데이터를 어디까지 내보낼지, 어떤 행동에 승인이 필요한지는 기업마다 다르기 때문입니다.</div>
+	<div>마키나락스의 <a href="https://www.makinarocks.ai/product/runway/">AI OS Runway</a>는 이 구조를 받치는 공통 기반을 지향합니다. 그 위에 산업 현장에서 쌓아온 구축 경험을 더해, 기업이 자사 환경에서 기업 AI 주권을 갖출 수 있도록 돕습니다.</div>
+	<div>우리 회사의 유형과 ‘아니오’가 나온 영역을 확인했다면, 어디서부터 시작하면 좋을지 함께 이야기해 보세요.</div>
+	<div>
+		<div>자주 묻는 질문</div>
+		<div>Q. 외부 LLM이나 클라우드를 쓰면 기업 AI 주권이 없는 건가요?</div>
+		<div>A. 아닙니다. 기업 AI 주권은 외부 AI를 쓰지 않는 것이 아니라, 지금 가장 적합한 기술을 쓰면서도 필요할 때 다른 선택으로 옮겨갈 수 있는 상태를 말합니다. 업무 지식과 판단 기준이 특정 모델 밖, 회사가 관리하는 곳에 남고(소유), 모델·실행 환경·공급사를 업무 체계 전체를 다시 만들지 않고 바꿀 수 있으며(독립), 권한과 실행 기록을 회사가 정하고 확인할 수 있다면(통제) 외부 LLM과 클라우드를 쓰면서도 기업 AI 주권을 갖출 수 있습니다.</div>
+		<div>Q. 제조 현장에서 AI 에이전트를 통제하려면 무엇이 필요한가요?</div>
+		<div>A. 세 가지가 필요합니다. 첫째, AI가 볼 수 있는 것과 할 수 있는 것을 사람과 같은 권한 기준으로 정합니다. 둘째, 누가 요청했고 어떤 데이터와 모델을 거쳐 어떤 조치로 이어졌는지 되짚을 수 있도록 기록을 남깁니다. 셋째, 분석·조회는 AI가 바로 수행하고, 정비 요청처럼 영향이 제한적인 일은 정해진 조건 안에서 맡기며, 생산 계획 변경이나 설비 제어처럼 영향이 큰 일은 실행 전에 영향을 검증하고 사람의 승인을 거칩니다.</div>
+		<div>Q. 소버린 AI와 기업 AI 주권은 어떻게 다른가요?</div>
+		<div>A. 소버린 AI(Sovereign AI)는 국가가 자국의 데이터·인프라·인재로 독자적인 AI 모델과 기반을 갖추는 것에 대한 논의입니다. 기업 AI 주권(Enterprise AI Sovereignty)은 기업 단위에서, 어떤 AI를 쓰든 그 AI가 만든 지식과 결과를 소유하고 기술을 선택하며 사용을 통제할 수 있는지를 묻습니다. 두 논의는 층위가 다릅니다. 국가 차원의 AI 기반이 갖춰지더라도, 그 기술이 기업의 경쟁력으로 이어지려면 기업 안에서 소유·독립·통제가 함께 갖춰져야 합니다.</div>
+	</div>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI는 이제 현장에서 동작하고 있습니다 | ATTENTION 2026 인사이트 리포트</title>
@@ -262,31 +329,27 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/attention2026-report/</guid>
 			<category>Blog</category>
 			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/ATTENTION-Report_cover.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/ATTENTION-Report_cover.png" alt=""/>
-
-</div>
-</div><div>
-<p>AI Has Landed. ATTENTION 2026의 주제였습니다.</p>
-<p>AI는 이제 실제 현장에서 성과를 만들어 내고 있습니다. 기업이 오랜 시간 쌓아 온 데이터와 경험이 AI를 통해 활용되고 있으며, 제조부터 국방까지 다양한 분야에서 적용 사례가 늘어나고 있습니다.</p>
-<p>AI는 각 산업 현장에서 어떻게 동작하고 있을까요? 기업이 AI를 안정적으로 운영하고 실질적인 성과를 얻기 위해서는 어떤 기술과 전략이 필요할까요?</p>
-<p>ATTENTION 2026 인사이트 리포트에는 이러한 질문에 대한 다양한 기업의 경험과 사례를 담았습니다. 그랜드 키노트 5개와 세션 13개의 핵심 내용을 정리해 AI가 실제 현장에서 어떻게 활용되고 있는지, 기업들은 어떤 기술과 전략으로 문제를 해결하고 있는지 살펴볼 수 있습니다.</p>
-<h2>ATTENTION 2026 인사이트 리포트 미리보기</h2>
-<p><strong>KEYNOTE | AI가 현장을 바꾸는 방식</strong></p>
-<p>마키나락스, KAIST·다임리서치, 한국앤컴퍼니그룹, HD현대, 디바이스 인사이트가 그랜드 키노트 연사로 참여했습니다. 기업 AI 주권, 자율형 공장, AI 중심의 업무 재설계, 조선소의 AX, 에이전틱 AI 기반 풍력발전 설비 정비 등 다양한 주제를 통해 AI가 현장을 어떻게 변화시키고 있는지 살펴봅니다.</p>
-<p><strong>AI OS | 도입한 AI를 꾸준히 운영하기 위한 조건</strong></p>
-<p>마키나락스, 서플러스글로벌, 예스24가 공공·반도체·금융·커머스 분야의 실제 사례를 바탕으로 AI 개발·배포·운영에 필요한 기술과 전략을 공유합니다.</p>
-<p><strong>Industrial AI | 반도체·설계·에너지 현장의 적용 사례</strong></p>
-<p>삼성전자, 마키나락스, 덴소코리아가 참여해 반도체 제조 설비 관리, 도면 AI, 에너지 최적화, 신뢰성 시험 자동화 등 제조 현장에서 AI를 적용한 사례와 성과를 소개합니다.</p>
-<p><strong>Defense AI | AI가 전장에서 작동하기 위해 달라져야 할 것들</strong></p>
-<p>KAIST, 마키나락스, LG AI연구원, 삼성SDS, 트웰브랩스가 국방 AI 기술의 발전 방향과 전장 환경에 적합한 AI 운영 체계, 산업 AI 기술의 국방 적용, 신속획득 및 영상이해 AI 활용 전략을 다룹니다.</p>
-<h2>우리 현장에 필요한 AI의 다음 단계는?</h2>
-<p>AI를 적용하는 환경과 해결해야 할 과제는 기업마다 다릅니다. 정답이 하나일 수는 없지만, 그렇다고 매번 백지에서 시작할 필요도 없죠. 다른 현장에서 먼저 시도한 방법과 경험은 우리 회사에 지침서가 될 수 있습니다.</p>
-<p>ATTENTION 2026 인사이트 리포트에는 다양한 기업이 현장에서 마주한 과제와 이를 해결하기 위해 선택한 방법, 그 과정에서 얻은 성과와 인사이트를 담았습니다. 우리가 나눈 이야기들이 각자의 현장에서 AI의 활용 가능성을 검토하고, 다음 단계를 구체화하는 데 도움이 되기를 바랍니다.</p>
-<p><a href="https://makinarocks.my.site.com/lp/landing-page/attention-2026-insight-report-MC2YWDELHOBFHRPO6AUG4LLZHJKQ?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=20261105-attention-report"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EB%B0%B0%EB%84%88-A-%C2%B7-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BC.png" alt=""/></a></p>
-
+	<p>AI Has Landed. ATTENTION 2026의 주제였습니다.</p>
+	<p>AI는 이제 실제 현장에서 성과를 만들어 내고 있습니다. 기업이 오랜 시간 쌓아 온 데이터와 경험이 AI를 통해 활용되고 있으며, 제조부터 국방까지 다양한 분야에서 적용 사례가 늘어나고 있습니다.</p>
+	<p>AI는 각 산업 현장에서 어떻게 동작하고 있을까요? 기업이 AI를 안정적으로 운영하고 실질적인 성과를 얻기 위해서는 어떤 기술과 전략이 필요할까요?</p>
+	<p>ATTENTION 2026 인사이트 리포트에는 이러한 질문에 대한 다양한 기업의 경험과 사례를 담았습니다. 그랜드 키노트 5개와 세션 13개의 핵심 내용을 정리해 AI가 실제 현장에서 어떻게 활용되고 있는지, 기업들은 어떤 기술과 전략으로 문제를 해결하고 있는지 살펴볼 수 있습니다.</p>
+	<h2>ATTENTION 2026 인사이트 리포트 미리보기</h2>
+	<p><strong>KEYNOTE | AI가 현장을 바꾸는 방식</strong></p>
+	<p>마키나락스, KAIST·다임리서치, 한국앤컴퍼니그룹, HD현대, 디바이스 인사이트가 그랜드 키노트 연사로 참여했습니다. 기업 AI 주권, 자율형 공장, AI 중심의 업무 재설계, 조선소의 AX, 에이전틱 AI 기반 풍력발전 설비 정비 등 다양한 주제를 통해 AI가 현장을 어떻게 변화시키고 있는지 살펴봅니다.</p>
+	<p><strong>AI OS | 도입한 AI를 꾸준히 운영하기 위한 조건</strong></p>
+	<p>마키나락스, 서플러스글로벌, 예스24가 공공·반도체·금융·커머스 분야의 실제 사례를 바탕으로 AI 개발·배포·운영에 필요한 기술과 전략을 공유합니다.</p>
+	<p><strong>Industrial AI | 반도체·설계·에너지 현장의 적용 사례</strong></p>
+	<p>삼성전자, 마키나락스, 덴소코리아가 참여해 반도체 제조 설비 관리, 도면 AI, 에너지 최적화, 신뢰성 시험 자동화 등 제조 현장에서 AI를 적용한 사례와 성과를 소개합니다.</p>
+	<p><strong>Defense AI | AI가 전장에서 작동하기 위해 달라져야 할 것들</strong></p>
+	<p>KAIST, 마키나락스, LG AI연구원, 삼성SDS, 트웰브랩스가 국방 AI 기술의 발전 방향과 전장 환경에 적합한 AI 운영 체계, 산업 AI 기술의 국방 적용, 신속획득 및 영상이해 AI 활용 전략을 다룹니다.</p>
+	<h2>우리 현장에 필요한 AI의 다음 단계는?</h2>
+	<p>AI를 적용하는 환경과 해결해야 할 과제는 기업마다 다릅니다. 정답이 하나일 수는 없지만, 그렇다고 매번 백지에서 시작할 필요도 없죠. 다른 현장에서 먼저 시도한 방법과 경험은 우리 회사에 지침서가 될 수 있습니다.</p>
+	<p>ATTENTION 2026 인사이트 리포트에는 다양한 기업이 현장에서 마주한 과제와 이를 해결하기 위해 선택한 방법, 그 과정에서 얻은 성과와 인사이트를 담았습니다. 우리가 나눈 이야기들이 각자의 현장에서 AI의 활용 가능성을 검토하고, 다음 단계를 구체화하는 데 도움이 되기를 바랍니다.</p>
+	<p><a href="https://makinarocks.my.site.com/lp/landing-page/attention-2026-insight-report-MC2YWDELHOBFHRPO6AUG4LLZHJKQ?utm_source=blog&amp;utm_medium=banner&amp;utm_campaign=20261105-attention-report"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EB%B0%B0%EB%84%88-A-%C2%B7-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%B9%84%EC%A3%BC%EC%96%BC.png" alt=""/></a></p>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>[기업 AI 주권 테스트] 우리 회사는 AI를 쓰고 있을까, AI에 쓰이고 있을까</title>
@@ -549,148 +612,98 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-2/</guid>
 			<category>Blog</category>
 			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/thumnail-ATL2.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/thumnail-ATL2.png" alt=""/>
-
-</div>
-</div><div>
-
-<p>AI가 코드를 대신 짜주는 시대, 엔지니어는 더 편해졌을까요?</p>
-
-<p>점심시간에 모여 각자의 AI 활용기를 나누는 마키나락스 문화, AI Lunch Talk(이하 ALT)에 나선 엔지니어들의 대답은 조금 달랐습니다. <strong>코드를 만드는 속도는 빨라졌지만, 그 코드를 이해하고 검증하는 일은 오히려 더 어려워졌다는 것이죠.</strong></p>
-
-<blockquote>
-<p>“요즘 ‘쓸모없는 인간’이라는 생각이 들어요.”</p>
-
-<p>“하면 할수록 제 기억력이 점점 짧아진다는 생각이 들더라고요.”</p>
-</blockquote>
-
-<p>가벼운 고민인 것 같지만, 이날 발표한 네 명의 엔지니어는 같은 문제를 짚었습니다. 바로 ‘인지부채(Cognitive Debt)’입니다. <strong>AI가 만든 결과물을 사람이 이해하지 못한 채 쌓아두면, 그 이해의 공백이 빚처럼 불어난다는 뜻이죠.</strong> 당장은 일이 빨리 끝난 것 같아도, 나중에 코드를 고치거나 설명해야 할 때 이자까지 붙어 돌아옵니다.</p>
-
-<p>빚을 체감하는 순간은 이 밖에도 다양했습니다. 쏟아지는 PR 앞에서 한 줄도 읽지 않고 승인 버튼을 누르고 싶어지는 순간, AI로 작성해 올린 내 PR에 동료가 “이건 왜 이렇게 된 거예요?”라고 물었는데 답하지 못하는 순간처럼요.</p>
-
-<p><a href="https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-1/">1편</a>에서는 마케팅팀과 P&amp;C팀, 비개발 직군 마키나원들의 AI 활용기를 전해드렸습니다. 2편에서는 마키나락스 엔지니어 네 명이 각자의 자리에서 이 문제를 어떻게 풀고 있는지 이어서 소개합니다.</p>
-
-<h2>01 인지부채를 줄이기 위한 AI 협업 방식: PR 리뷰를 중심으로</h2>
-
-<p><strong>양유진 | Forward Deployed Engineer(FDE)</strong></p>
-
-<p>첫 번째로 소개할 FD Agent팀 양유진 님은 시작부터 양해를 구했습니다. 오늘 발표 자료도 AI로 ‘딸깍’ 만들어 왔으니, 이런 자료를 던지는 것 자체가 듣는 사람에게는 부담일 수 있다고요. 유진 님의 발표 주제는 바로 그 ‘부담’, 앞서 말한 인지부채였습니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/IMG_1463-2048x1536.jpeg" alt="마키나락스 문화 AI Lunch Talk에서 인지부채를 줄이는 AI 협업 방식과 PR 리뷰를 발표하는 FD Agent팀 양유진 엔지니어"/><figcaption>FD Agent팀 양유진 님</figcaption></figure>
-
-<p><strong>AI는 빨라졌는데, 왜 나는 더 바쁜 걸까</strong></p>
-
-<p><strong>AI가 코드를 아무리 잘 짜도 병목은 결국 사람의 인지 능력입니다.</strong> 팀원들이 AI로 쏟아낸 결과물을 검증 없이 넘기면, 리뷰하는 사람은 그 양에 압도됩니다. 유진 님은 여기서 한 걸음 더 나아갑니다. 변경 사항을 따라가지 못해 쌓인 인지부채는 ‘무엇을 왜 만들었는지’ 놓치는 의도부채로, 다시 기술부채로 번진다는 것이죠. 이런 부담이 커지면 결국 한 줄도 읽지 않은 채 ‘LGTM(Looks Good To Me)’을 누르게 되죠.</p>
-
-<p><strong>“코드 한 줄 안 보고도 PR 리뷰가 가능해야 한다”</strong></p>
-
-<p>유진 님의 도발적인 제안입니다. 코드를 보지 말자는 게 아닙니다. AI가 작성하는 코드를 라인 바이 라인으로 다 읽을 수 없으니, 대신 무엇으로 품질을 지킬지 팀이 합의하자는 것이죠. 유진 님이 꼽은 과제는 두 가지입니다. <strong>의도를 제대로 전달하는 것, 그리고 그것을 검증하는 것.</strong></p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-10-26_%EC%98%A4%ED%9B%84_3.06.00.png" alt="의도 확인, 실행·검증, 이해와 판단 3단계로 구성된 코드를 보지 않고도 가능한 AI 코드 PR 리뷰 프로세스 다이어그램"/><figcaption>의도 확인 → 실행·검증 → 이해와 판단, 코드를 안 보고도 가능한 PR 리뷰 프로세스</figcaption></figure>
-
-<p><strong>의도는 AI가 캐묻게 해서 끌어낸다</strong></p>
-
-<p>“해줘”라고만 하면 AI는 원하는 것보다 과한 결과물을 내놓기 일쑤입니다. 내가 알고 있는 것뿐 아니라, 미처 생각하지 못한 부분까지 전달해야 하기 때문이죠. 그래서 유진 님은 AI가 질문을 집요하게 던지는 ‘그릴링(grilling)’ 방식을 씁니다. 웹사이트를 만들어달라고 하면 “브랜드 아이덴티티는요? 폰트는요?”라고 되묻는 식입니다. 그제야 ‘아, 이걸 말 안 했네’ 하고 의도를 온전히 전할 수 있습니다.</p>
-
-<p><strong>검증은 루프로 만든다</strong></p>
-
-<p>그릴링으로 주고받은 대화는 곧 계획이 됩니다. 이를 스펙 문서로 정리하고, 티켓으로 쪼개고, 테스트 주도 개발(TDD) 방식으로 구현합니다. 익숙한 개발 방식에 AI 협업을 녹여낸 흐름이라, AI에게 훨씬 믿고 맡길 수 있습니다. 여기에 프로젝트 용어를 정리한 컨텍스트 문서와, 결정의 이유를 남기는 ADR(Architecture Decision Record)을 더합니다. AI에게 그냥 ‘Runway’라고 하면 동영상 툴로 알아들을 수도 있지만, AI가 참고하는 CONTEXT.md 문서에 “Runway는 마키나락스의 AI OS”라고 적어두면 매번 설명할 필요가 없습니다. “왜 B보다 A를 먼저 했죠?”를 슬랙에서 뒤지지 않아도, AI가 코드베이스 안에서 ADR을 통해 알아서 파악하고요.</p>
-
-<p>다만 유진 님은 이런 도구는 결국 취향이라고 덧붙였습니다. <strong>정말 필요한 건 원칙에 대한 합의입니다. 사람과 AI는 각각 무엇을 맡을지, PR 리뷰의 목적은 정말 버그를 찾는 것인지.</strong> 도구보다 원칙을 먼저 이야기하자는 제안으로 발표를 마쳤습니다.</p>
-
-<h2>02 개발 자율주행 차량 탑승자가 복잡한 머릿속을 정리하는 방법</h2>
-
-<p><strong>김인호 | Backend Engineer</strong></p>
-
-<p>두 번째로 소개할 플랫폼팀 김인호 님의 첫마디는 이랬습니다. “요즘 ‘쓸모없는 인간’이라는 생각이 들어요.” AI 계정을 여러 개 돌리는데, AI가 일을 너무 많이 해서 정작 본인은 뭘 해야 할지 모르겠다는 솔직한 고백이었습니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/IMG_1472-2048x1536.jpeg" alt="마키나락스 문화 AI Lunch Talk에서 AI 활용 개발 과정의 이해와 문서화 방법을 발표하는 플랫폼팀 김인호 백엔드 엔지니어"/><figcaption>플랫폼팀 김인호 님</figcaption></figure>
-
-<p><strong>몸은 편해졌는데, 머릿속은 복잡해졌다</strong></p>
-
-<p>인호 님은 최근 Runway 플랫폼에서 개발 프로세스를 위한 결재 기능을 개발했습니다. AI가 많은 일을 해주지만, 무슨 일이 돌아가는지 모르니 주인의식이 사라지는 느낌이었다고요. 인호 님의 진단은 <strong>“개발은 쉬워졌지만, AI가 무엇을 하는지 이해하지 못하면 운영하고 개선할 수 없다”</strong>는 것이었습니다. 발표에서는 그 과정에서 부딪힌 세 가지 문제와 삽질(?)의 기록을 공유했습니다.</p>
-
-<p><strong>복잡한 비즈니스 로직은 체크리스트로</strong></p>
-
-<p>플랫폼 기능은 데이터 하나를 저장하는 데에도 수많은 조건이 붙습니다. 관리자는 수정할 수 있지만 뷰어는 조회만 가능한 식이죠. 그래서 <strong>정책의 뼈대는 사람이 정하고, 대안·예외 흐름은 AI와의 인터뷰로 채웁니다.</strong> 결과는 사람이 읽기 쉬운 HTML 체크리스트로 만들어, QA 담당자와 AI가 함께 채워가며 검증합니다. 역할별 가상 사용자로 시나리오를 병렬로 돌리는 시뮬레이터도 직접 만들었습니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/4771f389-02a6-450f-908b-6d5757d1649e.png" alt="AI와의 인터뷰로 정책과 예외 흐름을 정리해 만든 Runway 결재 기능 검증용 HTML 체크리스트 화면"/><figcaption>AI와의 인터뷰로 만든 HTML 체크리스트</figcaption></figure>
-
-<p><strong>블랙박스 코드는 시각화로</strong></p>
-
-<p>문제는 그다음이었습니다. 테스트와 PR 작성까지 AI가 다 해주니, 내가 모르는 코드가 PR로 올라가고 팀원들은 그 코드를 이해하느라 고생합니다. <strong>인호 님의 해법은 코드를 시각화한 HTML 문서입니다.</strong> 코드 구조를 한눈에 보여주거나 변경의 의도를 다이어그램으로 설명하는 문서를 만들어 팀과 공유합니다. 별도 도구 없이 프롬프트 몇 줄로도 충분하다는 팁도 덧붙였습니다.</p>
-
-<p><strong>쌓여가는 문서는 검색 포털로</strong></p>
-
-<p>그러자 HTML 문서가 컴퓨터 여기저기에 쌓이면서, 어디에 저장했는지 까먹고 같은 문서를 다시 만드는 일이 생겼습니다. 인호 님은 아예 AI에게 검색 포털을 만들어달라고 했습니다. 키워드로 문서를 연결하는 지식 그래프에 모바일 열람까지 더해, 출퇴근길 지하철에서도 문서를 확인합니다.</p>
-
-<p>이렇게 개발한 Runway 결재 기능은 실제 프로젝트에 적용됐고, 사용자들에게 “지금까지 별다른 문제 없이 잘 돌아간다”는 피드백을 받았습니다. <strong>인터뷰로 체크리스트를 만들고, 시뮬레이터로 검증하고, 쏟아지는 문서는 잘 관리하라.</strong> 인호 님이 전한 takeaway입니다.</p>
-
-<h2>03 이해를 돕는 AI 활용: DrawX 백엔드팀이 해본 것과 느낀 점</h2>
-
-<p><strong>백종규 | Backend Engineer</strong></p>
-
-<p>세 번째로 소개할 DrawX TF팀 백종규 님은 앞 발표와 겹치는 내용을 빼느라 즉석에서 자료를 고쳐가며 발표했습니다. 하고 싶은 말은 한 문장이었습니다. <strong>“에이전트에게 코드를 짜게 하되, 그 코드가 만드는 건 제품이 아니라 이해다.”</strong></p>
-
-<p><strong>Best practice가 아닌 ‘우리의 practice’</strong></p>
-
-<p>DrawX 백엔드팀은 AI 사용 규칙도 코드처럼 관리합니다. AI가 참고하는 공통 규칙 파일을 팀이 함께 관리하고, 추가하고 싶은 내용이 있으면 누구든 PR로 제안합니다. 새로운 방식은 각자 직접 써보고, 데일리 스크럼에서 좋았던 것만 공유합니다. 남들이 좋다는 방법도 우리 상황에서 직접 써보기 전까지는 모른다는 이유에서입니다.</p>
-
-<p><strong>AI가 만드는 건 제품이 아니라 이해</strong></p>
-
-<p>종규 님이 가장 자주 쓰는 건 ‘이해’를 돕는 스킬들입니다. 간단한 질문에도 논문 같은 답을 내놓는 AI에게는 한두 문장으로만 답하게 하고, 짧게 묻고 답하며 내 수준에 맞게 이해해 나갑니다. 동료와 주고받는 문서는 AI 특유의 말투를 자연스러운 한국어로 바꿔주는 스킬을 팀에 맞게 직접 만들어 씁니다.</p>
-
-<p>계기는 동료의 질문 하나였습니다. AI로 작성해 올린 본인의 PR을 두고 “이건 왜 이렇게 된 거예요?”라는 질문을 받았는데, 대답을 못 한 겁니다. 그 뒤로 PR의 배경과 변경 전후를 다이어그램으로 풀어주고, 마지막에 난이도별 퀴즈 5문제까지 내주는 스킬을 만들어 쓰고 있습니다. “주니어가 오면 만점 받기 전엔 PR 못 올리게 하자”는 농담도 나왔는데, 아쉽게도(?) 아직 주니어가 오지 않았다고 합니다.</p>
-
-<p><strong>아직 10배는 아니지만</strong></p>
-
-<p>종규 님은 나올 만한 질문에도 미리 답했습니다. 인터넷에서 말하는 ’10배 생산성’은 아직 아닙니다. 실수할 때마다 규칙을 추가하고 다시 확인하게 해봐도, 틀린 답은 여전히 나오니까요. 하지만 <strong>버그의 원인을 찾거나 취약점을 예상하는 일, 그리고 코드를 이해하는 일만큼은 확실히 10배</strong>라고 합니다. 바쁜 와중에도 AI 공부를 놓지 않는 이유는 주택담보대출에 빗댔습니다. <strong>당장 내일 할 일(이자)만 갚다 보면 빚은 줄지 않으니, 원금(AI 활용법 공부)도 조금씩 갚아야 한다</strong>는 겁니다. “AI 회사 엔지니어가 AI를 잘 못 다루면 역설적이잖아요.”</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-10-26_%EC%98%A4%ED%9B%84_3.30.23-2048x1152.png" alt="모르는 것 물어보기, 사람이 이해하며 함께 돌리기, 에이전트에게 믿고 맡기기로 나눈 AI 활용 3단계 도식"/><figcaption>모르는 것 물어보기에서 에이전트를 믿고 맡기기까지, AI 활용의 3단계</figcaption></figure>
-
-<p>종규 님은 AI 활용을 세 단계로 나눴습니다. 모르는 것을 물어보는 단계, 사람이 이해하며 함께 돌리는 단계, 그리고 에이전트를 믿고 맡기는 단계. 지금 팀은 두 번째 단계에 있고, 세 번째 단계는 한순간에 오지 않는다고 말합니다. 작은 시도가 하나둘 모여 팀 전체의 생산성을 조금씩 끌어올린다면 머지않아 마지막 단계를 마주할 것이라고요.</p>
-
-<h2>04 AI에게 효율적으로 일을 시키는 방법</h2>
-
-<p><strong>정창해 | Machine Learning Engineer</strong></p>
-
-<p>네 번째로 소개할 Cognition팀 정창해 님은 도면 AI 엔진 개발을 비롯해 여러 프로젝트를 동시에 맡고 있습니다. “하면 할수록 제 기억력이 점점 짧아진다는 생각이 들더라고요.” 일이 늘수록 고민도 커졌습니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/IMG_1498-2048x1536.jpeg" alt="마키나락스 문화 AI Lunch Talk에서 AI 에이전트에게 효율적으로 일을 시키는 방법을 발표하는 Cognition팀 정창해 머신러닝 엔지니어"/><figcaption>Cognition팀 정창해 님</figcaption></figure>
-
-<p><strong>어제 한 일도 기억이 안 날 때</strong></p>
-
-<p>AI 덕분에 작업량이 많아지면서 요즘은 어제 한 작업들도 가물가물합니다. 특히 끝난 프로젝트를 다시 손볼 때는 당시 왜 그렇게 결정했는지 기억나지 않고, ‘나중에 해야지’ 하고 미뤄둔 엣지 케이스들을 잊어버릴 때도 많습니다. 창해 님은 이 문제를 네 가지 작업 방식으로 풀었습니다. <strong>기록을 쌓고, 기준을 세우고, 작업을 병렬로 돌리고, 충돌을 막는 것입니다.</strong></p>
-
-<p><strong>기억은 기록에게 맡긴다</strong></p>
-
-<p>출발점은 기록입니다. 프로젝트의 레포와 날짜 단위로 작업 로그를 쌓고, 진행 중인지 끝났는지 상태를 함께 남깁니다. 과거 프로젝트의 결정 사항과 규칙은 별도의 지식 문서로 모아둡니다. 에이전트는 작업을 시작하기 전에 이 기록부터 훑습니다. 기억이 안 날 때는 AI에게 “내가 왜 이렇게 했지?”라고 묻습니다. 문서를 모바일과 연동해 두니 이동 중에도 확인할 수 있습니다.</p>
-
-<p><strong>구현보다 기준이 먼저</strong></p>
-
-<p>LLM은 돌릴 때마다 결과가 조금씩 달라질 수 있습니다. 앞 단계의 결과가 흔들리면 뒤 단계의 로직까지 무너지죠. 또한, 각 단계의 정답을 눈으로 항상 확인해야 하죠. <strong>그래서 창해 님은 구현 전에 라벨부터 만듭니다.</strong> AI로 라벨링 페이지를 만들어 10~20개 정도 직접 라벨링한 뒤, 그 규칙으로 나머지를 자동 라벨링합니다. 이렇게 만든 라벨이 의도된 결과가 반복해서 동일하게 나오는지 평가하는 기준이 됩니다.</p>
-
-<p><strong>동시에, 그러나 꼬이지 않게</strong></p>
-
-<p>여러 작업은 병렬로 돌립니다. 작업마다 독립된 공간을 만들고 이름을 붙여, 어떤 작업이 어디서 돌아가는지 한눈에 봅니다. 진행 상황은 모바일로 확인하고 지시도 내립니다. 이전 맥락을 이어받고, 요청 사항을 기록하고, AI가 캐묻는 그릴링으로 요구 사항을 정리한 뒤, <strong>계획을 세우고 나서야 코드를 실행합니다.</strong> 병렬로 작업한 규칙 하나가 어긋나 전체 결과가 망가지는, 하나의 수정이 나비효과를 일으키는 일을 막기 위해서입니다.</p>
-
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-10-26_%EC%98%A4%ED%9B%84_3.44.46-2048x1286.png" alt="기록, 기준, 병렬 작업, 충돌 방지, 토큰 절감으로 정리한 AI 에이전트 활용 5가지 작업 방식 도식"/><figcaption>기록, 기준, 병렬, 충돌 방지, 토큰 절감까지, 창해 님의 5가지 작업 방식</figcaption></figure>
-
-<p>AI를 많이 쓰다 보니 늘 부족한 토큰을 20~50%까지 아껴주는 도구를 쓰는 팁도 덧붙였습니다. 발표를 마치며 창해 님은 Cognition팀도 PR을 템플릿화해 서로 보기 편하게 만드는 등 코드 협업을 고민하고 있다며, 이날 들은 내용을 팀 안에서 발전시켜 다시 발표하는 날을 기대한다고 전했습니다.</p>
-
-<h2>각자 다른 일을 하는데, 같은 곳에 도착했다</h2>
-
-<p>이날 가장 재미있었던 건 발표들이 서로 이어졌다는 점입니다. 유진 님이 소개한 그릴링을 인호 님과 창해 님이 다시 꺼냈고, 종규 님은 겹치는 내용을 빼느라 자료를 고쳤죠. 각자 다른 일을 하면서도, 비슷한 고민 끝에 비슷한 답에 닿아 있었던 겁니다. <strong>AI가 빨라질수록 사람이 이해하고 판단할 수 있는 구조를 만들어야 한다는 것이요.</strong></p>
-
-<p>종규 님 발표 자료에는 이런 문장이 있었습니다. “Best practice가 아니라 우리의 Practice” 남들이 좋다는 방법도 우리 상황에서 직접 써보기 전까진 모른다는 뜻인데요. 각자 써보고, 좋았던 걸 나누는 자리. ALT가 우리에게 더욱 유익했던 이유이기도 합니다.</p>
-
-<p>지금까지 두 편에 걸쳐 마키나락스의 ALT 현장을 전해드렸습니다. ALT에서 나눈 이야기들이 저희에게 너무나 유익했기에, 이 중 엔지니어 세션들을 외부에 공개 가능한 정보로 재구성해 영상으로도 준비했습니다. AI 활용을 고민하는 많은 분들께 저희의 고민이 유의미한 실마리가 될 수 있길 바랍니다.</p>
-
-<div><iframe src="https://www.youtube.com/embed/X2CFbyPzNp0"></iframe></div>
-
+	<p>AI가 코드를 대신 짜주는 시대, 엔지니어는 더 편해졌을까요?</p>
+	<p>점심시간에 모여 각자의 AI 활용기를 나누는 마키나락스 문화, AI Lunch Talk(이하 ALT)에 나선 엔지니어들의 대답은 조금 달랐습니다. <strong>코드를 만드는 속도는 빨라졌지만, 그 코드를 이해하고 검증하는 일은 오히려 더 어려워졌다는 것이죠.</strong></p>
+	<blockquote>
+		<p>“요즘 ‘쓸모없는 인간’이라는 생각이 들어요.”</p>
+		<p>“하면 할수록 제 기억력이 점점 짧아진다는 생각이 들더라고요.”</p>
+	</blockquote>
+	<p>가벼운 고민인 것 같지만, 이날 발표한 네 명의 엔지니어는 같은 문제를 짚었습니다. 바로 ‘인지부채(Cognitive Debt)’입니다. <strong>AI가 만든 결과물을 사람이 이해하지 못한 채 쌓아두면, 그 이해의 공백이 빚처럼 불어난다는 뜻이죠.</strong> 당장은 일이 빨리 끝난 것 같아도, 나중에 코드를 고치거나 설명해야 할 때 이자까지 붙어 돌아옵니다.</p>
+	<p>빚을 체감하는 순간은 이 밖에도 다양했습니다. 쏟아지는 PR 앞에서 한 줄도 읽지 않고 승인 버튼을 누르고 싶어지는 순간, AI로 작성해 올린 내 PR에 동료가 “이건 왜 이렇게 된 거예요?”라고 물었는데 답하지 못하는 순간처럼요.</p>
+	<p><a href="https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-1/">1편</a>에서는 마케팅팀과 P&amp;C팀, 비개발 직군 마키나원들의 AI 활용기를 전해드렸습니다. 2편에서는 마키나락스 엔지니어 네 명이 각자의 자리에서 이 문제를 어떻게 풀고 있는지 이어서 소개합니다.</p>
+	<h2>01 인지부채를 줄이기 위한 AI 협업 방식: PR 리뷰를 중심으로</h2>
+	<p><strong>양유진 | Forward Deployed Engineer(FDE)</strong></p>
+	<p>첫 번째로 소개할 FD Agent팀 양유진 님은 시작부터 양해를 구했습니다. 오늘 발표 자료도 AI로 ‘딸깍’ 만들어 왔으니, 이런 자료를 던지는 것 자체가 듣는 사람에게는 부담일 수 있다고요. 유진 님의 발표 주제는 바로 그 ‘부담’, 앞서 말한 인지부채였습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/IMG_1463-2048x1536.jpeg" alt="마키나락스 문화 AI Lunch Talk에서 인지부채를 줄이는 AI 협업 방식과 PR 리뷰를 발표하는 FD Agent팀 양유진 엔지니어"/>
+		<figcaption>FD Agent팀 양유진 님</figcaption>
+	</figure>
+	<p><strong>AI는 빨라졌는데, 왜 나는 더 바쁜 걸까</strong></p>
+	<p><strong>AI가 코드를 아무리 잘 짜도 병목은 결국 사람의 인지 능력입니다.</strong> 팀원들이 AI로 쏟아낸 결과물을 검증 없이 넘기면, 리뷰하는 사람은 그 양에 압도됩니다. 유진 님은 여기서 한 걸음 더 나아갑니다. 변경 사항을 따라가지 못해 쌓인 인지부채는 ‘무엇을 왜 만들었는지’ 놓치는 의도부채로, 다시 기술부채로 번진다는 것이죠. 이런 부담이 커지면 결국 한 줄도 읽지 않은 채 ‘LGTM(Looks Good To Me)’을 누르게 되죠.</p>
+	<p><strong>“코드 한 줄 안 보고도 PR 리뷰가 가능해야 한다”</strong></p>
+	<p>유진 님의 도발적인 제안입니다. 코드를 보지 말자는 게 아닙니다. AI가 작성하는 코드를 라인 바이 라인으로 다 읽을 수 없으니, 대신 무엇으로 품질을 지킬지 팀이 합의하자는 것이죠. 유진 님이 꼽은 과제는 두 가지입니다. <strong>의도를 제대로 전달하는 것, 그리고 그것을 검증하는 것.</strong></p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-10-26_%EC%98%A4%ED%9B%84_3.06.00.png" alt="의도 확인, 실행·검증, 이해와 판단 3단계로 구성된 코드를 보지 않고도 가능한 AI 코드 PR 리뷰 프로세스 다이어그램"/>
+		<figcaption>의도 확인 → 실행·검증 → 이해와 판단, 코드를 안 보고도 가능한 PR 리뷰 프로세스</figcaption>
+	</figure>
+	<p><strong>의도는 AI가 캐묻게 해서 끌어낸다</strong></p>
+	<p>“해줘”라고만 하면 AI는 원하는 것보다 과한 결과물을 내놓기 일쑤입니다. 내가 알고 있는 것뿐 아니라, 미처 생각하지 못한 부분까지 전달해야 하기 때문이죠. 그래서 유진 님은 AI가 질문을 집요하게 던지는 ‘그릴링(grilling)’ 방식을 씁니다. 웹사이트를 만들어달라고 하면 “브랜드 아이덴티티는요? 폰트는요?”라고 되묻는 식입니다. 그제야 ‘아, 이걸 말 안 했네’ 하고 의도를 온전히 전할 수 있습니다.</p>
+	<p><strong>검증은 루프로 만든다</strong></p>
+	<p>그릴링으로 주고받은 대화는 곧 계획이 됩니다. 이를 스펙 문서로 정리하고, 티켓으로 쪼개고, 테스트 주도 개발(TDD) 방식으로 구현합니다. 익숙한 개발 방식에 AI 협업을 녹여낸 흐름이라, AI에게 훨씬 믿고 맡길 수 있습니다. 여기에 프로젝트 용어를 정리한 컨텍스트 문서와, 결정의 이유를 남기는 ADR(Architecture Decision Record)을 더합니다. AI에게 그냥 ‘Runway’라고 하면 동영상 툴로 알아들을 수도 있지만, AI가 참고하는 CONTEXT.md 문서에 “Runway는 마키나락스의 AI OS”라고 적어두면 매번 설명할 필요가 없습니다. “왜 B보다 A를 먼저 했죠?”를 슬랙에서 뒤지지 않아도, AI가 코드베이스 안에서 ADR을 통해 알아서 파악하고요.</p>
+	<p>다만 유진 님은 이런 도구는 결국 취향이라고 덧붙였습니다. <strong>정말 필요한 건 원칙에 대한 합의입니다. 사람과 AI는 각각 무엇을 맡을지, PR 리뷰의 목적은 정말 버그를 찾는 것인지.</strong> 도구보다 원칙을 먼저 이야기하자는 제안으로 발표를 마쳤습니다.</p>
+	<h2>02 개발 자율주행 차량 탑승자가 복잡한 머릿속을 정리하는 방법</h2>
+	<p><strong>김인호 | Backend Engineer</strong></p>
+	<p>두 번째로 소개할 플랫폼팀 김인호 님의 첫마디는 이랬습니다. “요즘 ‘쓸모없는 인간’이라는 생각이 들어요.” AI 계정을 여러 개 돌리는데, AI가 일을 너무 많이 해서 정작 본인은 뭘 해야 할지 모르겠다는 솔직한 고백이었습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/IMG_1472-2048x1536.jpeg" alt="마키나락스 문화 AI Lunch Talk에서 AI 활용 개발 과정의 이해와 문서화 방법을 발표하는 플랫폼팀 김인호 백엔드 엔지니어"/>
+		<figcaption>플랫폼팀 김인호 님</figcaption>
+	</figure>
+	<p><strong>몸은 편해졌는데, 머릿속은 복잡해졌다</strong></p>
+	<p>인호 님은 최근 Runway 플랫폼에서 개발 프로세스를 위한 결재 기능을 개발했습니다. AI가 많은 일을 해주지만, 무슨 일이 돌아가는지 모르니 주인의식이 사라지는 느낌이었다고요. 인호 님의 진단은 <strong>“개발은 쉬워졌지만, AI가 무엇을 하는지 이해하지 못하면 운영하고 개선할 수 없다”</strong>는 것이었습니다. 발표에서는 그 과정에서 부딪힌 세 가지 문제와 삽질(?)의 기록을 공유했습니다.</p>
+	<p><strong>복잡한 비즈니스 로직은 체크리스트로</strong></p>
+	<p>플랫폼 기능은 데이터 하나를 저장하는 데에도 수많은 조건이 붙습니다. 관리자는 수정할 수 있지만 뷰어는 조회만 가능한 식이죠. 그래서 <strong>정책의 뼈대는 사람이 정하고, 대안·예외 흐름은 AI와의 인터뷰로 채웁니다.</strong> 결과는 사람이 읽기 쉬운 HTML 체크리스트로 만들어, QA 담당자와 AI가 함께 채워가며 검증합니다. 역할별 가상 사용자로 시나리오를 병렬로 돌리는 시뮬레이터도 직접 만들었습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/4771f389-02a6-450f-908b-6d5757d1649e.png" alt="AI와의 인터뷰로 정책과 예외 흐름을 정리해 만든 Runway 결재 기능 검증용 HTML 체크리스트 화면"/>
+		<figcaption>AI와의 인터뷰로 만든 HTML 체크리스트</figcaption>
+	</figure>
+	<p><strong>블랙박스 코드는 시각화로</strong></p>
+	<p>문제는 그다음이었습니다. 테스트와 PR 작성까지 AI가 다 해주니, 내가 모르는 코드가 PR로 올라가고 팀원들은 그 코드를 이해하느라 고생합니다. <strong>인호 님의 해법은 코드를 시각화한 HTML 문서입니다.</strong> 코드 구조를 한눈에 보여주거나 변경의 의도를 다이어그램으로 설명하는 문서를 만들어 팀과 공유합니다. 별도 도구 없이 프롬프트 몇 줄로도 충분하다는 팁도 덧붙였습니다.</p>
+	<p><strong>쌓여가는 문서는 검색 포털로</strong></p>
+	<p>그러자 HTML 문서가 컴퓨터 여기저기에 쌓이면서, 어디에 저장했는지 까먹고 같은 문서를 다시 만드는 일이 생겼습니다. 인호 님은 아예 AI에게 검색 포털을 만들어달라고 했습니다. 키워드로 문서를 연결하는 지식 그래프에 모바일 열람까지 더해, 출퇴근길 지하철에서도 문서를 확인합니다.</p>
+	<p>이렇게 개발한 Runway 결재 기능은 실제 프로젝트에 적용됐고, 사용자들에게 “지금까지 별다른 문제 없이 잘 돌아간다”는 피드백을 받았습니다. <strong>인터뷰로 체크리스트를 만들고, 시뮬레이터로 검증하고, 쏟아지는 문서는 잘 관리하라.</strong> 인호 님이 전한 takeaway입니다.</p>
+	<h2>03 이해를 돕는 AI 활용: DrawX 백엔드팀이 해본 것과 느낀 점</h2>
+	<p><strong>백종규 | Backend Engineer</strong></p>
+	<p>세 번째로 소개할 DrawX TF팀 백종규 님은 앞 발표와 겹치는 내용을 빼느라 즉석에서 자료를 고쳐가며 발표했습니다. 하고 싶은 말은 한 문장이었습니다. <strong>“에이전트에게 코드를 짜게 하되, 그 코드가 만드는 건 제품이 아니라 이해다.”</strong></p>
+	<p><strong>Best practice가 아닌 ‘우리의 practice’</strong></p>
+	<p>DrawX 백엔드팀은 AI 사용 규칙도 코드처럼 관리합니다. AI가 참고하는 공통 규칙 파일을 팀이 함께 관리하고, 추가하고 싶은 내용이 있으면 누구든 PR로 제안합니다. 새로운 방식은 각자 직접 써보고, 데일리 스크럼에서 좋았던 것만 공유합니다. 남들이 좋다는 방법도 우리 상황에서 직접 써보기 전까지는 모른다는 이유에서입니다.</p>
+	<p><strong>AI가 만드는 건 제품이 아니라 이해</strong></p>
+	<p>종규 님이 가장 자주 쓰는 건 ‘이해’를 돕는 스킬들입니다. 간단한 질문에도 논문 같은 답을 내놓는 AI에게는 한두 문장으로만 답하게 하고, 짧게 묻고 답하며 내 수준에 맞게 이해해 나갑니다. 동료와 주고받는 문서는 AI 특유의 말투를 자연스러운 한국어로 바꿔주는 스킬을 팀에 맞게 직접 만들어 씁니다.</p>
+	<p>계기는 동료의 질문 하나였습니다. AI로 작성해 올린 본인의 PR을 두고 “이건 왜 이렇게 된 거예요?”라는 질문을 받았는데, 대답을 못 한 겁니다. 그 뒤로 PR의 배경과 변경 전후를 다이어그램으로 풀어주고, 마지막에 난이도별 퀴즈 5문제까지 내주는 스킬을 만들어 쓰고 있습니다. “주니어가 오면 만점 받기 전엔 PR 못 올리게 하자”는 농담도 나왔는데, 아쉽게도(?) 아직 주니어가 오지 않았다고 합니다.</p>
+	<p><strong>아직 10배는 아니지만</strong></p>
+	<p>종규 님은 나올 만한 질문에도 미리 답했습니다. 인터넷에서 말하는 ’10배 생산성’은 아직 아닙니다. 실수할 때마다 규칙을 추가하고 다시 확인하게 해봐도, 틀린 답은 여전히 나오니까요. 하지만 <strong>버그의 원인을 찾거나 취약점을 예상하는 일, 그리고 코드를 이해하는 일만큼은 확실히 10배</strong>라고 합니다. 바쁜 와중에도 AI 공부를 놓지 않는 이유는 주택담보대출에 빗댔습니다. <strong>당장 내일 할 일(이자)만 갚다 보면 빚은 줄지 않으니, 원금(AI 활용법 공부)도 조금씩 갚아야 한다</strong>는 겁니다. “AI 회사 엔지니어가 AI를 잘 못 다루면 역설적이잖아요.”</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-10-26_%EC%98%A4%ED%9B%84_3.30.23-2048x1152.png" alt="모르는 것 물어보기, 사람이 이해하며 함께 돌리기, 에이전트에게 믿고 맡기기로 나눈 AI 활용 3단계 도식"/>
+		<figcaption>모르는 것 물어보기에서 에이전트를 믿고 맡기기까지, AI 활용의 3단계</figcaption>
+	</figure>
+	<p>종규 님은 AI 활용을 세 단계로 나눴습니다. 모르는 것을 물어보는 단계, 사람이 이해하며 함께 돌리는 단계, 그리고 에이전트를 믿고 맡기는 단계. 지금 팀은 두 번째 단계에 있고, 세 번째 단계는 한순간에 오지 않는다고 말합니다. 작은 시도가 하나둘 모여 팀 전체의 생산성을 조금씩 끌어올린다면 머지않아 마지막 단계를 마주할 것이라고요.</p>
+	<h2>04 AI에게 효율적으로 일을 시키는 방법</h2>
+	<p><strong>정창해 | Machine Learning Engineer</strong></p>
+	<p>네 번째로 소개할 Cognition팀 정창해 님은 도면 AI 엔진 개발을 비롯해 여러 프로젝트를 동시에 맡고 있습니다. “하면 할수록 제 기억력이 점점 짧아진다는 생각이 들더라고요.” 일이 늘수록 고민도 커졌습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/IMG_1498-2048x1536.jpeg" alt="마키나락스 문화 AI Lunch Talk에서 AI 에이전트에게 효율적으로 일을 시키는 방법을 발표하는 Cognition팀 정창해 머신러닝 엔지니어"/>
+		<figcaption>Cognition팀 정창해 님</figcaption>
+	</figure>
+	<p><strong>어제 한 일도 기억이 안 날 때</strong></p>
+	<p>AI 덕분에 작업량이 많아지면서 요즘은 어제 한 작업들도 가물가물합니다. 특히 끝난 프로젝트를 다시 손볼 때는 당시 왜 그렇게 결정했는지 기억나지 않고, ‘나중에 해야지’ 하고 미뤄둔 엣지 케이스들을 잊어버릴 때도 많습니다. 창해 님은 이 문제를 네 가지 작업 방식으로 풀었습니다. <strong>기록을 쌓고, 기준을 세우고, 작업을 병렬로 돌리고, 충돌을 막는 것입니다.</strong></p>
+	<p><strong>기억은 기록에게 맡긴다</strong></p>
+	<p>출발점은 기록입니다. 프로젝트의 레포와 날짜 단위로 작업 로그를 쌓고, 진행 중인지 끝났는지 상태를 함께 남깁니다. 과거 프로젝트의 결정 사항과 규칙은 별도의 지식 문서로 모아둡니다. 에이전트는 작업을 시작하기 전에 이 기록부터 훑습니다. 기억이 안 날 때는 AI에게 “내가 왜 이렇게 했지?”라고 묻습니다. 문서를 모바일과 연동해 두니 이동 중에도 확인할 수 있습니다.</p>
+	<p><strong>구현보다 기준이 먼저</strong></p>
+	<p>LLM은 돌릴 때마다 결과가 조금씩 달라질 수 있습니다. 앞 단계의 결과가 흔들리면 뒤 단계의 로직까지 무너지죠. 또한, 각 단계의 정답을 눈으로 항상 확인해야 하죠. <strong>그래서 창해 님은 구현 전에 라벨부터 만듭니다.</strong> AI로 라벨링 페이지를 만들어 10~20개 정도 직접 라벨링한 뒤, 그 규칙으로 나머지를 자동 라벨링합니다. 이렇게 만든 라벨이 의도된 결과가 반복해서 동일하게 나오는지 평가하는 기준이 됩니다.</p>
+	<p><strong>동시에, 그러나 꼬이지 않게</strong></p>
+	<p>여러 작업은 병렬로 돌립니다. 작업마다 독립된 공간을 만들고 이름을 붙여, 어떤 작업이 어디서 돌아가는지 한눈에 봅니다. 진행 상황은 모바일로 확인하고 지시도 내립니다. 이전 맥락을 이어받고, 요청 사항을 기록하고, AI가 캐묻는 그릴링으로 요구 사항을 정리한 뒤, <strong>계획을 세우고 나서야 코드를 실행합니다.</strong> 병렬로 작업한 규칙 하나가 어긋나 전체 결과가 망가지는, 하나의 수정이 나비효과를 일으키는 일을 막기 위해서입니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/11/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2026-10-26_%EC%98%A4%ED%9B%84_3.44.46-2048x1286.png" alt="기록, 기준, 병렬 작업, 충돌 방지, 토큰 절감으로 정리한 AI 에이전트 활용 5가지 작업 방식 도식"/>
+		<figcaption>기록, 기준, 병렬, 충돌 방지, 토큰 절감까지, 창해 님의 5가지 작업 방식</figcaption>
+	</figure>
+	<p>AI를 많이 쓰다 보니 늘 부족한 토큰을 20~50%까지 아껴주는 도구를 쓰는 팁도 덧붙였습니다. 발표를 마치며 창해 님은 Cognition팀도 PR을 템플릿화해 서로 보기 편하게 만드는 등 코드 협업을 고민하고 있다며, 이날 들은 내용을 팀 안에서 발전시켜 다시 발표하는 날을 기대한다고 전했습니다.</p>
+	<h2>각자 다른 일을 하는데, 같은 곳에 도착했다</h2>
+	<p>이날 가장 재미있었던 건 발표들이 서로 이어졌다는 점입니다. 유진 님이 소개한 그릴링을 인호 님과 창해 님이 다시 꺼냈고, 종규 님은 겹치는 내용을 빼느라 자료를 고쳤죠. 각자 다른 일을 하면서도, 비슷한 고민 끝에 비슷한 답에 닿아 있었던 겁니다. <strong>AI가 빨라질수록 사람이 이해하고 판단할 수 있는 구조를 만들어야 한다는 것이요.</strong></p>
+	<p>종규 님 발표 자료에는 이런 문장이 있었습니다. “Best practice가 아니라 우리의 Practice” 남들이 좋다는 방법도 우리 상황에서 직접 써보기 전까진 모른다는 뜻인데요. 각자 써보고, 좋았던 걸 나누는 자리. ALT가 우리에게 더욱 유익했던 이유이기도 합니다.</p>
+	<p>지금까지 두 편에 걸쳐 마키나락스의 ALT 현장을 전해드렸습니다. ALT에서 나눈 이야기들이 저희에게 너무나 유익했기에, 이 중 엔지니어 세션들을 외부에 공개 가능한 정보로 재구성해 영상으로도 준비했습니다. AI 활용을 고민하는 많은 분들께 저희의 고민이 유의미한 실마리가 될 수 있길 바랍니다.</p>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 AI Lunch Talk | 점심 먹으면서 AI 얘기 좀 할까요? (1)마케팅·P&amp;C 편</title>
@@ -698,53 +711,70 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/makinarocks-culture-ai-lunch-talk-1/</guid>
 			<category>Blog</category>
 			<pubDate>Fri, 30 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-thumbnail_1.jpg" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-thumbnail_1.jpg" alt=""/>
-
-</div>
-</div><div>
-<p>AI 덕분에 일하는 속도는 확실히 빨라졌습니다. 그런데 이상하게 더 바빠지고, 일이 정리되지 않는 것 같다는 느낌을 받진 않나요? 점심시간, 마키나원들이 손에는 햄버거를, 머릿속에는 이 질문을 들고 라운지에 모였습니다. AI 노하우를 함께 나누는 마키나락스 문화, 그 첫 번째 AI Lunch Talk(이하 ALT) 현장입니다.</p>
-<h2>점심 먹으면서 AI 얘기 좀 할까요?</h2>
-<p>ALT는 하나의 질문에서 출발했습니다. <strong>“우리는 AI를 얼마나 잘 활용하고 있을까?”</strong></p>
-<p>옆자리 동료는 반복 업무를 자동화했을 수도, 기막힌 프롬프트를 찾았을 수도 있습니다. 하지만 <strong>그런 노하우는 공유하지 않으면 한 사람의 노트북 안에만 머물죠.</strong> 그래서 ALT를 열었습니다. AI로 AI를 만들며 겪은 시행착오와 결과물을 나누는 자리입니다. AI 엔지니어부터 마케터, 인사 담당자까지. 하는 일은 달라도 각자 AI와 부대끼며 만든 프로세스와 노하우를 들고 왔습니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-employees-lounge-session-scaled.jpg" alt="마키나락스 문화 - 사내 라운지에서 점심을 먹으며 AI Lunch Talk 발표를 듣는 마키나원들"/></figure>
-<p>첫 ALT에는 6명의 마키나원이 연사로 나섰고, 온·오프라인으로 70여 명이 함께했습니다. 가장 가까이에서 비슷한 일을 하는 동료의 AI 활용기는 그 어떤 세미나나 교육보다 뜨거운 관심을 모았습니다. 보안상 사내 행사로 진행된 모든 내용을 공개할 수는 없습니다. 다만 AI의 조직적 활용을 고민하는 분들께 도움이 되길 바라며, 그날 오간 우리들의 이야기를 정리합니다.</p>
-<p>이야기가 풍성했던 만큼 두 편으로 나눠 전합니다. 1편에서는 마케팅팀과 P&amp;C팀, 비개발 직군 마키나원 두 명의 AI 활용기를, 2편에서는 엔지니어 네 명의 이야기를 소개합니다.</p>
-<h2>01 프롬프트 말고, 브리프: AI에게 일을 잘 시키는 3가지 방법</h2>
-<p><strong>김경연 | Marketing Manager</strong></p>
-<p>첫 발표는 마케팅팀 김경연님이 맡았습니다. 경연님은 올해로 3회째를 맞은 마키나락스의 플래그십 컨퍼런스, ATTENTION을 기획하고 운영하는 과정에서의 AI 활용기를 공유했습니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-marketing-ai-event-website-presentation-scaled.jpg" alt="AI Lunch Talk에서 AI로 행사 웹사이트를 만든 과정을 발표하는 마키나락스 마케팅팀 김경연 매니저"/><figcaption>마케팅팀 김경연님</figcaption></figure>
-<p><strong>웹사이트는 필요한데, 개발 지식은 0.</strong></p>
-<p>ATTENTION을 진행하기 위해서는 행사를 알리고 참가 신청을 받을 웹사이트가 필요했습니다. 외주 견적을 받아보니 여러 명이 투입돼 2주가 걸리고, 비용은 수백만 원에서 수천만 원. 그렇다고 직접 만들기에는 개발 지식이 없었습니다. 그래서 AI에게 맡겨보기로 했습니다.</p>
-<p><strong>“AI야, 행사 페이지 세련되게 만들어줘”</strong></p>
-<p>처음에는 이렇게 시켰습니다. 한 문장으로 시킨 것치고는 꽤 괜찮은 결과물이 나왔습니다. 문제는 ‘AI맛’이었습니다. 그럴듯하지만, 마키나락스의 아이덴티티는 전혀 느껴지지 않는 사이트였죠. 경연님은 지시하는 방식을 세 가지로 바꿨습니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-website-ai-initial-prompt-result-scaled.png" alt="한 문장 프롬프트로 AI가 처음 만든 ATTENTION 2026 행사 웹사이트 초안 화면"/><figcaption>초기 프롬프트로 나온 결과물</figcaption></figure>
-<p><strong>AI에게 일을 잘 시키는 3가지 방법</strong></p>
-<p><strong>첫째, 당당하게 훔쳐라.</strong> “우리 회사 장점을 반영한 세련된 페이지”를 30분씩 설명하는 대신, 참고할 레퍼런스 페이지와 작년 ATTENTION 페이지, 로고와 이미지 파일을 넣습니다. 추상적인 지시보다 명확한 예시가 훨씬 효과적이었습니다.</p>
-<p><strong>둘째, AI에게 전문가의 페르소나를 준다.</strong> 그냥 AI는 ‘대충 깔끔해 보이게 만들면 되겠지’ 하고 넘어갑니다. 반면 애플에서 27년간 일한 디자인 총괄이라는 페르소나를 주자, CTA 위치와 문구, 정보 위계부터 따져보기 시작했습니다. 일반적인 명령에는 평균적인 답이 돌아오지만, 전문가의 눈을 주면 스스로 결과물을 검토합니다.</p>
-<p><strong>셋째, 과부하에 대비하기 위한 마스터 가이드를 먼저 세팅한다.</strong> 대화가 길어져 새 채팅방을 열면, AI는 이전 대화를 그대로 기억하지 못합니다. “FAQ 작업 이어서 하자”고 하면 “그게 뭐예요?”라는 답이 돌아오죠. 그래서 지금까지 나눈 내용을 정리한 핸드오버 파일과 프로젝트 개요·규칙 파일을 먼저 만들고, 수시로 업데이트했습니다. 환각을 막고 작업의 일관성을 지키는 안전장치입니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-website-ai-built-final-live-page-scaled.png" alt="레퍼런스·페르소나·마스터 가이드를 적용해 AI로 완성한 ATTENTION 2026 웹사이트 라이브 페이지"/><figcaption>실제 라이브 된 ATTENTION 2026 결과물</figcaption></figure>
-<p>그렇게 완성된 것이 지금의 <a href="https://www.makinarocks.ai/attention-2026/">ATTENTION 2026 웹사이트</a>입니다. <strong>여러 명이 2주 동안 매달려야 했던 일을, 혼자서 일주일 만에 외주 비용 없이 해낼 수 있었습니다.</strong> 한 줄짜리 명령이 아니라 예시와 역할, 맥락을 담은 브리프. <strong>AI에게 일을 잘 시키는 법은 동료에게 일을 잘 맡기는 법과 다르지 않았습니다.</strong></p>
-<h2>02 지휘통제실: AI 참모 다섯과 일하는 법</h2>
-<p><strong>김형찬 | HR Manager</strong></p>
-<p>두 번째로 소개할 발표는 <strong>P&amp;C팀 김형찬</strong>님의 이야기입니다. 형찬님이 소개한 것은 나만의 AI 팀, 바로 ‘지휘통제실’입니다. 역시 HR 매니저답게 제조·국방 AI 대표기업 마키나락스에 걸맞은 콘셉트까지 구현한 것인데요.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-hr-ai-command-center-presentation-scaled.jpg" alt="AI Lunch Talk에서 AI 에이전트 지휘통제실을 발표하는 마키나락스 P&amp;C팀 김형찬 매니저"/><figcaption>P&amp;C팀 김형찬 님</figcaption></figure>
-<p><strong>흩어진 업무를 한 화면에</strong></p>
-<p>슬랙, 메일, 노션, 캘린더. 하루에도 몇 번씩 오가는 업무 툴이 흩어져 있다 보니, 놓치는 일도 생기기 마련입니다. 형찬 님은 이를 하나의 시스템에서 관리하기 위해, AI 참모 다섯이 일을 나눠 맡는 지휘통제실을 만들었습니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/hr-ai-agent-command-center-dashboard-briefing.png" alt="슬랙·메일·노션·캘린더 업무를 한 화면에 모은 HR AI 에이전트 지휘통제실 메인 브리핑 대시보드"/><figcaption>지휘통제실 메인 화면</figcaption></figure>
-<p><strong>대대장은 사람, 참모는 AI</strong></p>
-<p>구조는 이름 그대로 군대입니다. 형찬님이 대대장을 맡고, AI 중대장이 명령을 받아 네 명의 장교 AI에게 일을 나눕니다. 인사장교는 메일 초안과 지원자 관리를, 작전장교는 일정과 면접 참석 체크를, 정보장교는 채용 시장 동향 수집을, 군수장교는 인력 관리를 맡습니다. 참모들끼리 필요한 정보를 서로 요청하고 주고받기도 합니다. 중대장은 결과를 취합하고 최종 검토한 뒤 대대장에게 보고합니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/hr-ai-agent-command-center-report-verification-scaled.png" alt="AI 중대장 에이전트가 참모 에이전트들의 정기 보고를 원문과 대조해 검증하는 지휘통제실 화면"/><figcaption>정기보고 중 중대장이 참모 보고를 원문과 대조해 검증하는 장면</figcaption></figure>
-<p><strong>아침 정기 보고에서 결재까지</strong></p>
-<p>현장에서는 실제 지휘통제실 화면도 시연했습니다. 아침 정기 보고를 소집하면 중대장이 회의를 열고, 각 참모에게 안건과 파악할 사항을 정리하도록 지시합니다. 화면에는 오늘의 지표와 결재할 사항, 답장이 필요한 메일과 슬랙, 캘린더 일정이 한눈에 보입니다. 형찬님은 결재함에 쌓인 항목을 하나씩 확인하고 처리하거나 건너뛰면 됩니다.</p>
-<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/hr-ai-agent-command-center-five-ai-agents-scaled.png" alt="중대장·인사·작전·정보·군수 장교 역할의 AI 에이전트 다섯이 각자 담당 시스템을 맡고 있는 지휘통제실 내부 화면"/><figcaption>지휘통제실 내부, AI 참모 다섯 명이 각자 담당 시스템을 맡아 대기 중인 모습</figcaption></figure>
-<p>물론 참모들이 마음대로 움직이지는 않습니다. 시스템은 외부 배포 없이 로컬 PC에서만 돌아가고, 메일이나 슬랙 메시지는 형찬님이 승인 버튼을 눌러야만 나갑니다. <strong>결정은 여전히 사람이 하고, AI는 그 결정을 돕는 참모입니다.</strong> 개발자가 아니어도 AI를 ‘나만의 팀’으로 꾸릴 수 있다는 걸 보여준 발표였습니다.</p>
-<p><strong>엔지니어들의 이야기는 2편에서 계속됩니다</strong></p>
-<p>지금까지 비개발 직군 마키나원 두 명의 AI 활용기를 전해드렸습니다. <strong>개발 지식이 없어도 무엇을 원하는지 분명히 전하고, 결정은 사람이 내린다면 AI는 든든한 동료가 됩니다.</strong></p>
-<p>2편에서는 마키나락스 엔지니어 네 명의 이야기가 이어집니다. AI가 코드를 대신 짜주는 시대, 엔지니어들은 왜 더 바빠졌고 그 문제를 어떻게 풀고 있을까요? 인지부채와 PR 리뷰, 복잡한 비즈니스 로직, 그리고 기억을 대신하는 기록까지. 엔지니어들의 AI 활용기를 다룰 2편도 많은 관심 부탁드립니다.</p>
-
+	<p>AI 덕분에 일하는 속도는 확실히 빨라졌습니다. 그런데 이상하게 더 바빠지고, 일이 정리되지 않는 것 같다는 느낌을 받진 않나요? 점심시간, 마키나원들이 손에는 햄버거를, 머릿속에는 이 질문을 들고 라운지에 모였습니다. AI 노하우를 함께 나누는 마키나락스 문화, 그 첫 번째 AI Lunch Talk(이하 ALT) 현장입니다.</p>
+	<h2>점심 먹으면서 AI 얘기 좀 할까요?</h2>
+	<p>ALT는 하나의 질문에서 출발했습니다. <strong>“우리는 AI를 얼마나 잘 활용하고 있을까?”</strong></p>
+	<p>옆자리 동료는 반복 업무를 자동화했을 수도, 기막힌 프롬프트를 찾았을 수도 있습니다. 하지만 <strong>그런 노하우는 공유하지 않으면 한 사람의 노트북 안에만 머물죠.</strong> 그래서 ALT를 열었습니다. AI로 AI를 만들며 겪은 시행착오와 결과물을 나누는 자리입니다. AI 엔지니어부터 마케터, 인사 담당자까지. 하는 일은 달라도 각자 AI와 부대끼며 만든 프로세스와 노하우를 들고 왔습니다.</p>
+	<figure><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-employees-lounge-session-scaled.jpg" alt="마키나락스 문화 - 사내 라운지에서 점심을 먹으며 AI Lunch Talk 발표를 듣는 마키나원들"/></figure>
+	<p>첫 ALT에는 6명의 마키나원이 연사로 나섰고, 온·오프라인으로 70여 명이 함께했습니다. 가장 가까이에서 비슷한 일을 하는 동료의 AI 활용기는 그 어떤 세미나나 교육보다 뜨거운 관심을 모았습니다. 보안상 사내 행사로 진행된 모든 내용을 공개할 수는 없습니다. 다만 AI의 조직적 활용을 고민하는 분들께 도움이 되길 바라며, 그날 오간 우리들의 이야기를 정리합니다.</p>
+	<p>이야기가 풍성했던 만큼 두 편으로 나눠 전합니다. 1편에서는 마케팅팀과 P&amp;C팀, 비개발 직군 마키나원 두 명의 AI 활용기를, 2편에서는 엔지니어 네 명의 이야기를 소개합니다.</p>
+	<h2>01 프롬프트 말고, 브리프: AI에게 일을 잘 시키는 3가지 방법</h2>
+	<p><strong>김경연 | Marketing Manager</strong></p>
+	<p>첫 발표는 마케팅팀 김경연님이 맡았습니다. 경연님은 올해로 3회째를 맞은 마키나락스의 플래그십 컨퍼런스, ATTENTION을 기획하고 운영하는 과정에서의 AI 활용기를 공유했습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-marketing-ai-event-website-presentation-scaled.jpg" alt="AI Lunch Talk에서 AI로 행사 웹사이트를 만든 과정을 발표하는 마키나락스 마케팅팀 김경연 매니저"/>
+		<figcaption>마케팅팀 김경연님</figcaption>
+	</figure>
+	<p><strong>웹사이트는 필요한데, 개발 지식은 0.</strong></p>
+	<p>ATTENTION을 진행하기 위해서는 행사를 알리고 참가 신청을 받을 웹사이트가 필요했습니다. 외주 견적을 받아보니 여러 명이 투입돼 2주가 걸리고, 비용은 수백만 원에서 수천만 원. 그렇다고 직접 만들기에는 개발 지식이 없었습니다. 그래서 AI에게 맡겨보기로 했습니다.</p>
+	<p><strong>“AI야, 행사 페이지 세련되게 만들어줘”</strong></p>
+	<p>처음에는 이렇게 시켰습니다. 한 문장으로 시킨 것치고는 꽤 괜찮은 결과물이 나왔습니다. 문제는 ‘AI맛’이었습니다. 그럴듯하지만, 마키나락스의 아이덴티티는 전혀 느껴지지 않는 사이트였죠. 경연님은 지시하는 방식을 세 가지로 바꿨습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-website-ai-initial-prompt-result-scaled.png" alt="한 문장 프롬프트로 AI가 처음 만든 ATTENTION 2026 행사 웹사이트 초안 화면"/>
+		<figcaption>초기 프롬프트로 나온 결과물</figcaption>
+	</figure>
+	<p><strong>AI에게 일을 잘 시키는 3가지 방법</strong></p>
+	<p><strong>첫째, 당당하게 훔쳐라.</strong> “우리 회사 장점을 반영한 세련된 페이지”를 30분씩 설명하는 대신, 참고할 레퍼런스 페이지와 작년 ATTENTION 페이지, 로고와 이미지 파일을 넣습니다. 추상적인 지시보다 명확한 예시가 훨씬 효과적이었습니다.</p>
+	<p><strong>둘째, AI에게 전문가의 페르소나를 준다.</strong> 그냥 AI는 ‘대충 깔끔해 보이게 만들면 되겠지’ 하고 넘어갑니다. 반면 애플에서 27년간 일한 디자인 총괄이라는 페르소나를 주자, CTA 위치와 문구, 정보 위계부터 따져보기 시작했습니다. 일반적인 명령에는 평균적인 답이 돌아오지만, 전문가의 눈을 주면 스스로 결과물을 검토합니다.</p>
+	<p><strong>셋째, 과부하에 대비하기 위한 마스터 가이드를 먼저 세팅한다.</strong> 대화가 길어져 새 채팅방을 열면, AI는 이전 대화를 그대로 기억하지 못합니다. “FAQ 작업 이어서 하자”고 하면 “그게 뭐예요?”라는 답이 돌아오죠. 그래서 지금까지 나눈 내용을 정리한 핸드오버 파일과 프로젝트 개요·규칙 파일을 먼저 만들고, 수시로 업데이트했습니다. 환각을 막고 작업의 일관성을 지키는 안전장치입니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-website-ai-built-final-live-page-scaled.png" alt="레퍼런스·페르소나·마스터 가이드를 적용해 AI로 완성한 ATTENTION 2026 웹사이트 라이브 페이지"/>
+		<figcaption>실제 라이브 된 ATTENTION 2026 결과물</figcaption>
+	</figure>
+	<p>그렇게 완성된 것이 지금의 <a href="https://www.makinarocks.ai/attention-2026/">ATTENTION 2026 웹사이트</a>입니다. <strong>여러 명이 2주 동안 매달려야 했던 일을, 혼자서 일주일 만에 외주 비용 없이 해낼 수 있었습니다.</strong> 한 줄짜리 명령이 아니라 예시와 역할, 맥락을 담은 브리프. <strong>AI에게 일을 잘 시키는 법은 동료에게 일을 잘 맡기는 법과 다르지 않았습니다.</strong></p>
+	<h2>02 지휘통제실: AI 참모 다섯과 일하는 법</h2>
+	<p><strong>김형찬 | HR Manager</strong></p>
+	<p>두 번째로 소개할 발표는 <strong>P&amp;C팀 김형찬</strong>님의 이야기입니다. 형찬님이 소개한 것은 나만의 AI 팀, 바로 ‘지휘통제실’입니다. 역시 HR 매니저답게 제조·국방 AI 대표기업 마키나락스에 걸맞은 콘셉트까지 구현한 것인데요.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/makinarocks-ai-lunch-talk-hr-ai-command-center-presentation-scaled.jpg" alt="AI Lunch Talk에서 AI 에이전트 지휘통제실을 발표하는 마키나락스 P&amp;C팀 김형찬 매니저"/>
+		<figcaption>P&amp;C팀 김형찬 님</figcaption>
+	</figure>
+	<p><strong>흩어진 업무를 한 화면에</strong></p>
+	<p>슬랙, 메일, 노션, 캘린더. 하루에도 몇 번씩 오가는 업무 툴이 흩어져 있다 보니, 놓치는 일도 생기기 마련입니다. 형찬 님은 이를 하나의 시스템에서 관리하기 위해, AI 참모 다섯이 일을 나눠 맡는 지휘통제실을 만들었습니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/hr-ai-agent-command-center-dashboard-briefing.png" alt="슬랙·메일·노션·캘린더 업무를 한 화면에 모은 HR AI 에이전트 지휘통제실 메인 브리핑 대시보드"/>
+		<figcaption>지휘통제실 메인 화면</figcaption>
+	</figure>
+	<p><strong>대대장은 사람, 참모는 AI</strong></p>
+	<p>구조는 이름 그대로 군대입니다. 형찬님이 대대장을 맡고, AI 중대장이 명령을 받아 네 명의 장교 AI에게 일을 나눕니다. 인사장교는 메일 초안과 지원자 관리를, 작전장교는 일정과 면접 참석 체크를, 정보장교는 채용 시장 동향 수집을, 군수장교는 인력 관리를 맡습니다. 참모들끼리 필요한 정보를 서로 요청하고 주고받기도 합니다. 중대장은 결과를 취합하고 최종 검토한 뒤 대대장에게 보고합니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/hr-ai-agent-command-center-report-verification-scaled.png" alt="AI 중대장 에이전트가 참모 에이전트들의 정기 보고를 원문과 대조해 검증하는 지휘통제실 화면"/>
+		<figcaption>정기보고 중 중대장이 참모 보고를 원문과 대조해 검증하는 장면</figcaption>
+	</figure>
+	<p><strong>아침 정기 보고에서 결재까지</strong></p>
+	<p>현장에서는 실제 지휘통제실 화면도 시연했습니다. 아침 정기 보고를 소집하면 중대장이 회의를 열고, 각 참모에게 안건과 파악할 사항을 정리하도록 지시합니다. 화면에는 오늘의 지표와 결재할 사항, 답장이 필요한 메일과 슬랙, 캘린더 일정이 한눈에 보입니다. 형찬님은 결재함에 쌓인 항목을 하나씩 확인하고 처리하거나 건너뛰면 됩니다.</p>
+	<figure>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/hr-ai-agent-command-center-five-ai-agents-scaled.png" alt="중대장·인사·작전·정보·군수 장교 역할의 AI 에이전트 다섯이 각자 담당 시스템을 맡고 있는 지휘통제실 내부 화면"/>
+		<figcaption>지휘통제실 내부, AI 참모 다섯 명이 각자 담당 시스템을 맡아 대기 중인 모습</figcaption>
+	</figure>
+	<p>물론 참모들이 마음대로 움직이지는 않습니다. 시스템은 외부 배포 없이 로컬 PC에서만 돌아가고, 메일이나 슬랙 메시지는 형찬님이 승인 버튼을 눌러야만 나갑니다. <strong>결정은 여전히 사람이 하고, AI는 그 결정을 돕는 참모입니다.</strong> 개발자가 아니어도 AI를 ‘나만의 팀’으로 꾸릴 수 있다는 걸 보여준 발표였습니다.</p>
+	<p><strong>엔지니어들의 이야기는 2편에서 계속됩니다</strong></p>
+	<p>지금까지 비개발 직군 마키나원 두 명의 AI 활용기를 전해드렸습니다. <strong>개발 지식이 없어도 무엇을 원하는지 분명히 전하고, 결정은 사람이 내린다면 AI는 든든한 동료가 됩니다.</strong></p>
+	<p>2편에서는 마키나락스 엔지니어 네 명의 이야기가 이어집니다. AI가 코드를 대신 짜주는 시대, 엔지니어들은 왜 더 바빠졌고 그 문제를 어떻게 풀고 있을까요? 인지부채와 PR 리뷰, 복잡한 비즈니스 로직, 그리고 기억을 대신하는 기록까지. 엔지니어들의 AI 활용기를 다룰 2편도 많은 관심 부탁드립니다.</p>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>AI가 산업 현장에 착륙한 순간, ATTENTION 2026</title>
@@ -752,81 +782,74 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/ai%ea%b0%80-%ec%82%b0%ec%97%85-%ed%98%84%ec%9e%a5%ec%97%90-%ec%b0%a9%eb%a5%99%ed%95%9c-%ec%88%9c%ea%b0%84-attention-2026/</guid>
 			<category>Blog</category>
 			<pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a.png" alt=""/>
-
-</div>
-</div><div>
-<p>지난 9월 3일, 웨스틴 서울 파르나스에서 마키나락스의 플래그십 AI 컨퍼런스 <strong>ATTENTION 2026</strong>이 열렸습니다.</p>
-<p>올해의 주제는 <strong>‘AI Has Landed.’</strong></p>
-<p>AI가 무엇을 할 수 있는지 이야기하는 것을 넘어, 실제 산업 현장에서 AI가 어떻게 쓰이고 있는지를 한자리에서 보여주고 싶었습니다.</p>
-<p>그래서 올해 ATTENTION은 ‘미래의 가능성’보다 <strong>이미 현장에서 일어나고 있는 변화</strong>에 집중했습니다.</p>
-<p>제조와 반도체부터 조선, 에너지, 국방까지. 서로 다른 산업에서 AI가 어떤 문제를 풀고, 어떻게 실제 업무와 시스템 안으로 들어가고 있는지를 하루 동안 함께 살펴봤습니다.</p>
-<p>ATTENTION 2026의 현장으로 다시 돌아가 봅니다.</p>
-
-<h2>아침부터 예상보다 뜨거웠던 ATTENTION 2026</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-c-1024x576.png" alt=""/></p>
-<p>행사가 시작되기 전부터 로비는 참석자들로 빠르게 채워졌습니다.</p>
-<p>올해 ATTENTION에는 제조, 반도체, 자동차, 에너지, 국방, 공공 등 370여 개 기업에서 약 800명이 함께했습니다.</p>
-
-<p>지난해보다 훨씬 커진 규모였지만, 더 반가웠던 것은 단순히 숫자가 늘어난 것만은 아니었습니다.</p>
-<p>국방과학연구소, 두산에너빌리티, 방위사업청, 삼성디스플레이, 포스코, 한화시스템, LG에너지솔루션 등 우리가 실제 산업 AI의 고객이자 파트너로 만나고 싶었던 기업의 사람들이 한 공간에 모였습니다.</p>
-<p>현장에서 오가는 대화도 더 구체적이었습니다. AI가 무엇인지 알아보기보다 각자의 현장에서 AI를 어떻게 적용할지, 실제 도입 과정에서 어떤 문제를 풀어야 하는지를 이야기하는 사람들이 많아졌습니다.</p>
-<p>ATTENTION을 처음 만들었을 때 생각했던 모습에 조금씩 가까워지고 있다는 느낌이 들었습니다.</p>
-<p><strong>마키나락스가 산업 AI를 설명하는 자리가 아니라, 산업에서 AI를 실제로 만들고 적용하는 사람들이 모이는 자리.</strong></p>
-<p>올해 ATTENTION에서 확인한 가장 반가운 변화 중 하나였습니다.</p>
-<p>그리고 이렇게 모인 사람들과 올해 ATTENTION에서 가장 먼저 나눈 질문은, 의외로 AI의 가능성에 대한 것이 아니었습니다.</p>
-<h2>AI는 발전하는데, 왜 현장은 아직 달라지지 않았을까?</h2>
-<p>오전의 문을 연 마키나락스 윤성호 대표의 키노트 제목은 올해 ATTENTION의 주제와 같은 <strong>‘AI Has Landed.’</strong></p>
-<p>AI는 빠르게 발전하고 있지만, 그만큼 기업의 생산성이 달라지고 있는지는 또 다른 문제입니다. 키노트에서 소개된 연구에 따르면 약 90%의 기업 경영진이 지난 3년간 AI를 통해 측정 가능한 생산성 효과를 아직 얻지 못했다고 답했습니다.</p>
-<p>윤성호 대표는 그 간극의 원인 중 하나로 ‘Long-tail’을 이야기했습니다. AI는 반복적이고 일반적인 문제는 빠르게 해결하고 있지만, 실제 산업 현장에는 빈도는 낮아도 반드시 대응해야 하는 수많은 예외와 복잡한 상황이 존재합니다. <strong>이 Long-tail을 해결하지 못하면 AI는 데모를 넘어 실제 현장에서 안정적으로 일하기 어렵습니다.</strong></p>
-<p>이를 위해서는 좋은 AI 모델 하나만으로 충분하지 않습니다. 기업의 데이터와 시스템, 업무 프로세스와 현장의 노하우가 AI와 연결되고, 실제 환경에서 검증되고 지속적으로 개선되어야 합니다.</p>
-<p><strong>“AI를 몇 개 도입했느냐가 아니라, AI로 진짜 회사의 경쟁력을 만들고 있는가?”</strong></p>
-<p>이 질문에서 기업의 지식과 경험을 기업 안에 축적하고 통제하기 위한 ‘기업 AI 주권(Enterprise AI Sovereignty)’이라는 화두도 이어졌습니다.</p>
-<p>그리고 오후에는 이 질문을 서로 다른 산업과 현장에서 풀어가는 이야기들이 이어졌습니다.</p>
-<h2>오후 1시, ATTENTION은 세 갈래로 나뉘었습니다</h2>
-<p>점심시간이 끝나고 ATTENTION은 <strong>AI OS, Industrial AI, Defense AI</strong> 세 개의 트랙으로 나뉘었습니다.</p>
-<p>AI OS에서는 모델 하나를 잘 만드는 것을 넘어 기업 안에서 AI를 어떻게 개발하고 배포하고 운영할 것인지를 다뤘습니다. Industrial AI에서는 반도체·제조·조선 등 각 산업의 기업들이 실제 현장에서 AI를 적용하며 얻은 경험을 공유했습니다. 올해 처음 별도 트랙으로 구성한 Defense AI에서는 폐쇄망과 전장처럼 까다로운 환경에서 AI를 어떻게 적용하고 운영할 것인지에 대한 이야기가 이어졌습니다.</p>
-<p>올해는 하나의 트랙을 처음부터 끝까지 듣기보다, 세션마다 관심 있는 발표를 골라 이동할 수 있도록 프로그램을 구성했습니다.</p>
-<p>실제로 세션이 끝날 때마다 참석자들은 다음 발표를 찾아 다른 공간으로 움직였습니다. 오후 트랙 참가자들은 평균 2.7개의 세션을 들었고, 일부 인기 세션은 빠르게 좌석이 찼습니다.</p>
-<p>예상보다 이동이 한꺼번에 몰리면서 복도가 붐비는 순간도 있었지만, 한편으로는 반가운 장면이었습니다.</p>
-<p><strong>참석자들이 하나의 답을 듣기 위해 온 것이 아니라, 서로 다른 산업과 기업에서는 AI를 어떻게 풀고 있는지 궁금해하고 있다는 것이 보였기 때문입니다.</strong></p>
-<p>마지막 세션까지 자리를 지키는 사람들도 예상보다 많았습니다. 행사가 끝나기 전 먼저 자리를 뜨기보다 마지막 발표까지 듣고 나가는 참석자들이 눈에 띄었습니다.</p>
-<p>그리고 올해 발표에서 특히 인상적이었던 것은 <strong>‘AI가 앞으로 무엇을 할 수 있을 것인가’보다 ‘우리는 지금 AI를 이렇게 쓰고 있다’는 이야기가 훨씬 많아졌다는 점</strong>입니다.</p>
-<p>AI의 가능성을 설명하기 위해 가상의 미래를 그릴 필요가 점점 줄어들고 있었습니다.</p>
-<p>이미 보여줄 수 있는 사례가 생기고 있었으니까요.</p>
-<h2>발표장 밖에서도 이야기는 계속됐습니다</h2>
-
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Group-2147258131-1024x224.png" alt=""/></p>
-<p>ATTENTION의 콘텐츠는 발표장 안에만 있지 않았습니다.</p>
-<p>올해는 행사장 로비에 <strong>Physical AI Ecosystem Village</strong>를 구성했습니다. 단순히 쉬는 시간에 둘러보는 전시 공간이 아니라, 세션에서 들었던 기술과 사례를 직접 확인하고 다시 대화를 시작할 수 있는 또 하나의 콘텐츠 공간으로 만들고 싶었습니다.</p>
-<p>AI 반도체·클라우드·로봇 등 8개의 체험 부스가 운영됐고, 마키나락스의 AI OS Runway가 실제로 AI를 개발·배포·운영하는 과정도 라이브 데모로 선보였습니다.</p>
-<p>쉬는 시간이 되면 부스 앞에 사람들이 모였습니다. 발표를 듣다가 궁금한 것이 생긴 참석자들이 부스를 찾아와 질문을 이어가고, 세션을 마친 연사와 참석자가 로비에서 다시 이야기를 나누는 모습도 쉽게 볼 수 있었습니다.</p>
-<p><strong>발표를 듣고 → 직접 보고 → 질문하고 → 다시 다른 세션으로 이동하는 것.</strong></p>
-<p>우리가 올해 ATTENTION에서 만들고 싶었던 경험도 이런 모습에 가까웠습니다.</p>
-<h2>ATTENTION도 조금씩 달라지고 있습니다</h2>
-<p>ATTENTION을 처음 시작했을 때는 마키나락스가 경험한 산업 AI를 더 많은 사람에게 보여주는 것이 중요했습니다.</p>
-<p>하지만 우리가 만나는 산업과 고객이 늘어나면서 ATTENTION의 무대도 함께 넓어졌습니다.</p>
-<p>이제는 마키나락스의 기술만 이야기하지 않습니다. 실제 AI를 적용하고 있는 고객이 자신의 경험을 공유하고, 서로 다른 산업의 전문가들이 각자의 관점과 고민을 나눕니다.</p>
-<p>행사가 커지면서 우리의 고민도 달라졌습니다.</p>
-<p>예전에는 “어떻게 더 많은 사람에게 ATTENTION을 알릴까”가 큰 고민이었다면, 이제는 “이렇게 모인 사람들이 어떻게 더 많은 것을 얻어가고, 서로 더 많이 연결될 수 있게 할까”를 고민합니다.</p>
-<p>올해도 인기 세션에 사람들이 몰리고, 트랙 사이 이동이 겹치면서 동선이 복잡해지는 순간이 있었습니다. 많은 사람들이 한자리에 모인 만큼 서로 충분히 이야기를 나눌 수 있는 시간과 공간도 더 필요했습니다.</p>
-<p>그래서 다음 ATTENTION에서는 발표를 듣는 것뿐 아니라 비슷한 문제를 고민하는 사람을 만나고, 서로 다른 산업의 경험을 교환할 수 있는 경험을 더 잘 만들어보고 싶습니다.</p>
-<p><strong>마키나락스가 산업 AI를 설명하는 자리에서, 산업에서 AI를 실제로 만들고 적용하는 사람들이 서로의 경험을 나누는 자리로.</strong></p>
-<p>ATTENTION도 조금씩 달라지고 있습니다.</p>
-<h2>놓친 이야기가 있다면</h2>
-<p>현장에서 미처 듣지 못한 발표는 <strong>ATTENTION 2026 다시보기</strong>에서 만나보세요.</p>
-<p><a href="https://www.makinarocks.ai/attention-2026/?utm_source=blog&amp;utm_medium=owned&amp;utm_campaign=202610-attention-sketch-blog">[WATCH — 다시보기 →]</a></p>
-<h2>그리고 우리는 벌써 다음 ATTENTION을 이야기하고 있습니다</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a-1024x576.png" alt=""/></p>
-<p>올해 9월 3일, 서로 다른 산업에서 온 사람들이 한 공간에 모여 각자의 AI 경험을 나눴습니다.</p>
-<p>하루를 마치고 돌아보니 올해의 주제였던 ‘AI Has Landed’가 조금 다르게 보였습니다.</p>
-<p>AI의 가능성을 설명하는 것보다, 실제 경험을 나누는 사람들이 많아진 하루였습니다. 그리고 ATTENTION도 그 변화와 함께 조금씩 달라지고 있습니다.</p>
-<p>다음에는 더 많은 경험이 연결되고, 서로 다른 현장에서 AI를 만드는 사람들이 더 많이 만날 수 있도록.</p>
-<p><strong>우리는 벌써 다음 ATTENTION을 준비하고 있습니다.</strong></p>
-
+	<p>지난 9월 3일, 웨스틴 서울 파르나스에서 마키나락스의 플래그십 AI 컨퍼런스 <strong>ATTENTION 2026</strong>이 열렸습니다.</p>
+	<p>올해의 주제는 <strong>‘AI Has Landed.’</strong></p>
+	<p>AI가 무엇을 할 수 있는지 이야기하는 것을 넘어, 실제 산업 현장에서 AI가 어떻게 쓰이고 있는지를 한자리에서 보여주고 싶었습니다.</p>
+	<p>그래서 올해 ATTENTION은 ‘미래의 가능성’보다 <strong>이미 현장에서 일어나고 있는 변화</strong>에 집중했습니다.</p>
+	<p>제조와 반도체부터 조선, 에너지, 국방까지. 서로 다른 산업에서 AI가 어떤 문제를 풀고, 어떻게 실제 업무와 시스템 안으로 들어가고 있는지를 하루 동안 함께 살펴봤습니다.</p>
+	<p>ATTENTION 2026의 현장으로 다시 돌아가 봅니다.</p>
+	<h2>아침부터 예상보다 뜨거웠던 ATTENTION 2026</h2>
+	<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-c-1024x576.png" alt=""/></p>
+	<p>행사가 시작되기 전부터 로비는 참석자들로 빠르게 채워졌습니다.</p>
+	<p>올해 ATTENTION에는 제조, 반도체, 자동차, 에너지, 국방, 공공 등 370여 개 기업에서 약 800명이 함께했습니다.</p>
+	<p>지난해보다 훨씬 커진 규모였지만, 더 반가웠던 것은 단순히 숫자가 늘어난 것만은 아니었습니다.</p>
+	<p>국방과학연구소, 두산에너빌리티, 방위사업청, 삼성디스플레이, 포스코, 한화시스템, LG에너지솔루션 등 우리가 실제 산업 AI의 고객이자 파트너로 만나고 싶었던 기업의 사람들이 한 공간에 모였습니다.</p>
+	<p>현장에서 오가는 대화도 더 구체적이었습니다. AI가 무엇인지 알아보기보다 각자의 현장에서 AI를 어떻게 적용할지, 실제 도입 과정에서 어떤 문제를 풀어야 하는지를 이야기하는 사람들이 많아졌습니다.</p>
+	<p>ATTENTION을 처음 만들었을 때 생각했던 모습에 조금씩 가까워지고 있다는 느낌이 들었습니다.</p>
+	<p><strong>마키나락스가 산업 AI를 설명하는 자리가 아니라, 산업에서 AI를 실제로 만들고 적용하는 사람들이 모이는 자리.</strong></p>
+	<p>올해 ATTENTION에서 확인한 가장 반가운 변화 중 하나였습니다.</p>
+	<p>그리고 이렇게 모인 사람들과 올해 ATTENTION에서 가장 먼저 나눈 질문은, 의외로 AI의 가능성에 대한 것이 아니었습니다.</p>
+	<h2>AI는 발전하는데, 왜 현장은 아직 달라지지 않았을까?</h2>
+	<p>오전의 문을 연 마키나락스 윤성호 대표의 키노트 제목은 올해 ATTENTION의 주제와 같은 <strong>‘AI Has Landed.’</strong></p>
+	<p>AI는 빠르게 발전하고 있지만, 그만큼 기업의 생산성이 달라지고 있는지는 또 다른 문제입니다. 키노트에서 소개된 연구에 따르면 약 90%의 기업 경영진이 지난 3년간 AI를 통해 측정 가능한 생산성 효과를 아직 얻지 못했다고 답했습니다.</p>
+	<p>윤성호 대표는 그 간극의 원인 중 하나로 ‘Long-tail’을 이야기했습니다. AI는 반복적이고 일반적인 문제는 빠르게 해결하고 있지만, 실제 산업 현장에는 빈도는 낮아도 반드시 대응해야 하는 수많은 예외와 복잡한 상황이 존재합니다. <strong>이 Long-tail을 해결하지 못하면 AI는 데모를 넘어 실제 현장에서 안정적으로 일하기 어렵습니다.</strong></p>
+	<p>이를 위해서는 좋은 AI 모델 하나만으로 충분하지 않습니다. 기업의 데이터와 시스템, 업무 프로세스와 현장의 노하우가 AI와 연결되고, 실제 환경에서 검증되고 지속적으로 개선되어야 합니다.</p>
+	<p><strong>“AI를 몇 개 도입했느냐가 아니라, AI로 진짜 회사의 경쟁력을 만들고 있는가?”</strong></p>
+	<p>이 질문에서 기업의 지식과 경험을 기업 안에 축적하고 통제하기 위한 ‘기업 AI 주권(Enterprise AI Sovereignty)’이라는 화두도 이어졌습니다.</p>
+	<p>그리고 오후에는 이 질문을 서로 다른 산업과 현장에서 풀어가는 이야기들이 이어졌습니다.</p>
+	<h2>오후 1시, ATTENTION은 세 갈래로 나뉘었습니다</h2>
+	<p>점심시간이 끝나고 ATTENTION은 <strong>AI OS, Industrial AI, Defense AI</strong> 세 개의 트랙으로 나뉘었습니다.</p>
+	<p>AI OS에서는 모델 하나를 잘 만드는 것을 넘어 기업 안에서 AI를 어떻게 개발하고 배포하고 운영할 것인지를 다뤘습니다. Industrial AI에서는 반도체·제조·조선 등 각 산업의 기업들이 실제 현장에서 AI를 적용하며 얻은 경험을 공유했습니다. 올해 처음 별도 트랙으로 구성한 Defense AI에서는 폐쇄망과 전장처럼 까다로운 환경에서 AI를 어떻게 적용하고 운영할 것인지에 대한 이야기가 이어졌습니다.</p>
+	<p>올해는 하나의 트랙을 처음부터 끝까지 듣기보다, 세션마다 관심 있는 발표를 골라 이동할 수 있도록 프로그램을 구성했습니다.</p>
+	<p>실제로 세션이 끝날 때마다 참석자들은 다음 발표를 찾아 다른 공간으로 움직였습니다. 오후 트랙 참가자들은 평균 2.7개의 세션을 들었고, 일부 인기 세션은 빠르게 좌석이 찼습니다.</p>
+	<p>예상보다 이동이 한꺼번에 몰리면서 복도가 붐비는 순간도 있었지만, 한편으로는 반가운 장면이었습니다.</p>
+	<p><strong>참석자들이 하나의 답을 듣기 위해 온 것이 아니라, 서로 다른 산업과 기업에서는 AI를 어떻게 풀고 있는지 궁금해하고 있다는 것이 보였기 때문입니다.</strong></p>
+	<p>마지막 세션까지 자리를 지키는 사람들도 예상보다 많았습니다. 행사가 끝나기 전 먼저 자리를 뜨기보다 마지막 발표까지 듣고 나가는 참석자들이 눈에 띄었습니다.</p>
+	<p>그리고 올해 발표에서 특히 인상적이었던 것은 <strong>‘AI가 앞으로 무엇을 할 수 있을 것인가’보다 ‘우리는 지금 AI를 이렇게 쓰고 있다’는 이야기가 훨씬 많아졌다는 점</strong>입니다.</p>
+	<p>AI의 가능성을 설명하기 위해 가상의 미래를 그릴 필요가 점점 줄어들고 있었습니다.</p>
+	<p>이미 보여줄 수 있는 사례가 생기고 있었으니까요.</p>
+	<h2>발표장 밖에서도 이야기는 계속됐습니다</h2>
+	<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Group-2147258131-1024x224.png" alt=""/></p>
+	<p>ATTENTION의 콘텐츠는 발표장 안에만 있지 않았습니다.</p>
+	<p>올해는 행사장 로비에 <strong>Physical AI Ecosystem Village</strong>를 구성했습니다. 단순히 쉬는 시간에 둘러보는 전시 공간이 아니라, 세션에서 들었던 기술과 사례를 직접 확인하고 다시 대화를 시작할 수 있는 또 하나의 콘텐츠 공간으로 만들고 싶었습니다.</p>
+	<p>AI 반도체·클라우드·로봇 등 8개의 체험 부스가 운영됐고, 마키나락스의 AI OS Runway가 실제로 AI를 개발·배포·운영하는 과정도 라이브 데모로 선보였습니다.</p>
+	<p>쉬는 시간이 되면 부스 앞에 사람들이 모였습니다. 발표를 듣다가 궁금한 것이 생긴 참석자들이 부스를 찾아와 질문을 이어가고, 세션을 마친 연사와 참석자가 로비에서 다시 이야기를 나누는 모습도 쉽게 볼 수 있었습니다.</p>
+	<p><strong>발표를 듣고 → 직접 보고 → 질문하고 → 다시 다른 세션으로 이동하는 것.</strong></p>
+	<p>우리가 올해 ATTENTION에서 만들고 싶었던 경험도 이런 모습에 가까웠습니다.</p>
+	<h2>ATTENTION도 조금씩 달라지고 있습니다</h2>
+	<p>ATTENTION을 처음 시작했을 때는 마키나락스가 경험한 산업 AI를 더 많은 사람에게 보여주는 것이 중요했습니다.</p>
+	<p>하지만 우리가 만나는 산업과 고객이 늘어나면서 ATTENTION의 무대도 함께 넓어졌습니다.</p>
+	<p>이제는 마키나락스의 기술만 이야기하지 않습니다. 실제 AI를 적용하고 있는 고객이 자신의 경험을 공유하고, 서로 다른 산업의 전문가들이 각자의 관점과 고민을 나눕니다.</p>
+	<p>행사가 커지면서 우리의 고민도 달라졌습니다.</p>
+	<p>예전에는 “어떻게 더 많은 사람에게 ATTENTION을 알릴까”가 큰 고민이었다면, 이제는 “이렇게 모인 사람들이 어떻게 더 많은 것을 얻어가고, 서로 더 많이 연결될 수 있게 할까”를 고민합니다.</p>
+	<p>올해도 인기 세션에 사람들이 몰리고, 트랙 사이 이동이 겹치면서 동선이 복잡해지는 순간이 있었습니다. 많은 사람들이 한자리에 모인 만큼 서로 충분히 이야기를 나눌 수 있는 시간과 공간도 더 필요했습니다.</p>
+	<p>그래서 다음 ATTENTION에서는 발표를 듣는 것뿐 아니라 비슷한 문제를 고민하는 사람을 만나고, 서로 다른 산업의 경험을 교환할 수 있는 경험을 더 잘 만들어보고 싶습니다.</p>
+	<p><strong>마키나락스가 산업 AI를 설명하는 자리에서, 산업에서 AI를 실제로 만들고 적용하는 사람들이 서로의 경험을 나누는 자리로.</strong></p>
+	<p>ATTENTION도 조금씩 달라지고 있습니다.</p>
+	<h2>놓친 이야기가 있다면</h2>
+	<p>현장에서 미처 듣지 못한 발표는 <strong>ATTENTION 2026 다시보기</strong>에서 만나보세요.</p>
+	<p><a href="https://www.makinarocks.ai/attention-2026/?utm_source=blog&amp;utm_medium=owned&amp;utm_campaign=202610-attention-sketch-blog">[WATCH — 다시보기 →]</a></p>
+	<h2>그리고 우리는 벌써 다음 ATTENTION을 이야기하고 있습니다</h2>
+	<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/attention-2026-a-1024x576.png" alt=""/></p>
+	<p>올해 9월 3일, 서로 다른 산업에서 온 사람들이 한 공간에 모여 각자의 AI 경험을 나눴습니다.</p>
+	<p>하루를 마치고 돌아보니 올해의 주제였던 ‘AI Has Landed’가 조금 다르게 보였습니다.</p>
+	<p>AI의 가능성을 설명하는 것보다, 실제 경험을 나누는 사람들이 많아진 하루였습니다. 그리고 ATTENTION도 그 변화와 함께 조금씩 달라지고 있습니다.</p>
+	<p>다음에는 더 많은 경험이 연결되고, 서로 다른 현장에서 AI를 만드는 사람들이 더 많이 만날 수 있도록.</p>
+	<p><strong>우리는 벌써 다음 ATTENTION을 준비하고 있습니다.</strong></p>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>대한민국 최초로 전장망에서 AI가 실제로 작동하게 만드는 일 — KJCCS 현장에서 FDE로 일한다는 것</title>
@@ -834,65 +857,69 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/kjccs-%ec%a0%84%ec%9e%a5%eb%a7%9d-ai/</guid>
 			<category>Blog</category>
 			<pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Thumbnail.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Thumbnail.png" alt=""/>
-
-</div>
-</div><div>
-
-<p>안녕하세요. 저는 마키나락스의 FDE(Forward Deployed Engineer, 전방 배치 엔지니어) 김태민입니다.</p>
-<p>저는 최근 합동참모본부의 <strong>‘생성형 AI 적용 KJCCS 정보 검색 및 운영 기술 실증’</strong> 프로젝트에 참여했습니다. 이번 프로젝트는 <strong>KJCCS 전장망 AI</strong> 적용 사례로, 마키나락스는 AI OS Runway 기반으로 전장망에 AI 개발·운영 환경을 구축했고, 2026 을지 자유의 방패(UFS) 연습에서 실제 군 운용 환경을 대상으로 활용 가능성을 검증했습니다.</p>
-<p>프로젝트 전체 내용은 <strong><a href="https://www.makinarocks.ai/news/ufs_8458/?utm_source=blog&amp;utm_medium=referral">마키나락스 공식 보도자료</a></strong>에서 확인하실 수 있습니다.</p>
-<p>이 글에서는 프로젝트 전체보다, 제가 현장에서 기존 시스템과 AI 서비스를 연결하면서 실제로 부딪혔던 문제들을 이야기해보려고 합니다.</p>
-<h2>폐쇄망 AI, 들어가 보기 전에는 알 수 없었던 것들</h2>
-<p>이번 프로젝트에서 제가 맡은 일은 KJCCS 안의 문서와 기존 시스템을 AI 서비스에 연결해 실제 전장망에서 사용할 수 있게 만드는 것이었습니다.</p>
-<p>개발 환경에서는 Runway 위에 챗봇 서비스를 배포하는 데까지는 확인할 수 있었습니다. 하지만 실제 전장망의 데이터와 문서 환경은 밖에서 그대로 재현할 수 없었습니다.</p>
-<p>현장에서는 외부 인터넷에 접속할 수 없었고, 새로운 패키지나 라이브러리를 가져오는 데도 제약이 있었습니다. 프로그램을 수정해 다시 반입하는 일도 바로 할 수 있는 일이 아니었습니다. 이런 폐쇄망 AI 환경의 제약은 공공·국방 환경에서 AI를 구축할 때 반복해서 마주치는 문제이기도 합니다.</p>
-<p>결국 현장에 들어가고 나서야 알게 되는 조건들이 있었습니다. DB는 어떻게 연결돼 있는지, 파일은 어떤 경로로 들어오는지, 전달받은 규칙이 실제 데이터에서도 그대로 맞는지 하나씩 확인해야 했습니다.</p>
-<p>기존에는 사용자가 자료실에서 필요한 문서를 직접 찾아야 했습니다. 우리가 만들려던 서비스는 이 자료를 인덱싱해, 자연어로 질문하면 관련 문서를 찾고 답변과 출처를 함께 보여주는 방식이었습니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Blog-Diagrams-selection-1024x547.png" alt="전장망의 기존 문서 시스템과 분류 정보가 수집·인덱싱을 거쳐 챗봇 검색으로 이어지는 개념 구조"/><p>전장망의 기존 문서 시스템과 분류 정보가 수집·인덱싱을 거쳐 챗봇 검색으로 이어지는 개념 구조</p></div>
-<p>그림으로 그려 놓으면 단순합니다. 문제는 저 화살표 사이였습니다.</p>
-<h2>폐쇄망에서 직접 접근할 수 없는 시스템을 연결하는 일</h2>
-<p>현장에서는 엔지니어가 작업하는 단말에서 고객 시스템에 바로 접근할 수 없었습니다. 접근할 수 있는 영역과 권한이 제한돼 있었고, 고객 시스템 자체를 우리가 임의로 수정할 수도 없었습니다.</p>
-<p>필요한 DB와 서버는 별도의 조회 권한을 받아 확인했고, 일부 연동은 Runway가 설치된 서버를 경유해 접근했습니다. 우리가 만든 서비스의 로그와 실행 상태는 직접 볼 수 있었지만, 고객 시스템 쪽에서 문제가 생기면 담당자와 함께 확인해야 했습니다.</p>
-<p>평소 개발하던 방식과는 문제를 찾는 순서부터 달랐습니다. 코드를 바로 열어보는 대신, 먼저 어디까지 접근할 수 있는지와 어느 구간까지 정상인지부터 확인해야 했습니다.</p>
-<h2>계정은 정상인데, DB에는 들어갈 수 없었다</h2>
-<p>문서 정보와 카테고리를 가져오기 위해 RDBMS를 연결해야 했습니다.</p>
-<p>SDK가 있었기 때문에 처음에는 어렵지 않을 거라고 생각했습니다. 하지만 실제 Linux 환경에서는 별도의 접속 설정 파일과 환경변수가 필요했고, Python과 드라이버 사이의 문자 인코딩도 맞춰야 했습니다.</p>
-<p>드라이버가 올라오는지, 접속 정보는 제대로 읽히는지, DB 서버까지 통신이 되는지 하나씩 확인했습니다. 그래도 인증은 계속 실패했습니다.</p>
-<p>계정은 정상이었습니다. 연결 문자열에서 비밀번호를 감싸고 있던 중괄호 <code>{ }</code>를 현장 드라이버가 비밀번호의 일부로 해석하고 있었습니다. 전달 형식을 바꾸자 접속이 됐습니다.</p>
-<p>인증 실패라는 메시지만 보고 계정만 계속 확인했다면 꽤 오래 헤맸을 문제였습니다.</p>
-<h2>비밀번호를 입력하기도 전에 SSH가 끊겼다</h2>
-<p>파일 서버 연동에서도 비슷한 일이 있었습니다.</p>
-<p>SSH로 원본 파일을 가져와야 했는데 비밀번호를 검증하기도 전에 연결이 끊겼습니다. 원인은 현장 서버의 구형 호스트키 알고리즘과 최신 클라이언트의 기본 허용 범위가 맞지 않았기 때문이었습니다. 인증 단계에 들어가기도 전에 통신 협상에서 실패하고 있었습니다.</p>
-<p>현장 서버가 지원하는 조건에 맞게 클라이언트 설정을 조정한 뒤, 개발 환경에도 같은 조건의 구형 SSH 서버를 구성해 오류를 재현했습니다. 수정 후에는 접속 여부만 확인하지 않고 실제 파일 전송과 배치 동기화까지 다시 실행했습니다.</p>
-<p>접속이 됐다고 끝낼 수는 없었습니다. 실제 파일을 가져와 다음 처리 단계까지 넘겨본 뒤에야 이 연동을 마무리할 수 있었습니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Blog-Diagrams-selection1-1024x557.png" alt="현장에서 확인한 증상에서 원인을 좁히고, 대응 후 실제 동작까지 검증한 세 가지 연동 사례"/><p>현장에서 확인한 증상에서 원인을 좁히고, 대응 후 실제 동작까지 검증한 세 가지 연동 사례</p></div>
-<p>사용자 계정 연동에서도 비슷했습니다. 전달받은 비밀번호 검증 규칙대로 구현했지만 실제 저장값과 맞지 않았고, 테스트 계정의 계산값과 원천 저장값을 비교해 입력 조합과 인코딩 방식을 다시 맞췄습니다.</p>
-<p>DB, SSH, 계정 연동 모두 결국은 실제 값과 실행 결과를 직접 확인하면서 풀었습니다.</p>
-<h2>그래서 현장에서 바로 확인할 수 있는 도구를 만들었다</h2>
-<p>몇 번 이런 일을 겪고 나니, 현장에서는 “안 된다”는 것보다 <strong>어디까지 되고 어디서부터 안 되는지 바로 볼 수 있는 것</strong>이 더 중요했습니다.</p>
-<p>이번 프로젝트는 미리 알 수 없는 정보가 많았습니다. DB의 테이블명과 컬럼명도 직접 확인해야 했고, 문서가 들어오는 경로와 인덱싱 방식도 하나가 아니었습니다. 그런데 조건이 하나 달라질 때마다 밖에서 코드를 수정해 다시 반입할 수는 없었습니다.</p>
-<p>그래서 <strong>i4e(indexer4engineer)</strong>를 만들었습니다.</p>
-<p>DB 연결 상태와 가져온 데이터를 보고, 파일을 탐색하고, 수동 인덱싱이나 동기화 배치를 직접 실행할 수 있는 도구입니다. 현장에서 설정을 바꾼 뒤 바로 다시 돌려볼 수 있게 했습니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/03-1024x538.png" alt="FDE 현장 운영 도구 i4e 문제 확인 설정 조정 재검증 흐름"/><p>i4e를 통해 현장 조건을 확인하고 원인의 범위를 좁힌 뒤, 설정을 조정하고 다시 검증하는 흐름</p></div>
-<p>i4e가 있으니 새 조건이 나왔을 때 그 자리에서 확인하고, 원인을 좁히고, 설정을 바꾼 뒤 다시 실행해볼 수 있었습니다.</p>
-<p>해결한 내용은 history 폴더에도 남겼습니다. 같은 문제를 다음 프로젝트에서 또 처음부터 찾지 않기 위해서였습니다. 현장에서 한 번 알아낸 것을 개인의 기억으로만 남기지 않고, 다음 작업에서 다시 쓸 수 있게 해두는 것도 중요했습니다.</p>
-<h2>실제 훈련보다 더 긴장됐던 건 그 전이었다</h2>
-<p>연동을 마친 뒤에는 10GB가 넘는 실제 자료를 인덱싱했습니다. 그때부터 개발 환경에서는 보지 못했던 것들이 나오기 시작했습니다. DRM이 적용된 문서도 있었고, 지원 범위를 벗어난 확장자도 섞여 있었습니다. 처리 가능한 문서와 실패한 문서를 나누고, 원천 데이터 조회부터 파일 수집과 인덱싱까지 다시 확인했습니다.</p>
-<p>실제로 가장 긴장됐던 때는 UFS가 시작된 뒤보다 직전이었습니다. 챗봇은 벡터 DB에 문서가 제대로 들어가 있으면 동작하지만, 그 상태를 만들려면 여러 배치 작업이 중간에 끊기지 않고 돌아가야 했습니다. 훈련 전에 이 흐름을 안정화하는 일이 중요했습니다.</p>
-<p>훈련이 시작된 뒤에도 현장에 함께 있었습니다. 서비스 상태와 인덱싱을 보고, 사용자 문의와 검색 결과를 확인하면서 필요한 설정을 조정했습니다. 결국 배포가 끝났다는 것보다, 실제 사용자가 쓸 수 있는 상태인지 확인하는 게 더 중요했습니다.</p>
-<h2>다음 현장에서는 무엇을 먼저 볼 것인가</h2>
-<p>이번 프로젝트를 끝내고 나니, 다음 폐쇄망 프로젝트에 들어가면 무엇부터 확인해야 할지가 전보다 훨씬 분명해졌습니다.</p>
-<p>DB와 파일 서버의 접속 조건, 접근 권한, 실제 데이터의 형태처럼 밖에서는 알기 어려웠던 것들입니다.</p>
-<p>이번에 확인한 내용과 해결 방법은 기록과 도구로 남겼습니다. 다음에는 같은 문제를 처음부터 다시 풀지 않기 위해서입니다.</p>
-<p>한 현장에서 알아낸 것을 다음 현장에 가져갈 수 있게 만드는 것까지가, 제가 이번 프로젝트에서 배운 <strong>FDE의 역할</strong> 중 하나였습니다.</p>
-<p>KJCCS 프로젝트에서도 DB나 파일 서버를 연결하는 것 자체가 목표는 아니었습니다. 전장망에 있던 자료가 AI 서비스에서 검색되고, 실제 UFS 훈련에서 사용자가 활용하는 데까지 가는 것이 목표였습니다.</p>
-<p>현장에서 실제 조건을 확인하고, 맞지 않는 부분을 하나씩 연결하고, 마지막에는 사용자가 실제로 쓸 수 있는 상태까지 만드는 것. 제가 이번 프로젝트에서 경험한 FDE의 일은 그런 일이었습니다.</p>
-<p>향후 확장성을 기대하기 위해서는 방대한 비문에 대한 처리가 실시간으로 권한에 맞춰 이루어져야 합니다. 현재 기능실별 데이터 적재를 설계에 반영하여 적재하고 있어서 내년 훈련에서는 보다 광범위한 서비스를 제공할 수 있을 것으로 기대하고 있습니다.</p>
-
+	<div>안녕하세요. 저는 마키나락스의 FDE(Forward Deployed Engineer, 전방 배치 엔지니어) 김태민입니다.</div>
+	<div>저는 최근 합동참모본부의 <strong>‘생성형 AI 적용 KJCCS 정보 검색 및 운영 기술 실증’</strong> 프로젝트에 참여했습니다. 이번 프로젝트는 <strong>KJCCS 전장망 AI</strong> 적용 사례로, 마키나락스는 AI OS Runway 기반으로 전장망에 AI 개발·운영 환경을 구축했고, 2026 을지 자유의 방패(UFS) 연습에서 실제 군 운용 환경을 대상으로 활용 가능성을 검증했습니다.</div>
+	<div>프로젝트 전체 내용은 <strong><a href="https://www.makinarocks.ai/news/ufs_8458/?utm_source=blog&amp;utm_medium=referral">마키나락스 공식 보도자료</a></strong>에서 확인하실 수 있습니다.</div>
+	<div>이 글에서는 프로젝트 전체보다, 제가 현장에서 기존 시스템과 AI 서비스를 연결하면서 실제로 부딪혔던 문제들을 이야기해보려고 합니다.</div>
+	<h2>폐쇄망 AI, 들어가 보기 전에는 알 수 없었던 것들</h2>
+	<div>이번 프로젝트에서 제가 맡은 일은 KJCCS 안의 문서와 기존 시스템을 AI 서비스에 연결해 실제 전장망에서 사용할 수 있게 만드는 것이었습니다.</div>
+	<div>개발 환경에서는 Runway 위에 챗봇 서비스를 배포하는 데까지는 확인할 수 있었습니다. 하지만 실제 전장망의 데이터와 문서 환경은 밖에서 그대로 재현할 수 없었습니다.</div>
+	<div>현장에서는 외부 인터넷에 접속할 수 없었고, 새로운 패키지나 라이브러리를 가져오는 데도 제약이 있었습니다. 프로그램을 수정해 다시 반입하는 일도 바로 할 수 있는 일이 아니었습니다. 이런 폐쇄망 AI 환경의 제약은 공공·국방 환경에서 AI를 구축할 때 반복해서 마주치는 문제이기도 합니다.</div>
+	<div>결국 현장에 들어가고 나서야 알게 되는 조건들이 있었습니다. DB는 어떻게 연결돼 있는지, 파일은 어떤 경로로 들어오는지, 전달받은 규칙이 실제 데이터에서도 그대로 맞는지 하나씩 확인해야 했습니다.</div>
+	<div>기존에는 사용자가 자료실에서 필요한 문서를 직접 찾아야 했습니다. 우리가 만들려던 서비스는 이 자료를 인덱싱해, 자연어로 질문하면 관련 문서를 찾고 답변과 출처를 함께 보여주는 방식이었습니다.</div>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Blog-Diagrams-selection-1024x547.png" alt="전장망의 기존 문서 시스템과 분류 정보가 수집·인덱싱을 거쳐 챗봇 검색으로 이어지는 개념 구조"/>
+		<div>전장망의 기존 문서 시스템과 분류 정보가 수집·인덱싱을 거쳐 챗봇 검색으로 이어지는 개념 구조</div>
+	</div>
+	<div>그림으로 그려 놓으면 단순합니다. 문제는 저 화살표 사이였습니다.</div>
+	<h2>폐쇄망에서 직접 접근할 수 없는 시스템을 연결하는 일</h2>
+	<div>현장에서는 엔지니어가 작업하는 단말에서 고객 시스템에 바로 접근할 수 없었습니다. 접근할 수 있는 영역과 권한이 제한돼 있었고, 고객 시스템 자체를 우리가 임의로 수정할 수도 없었습니다.</div>
+	<div>필요한 DB와 서버는 별도의 조회 권한을 받아 확인했고, 일부 연동은 Runway가 설치된 서버를 경유해 접근했습니다. 우리가 만든 서비스의 로그와 실행 상태는 직접 볼 수 있었지만, 고객 시스템 쪽에서 문제가 생기면 담당자와 함께 확인해야 했습니다.</div>
+	<div>평소 개발하던 방식과는 문제를 찾는 순서부터 달랐습니다. 코드를 바로 열어보는 대신, 먼저 어디까지 접근할 수 있는지와 어느 구간까지 정상인지부터 확인해야 했습니다.</div>
+	<h2>계정은 정상인데, DB에는 들어갈 수 없었다</h2>
+	<div>문서 정보와 카테고리를 가져오기 위해 RDBMS를 연결해야 했습니다.</div>
+	<div>SDK가 있었기 때문에 처음에는 어렵지 않을 거라고 생각했습니다. 하지만 실제 Linux 환경에서는 별도의 접속 설정 파일과 환경변수가 필요했고, Python과 드라이버 사이의 문자 인코딩도 맞춰야 했습니다.</div>
+	<div>드라이버가 올라오는지, 접속 정보는 제대로 읽히는지, DB 서버까지 통신이 되는지 하나씩 확인했습니다. 그래도 인증은 계속 실패했습니다.</div>
+	<div>계정은 정상이었습니다. 연결 문자열에서 비밀번호를 감싸고 있던 중괄호 <code>{ }</code>를 현장 드라이버가 비밀번호의 일부로 해석하고 있었습니다. 전달 형식을 바꾸자 접속이 됐습니다.</div>
+	<div>인증 실패라는 메시지만 보고 계정만 계속 확인했다면 꽤 오래 헤맸을 문제였습니다.</div>
+	<h2>비밀번호를 입력하기도 전에 SSH가 끊겼다</h2>
+	<div>파일 서버 연동에서도 비슷한 일이 있었습니다.</div>
+	<div>SSH로 원본 파일을 가져와야 했는데 비밀번호를 검증하기도 전에 연결이 끊겼습니다. 원인은 현장 서버의 구형 호스트키 알고리즘과 최신 클라이언트의 기본 허용 범위가 맞지 않았기 때문이었습니다. 인증 단계에 들어가기도 전에 통신 협상에서 실패하고 있었습니다.</div>
+	<div>현장 서버가 지원하는 조건에 맞게 클라이언트 설정을 조정한 뒤, 개발 환경에도 같은 조건의 구형 SSH 서버를 구성해 오류를 재현했습니다. 수정 후에는 접속 여부만 확인하지 않고 실제 파일 전송과 배치 동기화까지 다시 실행했습니다.</div>
+	<div>접속이 됐다고 끝낼 수는 없었습니다. 실제 파일을 가져와 다음 처리 단계까지 넘겨본 뒤에야 이 연동을 마무리할 수 있었습니다.</div>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/Blog-Diagrams-selection1-1024x557.png" alt="현장에서 확인한 증상에서 원인을 좁히고, 대응 후 실제 동작까지 검증한 세 가지 연동 사례"/>
+		<div>현장에서 확인한 증상에서 원인을 좁히고, 대응 후 실제 동작까지 검증한 세 가지 연동 사례</div>
+	</div>
+	<div>사용자 계정 연동에서도 비슷했습니다. 전달받은 비밀번호 검증 규칙대로 구현했지만 실제 저장값과 맞지 않았고, 테스트 계정의 계산값과 원천 저장값을 비교해 입력 조합과 인코딩 방식을 다시 맞췄습니다.</div>
+	<div>DB, SSH, 계정 연동 모두 결국은 실제 값과 실행 결과를 직접 확인하면서 풀었습니다.</div>
+	<h2>그래서 현장에서 바로 확인할 수 있는 도구를 만들었다</h2>
+	<div>몇 번 이런 일을 겪고 나니, 현장에서는 “안 된다”는 것보다 <strong>어디까지 되고 어디서부터 안 되는지 바로 볼 수 있는 것</strong>이 더 중요했습니다.</div>
+	<div>이번 프로젝트는 미리 알 수 없는 정보가 많았습니다. DB의 테이블명과 컬럼명도 직접 확인해야 했고, 문서가 들어오는 경로와 인덱싱 방식도 하나가 아니었습니다. 그런데 조건이 하나 달라질 때마다 밖에서 코드를 수정해 다시 반입할 수는 없었습니다.</div>
+	<div>그래서 <strong>i4e(indexer4engineer)</strong>를 만들었습니다.</div>
+	<div>DB 연결 상태와 가져온 데이터를 보고, 파일을 탐색하고, 수동 인덱싱이나 동기화 배치를 직접 실행할 수 있는 도구입니다. 현장에서 설정을 바꾼 뒤 바로 다시 돌려볼 수 있게 했습니다.</div>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/10/03-1024x538.png" alt="FDE 현장 운영 도구 i4e 문제 확인 설정 조정 재검증 흐름"/>
+		<div>i4e를 통해 현장 조건을 확인하고 원인의 범위를 좁힌 뒤, 설정을 조정하고 다시 검증하는 흐름</div>
+	</div>
+	<div>i4e가 있으니 새 조건이 나왔을 때 그 자리에서 확인하고, 원인을 좁히고, 설정을 바꾼 뒤 다시 실행해볼 수 있었습니다.</div>
+	<div>해결한 내용은 history 폴더에도 남겼습니다. 같은 문제를 다음 프로젝트에서 또 처음부터 찾지 않기 위해서였습니다. 현장에서 한 번 알아낸 것을 개인의 기억으로만 남기지 않고, 다음 작업에서 다시 쓸 수 있게 해두는 것도 중요했습니다.</div>
+	<h2>실제 훈련보다 더 긴장됐던 건 그 전이었다</h2>
+	<div>연동을 마친 뒤에는 10GB가 넘는 실제 자료를 인덱싱했습니다. 그때부터 개발 환경에서는 보지 못했던 것들이 나오기 시작했습니다. DRM이 적용된 문서도 있었고, 지원 범위를 벗어난 확장자도 섞여 있었습니다. 처리 가능한 문서와 실패한 문서를 나누고, 원천 데이터 조회부터 파일 수집과 인덱싱까지 다시 확인했습니다.</div>
+	<div>실제로 가장 긴장됐던 때는 UFS가 시작된 뒤보다 직전이었습니다. 챗봇은 벡터 DB에 문서가 제대로 들어가 있으면 동작하지만, 그 상태를 만들려면 여러 배치 작업이 중간에 끊기지 않고 돌아가야 했습니다. 훈련 전에 이 흐름을 안정화하는 일이 중요했습니다.</div>
+	<div>훈련이 시작된 뒤에도 현장에 함께 있었습니다. 서비스 상태와 인덱싱을 보고, 사용자 문의와 검색 결과를 확인하면서 필요한 설정을 조정했습니다. 결국 배포가 끝났다는 것보다, 실제 사용자가 쓸 수 있는 상태인지 확인하는 게 더 중요했습니다.</div>
+	<h2>다음 현장에서는 무엇을 먼저 볼 것인가</h2>
+	<div>이번 프로젝트를 끝내고 나니, 다음 폐쇄망 프로젝트에 들어가면 무엇부터 확인해야 할지가 전보다 훨씬 분명해졌습니다.</div>
+	<div>DB와 파일 서버의 접속 조건, 접근 권한, 실제 데이터의 형태처럼 밖에서는 알기 어려웠던 것들입니다.</div>
+	<div>이번에 확인한 내용과 해결 방법은 기록과 도구로 남겼습니다. 다음에는 같은 문제를 처음부터 다시 풀지 않기 위해서입니다.</div>
+	<div>한 현장에서 알아낸 것을 다음 현장에 가져갈 수 있게 만드는 것까지가, 제가 이번 프로젝트에서 배운 <strong>FDE의 역할</strong> 중 하나였습니다.</div>
+	<div>KJCCS 프로젝트에서도 DB나 파일 서버를 연결하는 것 자체가 목표는 아니었습니다. 전장망에 있던 자료가 AI 서비스에서 검색되고, 실제 UFS 훈련에서 사용자가 활용하는 데까지 가는 것이 목표였습니다.</div>
+	<div>현장에서 실제 조건을 확인하고, 맞지 않는 부분을 하나씩 연결하고, 마지막에는 사용자가 실제로 쓸 수 있는 상태까지 만드는 것. 제가 이번 프로젝트에서 경험한 FDE의 일은 그런 일이었습니다.</div>
+	<div>향후 확장성을 기대하기 위해서는 방대한 비문에 대한 처리가 실시간으로 권한에 맞춰 이루어져야 합니다. 현재 기능실별 데이터 적재를 설계에 반영하여 적재하고 있어서 내년 훈련에서는 보다 광범위한 서비스를 제공할 수 있을 것으로 기대하고 있습니다.</div>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>비개발자의 AI 앱 배포 후기: 코딩 어시스턴트와 마키나락스 Runway</title>
@@ -900,150 +927,151 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/runway-code-assistant-ai-app-deployment/</guid>
 			<category>Blog</category>
 			<pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-AI-%EC%95%B1-%EB%B0%B0%ED%8F%AC%EA%B8%B0_-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EA%B3%BC-Runway.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EB%B9%84%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-AI-%EC%95%B1-%EB%B0%B0%ED%8F%AC%EA%B8%B0_-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EA%B3%BC-Runway.png" alt=""/>
-
-</div>
-</div><div>
-<p><em><strong>Prologue</strong></em></p>
-<div>
-<div>
-<div>
-<div>
-<blockquote>
-<p><em>풍속과 풍향을 넣자 발전량 예측값이 떴습니다. 그 아래에는 입력 조건을 정리한 LLM 코멘트가 붙었습니다. 값을 바꾸면 결과도 바뀌었습니다. 고객에게 보여주고 싶었던 AI 활용 장면이 제 앞에서 실제로 돌아가고 있었습니다.</em></p>
-</blockquote>
-<div><video><source><a href="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EB%B9%84%EB%94%94%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-3.mp4">/wp-content/uploads/2026/09/비디오-프로젝트-3.mp4</a></video></div>
-<p>저는 마키나락스 AI플랫폼사업팀에서 Runway 사업개발을 담당하는 이승준입니다. 고객의 업무와 과제를 듣고, Runway로 어떤 AI 시스템을 구현할 수 있을지 함께 구체화하는 일을 합니다.</p>
-<p>개발은 해본 적이 없습니다. 그런 제가 이번에 풍력 발전량 예측 대시보드를 만들어 배포했습니다. <strong>Runway 튜토리얼로 학습하고 배포한 모델에 화면과 LLM을 붙여, 누구든 URL로 들어와 쓸 수 있는 형태까지 올렸습니다.</strong></p>
-<p>제가 한 일은 세 가지입니다. 모델을 학습해 배포하는 것, 그 모델과 LLM을 앱에 연결하는 것, 앱을 접속 가능한 서비스로 배포하는 것. 코딩 어시스턴트로 만든 화면은 그중 하나였습니다.</p>
-<p>Runway는 AI 개발부터 배포와 운영까지 하나로 묶은 마키나락스의 기업용 AI 플랫폼, AI 운영체제(AI OS)입니다. 이번 작업에서 Runway가 무엇을 대신해 줬는지 적어봤습니다.</p>
-</div>
-</div>
-<div>
-<div>
-<h2>“그래서 Runway로 무엇을 만들 수 있나요?”</h2>
-<p>Runway를 설명하면 고객은 대체로 고개를 끄덕입니다. 그리고 꼭 이 질문이 돌아옵니다. “그래서 Runway 위에서 저희가 실제로 무엇을 만들 수 있는 건가요?”</p>
-<p>실험 관리와 모델 배포를 아무리 설명해도, 그 결과가 현업의 화면에 닿는 장면은 잘 그려지지 않습니다. 기능 목록과 업무 사이에 빈칸이 있는 셈입니다.</p>
-<p>그 빈칸을 메우려고 고른 것이 풍력 발전량 예측 대시보드입니다. 예측을 담당하는 ML과 결과를 설명하는 LLM이 현업의 화면에서 어떻게 맞물려 시너지를 내는지 가장 직관적으로 보여줄 수 있는 유즈케이스이기 때문입니다. 풍속·풍향·온도 같은 센서값을 넣으면 학습된 모델이 발전 출력을 예측하고, LLM이 입력 조건과 예측값을 문장으로 정리해 줍니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-2.-%EC%98%88%EC%B8%A1%EA%B0%92%EA%B3%BC-%ED%95%A8%EA%BB%98-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-LLM-%EC%BD%94%EB%A9%98%ED%8A%B8.-%ED%92%8D%EC%86%8D%C2%B7%ED%92%8D%ED%96%A5%C2%B7%ED%94%BC%EC%B9%98%EA%B0%81-%EA%B0%99%EC%9D%80-%EC%9E%85%EB%A0%A5-%EC%A1%B0%EA%B1%B4%EC%9D%84-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%B4-%EC%A4%8D%EB%8B%88%EB%8B%A4.png" alt="이미지 2. 예측값과 함께 표시되는 LLM 코멘트. 풍속·풍향·피치각 같은 입력 조건을 문장으로 정리해 줍니다."/><p>이미지 2. 예측값과 함께 표시되는 LLM 코멘트. 풍속·풍향·피치각 같은 입력 조건을 문장으로 정리해 줍니다.</p></div>
-<h2>Runway에서 모델을 학습시키고, 호출 가능한 서비스로 배포했습니다</h2>
-<p>출발점은 Runway 튜토리얼입니다. 튜토리얼에 따라 예제 데이터로 발전량 예측 모델을 학습하고 실험 결과를 확인한 뒤, 새 입력에 대한 예측을 받을 수 있도록 배포했습니다. 학습된 모델을 띄워 요청을 받고 결과를 돌려주는 이 단계를 <strong>모델 서빙(Model Serving)</strong>이라고 합니다. 대시보드는 모델을 호출하는 API 주소, 즉 <strong>추론 엔드포인트</strong>로 입력을 보내고 예측값을 받아 표시합니다.</p>
-<p>튜토리얼을 따라간 것이지만, 이 구간에서 플랫폼이 대신해 준 일이 많습니다. 어떤 데이터를 어떤 설정으로 학습했고 결과가 어땠는지가 실험 기록으로 남습니다. 배포할 모델을 고르면 추론 요청을 받는 서버가 함께 떴습니다. 모델에 맞는 서빙 런타임도 화면에서 고르면 됐습니다.</p>
-<p>앱이 모델을 호출하는 경로와, 서빙 환경이 저장소에서 모델 파일을 읽는 경로는 다릅니다. 파일을 읽고 추론하는 일은 서빙 환경이 맡고, 대시보드는 추론 결과만 받아다 씁니다.</p>
-<p>예측은 이렇게 준비가 됐습니다. 이제 남은 건 화면과 LLM입니다.</p>
-<h2>코딩 어시스턴트로 입력부터 결과까지 흐름을 만들었습니다</h2>
-<p>화면과 연결 로직은 코딩 어시스턴트로 만들었습니다. 원하는 기능을 자연어로 설명하고, 나온 코드를 실행해 보고, 결과를 확인해 다시 요청하는 식입니다.</p>
-<p>처음 정리한 건 네 가지였습니다.</p>
-<ul>
-<li>사용자가 어떤 센서값을 입력하는가</li>
-<li>예측 모델에 어떤 형식으로 값을 넘기는가</li>
-<li>받은 예측값을 화면에 어떻게 보여주는가</li>
-<li>LLM에 무엇을 전달해 코멘트를 만들게 하는가</li>
-</ul>
-<p>화면을 보면서 입력 항목과 배치를 바꿨고, 예측값 아래에 설명을 넣어 달라고 요청했습니다. 기준은 하나였습니다. 고객이 이 화면을 처음 봤을 때 무엇을 입력해야 하는지 바로 알 수 있는가.</p>
-<p>역할은 분명히 나눴습니다. <strong>발전 출력 예측은 학습된 ML 모델이 하고, LLM은 전달받은 입력 조건과 예측값을 읽기 쉬운 문장으로 정리</strong>합니다. LLM 코멘트는 결과를 읽는 데 도움을 주는 보조 설명이지 예측 모델의 판단을 보여주거나 예측이 맞았음을 증명하지는 않습니다.</p>
-<p>원하는 흐름을 자세히 설명할수록 고칠 곳도 분명해졌습니다. 물론 코드가 의도대로 도는지는 매번 실행해 봐야 했습니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-3.-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9D%84-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B3%A0-%ED%99%94%EB%A9%B4%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95.png" alt="이미지 3. 바이브 코딩으로 요구사항을 전달하고 화면을 구현하는 과정."/><p>이미지 3. 코딩 어시스턴트로 요구사항을 전달하고 화면을 구현하는 과정.</p></div>
-<h2>예측을 설명하는 LLM도 Runway 안에서 배포했습니다</h2>
-<p>이 대시보드에는 모델이 두 개가 필요했습니다. 발전량을 계산하는 예측 모델, 그리고 결과를 문장으로 정리하는 LLM입니다. 예측 모델은 튜토리얼로 해결했지만 LLM은 따로 마련해야 했습니다.</p>
-<p>외부 LLM API를 쓰지 않고, Runway 안에서 LiteLLM을 활용했습니다. 모델 서빙에서 텍스트 생성용 런타임을 골라 배포하면, 예측 모델과 똑같이 호출 가능한 엔드포인트가 생깁니다. 여러 모델을 한 창구로 부르는 게이트웨이도 함께 있어서, 뒤쪽 모델이 바뀌어도 앱에서 같은 방식으로 요청하면 됐습니다.</p>
-<p>이 점이 저에게는 컸습니다. 외부 API 키를 발급받고 결제 수단을 등록하고 데이터 반출 검토를 거치는 절차 없이, 예측 모델과 LLM을 같은 프로젝트 안에 두고 같은 방식으로 호출했습니다.</p>
-<h2>코딩 어시스턴트가 Runway 위에서 잘 된 이유</h2>
-<p>코딩 어시스턴트 작업을 할 때 의외였던 건 “Runway에 배포할 수 있는 형태로 만들어 달라”고 했을 때, 대체로 잘 알아듣더라는 것입니다.</p>
-<p>Runway가 자체 규격으로 만든 제품이 아니기 때문입니다. 컨테이너 이미지, Helm 차트, REST API 엔드포인트, Kubernetes 자원처럼 이미 표준이 된 방식 위에 얹혀 있고, Gitea·MLflow·Airflow·Keycloak 같은 구성 요소도 업계가 흔히 쓰는 오픈소스입니다.</p>
-<p>코딩 어시스턴트가 그 표준을 이미 알고 있습니다. 그래서 Runway에 맞추려고 따로 가르칠 게 별로 없었습니다. 사내에서만 통하는 규격이었다면 저는 규격 설명부터 해야 했을 텐데, 아마 거기서 멈추었을 겁니다.</p>
-<h2>코딩 어시스턴트로 만든 AI서비스를 Runway에 배포한 이유</h2>
-<p>이유는 단순합니다. <strong>이미 Runway에서 학습·배포한 모델을 그대로 쓰면서, 새로 만든 앱의 배포와 실행 자원까지 같은 플랫폼에서 관리할 수 있었기 때문</strong>입니다.</p>
-<p>화면에 예측값이 뜨려면 여러 연결이 맞아야 합니다. 앱은 모델의 입력 형식에 맞춰 요청을 보내고, 응답을 받아 표시하고, LLM 호출 정보도 지정해야 합니다. 여기에 앱을 실행할 환경과 접속 경로가 더해집니다.</p>
-<p>저는 앱 코드와 의존성을 컨테이너 이미지로 묶어 저장소에 올렸습니다. Runway에서는 그 이미지로 프로젝트 애플리케이션을 배포하면서 CPU·메모리와 접속 정보를 설정했고, 예측 모델의 추론 엔드포인트와 LLM 호출 정보를 앱에 연결했습니다.</p>
-<p>여기서 짚어둘 것이 하나 있습니다. 컨테이너 이미지는 어딘가 올려두어야 Runway가 가져다 실행합니다. 그 저장소가 Runway 안에 이미 있었습니다. 이미지 레지스트리라고 부르는 공간입니다.</p>
-<p>개발자에게는 당연한 이야기겠지만, 저에게는 여기가 관문이었습니다. 사내에 저장소가 없으면 외부 레지스트리 계정을 만들거나 인프라팀에 요청해야 하고, 인터넷이 끊긴 환경이면 그마저 어렵습니다. 프로젝트를 만들면 저장소가 딸려 온다는 건, 처음 앱을 배포해보는 사람에게 출발선을 몇 걸음 앞으로 당겨주는 일입니다.</p>
-<p>완성된 앱의 최종적인 흐름은 다음과 같습니다.</p>
-<table>
-<tbody>
-<tr>
-<td><strong> 센서값 입력 → 예측 모델 호출 → 예측값 수신 → 입력 조건·예측값을 LLM에 전달 → 예측값과 코멘트 표시 </strong></td>
-</tr>
-</tbody>
-</table>
-<p>Runway는 JupyterLab·Code Server 같은 개발 환경을 제공하고, 직접 개발한 앱도 배포 형식만 맞추면 모델·앱 운영 환경에 붙일 수 있습니다.</p>
-<p>앱을 만들 때마다 모델 실행 환경을 새로 마련하지 않아도 된다는 저에게 도움이 됐습니다. 준비된 예측 모델을 그대로 쓰면서, 입력과 결과를 어떻게 이어 붙일지에만 집중했습니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-4.-Runway%EC%97%90%EC%84%9C-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B3%A0-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%99%94%EB%A9%B4-1024x505.png" alt="이미지 4. Runway에서 예측 모델과 애플리케이션을 연결하고 배포하는 화면."/><p>이미지 4. Runway에서 예측 모델과 애플리케이션을 연결하고 배포하는 화면.</p></div>
-
-<h2>첫 배포는 모델 경로에서 막혔습니다</h2>
-<p>사실 첫 배포부터 예측이 정상적으로 실행된 것은 아닙니다. 모델 파일은 분명히 있는데, 예측을 실행하는 환경이 그 파일을 찾지 못했습니다. 저장된 위치와 실행 환경이 바라보는 경로가 어긋나 있었습니다.</p>
-<p>오류 메시지와 설정을 그대로 전달해 확인할 항목을 좁혔고, 동료의 도움도 받아 설정을 고쳤습니다. 다시 배포한 뒤 예측 요청에 응답이 오는지 확인했습니다.</p>
-<p>먼저 할 일은 문제가 생긴 지점을 발라내는 것이었습니다. 화면이 안 열리는 것과, 화면은 열리는데 모델 호출이 실패하는 것은 확인해야 할 대상이 다릅니다. Runway의 배포 관리 화면에서 리소스 상태와 컨테이너 로그를 볼 수 있어 문제 범위를 좁히는 데에 활용했습니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-5-1.-%EC%98%A4%EB%A5%98-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80-%EC%84%A4%EC%A0%95-%EC%88%98%EC%A0%95%C2%B7%EC%9E%AC%EB%B0%B0%ED%8F%AC-%EA%B3%BC%EC%A0%95-1024x325.png" alt="이미지 5-1. 오류 메시지와 설정 수정·재배포 과정."/><p>이미지 5-1. 오류 메시지와 설정 수정·재배포 과정.</p></div>
-<h2>접속 URL에서 예측값과 LLM 코멘트를 확인했습니다</h2>
-<p>설정을 고치고 다시 배포하자 대시보드가 열렸습니다. 풍속과 풍향을 바꿔 넣을 때마다 예측값과 LLM 코멘트가 새로 떴습니다.</p>
-<p>몇 번이고 다시 열어 봤습니다. 말로만 오가던 활용 방안이 값을 넣고 결과를 보는 형태가 됐습니다.</p>
-<p>지금은 기능과 구조를 설명하면서 직접 만든 결과물을 같이 보여줍니다. 어떤 모델을 썼고, 화면과 어떻게 이었고, 어디서 설정을 고쳤는지까지요.</p>
-<h2>앱이 늘어나면 모델·자원·권한을 함께 봐야 합니다</h2>
-<p>이번에 제가 진행한 작업은 튜토리얼 모델을 대시보드에 잇는 데까지였습니다. 여기서 한걸음 나아가, 실제 고객 업무에 적용하는 단계를 생각하면 이다음에 필요한 것도 보입니다.</p>
-<p><strong>첫째, 모델을 계속 개선해야 합니다.</strong> 새 데이터로 학습한 모델이 기존보다 나은지 비교하고, 어느 버전을 서비스에 올릴지 정해야 합니다. Runway에서는 학습 파이프라인과 실험 관리 도구를 연계하고, 모델 서빙에서 여러 버전을 배포해 요청 비율을 조정합니다.</p>
-<p><strong>둘째, 자원과 권한을 같이 관리해야 합니다.</strong> 프로젝트 역할은 Gitea·MLflow·Airflow 같은 빌트인 앱 권한으로 자동 매핑되고, 앱 URL로 바로 들어가도 Keycloak 통합 인증이 그대로 걸립니다. 직접 개발해 배포한 앱은 다릅니다. 실행 자원과 배포 권한은 플랫폼이 관리하지만, 앱 화면의 접속 인증과 앱 안의 업무 권한은 따로 설계해야 합니다.</p>
-<p><strong>셋째, 폐쇄망에서도 돌아가야 합니다.</strong> Runway는 폐쇄망 환경의 AI 개발·운영을 지원합니다. 모델과 패키지, 컨테이너 이미지를 내부에서 쓸 수 있게 준비하고 외부 API 의존성을 점검하면, 인터넷이 차단된 곳에서도 AI 서비스를 구성할 수 있습니다. <a href="https://www.makinarocks.ai/product/runway/">Runway 제품 소개</a></p>
-<p>덧붙이면, Runway 2.3.0부터는 Code Server에 AI 어시스턴트 익스텐션이 함께 제공됩니다. 이번 작업에 사용한 것은 아니지만, 인터넷이 차단된 환경에서도 플랫폼 안에서 코딩 어시스턴트를 사용할 수 있다는 뜻입니다.</p>
-<p>사내에서 앱을 운영할 때 필요한 것 중 상당수는 프로젝트를 만드는 순간 이미 붙어 있습니다.</p>
-<div>
-<table>
-<thead>
-<tr>
-<th>항목</th>
-<th>직접 붙여야 하는 것</th>
-<th>프로젝트에 이미 붙어 있는 것</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>컨테이너 이미지 저장소</td>
-<td>외부 레지스트리 계정 준비 또는 사내 구축</td>
-<td>프로젝트에서 바로 쓰는 내장 레지스트리</td>
-</tr>
-<tr>
-<td>실행 자원 한도</td>
-<td>별도 관리</td>
-<td>워크스페이스에서 프로젝트로 내려온 쿼터</td>
-</tr>
-<tr>
-<td>다른 프로젝트와의 격리</td>
-<td>직접 설계</td>
-<td>프로젝트 하나가 네임스페이스 하나</td>
-</tr>
-<tr>
-<td>배포 이력과 롤백</td>
-<td>별도 구성</td>
-<td>GitOps 기반으로 기록</td>
-</tr>
-<tr>
-<td>시크릿 값</td>
-<td>별도 도구 도입</td>
-<td>OpenBao 내장</td>
-</tr>
-<tr>
-<td>빌트인 앱 인증과 권한</td>
-<td>앱별 계정과 권한 관리</td>
-<td>프로젝트 역할이 그대로 매핑</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>이번에 다 써본 기능은 아니지만, 프로토타입을 사내 서비스로 넓히게 된다면 쓰게 될 범위입니다.</p>
-<h2>다음에는 제 업무에 필요한 에이전트도 만들어 봤습니다</h2>
-<p>풍력 발전량 예측 대시보드 이후에는 사업 공고와 RFP를 수집하는 에이전트도 만들어 봤습니다. LLM이 내용을 분석하고 관심 키워드에 맞는 공고를 추천하도록 구성했습니다. 우선순위가 높은 공고는 카카오톡으로 알림을 받도록 연결했습니다.</p>
-<p>최근에는 동료도 자신에게 필요한 에이전트를 만들어볼 수 있도록, 노코드 방식의 에이전트 빌더 프로토타입도 시도하고 있습니다.</p>
-<p>시작은 고객에게 보여주고 싶은 대시보드 하나였습니다. 한 번 만들어 보고 나니, 제 업무에서도 직접 바꿔보고 싶은 일이 보이기 시작했습니다.</p>
-<p><strong>업무를 아는 사람이 요구사항을 구체화하고, AI 코딩 도구의 도움으로 구현하며, Runway에서 모델과 앱을 연결해 실행하는 것.</strong> 제가 이번에 경험한 비개발자의 AI 활용 방식입니다.</p>
-<p>여러분의 업무에서는 어떤 아이디어부터 작동하는 앱으로 확인해 보고 싶으신가요?</p>
-</div>
-</div>
-</div>
-</div>
-
+	<div><em><strong>Prologue</strong></em></div>
+	<div>
+		<div>
+			<blockquote>
+				<div><em>풍속과 풍향을 넣자 발전량 예측값이 떴습니다. 그 아래에는 입력 조건을 정리한 LLM 코멘트가 붙었습니다. 값을 바꾸면 결과도 바뀌었습니다. 고객에게 보여주고 싶었던 AI 활용 장면이 제 앞에서 실제로 돌아가고 있었습니다.</em></div>
+			</blockquote>
+			<div><video><a href="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EB%B9%84%EB%94%94%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-3.mp4">/wp-content/uploads/2026/09/비디오-프로젝트-3.mp4</a></video></div>
+			<div>저는 마키나락스 AI플랫폼사업팀에서 Runway 사업개발을 담당하는 이승준입니다. 고객의 업무와 과제를 듣고, Runway로 어떤 AI 시스템을 구현할 수 있을지 함께 구체화하는 일을 합니다.</div>
+			<div>개발은 해본 적이 없습니다. 그런 제가 이번에 풍력 발전량 예측 대시보드를 만들어 배포했습니다. <strong>Runway 튜토리얼로 학습하고 배포한 모델에 화면과 LLM을 붙여, 누구든 URL로 들어와 쓸 수 있는 형태까지 올렸습니다.</strong></div>
+			<div>제가 한 일은 세 가지입니다. 모델을 학습해 배포하는 것, 그 모델과 LLM을 앱에 연결하는 것, 앱을 접속 가능한 서비스로 배포하는 것. 코딩 어시스턴트로 만든 화면은 그중 하나였습니다.</div>
+			<div>Runway는 AI 개발부터 배포와 운영까지 하나로 묶은 마키나락스의 기업용 AI 플랫폼, AI 운영체제(AI OS)입니다. 이번 작업에서 Runway가 무엇을 대신해 줬는지 적어봤습니다.</div>
+		</div>
+		<div>
+			<h2>“그래서 Runway로 무엇을 만들 수 있나요?”</h2>
+			<div>Runway를 설명하면 고객은 대체로 고개를 끄덕입니다. 그리고 꼭 이 질문이 돌아옵니다. “그래서 Runway 위에서 저희가 실제로 무엇을 만들 수 있는 건가요?”</div>
+			<div>실험 관리와 모델 배포를 아무리 설명해도, 그 결과가 현업의 화면에 닿는 장면은 잘 그려지지 않습니다. 기능 목록과 업무 사이에 빈칸이 있는 셈입니다.</div>
+			<div>그 빈칸을 메우려고 고른 것이 풍력 발전량 예측 대시보드입니다. 예측을 담당하는 ML과 결과를 설명하는 LLM이 현업의 화면에서 어떻게 맞물려 시너지를 내는지 가장 직관적으로 보여줄 수 있는 유즈케이스이기 때문입니다. 풍속·풍향·온도 같은 센서값을 넣으면 학습된 모델이 발전 출력을 예측하고, LLM이 입력 조건과 예측값을 문장으로 정리해 줍니다.</div>
+			<div>
+				<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-2.-%EC%98%88%EC%B8%A1%EA%B0%92%EA%B3%BC-%ED%95%A8%EA%BB%98-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-LLM-%EC%BD%94%EB%A9%98%ED%8A%B8.-%ED%92%8D%EC%86%8D%C2%B7%ED%92%8D%ED%96%A5%C2%B7%ED%94%BC%EC%B9%98%EA%B0%81-%EA%B0%99%EC%9D%80-%EC%9E%85%EB%A0%A5-%EC%A1%B0%EA%B1%B4%EC%9D%84-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%B4-%EC%A4%8D%EB%8B%88%EB%8B%A4.png" alt="이미지 2. 예측값과 함께 표시되는 LLM 코멘트. 풍속·풍향·피치각 같은 입력 조건을 문장으로 정리해 줍니다."/>
+				<div>이미지 2. 예측값과 함께 표시되는 LLM 코멘트. 풍속·풍향·피치각 같은 입력 조건을 문장으로 정리해 줍니다.</div>
+			</div>
+			<h2>Runway에서 모델을 학습시키고, 호출 가능한 서비스로 배포했습니다</h2>
+			<div>출발점은 Runway 튜토리얼입니다. 튜토리얼에 따라 예제 데이터로 발전량 예측 모델을 학습하고 실험 결과를 확인한 뒤, 새 입력에 대한 예측을 받을 수 있도록 배포했습니다. 학습된 모델을 띄워 요청을 받고 결과를 돌려주는 이 단계를 <strong>모델 서빙(Model Serving)</strong>이라고 합니다. 대시보드는 모델을 호출하는 API 주소, 즉 <strong>추론 엔드포인트</strong>로 입력을 보내고 예측값을 받아 표시합니다.</div>
+			<div>튜토리얼을 따라간 것이지만, 이 구간에서 플랫폼이 대신해 준 일이 많습니다. 어떤 데이터를 어떤 설정으로 학습했고 결과가 어땠는지가 실험 기록으로 남습니다. 배포할 모델을 고르면 추론 요청을 받는 서버가 함께 떴습니다. 모델에 맞는 서빙 런타임도 화면에서 고르면 됐습니다.</div>
+			<div>앱이 모델을 호출하는 경로와, 서빙 환경이 저장소에서 모델 파일을 읽는 경로는 다릅니다. 파일을 읽고 추론하는 일은 서빙 환경이 맡고, 대시보드는 추론 결과만 받아다 씁니다.</div>
+			<div>예측은 이렇게 준비가 됐습니다. 이제 남은 건 화면과 LLM입니다.</div>
+			<h2>코딩 어시스턴트로 입력부터 결과까지 흐름을 만들었습니다</h2>
+			<div>화면과 연결 로직은 코딩 어시스턴트로 만들었습니다. 원하는 기능을 자연어로 설명하고, 나온 코드를 실행해 보고, 결과를 확인해 다시 요청하는 식입니다.</div>
+			<div>처음 정리한 건 네 가지였습니다.</div>
+			<ul>
+				<li>사용자가 어떤 센서값을 입력하는가</li>
+				<li>예측 모델에 어떤 형식으로 값을 넘기는가</li>
+				<li>받은 예측값을 화면에 어떻게 보여주는가</li>
+				<li>LLM에 무엇을 전달해 코멘트를 만들게 하는가</li>
+			</ul>
+			<div>화면을 보면서 입력 항목과 배치를 바꿨고, 예측값 아래에 설명을 넣어 달라고 요청했습니다. 기준은 하나였습니다. 고객이 이 화면을 처음 봤을 때 무엇을 입력해야 하는지 바로 알 수 있는가.</div>
+			<div>역할은 분명히 나눴습니다. <strong>발전 출력 예측은 학습된 ML 모델이 하고, LLM은 전달받은 입력 조건과 예측값을 읽기 쉬운 문장으로 정리</strong>합니다. LLM 코멘트는 결과를 읽는 데 도움을 주는 보조 설명이지 예측 모델의 판단을 보여주거나 예측이 맞았음을 증명하지는 않습니다.</div>
+			<div>원하는 흐름을 자세히 설명할수록 고칠 곳도 분명해졌습니다. 물론 코드가 의도대로 도는지는 매번 실행해 봐야 했습니다.</div>
+			<div>
+				<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-3.-%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9D%84-%EC%A0%84%EB%8B%AC%ED%95%98%EA%B3%A0-%ED%99%94%EB%A9%B4%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EA%B3%BC%EC%A0%95.png" alt="이미지 3. 바이브 코딩으로 요구사항을 전달하고 화면을 구현하는 과정."/>
+				<div>이미지 3. 코딩 어시스턴트로 요구사항을 전달하고 화면을 구현하는 과정.</div>
+			</div>
+			<h2>예측을 설명하는 LLM도 Runway 안에서 배포했습니다</h2>
+			<div>이 대시보드에는 모델이 두 개가 필요했습니다. 발전량을 계산하는 예측 모델, 그리고 결과를 문장으로 정리하는 LLM입니다. 예측 모델은 튜토리얼로 해결했지만 LLM은 따로 마련해야 했습니다.</div>
+			<div>외부 LLM API를 쓰지 않고, Runway 안에서 LiteLLM을 활용했습니다. 모델 서빙에서 텍스트 생성용 런타임을 골라 배포하면, 예측 모델과 똑같이 호출 가능한 엔드포인트가 생깁니다. 여러 모델을 한 창구로 부르는 게이트웨이도 함께 있어서, 뒤쪽 모델이 바뀌어도 앱에서 같은 방식으로 요청하면 됐습니다.</div>
+			<div>이 점이 저에게는 컸습니다. 외부 API 키를 발급받고 결제 수단을 등록하고 데이터 반출 검토를 거치는 절차 없이, 예측 모델과 LLM을 같은 프로젝트 안에 두고 같은 방식으로 호출했습니다.</div>
+			<h2>코딩 어시스턴트가 Runway 위에서 잘 된 이유</h2>
+			<div>코딩 어시스턴트 작업을 할 때 의외였던 건 “Runway에 배포할 수 있는 형태로 만들어 달라”고 했을 때, 대체로 잘 알아듣더라는 것입니다.</div>
+			<div>Runway가 자체 규격으로 만든 제품이 아니기 때문입니다. 컨테이너 이미지, Helm 차트, REST API 엔드포인트, Kubernetes 자원처럼 이미 표준이 된 방식 위에 얹혀 있고, Gitea·MLflow·Airflow·Keycloak 같은 구성 요소도 업계가 흔히 쓰는 오픈소스입니다.</div>
+			<div>코딩 어시스턴트가 그 표준을 이미 알고 있습니다. 그래서 Runway에 맞추려고 따로 가르칠 게 별로 없었습니다. 사내에서만 통하는 규격이었다면 저는 규격 설명부터 해야 했을 텐데, 아마 거기서 멈추었을 겁니다.</div>
+			<h2>코딩 어시스턴트로 만든 AI서비스를 Runway에 배포한 이유</h2>
+			<div>이유는 단순합니다. <strong>이미 Runway에서 학습·배포한 모델을 그대로 쓰면서, 새로 만든 앱의 배포와 실행 자원까지 같은 플랫폼에서 관리할 수 있었기 때문</strong>입니다.</div>
+			<div>화면에 예측값이 뜨려면 여러 연결이 맞아야 합니다. 앱은 모델의 입력 형식에 맞춰 요청을 보내고, 응답을 받아 표시하고, LLM 호출 정보도 지정해야 합니다. 여기에 앱을 실행할 환경과 접속 경로가 더해집니다.</div>
+			<div>저는 앱 코드와 의존성을 컨테이너 이미지로 묶어 저장소에 올렸습니다. Runway에서는 그 이미지로 프로젝트 애플리케이션을 배포하면서 CPU·메모리와 접속 정보를 설정했고, 예측 모델의 추론 엔드포인트와 LLM 호출 정보를 앱에 연결했습니다.</div>
+			<div>여기서 짚어둘 것이 하나 있습니다. 컨테이너 이미지는 어딘가 올려두어야 Runway가 가져다 실행합니다. 그 저장소가 Runway 안에 이미 있었습니다. 이미지 레지스트리라고 부르는 공간입니다.</div>
+			<div>개발자에게는 당연한 이야기겠지만, 저에게는 여기가 관문이었습니다. 사내에 저장소가 없으면 외부 레지스트리 계정을 만들거나 인프라팀에 요청해야 하고, 인터넷이 끊긴 환경이면 그마저 어렵습니다. 프로젝트를 만들면 저장소가 딸려 온다는 건, 처음 앱을 배포해보는 사람에게 출발선을 몇 걸음 앞으로 당겨주는 일입니다.</div>
+			<div>완성된 앱의 최종적인 흐름은 다음과 같습니다.</div>
+			<table>
+				<tbody>
+					<tr>
+						<td><strong> 센서값 입력 → 예측 모델 호출 → 예측값 수신 → 입력 조건·예측값을 LLM에 전달 → 예측값과 코멘트 표시</strong></td>
+					</tr>
+				</tbody>
+			</table>
+			<div>Runway는 JupyterLab·Code Server 같은 개발 환경을 제공하고, 직접 개발한 앱도 배포 형식만 맞추면 모델·앱 운영 환경에 붙일 수 있습니다.</div>
+			<div>앱을 만들 때마다 모델 실행 환경을 새로 마련하지 않아도 된다는 저에게 도움이 됐습니다. 준비된 예측 모델을 그대로 쓰면서, 입력과 결과를 어떻게 이어 붙일지에만 집중했습니다.</div>
+			<div>
+				<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-4.-Runway%EC%97%90%EC%84%9C-%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B3%A0-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%99%94%EB%A9%B4-1024x505.png" alt="이미지 4. Runway에서 예측 모델과 애플리케이션을 연결하고 배포하는 화면."/>
+				<div>이미지 4. Runway에서 예측 모델과 애플리케이션을 연결하고 배포하는 화면.</div>
+			</div>
+			<h2>첫 배포는 모델 경로에서 막혔습니다</h2>
+			<div>사실 첫 배포부터 예측이 정상적으로 실행된 것은 아닙니다. 모델 파일은 분명히 있는데, 예측을 실행하는 환경이 그 파일을 찾지 못했습니다. 저장된 위치와 실행 환경이 바라보는 경로가 어긋나 있었습니다.</div>
+			<div>오류 메시지와 설정을 그대로 전달해 확인할 항목을 좁혔고, 동료의 도움도 받아 설정을 고쳤습니다. 다시 배포한 뒤 예측 요청에 응답이 오는지 확인했습니다.</div>
+			<div>먼저 할 일은 문제가 생긴 지점을 발라내는 것이었습니다. 화면이 안 열리는 것과, 화면은 열리는데 모델 호출이 실패하는 것은 확인해야 할 대상이 다릅니다. Runway의 배포 관리 화면에서 리소스 상태와 컨테이너 로그를 볼 수 있어 문제 범위를 좁히는 데에 활용했습니다.</div>
+			<div>
+				<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/%EC%9D%B4%EB%AF%B8%EC%A7%80-5-1.-%EC%98%A4%EB%A5%98-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%99%80-%EC%84%A4%EC%A0%95-%EC%88%98%EC%A0%95%C2%B7%EC%9E%AC%EB%B0%B0%ED%8F%AC-%EA%B3%BC%EC%A0%95-1024x325.png" alt="이미지 5-1. 오류 메시지와 설정 수정·재배포 과정."/>
+				<div>이미지 5-1. 오류 메시지와 설정 수정·재배포 과정.</div>
+			</div>
+			<h2>접속 URL에서 예측값과 LLM 코멘트를 확인했습니다</h2>
+			<div>설정을 고치고 다시 배포하자 대시보드가 열렸습니다. 풍속과 풍향을 바꿔 넣을 때마다 예측값과 LLM 코멘트가 새로 떴습니다.</div>
+			<div>몇 번이고 다시 열어 봤습니다. 말로만 오가던 활용 방안이 값을 넣고 결과를 보는 형태가 됐습니다.</div>
+			<div>지금은 기능과 구조를 설명하면서 직접 만든 결과물을 같이 보여줍니다. 어떤 모델을 썼고, 화면과 어떻게 이었고, 어디서 설정을 고쳤는지까지요.</div>
+			<h2>앱이 늘어나면 모델·자원·권한을 함께 봐야 합니다</h2>
+			<div>이번에 제가 진행한 작업은 튜토리얼 모델을 대시보드에 잇는 데까지였습니다. 여기서 한걸음 나아가, 실제 고객 업무에 적용하는 단계를 생각하면 이다음에 필요한 것도 보입니다.</div>
+			<div><strong>첫째, 모델을 계속 개선해야 합니다.</strong> 새 데이터로 학습한 모델이 기존보다 나은지 비교하고, 어느 버전을 서비스에 올릴지 정해야 합니다. Runway에서는 학습 파이프라인과 실험 관리 도구를 연계하고, 모델 서빙에서 여러 버전을 배포해 요청 비율을 조정합니다.</div>
+			<div><strong>둘째, 자원과 권한을 같이 관리해야 합니다.</strong> 프로젝트 역할은 Gitea·MLflow·Airflow 같은 빌트인 앱 권한으로 자동 매핑되고, 앱 URL로 바로 들어가도 Keycloak 통합 인증이 그대로 걸립니다. 직접 개발해 배포한 앱은 다릅니다. 실행 자원과 배포 권한은 플랫폼이 관리하지만, 앱 화면의 접속 인증과 앱 안의 업무 권한은 따로 설계해야 합니다.</div>
+			<div><strong>셋째, 폐쇄망에서도 돌아가야 합니다.</strong> Runway는 폐쇄망 환경의 AI 개발·운영을 지원합니다. 모델과 패키지, 컨테이너 이미지를 내부에서 쓸 수 있게 준비하고 외부 API 의존성을 점검하면, 인터넷이 차단된 곳에서도 AI 서비스를 구성할 수 있습니다. <a href="https://www.makinarocks.ai/product/runway/">Runway 제품 소개</a></div>
+			<div>덧붙이면, Runway 2.3.0부터는 Code Server에 AI 어시스턴트 익스텐션이 함께 제공됩니다. 이번 작업에 사용한 것은 아니지만, 인터넷이 차단된 환경에서도 플랫폼 안에서 코딩 어시스턴트를 사용할 수 있다는 뜻입니다.</div>
+			<div>사내에서 앱을 운영할 때 필요한 것 중 상당수는 프로젝트를 만드는 순간 이미 붙어 있습니다.</div>
+			<div>
+				<table>
+					<thead>
+						<tr>
+							<th>항목</th>
+							<th>직접 붙여야 하는 것</th>
+							<th>프로젝트에 이미 붙어 있는 것</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>컨테이너 이미지 저장소</td>
+							<td>외부 레지스트리 계정 준비 또는 사내 구축</td>
+							<td>프로젝트에서 바로 쓰는 내장 레지스트리</td>
+						</tr>
+						<tr>
+							<td>실행 자원 한도</td>
+							<td>별도 관리</td>
+							<td>워크스페이스에서 프로젝트로 내려온 쿼터</td>
+						</tr>
+						<tr>
+							<td>다른 프로젝트와의 격리</td>
+							<td>직접 설계</td>
+							<td>프로젝트 하나가 네임스페이스 하나</td>
+						</tr>
+						<tr>
+							<td>배포 이력과 롤백</td>
+							<td>별도 구성</td>
+							<td>GitOps 기반으로 기록</td>
+						</tr>
+						<tr>
+							<td>시크릿 값</td>
+							<td>별도 도구 도입</td>
+							<td>OpenBao 내장</td>
+						</tr>
+						<tr>
+							<td>빌트인 앱 인증과 권한</td>
+							<td>앱별 계정과 권한 관리</td>
+							<td>프로젝트 역할이 그대로 매핑</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div>이번에 다 써본 기능은 아니지만, 프로토타입을 사내 서비스로 넓히게 된다면 쓰게 될 범위입니다.</div>
+			<h2>다음에는 제 업무에 필요한 에이전트도 만들어 봤습니다</h2>
+			<div>풍력 발전량 예측 대시보드 이후에는 사업 공고와 RFP를 수집하는 에이전트도 만들어 봤습니다. LLM이 내용을 분석하고 관심 키워드에 맞는 공고를 추천하도록 구성했습니다. 우선순위가 높은 공고는 카카오톡으로 알림을 받도록 연결했습니다.</div>
+			<div>최근에는 동료도 자신에게 필요한 에이전트를 만들어볼 수 있도록, 노코드 방식의 에이전트 빌더 프로토타입도 시도하고 있습니다.</div>
+			<div>시작은 고객에게 보여주고 싶은 대시보드 하나였습니다. 한 번 만들어 보고 나니, 제 업무에서도 직접 바꿔보고 싶은 일이 보이기 시작했습니다.</div>
+			<div><strong>업무를 아는 사람이 요구사항을 구체화하고, AI 코딩 도구의 도움으로 구현하며, Runway에서 모델과 앱을 연결해 실행하는 것.</strong> 제가 이번에 경험한 비개발자의 AI 활용 방식입니다.</div>
+			<div>여러분의 업무에서는 어떤 아이디어부터 작동하는 앱으로 확인해 보고 싶으신가요?</div>
+		</div>
+	</div>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>정상 데이터만으로 로봇 고장을 예측하는 AI 개발기</title>
@@ -1051,44 +1079,45 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%ec%a0%95%ec%83%81-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c%ec%9c%bc%eb%a1%9c-%eb%a1%9c%eb%b4%87-%ea%b3%a0%ec%9e%a5%ec%9d%84-%ec%98%88%ec%b8%a1%ed%95%98%eb%8a%94-ai-%ea%b0%9c%eb%b0%9c%ea%b8%b0/</guid>
 			<category>Blog</category>
 			<pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-%EC%A0%95%EC%83%81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EB%B4%87-%EA%B3%A0%EC%9E%A5%EC%9D%84-%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94-AI-%EA%B0%9C%EB%B0%9C%EA%B8%B0.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-%EC%A0%95%EC%83%81-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EB%B4%87-%EA%B3%A0%EC%9E%A5%EC%9D%84-%EC%98%88%EC%B8%A1%ED%95%98%EB%8A%94-AI-%EA%B0%9C%EB%B0%9C%EA%B8%B0.png" alt=""/>
-
-</div>
-</div><div>
-<p>산업용 로봇은 이제 용접, 조립, 이송 같은 반복 공정에서 사람을 대신해 정밀하고 일관된 작업을 수행하는 핵심 생산 설비로 자리 잡았습니다. 하지만 로봇 의존도가 높아질수록 감속기 마모, 모터 성능 저하, 센서 이상 같은 작은 이상 징후가 생산 현장 전체에 미치는 영향은 더 커집니다. 문제는 이런 초기 고장 징후가 외관상 쉽게 드러나지 않고, 실제 고장으로 이어진 뒤에야 발견되는 경우가 많다는 점입니다.</p>
-<p>이번 테크블로그에서는 세계 4위 규모의 선박 생산 능력을 보유한 HD현대삼호의 조선소 용접 로봇을 대상으로 정상 데이터만으로 로봇의 고장 징후를 조기에 감지하는 이상 탐지 모델을 개발한 과정을 공유합니다. 기존 One-class Learning이 왜 한계를 가지는지 살펴보고 이를 극복하기 위해 로봇의 물리 법칙을 모델에 반영한 접근을 소개합니다.</p>
-<h2>One-class Learning의 한계</h2>
-<p>기존의 용접 로봇 유지보수는 주기적인 점검이나 운영자의 경험에 의존하는 경우가 많아 고장을 사전에 발견하는 데 한계가 있습니다. 로봇의 고장 이상 탐지는 다른 AI 모델과 달리 고장 데이터 확보 자체가 어렵다는 특징도 가집니다. 실제 고장은 발생 빈도가 낮고, 공장 설비에 의도적으로 고장을 발생시키는 실험 또한 현실적으로 쉽지 않습니다. 또한, 설비 마모나 부품 열화와 같은 복합적인 고장 현상은 데이터 합성만으로 재현하기 어렵습니다. 따라서 정상 데이터만을 학습하고 정상 패턴에서 벗어나는 경우를 이상으로 판단하는 One-class Learning 방식이 주로 활용됩니다.</p>
-<p>One-class Learning의 대표적인 방법으로는 정상 데이터의 분포를 학습한 뒤 이를 벗어나는 데이터를 이상으로 판단하는 Gaussian Model, KDE, One-Class SVM, Isolation Forest 등이 있습니다. 정상 데이터를 입력과 동일하게 복원하도록 학습한 뒤 복원 오차를 이상 점수로 활용하는 Autoencoder 기반 방법도 널리 사용됩니다.</p>
-<p>그러나 이러한 접근법은 모두 정상 데이터의 분포를 학습한다는 공통적인 한계를 갖습니다. 로봇 데이터는 작업 종류와 자세, 이동 방향 등에 따라 정상 상태의 분포 자체가 크게 달라질 수 있기 때문에, 학습 과정에서 충분히 관측하지 못한 정상 패턴도 이상으로 판단하는 오탐이 발생하기 쉽습니다. 또한 데이터의 차원과 규모가 커질수록 학습 및 추론 비용이 증가하는 한계도 존재합니다. 따라서 로봇의 고장 이상 탐지에서는 특정 작업 상태에 의존하는 데이터 분포보다, 다양한 작업 조건에서도 일관되게 유지되는 로봇의 물리적 동역학(Dynamics)을 학습하는 것이 중요합니다.</p>
-<h2>왜 로봇의 물리 법칙을 학습해야 할까</h2>
-<p>본 프로젝트에서는 로봇의 물리적 특성을 반영하는 동역학 관계 기반 모델을 개발했습니다. 이 모델은 정상 상태에서 유지되는 구조적 관계를 학습함으로써 작업 조건 변화에 강인한 이상 탐지를 목표로 합니다. 동역학 관계 기반 모델은 로봇의 물리적 특성과 운동 방정식에 기반하여 고장을 탐지하며, 로봇의 작업 조건과 상태와 무관하게 일관된 성능을 보일 수 있습니다.</p>
-<p>로봇의 동역학은 움직임과 그 움직임을 위해 필요한 토크(Torque) 사이의 물리적 관계를 의미하며, 일반적으로 Euler-Lagrange Dynamics Equation으로 표현됩니다.</p>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/Euler-Lagrange-Dynamics-Equation-1024x110.png" alt="Euler-Lagrange Dynamics Equation"/></p>
-<p>이 관계식에서 q는 관절 각도, q̇는 각속도, q̈는 각가속도를 의미하며, τ는 각 관절에 작용하는 토크를 나타냅니다. 정상 상태의 로봇에서는 이러한 변수들 사이에 관성, 원심력, 중력, 마찰 등의 일정한 관계가 유지됩니다. 반면 감속기 마모, 베어링 손상, 윤활 부족, 모터 성능 저하 등의 이상이 발생하면 동일한 자세와 움직임에서도 요구되는 토크가 달라지며, 결과적으로 정상 상태의 동역학 관계가 변하게 됩니다.</p>
-<h2>동역학 기반 이상 탐지 모델 설계</h2>
-<p>본 프로젝트에서는 이러한 특성에 착안하여 각 축의 각도, 각속도, 각가속도 시계열 데이터를 입력으로 사용하고, 정상 상태의 토크를 예측하는 TCN(Temporal Convolutional Network) 기반 Predictor 모델을 구축했습니다. TCN은 Dilated Convolution을 활용하여 장기간의 시간 의존성을 효율적으로 학습할 수 있으며, Causal 구조를 통해 미래 정보 없이도 실시간 추론이 가능합니다.</p>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-%EB%8F%99%EC%97%AD%ED%95%99-%EA%B4%80%EA%B3%84%EA%B8%B0%EB%B0%98-Prediction-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%A1%B0-1-1024x576.png" alt="동역학 관계기반 Prediction 모델 구조"/><p>동역학 관계기반 Prediction 모델 구조</p></div>
-<p>모델은 과거 일정 구간의 관절 상태 데이터를 입력받아 정상 상태에서의 토크를 예측하도록 학습됩니다. 이 과정에서 단순히 현재 시점의 값만 사용하는 것이 아니라, 위빙 동작, 방향 전환, 가속·감속과 같은 시간에 따른 움직임 패턴까지 함께 학습하여 동역학 관계를 모델링합니다.</p>
-<p>학습이 완료된 이후에는 실제 측정된 토크와 모델이 예측한 토크의 차이(Residual)를 이상 점수(Anomaly Score)로 활용합니다. 정상 상태에서는 예측 오차가 작게 유지되지만, 기계적 열화나 부품 이상이 발생하면 동일한 움직임에서도 토크 특성이 달라져 예측 오차가 증가하게 됩니다. 이를 통해 정상 데이터만으로도 고장 징후를 조기에 탐지할 수 있게됩니다.</p>
-<h2>실제 조선소 용접 로봇에 적용해 보니</h2>
-<p>실제 해당 모델을 조선소 용접 로봇에 적용한 결과, 정상적으로 용접 작업을 수행하는 동안에는 이상 점수(Anomaly Score)가 일정 범위 내에서 안정적으로 유지되는 것을 확인할 수 있었습니다. 반면, 용접 중인 로봇에 외력을 가해 강제로 위치를 변경하는 등 고장 상황을 모사한 실험에서는 이상 점수가 급격히 증가하는 현상이 관찰되었습니다. 이는 모델이 정상 상태에서 유지되는 동역학 관계의 변화를 효과적으로 감지할 수 있음을 보여주며, 실제 산업 현장에서 발생할 수 있는 이상 상황을 조기에 탐지하는 데 활용될 수 있음을 확인했습니다.</p>
-<p>동역학 기반 이상 탐지 모델은 데이터 분포 자체를 학습하는 기존 One-Class Learning 방식과 달리, 로봇의 물리적 동작 원리를 반영한 동역학 관계를 학습한다는 점에서 차별성을 가집니다. 따라서 특정 작업 패턴이나 자세 자체가 아니라 움직임과 토크 사이의 물리적 관계를 기반으로 이상을 판단하며, 다양한 작업 조건에서도 안정적으로 이상 상황을 탐지할 가능성을 확인했습니다.</p>
-<h2>인과관계 기반 이상 탐지 모델 CAROTS</h2>
-<p>동역학 관계 기반 모델이 로봇의 물리적 특성에 집중한다면, 변수 간 상호작용과 인과관계에 주목하는 접근법도 함께 살펴볼 필요가 있습니다. 이러한 관점에서 참고할 수 있는 모델이 CAROTS(Causality-Aware Contrastive Learning for Robust Multivariate Time-Series Anomaly Detection)입니다.</p>
-
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-CAROTS-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%A1%B0-1-1024x576.png" alt="CAROTS 모델 구조"/><p>CAROTS 모델 구조</p></div>
-<p>CAROTS는 개별 센서값의 크기나 데이터 분포를 학습하는 것이 아니라, 정상 상태에서 변수들이 서로 어떠한 영향을 주고받는지를 학습하는 모델입니다. 시계열 예측 모델을 기반으로 미래 상태를 예측하는 동시에 변수 간의 인과관계 구조를 함께 학습합니다. 이를 위해 정상 데이터의 인과관계 구조를 인위적으로 변경한 Negative Sample을 생성하고, Contrastive Learning을 통해 원본 데이터와는 가깝게, 인과관계가 훼손된 데이터와는 멀어지도록 잠재 공간(Latent Space)을 학습합니다.</p>
-<p>학습이 완료된 이후에는 예측 오차(Prediction Error)와 잠재 공간 내 정상 데이터 중심(Centroid)으로부터의 거리를 종합하여 이상 점수(Anomaly Score)를 계산합니다. 따라서 CAROTS는 단순히 값의 변화가 아닌 정상 상태에서 유지되던 변수 간 인과관계가 변화한 경우를 이상으로 탐지할 수 있습니다.</p>
-<p>로봇의 각도, 각속도, 각가속도, 토크와 같은 변수들은 독립적으로 변화하는 것이 아니라 물리적 특성에 의해 서로 밀접하게 연결되어 있습니다. 정상 상태에서는 이러한 관계가 일정하게 유지되지만, 감속기 마모, 센서 이상, 제어 성능 저하와 같은 문제가 발생하면 변수 간의 관계 또한 변화하게 됩니다. CAROTS와 같은 접근법은 이러한 관계 변화를 직접 탐지함으로써 기존 분포 기반 이상 탐지 모델이 놓칠 수 있는 이상 징후를 효과적으로 포착할 가능성을 가지고 있습니다.</p>
-<p>특히 제조 설비처럼 다양한 운전 조건이 존재하는 환경에서는 동일한 센서 값이라도 작업 상태에 따라 정상 범위가 달라질 수 있습니다. CAROTS는 개별 변수의 절대적인 크기보다 변수 간 상호작용에 주목하기 때문에 이러한 환경 변화에 상대적으로 강인할 것으로 기대되며, 설비의 초기 열화나 복합적인 이상 상황을 탐지하는 데에도 향후 활용해 볼만한 방법론이라고 생각합니다.</p>
-<h2>이 프로젝트에서 확인한 것</h2>
-<p>본 프로젝트를 통해 로봇의 고장 이상 탐지는 다양한 작업 패턴과 운전 상태로 인해 단순히 정상 데이터의 분포를 학습하는 것만으로는 한계가 있으며, 로봇 내부에서 유지되어야 하는 구조적 관계를 고려하는 것이 효과적인 이상 탐지의 핵심임을 확인했습니다. 이를 위해 동역학 관계 기반 모델을 적용하여 로봇의 물리적 특성을 학습함으로써 정상 상태의 본질적인 특성을 효과적으로 모델링할 수 있었습니다. 아울러 변수 간 인과관계를 학습하는 CAROTS와 같은 접근법 역시 향후 이상 탐지 고도화를 위해 검토해 볼 수 있는 방향으로 확인했습니다.</p>
-<p>이러한 접근은 정상 데이터의 분포 변화에 따른 오탐지을 줄이는 동시에, 부품 마모나 성능 저하와 같은 초기 열화 징후를 더욱 민감하게 탐지할 가능성을 확인했습니다. 이는 단순한 이상 여부 판단을 넘어 설비의 상태 변화를 조기에 감지하고 유지보수 의사결정을 지원하는 기반 기술로 활용될 수 있으며, 향후 다양한 로봇 기종과 제조 공정에 적용 가능한 예지보전(Predictive Maintenance) 기술로 확장될 수 있을 것으로 기대됩니다.</p>
-
+	<div>산업용 로봇은 이제 용접, 조립, 이송 같은 반복 공정에서 사람을 대신해 정밀하고 일관된 작업을 수행하는 핵심 생산 설비로 자리 잡았습니다. 하지만 로봇 의존도가 높아질수록 감속기 마모, 모터 성능 저하, 센서 이상 같은 작은 이상 징후가 생산 현장 전체에 미치는 영향은 더 커집니다. 문제는 이런 초기 고장 징후가 외관상 쉽게 드러나지 않고, 실제 고장으로 이어진 뒤에야 발견되는 경우가 많다는 점입니다.</div>
+	<div>이번 테크블로그에서는 세계 4위 규모의 선박 생산 능력을 보유한 HD현대삼호의 조선소 용접 로봇을 대상으로 정상 데이터만으로 로봇의 고장 징후를 조기에 감지하는 이상 탐지 모델을 개발한 과정을 공유합니다. 기존 One-class Learning이 왜 한계를 가지는지 살펴보고 이를 극복하기 위해 로봇의 물리 법칙을 모델에 반영한 접근을 소개합니다.</div>
+	<h2>One-class Learning의 한계</h2>
+	<div>기존의 용접 로봇 유지보수는 주기적인 점검이나 운영자의 경험에 의존하는 경우가 많아 고장을 사전에 발견하는 데 한계가 있습니다. 로봇의 고장 이상 탐지는 다른 AI 모델과 달리 고장 데이터 확보 자체가 어렵다는 특징도 가집니다. 실제 고장은 발생 빈도가 낮고, 공장 설비에 의도적으로 고장을 발생시키는 실험 또한 현실적으로 쉽지 않습니다. 또한, 설비 마모나 부품 열화와 같은 복합적인 고장 현상은 데이터 합성만으로 재현하기 어렵습니다. 따라서 정상 데이터만을 학습하고 정상 패턴에서 벗어나는 경우를 이상으로 판단하는 One-class Learning 방식이 주로 활용됩니다.</div>
+	<div>One-class Learning의 대표적인 방법으로는 정상 데이터의 분포를 학습한 뒤 이를 벗어나는 데이터를 이상으로 판단하는 Gaussian Model, KDE, One-Class SVM, Isolation Forest 등이 있습니다. 정상 데이터를 입력과 동일하게 복원하도록 학습한 뒤 복원 오차를 이상 점수로 활용하는 Autoencoder 기반 방법도 널리 사용됩니다.</div>
+	<div>그러나 이러한 접근법은 모두 정상 데이터의 분포를 학습한다는 공통적인 한계를 갖습니다. 로봇 데이터는 작업 종류와 자세, 이동 방향 등에 따라 정상 상태의 분포 자체가 크게 달라질 수 있기 때문에, 학습 과정에서 충분히 관측하지 못한 정상 패턴도 이상으로 판단하는 오탐이 발생하기 쉽습니다. 또한 데이터의 차원과 규모가 커질수록 학습 및 추론 비용이 증가하는 한계도 존재합니다. 따라서 로봇의 고장 이상 탐지에서는 특정 작업 상태에 의존하는 데이터 분포보다, 다양한 작업 조건에서도 일관되게 유지되는 로봇의 물리적 동역학(Dynamics)을 학습하는 것이 중요합니다.</div>
+	<h2>왜 로봇의 물리 법칙을 학습해야 할까</h2>
+	<div>본 프로젝트에서는 로봇의 물리적 특성을 반영하는 동역학 관계 기반 모델을 개발했습니다. 이 모델은 정상 상태에서 유지되는 구조적 관계를 학습함으로써 작업 조건 변화에 강인한 이상 탐지를 목표로 합니다. 동역학 관계 기반 모델은 로봇의 물리적 특성과 운동 방정식에 기반하여 고장을 탐지하며, 로봇의 작업 조건과 상태와 무관하게 일관된 성능을 보일 수 있습니다.</div>
+	<div>로봇의 동역학은 움직임과 그 움직임을 위해 필요한 토크(Torque) 사이의 물리적 관계를 의미하며, 일반적으로 Euler-Lagrange Dynamics Equation으로 표현됩니다.</div>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/Euler-Lagrange-Dynamics-Equation-1024x110.png" alt="Euler-Lagrange Dynamics Equation"/></div>
+	<div>이 관계식에서 q는 관절 각도, q̇는 각속도, q̈는 각가속도를 의미하며, τ는 각 관절에 작용하는 토크를 나타냅니다. 정상 상태의 로봇에서는 이러한 변수들 사이에 관성, 원심력, 중력, 마찰 등의 일정한 관계가 유지됩니다. 반면 감속기 마모, 베어링 손상, 윤활 부족, 모터 성능 저하 등의 이상이 발생하면 동일한 자세와 움직임에서도 요구되는 토크가 달라지며, 결과적으로 정상 상태의 동역학 관계가 변하게 됩니다.</div>
+	<h2>동역학 기반 이상 탐지 모델 설계</h2>
+	<div>본 프로젝트에서는 이러한 특성에 착안하여 각 축의 각도, 각속도, 각가속도 시계열 데이터를 입력으로 사용하고, 정상 상태의 토크를 예측하는 TCN(Temporal Convolutional Network) 기반 Predictor 모델을 구축했습니다. TCN은 Dilated Convolution을 활용하여 장기간의 시간 의존성을 효율적으로 학습할 수 있으며, Causal 구조를 통해 미래 정보 없이도 실시간 추론이 가능합니다.</div>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-%EB%8F%99%EC%97%AD%ED%95%99-%EA%B4%80%EA%B3%84%EA%B8%B0%EB%B0%98-Prediction-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%A1%B0-1-1024x576.png" alt="동역학 관계기반 Prediction 모델 구조"/>
+		<div>동역학 관계기반 Prediction 모델 구조</div>
+	</div>
+	<div>모델은 과거 일정 구간의 관절 상태 데이터를 입력받아 정상 상태에서의 토크를 예측하도록 학습됩니다. 이 과정에서 단순히 현재 시점의 값만 사용하는 것이 아니라, 위빙 동작, 방향 전환, 가속·감속과 같은 시간에 따른 움직임 패턴까지 함께 학습하여 동역학 관계를 모델링합니다.</div>
+	<div>학습이 완료된 이후에는 실제 측정된 토크와 모델이 예측한 토크의 차이(Residual)를 이상 점수(Anomaly Score)로 활용합니다. 정상 상태에서는 예측 오차가 작게 유지되지만, 기계적 열화나 부품 이상이 발생하면 동일한 움직임에서도 토크 특성이 달라져 예측 오차가 증가하게 됩니다. 이를 통해 정상 데이터만으로도 고장 징후를 조기에 탐지할 수 있게됩니다.</div>
+	<h2>실제 조선소 용접 로봇에 적용해 보니</h2>
+	<div>실제 해당 모델을 조선소 용접 로봇에 적용한 결과, 정상적으로 용접 작업을 수행하는 동안에는 이상 점수(Anomaly Score)가 일정 범위 내에서 안정적으로 유지되는 것을 확인할 수 있었습니다. 반면, 용접 중인 로봇에 외력을 가해 강제로 위치를 변경하는 등 고장 상황을 모사한 실험에서는 이상 점수가 급격히 증가하는 현상이 관찰되었습니다. 이는 모델이 정상 상태에서 유지되는 동역학 관계의 변화를 효과적으로 감지할 수 있음을 보여주며, 실제 산업 현장에서 발생할 수 있는 이상 상황을 조기에 탐지하는 데 활용될 수 있음을 확인했습니다.</div>
+	<div>동역학 기반 이상 탐지 모델은 데이터 분포 자체를 학습하는 기존 One-Class Learning 방식과 달리, 로봇의 물리적 동작 원리를 반영한 동역학 관계를 학습한다는 점에서 차별성을 가집니다. 따라서 특정 작업 패턴이나 자세 자체가 아니라 움직임과 토크 사이의 물리적 관계를 기반으로 이상을 판단하며, 다양한 작업 조건에서도 안정적으로 이상 상황을 탐지할 가능성을 확인했습니다.</div>
+	<h2>인과관계 기반 이상 탐지 모델 CAROTS</h2>
+	<div>동역학 관계 기반 모델이 로봇의 물리적 특성에 집중한다면, 변수 간 상호작용과 인과관계에 주목하는 접근법도 함께 살펴볼 필요가 있습니다. 이러한 관점에서 참고할 수 있는 모델이 CAROTS(Causality-Aware Contrastive Learning for Robust Multivariate Time-Series Anomaly Detection)입니다.</div>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/09/MakinaRocks-CAROTS-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%A1%B0-1-1024x576.png" alt="CAROTS 모델 구조"/>
+		<div>CAROTS 모델 구조</div>
+	</div>
+	<div>CAROTS는 개별 센서값의 크기나 데이터 분포를 학습하는 것이 아니라, 정상 상태에서 변수들이 서로 어떠한 영향을 주고받는지를 학습하는 모델입니다. 시계열 예측 모델을 기반으로 미래 상태를 예측하는 동시에 변수 간의 인과관계 구조를 함께 학습합니다. 이를 위해 정상 데이터의 인과관계 구조를 인위적으로 변경한 Negative Sample을 생성하고, Contrastive Learning을 통해 원본 데이터와는 가깝게, 인과관계가 훼손된 데이터와는 멀어지도록 잠재 공간(Latent Space)을 학습합니다.</div>
+	<div>학습이 완료된 이후에는 예측 오차(Prediction Error)와 잠재 공간 내 정상 데이터 중심(Centroid)으로부터의 거리를 종합하여 이상 점수(Anomaly Score)를 계산합니다. 따라서 CAROTS는 단순히 값의 변화가 아닌 정상 상태에서 유지되던 변수 간 인과관계가 변화한 경우를 이상으로 탐지할 수 있습니다.</div>
+	<div>로봇의 각도, 각속도, 각가속도, 토크와 같은 변수들은 독립적으로 변화하는 것이 아니라 물리적 특성에 의해 서로 밀접하게 연결되어 있습니다. 정상 상태에서는 이러한 관계가 일정하게 유지되지만, 감속기 마모, 센서 이상, 제어 성능 저하와 같은 문제가 발생하면 변수 간의 관계 또한 변화하게 됩니다. CAROTS와 같은 접근법은 이러한 관계 변화를 직접 탐지함으로써 기존 분포 기반 이상 탐지 모델이 놓칠 수 있는 이상 징후를 효과적으로 포착할 가능성을 가지고 있습니다.</div>
+	<div>특히 제조 설비처럼 다양한 운전 조건이 존재하는 환경에서는 동일한 센서 값이라도 작업 상태에 따라 정상 범위가 달라질 수 있습니다. CAROTS는 개별 변수의 절대적인 크기보다 변수 간 상호작용에 주목하기 때문에 이러한 환경 변화에 상대적으로 강인할 것으로 기대되며, 설비의 초기 열화나 복합적인 이상 상황을 탐지하는 데에도 향후 활용해 볼만한 방법론이라고 생각합니다.</div>
+	<h2>이 프로젝트에서 확인한 것</h2>
+	<div>본 프로젝트를 통해 로봇의 고장 이상 탐지는 다양한 작업 패턴과 운전 상태로 인해 단순히 정상 데이터의 분포를 학습하는 것만으로는 한계가 있으며, 로봇 내부에서 유지되어야 하는 구조적 관계를 고려하는 것이 효과적인 이상 탐지의 핵심임을 확인했습니다. 이를 위해 동역학 관계 기반 모델을 적용하여 로봇의 물리적 특성을 학습함으로써 정상 상태의 본질적인 특성을 효과적으로 모델링할 수 있었습니다. 아울러 변수 간 인과관계를 학습하는 CAROTS와 같은 접근법 역시 향후 이상 탐지 고도화를 위해 검토해 볼 수 있는 방향으로 확인했습니다.</div>
+	<div>이러한 접근은 정상 데이터의 분포 변화에 따른 오탐지을 줄이는 동시에, 부품 마모나 성능 저하와 같은 초기 열화 징후를 더욱 민감하게 탐지할 가능성을 확인했습니다. 이는 단순한 이상 여부 판단을 넘어 설비의 상태 변화를 조기에 감지하고 유지보수 의사결정을 지원하는 기반 기술로 활용될 수 있으며, 향후 다양한 로봇 기종과 제조 공정에 적용 가능한 예지보전(Predictive Maintenance) 기술로 확장될 수 있을 것으로 기대됩니다.</div>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
 			<title>마키나락스 엔지니어의 밤 – Build. Share. Connect.</title>
@@ -1096,65 +1125,73 @@
 			<guid isPermaLink="true">https://www.makinarocks.ai/blog/%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ec%9d%98-%eb%b0%a4-build-share-connect/</guid>
 			<category>Blog</category>
 			<pubDate>Fri, 24 Jul 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>
+			<description><![CDATA[<div>   <img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/Thumnail-%EB%A7%88%EC%97%94%EB%B0%A4.png" alt=""/></div>
 <div>
-<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/Thumnail-%EB%A7%88%EC%97%94%EB%B0%A4.png" alt=""/>
-
-</div>
-</div><div>
-<p>마키나락스에는 엔지니어가 많습니다. 그리고 다들 바쁩니다. 어떤 팀은 현장에 나가 있고, 어떤 팀은 새로운 모델을 학습시키고 있으며, 또 다른 팀은 Runway, DrawX와 같은 제품을 만들고 있습니다. 각자 프로젝트를 진행하고 고객 현장을 오가다 보면 같은 회사에서 일하면서도 서로 얼굴 볼 시간이 많지 않습니다.</p>
-<p>이런 아쉬움에서 시작한 행사가<strong> MakinaRocks Engineers’ Night, 줄여서 마엔밤(MEN)</strong>입니다. 올해 두 번째를 맞은 마엔밤의 슬로건은 <strong>‘Build. Share. Connect.’</strong> AI 기술을 만들고, 경험을 나누고, 엔지니어들을 연결한다는 의미를 담았습니다.</p>
-<p>오랜만에 한자리에 모인 마키나락스 엔지니어들이 서로의 기술과 고민을 공유하고, 함께 배우고, 웃으며 조금 더 가까워졌던 하루를 소개합니다.</p>
-<p><iframe src="https://www.youtube.com/embed/gjMGveLYX18"></iframe></p>
-<h2>마키나락스 엔지니어는 ‘자부심’입니다</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%A0%84%EC%B2%B4-1024x576.png" alt=""/></p>
-<blockquote><p><strong>“마키나락스 엔지니어는 회사의 자부심이자 제 자부심입니다.”</strong></p></blockquote>
-<p>마엔밤은 윤성호 대표의 한마디로 시작했습니다. 상장 이후 미디어, 투자자, 고객, 파트너 등 다양한 곳에서 마키나락스를 소개할 기회가 생길 때마다 자신 있게 말할 수 있는 이유는 마키나락스 엔지니어들이 현장에서 만들어내는 기술과 가치가 있기 때문이라고 강조했어요.</p>
-<p>그래서일까요. <strong>‘마키나락스 엔지니어는 어떻게 성장할 수 있을까’</strong> 항상 고민한다고 합니다. 깊은 고심 끝에 엔지니어의 성장을 세 가지로 정의하며 마키나락스가 지향하는 엔지니어의 성장 방향을 공유했습니다.</p>
-
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%9C%A4%EC%84%B1%ED%98%B8-%EB%8C%80%ED%91%9C-1024x576.png" alt="마키나락스 윤성호 대표"/><p>마키나락스 윤성호 대표</p></div>
-<p>첫 번째는 <strong>현장에서 동작하는 AI를 만들기 위해 치열하게 고민하는 과정</strong>입니다. 고객의 문제를 끝까지 파고들며 AI가 현실에서 실제로 동작하도록 만드는 경험 자체가 엔지니어를 성장시킨다고 강조했습니다. 두 번째는 <strong>기술이 제품이 되고 자산이 되는 경험</strong>입니다. 하나의 프로젝트에서 끝나는 것이 아니라 Runway, DrawX, 애플리케이션, 내부 개발 도구처럼 반복해서 활용할 수 있는 기술 자산으로 발전시키는 경험이 중요하다고 설명했습니다.</p>
-<p>마지막은 <strong>교류</strong>입니다. 좋은 기술은 혼자 만드는 것이 아니라 서로의 경험을 공유하며 함께 발전합니다. 다른 팀이 어떤 문제를 풀고 있는지 듣고, 질문하고, 토론하는 과정 역시 엔지니어의 중요한 성장 경험이라고 말했습니다. 바쁜 일정 속에서도 마엔밤을 이어가는 이유를 엿볼 수 있었습니다.</p>
-<h2>AI 시대, 엔지니어의 역할을 다시 묻다</h2>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%95%98%EC%9A%A9%ED%98%B8-%EA%B9%80%EC%B0%AC%EB%9E%80-%EB%8C%80%ED%91%9C%EB%8B%98-1024x576.png" alt="하용호 대표(좌)와 김찬란 대표(우)"/><p>하용호 대표(좌)와 김찬란 대표(우)</p></div>
-<p>이번 마엔밤에는 두 명의 전문가가 함께했습니다. <strong>데이터오븐 하용호 대표는 ‘AI Agent 시대, 엔지니어의 역할과 일하는 방식 변화’를 주제로 강연을 진행</strong>했습니다. AI Agent가 개발 문화를 어떻게 바꾸고 있는지, 그리고 그 변화 속에서 엔지니어는 어떤 역할을 해야 하는지 함께 고민해 보는 시간이었습니다.</p>
-<p>가짜연구소 김찬란 대표는 빠르게 변화하는 <strong>AI 시대 속에서 엔지니어에게 필요한 태도와 역량</strong>에 대해 이야기하며, 기술보다 중요한 것은 끊임없이 배우고 적응하는 자세라는 인사이트를 전했습니다.</p>
-<h2>7개 팀이 공유한 마키나락스의 기술과 프로젝트</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%98-1024x576.png" alt="마엔밤-포스터세션"/></p>
-<p>마엔밤의 핵심 프로그램은 <strong>MEN Poster Session: Inside the Build</strong>입니다. 평소에는 각자 프로젝트에 몰두하느라 다른 팀이 어떤 기술을 만들고 있는지 깊이 들여다볼 기회가 많지 않습니다. 이번 포스터 세션에서는 발표자가 직접 포스터 앞에 서서 프로젝트를 소개하고, 참가자들은 자유롭게 이동하며 질문을 주고받는 방식으로 진행됐습니다.</p>
-<p>총 7개 팀이 참여했습니다. 제한된 컴퓨팅 자원에서도 최고의 AI 성능을 구현하는 <strong>FD 모델 최적화팀</strong>은 ‘Inference Engine’을 선보였고, LLM으로 산업 현장의 AI 활용을 쉽게 만드는 <strong>FD Agent팀</strong>은 팀이 실제 업무에서 AI Agent를 활용하는 방법과 경험을 공유했습니다.</p>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%982-1024x576.png" alt="마엔밤-포스터세션2"/></p>
-<p>산업 현장의 난제를 AI로 해결하는 <strong>FD 프론티어팀</strong>은 ‘Stowage Planning’을 통해 복잡한 적재 계획을 최적화하는 기술을 소개했습니다. 이미지와 영상으로 산업 현장을 이해하는 <strong>FD Vision팀</strong>은 디자인 규칙을 만족하는 정밀 제어형 산업 이미지 생성 연구를 발표했습니다.</p>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%983-1024x576.png" alt="마엔밤-포스터세션3"/></p>
-<p><strong>Runway팀</strong>은 기업이 AI를 안정적으로 개발·배포·운영할 수 있도록 지원하는 AI OS를, <strong>DrawX팀</strong>은 도면을 이해하고 의사결정을 돕는 AI 에이전트를 소개했습니다. 마지막으로 <strong>Cognition팀</strong>은 제조·국방 분야의 복잡한 엔지니어링 도면 AI 기술을 개발하고 있으며, 학습 데이터 부족 문제를 해결하기 위해 실제 도면의 구조와 표기 특성을 반영한 합성 도면 데이터 생성 기술을 발표했습니다.</p>
-<h2>마키나락스는 사실 락밴드다? 엔지니어들의 플레이타임</h2>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EB%A0%88%ED%81%AC%EB%A0%88%EC%9D%B4%EC%85%98-1024x576.png" alt="마엔밤 레크레이션"/></p>
-<p>성장과 기술 이야기만 하루 종일 한 것은 아닙니다. 마엔밤답게 팀 액티비티 역시 AI와 엔지니어링 감성을 듬뿍 담았습니다.</p>
-<p>첫 번째 미션은 <strong>이모지 다섯 개만으로 Runway를 설명하기</strong>였습니다. 피자, 성, 비행기, 로켓, 그래프 이모지만으로 ‘컴퓨팅 자원을 효율적으로 나누고, 폐쇄망 환경에서도 안정적으로 AI를 운영하며, 고객의 비즈니스를 빠르게 성장시키는 플랫폼’이라는 설명을 만들어내는 팀도 있었습니다.</p>
-<p>두 번째 미션은 <strong>‘마키나락스는 사실</strong> ○○○<strong>이다’라는 주제로 음모론을 만드는 게임</strong>이었습니다. ‘마키나락스는 사실 락밴드다’라는 설정 아래, 윤성호 대표가 정규 1집 앨범 ‘Runway’를 발표했고 대통령 앞에서 축하 공연까지 했다는 그럴듯한(?) 세계관이 탄생해 모두를 웃게 했습니다.</p>
-<p>마지막 미션은 <strong>마키나락스 30초 광고 만들기</strong>였습니다. AI가 직접 만든 영상 콘티를 활용한 팀도 있었고, 드라마 패러디부터 감성 광고까지 각 팀만의 개성이 담긴 광고가 이어졌습니다. 특히 윤성호 대표를 모델로 커피 광고를 만든 팀은 많은 하트를 받았습니다.</p>
-<h2>트로피 대신 AI 바우처, 마엔밤 시상식</h2>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%8B%9C%EC%83%81%EC%8B%9D-1024x576.png" alt="마엔밤-시상식"/><p>축하합니다!</p></div>
-<p>포스터 세션은 참가자들의 투표를 통해 우수 포스터를 선정했습니다. 또한 팀 액티비티 결과를 바탕으로 Team Building 우승팀도 함께 발표했습니다.</p>
-<p>🏆 Best Poster : FD Agent</p>
-<p>🥈 Excellence Poster : FD Vision</p>
-<p>🥉 Impact Poster : Cognition</p>
-<p>시상 역시 AI 회사답게 조금 특별했습니다. <strong>트로피나 상품권 대신 AI Tool 바우처를 부상으로 제공</strong>했는데요. 수상 팀은 팀 단위로 다양한 AI 도구를 자유롭게 활용할 수 있는 바우처를 받았습니다. 엔지니어의 성장을 응원하는 행사인 만큼 가장 필요한 선물도 역시 AI였습니다.</p>
-<h2>마키나락스 엔지니어 깐부 회동</h2>
-<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EA%B9%90%EB%B6%80%ED%9A%8C%EB%8F%99-1024x576.png" alt="마키나락스 깐부회동"/><p>마키나락스 깐부회동 현장</p></div>
-<p>행사의 마지막은 <strong>MEN Dinner, 부제는 ‘마키나락스 엔지니어 깐부 회동’</strong>입니다. 포스터 세션에서 시간이 부족해 다 하지 못했던 질문, 팀 액티비티를 하며 처음 친해진 사람들과의 대화가 저녁 식사 자리에서 자연스럽게 이어졌습니다. 특히 운영팀은 포스터 세션 투표 결과를 저녁 자리 배치와 연결해 평소 자주 만나지 못했던 엔지니어들이 함께 앉을 수 있도록 구성했는데요. 덕분에 “우리 팀에도 이 기술을 적용해 볼 수 있을까요?”와 같은 이야기부터 서로의 프로젝트 경험까지, 기술과 사람이 함께 연결되는 시간이 이어졌습니다.</p>
-<h2>마엔밤, 어땠나요?</h2>
-<p>행사의 의미는 참여한 사람들이 더 잘 말해줍니다. 마엔밤을 다녀온 엔지니어들의 이야기를 소개합니다.</p>
-<p>“평소에는 다른 팀이 어떤 기술을 개발하고 있는지 자세히 알 기회가 거의 없었습니다. 이번 포스터 세션에서는 기술적인 내용과 프로젝트 경험을 가감 없이 솔직하게 공유해 주셔서 정말 좋았습니다. 발표를 준비하면서도 많은 질문을 받았는데, 오히려 그 과정에서 저도 새로운 관점을 얻고 많이 배울 수 있었습니다. 마키나락스의 기술적 내실을 함께 다질 수 있는 시간이었습니다.” <strong>-FD 프론티어팀 서강욱님</strong></p>
-<p>“1회 마엔밤과 비교하면 회사가 정말 많이 성장했다는 것이 느껴졌습니다. 참여하는 팀도 다양해졌고, 공유하는 기술도 훨씬 풍성해졌어요!” <strong>– FD 모델 최적화팀 이제열님</strong></p>
-<p>“평소 AI들과만 대화하느라 동료들과의 대화 시간이 점점 줄고 있었는데, 마엔밤에서 오랜만에 옹기종기 모여 앉아 근황도 나누고 업무 인사이트도 얻을 수 있어 정말 좋은 시간이었습니다. 처음에는 모두 조금 어색했지만, 시간이 지날수록 서로 가까워지고 적극적으로 참여하는 모습을 보며 오랜만에 컴퓨터 바깥세상에서 즐거운 시간을 보냈습니다.” <strong>-플랫폼팀 김인호님</strong></p>
-<p>“마엔밤 준비 과정에 참여하면서 행사의 취지와 의미를 더 깊이 이해할 수 있었습니다. 행사를 성공적으로 운영하기 위해 많은 분들의 노력과 준비가 필요하다는 점도 새삼 느꼈고, 그 과정에 조금이나마 함께할 수 있어 뿌듯했습니다.” <strong>-FD 에이전트팀 황가희님</strong></p>
-<p>“평소에는 프로젝트에 치여 다른 엔지니어들과 이야기하고 교류할 시간이 부족했는데, 오늘은 그런 아쉬움을 많이 채울 수 있었습니다. 앞으로도 마엔밤처럼 서로 어떤 기술을 만들고 있는지 공유하고, 엔지니어 관점에서 시너지를 낼 수 있는 문화가 계속 이어졌으면 좋겠습니다.”<strong> – CAIO 임용섭님</strong></p>
-<p><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84-1024x576.png" alt=""/></p>
-<p>지금까지 마엔밤 현장에서 함께했습니다. 현장에서 치열하게 기술을 만들고, 동료와 경험을 나누며, 더 나은 엔지니어로 성장하기 위해 서로를 연결되는 시간이었습니다. 마키나락스의 문화가 더 궁금하다면, 지금 마키나락스 채용 페이지에서 더 많은 이야기를 만나보세요.</p>
-<p><a href="https://makinarocks.career.greetinghr.com/ko/home"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/06/MakinaRocks-Recruit-banner-no-date-1024x160.png" alt=""/></a></p>
-
+	<div>마키나락스에는 엔지니어가 많습니다. 그리고 다들 바쁩니다. 어떤 팀은 현장에 나가 있고, 어떤 팀은 새로운 모델을 학습시키고 있으며, 또 다른 팀은 Runway, DrawX와 같은 제품을 만들고 있습니다. 각자 프로젝트를 진행하고 고객 현장을 오가다 보면 같은 회사에서 일하면서도 서로 얼굴 볼 시간이 많지 않습니다.</div>
+	<div>이런 아쉬움에서 시작한 행사가<strong> MakinaRocks Engineers’ Night, 줄여서 마엔밤(MEN)</strong>입니다. 올해 두 번째를 맞은 마엔밤의 슬로건은 <strong>‘Build. Share. Connect.’</strong> AI 기술을 만들고, 경험을 나누고, 엔지니어들을 연결한다는 의미를 담았습니다.</div>
+	<div>오랜만에 한자리에 모인 마키나락스 엔지니어들이 서로의 기술과 고민을 공유하고, 함께 배우고, 웃으며 조금 더 가까워졌던 하루를 소개합니다.</div>
+	<h2>마키나락스 엔지니어는 ‘자부심’입니다</h2>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%A0%84%EC%B2%B4-1024x576.png" alt=""/></div>
+	<blockquote>
+		<div><strong>“마키나락스 엔지니어는 회사의 자부심이자 제 자부심입니다.”</strong></div>
+	</blockquote>
+	<div>마엔밤은 윤성호 대표의 한마디로 시작했습니다. 상장 이후 미디어, 투자자, 고객, 파트너 등 다양한 곳에서 마키나락스를 소개할 기회가 생길 때마다 자신 있게 말할 수 있는 이유는 마키나락스 엔지니어들이 현장에서 만들어내는 기술과 가치가 있기 때문이라고 강조했어요.</div>
+	<div>그래서일까요. <strong>‘마키나락스 엔지니어는 어떻게 성장할 수 있을까’</strong> 항상 고민한다고 합니다. 깊은 고심 끝에 엔지니어의 성장을 세 가지로 정의하며 마키나락스가 지향하는 엔지니어의 성장 방향을 공유했습니다.</div>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%9C%A4%EC%84%B1%ED%98%B8-%EB%8C%80%ED%91%9C-1024x576.png" alt="마키나락스 윤성호 대표"/>
+		<div>마키나락스 윤성호 대표</div>
+	</div>
+	<div>첫 번째는 <strong>현장에서 동작하는 AI를 만들기 위해 치열하게 고민하는 과정</strong>입니다. 고객의 문제를 끝까지 파고들며 AI가 현실에서 실제로 동작하도록 만드는 경험 자체가 엔지니어를 성장시킨다고 강조했습니다. 두 번째는 <strong>기술이 제품이 되고 자산이 되는 경험</strong>입니다. 하나의 프로젝트에서 끝나는 것이 아니라 Runway, DrawX, 애플리케이션, 내부 개발 도구처럼 반복해서 활용할 수 있는 기술 자산으로 발전시키는 경험이 중요하다고 설명했습니다.</div>
+	<div>마지막은 <strong>교류</strong>입니다. 좋은 기술은 혼자 만드는 것이 아니라 서로의 경험을 공유하며 함께 발전합니다. 다른 팀이 어떤 문제를 풀고 있는지 듣고, 질문하고, 토론하는 과정 역시 엔지니어의 중요한 성장 경험이라고 말했습니다. 바쁜 일정 속에서도 마엔밤을 이어가는 이유를 엿볼 수 있었습니다.</div>
+	<h2>AI 시대, 엔지니어의 역할을 다시 묻다</h2>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%95%98%EC%9A%A9%ED%98%B8-%EA%B9%80%EC%B0%AC%EB%9E%80-%EB%8C%80%ED%91%9C%EB%8B%98-1024x576.png" alt="하용호 대표(좌)와 김찬란 대표(우)"/>
+		<div>하용호 대표(좌)와 김찬란 대표(우)</div>
+	</div>
+	<div>이번 마엔밤에는 두 명의 전문가가 함께했습니다. <strong>데이터오븐 하용호 대표는 ‘AI Agent 시대, 엔지니어의 역할과 일하는 방식 변화’를 주제로 강연을 진행</strong>했습니다. AI Agent가 개발 문화를 어떻게 바꾸고 있는지, 그리고 그 변화 속에서 엔지니어는 어떤 역할을 해야 하는지 함께 고민해 보는 시간이었습니다.</div>
+	<div>가짜연구소 김찬란 대표는 빠르게 변화하는 <strong>AI 시대 속에서 엔지니어에게 필요한 태도와 역량</strong>에 대해 이야기하며, 기술보다 중요한 것은 끊임없이 배우고 적응하는 자세라는 인사이트를 전했습니다.</div>
+	<h2>7개 팀이 공유한 마키나락스의 기술과 프로젝트</h2>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%98-1024x576.png" alt="마엔밤-포스터세션"/></div>
+	<div>마엔밤의 핵심 프로그램은 <strong>MEN Poster Session: Inside the Build</strong>입니다. 평소에는 각자 프로젝트에 몰두하느라 다른 팀이 어떤 기술을 만들고 있는지 깊이 들여다볼 기회가 많지 않습니다. 이번 포스터 세션에서는 발표자가 직접 포스터 앞에 서서 프로젝트를 소개하고, 참가자들은 자유롭게 이동하며 질문을 주고받는 방식으로 진행됐습니다.</div>
+	<div>총 7개 팀이 참여했습니다. 제한된 컴퓨팅 자원에서도 최고의 AI 성능을 구현하는 <strong>FD 모델 최적화팀</strong>은 ‘Inference Engine’을 선보였고, LLM으로 산업 현장의 AI 활용을 쉽게 만드는 <strong>FD Agent팀</strong>은 팀이 실제 업무에서 AI Agent를 활용하는 방법과 경험을 공유했습니다.</div>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%982-1024x576.png" alt="마엔밤-포스터세션2"/></div>
+	<div>산업 현장의 난제를 AI로 해결하는 <strong>FD 프론티어팀</strong>은 ‘Stowage Planning’을 통해 복잡한 적재 계획을 최적화하는 기술을 소개했습니다. 이미지와 영상으로 산업 현장을 이해하는 <strong>FD Vision팀</strong>은 디자인 규칙을 만족하는 정밀 제어형 산업 이미지 생성 연구를 발표했습니다.</div>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EC%84%B8%EC%85%983-1024x576.png" alt="마엔밤-포스터세션3"/></div>
+	<div><strong>Runway팀</strong>은 기업이 AI를 안정적으로 개발·배포·운영할 수 있도록 지원하는 AI OS를, <strong>DrawX팀</strong>은 도면을 이해하고 의사결정을 돕는 AI 에이전트를 소개했습니다. 마지막으로 <strong>Cognition팀</strong>은 제조·국방 분야의 복잡한 엔지니어링 도면 AI 기술을 개발하고 있으며, 학습 데이터 부족 문제를 해결하기 위해 실제 도면의 구조와 표기 특성을 반영한 합성 도면 데이터 생성 기술을 발표했습니다.</div>
+	<h2>마키나락스는 사실 락밴드다? 엔지니어들의 플레이타임</h2>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EB%A0%88%ED%81%AC%EB%A0%88%EC%9D%B4%EC%85%98-1024x576.png" alt="마엔밤 레크레이션"/></div>
+	<div>성장과 기술 이야기만 하루 종일 한 것은 아닙니다. 마엔밤답게 팀 액티비티 역시 AI와 엔지니어링 감성을 듬뿍 담았습니다.</div>
+	<div>첫 번째 미션은 <strong>이모지 다섯 개만으로 Runway를 설명하기</strong>였습니다. 피자, 성, 비행기, 로켓, 그래프 이모지만으로 ‘컴퓨팅 자원을 효율적으로 나누고, 폐쇄망 환경에서도 안정적으로 AI를 운영하며, 고객의 비즈니스를 빠르게 성장시키는 플랫폼’이라는 설명을 만들어내는 팀도 있었습니다.</div>
+	<div>두 번째 미션은 <strong>‘마키나락스는 사실</strong> ○○○<strong>이다’라는 주제로 음모론을 만드는 게임</strong>이었습니다. ‘마키나락스는 사실 락밴드다’라는 설정 아래, 윤성호 대표가 정규 1집 앨범 ‘Runway’를 발표했고 대통령 앞에서 축하 공연까지 했다는 그럴듯한(?) 세계관이 탄생해 모두를 웃게 했습니다.</div>
+	<div>마지막 미션은 <strong>마키나락스 30초 광고 만들기</strong>였습니다. AI가 직접 만든 영상 콘티를 활용한 팀도 있었고, 드라마 패러디부터 감성 광고까지 각 팀만의 개성이 담긴 광고가 이어졌습니다. 특히 윤성호 대표를 모델로 커피 광고를 만든 팀은 많은 하트를 받았습니다.</div>
+	<h2>트로피 대신 AI 바우처, 마엔밤 시상식</h2>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EC%8B%9C%EC%83%81%EC%8B%9D-1024x576.png" alt="마엔밤-시상식"/>
+		<div>축하합니다!</div>
+	</div>
+	<div>포스터 세션은 참가자들의 투표를 통해 우수 포스터를 선정했습니다. 또한 팀 액티비티 결과를 바탕으로 Team Building 우승팀도 함께 발표했습니다.</div>
+	<div>🏆 Best Poster : FD Agent</div>
+	<div>🥈 Excellence Poster : FD Vision</div>
+	<div>🥉 Impact Poster : Cognition</div>
+	<div>시상 역시 AI 회사답게 조금 특별했습니다. <strong>트로피나 상품권 대신 AI Tool 바우처를 부상으로 제공</strong>했는데요. 수상 팀은 팀 단위로 다양한 AI 도구를 자유롭게 활용할 수 있는 바우처를 받았습니다. 엔지니어의 성장을 응원하는 행사인 만큼 가장 필요한 선물도 역시 AI였습니다.</div>
+	<h2>마키나락스 엔지니어 깐부 회동</h2>
+	<div>
+		<img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EA%B9%90%EB%B6%80%ED%9A%8C%EB%8F%99-1024x576.png" alt="마키나락스 깐부회동"/>
+		<div>마키나락스 깐부회동 현장</div>
+	</div>
+	<div>행사의 마지막은 <strong>MEN Dinner, 부제는 ‘마키나락스 엔지니어 깐부 회동’</strong>입니다. 포스터 세션에서 시간이 부족해 다 하지 못했던 질문, 팀 액티비티를 하며 처음 친해진 사람들과의 대화가 저녁 식사 자리에서 자연스럽게 이어졌습니다. 특히 운영팀은 포스터 세션 투표 결과를 저녁 자리 배치와 연결해 평소 자주 만나지 못했던 엔지니어들이 함께 앉을 수 있도록 구성했는데요. 덕분에 “우리 팀에도 이 기술을 적용해 볼 수 있을까요?”와 같은 이야기부터 서로의 프로젝트 경험까지, 기술과 사람이 함께 연결되는 시간이 이어졌습니다.</div>
+	<h2>마엔밤, 어땠나요?</h2>
+	<div>행사의 의미는 참여한 사람들이 더 잘 말해줍니다. 마엔밤을 다녀온 엔지니어들의 이야기를 소개합니다.</div>
+	<div>“평소에는 다른 팀이 어떤 기술을 개발하고 있는지 자세히 알 기회가 거의 없었습니다. 이번 포스터 세션에서는 기술적인 내용과 프로젝트 경험을 가감 없이 솔직하게 공유해 주셔서 정말 좋았습니다. 발표를 준비하면서도 많은 질문을 받았는데, 오히려 그 과정에서 저도 새로운 관점을 얻고 많이 배울 수 있었습니다. 마키나락스의 기술적 내실을 함께 다질 수 있는 시간이었습니다.” <strong>-FD 프론티어팀 서강욱님</strong></div>
+	<div>“1회 마엔밤과 비교하면 회사가 정말 많이 성장했다는 것이 느껴졌습니다. 참여하는 팀도 다양해졌고, 공유하는 기술도 훨씬 풍성해졌어요!” <strong>– FD 모델 최적화팀 이제열님</strong></div>
+	<div>“평소 AI들과만 대화하느라 동료들과의 대화 시간이 점점 줄고 있었는데, 마엔밤에서 오랜만에 옹기종기 모여 앉아 근황도 나누고 업무 인사이트도 얻을 수 있어 정말 좋은 시간이었습니다. 처음에는 모두 조금 어색했지만, 시간이 지날수록 서로 가까워지고 적극적으로 참여하는 모습을 보며 오랜만에 컴퓨터 바깥세상에서 즐거운 시간을 보냈습니다.” <strong>-플랫폼팀 김인호님</strong></div>
+	<div>“마엔밤 준비 과정에 참여하면서 행사의 취지와 의미를 더 깊이 이해할 수 있었습니다. 행사를 성공적으로 운영하기 위해 많은 분들의 노력과 준비가 필요하다는 점도 새삼 느꼈고, 그 과정에 조금이나마 함께할 수 있어 뿌듯했습니다.” <strong>-FD 에이전트팀 황가희님</strong></div>
+	<div>“평소에는 프로젝트에 치여 다른 엔지니어들과 이야기하고 교류할 시간이 부족했는데, 오늘은 그런 아쉬움을 많이 채울 수 있었습니다. 앞으로도 마엔밤처럼 서로 어떤 기술을 만들고 있는지 공유하고, 엔지니어 관점에서 시너지를 낼 수 있는 문화가 계속 이어졌으면 좋겠습니다.”<strong> – CAIO 임용섭님</strong></div>
+	<div><img src="https://www.makinarocks.ai/wp-content/uploads/2026/07/%EB%A7%88%EC%97%94%EB%B0%A4-%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84-1024x576.png" alt=""/></div>
+	<div>지금까지 마엔밤 현장에서 함께했습니다. 현장에서 치열하게 기술을 만들고, 동료와 경험을 나누며, 더 나은 엔지니어로 성장하기 위해 서로를 연결되는 시간이었습니다. 마키나락스의 문화가 더 궁금하다면, 지금 마키나락스 채용 페이지에서 더 많은 이야기를 만나보세요.</div>
+	<div><a href="https://makinarocks.career.greetinghr.com/ko/home"><img src="https://www.makinarocks.ai/wp-content/uploads/2026/06/MakinaRocks-Recruit-banner-no-date-1024x160.png" alt=""/></a></div>
 </div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
 </rss>
