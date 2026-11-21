@@ -4,7 +4,7 @@
 		<title>국방과학연구소 제안서 공모</title>
 		<link>https://www.add.re.kr/kps/publicNtis/ntisList?menuId=MENU02201</link>
 		<description>국방과학연구소 제안서 공모</description>
-		<lastBuildDate>Sat, 21 Nov 2026 10:28:01 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 21 Nov 2026 10:46:10 +0900</lastBuildDate>
 		<ttl>240</ttl>
 		<item>
 			<title>[재공모] 위탁연구기관 선정을 위한 제안서 공모 (위탁과제명: 최적의 통합 AT-SoC 보안구조 설계 및 시뮬레이션 기반 검증방안 연구)</title>
@@ -12,11 +12,7 @@
 			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1773&amp;menuId=MENU02201&amp;titleId=0</guid>
 			<category>공모안내</category>
 			<pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<br/>
-
-<br/>
-
-<div>위탁연구기관 선정을 위한 제안서 공모</div>
+			<description><![CDATA[<div>위탁연구기관 선정을 위한 제안서 공모</div>
 <div>(과제명 : 무기체계 적용 공통 안티탬퍼링 기술)</div>
 <br/>
 
@@ -35,32 +31,16 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>위탁연구명</div>
-			</td>
-			<td>
-				<div>단 계</div>
-			</td>
-			<td>
-				<div>기간/예산(억 원)</div>
-			</td>
-			<td>
-				<div>위탁연구 제안요청서(RFP)</div>
-			</td>
+			<td><div>위탁연구명</div></td>
+			<td><div>단 계</div></td>
+			<td><div>기간/예산(억 원)</div></td>
+			<td><div>위탁연구 제안요청서(RFP)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>최적의 통합 AT-SoC 보안구조 설계 및 시뮬레이션 기반 검증방안 연구</div>
-			</td>
-			<td>
-				<div>시험개발</div>
-			</td>
-			<td>
-				<div>‘26.12~’28.11/2.0</div>
-			</td>
-			<td>
-				<div>별첨.1</div>
-			</td>
+			<td><div>최적의 통합 AT-SoC 보안구조 설계 및 시뮬레이션 기반 검증방안 연구</div></td>
+			<td><div>시험개발</div></td>
+			<td><div>‘26.12~’28.11/2.0</div></td>
+			<td><div>별첨.1</div></td>
 		</tr>
 	</tbody>
 </table>
@@ -72,93 +52,47 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>구 분</div>
-			</td>
-			<td>
-				<div>추진 일정</div>
-			</td>
-			<td>
-				<div>수행 부서</div>
-			</td>
+			<td><div>구 분</div></td>
+			<td><div>추진 일정</div></td>
+			<td><div>수행 부서</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안요청서(RFP) 공고</div>
-			</td>
-			<td>
-				<div>'26.11.19.</div>
-			</td>
-			<td>
-				<div>국과연(3연구원 2부)</div>
-			</td>
+			<td><div>위탁연구 제안요청서(RFP) 공고</div></td>
+			<td><div>'26.11.19.</div></td>
+			<td><div>국과연(3연구원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안서 작성</div>
-			</td>
-			<td>
-				<div>’26.11.19.~’26.11.30.</div>
-			</td>
-			<td>
-				<div>응모기관</div>
-			</td>
+			<td><div>위탁연구 제안서 작성</div></td>
+			<td><div>’26.11.19.~’26.11.30.</div></td>
+			<td><div>응모기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구제안서 접수 마감</div>
-			</td>
-			<td>
-				<div>‘26.11.30.</div>
-			</td>
-			<td>
-				<div>국과연(3연구원 2부)</div>
-			</td>
+			<td><div>위탁연구제안서 접수 마감</div></td>
+			<td><div>‘26.11.30.</div></td>
+			<td><div>국과연(3연구원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가계획 수립</div>
-			</td>
-			<td>
-				<div>‘26.11.</div>
-			</td>
-			<td>
-				<div>국과연(3연구원 2부)</div>
-			</td>
+			<td><div>제안서 평가계획 수립</div></td>
+			<td><div>‘26.11.</div></td>
+			<td><div>국과연(3연구원 2부)</div></td>
 		</tr>
 		<tr>
 			<td>
 				<div>제안서 평가/<br/>
 					 위탁연구기관 선정</div>
 			</td>
-			<td>
-				<div>‘26.12.</div>
-			</td>
-			<td>
-				<div>국과연</div>
-			</td>
+			<td><div>‘26.12.</div></td>
+			<td><div>국과연</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구기관 선정결과 해당기관 통보</div>
-			</td>
-			<td>
-				<div>‘26.12.</div>
-			</td>
-			<td>
-				<div>국과연(3연구원 2부) → 해당기관</div>
-			</td>
+			<td><div>위탁연구기관 선정결과 해당기관 통보</div></td>
+			<td><div>‘26.12.</div></td>
+			<td><div>국과연(3연구원 2부) → 해당기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 계획서 작성 제출</div>
-			</td>
-			<td>
-				<div>‘26.12.</div>
-			</td>
-			<td>
-				<div>해당기관 → 국과연(3연구원 2부)</div>
-			</td>
+			<td><div>위탁연구 계획서 작성 제출</div></td>
+			<td><div>‘26.12.</div></td>
+			<td><div>해당기관 → 국과연(3연구원 2부)</div></td>
 		</tr>
 	</tbody>
 </table>
@@ -204,12 +138,8 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<p>시 제 명</p>
-			</td>
-			<td>
-				<p>단 계</p>
-			</td>
+			<td><p>시 제 명</p></td>
+			<td><p>단 계</p></td>
 			<td>
 				<p>기간/</p>
 				<p>예산(천원)</p>
@@ -218,9 +148,7 @@
 				<p>과제설명회</p>
 				<p>일시/장소</p>
 			</td>
-			<td>
-				<p>현장실사</p>
-			</td>
+			<td><p>현장실사</p></td>
 			<td>
 				<p>시제제작</p>
 				<p>제안요청서</p>
@@ -228,12 +156,8 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
-				<p>고출력 전자기파 연속 방사장치</p>
-			</td>
-			<td>
-				<p>시험개발</p>
-			</td>
+			<td><p>고출력 전자기파 연속 방사장치</p></td>
+			<td><p>시험개발</p></td>
 			<td>
 				<p>계약일 ~'29.11.</p>
 				<p>(36개월) / 18,400,670</p>
@@ -243,12 +167,8 @@
 				<p>오후 2시 ~ 4시/</p>
 				<p>국과연 복지관 제2강의장</p>
 			</td>
-			<td>
-				<p>대상과제</p>
-			</td>
-			<td>
-				<p>붙임. 1</p>
-			</td>
+			<td><p>대상과제</p></td>
+			<td><p>붙임. 1</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -262,88 +182,44 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<p>구 분</p>
-			</td>
-			<td>
-				<p>추진 일정</p>
-			</td>
-			<td>
-				<p>비고</p>
-			</td>
+			<td><p>구 분</p></td>
+			<td><p>추진 일정</p></td>
+			<td><p>비고</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>제안요청서(RFP) 공고</p>
-			</td>
-			<td>
-				<p>'26.11.17.(화요일)</p>
-			</td>
-			<td>
-				<p>재공고</p>
-			</td>
+			<td><p>제안요청서(RFP) 공고</p></td>
+			<td><p>'26.11.17.(화요일)</p></td>
+			<td><p>재공고</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>제안서 작성</p>
-			</td>
-			<td>
-				<p>'26.11.24.~'26.12.7.</p>
-			</td>
-			<td>
-				<p>과제설명회 이후 10일 이상</p>
-			</td>
+			<td><p>제안서 작성</p></td>
+			<td><p>'26.11.24.~'26.12.7.</p></td>
+			<td><p>과제설명회 이후 10일 이상</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>과제 설명회</p>
-			</td>
-			<td>
-				<p>'26.11.24.(화요일)</p>
-			</td>
-			<td>
-				<p>국과연 복지관 제2강의장</p>
-			</td>
+			<td><p>과제 설명회</p></td>
+			<td><p>'26.11.24.(화요일)</p></td>
+			<td><p>국과연 복지관 제2강의장</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>제안서 접수(마감)</p>
-			</td>
-			<td>
-				<p>'26.12.7.(월요일)</p>
-			</td>
+			<td><p>제안서 접수(마감)</p></td>
+			<td><p>'26.12.7.(월요일)</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>제안기관(업체) 현장실사</p>
-			</td>
-			<td>
-				<p>'26.12.(중)</p>
-			</td>
+			<td><p>제안기관(업체) 현장실사</p></td>
+			<td><p>'26.12.(중)</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>제안서평가</p>
-			</td>
-			<td>
-				<p>'26.12.(말)</p>
-			</td>
+			<td><p>제안서평가</p></td>
+			<td><p>'26.12.(말)</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>협상</p>
-			</td>
-			<td>
-				<p>'26.12.(말)</p>
-			</td>
+			<td><p>협상</p></td>
+			<td><p>'26.12.(말)</p></td>
 		</tr>
 		<tr>
-			<td>
-				<p>선정결과 통보</p>
-			</td>
-			<td>
-				<p>'26.12.(말)</p>
-			</td>
+			<td><p>선정결과 통보</p></td>
+			<td><p>'26.12.(말)</p></td>
 		</tr>
 	</tbody>
 </table>
@@ -398,11 +274,7 @@
 			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1770&amp;menuId=MENU02201&amp;titleId=0</guid>
 			<category>공모안내</category>
 			<pubDate>Mon, 16 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<br/>
-
-<br/>
-
-<div>위탁연구기관 선정을 위한 제안서 공모</div>
+			<description><![CDATA[<div>위탁연구기관 선정을 위한 제안서 공모</div>
 <div>(세부과제명 : 스텔스 전투기 기체용 복합소재)</div>
 <br/>
 
@@ -421,32 +293,16 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>위탁연구명</div>
-			</td>
-			<td>
-				<div>단 계</div>
-			</td>
-			<td>
-				<div>기간/예산(억 원)</div>
-			</td>
-			<td>
-				<div>위탁연구 제안요청서(RFP)</div>
-			</td>
+			<td><div>위탁연구명</div></td>
+			<td><div>단 계</div></td>
+			<td><div>기간/예산(억 원)</div></td>
+			<td><div>위탁연구 제안요청서(RFP)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>축소형 테스트베드 기반 레이돔 전파성능 해석 연구</div>
-			</td>
-			<td>
-				<div>미래도전</div>
-			</td>
-			<td>
-				<div>‘27. 1.~ ’28. 6. /1.5</div>
-			</td>
-			<td>
-				<div>별첨.1</div>
-			</td>
+			<td><div>축소형 테스트베드 기반 레이돔 전파성능 해석 연구</div></td>
+			<td><div>미래도전</div></td>
+			<td><div>‘27. 1.~ ’28. 6. /1.5</div></td>
+			<td><div>별첨.1</div></td>
 		</tr>
 	</tbody>
 </table>
@@ -456,101 +312,51 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>구 분</div>
-			</td>
-			<td>
-				<div>추진 일정</div>
-			</td>
-			<td>
-				<div>수행 부서</div>
-			</td>
+			<td><div>구 분</div></td>
+			<td><div>추진 일정</div></td>
+			<td><div>수행 부서</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안요청서(RFP) 공고</div>
-			</td>
-			<td>
-				<div>'26. 11. 16.</div>
-			</td>
-			<td>
-				<div>국과연(3기술연구원 6부)</div>
-			</td>
+			<td><div>위탁연구 제안요청서(RFP) 공고</div></td>
+			<td><div>'26. 11. 16.</div></td>
+			<td><div>국과연(3기술연구원 6부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안서 작성</div>
-			</td>
-			<td>
-				<div>'26. 11. 16. ～ '26. 12. 28.</div>
-			</td>
-			<td>
-				<div>응모기관</div>
-			</td>
+			<td><div>위탁연구 제안서 작성</div></td>
+			<td><div>'26. 11. 16. ～ '26. 12. 28.</div></td>
+			<td><div>응모기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안요청서 설명회</div>
-			</td>
-			<td>
-				<div>‘26. 11. 20.</div>
-			</td>
-			<td>
-				<div>국과연 산학회관</div>
-			</td>
+			<td><div>위탁연구 제안요청서 설명회</div></td>
+			<td><div>‘26. 11. 20.</div></td>
+			<td><div>국과연 산학회관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구제안서 접수(마감)</div>
-			</td>
-			<td>
-				<div>'26. 12. 28.</div>
-			</td>
-			<td>
-				<div>국과연(3기술연구원 6부)</div>
-			</td>
+			<td><div>위탁연구제안서 접수(마감)</div></td>
+			<td><div>'26. 12. 28.</div></td>
+			<td><div>국과연(3기술연구원 6부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가계획 수립</div>
-			</td>
-			<td>
-				<div>'26. 12.</div>
-			</td>
-			<td>
-				<div>국과연(3기술연구원 6부)</div>
-			</td>
+			<td><div>제안서 평가계획 수립</div></td>
+			<td><div>'26. 12.</div></td>
+			<td><div>국과연(3기술연구원 6부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가/위탁연구기관 선정</div>
-			</td>
-			<td>
-				<div>'27. 1.</div>
-			</td>
-			<td>
-				<div>국과연</div>
-			</td>
+			<td><div>제안서 평가/위탁연구기관 선정</div></td>
+			<td><div>'27. 1.</div></td>
+			<td><div>국과연</div></td>
 		</tr>
 		<tr>
 			<td>
 				<div>위탁연구기관 선정결과</div>
 				<div>해당기관 통보</div>
 			</td>
-			<td>
-				<div>'27. 1.</div>
-			</td>
-			<td>
-				<div>국과연(3기술연구원 6부) → 해당기관</div>
-			</td>
+			<td><div>'27. 1.</div></td>
+			<td><div>국과연(3기술연구원 6부) → 해당기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 계획서 작성 제출</div>
-			</td>
-			<td>
-				<div>'27. 1.</div>
-			</td>
+			<td><div>위탁연구 계획서 작성 제출</div></td>
+			<td><div>'27. 1.</div></td>
 			<td>
 				<div>해당기관 →</div>
 				<div>국과연(3기술연구원 6부)</div>
@@ -617,11 +423,7 @@
 			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1767&amp;menuId=MENU02201&amp;titleId=0</guid>
 			<category>공모안내</category>
 			<pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<br/>
-
-<br/>
-
-<div>위탁연구기관 선정을 위한 제안서 공모</div>
+			<description><![CDATA[<div>위탁연구기관 선정을 위한 제안서 공모</div>
 <div>(위탁연구명 : 자연어 지시 기반 비정형 환경 임무 수행을 위한 족형 모바일 매니퓰레이터의 이동-조작 전신제어 기술 연구)</div>
 <br/>
 
@@ -642,32 +444,16 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>위탁연구명</div>
-			</td>
-			<td>
-				<div>단 계</div>
-			</td>
-			<td>
-				<div>기간/예산(억 원)</div>
-			</td>
-			<td>
-				<div>위탁연구 제안요청서(RFP)</div>
-			</td>
+			<td><div>위탁연구명</div></td>
+			<td><div>단 계</div></td>
+			<td><div>기간/예산(억 원)</div></td>
+			<td><div>위탁연구 제안요청서(RFP)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>자연어 지시 기반 비정형 환경 임무 수행을 위한 족형 모바일 매니퓰레이터의 이동-조작 전신제어 기술 연구</div>
-			</td>
-			<td>
-				<div>미래도전</div>
-			</td>
-			<td>
-				<div>‵27.착수월~ 25개월 / 3.0</div>
-			</td>
-			<td>
-				<div>별첨.1</div>
-			</td>
+			<td><div>자연어 지시 기반 비정형 환경 임무 수행을 위한 족형 모바일 매니퓰레이터의 이동-조작 전신제어 기술 연구</div></td>
+			<td><div>미래도전</div></td>
+			<td><div>‵27.착수월~ 25개월 / 3.0</div></td>
+			<td><div>별첨.1</div></td>
 		</tr>
 	</tbody>
 </table>
@@ -679,92 +465,44 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>구 분</div>
-			</td>
-			<td>
-				<div>추진 일정</div>
-			</td>
-			<td>
-				<div>수행 부서</div>
-			</td>
+			<td><div>구 분</div></td>
+			<td><div>추진 일정</div></td>
+			<td><div>수행 부서</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안요청서(RFP) 공고</div>
-			</td>
-			<td>
-				<div>‵26.11.12</div>
-			</td>
-			<td>
-				<div>국과연(인공지능원 2부)</div>
-			</td>
+			<td><div>위탁연구 제안요청서(RFP) 공고</div></td>
+			<td><div>‵26.11.12</div></td>
+			<td><div>국과연(인공지능원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안서 작성</div>
-			</td>
-			<td>
-				<div>‵26.11.12 ~ ‵26.12.22</div>
-			</td>
-			<td>
-				<div>응모기관</div>
-			</td>
+			<td><div>위탁연구 제안서 작성</div></td>
+			<td><div>‵26.11.12 ~ ‵26.12.22</div></td>
+			<td><div>응모기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구제안서 접수(마감)</div>
-			</td>
-			<td>
-				<div>‵26.12.22</div>
-			</td>
-			<td>
-				<div>국과연(인공지능원 2부)</div>
-			</td>
+			<td><div>위탁연구제안서 접수(마감)</div></td>
+			<td><div>‵26.12.22</div></td>
+			<td><div>국과연(인공지능원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가계획 수립</div>
-			</td>
-			<td>
-				<div>‵26.12.</div>
-			</td>
-			<td>
-				<div>국과연(인공지능원 2부)</div>
-			</td>
+			<td><div>제안서 평가계획 수립</div></td>
+			<td><div>‵26.12.</div></td>
+			<td><div>국과연(인공지능원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가/위탁연구기관 선정</div>
-			</td>
-			<td>
-				<div>‵27.01.</div>
-			</td>
-			<td>
-				<div>국과연</div>
-			</td>
+			<td><div>제안서 평가/위탁연구기관 선정</div></td>
+			<td><div>‵27.01.</div></td>
+			<td><div>국과연</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구기관 선정결과 해당기관 통보</div>
-			</td>
-			<td>
-				<div>‵27.01.</div>
-			</td>
-			<td>
-				<div>국과연 → 해당기관</div>
-			</td>
+			<td><div>위탁연구기관 선정결과 해당기관 통보</div></td>
+			<td><div>‵27.01.</div></td>
+			<td><div>국과연 → 해당기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 계획서 작성 제출</div>
-			</td>
-			<td>
-				<div>‵27.01.</div>
-			</td>
-			<td>
-				<div>해당기관 → 국과연</div>
-			</td>
+			<td><div>위탁연구 계획서 작성 제출</div></td>
+			<td><div>‵27.01.</div></td>
+			<td><div>해당기관 → 국과연</div></td>
 		</tr>
 	</tbody>
 </table>
@@ -796,11 +534,7 @@
 			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1766&amp;menuId=MENU02201&amp;titleId=0</guid>
 			<category>공모안내</category>
 			<pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<br/>
-
-<br/>
-
-<div>위탁연구기관 선정을 위한 제안서 공모</div>
+			<description><![CDATA[<div>위탁연구기관 선정을 위한 제안서 공모</div>
 <div>(위탁연구명 : 이종 로봇팀 자율 협업을 위한 인지·추론형 임무 관리 에이전트 및 학습 기반 협동 계획 기술 연구)</div>
 <br/>
 
@@ -821,32 +555,16 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>위탁연구명</div>
-			</td>
-			<td>
-				<div>단 계</div>
-			</td>
-			<td>
-				<div>기간/예산(억 원)</div>
-			</td>
-			<td>
-				<div>위탁연구 제안요청서(RFP)</div>
-			</td>
+			<td><div>위탁연구명</div></td>
+			<td><div>단 계</div></td>
+			<td><div>기간/예산(억 원)</div></td>
+			<td><div>위탁연구 제안요청서(RFP)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>이종 로봇팀 자율 협업을 위한 인지·추론형 임무 관리 에이전트 및 학습 기반 협동 계획 기술 연구</div>
-			</td>
-			<td>
-				<div>미래도전</div>
-			</td>
-			<td>
-				<div>‵27.착수월~ 25개월 / 3.0</div>
-			</td>
-			<td>
-				<div>별첨.1</div>
-			</td>
+			<td><div>이종 로봇팀 자율 협업을 위한 인지·추론형 임무 관리 에이전트 및 학습 기반 협동 계획 기술 연구</div></td>
+			<td><div>미래도전</div></td>
+			<td><div>‵27.착수월~ 25개월 / 3.0</div></td>
+			<td><div>별첨.1</div></td>
 		</tr>
 	</tbody>
 </table>
@@ -858,92 +576,44 @@
 <table>
 	<tbody>
 		<tr>
-			<td>
-				<div>구 분</div>
-			</td>
-			<td>
-				<div>추진 일정</div>
-			</td>
-			<td>
-				<div>수행 부서</div>
-			</td>
+			<td><div>구 분</div></td>
+			<td><div>추진 일정</div></td>
+			<td><div>수행 부서</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안요청서(RFP) 공고</div>
-			</td>
-			<td>
-				<div>‵26.11.12</div>
-			</td>
-			<td>
-				<div>국과연(인공지능원 2부)</div>
-			</td>
+			<td><div>위탁연구 제안요청서(RFP) 공고</div></td>
+			<td><div>‵26.11.12</div></td>
+			<td><div>국과연(인공지능원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 제안서 작성</div>
-			</td>
-			<td>
-				<div>‵26.11.12 ~ ‵26.12.22</div>
-			</td>
-			<td>
-				<div>응모기관</div>
-			</td>
+			<td><div>위탁연구 제안서 작성</div></td>
+			<td><div>‵26.11.12 ~ ‵26.12.22</div></td>
+			<td><div>응모기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구제안서 접수(마감)</div>
-			</td>
-			<td>
-				<div>‵26.12.22</div>
-			</td>
-			<td>
-				<div>국과연(인공지능원 2부)</div>
-			</td>
+			<td><div>위탁연구제안서 접수(마감)</div></td>
+			<td><div>‵26.12.22</div></td>
+			<td><div>국과연(인공지능원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가계획 수립</div>
-			</td>
-			<td>
-				<div>‵26.12.</div>
-			</td>
-			<td>
-				<div>국과연(인공지능원 2부)</div>
-			</td>
+			<td><div>제안서 평가계획 수립</div></td>
+			<td><div>‵26.12.</div></td>
+			<td><div>국과연(인공지능원 2부)</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>제안서 평가/위탁연구기관 선정</div>
-			</td>
-			<td>
-				<div>‵27.01.</div>
-			</td>
-			<td>
-				<div>국과연</div>
-			</td>
+			<td><div>제안서 평가/위탁연구기관 선정</div></td>
+			<td><div>‵27.01.</div></td>
+			<td><div>국과연</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구기관 선정결과 해당기관 통보</div>
-			</td>
-			<td>
-				<div>‵27.01.</div>
-			</td>
-			<td>
-				<div>국과연 → 해당기관</div>
-			</td>
+			<td><div>위탁연구기관 선정결과 해당기관 통보</div></td>
+			<td><div>‵27.01.</div></td>
+			<td><div>국과연 → 해당기관</div></td>
 		</tr>
 		<tr>
-			<td>
-				<div>위탁연구 계획서 작성 제출</div>
-			</td>
-			<td>
-				<div>‵27.01.</div>
-			</td>
-			<td>
-				<div>해당기관 → 국과연</div>
-			</td>
+			<td><div>위탁연구 계획서 작성 제출</div></td>
+			<td><div>‵27.01.</div></td>
+			<td><div>해당기관 → 국과연</div></td>
 		</tr>
 	</tbody>
 </table>
