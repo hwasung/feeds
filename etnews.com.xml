@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 21 Nov 2026 11:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 21 Nov 2026 14:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>안랩 AI 플러스 섹옵스, &apos;개방형 플랫폼&apos;으로…보안업체 간 장벽 허문다</title>
+			<link>https://www.etnews.com/20261113000213</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261113000213</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 21 Nov 2026 12:00:00 +0900</pubDate>
+			<description><![CDATA[안랩이 다음 달 출시하는 '안랩 AI 플러스 섹옵스(SecOps)'를 개방형 보안 운영 플랫폼으로 선보인다. 타사 보안 솔루션의 데이터와 대응 기능까지 연동해 고객이 기존 보안제품을 모두 교체하지 않고도 인공지능(AI) 기반 보안 운영체계를 구축할 수 있도록 지원한다. 김창희 안랩 제품기획본부장은 최근 본지와의 인터뷰에서 “고객들은 이미 다양한 보안제품에 상당한 투자를 해왔다”며 “기존 제품의 데이터를 모아 공격 맥락을 분석하고 대응 기능까지...]]></description>
+		</item>
 		<item>
 			<title>앤트로픽, 상장 이틀째 8.5% 급락…공모가까지 위협</title>
 			<link>https://www.etnews.com/20261121000022</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 15:13:34 +0900</pubDate>
 			<description><![CDATA[셀렉트스타는 대한출판문화협회와 저작권 보호와 인공지능(AI) 학습용 출판데이터 공급체계 구축을 위한 업무협약을 맺었다고 20일 밝혔다. 양측은 출판데이터 정제·가공·구조화와 품질 검증 기술 교류, AI 학습용 데이터 공급체계 마련, 출판데이터 수요처 발굴과 거래 활성화, 정부·공공기관 AI 데이터 사업 공동 참여 등을 추진한다. 출협은 출판사와 협의해 데이터 수집·관리 체계를 마련하고 셀렉트스타는 데이터 가공·품질 검증 기술과 보안 인프라를 지...]]></description>
-		</item>
-		<item>
-			<title>웅진씽크빅, 겨울 캠페인 &apos;공부 밀도 올려주는 스마트올&apos; 시작</title>
-			<link>https://www.etnews.com/20261120000262</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000262</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 15:12:04 +0900</pubDate>
-			<description><![CDATA[웅진씽크빅이 겨울 성수기 캠페인 '공부 밀도 올려주는 스마트올'을 연말까지 진행한다. 이번 캠페인 핵심 키워드는 공부 밀도다. 책상에 오래 앉아 있는 것보다 같은 시간 동안 꼭 필요한 공부에 집중하는 것이 중요하다는 의미를 담았다. 인공지능(AI) 기반 전과목 학습 플랫폼 웅진스마트올이 아이 학습 수준과 취약점을 정밀하게 진단해 짧은 시간 공부하더라도 학습 효율을 높일 수 있다는 메시지로 이어진다. 캠페인 광고 영상은 오는 26일 웅진씽크빅 공...]]></description>
 		</item>
 	</channel>
 </rss>
