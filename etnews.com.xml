@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 20 Nov 2026 19:30:30 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 21 Nov 2026 11:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>앤트로픽, 상장 이틀째 8.5% 급락…공모가까지 위협</title>
+			<link>https://www.etnews.com/20261121000022</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261121000022</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 21 Nov 2026 10:07:56 +0900</pubDate>
+			<description><![CDATA[역대 최대 규모 자금을 조달하며 성공적인 데뷔를 마친 인공지능(AI) 기업 앤트로픽이 상장 이틀째 급락세를 보이며 공모가까지 위협받았다. 20일(현지시간) 뉴욕 나스닥 시장에서 앤트로픽 주가는 전장 대비 8.5% 급락한 88.91달러로 정규장을 마쳤다. 앤트로픽은 장 중 한때 83.05달러까지 떨어지며 주당 83달러였던 공모가 수준까지 추락했다가 낙폭을 일부 회복했다. 이에 따라 앤트로픽의 시가 총액도 1조1600만 달러 수준으로 낮아지면서 전...]]></description>
+		</item>
+		<item>
+			<title>앤트로픽 연구원 “AI 클로드, 수학 최대 난제 리만가설 증명” 주장</title>
+			<link>https://www.etnews.com/20261121000021</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261121000021</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 21 Nov 2026 10:05:55 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 기업 앤트로픽의 한 연구원이 이 회사의 챗봇 클로드로 수학계의 최대 난제 중 하나로 꼽히는 리만 가설을 증명했다고 주장했다는 보도가 나왔다. 20일(현지시간) AFP통신과 파이낸셜타임스 등 보도에 따르면 수학자이기도 한 앤트로픽 연구원 레벤트 알포게는 이날 자신의 웹사이트에 올린 글과 4쪽짜리 문서를 통해 “클로드와 협업해 리만 가설의 증명을 발견했다고 믿는다”고 주장했다. 이 주장은 아직 독립적으로 검증되거나 외부 전문가의 정...]]></description>
+		</item>
+		<item>
+			<title>[미리보는 소프트웨이브 2026] 〈1〉AI 혁신부터 투자·수출까지…SW 산업 비즈니스 장 연다</title>
+			<link>https://www.etnews.com/20261120000213</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000213</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 21 Nov 2026 10:00:00 +0900</pubDate>
+			<description><![CDATA[인공지능(AI)과 소프트웨어(SW) 산업의 최신 기술과 혁신 솔루션을 한자리에서 살펴보고 글로벌 비즈니스 기회까지 모색하는 자리가 마련된다. 국내 SW 기업이 산업 현장에 적용할 수 있는 기술과 서비스를 선보이고 기업 간 사업 협력과 투자 유치, 해외 시장 진출 기회를 모색한다. 전자신문사는 '제11회 대한민국 소프트웨어대전, AI x 소프트웨이브 2026'을 12월 2일부터 4일까지 사흘간 서울 코엑스 A홀에서 개최한다. 'INNOVATION...]]></description>
+		</item>
+		<item>
+			<title>[ET톡] 공공기관 해킹 사전 예방이 먼저</title>
+			<link>https://www.etnews.com/20261120000205</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000205</guid>
+			<author>양승민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 21 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[공공기관 사이버 보안에 다시 한번 경고등이 켜졌다. 한국조폐공사는 최근 지역사랑상품권 플랫폼 '착(chak)'에 외부 비인가 접근이 발생해 개인정보가 유출된 사실을 인정하고 국민에게 사과했다. 국민이 일상에서 이용하는 공공서비스에서 개인정보가 유출됐다는 점에서 가볍게 넘길 일이 아니다. 사이버 공격 수법은 갈수록 다양해지고 있다. 랜섬웨어와 악성코드를 유포하거나 내부 시스템의 취약점을 파고드는 등 공격은 한층 정교해졌다. 공공기관은 국민 개인정...]]></description>
+		</item>
 		<item>
 			<title>클라우데라, 데이터 주권 지키는 &apos;애니웨어 클라우드&apos; 전략 제시</title>
 			<link>https://www.etnews.com/20261120000323</link>
@@ -59,42 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 20 Nov 2026 15:12:04 +0900</pubDate>
 			<description><![CDATA[웅진씽크빅이 겨울 성수기 캠페인 '공부 밀도 올려주는 스마트올'을 연말까지 진행한다. 이번 캠페인 핵심 키워드는 공부 밀도다. 책상에 오래 앉아 있는 것보다 같은 시간 동안 꼭 필요한 공부에 집중하는 것이 중요하다는 의미를 담았다. 인공지능(AI) 기반 전과목 학습 플랫폼 웅진스마트올이 아이 학습 수준과 취약점을 정밀하게 진단해 짧은 시간 공부하더라도 학습 효율을 높일 수 있다는 메시지로 이어진다. 캠페인 광고 영상은 오는 26일 웅진씽크빅 공...]]></description>
-		</item>
-		<item>
-			<title>위세아이텍 “AI 에이전트로 공공분야 데이터 분석 보고 업무 혁신”</title>
-			<link>https://www.etnews.com/20261120000256</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000256</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 14:50:46 +0900</pubDate>
-			<description><![CDATA[엔드투엔드 AI·데이터 플랫폼 기업 위세아이텍(대표 김다산, 이제동)은 19일 코엑스 그랜드볼룸에서 열린 '제28회 공공솔루션마켓'에 참가해 AI 에이전트를 활용한 공공 데이터 분석·보고 업무 혁신 방안을 발표했다고 20일 밝혔다. 공공솔루션마켓은 공공기관 정보화 담당자와 IT 기업이 모여 공공 정보화 정책과 최신 기술 동향을 공유하는 행사다. 올해는 'AI로 여는 공공 혁신 대도약'을 주제로 AI·행정혁신, AI 데이터·보안·사이버 복원력,...]]></description>
-		</item>
-		<item>
-			<title>국가AI전략위, 전남광주 AI·AX 현장 방문…“메가프로젝트 지원”</title>
-			<link>https://www.etnews.com/20261120000248</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000248</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 14:32:37 +0900</pubDate>
-			<description><![CDATA[국가인공지능전략위원회가 전남광주 지역 인공지능(AI) 정책 현장을 19일부터 이틀간 방문했다. 국산 AI 반도체와 AI 인프라, 조선 AX(AI전환) 현장을 직접 살폈다. 지난 6월 정부가 '대한민국 대도약 3대 메가프로젝트'로 전남광주를 메모리 팹 4기가 들어서는 제2 반도체 생산거점으로 육성하기로 하고, 8월 '3대 메가프로젝트 연계 권역별 성장엔진 육성방안'에서 서남권을 '재생에너지 기반 반도체·AI 클러스터'로 키우기로 한 데 따른 현장...]]></description>
-		</item>
-		<item>
-			<title>KISA, 악성 문자 5억건·스팸 전화 1200만건 사전 차단</title>
-			<link>https://www.etnews.com/20261120000021</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000021</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 14:00:00 +0900</pubDate>
-			<description><![CDATA[한국인터넷진흥원(KISA)이 민간기업과 협력해 악성 문자 약 5억건과 스팸 전화 약 1200만건을 이용자 수신 전에 차단했다. 국민이 신고한 스팸 데이터를 인공지능(AI)으로 분석하고 민간기업의 차단 기술과 결합한 성과다. KISA와 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 '2026 스팸 데이터 개방 성과 공유회'를 개최하고 이 같은 성과를 발표했다. 대표 사례는 삼성전자와 공동 개발한 AI 기반 '악성 메시지 차단' 서비스다....]]></description>
-		</item>
-		<item>
-			<title>한국이러닝협회, 원격훈련 실무자를 위한 AI 활용 교육 실시</title>
-			<link>https://www.etnews.com/20261120000224</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000224</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 20 Nov 2026 13:58:19 +0900</pubDate>
-			<description><![CDATA[한국이러닝협회는 지난 18일 서울글로벌센터빌딩 국제회의장에서 '2026 원격훈련 종사자 실무 교육'을 개최했다고 20일 밝혔다. 이번 교육은 원격훈련기관 전산·운영 담당자의 실무 역량을 강화하고, AI 기술을 활용한 업무 효율화와 교육 콘텐츠 제작 방안을 공유하기 위해 마련됐다. 현장에는 협회 회원사와 비회원사 등 다양한 원격훈련기관의 관계자들이 참석했다. 강호준 한국이러닝협회 국장은 인사말을 통해 2027년 사업주훈련에서 AI 기초 및 융합훈...]]></description>
 		</item>
 	</channel>
 </rss>
