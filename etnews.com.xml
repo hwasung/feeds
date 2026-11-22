@@ -4,8 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sun, 22 Nov 2026 17:30:33 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 06:30:35 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[테크 차이나] 선물가격을 지탱하는 창고…중국 구리 인도망 실체</title>
+			<link>https://www.etnews.com/20261105000419</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000419</guid>
+			<category>오피니언</category>
+			<pubDate>Mon, 23 Nov 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[화면에는 같은 구리 가격이 보이는데 실제 구매 견적은 서로 다르다. 어느 공장에서 만든 제품인지, 어느 창고에 있는지, 세금을 낸 상태인지, 언제 꺼내 쓸 수 있는지가 다르기 때문이다. 선물가격은 중요한 기준이지만 공장에 도착한 원료의 최종 가격은 아니다. 이 차이를 설명하는 실물 인도 체계가 있어야 금융시장의 숫자가 제조업의 구매 결정과 연결된다. 중국 원자재시장의 산업적 기반은 거래 가능한 제품의 품질을 정하고 보관과 권리 이전, 대금 정산...]]></description>
+		</item>
 		<item>
 			<title>[IP경영기업 탐방] 와이즈인컴퍼니, CSAP 인증 설문 SaaS &apos;와이즈온&apos;으로 공공기관 국민 개인정보보호 활동 지원한다</title>
 			<link>https://www.etnews.com/20261119000390</link>
@@ -84,15 +92,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Sun, 22 Nov 2026 12:00:00 +0900</pubDate>
 			<description><![CDATA[정부가 은행·증권·보험사에 이어 카카오페이·토스 등 전자금융 플랫폼에도 주민등록증 진위확인 체계를 확대한다. 정부의 신분증 검증시스템을 민간 플랫폼의 비대면 본인확인 절차와 연계해 위·변조 신분증을 이용한 부정거래 가능성을 줄이고 전자금융거래의 안전성을 높이겠다는 취지다. 행정안전부는 23일부터 카카오페이와 토스의 비대면 고객확인 과정에 정부의 주민등록증 진위확인 서비스를 적용한다고 22일 밝혔다. 주민등록증 진위확인 서비스는 금융서비스 이용자...]]></description>
-		</item>
-		<item>
-			<title>노타, 독일 &apos;피지컬 AI 연구&apos; 강화…로봇 최적화 시장 공략</title>
-			<link>https://www.etnews.com/20261122000039</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261122000039</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 22 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[노타가 독일법인을 중심으로 피지컬 인공지능(AI) 분야 연구 역량을 강화한다. 기존 AI 모델 경량화·최적화 기술을 로봇·월드모델 등 피지컬 AI 분야로 확대 적용한다. 22일 업계에 따르면 노타 독일법인은 최근 피지컬 AI 분야 머신러닝(ML) 연구인력 채용에 착수했다. 독일 베를린에 위치한 유럽 연구조직에서 온디바이스 AI와 피지컬 AI 모델 최적화 기술을 개발한다. 핵심 방향은 로봇의 환경 인식과 행동 제어에 활용되는 AI 모델 최적화 기...]]></description>
 		</item>
 	</channel>
 </rss>
