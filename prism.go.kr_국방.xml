@@ -4,8 +4,30 @@
 		<title>정책연구관리시스템 - 국방</title>
 		<link>https://www.prism.go.kr/</link>
 		<description>정책연구관리시스템 - 국방</description>
-		<lastBuildDate>Wed, 11 Nov 2026 12:04:21 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 22 Nov 2026 18:33:01 +0900</lastBuildDate>
 		<ttl>1440</ttl>
+		<item>
+			<title>실증 기반의 국방 AX 산업 생태계 조성</title>
+			<link>https://www.prism.go.kr/homepage/asmt/6530000-202600039</link>
+			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/6530000-202600039</guid>
+			<author>한국국방기술학회</author>
+			<category>국방</category>
+			<pubDate>Wed, 30 Sep 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<ul>
+<li>관리기관: 강원특별자치도</li>
+<li>수행기관: 한국국방기술학회</li>
+<li>연구기간: 2026-06-11 ~ 2026-09-30</li>
+</ul>
+<br/>
+<b>목차</b><br/>
+<br/>
+1&nbsp;연구개요	<BR&nbsp;/>2&nbsp;국방&nbsp;AX&nbsp;산업생태계와&nbsp;강원&nbsp;추진방향	<BR&nbsp;/>3&nbsp;단계별&nbsp;실증모델과&nbsp;실증&nbsp;인프라&nbsp;기본구상	<BR&nbsp;/>4&nbsp;강원형&nbsp;국방&nbsp;AX&nbsp;실증체계&nbsp;및&nbsp;운영모델	<BR&nbsp;/>5&nbsp;사업구조·소요예산&nbsp;및&nbsp;추진로드맵	<BR&nbsp;/>6&nbsp;정책제언&nbsp;및&nbsp;기대효과	<br/>
+<br/>
+<b>초록</b><br/>
+<br/>
+&nbsp;「본&nbsp;과제는&nbsp;비공개&nbsp;연구입니다&nbsp;향후&nbsp;공개&nbsp;시&nbsp;제공할&nbsp;예정입니다」]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>방위사업감독 조직 및 역할 고도화 방안 연구</title>
 			<link>https://www.prism.go.kr/homepage/asmt/1690000-202600018</link>
@@ -124,7 +146,6 @@
 			<category>국방</category>
 			<pubDate>Sat, 24 Jan 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<ul><li>과제명: 지속가능한 방산수출 기반 마련을 위한 수출품목 다변화 방안 연구</li><li>주제분류: 국방</li><li>공개구분: 공개</li><li>수행기관: 안보경영연구원</li><li>진행단계: 연구결과활용</li><li>관리기관: 방위사업청</li><li>연구기간: 2025-10-24 ~ 2026-01-24</li></ul>]]></description>
-			<x-step-failed>fetch_detail</x-step-failed>
 		</item>
 		<item>
 			<title>군 복무 중 사망한 미순직자 재조사 등 방안 연구</title>
@@ -191,16 +212,6 @@
 <br/>
 각 군의 드론 관제체계 구축 및 향후 체계 통합을 위한 추지전략을 수립하고 드론 통합관제체계 구축 이후 효율적이고 효과적인 관리부대 선정을 위한 연구]]></description>
 			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>군사시설보호구역등의 토지이용규제 정비방안 연구</title>
-			<link>https://www.prism.go.kr/homepage/asmt/1290000-202600013</link>
-			<guid isPermaLink="true">https://www.prism.go.kr/homepage/asmt/1290000-202600013</guid>
-			<author>LX 공간정보연구원</author>
-			<category>국방</category>
-			<pubDate>Fri, 26 Dec 2025 00:00:00 +0900</pubDate>
-			<description><![CDATA[<ul><li>과제명: 군사시설보호구역등의 토지이용규제 정비방안 연구</li><li>주제분류: 국방</li><li>공개구분: 비공개</li><li>수행기관: LX 공간정보연구원</li><li>진행단계: 연구결과활용</li><li>관리기관: 국방부</li><li>연구기간: 2025-08-28 ~ 2025-12-26</li></ul>]]></description>
-			<x-step-failed>fetch_detail</x-step-failed>
 		</item>
 	</channel>
 </rss>
