@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 23 Nov 2026 06:30:35 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 07:30:28 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>미국 항공사 전산 장애 도미노…델타항공도 이륙 지연</title>
+			<link>https://www.etnews.com/20261123000049</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000049</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 06:29:36 +0900</pubDate>
+			<description><![CDATA[미국 항공업계에서 전산·자동화 시스템 장애로 인한 운항 차질이 잇따르고 있다. 연방항공청(FAA) 관제통신 장비와 유나이티드항공 전산 시스템에 이어 델타항공에서도 자동화 프로그램 오류가 발생해 항공편 운항이 지연됐다. CNN과 뉴욕타임스(NYT)는 22일(현지시간) 델타항공의 항공기 중량·평형 계산 시스템에 문제가 생겨 조지아주 애틀랜타 하츠필드-잭슨 국제공항에서 항공기 이륙이 약 1시간 동안 지연됐다고 보도했다. 해당 시스템은 승객과 화물 탑...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 선물가격을 지탱하는 창고…중국 구리 인도망 실체</title>
 			<link>https://www.etnews.com/20261105000419</link>
@@ -83,15 +92,6 @@
 			<category>오피니언</category>
 			<pubDate>Sun, 22 Nov 2026 13:00:00 +0900</pubDate>
 			<description><![CDATA[탄소발자국과 탄소국경조정제도(CBAM) 등 글로벌 청정체제 전환 요구는 어제오늘 불거진 돌발 악재가 아니다. 기후위기 대응과 탈탄소 기조 속에 앞으로도 더욱 촘촘하고 강력해질 수밖에 없는 예견된 현실이다. 유럽가전협회(APPLiA)와 프랑스·독일 등 유럽연합(EU) 주도 6개국이 2027년 채택을 목표로 '유럽 가전산업 행동계획' 수립을 촉구한 것도 이러한 거대한 흐름의 연장선이라 하겠다. 유럽 역내 생산 비중 하락과 일자리 감소를 명분으로 C...]]></description>
-		</item>
-		<item>
-			<title>행안부 신분증 검증망, 카카오페이·토스까지 확대…전자 금융 안전성 강화</title>
-			<link>https://www.etnews.com/20261121000055</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261121000055</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 22 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[정부가 은행·증권·보험사에 이어 카카오페이·토스 등 전자금융 플랫폼에도 주민등록증 진위확인 체계를 확대한다. 정부의 신분증 검증시스템을 민간 플랫폼의 비대면 본인확인 절차와 연계해 위·변조 신분증을 이용한 부정거래 가능성을 줄이고 전자금융거래의 안전성을 높이겠다는 취지다. 행정안전부는 23일부터 카카오페이와 토스의 비대면 고객확인 과정에 정부의 주민등록증 진위확인 서비스를 적용한다고 22일 밝혔다. 주민등록증 진위확인 서비스는 금융서비스 이용자...]]></description>
 		</item>
 	</channel>
 </rss>
