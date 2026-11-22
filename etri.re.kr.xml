@@ -4,116 +4,156 @@
 		<title>ETRI 단행본/발표자료</title>
 		<link>https://ksp.etri.re.kr/ksp/plan-report/search</link>
 		<description>ETRI 단행본/발표자료</description>
-		<lastBuildDate>Wed, 18 Nov 2026 17:57:39 +0900</lastBuildDate>
+		<lastBuildDate>Sun, 22 Nov 2026 18:31:20 +0900</lastBuildDate>
 		<ttl>1440</ttl>
 		<item>
-			<title>AI 글래스 확산에 따른 사회적 이슈 및 대응 동향 분석</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1574&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1574&amp;dataDivCd=01</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:24 +0900</pubDate>
+			<title>[표준화 Newsletter] 제206호 (2026.03.31)</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1566&amp;dataDivCd=02</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1566&amp;dataDivCd=02</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:57 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1574.pdf">[이슈&amp;트렌드+2026-02]+AI글래스+확산에+따른+사회적_이슈+및+대응+동향+분석(유지우).pdf (1.43 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1566.pdf">ETRI+표준화+뉴스레터+2026년+3월호.pdf (0.43 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>Physical AI 시대, 디스플레이 역할 재조명</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1572&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1572&amp;dataDivCd=01</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:23 +0900</pubDate>
+			<title>[표준화 Newsletter] 제205호 (2026.02.28)</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1565&amp;dataDivCd=02</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1565&amp;dataDivCd=02</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:56 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1572.pdf">[ICT전략연구+2026-05]+Physical+AI+시대,+디스플레이+역할+재조명.pdf (1.37 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1565.pdf">ETRI+표준화+뉴스레터+2026년+2월호.pdf (0.45 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>[표준화 Newsletter] 제210호 (2026.07.31)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1570&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1570&amp;dataDivCd=02</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:22 +0900</pubDate>
+			<title>AI 시대 미디어의 새로운 기능과 역할: Media for AI</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1557&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1557&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:55 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1570.pdf">ETRI+표준화+뉴스레터+2026년+7월호.pdf (0.41 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1557.pdf">[이슈&amp;트렌드+2025-08]+AI시대+미디어의+새로운+기능과+역할_Media+for+AI(이찬규+외).pdf (1.16 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>On Body Device 폼팩터별 기능 구현 수준 및 개선 가능성 분석</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1571&amp;dataDivCd=01</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:21 +0900</pubDate>
+			<title>디지털 콘텐츠 생태계 선순환 구조 검토: 네트워크 투자 유인 중심으로</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1556&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1556&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:54 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1571.pdf">[ICT전략연구+2026-03]+On+Body+Device+폼팩터별+기능+구현+수준+및+개선+가능성+분석.pdf (1.55 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1556.pdf">[이슈&amp;트렌드+2026-01]+디지털+콘텐츠+생태계+선순환+구조+검토_네트워크+투자+유인+중심으로(유현수+외).pdf (1.48 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>추론의 시대, AI 구조 전환과 기술패권 전망</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1562&amp;dataDivCd=01</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:20 +0900</pubDate>
+			<title>[표준화 Newsletter] 제204호 (2026.01.30)</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1564&amp;dataDivCd=02</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1564&amp;dataDivCd=02</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:53 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1562.pdf">[ICT전략연구+2026-01]+추론의+시대,+AI+구조+전환과+기술패권+전망(이승민).pdf (2.11 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1564.pdf">ETRI+표준화+뉴스레터+2026년+1월호.pdf (0.44 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>[표준화 Newsletter] 제209호 (2026.06.30)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1569&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1569&amp;dataDivCd=02</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:19 +0900</pubDate>
+			<title>지각 특화 AI 반도체 투자 타당성 검토 : 기술 니즈와 시장 수요 중심으로</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1553&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1553&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:52 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1569.pdf">ETRI+표준화+뉴스레터+2026년+6월호.pdf (0.45 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1553.pdf">[ICT전략연구-01]+지각+특화+AI+반도체+투자+타당성+검토_기술+니즈와+시장+수요+중심으로(이성준+외).pdf (4.46 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>Quantum-AI 융합: 계산과 지능의 공진화 프레임워크</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1563&amp;dataDivCd=01</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:18 +0900</pubDate>
+			<title>[Quantum 시리즈 25-3] 양자 컴퓨팅 산업 가치사슬 네트워크 분석: 협력 관계를 중심으로</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1554&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1554&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:51 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1563.pdf">[ICT전략연구+2026-02]+Quantum-AI+융합_계산과+지능의+공진화+프레임워크.pdf (1.05 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1554.pdf">[이슈&amp;트렌드+2025-07]+양자+컴퓨팅+산업+가치사슬+네트워크+분석_협력관계를+중심으로(이종용+외)_F★_re.pdf (5.22 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>ETRI TechBiz Insight Vol.8</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1561&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1561&amp;dataDivCd=02</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:17 +0900</pubDate>
+			<title>[Quantum 시리즈 25-2] 양자 컴퓨팅 지배적 디자인 탐색: 큐비트 구현 방식 중심으로</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1552&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1552&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:50 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1561.pdf">ETRI+테크비즈+인사이트(TechBiz+Insight)_vol.8(m).pdf (24.41 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1552.pdf">[이슈&amp;트렌드+2025-06]+양자+컴퓨팅+지배적+디자인+탐색_큐비트+구현+방식+중심으로(이주연+외).pdf (2.39 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>[표준화 Newsletter] 제208호 (2026.05.31)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1568&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1568&amp;dataDivCd=02</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:16 +0900</pubDate>
+			<title>[Quantum 시리즈 25-1] 양자 컴퓨팅 기술 발전의 전략적 혁신 그리드</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1555&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1555&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:49 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1568.pdf">ETRI+표준화+뉴스레터+2026년+5월호.pdf (0.39 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1555.pdf">[이슈&amp;트렌드+2025-05]+양자+컴퓨팅+기술+발전의+전략적+혁신+그리드(허필선+외)★.pdf (2.67 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 		<item>
-			<title>[표준화 Newsletter] 제207호 (2026.04.30)</title>
-			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1567&amp;dataDivCd=02</link>
-			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1567&amp;dataDivCd=02</guid>
-			<pubDate>Wed, 18 Nov 2026 17:57:15 +0900</pubDate>
+			<title>[ICT정책 이슈&amp;트렌드] 기술정책과 혁신전략: 연구 동향 및 국내외 정책 비교</title>
+			<link>https://ksp.etri.re.kr/ksp/plan-report/read?id=1558&amp;dataDivCd=01</link>
+			<guid isPermaLink="true">https://ksp.etri.re.kr/ksp/plan-report/read?id=1558&amp;dataDivCd=01</guid>
+			<pubDate>Sun, 22 Nov 2026 18:30:48 +0900</pubDate>
 			<description><![CDATA[
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1567.pdf">ETRI+표준화+뉴스레터+2026년+4월호.pdf (0.43 MB)</a></li>
-</ul></div>]]></description>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://ksp.etri.re.kr/ksp/plan-report/file/1558.pdf">[이슈&amp;트렌드+2025-09]+기술정책과+혁신전략_연구+동향+및+국내외+정책+비교(유영상+외).pdf (1.65 MB)</a></li>
+	</ul>
+</div>]]></description>
 			<x-step-done>fetch_attachment_head</x-step-done>
 		</item>
 	</channel>
