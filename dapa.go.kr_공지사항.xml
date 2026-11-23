@@ -4,8 +4,31 @@
 		<title>방위사업청 공지사항</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&amp;bbsSeq=443</link>
 		<description>방위사업청 공지사항</description>
-		<lastBuildDate>Mon, 23 Nov 2026 09:30:13 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 14:30:12 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>국방 연구개발 사업 중소기업자 우선선정 품목지정 공고</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59507&amp;menuSeq=3031&amp;bbsSeq=443</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59507&amp;menuSeq=3031&amp;bbsSeq=443</guid>
+			<author>관리자</author>
+			<category>일반공지</category>
+			<category>공지사항</category>
+			<pubDate>Mon, 23 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>방위사업청 공고 제2026-144호</div><br/>
+<div><strong>중소기업자 우선선정 품목지정 공고</strong></div><br/>
+<div>「국방 연구개발 사업 중소기업자 우선선정 품목지정 제도 운영에 관한 고시」 제10조제5항에 따라 “중소기업자 우선선정 품목”을 다음과 같이 지정 공고합니다.</div><br/>
+<div>2026년 11월 23일</div>
+<div>방위사업청장</div><br/>
+<div><u>※ 자세한 사항은 첨부문서를 참고하시기 바랍니다.</u></div>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59507&amp;fileNum=1">중소기업자 우선선정 품목지정 공고문(261123).hwpx (0.05 MB)</a></li>
+	</ul>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>[다족보행로봇 사업] (예비)사업설명회 사전 신원조사 및 보안측정 안내</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59481&amp;menuSeq=3031&amp;bbsSeq=443</link>
@@ -156,20 +179,6 @@
 <hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59439&amp;fileNum=1">붙임 1. 27-1차 방산수출 지원사업 통합설명회 안내문.pdf (0.07 MB)</a></li>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59439&amp;fileNum=2">붙임 2. 27-1차 방산수출 지원사업 통합설명회 홍보 배너.jpg (0.12 MB)</a></li>
-</ul></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>AI 분야 선도연구기관 지정 결과</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59429&amp;menuSeq=3031&amp;bbsSeq=443</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59429&amp;menuSeq=3031&amp;bbsSeq=443</guid>
-			<author>관리자</author>
-			<category>일반공지</category>
-			<category>공지사항</category>
-			<pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div>공고번호 : 제2026 - 138호</div><br/><div><b>[AI분야 선도연구기관]</b></div><br/><div><b>한국전자통신연구원 / 한국과학기술원 / LG AI연구원</b></div><br/><div>○ 지정 기간 : 2026. 11. 2. ~ 2031. 12. 31.</div><br/><div>○ 문의 : 방위사업청 방산중소기업지원과 ☎ (02) 2079-6470</div><br/><div><u>※ 자세한 내용은 첨부문서를 참고하시기 바랍니다.</u></div>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59429&amp;fileNum=1">AI분야 선도연구기관 지정 결과.hwpx (0.02 MB)</a></li>
 </ul></div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
