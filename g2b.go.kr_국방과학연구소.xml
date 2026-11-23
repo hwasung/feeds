@@ -4,8 +4,22 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Mon, 23 Nov 2026 14:30:48 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 17:32:04 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[등록공고][일반용역] LS-DYNA 128 Cores 유지보수</title>
+			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01849415&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01849415&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Mon, 23 Nov 2026 17:18:36 +0900</pubDate>
+			<description><![CDATA[<ul>
+	<li>공고/수요기관: 국방과학연구소</li>
+	<li>공고번호: R26BK01849415</li>
+	<li>마감일시: 2026-12-01 10:00</li>
+	<li>개찰일시: 2026-12-01 11:00</li>
+</ul>]]></description>
+		</item>
 		<item>
 			<title>[사전규격][물품&#40;내자&#41;] 업무용 PC 저장매체 복사기</title>
 			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00304777</link>
@@ -400,20 +414,6 @@
 			<description><![CDATA[<ul>
 	<li>공고/수요기관: 국방과학연구소</li>
 	<li>참고번호: R26BD00302768</li>
-</ul>]]></description>
-		</item>
-		<item>
-			<title>[등록공고][물품&#40;내자&#41;] 위성통신/3D프린팅 실험실 환경개선</title>
-			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01840505&amp;bidPbancOrd=000</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01840505&amp;bidPbancOrd=000</guid>
-			<author>국방과학연구소</author>
-			<category>입찰공고</category>
-			<pubDate>Wed, 18 Nov 2026 17:54:28 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고/수요기관: 국방과학연구소</li>
-	<li>공고번호: R26BK01840505</li>
-	<li>마감일시: 2026-11-30 10:00</li>
-	<li>개찰일시: 2026-11-30 11:00</li>
 </ul>]]></description>
 		</item>
 	</channel>
