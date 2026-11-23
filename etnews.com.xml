@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 24 Nov 2026 06:30:33 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2026 08:30:33 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>오픈AI, GPT-6.2 일반 대화로 도입 확대…실사용 성능 강화</title>
+			<link>https://www.etnews.com/20261124000020</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261124000020</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 24 Nov 2026 07:34:21 +0900</pubDate>
+			<description><![CDATA[오픈AI가 차세대 인공지능(AI) 모델 'GPT-6.2'를 챗GPT 일반 대화 서비스에도 도입하고 전 세계 배포에 나섰다. 오픈AI는 23일(현지시간) 공식 릴리즈 노트를 통해 챗GPT 일반 대화 화면 '채팅탭'에 최적화한 GPT-6.2를 순차 확대 제공한다고 밝혔다. 이미지 이해와 복잡한 지시 수행, 웹 검색 등 실사용 성능을 강화해 이용자 편의성을 높인 것이 특징이다. 이번 모델은 지난 17일 공개한 'GPT-6.2 솔'을 기반으로 일상적인...]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 중국 결제망의 확장…기업의 돈은 언제 쓸 수 있게 되나</title>
 			<link>https://www.etnews.com/20261105000422</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 23 Nov 2026 18:43:58 +0900</pubDate>
 			<description><![CDATA[무아베모션은 현대건설과 안전교육 콘텐츠 개발을 위한 업무협약(MOU)을 체결했다고 23일 밝혔다. 양사는 생성형 인공지능(AI)과 인터랙션 기술을 활용해 안전보건교육 콘텐츠와 건설장비 사용법, 작업 절차 등을 담은 체험형 디지털 매뉴얼을 공동 개발할 계획이다. 기존 교육 자료를 사용자가 조작할 수 있는 실습형 콘텐츠 '플레이어블'로 전환한다. 앱 설치 없이 스마트폰으로 화면 속 안전장비를 조작하고 사고 상황별 대응 절차를 연습하는 방식이다. 향...]]></description>
-		</item>
-		<item>
-			<title>이노베이션아카데미, AI·SW 인재양성 성과 26일 공유한다</title>
-			<link>https://www.etnews.com/20261123000505</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261123000505</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 23 Nov 2026 18:43:07 +0900</pubDate>
-			<description><![CDATA[이노베이션아카데미가 2026 성과 공유 컨퍼런스 '코디세이 AI인재 웨이브'를 26일 서울 양재동 엘타워에서 개최한다. AX 인재 양성 플랫폼 '코디세이' 운영 성과를 공유하고 인공지능(AI)·소프트웨어(SW) 인재 양성에 관심 있는 기업·기관과 소통·교류하는 자리로 마련된다. 1부는 개회식과 김두현 이노베이션아카데미 학장 코디세이 발전 방향 선포로 문을 연다. 우수 교육생에 대한 부총리 겸 과학기술정보통신부 장관상 등 시상식이 진행된다. 2부...]]></description>
 		</item>
 	</channel>
 </rss>
