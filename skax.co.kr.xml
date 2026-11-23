@@ -4,13 +4,80 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Fri, 20 Nov 2026 18:35:40 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 18:37:36 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>생성형 AI 다음은 의사결정 AI, Jev가 앞당긴 기업의 AI 판단 위임 설계</title>
+			<link>https://www.skax.co.kr/insight/trend/3934/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3934/</guid>
+			<pubDate>Mon, 23 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_의사결정AI.png" alt=""/></p>
+	<table>
+		<tbody>
+			<tr>
+				<td>
+					<h3><strong>한눈에 보는 핵심 인사이트</strong></h3>
+					<p><em>TypeSafe AI가 2026년 9월 공개한 Jev는 글을 쓰는 AI가 아니라 답을 고르는 AI입니다. 상황과 질문, 선택지를 주면 그중 하나를 확률과 함께 돌려줍니다. 응답은 0.5초 안에 끝나고 출력 비용은 들지 않습니다. AI의 판단이 이렇게 저렴하고 빨라지면 기업이 고민할 지점도 달라집니다. Jev는 사람이 정해 준 질문과 선택지 안에서만 판단하기 때문에, 무엇을 판단시킬지를 사람이 먼저 정해야 합니다. 어떤 모델을 쓸지보다 앞서, 어떤 판단을 어떤 범위와 승인 기준, 누구의 책임 아래 맡길지부터 설계해야 하는 과제가 기업 앞에 놓였습니다. 이 설계는 모델이 바뀌어도 그대로 남는 자산이라는 점에서 갈수록 중요해지고 있습니다.</em></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<h2><strong>글을 쓰지 않고 답을 고르는 AI, TypeSafe AI의 Jev</strong></h2>
+	<p>TypeSafe AI는 2026년 9월 15일 첫 System One Model인 Jev를 얼리 액세스로 공개했습니다. 창업자 디오고 알메이다(Diogo Almeida)는 OpenAI에서 ChatGPT의 바탕이 된 지시 이행 연구에 참여했던 인물입니다. 그는 “대화형 AI는 이미 충분히 똑똑한데, 왜 업무 자동화는 이렇게 더딘가”라는 의문에서 Jev를 시작했다고 밝혔습니다. 원인으로 짚은 것은 답이 나오는 모양새였습니다. 지금의 LLM은 문장으로 답합니다. 그 문장을 시스템에서 쓰려면 다시 읽어서 필요한 값을 뽑아내야 하고, 그 과정에서 엉뚱한 답이 섞이기도 합니다.</p>
+	<p>Jev는 아예 문장을 쓰지 않습니다. 문서나 로그, 데이터 같은 입력과 함께 질문과 선택지를 받으면, 세 가지 형태 중 하나로만 답합니다. 선택지 가운데 하나를 고르거나, 정해진 기준에 따라 점수를 매기거나, 어떤 문장이 참일 확률을 내놓는 식입니다. 모든 답에는 보정된 확률과 신뢰도가 붙습니다. 선택지에 없는 값은 애초에 나올 수 없습니다. 이름은 대니얼 카너먼이 말한 빠르고 직관적인 ‘System One’ 사고에서 따왔습니다. 다만 ‘환각이 없다’는 말은 없는 값을 지어내지 않는다는 뜻이지, 틀린 답을 고르지 않는다는 뜻은 아닙니다.</p>
+	<h2><strong>저렴하고 빨라진 AI의 판단</strong></h2>
+	<p>TypeSafe AI가 밝힌 Jev의 응답 시간은 70~500ms입니다. 질문이 여러 개라도 한 번에 병렬로 처리합니다. 요금은 입력 100만 토큰당 0.042달러이고 출력 토큰은 무료입니다. 자체 평가에서는 같은 종류의 과제를 기존 LLM과 비슷한 수준으로 풀면서 속도와 비용은 수십 배 이상 앞섰다고 합니다. 물론 아직은 공급사 스스로 낸 수치입니다. 대신 문장 생성을 버렸기 때문에 대화나 보고서, 코드 작성에는 쓸 수 없습니다.</p>
+	<p>이렇게 되면 AI가 들어가는 자리가 바뀝니다. TypeSafe AI는 Jev를 코드 안의 ‘똑똑한 if문’이라고 부릅니다. 티켓 분류, 요청 분배, 점수 산정, 항목 추출, 분기 결정처럼 규칙으로 짜기엔 애매하고 LLM을 부르기엔 느리고 비용이 큰 자리에 들어갑니다. 생성형 AI가 사람과 마주 앉아 대화하는 창구였다면, 의사결정 AI는 업무 시스템 안에서 하루 수천 번 판단을 내리는 부품입니다. 판단 한 번에 드는 비용이 사실상 사라지면 판단을 몇 번 하느냐는 더 이상 고민거리가 아닙니다. 남는 고민은 하나입니다. 무엇을 판단시킬 것인가.</p>
+	<h2><strong>모델 선택보다 먼저 와야 하는 판단 위임의 설계</strong></h2>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/1.-모델-선택보다-먼저-와야-하는-판단-위임의-설계.png" alt=""/></p>
+	<p>Jev를 쓰려면 사람이 먼저 질문을 짜야 합니다. 무엇을 판단할지, 어떤 선택지 가운데 고르게 할지, 어떤 기준으로 점수를 매길지를 미리 정해야 합니다. TypeSafe AI도 선택지에 맞는 답이 없을 때를 대비해 ‘해당 없음’을 넣어 두고, 숫자 계산은 코드에 맡기라고 안내합니다. 실무에서 믿고 쓸 만한 워크플로는 작고 독립적인 질문 여러 개로 쪼개져 있고, 마지막 분기는 확률값을 코드가 어떻게 받아들이느냐에 달려 있다는 설명도 덧붙입니다. 질문을 잘못 주면 확률만 높은 틀린 답이 나옵니다.</p>
+	<p>그래서 모델 선택은 더 이상 첫 번째 과제가 아닙니다. 판단 설계가 없으면 모델을 골라도 쓸 데가 없고, 설계가 틀리면 어떤 모델을 써도 결과가 틀립니다. 반대로 “환불은 승인·거절·보류 중에서 고르고, 확률이 0.8 아래면 사람이 본다”는 설계는 모델을 바꿔도 그대로 씁니다. 모델 성능이 몇 달마다 뒤집히는 요즘, 기업이 공들여 쌓아야 할 쪽이 어디인지는 분명합니다. 생성의 시대가 AI에게 무엇을 쓰게 할지 정하는 시간이었다면, 위임의 시대는 AI에게 무엇을 결정하게 할지 정하는 시간입니다.</p>
+	<h2><strong>의사결정 AI가 대신해 주지 못하는 네 가지</strong></h2>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/2.-의사결정-AI가-대신해-주지-못하는-네-가지-.png" alt=""/></p>
+	<p>Jev는 정해진 틀 안의 결정을 빠르게 돌려주지만, 다음 네 가지는 하지 못합니다.</p>
+	<p>– 기업의 목표와 가치 중 무엇이 우선인지 정하지 못합니다. 비용과 고객 경험, 속도와 안전이 부딪힐 때 무엇을 앞세울지는 질문을 짜는 사람이 정합니다.<br/>
+		– 선택지 밖의 예외를 스스로 규칙으로 만들지 못합니다. ‘해당 없음’으로 걸러낼 수는 있어도, 그다음에 어떻게 처리할지는 사람이 정해야 합니다.<br/>
+		– 입력 데이터의 편향과 누락, 오류를 알아서 바로잡지 못합니다. 입력이 틀리면 확률이 높아도 결정은 틀립니다.<br/>
+		– 신뢰도 점수가 결과의 무게와 책임을 대신하지 못합니다. 확률 0.9는 그 판단이 얼마나 확실한지를 말할 뿐, 틀렸을 때 얼마나 큰 일이 생기는지, 누가 책임지는지는 말하지 않습니다.</p>
+	<h2><strong>AI에 판단을 맡기기 전에 정해야 할 네 가지</strong></h2>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/3.-AI에-판단을-맡기기-전-정해야-할-네-가지.png" alt=""/></p>
+	<p>의사결정 AI를 업무에 넣기 전에 기업이 정해야 할 것은 네 가지입니다.</p>
+	<p>– 최적화 대상: 이 판단이 무엇을 좋게 만들어야 하는지, 지표와 우선순위를 글로 남깁니다.<br/>
+		– 판단 범위: AI가 고를 수 있는 선택지와 아예 판단하지 말아야 할 영역을 선택지를 짤 때 구분합니다.<br/>
+		– 승인·검토 범위: 신뢰도 구간과 결과의 무게에 따라 자동 실행, 사후 검토, 사람 이관의 경계를 긋습니다. 금액이 크면 확률과 상관없이 사람이 본다는 식의 기준도 여기에 들어갑니다.<br/>
+		– 책임 주체: 판단 기준을 정한 사람, 결과를 승인한 사람, 예외를 처리한 사람을 기록으로 남깁니다.</p>
+	<p>이 네 가지는 모델의 문제가 아니라 업무 설계의 문제입니다. 데이터가 어디서 오고, 판단 결과가 어느 시스템으로 흘러가며, 예외는 어떻게 처리할지 정해 두어야 결정 하나가 비로소 업무가 됩니다.</p>
+	<h2><strong>AI의 판단을 기업의 가치로 잇는 SK AX AXgenticWire</strong></h2>
+	<p>SK AX의 AXgenticWire는 기업이 AI를 배우고, 직접 만들고, 가치를 더하는 세 단계로 AX를 완성하도록 돕는 Agentic AI 서비스 체계입니다. 구성원이 자기 수준에 맞는 과정으로 AI 활용 역량을 쌓고(Learn More), 자연어로 업무 Agent를 직접 만들어 운영하며(Build Better), 제조·금융·유통/물류·Back Office의 업무 흐름 전반에 Agent를 연결해 성과로 잇는(Create Value) 구조입니다.</p>
+	<p>이 가운데 AI에 판단을 맡기는 설계와 직접 맞닿는 것이 Build Better 단계의 AXgenticWire Core입니다. Agent가 늘어날수록 권한과 품질, 비용이 통제 밖으로 벗어나기 쉽습니다. AXgenticWire Core는 누가 어떤 Agent를 쓸 수 있는지를 정책으로 관리하고, Agent 지도로 중복된 Agent를 찾아 하나로 정리하며, Agent 품질을 자동으로 평가하고 Token 비용을 최적화합니다. 개인이 만든 Agent는 조직의 자산으로 쌓여 필요한 팀 누구나 바로 함께 쓸 수 있습니다.</p>
+	<p>Jev 같은 의사결정 AI가 판단 하나하나를 빠르게 돌려준다면, 기업에는 그 판단이 정해진 권한과 품질 기준 안에서 돌아가게 만드는 운영 체계가 필요합니다. 어떤 판단을 AI에 맡길지 정하는 것이 위임의 시작이라면, 그 판단에 권한과 검토, 비용의 경계를 두고 조직 전체가 안전하게 쓰게 만드는 것이 위임의 완성입니다. AXgenticWire는 그 두 가지를 하나의 체계로 잇습니다.</p>
+	<h2><strong>[FAQ]</strong></h2>
+	<h3><strong>Q1. System One Model이란 무엇인가요?</strong></h3>
+	<p>문장 대신 소프트웨어가 바로 쓸 수 있는 결정을 돌려주는 AI 모델입니다. TypeSafe AI가 2026년 9월 Jev를 공개하면서 내놓은 개념으로, 입력과 질문, 선택지를 받아 선택·점수·참일 확률을 보정된 신뢰도와 함께 돌려줍니다. 이름은 대니얼 카너먼이 말한 빠르고 직관적인 ‘System One’ 사고에서 따왔습니다.</p>
+	<h3><strong>Q2. Jev는 기존 LLM과 무엇이 다른가요?</strong></h3>
+	<p>답이 나오는 모양이 다릅니다. 기존 LLM은 문장으로 답해서 시스템에서 쓰려면 값을 다시 뽑아내야 하지만, Jev는 정해진 선택지 안의 값만 돌려주므로 형식이 어긋날 일이 없습니다. TypeSafe AI가 밝힌 응답 시간은 70~500ms이고 출력 토큰은 무료입니다. 대신 문장을 쓰지 않아 대화나 문서 작성에는 맞지 않습니다.</p>
+	<h3><strong>Q3. 의사결정 AI 도입 시 고려사항은 무엇인가요?</strong></h3>
+	<p>최적화 대상, 판단 범위, 승인·검토 기준, 책임 주체 네 가지입니다. Jev 같은 의사결정 AI는 사람이 정해 준 질문과 선택지 안에서만 판단하므로, 이 설계가 없으면 모델을 골라도 쓸 데가 없고 설계가 틀리면 어떤 모델을 써도 결과가 틀립니다. 설계는 모델이 바뀌어도 남는 자산이라 모델 선택보다 먼저 정해야 합니다. SK AX의 AXgenticWire Core는 Agent의 사용 권한을 정책으로 관리하고 품질을 자동 평가해, 이런 설계가 실제 운영에서 지켜지도록 돕습니다.</p>
+	<h3><strong>Q4. AI 자동화에서 Human-in-the-Loop 기준은 어떻게 정하나요?</strong></h3>
+	<p>신뢰도 점수와 결과의 영향 크기를 함께 봐야 합니다. 신뢰도는 판단이 얼마나 확실한지를 보여줄 뿐, 틀렸을 때 생기는 손실과 책임까지 말해 주지는 않습니다. 그래서 신뢰도가 낮은 결정은 사람에게 넘기고, 금액이 크거나 되돌리기 어려운 결정은 신뢰도가 높아도 승인 절차를 두는 식으로 구간을 나눕니다. AXgenticWire Core는 Agent 품질을 자동으로 평가하고 권한을 정책으로 묶어, 이런 경계를 운영 체계 안에 담습니다.</p>
+	<h3><strong>Q5. 의사결정 AI가 늘어나면 기업에는 어떤 체계가 필요한가요?</strong></h3>
+	<p>모델 하나하나가 아니라 판단을 업무로 잇는 통합 체계가 필요합니다. 어떤 데이터가 들어가고, 판단 결과가 어느 시스템으로 흘러가며, 예외는 누가 받는지가 한 흐름으로 묶여야 합니다. SK AX의 AXgenticWire는 AI를 배우고, 직접 만들고, 가치를 더하는 세 단계로 이 체계를 제공하며, AXgenticWire Core가 늘어나는 Agent의 권한·중복·품질·비용을 한곳에서 관리합니다.</p>
+<hr/>
+	<p><strong>AX 컨설팅부터 비즈니스 모델 발굴까지</strong><br/>
+		<strong>Global Top 10 AX Service Company｜SK AX</strong></p>
+	<h3><a href="https://www.skax.co.kr/support/contact?In_SupportType=contact&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.23"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_문의하기-6.png" alt=""/></a></h3>
+	<p><a href="https://www.skax.co.kr/ax-services/core?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.23"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
+	<p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.23"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
+	<p>#의사결정AI, #DecisionAI, #SystemOneModel, #TypeSafeAI, #Jev, #AI판단위임, #업무자동화, #HumanintheLoop, #AI거버넌스, #AI권한관리, #AI비용최적화, #에이전틱AI, #AXgenticWireCore, #AXgenticWire, #SKAX</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>AI가 수학 난제의 답을 내놓는 시대, 기업이 AI의 답을 신뢰하고 활용하기 위한 운영 구조</title>
 			<link>https://www.skax.co.kr/insight/trend/3932/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3932/</guid>
-			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Fri, 20 Nov 2026 10:33:27 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_난제를-해결하는-AI.png" alt=""/></p>
 
 <table>
@@ -90,7 +157,7 @@
 			<title>정상 계정으로 위장한 데이터 유출, 쿼리까지 분석하는 GuardDuty 기반 DB 위협 탐지</title>
 			<link>https://www.skax.co.kr/insight/trend/3930/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3930/</guid>
-			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Fri, 20 Nov 2026 09:53:40 +0900</pubDate>
 			<description><![CDATA[<div><div><p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_AWS-GuardDuty-RDS-Protection.png" alt=""/></p>
 
 <table>
@@ -556,13 +623,6 @@
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3908/</guid>
 			<pubDate>Wed, 04 Nov 2026 13:38:22 +0900</pubDate>
 			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_McKinsey.png"/></figure>맥킨지의 2026년 14대 기술 트렌드를 바탕으로, 기업이 AI를 현장에 배치해 성과를 내려면 어떤 인프라를 갖추고 에이전트 운영과 검증·보안 체계를 어떻게 재설계해야 하는지 살펴봅니다.]]></description>
-		</item>
-		<item>
-			<title>AWS Migration and Modernization Services Competency로 검증된 SK AX의 클라우드 전환·현대화 역량</title>
-			<link>https://www.skax.co.kr/insight/trend/3906/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3906/</guid>
-			<pubDate>Thu, 29 Oct 2026 09:23:21 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_SK-AX-AWS-Migration-Modernization-1.png"/></figure>AWS가 Migration과 Modernization 역량을 나눠 검증하는 이유는 무엇이며, 두 인증을 모두 취득한 SK AX는 보험·ERP 차세대 프로젝트에서 어떻게 현대화 방향을 도출했을까요?]]></description>
 		</item>
 	</channel>
 </rss>
