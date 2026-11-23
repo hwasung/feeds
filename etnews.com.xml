@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 23 Nov 2026 12:30:37 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 13:30:36 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>“소버린 AI부터 바이브 코딩까지”…&apos;2026 KDUG Domino 밋업&apos; 성료</title>
+			<link>https://www.etnews.com/20261123000249</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000249</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 12:34:49 +0900</pubDate>
+			<description><![CDATA[한국 도미노(Domino) 사용자 그룹(KDUG)이 HCLSoftware, 유니포인트 및 주요 파트너사들과 함께 지난 19일 서울 위워크 삼성역2호점에서 개최한 '2026 KDUG Domino 밋업(Meetup)'을 성황리에 마무리했다고 23일 밝혔다. 국내 최대 규모의 도미노 사용자 커뮤니티 행사인 이번 밋업은 지난해에 이어 고객사와 협력사 관계자들의 관심 속에 개최됐다. 글로벌 기술 로드맵과 현장의 활용 경험을 공유하며 국내 도미노 생태계의...]]></description>
+		</item>
 		<item>
 			<title>아이티센피엔에스, AI 보안 사업 확장…AI 운영 환경 전반 보호</title>
 			<link>https://www.etnews.com/20261123000242</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 23 Nov 2026 10:00:00 +0900</pubDate>
 			<description><![CDATA[LG CNS가 올해에만 고교생 1300명에게 인공지능(AI) 교육을 제공하는 등 'AI 꿈나무' 육성에 힘을 쏟고 있다. LG CNS는 지난 20일 서울 마곡 LG사이언스파크 본사에서 'AI지니어스 아카데미 챌린지데이(이하 챌린지데이)'를 열고, 시상식을 진행했다고 23일 밝혔다. 올해 AI지니어스 아카데미에는 약 1300명의 고교생이 참여헀다. AI지니어스 아카데미는 LG CNS가 운영하는 고교생 대상 진로 설계형 AI 사회공헌 프로그램이다....]]></description>
-		</item>
-		<item>
-			<title>티맥스소프트, &apos;대한민국 정부혁신 박람회&apos; 참가…차세대 AI 플랫폼 소개</title>
-			<link>https://www.etnews.com/20261123000128</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261123000128</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 23 Nov 2026 09:54:04 +0900</pubDate>
-			<description><![CDATA[티맥스소프트가 공공기관의 기존 시스템과 인공지능(AI)을 연결하고, AI 기반 업무 시스템 개발을 지원할 플랫폼을 선보인다. 티맥스소프트는 오는 25일부터 사흘간 경기도 고양시 일산 킨텍스에서 열리는 '2026 대한민국 정부혁신 박람회'에 참가해 공공 AI 전환(AX)을 지원할 차세대 AI 플랫폼을 선보인다고 23일 밝혔다. '대한민국 정부혁신 박람회'는 정부 정책과 행정 서비스가 실제 국민의 삶을 어떻게 진일보시키는지 보여주는 최대 규모 행사...]]></description>
 		</item>
 	</channel>
 </rss>
