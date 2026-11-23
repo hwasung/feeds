@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 23 Nov 2026 07:30:28 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 09:30:48 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>오르카아이티, AI 연구소(YWR Labs) 앞세워 AI 네이티브 전환 가속…앤스로픽 CVP 승인</title>
+			<link>https://www.etnews.com/20261123000055</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000055</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 09:00:15 +0900</pubDate>
+			<description><![CDATA[글로벌 제조 전사자원관리(ERP) 전문기업 오르카아이티(대표 김승조)는 미국 인공지능(AI) 기업 앤스로픽(Anthropic)의 사이버 검증 프로그램(CVP) 승인을 받고, 사내 벤처 AI 연구소 YWR Labs(대표 김형준)를 중심으로 AI 기반 보안 워크플로우를 가동했다고 23일 밝혔다. CVP는 앤스로픽이 사전 심사를 거친 조직에 방어 목적의 보안 활용을 허용하는 프로그램이다. 오르카아이티는 자사 시스템 방어를 위한 '디펜스 액세스(Def...]]></description>
+		</item>
+		<item>
+			<title>디지캡, KAFF 2026서 AI 기반 3D 건축설계 기술 선보여</title>
+			<link>https://www.etnews.com/20261120000063</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261120000063</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[디지캡이 인공지능(AI)을 활용한 3D 건축설계 기술과 모델링 자동화 솔루션을 선보이며 건축설계 업무 효율화에 나섰다. 디지캡(대표 범진규)은 최근 서울 삼성동 코엑스에서 열린 '2026 한국건축산업대전(KAFF 2026)'에 참가해 '2D CAD to AI BIM' 전환 기술과 자체 개발한 건축설계 자동화 솔루션을 공개했다고 밝혔다. '2D CAD to AI BIM'은 기존 2차원 캐드(CAD) 도면을 웹 환경에서 3차원(3D) 모델로 전환하...]]></description>
+		</item>
+		<item>
+			<title>이파피루스, &apos;제28회 공공솔루션마켓&apos; 민간부문 공로상 수상</title>
+			<link>https://www.etnews.com/20261123000052</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000052</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 08:44:49 +0900</pubDate>
+			<description><![CDATA[이파피루스(대표 김정희)가 최근 열린 '제28회 공공솔루션마켓'에서 민간부문 공로상인 공공부문발주자협의회 회장상을 수상했다고 23일 밝혔다. 공공솔루션마켓은 한국IT서비스산업협회와 전자신문이 주최하는 행사로, 공공기관 정보화 담당자와 IT 기업이 한자리에 모여 공공 분야의 기술 동향과 도입 사례를 나누는 자리다. 이파피루스는 공공 ICT 산업 발전을 위해 선도적으로 최신 기술을 소개하는 등 많은 노력과 지원을 아끼지 않은 공로를 인정 받앗다....]]></description>
+		</item>
+		<item>
+			<title>세일즈인사이트, ISO 9001:2015 품질경영시스템 인증 획득</title>
+			<link>https://www.etnews.com/20261123000051</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000051</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 08:35:49 +0900</pubDate>
+			<description><![CDATA[B2B 영업 CRM 전문기업 세일즈인사이트(대표 고명식)는 지난 16일 소프트웨어 서비스 분야 국제 표준인 ISO 9001:2015 품질경영시스템 인증을 획득했다고 밝혔다. ISO 9001:2015는 국제표준화기구(ISO)가 제정한 품질경영시스템 국제표준으로, 고객 요구사항을 충족하는 제품과 서비스를 일관되게 제공하고, 조직 업무 프로세스 및 품질 관리체계를 지속적으로 개선할 수 있는 역량을 평가하는 인증이다. 세일즈인사이트는 이번 인증을 통해...]]></description>
+		</item>
 		<item>
 			<title>미국 항공사 전산 장애 도미노…델타항공도 이륙 지연</title>
 			<link>https://www.etnews.com/20261123000049</link>
@@ -56,42 +92,6 @@
 			<category>오피니언</category>
 			<pubDate>Sun, 22 Nov 2026 16:00:00 +0900</pubDate>
 			<description><![CDATA['쓸모없는 정보가 넘쳐나는 세상에서 명료함은 힘이다.' 역사학자 유발 하라리의 2018년 저서 '21세기를 위한 21가지 제언' 첫 문장이다. 8년이 지난 지금 넘쳐나는 것은 정보 만이 아니다. 인공지능(AI)은 수십개의 대안을 제시하고 스스로 계획하고 실행한다. 선택지가 많아질수록 사람은 판단을 어려워하거나 AI의 추천을 그대로 받아들인다. 답은 많아졌지만 무엇이 중요한지 판단하기는 오히려 어려워졌다. AI 네이티브 싱킹(AI-Native T...]]></description>
-		</item>
-		<item>
-			<title>[人사이트]조 스톡쿠나스 SEMI 북미 사장, “한국은 &apos;메모리 왕&apos;…글로벌 연대 핵심축”</title>
-			<link>https://www.etnews.com/20261120000025</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261120000025</guid>
-			<author>이형두</author>
-			<category>오피니언</category>
-			<pubDate>Sun, 22 Nov 2026 16:00:00 +0900</pubDate>
-			<description><![CDATA[“반도체 업계에서 수십 년간 일해왔지만 지금처럼 전례 없는 강력한 수요를 체감한 적은 단 한 번도 없었습니다. 공정이 극도로 복잡해진 만큼 이제 어느 한 기업, 한 국가도 혼자서는 혁신을 이끌어갈 수 없습니다.” 조 스톡쿠나스(Joe Stockunas) 국제반도체장비재료협회(SEMI) 북미 사장은 최근 열린 '세미콘 웨스트(SEMICON West)' 현장에서 본지와 만나 글로벌 반도체 산업의 지형 변화와 공급망 협력의 중요성을 이같이 강조했다....]]></description>
-		</item>
-		<item>
-			<title>신세계백화점, 연말맞이 &apos;사랑의 김장나눔&apos; 봉사활동 실시</title>
-			<link>https://www.etnews.com/20261122000086</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261122000086</guid>
-			<author>정다은</author>
-			<category>오피니언</category>
-			<pubDate>Sun, 22 Nov 2026 14:15:20 +0900</pubDate>
-			<description><![CDATA[신세계백화점은 연말을 맞이해 이웃과 나눔을 실천할 수 있는 '사랑의 김장 나눔' 봉사활동을 실시한다고 22일 밝혔다. 이번 행사는 지난 20일 본사 및 강남점을 시작으로 12월 중순까지 전국 12개 점포 임직원이 순차적으로 참여한다. 봉사활동으로 담근 김치를 비롯한 총 1만 포기 김치를 초록우산 어린이재단과 함께 전점 지역 종합 사회복지관 및 아동시설에 기부할 예정이다. 신세계백화점은 지속적으로 사회공헌 활동을 이어오고 있다. 사회취약계층과 지...]]></description>
-		</item>
-		<item>
-			<title>“AI 클로드, 수학 난제 리만가설 증명” 주장…앤트로픽 주가는 급락</title>
-			<link>https://www.etnews.com/20261122000077</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261122000077</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Sun, 22 Nov 2026 13:08:04 +0900</pubDate>
-			<description><![CDATA[앤트로픽의 인공지능(AI) 모델 클로드가 167년간 풀리지 않던 수학계 최대 난제 중 하나인 리만 가설을 증명했다는 주장이 나오면서 세계 수학계 관심이 쏠리고 있다. 앤트로픽 소속 수학자 레벤트 알푀게는 20일(현지시간) 자신의 웹사이트에 4쪽 분량의 문서와 함께 수학 증명 검증 프로그램 린(Lean)으로 작성된 대규모 코드 묶음을 공개하고 “클로드와 협업해 리만 가설의 증명을 발견했다고 믿는다”고 밝혔다. 그는 같은 방법으로 일반화된 리만 가...]]></description>
-		</item>
-		<item>
-			<title>[사설] EU 가전 규제, 오히려 기회 만들자</title>
-			<link>https://www.etnews.com/20261122000048</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261122000048</guid>
-			<author>이진호</author>
-			<category>오피니언</category>
-			<pubDate>Sun, 22 Nov 2026 13:00:00 +0900</pubDate>
-			<description><![CDATA[탄소발자국과 탄소국경조정제도(CBAM) 등 글로벌 청정체제 전환 요구는 어제오늘 불거진 돌발 악재가 아니다. 기후위기 대응과 탈탄소 기조 속에 앞으로도 더욱 촘촘하고 강력해질 수밖에 없는 예견된 현실이다. 유럽가전협회(APPLiA)와 프랑스·독일 등 유럽연합(EU) 주도 6개국이 2027년 채택을 목표로 '유럽 가전산업 행동계획' 수립을 촉구한 것도 이러한 거대한 흐름의 연장선이라 하겠다. 유럽 역내 생산 비중 하락과 일자리 감소를 명분으로 C...]]></description>
 		</item>
 	</channel>
 </rss>
