@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Mon, 23 Nov 2026 11:30:45 +0900</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 12:30:37 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>아이티센피엔에스, AI 보안 사업 확장…AI 운영 환경 전반 보호</title>
+			<link>https://www.etnews.com/20261123000242</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000242</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 11:47:00 +0900</pubDate>
+			<description><![CDATA[아이티세피엔에스는 기업의 인공지능(AI) 활용 확대에 따라 새롭게 등장하는 보안 위협에 대응하기 위해 AI 보안 사업을 확장한다. 아이티센그룹의 보안 전문기업 아이티센피엔에스는 AI 모델과 애플리케이션, 데이터, AI 에이전트 등 AI 운영 환경 전반을 보호하는 통합 AI 보안 사업을 강화한다고 23일 밝혔다. 최근 글로벌 사이버보안 시장은 AI를 활용해 사이버 위협을 탐지하고 대응하는 기술과 함께, 기업이 도입하는 AI 모델과 애플리케이션,...]]></description>
+		</item>
+		<item>
+			<title>블루칩씨앤에스, 원주시니어클럽서 &apos;따뜻한 한 끼 나눔&apos; 오찬 행사 진행</title>
+			<link>https://www.etnews.com/20261123000240</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261123000240</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Mon, 23 Nov 2026 11:42:11 +0900</pubDate>
+			<description><![CDATA[블루칩씨앤에스는 원주시니어클럽 단구사무실에서 노인일자리 참여 어르신과 기관 직원들을 위한 '따뜻한 한 끼 나눔' 오찬 행사를 진행했다고 23일 밝혔다. 블루칩씨앤에스는 행사 현장에 밥차를 지원했으며, 임직원들도 직접 배식 봉사에 참여했다. '더 편리한 활동 관리, 더 행복한 노인일자리'라는 슬로건 아래 추진된 이번 행사는 지역 곳곳에서 안전한 생활환경 조성과 공공질서 유지를 위해 힘쓰는 어르신들의 노고에 감사하고, 지역사회와의 상생을 도모하기...]]></description>
+		</item>
 		<item>
 			<title>지오멕스소프트, 리투아니아 병원에 AI 환자 안전관리 솔루션 공급</title>
 			<link>https://www.etnews.com/20261123000213</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Mon, 23 Nov 2026 09:54:04 +0900</pubDate>
 			<description><![CDATA[티맥스소프트가 공공기관의 기존 시스템과 인공지능(AI)을 연결하고, AI 기반 업무 시스템 개발을 지원할 플랫폼을 선보인다. 티맥스소프트는 오는 25일부터 사흘간 경기도 고양시 일산 킨텍스에서 열리는 '2026 대한민국 정부혁신 박람회'에 참가해 공공 AI 전환(AX)을 지원할 차세대 AI 플랫폼을 선보인다고 23일 밝혔다. '대한민국 정부혁신 박람회'는 정부 정책과 행정 서비스가 실제 국민의 삶을 어떻게 진일보시키는지 보여주는 최대 규모 행사...]]></description>
-		</item>
-		<item>
-			<title>상명대, 마스코트 &apos;수뭉이&apos; 5주년 기념 이벤트</title>
-			<link>https://www.etnews.com/20261123000127</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261123000127</guid>
-			<author>조호현</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 23 Nov 2026 09:54:04 +0900</pubDate>
-			<description><![CDATA[상명대(총장 김종희)가 마스코트 '수뭉이' 데뷔 5주년을 맞아 온·오프라인 행사를 개최한다. 상명대는 23일부터 한 주간 ▲인트로 콘텐츠 공개 ▲생일카페 운영 및 굿즈 증정 ▲기념일 마무리 콘텐츠 공개 순으로 이벤트를 진행한다고 설명했다. 데뷔 5주년을 애니메이션 영상을 상명대 공식 인스타그램과 유튜브 채널을 통해 23일 오후 공개하고, 25일부터는 사흘간 전통 돌잔치를 재해석한 테마로 서울과 천안 양 캠퍼스에서 동시에 카페를 운영할 예정이다....]]></description>
-		</item>
-		<item>
-			<title>인젠트, 오픈소스 DB &apos;PostgreSQL 19&apos; 개발 참여…코드 수정 9건 반영</title>
-			<link>https://www.etnews.com/20261123000125</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261123000125</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Mon, 23 Nov 2026 09:52:10 +0900</pubDate>
-			<description><![CDATA[AI·데이터 플랫폼 전문기업 인젠트가 글로벌 오픈소스 데이터베이스(DB)인 '포스트그레SQL(PostgreSQL) 19' 개발에 직접 참여해 코드 수정 9건을 반영하는 성과를 거뒀다. 인젠트(대표 이형배)는 AI연구본부 DB팀 소속 개발자가 PostgreSQL 19 개발에 참여해 총 9건의 코드 수정과 개선 사항을 반영했다고 23일 밝혔다. PostgreSQL은 전 세계 개발자들이 공동으로 개발하는 오픈소스 관계형 데이터베이스 관리시스템(DBM...]]></description>
 		</item>
 	</channel>
 </rss>
