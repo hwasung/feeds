@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 24 Nov 2026 18:32:01 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2026 19:30:33 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>서울시, 글로벌 AI 도시 지수서 2년 연속 2위</title>
+			<link>https://www.etnews.com/20261124000498</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261124000498</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 24 Nov 2026 18:15:25 +0900</pubDate>
+			<description><![CDATA[서울이 2년 연속으로 글로벌 인공지능(AI) 도시 2위로 뽑혔다. 시장조사업체 카운터포인트 리서치는 24일 전 세계 100대 대도시의 AI 도입 수준을 평가한 '2026년 글로벌 AI 도시 지수'를 발표했다. 1위는 65.9점을 얻은 싱가포르가 차지했고 서울은 1점 뒤처진 2위(64.9)였다. 3위인 아부다비의 점수는 64.5로 서울과 0.4밖에 차이가 나지 않는다. 4위와 5위는 각각 두바이(62.4), 샌프란시스코(57.0)다. 마크 아인슈...]]></description>
+		</item>
 		<item>
 			<title>AI 전문기술 비용 따로 산정…KOSA, 사업대가 로드맵 발표</title>
 			<link>https://www.etnews.com/20261124000365</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 24 Nov 2026 16:48:43 +0900</pubDate>
 			<description><![CDATA[행정안전부는 국민과 공공 인공지능(AI)간 소통하는 방식에 대한 설계기준을 담은 '공공 AI 서비스 사용자환경·경험(UI/UX) 가이드라인'을 마련해 중앙행정기관, 지방정부 및 공공기관에 배포한다고 24일 밝혔다. 이번 가이드라인은 국민이 AI의 역할과 한계를 이해하고, 중요한 사항을 직접 확인·선택할 수 있도록 공공 AI의 응대방식과 서비스 이용절차를 구체화한 것이 특징이다. 현재는 국민이 AI와 대화하며 민원 안내·상담 등을 받는 대화형 서...]]></description>
-		</item>
-		<item>
-			<title>지란지교소프트 PC필터, 日 클라우드 어워드 선진기술상 수상</title>
-			<link>https://www.etnews.com/20261124000458</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000458</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 16:27:28 +0900</pubDate>
-			<description><![CDATA[지란지교소프트는 개인정보 보호 솔루션 'PC필터'가 일본 'ASPIC AI 클라우드 어워드 2026'에서 선진기술상을 받았다고 24일 밝혔다. ASPIC AI 클라우드 어워드는 일본클라우드산업협회가 주최하고 일본 총무성 등이 후원하는 행사로 올해 19회째를 맞았다. PC필터는 기업 핵심 업무용 서비스형 소프트웨어(SaaS)를 평가하는 부문에서 수상했다. PC필터는 PC와 공유폴더에 저장된 개인정보 파일을 자동 탐지하고 암호화, 삭제, 반출 통제...]]></description>
 		</item>
 	</channel>
 </rss>
