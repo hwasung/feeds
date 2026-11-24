@@ -4,7 +4,16 @@
 		<title>아시아경제</title>
 		<link>https://www.asiae.co.kr/</link>
 		<description>아시아경제</description>
-		<lastBuildDate>Wed, 04 Nov 2026 18:30:10 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2026 18:30:15 +0900</lastBuildDate>
+		<ttl>240</ttl>
+		<item>
+			<title>[단독] K-9 자주포 베트남에 추가 수출</title>
+			<link>https://www.asiae.co.kr/article/2026112408492883586</link>
+			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026112408492883586</guid>
+			<author>양낙규 군사 및 방산 스페셜리스트</author>
+			<category>양낙규 기자</category>
+			<pubDate>Tue, 24 Nov 2026 09:00:37 +0900</pubDate>
+		</item>
 		<item>
 			<title>[단독]서희함 진수한 날, 다른 잠수함은 멈췄다</title>
 			<link>https://www.asiae.co.kr/article/2026110409093285923</link>
@@ -76,54 +85,6 @@
 			<author>양낙규 군사 및 방산 스페셜리스트</author>
 			<category>양낙규 기자</category>
 			<pubDate>Wed, 21 Oct 2026 08:29:40 +0900</pubDate>
-		</item>
-		<item>
-			<title>[2026국감]공군, 6세대 전투기 2050년대 전력 배치</title>
-			<link>https://www.asiae.co.kr/article/2026102015372014600</link>
-			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026102015372014600</guid>
-			<author>양낙규 군사 및 방산 스페셜리스트</author>
-			<category>양낙규 기자</category>
-			<pubDate>Tue, 20 Oct 2026 15:37:20 +0900</pubDate>
-		</item>
-		<item>
-			<title>[디펜스칼럼]KAI 노조가 해야 할 일</title>
-			<link>https://www.asiae.co.kr/article/2026101610283581572</link>
-			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026101610283581572</guid>
-			<author>양낙규 군사 및 방산 스페셜리스트</author>
-			<category>양낙규 기자</category>
-			<pubDate>Mon, 19 Oct 2026 14:27:41 +0900</pubDate>
-		</item>
-		<item>
-			<title>북, 잠수함 수직발사대 미사일발사 첫 성공[양낙규의 Defence Club]</title>
-			<link>https://www.asiae.co.kr/article/2026101508470071278</link>
-			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026101508470071278</guid>
-			<author>양낙규 군사 및 방산 스페셜리스트</author>
-			<category>양낙규 기자</category>
-			<pubDate>Thu, 15 Oct 2026 08:47:00 +0900</pubDate>
-		</item>
-		<item>
-			<title>[속보] 北 &quot;어제 동해서 2종 잠수함발사 전략순항미사일 시험발사&quot;</title>
-			<link>https://www.asiae.co.kr/article/2026101506242505696</link>
-			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026101506242505696</guid>
-			<author>양낙규 군사 및 방산 스페셜리스트</author>
-			<category>양낙규 기자</category>
-			<pubDate>Thu, 15 Oct 2026 06:24:25 +0900</pubDate>
-		</item>
-		<item>
-			<title>[2026국감]방사청장 &quot;한화의 KAI 지분인수, 장단점 있어&quot;</title>
-			<link>https://www.asiae.co.kr/article/2026101313564535721</link>
-			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026101313564535721</guid>
-			<author>양낙규 군사 및 방산 스페셜리스트</author>
-			<category>양낙규 기자</category>
-			<pubDate>Tue, 13 Oct 2026 13:56:45 +0900</pubDate>
-		</item>
-		<item>
-			<title>[2026 국감]북한 해킹조직, K방산 빈틈 노린다</title>
-			<link>https://www.asiae.co.kr/article/2026101308452003978</link>
-			<guid isPermaLink="true">https://www.asiae.co.kr/article/2026101308452003978</guid>
-			<author>양낙규 군사 및 방산 스페셜리스트</author>
-			<category>양낙규 기자</category>
-			<pubDate>Tue, 13 Oct 2026 08:45:20 +0900</pubDate>
 		</item>
 	</channel>
 </rss>
