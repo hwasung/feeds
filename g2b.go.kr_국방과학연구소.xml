@@ -4,8 +4,20 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Tue, 24 Nov 2026 11:30:45 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2026 15:31:06 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[사전규격][일반용역] 복합재 연소관 보스용 신규 shear-ply 고무 개발 1차 용역</title>
+			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00305640</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00305640</guid>
+			<author>국방과학연구소</author>
+			<category>사전규격</category>
+			<pubDate>Tue, 24 Nov 2026 14:36:14 +0900</pubDate>
+			<description><![CDATA[<ul>
+	<li>공고/수요기관: 국방과학연구소</li>
+	<li>참고번호: R26BD00305640</li>
+</ul>]]></description>
+		</item>
 		<item>
 			<title>[사전규격][일반용역] 총포정비 및 총포검사/관리 용역</title>
 			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00305484</link>
@@ -402,18 +414,6 @@
 	<li>공고번호: R26BK01840782</li>
 	<li>마감일시: 2026-11-30 10:00</li>
 	<li>개찰일시: 2026-11-30 11:00</li>
-</ul>]]></description>
-		</item>
-		<item>
-			<title>[사전규격][일반용역] AI 단말 임차 용역</title>
-			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00302902</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00302902</guid>
-			<author>국방과학연구소</author>
-			<category>사전규격</category>
-			<pubDate>Thu, 19 Nov 2026 10:08:09 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고/수요기관: 국방과학연구소</li>
-	<li>참고번호: R26BD00302902</li>
 </ul>]]></description>
 		</item>
 	</channel>
