@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 25 Nov 2026 06:30:45 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 08:30:42 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>앤트로픽 주가 상장 나흘 만에 공모가 밑으로</title>
+			<link>https://www.etnews.com/20261125000068</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000068</guid>
+			<author>정현정</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 07:38:33 +0900</pubDate>
+			<description><![CDATA[앤트로픽 주가가 24일(현지시간) 6.5% 하락해 상장 4거래일 만에 처음으로 공모가 83달러 아래에서 마감했다. 앤트로픽은 이날 뉴욕증시에서 5.74달러 내린 81.91달러에 거래를 마쳐 종가가 공모가보다 1.3% 낮았다. 장중에는 75.61달러까지 밀려 공모가 대비 낙폭이 8.9%에 달했으나 이후 하락 폭을 줄였다. 블룸버그 통신에 따르면 종가 기준 시가총액은 완전 희석 기준(스톡옵션 등 포함)으로 약 1조5000억달러(약 2014조원)다....]]></description>
+		</item>
 		<item>
 			<title>[테크 차이나] 해저케이블을 넘어 복구망으로…중국 통신 인프라 경쟁</title>
 			<link>https://www.etnews.com/20261105000426</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 24 Nov 2026 17:19:56 +0900</pubDate>
 			<description><![CDATA[국제인공지능학회(IAAI, 회장 강정진)와 (사)국제문화기술진흥원(IPACT)이 공동 개최한 'IAAI 2026 제14회 종합학술대회'가 지난 19일부터 21일까 서울과학기술대학교 상상관에서 개최됐다. 과학기술정보통신부, 한국연구재단, 한국과학기술단체총연합회 등이 후원한 이번 대회는 제14회 국제융복합심포지엄(ISAAC 2026)과 스타트업 발명 경진대회, 캡스톤디자인 경진대회가 온·오프라인(O2O) 병행 방식으로 열려 국내외 산학연 연구자들의...]]></description>
-		</item>
-		<item>
-			<title>지케스, 어드밴트와 제휴… 통합관제·후각 AI 기술 결합해 산업안전 AI 관제시장 확대</title>
-			<link>https://www.etnews.com/20261124000475</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000475</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 17:11:31 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 기반 통합관제 및 공공안전 플랫폼 전문기업 지케스(대표 박영찬)는 AI 전자코·후각 AI 기술 전문기업 어드밴트(ADVENT)와 AI 공공안전 융합사업 공동 추진을 위한 업무협약(MOU)을 24일 체결했다고 밝혔다. 협약은 지케스가 보유한 AI 공공안전플랫폼 '아이노드(AINode)'의 영상 AI 및 통합관제 기술과 어드밴트의 AI 전자코·가스센서·후각 AI 기술을 결합해 도시와 산업현장에서 발생할 수 있는 다양한 위험요소를 조...]]></description>
 		</item>
 	</channel>
 </rss>
