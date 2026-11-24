@@ -4,8 +4,25 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Tue, 24 Nov 2026 21:30:51 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 06:30:45 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[테크 차이나] 해저케이블을 넘어 복구망으로…중국 통신 인프라 경쟁</title>
+			<link>https://www.etnews.com/20261105000426</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000426</guid>
+			<category>오피니언</category>
+			<pubDate>Wed, 25 Nov 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[해저케이블이 새로 깔리면 길이와 전송 용량이 뉴스가 된다. 그러나 통신 서비스가 끊겼을 때 중요한 숫자는 다르다. 복구선이 어디에 있는지, 다른 작업을 마치고 언제 올 수 있는지, 필요한 부품과 허가는 준비됐는지에 따라 중단 기간이 달라진다. 해저통신망의 품질은 설치할 때만이 아니라 손상 이후에 드러난다. 중국 해저통신 산업의 확장은 통신사업자의 수요와 자본에 제조·해양 시공을 연결하는 과정이다. 그러나 장비를 납품해 바다에 놓는 일만으로 투자...]]></description>
+		</item>
+		<item>
+			<title>국방정보통신협회, 제로 트러스트·AI 기반 미래 국방 보안 전략 모색</title>
+			<link>https://www.etnews.com/20261124000517</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261124000517</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Tue, 24 Nov 2026 21:05:16 +0900</pubDate>
+			<description><![CDATA[국방정보통신협회가 제로 트러스트와 인공지능(AI) 기반 첨단 보안 기술을 국방 정보통신체계에 접목하고 미래 전장 환경에 대응하기 위한 사이버 방호 역량 강화에 나섰다. 국방정보통신협회(회장 신인섭)는 24일 서울 군인공제회 C&C에서 '미래 국방을 여는 차세대 사이버·네트워크 보안 세미나'를 개최했다고 밝혔다. 한화시스템, LIG D&A, 군인공제회 C&C, 퓨쳐시스템이 후원한 이번 세미나는 급변하는 미래 전장 환경과 고도화하는 사이버 위협에...]]></description>
+		</item>
 		<item>
 			<title>[공공 클라우드 도입 촉진사업] 데이터드리븐 &apos;클리포&apos; “교사 평가 업무 지원”</title>
 			<link>https://www.etnews.com/20261124000516</link>
@@ -77,24 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Tue, 24 Nov 2026 17:11:31 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 기반 통합관제 및 공공안전 플랫폼 전문기업 지케스(대표 박영찬)는 AI 전자코·후각 AI 기술 전문기업 어드밴트(ADVENT)와 AI 공공안전 융합사업 공동 추진을 위한 업무협약(MOU)을 24일 체결했다고 밝혔다. 협약은 지케스가 보유한 AI 공공안전플랫폼 '아이노드(AINode)'의 영상 AI 및 통합관제 기술과 어드밴트의 AI 전자코·가스센서·후각 AI 기술을 결합해 도시와 산업현장에서 발생할 수 있는 다양한 위험요소를 조...]]></description>
-		</item>
-		<item>
-			<title>[공공 클라우드 도입 촉진사업] 국내 SaaS 공공 진출 가속화…“매출·계약 증대에 큰 도움”</title>
-			<link>https://www.etnews.com/20261124000473</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000473</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 17:07:35 +0900</pubDate>
-			<description><![CDATA[정부의 공공부문 클라우드 도입 지원사업이 국내 서비스형 소프트웨어(SaaS) 기업의 공공시장 진출을 견인하고 있다. 공공부문 SaaS 도입을 활성화하려면 계약 절차를 SW 특성에 맞춰 개선하고 인공지능(AI) 인프라 지원을 확대해야 한다는 의견이 제기된다. 김은주 한국지능정보사회진흥원(NIA) 본부장은 24일 서울 한국정보통신진흥협회(KAIT) 대회의실에서 열린 '공공부문 클라우드 도입 촉진사업' 참여기업 간담회에서 “AI 시대를 맞아 SaaS...]]></description>
-		</item>
-		<item>
-			<title>[사설] 황제 복귀 보단, 전략적 안정성이 중요</title>
-			<link>https://www.etnews.com/20261124000435</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000435</guid>
-			<author>논설위원실</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[젠슨 황 엔비디아 최고경영자(CEO)의 전격 복귀가 미국은 물론 우리나라 증시까지 뒤흔들었다. 24일 코스피는 그의 복귀와 뉴욕증시 반등에 따라 하루 만에 7% 넘게 폭등하며 5000선을 되찾았다. 오랜만에 매수 사이드카까지 발동되며 반도체주 중심의 급등세가 일었다. 하지만, 기뻐하거나 안도하기엔 이르다. 이번 사태를 계기로 지난 11일간 이어진 혼란의 공백기 동안 우리 반도체를 비롯한 인공지능(AI) 산업 기반이 얼마나 허약하고, 외부 변수에...]]></description>
 		</item>
 	</channel>
 </rss>
