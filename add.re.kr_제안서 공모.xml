@@ -4,8 +4,29 @@
 		<title>국방과학연구소 제안서 공모</title>
 		<link>https://www.add.re.kr/kps/publicNtis/ntisList?menuId=MENU02201</link>
 		<description>국방과학연구소 제안서 공모</description>
-		<lastBuildDate>Sat, 21 Nov 2026 10:58:47 +0900</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2026 18:30:05 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>[선정결과] 위탁연구기관 선정결과 공고(위탁연구명 : 저압터빈 요소설계기술 고도화 연구)</title>
+			<link>https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1774&amp;menuId=MENU02200&amp;titleId=0</link>
+			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1774&amp;menuId=MENU02200&amp;titleId=0</guid>
+			<category>결과안내</category>
+			<pubDate>Tue, 24 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<p>위탁연구기관 선정결과</p>
+<p>    미래도전국방기술 국과연 주관/PM 과제 『차세대항공무기체계용 첨단 항공엔진 고온부 기반기술 연구』의 위탁연구기관 선정 결과를 아래와 같이 공시합니다.</p>
+<div>
+	<p><strong>■ 위탁연구</strong>명</p>
+	<div>  - 저압터빈 요소설계기술 고도화 연구</div>
+</div>
+<hr/>
+<div class="feed-attachments">
+	<strong>첨부파일</strong>
+	<ul>
+		<li><a href="https://www.add.re.kr/fileDownloadDev?titleId=1774&amp;fileId=1&amp;fileDownType=ntis&amp;paramMenuId=MENU02200">위탁연구기관 선정결과 공고.hwp (0.03 MB)</a></li>
+	</ul>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>[재공모] 위탁연구기관 선정을 위한 제안서 공모 (위탁과제명: 최적의 통합 AT-SoC 보안구조 설계 및 시뮬레이션 기반 검증방안 연구)</title>
 			<link>https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1773&amp;menuId=MENU02201&amp;titleId=0</link>
@@ -341,31 +362,6 @@
 	<strong>첨부파일</strong>
 	<ul>
 		<li><a href="https://www.add.re.kr/fileDownloadDev?titleId=1770&amp;fileId=1&amp;fileDownType=ntis&amp;paramMenuId=MENU02201">붙임1. 제안서 공모문.hwp (0.12 MB)</a></li>
-	</ul>
-</div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>[협상우선순위]핵심기술 시제업체 협상우선순위 선정결과 공고(시제명 : 10,000lbf급 터보팬 엔진 시제)</title>
-			<link>https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1769&amp;menuId=MENU02200&amp;titleId=0</link>
-			<guid isPermaLink="true">https://www.add.re.kr/kps/publicNtis/ntisView?pageNum=1&amp;rowCnt=10&amp;titleId=1769&amp;menuId=MENU02200&amp;titleId=0</guid>
-			<category>결과안내</category>
-			<pubDate>Fri, 13 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p>핵심기술(시험개발)과제 시제업체 협상우선순위</p><br/>
-<p>"10,000lbf급 고바이패스 터보팬 엔진 개발" 핵심기술 과제의 시제업체 협상우선순위 선정결과를 붙임과 같이 공시합니다.</p>
-<div>
-	<p><strong>■ 시제</strong>명</p>
-	<div>
-		<div>
-			<p>  - 10,000lbf급 터보팬 엔진 시제</p>
-		</div>
-	</div>
-</div>
-<hr/>
-<div class="feed-attachments">
-	<strong>첨부파일</strong>
-	<ul>
-		<li><a href="https://www.add.re.kr/fileDownloadDev?titleId=1769&amp;fileId=1&amp;fileDownType=ntis&amp;paramMenuId=MENU02200">붙임. 시제업체 협상우선순위 (공고용).hwp(25KB)</a></li>
 	</ul>
 </div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
