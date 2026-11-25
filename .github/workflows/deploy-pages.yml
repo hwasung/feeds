@@ -33,13 +33,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1 # 전체 히스토리 대신 최신 스냅샷만 얕게 복제 (속도 향상)
 
       # 저장소 내 모든 정적 파일(XML, JSON 등)을 Pages 아티팩트로 압축
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: '.'
 
