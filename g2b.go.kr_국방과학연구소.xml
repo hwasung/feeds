@@ -4,8 +4,22 @@
 		<title>나라장터</title>
 		<link>https://www.g2b.go.kr/</link>
 		<description>나라장터</description>
-		<lastBuildDate>Wed, 25 Nov 2026 11:31:11 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 13:30:59 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[재공고][물품&#40;내자&#41;] AI 기술 개발용 워크스테이션</title>
+			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01855278&amp;bidPbancOrd=000</link>
+			<guid isPermaLink="true">https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01855278&amp;bidPbancOrd=000</guid>
+			<author>국방과학연구소</author>
+			<category>입찰공고</category>
+			<pubDate>Wed, 25 Nov 2026 13:15:29 +0900</pubDate>
+			<description><![CDATA[<ul>
+	<li>공고/수요기관: 국방과학연구소</li>
+	<li>공고번호: R26BK01855278</li>
+	<li>마감일시: 2026-12-03 10:00</li>
+	<li>개찰일시: 2026-12-03 11:00</li>
+</ul>]]></description>
+		</item>
 		<item>
 			<title>[등록공고][공사] 제8-19저장고 내부통로 설치 전기 공사</title>
 			<link>https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01854908&amp;bidPbancOrd=000</link>
@@ -396,18 +410,6 @@
 	<li>공고번호: R26BK01841700</li>
 	<li>마감일시: 2026-11-27 10:00</li>
 	<li>개찰일시: 2026-11-27 11:00</li>
-</ul>]]></description>
-		</item>
-		<item>
-			<title>[사전규격][물품&#40;내자&#41;] 서버 OS</title>
-			<link>https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00303214</link>
-			<guid isPermaLink="true">https://www.g2b.go.kr/link/FIUA006_01/single/?bizNo=R26BD00303214</guid>
-			<author>국방과학연구소</author>
-			<category>사전규격</category>
-			<pubDate>Thu, 19 Nov 2026 15:34:28 +0900</pubDate>
-			<description><![CDATA[<ul>
-	<li>공고/수요기관: 국방과학연구소</li>
-	<li>참고번호: R26BD00303214</li>
 </ul>]]></description>
 		</item>
 	</channel>
