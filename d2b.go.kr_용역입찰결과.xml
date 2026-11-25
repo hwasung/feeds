@@ -4,7 +4,7 @@
 		<title>국방전자조달시스템 용역 입찰결과</title>
 		<link>https://www.d2b.go.kr/</link>
 		<description>국방전자조달시스템 용역 입찰결과</description>
-		<lastBuildDate>Fri, 20 Nov 2026 10:30:05 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 11:30:04 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>[낙찰] 2027년 신문기사 스크랩 솔루션 용역</title>
@@ -61,6 +61,20 @@
 			<li>한국법제연구원: 2순위</li>
 			<li>사단법인기술과법연구소: 탈락</li>
 		</ul>
+</ul>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>[낙찰] 첨단전력 전주기 획득절차 제도화 방안</title>
+			<link>https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=41956&amp;csrt_numb=41956&amp;dmst_itnb=***&amp;bidx_date=20261103&amp;benf_pldt=20261103&amp;anmt_numb=MCD0075&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=1</link>
+			<guid isPermaLink="true">https://www.d2b.go.kr/pdb/bid/bidResultView.do?ordr_year=2026&amp;dprt_code=MCD&amp;dcsn_numb=41956&amp;csrt_numb=41956&amp;dmst_itnb=***&amp;bidx_date=20261103&amp;benf_pldt=20261103&amp;anmt_numb=MCD0075&amp;rqst_degr=1&amp;anmt_degr=1&amp;benf_degr=1&amp;anmt_divs=B&amp;bidx_stat=1</guid>
+			<author>국방부(운영지원과)</author>
+			<category>낙찰</category>
+			<pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<ul>
+	<li>공고번호: 긴급공고 MCD0075</li>
+	<li>발주기관: 국방부(운영지원과)</li>
+	<li>개찰/협상일시: 2026-11-03 17:00</li>
 </ul>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
