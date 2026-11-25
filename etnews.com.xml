@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 25 Nov 2026 18:33:38 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 20:30:57 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>김정희 친절한마녀 대표 “AI 위로, 사람에게 가는 길 여는 다리 돼야”</title>
+			<link>https://www.etnews.com/20261125000590</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000590</guid>
+			<author>조벼리</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 20:00:07 +0900</pubDate>
+			<description><![CDATA[“인공지능(AI)은 밤이든 새벽이든 지치지 않고 들어줍니다. 하지만 아무리 다정한 대답도 사람을 대신할 수는 없습니다. AI는 사람에게 가는 길을 열어주는 다리가 돼야 합니다.” 최근 에세이 '오늘은 다 날씨 탓'을 출간한 김정희 친절한마녀 대표는 AI를 활용한 고민 상담과 정서적 돌봄의 가능성과 한계를 이같이 설명했다. AI가 고민을 털어놓는 상대가 될 수 있지만, 궁극적으로는 사람과의 관계를 회복하도록 돕는 역할을 해야 한다는 것이다. 김...]]></description>
+		</item>
+		<item>
+			<title>2026 AI 챌린지 레이스 질주</title>
+			<link>https://www.etnews.com/20261125000586</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000586</guid>
+			<author>박지호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 19:04:49 +0900</pubDate>
+			<description><![CDATA[...]]></description>
+		</item>
 		<item>
 			<title>아레스·더존비즈온·스틸리언, AI 사이버위협 대응 기술 협력</title>
 			<link>https://www.etnews.com/20261125000572</link>
@@ -77,24 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 25 Nov 2026 18:00:00 +0900</pubDate>
 			<description><![CDATA[더존비즈온의 인공지능(AI) 플랫폼 'ONE AI'는 OmniEsol, Amaranth 10, WEHAGO 등 더존비즈온의 주요 기업용 플랫폼에 탑재된 업무 특화 버티컬 AI다. 전사자원관리(ERP), 그룹웨어, 문서중앙화(ECM), 웹오피스 등 기존 업무 시스템에 생성형 AI를 내재화한 것이 특징이다. 2024년 6월 출시 이후 4개월 만에 1000개 기업과 도입 계약을 체결했으며, 현재 제조·유통·IT·공공 등 7800여개 기업이 활용하고...]]></description>
-		</item>
-		<item>
-			<title>[제4회 글로벌 ACX 초월대상] 한국자산관리공사, AI로 국유재산 공사현장 안전관리 혁신…잠재 위험요인 425건 발굴</title>
-			<link>https://www.etnews.com/20261124000405</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000405</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 25 Nov 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[한국자산관리공사(이하 캠코)가 인공지능(AI) 기반 맞춤형 위험성평가 솔루션을 도입해 국유재산 공사·용역 현장의 안전관리 체계를 고도화하고 있다. 민간기업 AI 기술을 공공 안전관리 업무에 접목하고, 현장 적용 과정에서 지속적인 피드백과 기술 개선을 추진해 선제적 재해예방 체계를 구축한 것이 핵심이다. 캠코가 활용한 'AI 기반 맞춤형 위험성평가 솔루션'은 민간기업 시엑스알이 개발한 AI 기술을 기반으로 한다. 작업 전 현장 사진과 작업정보 등...]]></description>
-		</item>
-		<item>
-			<title>[제4회 글로벌 ACX 초월대상] 아라소프트, 생성형 AI로 기업 보고 업무 혁신…작성부터 승인까지 한 화면에서</title>
-			<link>https://www.etnews.com/20261124000404</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000404</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 25 Nov 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[아라소프트가 국산 웹 오피스 솔루션 '아라오피스'에 생성형 인공지능(AI)을 결합해 기업 보고 업무를 혁신하고 있다. 사내 문서와 제조 현장 데이터를 기반으로 AI가 보고서 초안을 자동 작성하고, 담당자가 근거를 확인한 뒤 검토·승인하는 새로운 업무 체계를 구현한 것이 핵심이다. 이번 사례는 임직원 30명을 대상으로 한 사내 실증을 통해 기술과 업무 활용성을 검증했다. AI가 기존 보고서와 사내 문서 양식을 참고해 문서·스프레드시트·발표 자료...]]></description>
 		</item>
 	</channel>
 </rss>
