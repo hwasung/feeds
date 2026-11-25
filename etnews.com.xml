@@ -4,8 +4,16 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 25 Nov 2026 20:30:57 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 06:30:56 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[테크 차이나] 숏폼 드라마 흥행은 누구의 자산이 되는가</title>
+			<link>https://www.etnews.com/20261105000431</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261105000431</guid>
+			<category>오피니언</category>
+			<pubDate>Thu, 26 Nov 2026 05:00:00 +0900</pubDate>
+			<description><![CDATA[짧은 드라마가 수많은 조회수를 기록했다는 소식과 제작사가 돈을 벌었다는 소식은 같지 않다. 관객이 직접 결제했는지 광고를 봤는지, 수익에서 누구의 비용을 먼저 공제하는지에 따라 제작사에 남는 돈이 달라진다. 작품이 잘됐는데도 다음 제작비가 부족할 수 있다. 숏폼 드라마의 산업성을 판단하려면 조회수가 아니라 수익이 이동하는 경로를 봐야 한다. 중국 시장에서는 웹소설의 이야기 자산과 빠른 제작, 모바일 유통, 광고와 결제가 하나의 사업 체계를 이뤘...]]></description>
+		</item>
 		<item>
 			<title>김정희 친절한마녀 대표 “AI 위로, 사람에게 가는 길 여는 다리 돼야”</title>
 			<link>https://www.etnews.com/20261125000590</link>
@@ -86,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 25 Nov 2026 18:00:00 +0900</pubDate>
 			<description><![CDATA[제4회 2026 글로벌 ACX 초월대상 제품·서비스 부문 대상격인 부총리 겸 과학기술정보통신부장관상에 고려아카데미컨설팅 'AIUP 학습플랫폼', 유신테크'AI 도시통합에너지절감 및 환경제어시스템'이 영예를 안았다. 행정안전부장관상에 엔시드 'NS-FMMS', 중소벤처기업부장관상에 메타빌드 'LLaMON AX'가 각각 수상했다. 과학기술정보통신부가 주최하고 한국SW·AX총연합회와 전자신문 등이 공동 주관한 '제4회 2026 글로벌 ACX 초월대상...]]></description>
-		</item>
-		<item>
-			<title>[제4회 글로벌 ACX 초월대상] 더존비즈온, &apos;ONE AI&apos; 다중 AI 에이전트·지식그래프 기술로 기업 업무 혁신</title>
-			<link>https://www.etnews.com/20261124000398</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000398</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 25 Nov 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[더존비즈온의 인공지능(AI) 플랫폼 'ONE AI'는 OmniEsol, Amaranth 10, WEHAGO 등 더존비즈온의 주요 기업용 플랫폼에 탑재된 업무 특화 버티컬 AI다. 전사자원관리(ERP), 그룹웨어, 문서중앙화(ECM), 웹오피스 등 기존 업무 시스템에 생성형 AI를 내재화한 것이 특징이다. 2024년 6월 출시 이후 4개월 만에 1000개 기업과 도입 계약을 체결했으며, 현재 제조·유통·IT·공공 등 7800여개 기업이 활용하고...]]></description>
 		</item>
 	</channel>
 </rss>
