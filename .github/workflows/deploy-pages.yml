@@ -4,6 +4,8 @@ on:
   # 1. Tasker가 새 피드 XML을 푸시했을 때 즉시 배포
   push:
     branches: ["main"]
+    paths:
+      - "**.xml" # XML 피드 파일이 변경되었을 때만 배포 트리거
 
   # 2. 배포 실패 상태 자동 복구를 위한 정기 재배포 (3시간마다 실행)
   schedule:
@@ -15,7 +17,7 @@ on:
 # 동시 배포 충돌 방지 및 최신 실행 우선 설정
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 # GitHub Pages 배포에 필요한 권한 부여
 permissions:
@@ -32,6 +34,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1 # 전체 히스토리 대신 최신 스냅샷만 얕게 복제 (속도 향상)
 
       # 저장소 내 모든 정적 파일(XML, JSON 등)을 Pages 아티팩트로 압축
       - name: Upload artifact
