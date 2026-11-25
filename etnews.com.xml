@@ -4,8 +4,89 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Wed, 25 Nov 2026 08:30:42 +0900</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 10:30:50 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>아이티아이즈, 화순전남대병원에 맞춤형 의료 AI 에이전트 솔루션 공급</title>
+			<link>https://www.etnews.com/20261125000143</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000143</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 10:00:51 +0900</pubDate>
+			<description><![CDATA[인공지능(AI) 플랫폼 전문기업 아이티아이즈는 화순전남대학교병원에 의료 AI 플랫폼 'GENAI ME(제나이 미)' 기반 맞춤형 AI 에이전트 솔루션을 공급했다고 25일 밝혔다. 해당 솔루션은 화순전남대학교병원 '암 환자 진료 연속성 강화를 위한 온프레미스(On-Premise) 소형언어모델(sLLM) 기반 외부 진료 의뢰서 자동 구조화 및 요약 에이전트 개발' 과제에 적용될 예정이다. 지난 2월부터 이정호 화순전남대학교병원 응급의학과 교수가 맡...]]></description>
+		</item>
+		<item>
+			<title>티쓰리큐, &apos;디지털트윈 컨퍼런스&apos; 성료…“제조지능 전략 제시”</title>
+			<link>https://www.etnews.com/20261125000140</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000140</guid>
+			<author>조호현</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:59:50 +0900</pubDate>
+			<description><![CDATA[티쓰리큐(T3Q)는 고려대학교 공학대학원이 주최하고 티쓰리큐와 지능형제조융합연구조합(KiDMA)이 공동주관한 '2026 제조지능 컨퍼런스'를 마무리했다고 25일 밝혔다. 첫 세션에서는 디지털트윈과 피지컬AI 결합을 주제로 제조산업의 새로운 기술 패러다임을 살펴봤으며, 두 번째 세션에서는 메타데이터·온톨로지·지식그래프 기반 디지털트윈 모델 개발 방법론을 중심으로 보다 구체적인 기술적 접근과 산업 현장 적용 방안을 다뤘다고 전했다. 구체적으로 티쓰...]]></description>
+		</item>
+		<item>
+			<title>넥스원소프트, 재외국민 온라인 인증 편의성 개선</title>
+			<link>https://www.etnews.com/20261125000134</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000134</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:55:34 +0900</pubDate>
+			<description><![CDATA[재외국민이 국내 온라인 서비스를 이용할 때 자신이 발급받은 인증서를 한눈에 확인하고 선택할 수 있게 됐다. 넥스원소프트는 통합인증 서비스 '넥스비싸인(NexBe Sign)'의 재외국민 인증 방식을 개선했다고 25일 밝혔다. 서비스 개선 대상은 여권·증명서 등 민원 업무를 처리하는 '재외동포365민원포털'과 국내 공문서의 해외 사용을 위한 인증서를 발급하는 '대한민국 아포스티유'다. 기존에는 이용자가 인증서를 선택한 뒤 성명, 생년월일, 휴대전화...]]></description>
+		</item>
+		<item>
+			<title>스마트홈 앱, 집 주소·위치정보까지 수집…구글·아마존 개인정보 수집 논란</title>
+			<link>https://www.etnews.com/20261125000119</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000119</guid>
+			<author>김현민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:43:15 +0900</pubDate>
+			<description><![CDATA[스마트홈 시장이 확대되면서 가정 내 스마트 기기와 연동 애플리케이션(앱)을 통한 개인정보 수집 문제가 새로운 보안 이슈로 부상하고 있다. 단순한 기기 제어를 넘어 사용자의 정확한 위치와 집 주소, 음성, 사진은 물론 민감한 개인정보까지 수집하는 것으로 나타나 스마트홈 서비스의 개인정보 보호 체계를 강화해야 한다는 지적이 나온다. 사이버보안 기업 서프샤크(Surfshark)가 애플 앱스토어에 등록된 스마트홈 앱 300개를 대상으로 개인정보 수집...]]></description>
+		</item>
+		<item>
+			<title>에버스핀, 전국 대학 대상 웹 보안 무상 기술검증 추진</title>
+			<link>https://www.etnews.com/20261125000115</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000115</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:39:37 +0900</pubDate>
+			<description><![CDATA[에버스핀은 전국 대학을 대상으로 웹 보안 솔루션 무상 기술검증(PoC)을 추진한다고 25일 밝혔다. 금융권에서 검증한 기술을 기반으로 대학의 인공지능(AI) 활용 사이버 공격 대응 역량을 강화한다는 취지다. 대학은 별도 초기 도입 비용 없이 실제 운영 환경에 웹 보안 솔루션 '에버세이프 웹'을 적용해 공격 대응 효과와 운영 적합성을 확인할 수 있다. 에버세이프 웹은 이동표적방어(MTD) 기술을 기반으로 웹 보안 모듈과 보호 구조를 지속적으로 변...]]></description>
+		</item>
+		<item>
+			<title>“AI 에이전트로 사내 정보 통합 활용” 포시에스, 제조혁신 방향 제시</title>
+			<link>https://www.etnews.com/20261125000102</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000102</guid>
+			<author>윤건일</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:29:07 +0900</pubDate>
+			<description><![CDATA[포시에스는 최근 열린 제조혁신코리아에 참가해 엔터프라이즈 지식 기반 인공지능(AI) 에이전트 '아이오즈 에카(AIOZ EKA, 이하 에카)'를 선보였다고 25일 밝혔다. 에카는 작업일지, 품질 보고서와 같은 생산 문서부터 이메일, 전사적 자원관리 시스템 데이터 등 다양한 사내 정보를 통합해 사용자 요청에 응답하는 AI 솔루션이다. 사내 시스템에 흩어져 담당자가 일일이 찾고 취합해야 했던 정보를 질문 하나로 불러와 바로 업무에 활용할 수 있다는...]]></description>
+		</item>
+		<item>
+			<title>“현장 경험을 기업 자산으로”… 위즈코어, 제조 AX 데이터 플랫폼 &apos;NEXPOM-X&apos; 첫선</title>
+			<link>https://www.etnews.com/20261125000101</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000101</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:27:26 +0900</pubDate>
+			<description><![CDATA[제조 인공지능 전환(AX) 전문기업 위즈코어(대표 박승훈)는 지난 17일부터 20일까지 대구 엑스코에서 열린 '대구국제자동화기기전(DAMEX 2026)'에서 제조 AX 데이터 플랫폼 'NEXPOM-X'를 공개했다고 25일 밝혔다. NEXPOM-X는 설비와 공정 데이터에 현장의 문제 해결 경험을 연결해 AI 기반 현장 운영과 개선을 지원한다. NEXPOM-X는 데이터 수집, 데이터 통합·처리, 제조 맥락 부여, AI 전주기 운영, 활용 및 확장...]]></description>
+		</item>
+		<item>
+			<title>로데슈바르즈, AI 기반 6G 통신·센싱 융합 기술 검증</title>
+			<link>https://www.etnews.com/20261125000096</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000096</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:22:57 +0900</pubDate>
+			<description><![CDATA[글로벌 시험·계측 솔루션 기업 로데슈바르즈가 인공지능(AI)을 활용한 차세대 6세대(6G) 이동통신 핵심 기술인 통신·센싱 융합(ISAC) 기술 검증 사례를 공개했다. 로데슈바르즈(Rohde & Schwarz)는 지난 10월 삼성전자가 미국 실리콘밸리에서 개최한 '실리콘밸리 미래 통신 서밋 2026'에 참가해 5G 이동통신 신호를 활용한 AI 기반 객체 탐지·분류 기술을 시연했다고 밝혔다. 이번 행사는 삼성전자가 글로벌 통신사업자와 산업계, 학...]]></description>
+		</item>
+		<item>
+			<title>위즈코어, 판금·제관 전개도 작성 지원 &apos;CADian Folder&apos; 공개</title>
+			<link>https://www.etnews.com/20261125000082</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000082</guid>
+			<author>이경민</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Wed, 25 Nov 2026 09:06:22 +0900</pubDate>
+			<description><![CDATA[설계·제조 인공지능 전환(AX) 전문기업 위즈코어(대표 박승훈)는 나이스정보(대표 이두호)가 개발한 판금·제관 전개도 프로그램 '폴더(Folder)'를 국산 CAD '캐디안(CADian)'에서 사용할 수 있도록 한 'CADian Folder(이하 'Folder')'를 선보인다고 25일 밝혔다. 양사는 24일 'CADian Folder' 출시를 위한 업무협약(MOU) 체결식을 진행했다. Folder는 현장 엔지니어의 판금·제관 및 컨베이어 설비...]]></description>
+		</item>
 		<item>
 			<title>앤트로픽 주가 상장 나흘 만에 공모가 밑으로</title>
 			<link>https://www.etnews.com/20261125000068</link>
@@ -14,86 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 25 Nov 2026 07:38:33 +0900</pubDate>
 			<description><![CDATA[앤트로픽 주가가 24일(현지시간) 6.5% 하락해 상장 4거래일 만에 처음으로 공모가 83달러 아래에서 마감했다. 앤트로픽은 이날 뉴욕증시에서 5.74달러 내린 81.91달러에 거래를 마쳐 종가가 공모가보다 1.3% 낮았다. 장중에는 75.61달러까지 밀려 공모가 대비 낙폭이 8.9%에 달했으나 이후 하락 폭을 줄였다. 블룸버그 통신에 따르면 종가 기준 시가총액은 완전 희석 기준(스톡옵션 등 포함)으로 약 1조5000억달러(약 2014조원)다....]]></description>
-		</item>
-		<item>
-			<title>[테크 차이나] 해저케이블을 넘어 복구망으로…중국 통신 인프라 경쟁</title>
-			<link>https://www.etnews.com/20261105000426</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261105000426</guid>
-			<category>오피니언</category>
-			<pubDate>Wed, 25 Nov 2026 05:00:00 +0900</pubDate>
-			<description><![CDATA[해저케이블이 새로 깔리면 길이와 전송 용량이 뉴스가 된다. 그러나 통신 서비스가 끊겼을 때 중요한 숫자는 다르다. 복구선이 어디에 있는지, 다른 작업을 마치고 언제 올 수 있는지, 필요한 부품과 허가는 준비됐는지에 따라 중단 기간이 달라진다. 해저통신망의 품질은 설치할 때만이 아니라 손상 이후에 드러난다. 중국 해저통신 산업의 확장은 통신사업자의 수요와 자본에 제조·해양 시공을 연결하는 과정이다. 그러나 장비를 납품해 바다에 놓는 일만으로 투자...]]></description>
-		</item>
-		<item>
-			<title>국방정보통신협회, 제로 트러스트·AI 기반 미래 국방 보안 전략 모색</title>
-			<link>https://www.etnews.com/20261124000517</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000517</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 21:05:16 +0900</pubDate>
-			<description><![CDATA[국방정보통신협회가 제로 트러스트와 인공지능(AI) 기반 첨단 보안 기술을 국방 정보통신체계에 접목하고 미래 전장 환경에 대응하기 위한 사이버 방호 역량 강화에 나섰다. 국방정보통신협회(회장 신인섭)는 24일 서울 군인공제회 C&C에서 '미래 국방을 여는 차세대 사이버·네트워크 보안 세미나'를 개최했다고 밝혔다. 한화시스템, LIG D&A, 군인공제회 C&C, 퓨쳐시스템이 후원한 이번 세미나는 급변하는 미래 전장 환경과 고도화하는 사이버 위협에...]]></description>
-		</item>
-		<item>
-			<title>[공공 클라우드 도입 촉진사업] 데이터드리븐 &apos;클리포&apos; “교사 평가 업무 지원”</title>
-			<link>https://www.etnews.com/20261124000516</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000516</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 20:45:11 +0900</pubDate>
-			<description><![CDATA[데이터드리븐의 인공지능(AI) 기반 평가 지원 솔루션 '클리포(CLIPO)'가 1400여개 학교에 도입되며 교사의 평가 업무 부담을 덜어주고 있다. 클리포는 평가계획 수립부터 학생 과제물 채점, 피드백, 평가 결과 기록까지 교사의 평가 업무 전반을 지원한다. 국가 교육과정의 성취기준을 바탕으로 서·논술형 평가의 채점기준을 생성하고, 교사가 설정한 기준에 따라 학생 답안과 과제물을 분석한다. 평가 요소별 점수와 채점 근거를 제시하면 교사가 검토·...]]></description>
-		</item>
-		<item>
-			<title>[공공 클라우드 도입 촉진사업] 휴스테이션 &apos;페어리&apos; “채용 공고부터 합격자 발표까지 원스톱 관리”</title>
-			<link>https://www.etnews.com/20261124000515</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000515</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 20:44:12 +0900</pubDate>
-			<description><![CDATA[휴스테이션의 '페어리(FAIRY)'는 채용 공고 작성부터 입사지원서 접수, 전형별 평가, 합격자 발표까지 기업의 채용 전 과정을 돕는 솔루션이다. 페어리는 백오피스, 평가시스템, 채용사이트로 구성된다. 공공기관과 민간기업, 공무원 채용 등 환경에서 기업 규모와 채용 절차에 맞게 선택적으로 사용할 수 있도록 지원한다. 별도 개발 과정 없이도 몇 번의 클릭만으로 기관별 맞춤형 채용사이트를 제작할 수 있다. 입사지원서 항목을 템플릿으로 기본 제공해...]]></description>
-		</item>
-		<item>
-			<title>[공공 클라우드 도입 촉진사업] 디엠티랩스 &apos;딜라토&apos; “실시간 다국어 통번역 지원”</title>
-			<link>https://www.etnews.com/20261124000514</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000514</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 20:43:11 +0900</pubDate>
-			<description><![CDATA[디엠티랩스 실시간 다국어 자막·통번역 운영 솔루션 '딜라토 캡션'이 국제행사를 비롯해 대학 교육, 산업현장, 공공 치안 서비스 등 다양한 분야에 활용되고 있다. 딜라토 캡션은 발표자와 연사의 음성을 실시간으로 인식·번역해 행사장 화면과 참가자 개인 기기에 다국어 자막을 제공하는 솔루션이다. 행사장 메인 스크린뿐 아니라 발표자료와 온라인 송출 화면에도 실시간 번역 자막을 표출한다. 참가자는 별도 애플리케이션(앱) 설치 없이 QR코드로 접속해 원하...]]></description>
-		</item>
-		<item>
-			<title>서울시, 글로벌 AI 도시 지수서 2년 연속 2위</title>
-			<link>https://www.etnews.com/20261124000498</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000498</guid>
-			<author>정현정</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 18:15:25 +0900</pubDate>
-			<description><![CDATA[서울이 2년 연속으로 글로벌 인공지능(AI) 도시 2위로 뽑혔다. 시장조사업체 카운터포인트 리서치는 24일 전 세계 100대 대도시의 AI 도입 수준을 평가한 '2026년 글로벌 AI 도시 지수'를 발표했다. 1위는 65.9점을 얻은 싱가포르가 차지했고 서울은 1점 뒤처진 2위(64.9)였다. 3위인 아부다비의 점수는 64.5로 서울과 0.4밖에 차이가 나지 않는다. 4위와 5위는 각각 두바이(62.4), 샌프란시스코(57.0)다. 마크 아인슈...]]></description>
-		</item>
-		<item>
-			<title>AI 전문기술 비용 따로 산정…KOSA, 사업대가 로드맵 발표</title>
-			<link>https://www.etnews.com/20261124000365</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000365</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[인공지능(AI) 사업에 투입되는 전문기술과 인프라 비용을 사업대가에 반영하기 위한 로드맵이 나왔다. 단기적으로는 AI 인프라 구축비와 전문기술 비용을 별도 항목으로 나눠 AI 사업 제값받기에 기여한다는 방침이다. 중장기적으로는 AI 개발 전반에 소요되는 항목별 비용을 제대로 받도록 가이드를 마련한다는 계획이다. 24일 한국인공지능·소프트웨어산업협회(KOSA)는 서울 포스코타워 역삼에서 '2026년 소프트웨어(SW)사업대가 세미나'를 열고 이 같...]]></description>
-		</item>
-		<item>
-			<title>[제4회 글로벌 ACX 초월대상] 엔시드, CCTV 함체 통합관리 솔루션 &apos;NS-FMMS&apos;로 스마트 도시안전 시장 공략</title>
-			<link>https://www.etnews.com/20261124000395</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000395</guid>
-			<author>김현민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 18:00:00 +0900</pubDate>
-			<description><![CDATA[엔시드가 도로 및 생활안전 분야의 원격지 시설물을 효율적으로 관리할 수 있는 CCTV 함체 통합관리 솔루션 'NS-FMMS'를 앞세워 스마트 도시안전 인프라 시장 공략에 나선다. NS-FMMS는 CCTV 함체를 비롯한 원격지 현장 시설물의 운영 상태와 보안 상황을 통합 관리하는 솔루션이다. GIS(지리정보시스템)를 기반으로 함체와 내부 운영 장비의 위치 및 상태를 실시간으로 모니터링할 수 있어 다수의 현장 시설을 체계적으로 관리할 수 있다. 특...]]></description>
-		</item>
-		<item>
-			<title>이한진 한동대 교수 공동 연구팀, &apos;IAAI 2026 종합학술대회&apos;서 우수논문상 2편 수상</title>
-			<link>https://www.etnews.com/20261124000477</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261124000477</guid>
-			<author>이원지</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Tue, 24 Nov 2026 17:19:56 +0900</pubDate>
-			<description><![CDATA[국제인공지능학회(IAAI, 회장 강정진)와 (사)국제문화기술진흥원(IPACT)이 공동 개최한 'IAAI 2026 제14회 종합학술대회'가 지난 19일부터 21일까 서울과학기술대학교 상상관에서 개최됐다. 과학기술정보통신부, 한국연구재단, 한국과학기술단체총연합회 등이 후원한 이번 대회는 제14회 국제융복합심포지엄(ISAAC 2026)과 스타트업 발명 경진대회, 캡스톤디자인 경진대회가 온·오프라인(O2O) 병행 방식으로 열려 국내외 산학연 연구자들의...]]></description>
 		</item>
 	</channel>
 </rss>
