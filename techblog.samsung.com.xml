@@ -4,8 +4,16 @@
 		<title>삼성테크블로그</title>
 		<link>https://techblog.samsung.com/</link>
 		<description>삼성테크블로그</description>
-		<lastBuildDate>Fri, 20 Nov 2026 18:35:48 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 17:01:49 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>AI에게 API를 그대로 열어 주지 마세요 — 원격 TV 팜을 AI 에이전트용 인터페이스로 다시 설계하며 얻은 6가지 원칙</title>
+			<link>https://techblog.samsung.com/blog/article/111</link>
+			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/111</guid>
+			<author>이희진</author>
+			<pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/111" alt="">]]></description>
+		</item>
 		<item>
 			<title>DynamoDB Export를 BigQuery CDC로 처리하기까지</title>
 			<link>https://techblog.samsung.com/blog/article/110</link>
@@ -77,14 +85,6 @@
 			<author>김완희</author>
 			<pubDate>Mon, 19 Oct 2026 00:00:00 +0900</pubDate>
 			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/101" alt="">]]></description>
-		</item>
-		<item>
-			<title>CLI 에이전트를 API 뒤에 세우기 — Claude Code와 Codex를 앱에서 안전하게 활용하기 위한 세 가지 장치</title>
-			<link>https://techblog.samsung.com/blog/article/100</link>
-			<guid isPermaLink="true">https://techblog.samsung.com/blog/article/100</guid>
-			<author>김완희</author>
-			<pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<img src="https://techblog.samsung.com/blogThumbnail/100" alt="">]]></description>
 		</item>
 	</channel>
 </rss>
