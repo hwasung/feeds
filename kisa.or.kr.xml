@@ -4,8 +4,27 @@
 		<title>KISA 한국인터넷진흥원</title>
 		<link>https://www.kisa.or.kr/</link>
 		<description>KISA 한국인터넷진흥원</description>
-		<lastBuildDate>Wed, 25 Nov 2026 18:35:31 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 18:34:22 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>2026년 하반기 침해사고 정보공유 세미나 개최(12/9, 포스코타워 역삼)</title>
+			<link>https://www.kisa.or.kr/401/form?postSeq=3810&amp;page=1</link>
+			<guid isPermaLink="true">https://www.kisa.or.kr/401/form?postSeq=3810&amp;page=1</guid>
+			<category>공지사항</category>
+			<pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[ 
+<p>한국인터넷진흥원은 12월 9일(수) 서울 강남 포스코타워 역삼에서<br/>
+	최신 침해사고 동향 및 사고 대응·후속 조치 방안을 공유하기 위한 '2026년 하반기 침해사고 정보공유 세미나'를 개최합니다.<br/>
+	<br/>
+	□ 세미나 개요<br/>
+	o 주제 : 2026년 하반기 침해사고 정보공유 세미나<br/>
+	o 일시 : 2026년 12월 9일(수) 10:00 ~ 17:00<br/>
+	o 장소 : 서울 강남구 테헤란로 134, 포스코타워 역삼 3층 이벤트홀<br/>
+	o 신청링크 : https://forms.gle/6mQivRzSvezuguiE9<br/>
+	<br/>
+	<img alt="" src="https://www.kisa.or.kr/ckeditor/imageDownload.do?img=/ckeditor/202606/20261126_083002_411.png"/></p>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>「2026 전자문서×전자서명 컨퍼런스」 개최 및 사전등록 안내(&apos;26. 12. 3.(목), 서울 피스앤파크컨벤션)</title>
 			<link>https://www.kisa.or.kr/401/form?postSeq=3808&amp;page=1</link>
@@ -398,36 +417,6 @@
 		</tr>
 	</tbody>
 </table>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>2026 ACDC(AI Cyber Defense Contest) 참관객 모집</title>
-			<link>https://www.kisa.or.kr/401/form?postSeq=3802&amp;page=1</link>
-			<guid isPermaLink="true">https://www.kisa.or.kr/401/form?postSeq=3802&amp;page=1</guid>
-			<category>공지사항</category>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<p> AI 시대, 사이버위협에 대응하기 위해 정부와 화이트해커·AI기업·보안기업·학계 등 AI 보안 생태계의 주체들이 모여 기술혁신과 인재양성, 산업 경쟁력 강화의 계기를 마련하고자 합니다.<br/>
-	<br/>
-	AI가 일상과 산업 전반으로 확산되는 지금, 우리의 미래를 지키는 사이버보안의 가치와 역할을 나누고, 더 안전한 내일을 위한 협력 방향을 함께 그려 보고자 합니다.<br/>
-	<br/>
-	이에, 국민 여러분의 많은 관심과 참여를 부탁드립니다.<br/>
-	<br/>
-	◎ 행사명: 2026 ACDC(AI Cyber Defense Contest)<br/>
-	◎ 일 시: 2026. 12. 1.(화) ~ 12. 2.(수)<br/>
-	◎ 장 소: 그랜드 인터컨티넨탈 서울 파르나스<br/>
-	◎ 슬로건: AI의 모든 순간에, 사이버보안(AI Everywhere. Cybersecurity Always)<br/>
-	<br/>
-	▶ 참가신청: <a href="https://form.naver.com/response/E8v1DyO6Y0j">https://form.naver.com/response/E8v1DyO6Y0j</a><br/>
-	<br/>
-	<img src="https://www.kisa.or.kr/ckeditor/imageDownload.do?img=/ckeditor/202606/20261124_154526_655.jpg"/></p>
-<hr/>
-<div class="feed-attachments">
-	<strong>첨부파일</strong>
-	<ul>
-		<li><a href="https://www.kisa.or.kr/post/fileDownload?menuSeq=401&amp;postSeq=3802&amp;attachSeq=2&amp;lang_type=KO">2026 ACDC 세부 프로그램.pdf (6 MB)</a></li>
-		<li><a href="https://www.kisa.or.kr/post/fileDownload?menuSeq=401&amp;postSeq=3802&amp;attachSeq=3&amp;lang_type=KO">2026 ACDC 포스터.jpg (4 MB)</a></li>
-	</ul>
-</div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 	</channel>
