@@ -4,8 +4,22 @@
 		<title>방위사업청 공지사항</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&amp;bbsSeq=443</link>
 		<description>방위사업청 공지사항</description>
-		<lastBuildDate>Mon, 23 Nov 2026 14:30:12 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 10:30:17 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>서비스 일시 중단 안내(26. 11. 27.[금] 18:00 ~ 23:00)</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59525&amp;menuSeq=3031&amp;bbsSeq=443</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59525&amp;menuSeq=3031&amp;bbsSeq=443</guid>
+			<author>유지보수(공통)</author>
+			<category>일반공지</category>
+			<category>공지사항</category>
+			<pubDate>Thu, 26 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<p>유휴자원 확보 등의 자원 최적화를 위한 작업으로 인해</p>
+<p>서비스가 아래와 같이 중단될 예정입니다.</p>
+<p>* 작업 일시 : '26. 11. 27.[금] 18:00 ~ 23:00</p>
+<p>* 작업 사유 : 유휴자원 확보 등의 자원 최적화를 위한 서버 재기동</p>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>국방 연구개발 사업 중소기업자 우선선정 품목지정 공고</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59507&amp;menuSeq=3031&amp;bbsSeq=443</link>
@@ -30,7 +44,7 @@
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
-			<title>[다족보행로봇 사업] (예비)사업설명회 사전 신원조사 및 보안측정 안내</title>
+			<title>[다족보행로봇 사업] (예비)사업설명회 사전 신원조사 및 보안측정 안내(수정)</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59481&amp;menuSeq=3031&amp;bbsSeq=443</link>
 			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59481&amp;menuSeq=3031&amp;bbsSeq=443</guid>
 			<author>관리자</author>
@@ -165,20 +179,6 @@
 <hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59441&amp;fileNum=1">[제2026-139호] 임기제공무원(디지털홍보, 일반임기제 6급) 서류전형 합격자 및 면접시험 일정 공고.pdf (0.19 MB)</a></li>
 <li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59441&amp;fileNum=2">[제2026-139호] 임기제공무원(디지털홍보, 일반임기제 6급) 서류전형 합격자 및 면접시험 일정 공고.hwpx (0.07 MB)</a></li>
-</ul></div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>27-1차 방산수출 지원사업 통합설명회 안내</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59439&amp;menuSeq=3031&amp;bbsSeq=443</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59439&amp;menuSeq=3031&amp;bbsSeq=443</guid>
-			<author>관리자</author>
-			<category>일반공지</category>
-			<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><img src="https://www.dapa.go.kr/xfree/attachImage.do?downloadId=21YDwyx92F7kmb0d95Nd"/><br/></div><br/><div>※ 자세한 사항은 첨부문서를 참고하시기 바랍니다.</div>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59439&amp;fileNum=1">붙임 1. 27-1차 방산수출 지원사업 통합설명회 안내문.pdf (0.07 MB)</a></li>
-<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59439&amp;fileNum=2">붙임 2. 27-1차 방산수출 지원사업 통합설명회 홍보 배너.jpg (0.12 MB)</a></li>
 </ul></div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
