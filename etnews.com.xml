@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 26 Nov 2026 18:32:36 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 19:30:42 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>개인정보위, AI 보이스피싱 탐지 서비스 &apos;적극행정 대상&apos; 수상</title>
+			<link>https://www.etnews.com/20261126000539</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000539</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 18:38:42 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회는 '2026 적극행정 우수사례 경진대회'에서 인공지능(AI) 기반 실시간 보이스피싱 탐지 서비스 지원 사례로 대상(대통령상)을 수상했다고 26일 밝혔다. 이로써 개인정보위는 3년 연속 수상했다. 개인정보위는 과학기술정보통신부와 협력해 범죄자의 성문정보를 AI 개발·검증에 활용할 수 있도록 규제샌드박스 실증특례를 추진했다. 범죄자 음성에서 복원이 불가능한 방식으로 특징 정보만 추출하고 이를 스마트폰 단말기 내에서 대조하도록 해...]]></description>
+		</item>
 		<item>
 			<title>아이에이클라우드, &apos;K-Perf&apos; 기반 국산 AI 반도체 인프라 성능 검증</title>
 			<link>https://www.etnews.com/20261126000528</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 26 Nov 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[글로벌 소프트웨어(SW) 기업이 국내 고객사의 데이터 사용량을 인위적으로 조작해 과금액을 키운 정황이 드러났다. 이미 우리나라 대부분의 기업과 공기관이 클라우드 서비스나 구독형 모델로 SW를 도입해 사용하고 있는 상황을 감안하면, 이번 사태가 산업계 전반에 미칠 파장은 결코 작지 않을 전망이다. 제기된 의혹의 구체적 수법은 매우 치밀하고 악의적이다. 서비스 도입 초기, 고객사가 플랫폼의 기술적 특성과 정밀한 과금 산정 방식을 세밀하게 파악하기...]]></description>
-		</item>
-		<item>
-			<title>[신SW상품대상 11월 추천작] 시큐어링크 &apos;SL-가드&apos;</title>
-			<link>https://www.etnews.com/20261126000241</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000241</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[시큐어링크는 금융기관과 공공기관, 연구기관 및 기업의 업무화면과 출력물을 통한 정보 유출을 예방하고 유출 경로를 추적할 수 있는 비가시성 화면·출력 보안 솔루션 'SL-가드(SL-Guard)'를 출품했다. 기존 PC 보안 솔루션은 화면 캡처, 파일 복사, 이동식 저장장치 사용 등을 통제할 수 있다. 휴대전화 카메라로 화면을 찍거나 종이 출력물을 외부로 가져가는 행위는 직접 차단하기 어렵다. SL-가드는 업무 화면과 문서의 가독성을 해치지 않도록...]]></description>
 		</item>
 	</channel>
 </rss>
