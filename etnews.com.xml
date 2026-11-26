@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 26 Nov 2026 08:30:45 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 09:30:54 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>이노그리드, NHN클라우드 기반 DaaS 디지털서비스 등…공공 클라우드 경쟁력 제고</title>
+			<link>https://www.etnews.com/20261126000066</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000066</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 09:00:44 +0900</pubDate>
+			<description><![CDATA[이노그리드가 NHN클라우드와의 협력을 기반으로 공공 클라우드 서비스 포트폴리오 강화에 나선다. 이노그리드는 '이노그리드 NHN클라우드 가상 데스크톱 서비스 포 엔에이치엔클라우드(DaaS)'가 과학기술정보통신부 제76차 디지털서비스 심사위원회에서 디지털서비스로 선정됐다고 26일 밝혔다. 이번 선정으로 이노그리드는 기존 클라우드 인프라 서비스(IaaS)에 이어 가상 데스크톱 기반의 서비스형 데스크톱(DaaS)까지 공공기관에 공급할 수 있는 사업 기...]]></description>
+		</item>
+		<item>
+			<title>인천국제공항공사ㆍSITA, AI 에이전트 기반 상황관리 가능성 확인</title>
+			<link>https://www.etnews.com/20261125000511</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261125000511</guid>
+			<author>이원지</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+			<description><![CDATA[인천국제공항공사와 SITA(시타)는 인천공항 통합운영센터 상황관리 업무에 AI 에이전트를 적용하는 개념검증을 완료했다고 25일 밝혔다. 양측은 이를 통해 공항 운영과 위기 대응 분야에서 에이전틱 AI의 활용 가능성을 확인했다. 이번 PoC는 인천공항의 AI 대전환(AX) 과제로 올해 5월부터 약 6개월간 진행됐다. SITA 혁신 연구소의 AI 에이전트 플랫폼 '뉴럴 옵스'를 활용해 기상 악화, 항공기 회항, 여객 밀집 등 다양한 상황을 분석하고...]]></description>
+		</item>
 		<item>
 			<title>AI 에이전트 활용 사이버 공격 확산…이탈리아·스위스 피해 확인</title>
 			<link>https://www.etnews.com/20261126000049</link>
@@ -76,24 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Wed, 25 Nov 2026 18:16:08 +0900</pubDate>
 			<description><![CDATA[올거나이즈가 삼성화재의 보험 약관을 인공지능(AI)이 활용할 수 있는 정형 데이터로 전환했다. 올거나이즈는 삼성화재와 함께 진행한 '보험 약관 데이터 자산화' 사업을 완료했다고 25일 밝혔다. 올해 7월부터 약 3개월간 진행한 사업으로 PDF 형태의 보험 약관을 AI 활용 데이터로 전환했다. 문서 이해 엔진 '알리 독스'와 보험 약관 특화 데이터 처리 파이프라인을 적용했다. 약관 PDF의 조·항·목 계층과 표, 도해를 복원하고 조항별 유형과 항...]]></description>
-		</item>
-		<item>
-			<title>플리토, AI 통번역 &apos;보글&apos; 도입 행사 연간 850건 육박</title>
-			<link>https://www.etnews.com/20261125000564</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261125000564</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 25 Nov 2026 18:10:46 +0900</pubDate>
-			<description><![CDATA[플리토는 콘퍼런스·강연 특화 인공지능(AI) 통번역 솔루션 '보글 스테이지'의 올해 도입 행사 수가 약 850건으로 전년 대비 92% 증가할 것으로 예상한다고 25일 밝혔다. 보글 스테이지 도입 행사 수는 2024년 약 52건에서 지난해 442건으로 증가했다. 올해 10월까지 645건을 기록했고 이번 달과 다음 달 예정된 행사까지 합하면 약 850건에 달한다. 미국 보스턴에서 열린 'IBM Think'과 스페인 바르셀로나에서 개최된 '구글 글로...]]></description>
-		</item>
-		<item>
-			<title>포티투마루, AI·SW 인재페스티벌서 AI 인재 양성 지원</title>
-			<link>https://www.etnews.com/20261125000563</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261125000563</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Wed, 25 Nov 2026 18:09:39 +0900</pubDate>
-			<description><![CDATA[포티투마루는 서울 용산구 서울드래곤시티에서 열리는 '2026 AI·SW인재페스티벌'에 후원기업으로 참가해 우수작품 경진대회 시상과 채용 연계 지원에 나선다고 25일 밝혔다. 과학기술정보통신부가 주최하고 정보통신기획평가원(IITP)과 AI·SW중심대학협의회가 주관하는 이번 행사는 인공지능(AI)·소프트웨어(SW) 중심대학의 우수 프로젝트와 교육 성과를 공유하는 자리다. 25일부터 이틀간 열리는 행사에는 전국 AI·SW중심대학 60개교가 참여한다....]]></description>
 		</item>
 	</channel>
 </rss>
