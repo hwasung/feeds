@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 26 Nov 2026 19:30:42 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 21:30:41 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>인천 송도에 모인 로봇들의 &apos;가을 운동회&apos;…세계 38개국 3000여명 출전</title>
+			<link>https://www.etnews.com/20261126000559</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000559</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 20:25:40 +0900</pubDate>
+			<description><![CDATA[세계 38개국 3000여명이 참가하는 로봇 대회가 인천에서 열린다. 인천시는 오는 28~29일 송도컨벤시아 3·4홀에서 '2026 로보텍스 인터내셔널 세계대회'를 개최한다고 26일 밝혔다. 시가 집계한 참가 예정 인원은 3000여명으로, 이 가운데 해외 참가자는 약 2700명이다. 로보텍스 인터내셔널은 2001년 에스토니아에서 시작된 로봇 축제로, 세계대회의 국내 개최는 이번이 처음이다. 로보텍스 인터내셔널이 주최하고 한국 공식 대표기관인 인터...]]></description>
+		</item>
 		<item>
 			<title>개인정보위, AI 보이스피싱 탐지 서비스 &apos;적극행정 대상&apos; 수상</title>
 			<link>https://www.etnews.com/20261126000539</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 26 Nov 2026 17:00:00 +0900</pubDate>
 			<description><![CDATA[이노베이션아카데미가 대한민국 인공지능(AI) 3대 강국 도약을 이끌 실전형 인재 양성 플랫폼 '코디세이'를 중심으로 AI 혁신교육 생태계 구축에 박차를 가한다. 김두현 이노베이션아카데미 학장은 26일 서울 서초구 엘타워 그레이스홀에서 열린 '2026 이노베이션아카데미 성과 공유 컨퍼런스'에서 “코디세이의 비전은 대한민국 AI 3대 강국 도약을 위한 AX 실전형 인재 양성을 위한 교육 혁신의 요람이 되는 것”이라며 이같이 강조했다. 컨퍼런스는 코...]]></description>
-		</item>
-		<item>
-			<title>[사설] SW 사용량 부풀리기, 엄벌해야</title>
-			<link>https://www.etnews.com/20261126000431</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000431</guid>
-			<author>논설위원실</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[글로벌 소프트웨어(SW) 기업이 국내 고객사의 데이터 사용량을 인위적으로 조작해 과금액을 키운 정황이 드러났다. 이미 우리나라 대부분의 기업과 공기관이 클라우드 서비스나 구독형 모델로 SW를 도입해 사용하고 있는 상황을 감안하면, 이번 사태가 산업계 전반에 미칠 파장은 결코 작지 않을 전망이다. 제기된 의혹의 구체적 수법은 매우 치밀하고 악의적이다. 서비스 도입 초기, 고객사가 플랫폼의 기술적 특성과 정밀한 과금 산정 방식을 세밀하게 파악하기...]]></description>
 		</item>
 	</channel>
 </rss>
