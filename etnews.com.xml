@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 26 Nov 2026 21:30:41 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 06:30:45 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[KB유니콘클럽, 기술을 사업으로⑧]“제 사건 어디까지 왔나요”…파프롬지니어스, 로토매틱이 줄이는 반복사무</title>
+			<link>https://www.etnews.com/20261124000019</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261124000019</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 04:00:00 +0900</pubDate>
+			<description><![CDATA[로펌에서 의뢰인이 사건 진행 상황을 물으면 담당자는 기록을 확인해 답하고, 다음 재판 일정과 받지 못한 수임료도 챙겨야 한다. 사건이 늘수록 확인과 안내 업무도 반복된다. 법률사무 자동화 서비스 '로토매틱'은 사건 정보를 활용해 기일과 진행 상황, 비용을 관리하는 부담을 줄인다. 리걸테크 기업 파프롬지니어스(대표 김동현)는 로토매틱으로 사건관리와 의뢰인 소통의 자동화를 추진한다. 파프롬지니어스는 올해 4월 정식 출시 당시 약 4곳이던 이용 로펌...]]></description>
+		</item>
 		<item>
 			<title>인천 송도에 모인 로봇들의 &apos;가을 운동회&apos;…세계 38개국 3000여명 출전</title>
 			<link>https://www.etnews.com/20261126000559</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 26 Nov 2026 17:00:35 +0900</pubDate>
 			<description><![CDATA[정부가 국가 AI컴퓨팅센터 완공에 앞서 내년부터 기업과 연구기관에 그래픽처리장치(GPU)를 공급하는 방안을 추진한다. 12월 챗봇 중심으로 공개할 대국민 인공지능(AI) 서비스 '모두의 AI'에는 내년 KTX 예매와 공공 혜택 안내 기능을 추가하는 방안도 검토한다. 26일 정보통신산업진흥원(NIPA)은 서울 강남구 라움아트센터에서 열린 'NIPA 동반성장 2026' 기자간담회을 열고, 국가 AI컴퓨팅센터 완공에 앞서 삼성SDS가 참여하는 특수목...]]></description>
-		</item>
-		<item>
-			<title>이노베이션아카데미, 실전형 AX 인재 양성 박차…&apos;코디세이&apos; 비전 선포</title>
-			<link>https://www.etnews.com/20261126000288</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000288</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 17:00:00 +0900</pubDate>
-			<description><![CDATA[이노베이션아카데미가 대한민국 인공지능(AI) 3대 강국 도약을 이끌 실전형 인재 양성 플랫폼 '코디세이'를 중심으로 AI 혁신교육 생태계 구축에 박차를 가한다. 김두현 이노베이션아카데미 학장은 26일 서울 서초구 엘타워 그레이스홀에서 열린 '2026 이노베이션아카데미 성과 공유 컨퍼런스'에서 “코디세이의 비전은 대한민국 AI 3대 강국 도약을 위한 AX 실전형 인재 양성을 위한 교육 혁신의 요람이 되는 것”이라며 이같이 강조했다. 컨퍼런스는 코...]]></description>
 		</item>
 	</channel>
 </rss>
