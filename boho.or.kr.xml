@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>KISA 보호나라</title>
+		<link>https://www.boho.or.kr/</link>
+		<description>KISA 보호나라</description>
+		<lastBuildDate>Thu, 26 Nov 2026 13:15:45 +0900</lastBuildDate>
+		<ttl>240</ttl>
+		<item>
+			<title>VMware 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72328</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72328</guid>
+			<category>보안공지</category>
+			<pubDate>Wed, 25 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o Broadcom社는 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o VMware Telco Cloud Platform, VMware Telco Cloud Infrastructure, VMware Cloud Foundation, VMware vCenter, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123903) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Cloud Foundation, VMware ESX, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123910) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Cloud Foundation, VMware ESX, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123911) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Cloud Foundation, VMware ESX, VMware vSphere Foundation, VMware Workstation, VMware Fusion에서 발생하는 취약점(CVE-2026-123912) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Cloud Foundation, VMware ESX, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123913) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Telco Cloud Infrastructure, VMware Cloud Foundation, VMware vCenter, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123904) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Telco Cloud Infrastructure, VMware Cloud Foundation, VMware vCenter, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123905) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Telco Cloud Infrastructure, VMware Cloud Foundation, VMware vCenter, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123906) [1] <br/>
+		o VMware Telco Cloud Platform, VMware Telco Cloud Infrastructure, VMware Cloud Foundation, VMware vCenter, VMware vSphere Foundation에서 발생하는 취약점(CVE-2026-123907) [1]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>4.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.2</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Telco Cloud Infrastructure</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware vCenter</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware vCenter</td>
+					<td>8.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123903</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware ESX</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware ESX</td>
+					<td>8.0</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123910</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware ESX</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware ESX</td>
+					<td>8.0</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123911</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware ESX</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware ESX</td>
+					<td>8.0</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Workstation</td>
+					<td>25H2</td>
+					<td>26H1u1 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123912</td>
+					<td>VMware Fusion</td>
+					<td>25H2</td>
+					<td>26H1u1 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware ESX</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware ESX</td>
+					<td>8.0</td>
+					<td>ESXi80U3m-25926933 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>ESXi-9.0.2.0200-25953133 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123913</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>ESXi-9.1.2.0-25946735 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>4.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.2</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Telco Cloud Infrastructure</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware vCenter</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware vCenter</td>
+					<td>8.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123904</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>4.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.2</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Telco Cloud Infrastructure</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware vCenter</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware vCenter</td>
+					<td>8.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123905</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>4.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.2</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Telco Cloud Infrastructure</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware vCenter</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware vCenter</td>
+					<td>8.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123906</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>4.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.2</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Telco Cloud Infrastructure</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware vCenter</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware vCenter</td>
+					<td>8.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0300 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123907</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.2 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/39626">https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/39626</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>HPE 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72327</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72327</guid>
+			<category>보안공지</category>
+			<pubDate>Wed, 25 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o HPE社는 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o HPE Integrated Lights-Out 5(iLO 5), Integrated Lights-Out 6(iLO 6)에서 발생하는 취약점(CVE-2026-65204) [1] <br/>
+		o HPE Integrated Lights-Out 5(iLO 5), Integrated Lights-Out 6(iLO 6), Integrated Lights-Out 7(iLO 7)에서 발생하는 취약점(CVE-2026-65205) [1] <br/>
+		o HPE Integrated Lights-Out 5(iLO 5), Integrated Lights-Out 6(iLO 6), Integrated Lights-Out 7(iLO 7)에서 발생하는 취약점(CVE-2026-65206) [1] <br/>
+		o HPE Integrated Lights-Out 5(iLO 5), Integrated Lights-Out 6(iLO 6), Integrated Lights-Out 7(iLO 7)에서 발생하는 취약점(CVE-2026-65207) [1] <br/>
+		o HPE Integrated Lights-Out 5(iLO 5), Integrated Lights-Out 6(iLO 6), Integrated Lights-Out 7(iLO 7)에서 발생하는 취약점(CVE-2026-65209) [1]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-65204</td>
+					<td>Integrated Lights-Out 5(iLO 5)</td>
+					<td>3.22 미만</td>
+					<td>3.22 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65204</td>
+					<td>Integrated Lights-Out 6(iLO 6)</td>
+					<td>1.79 미만</td>
+					<td>1.79 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65205</td>
+					<td>Integrated Lights-Out 5(iLO 5)</td>
+					<td>3.22 미만</td>
+					<td>3.22 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65205</td>
+					<td>Integrated Lights-Out 6(iLO 6)</td>
+					<td>1.79 미만</td>
+					<td>1.79 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65205</td>
+					<td>Integrated Lights-Out 7(iLO 7)</td>
+					<td>1.25.01 미만</td>
+					<td>1.25.01 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65206</td>
+					<td>Integrated Lights-Out 5(iLO 5)</td>
+					<td>3.22 미만</td>
+					<td>3.22 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65206</td>
+					<td>Integrated Lights-Out 6(iLO 6)</td>
+					<td>1.79 미만</td>
+					<td>1.79 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65206</td>
+					<td>Integrated Lights-Out 7(iLO 7)</td>
+					<td>1.25.01 미만</td>
+					<td>1.25.01 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65207</td>
+					<td>Integrated Lights-Out 5(iLO 5)</td>
+					<td>3.22 미만</td>
+					<td>3.22 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65207</td>
+					<td>Integrated Lights-Out 6(iLO 6)</td>
+					<td>1.79 미만</td>
+					<td>1.79 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65207</td>
+					<td>Integrated Lights-Out 7(iLO 7)</td>
+					<td>1.25.01 미만</td>
+					<td>1.25.01 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65209</td>
+					<td>Integrated Lights-Out 5(iLO 5)</td>
+					<td>3.22 미만</td>
+					<td>3.22 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65209</td>
+					<td>Integrated Lights-Out 6(iLO 6)</td>
+					<td>1.79 미만</td>
+					<td>1.79 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-65209</td>
+					<td>Integrated Lights-Out 7(iLO 7)</td>
+					<td>1.25.01 미만</td>
+					<td>1.25.01 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05170en_us&amp;docLocale=en_US">https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05170en_us&amp;docLocale=en_US</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>Splunk 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72326</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72326</guid>
+			<category>보안공지</category>
+			<pubDate>Tue, 24 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o Splunk社는 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o Splunk Enterprise에서 발생하는 Improper Authentication 취약점(CVE-2026-76536) [1][2] <br/>
+		o Splunk Enterprise에서 발생하는 Improper Authentication 취약점(CVE-2026-76535) [1][3] <br/>
+		o Splunk Enterprise에서 발생하는 Improper Neutralization of Special Elements in Data Query Logic 취약점(CVE-2026-76538) [1][4] <br/>
+		o Splunk Enterprise에서 발생하는 Missing Authorization 취약점(CVE-2026-76540) [1][5] <br/>
+		o Splunk Enterprise에서 발생하는 Command Injection 취약점(CVE-2026-76544) [1][6] <br/>
+		o Splunk Enterprise에서 발생하는 Improper Neutralization of Special Elements in Data Query Logic 취약점(CVE-2026-131175) [1][7] <br/>
+		o Splunk Enterprise에서 발생하는 Injection 취약점(CVE-2026-131178) [1][8] <br/>
+		o Splunk Enterprise에서 발생하는 Injection 취약점(CVE-2026-131179) [1][9] <br/>
+		o Splunk Enterprise에서 발생하는 Improper Encoding or Escaping of Output 취약점(CVE-2026-131182) [1][10] <br/>
+		o Splunk Enterprise에서 발생하는 Use of Hard-coded Credentials 취약점(CVE-2026-131190) [1][11] <br/>
+		o Splunk Enterprise에서 발생하는 Authentication Bypass by Primary Weakness 취약점(CVE-2026-131192) [1][12] <br/>
+		o Splunk Enterprise에서 발생하는 NULL Pointer Dereference 취약점(CVE-2026-131196) [1][13] <br/>
+		o Splunk Enterprise에서 발생하는 Injection 취약점(CVE-2026-131177) [1][14] <br/>
+		o Splunk Enterprise에서 발생하는 Improper Neutralization of Special Elements in Data Query Logic 취약점(CVE-2026-131181) [1][15] <br/>
+		o Splunk Enterprise에서 발생하는 CSRF 취약점(CVE-2026-131188) [1][16]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-76536</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76536</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76536</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76536</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76535</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76535</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76535</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76535</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76535</td>
+					<td>Splunk Enterprise</td>
+					<td>10.6.0.5</td>
+					<td>10.6.1 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76538</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.16 미만</td>
+					<td>9.4.16 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76538</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76538</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76538</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76540</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76540</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76540</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76540</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76544</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.16 미만</td>
+					<td>9.4.16 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76544</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76544</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-76544</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131175</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.16 미만</td>
+					<td>9.4.16 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131175</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.11 미만</td>
+					<td>10.0.11 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131175</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.8 미만</td>
+					<td>10.2.8 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131175</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.4 미만</td>
+					<td>10.4.4 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131178</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131178</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131178</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131178</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131179</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131179</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131179</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131179</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131182</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131182</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131182</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131182</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131190</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131190</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131190</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131190</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131192</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131192</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131192</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131192</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131192</td>
+					<td>Splunk Enterprise</td>
+					<td>10.6.0.5</td>
+					<td>10.6.1 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131196</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.17 미만</td>
+					<td>9.4.17 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131196</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131196</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131196</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131177</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.16 미만</td>
+					<td>9.4.16 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131177</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131177</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131177</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.4 미만</td>
+					<td>10.4.4 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131181</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.16 미만</td>
+					<td>9.4.16 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131181</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.12 미만</td>
+					<td>10.0.12 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131181</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.9 미만</td>
+					<td>10.2.9 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131181</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.5 미만</td>
+					<td>10.4.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131188</td>
+					<td>Splunk Enterprise</td>
+					<td>9.4.0 이상 9.4.16 미만</td>
+					<td>9.4.16 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131188</td>
+					<td>Splunk Enterprise</td>
+					<td>10.0.0 이상 10.0.11 미만</td>
+					<td>10.0.11 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131188</td>
+					<td>Splunk Enterprise</td>
+					<td>10.2.0 이상 10.2.8 미만</td>
+					<td>10.2.8 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-131188</td>
+					<td>Splunk Enterprise</td>
+					<td>10.4.0 이상 10.4.4 미만</td>
+					<td>10.4.4 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://advisory.splunk.com/advisories/SVD-2026-1103">https://advisory.splunk.com/advisories/SVD-2026-1103</a> <br/>
+		[2] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76536">https://nvd.nist.gov/vuln/detail/CVE-2026-76536</a> <br/>
+		[3] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76535">https://nvd.nist.gov/vuln/detail/CVE-2026-76535</a> <br/>
+		[4] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76538">https://nvd.nist.gov/vuln/detail/CVE-2026-76538</a> <br/>
+		[5] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76540">https://nvd.nist.gov/vuln/detail/CVE-2026-76540</a> <br/>
+		[6] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-76544">https://nvd.nist.gov/vuln/detail/CVE-2026-76544</a> <br/>
+		[7] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131175">https://nvd.nist.gov/vuln/detail/CVE-2026-131175</a> <br/>
+		[8] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131178">https://nvd.nist.gov/vuln/detail/CVE-2026-131178</a> <br/>
+		[9] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131179">https://nvd.nist.gov/vuln/detail/CVE-2026-131179</a> <br/>
+		[10] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131182">https://nvd.nist.gov/vuln/detail/CVE-2026-131182</a> <br/>
+		[11] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131190">https://nvd.nist.gov/vuln/detail/CVE-2026-131190</a> <br/>
+		[12] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131192">https://nvd.nist.gov/vuln/detail/CVE-2026-131192</a> <br/>
+		[13] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131196">https://nvd.nist.gov/vuln/detail/CVE-2026-131196</a> <br/>
+		[14] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131177">https://nvd.nist.gov/vuln/detail/CVE-2026-131177</a> <br/>
+		[15] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131181">https://nvd.nist.gov/vuln/detail/CVE-2026-131181</a> <br/>
+		[16] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-131188">https://nvd.nist.gov/vuln/detail/CVE-2026-131188</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>ConnectWise 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72325</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72325</guid>
+			<category>보안공지</category>
+			<pubDate>Tue, 24 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o ConnectWise社는 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o ConnectWise ScreenConnect에서 발생하는 Missing Authorization 취약점(CVE-2026-84869) [1][2]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-84869</td>
+					<td>ScreenConnect</td>
+					<td>26.6.5 미만</td>
+					<td>26.6.5 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin">https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin</a> <br/>
+		[2] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-84869">https://nvd.nist.gov/vuln/detail/CVE-2026-84869</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>BeyondTrust 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72324</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72324</guid>
+			<category>보안공지</category>
+			<pubDate>Tue, 24 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o BeyondTrust社는 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o BeyondTrust Remote Support에서 발생하는 Authentication Bypass by Spoofing 취약점(CVE-2026-102764) [1][2]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-102764</td>
+					<td>Remote Support</td>
+					<td>26.2.3 이하</td>
+					<td>26.3.1 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://www.beyondtrust.com/trust-center/security-advisories/bt26-05">https://www.beyondtrust.com/trust-center/security-advisories/bt26-05</a> <br/>
+		[2] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-102764">https://nvd.nist.gov/vuln/detail/CVE-2026-102764</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>Ascensio System 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72321</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72321</guid>
+			<category>보안공지</category>
+			<pubDate>Mon, 23 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o Ascensio System社는 자사 ONLYOFFICE Docs(Document Server) 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o ONLYOFFICE Docs에서 발생하는 External Control of File Name or Path 취약점(CVE-2026-110385) [1][2] <br/>
+		o ONLYOFFICE Docs에서 발생하는 OS Command Injection 취약점(CVE-2026-113630) [1][3] <br/>
+		o ONLYOFFICE Docs에서 발생하는 인가 우회 및 파일 읽기 취약점(CVE-2026-113627) [1][4] <br/>
+		o ONLYOFFICE Docs에서 발생하는 Path Traversal 취약점(CVE-2026-97727) [1][5] <br/>
+		o ONLYOFFICE Docs에서 발생하는 Missing Authorization 취약점(CVE-2026-113631) [1][6] <br/>
+		o ONLYOFFICE Docs에서 발생하는 Server-Side Request Forgery 취약점(CVE-2026-110652) [1][7]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-110385</td>
+					<td>ONLYOFFICE Docs(Document Server)</td>
+					<td>10.0.0 미만</td>
+					<td>10.0.0</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-113630</td>
+					<td>ONLYOFFICE Docs(Document Server)</td>
+					<td>9.4.0-129 이상 10.0.0 미만</td>
+					<td>10.0.0</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-113627</td>
+					<td>ONLYOFFICE Docs(Document Server)</td>
+					<td>10.0.0 미만</td>
+					<td>10.0.0</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-97727</td>
+					<td>ONLYOFFICE Docs(Document Server)</td>
+					<td>10.0.0 미만</td>
+					<td>10.0.0</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-113631</td>
+					<td>ONLYOFFICE Docs(Document Server)</td>
+					<td>9.4.0-129 이상 10.0.0 미만</td>
+					<td>10.0.0</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-110652</td>
+					<td>ONLYOFFICE Docs(Document Server)</td>
+					<td>2.5.0 이상 10.0.0 미만</td>
+					<td>10.0.0</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://helpcenter.onlyoffice.com/docs/changelog#security">https://helpcenter.onlyoffice.com/docs/changelog#security</a> <br/>
+		[2] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-110385">https://nvd.nist.gov/vuln/detail/CVE-2026-110385</a> <br/>
+		[3] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-113630">https://nvd.nist.gov/vuln/detail/CVE-2026-113630</a> <br/>
+		[4] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-113627">https://nvd.nist.gov/vuln/detail/CVE-2026-113627</a> <br/>
+		[5] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-97727">https://nvd.nist.gov/vuln/detail/CVE-2026-97727</a> <br/>
+		[6] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-113631">https://nvd.nist.gov/vuln/detail/CVE-2026-113631</a> <br/>
+		[7] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-110652">https://nvd.nist.gov/vuln/detail/CVE-2026-110652</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>AI 에이전트·업무 자동화 도구 보안수칙</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000127&amp;searchWrd=&amp;menuNo=205021&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72323</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000127&amp;searchWrd=&amp;menuNo=205021&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72323</guid>
+			<category>보고서/가이드</category>
+			<pubDate>Mon, 23 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<title>AI 에이전트·업무 자동화 도구 보안수칙</title>
+<div>
+	<div>□ 개요</div>
+	<div>○ 기업의 AI 활용 범위가 정보 검색과 문서 작성에서 이메일 처리, 고객 데이터 조회, 결제 등 실제 업무 수행으로 확대</div>
+	<div>○ AI 에이전트·업무 자동화 도구를 사용하는 기업은 아래의 보안수칙에 따라 활용하는 것을 권고</div>
+	<div>□ 기본 원칙</div>
+	<div>○ (최소 권한) AI가 승인된 범위 내에서 업무를 수행할 수 있도록 최소 권한을 부여·유지관리해야 함</div>
+	<div>○ (사람 승인) AI가 승인된 범위를 벗어나거나, 권한 변경이 필요한 경우에는 사람이 직접 검토하여 최종적으로 승인해야 함</div>
+	<div>○ (외부 입력 경계) AI가 업무를 수행하는 과정에서 외부메일, 첨부문서 등에 포함된 별도의 지시를 따르지 않도록 해야 함</div>
+	<div>○ (기록·중지) AI의 모든 실행을 기록하고 이상징후 발생 시 즉시 중지해야 함</div>
+	<div>□ 시스템 관리자 및 보안담당자</div>
+	<div>○ (현황 파악) 운영 중인 AI 도구·연동·계정·사용자 현황 목록화</div>
+	<div>- 자산 목록과 실제 서버·단말을 대조해 미승인 도구 식별</div>
+	<div>- 미승인 도구는 중지하고, 미사용 서버와의 연동은 삭제</div>
+	<div>○ (노출 최소화) 관리 화면·API는 허용된 사용자·경로로만 접근</div>
+	<div>- 관리자 계정 다중인증 적용, 인터넷 노출 여부 정기 점검</div>
+	<div>- MCP 서버는 내부 접속 기본, 외부 개방 시 인증 필수</div>
+	<div>- 웹훅·공개 폼은 인증·입력값 검증, 미사용 기능 비활성화</div>
+	<div>○ (계정·인증정보) AI별 전용 실행 계정 발급 및 최소 권한 부여</div>
+	<div>- 사람 계정과 분리, 인증정보 공유 및 권한 자가 확대 차단</div>
+	<div>- API 키·토큰은 코드·설정 파일에 평문 저장 금지</div>
+	<div>- 보안 저장소·단기 토큰 활용, 장기 토큰은 주기적 교체</div>
+	<div>○ (중요정보 보호) 데이터 접근 범위와 외부 통신 대상 제한</div>
+	<div>- 외부 통신은 화이트 리스트(도메인·IP 등) 기반으로만 허용</div>
+	<div>- 대량 조회·다운로드·외부 전송이 기준 초과 시 차단·경보</div>
+	<div>- 개인정보·기밀자료는 AI 처리 전 마스킹 등 보호조치</div>
+	<div>○ (업데이트·확장) AI 도구·MCP 서버·플러그인 최신 버전 유지</div>
+	<div>- 즉시 패치가 어려우면 외부 접속 차단 등 임시 보호조치</div>
+	<div>- 확장기능은 출처·요청 권한·접근 대상 확인 후 승인 설치</div>
+	<div>- 설치 버전 고정, 도구 설명·요청 권한 무단 변경 점검</div>
+	<div>○ (실행 통제) 사용 가능한 도구·작업 제한, 위험도별 승인 적용</div>
+	<div>- 외부 메일·문서를 처리하는 AI에는 중요 작업 권한 미부여</div>
+	<div>- 코드·명령 실행은 격리 환경(샌드박스 등)에서만 허용</div>
+	<div>- 승인 기준은 운영자가 정하고 AI가 변경할 수 없도록 설정</div>
+	<table>
+		<caption>&lt; AI 작업 위험도별 처리 기준(예시) &gt;</caption>
+		<thead>
+			<tr>
+				<th>구분</th>
+				<th>작업 예시</th>
+				<th>처리 방식</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>고위험</th>
+				<td>중요정보 외부 전송, 대량 삭제,<br/>
+					결제·송금, 권한·설정 변경</td>
+				<td>건별 담당자 사전 승인</td>
+			</tr>
+			<tr>
+				<th>중위험</th>
+				<td>외부 메일 발송, 문서 수정·공유, 일정·업무 등록</td>
+				<td>정책 범위 내 실행, 사후 검토</td>
+			</tr>
+			<tr>
+				<th>저위험</th>
+				<td>정보 조회, 요약·번역, 초안 작성</td>
+				<td>자동 처리, 실행 기록 보관</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>※ 위험도 구분과 처리 방식은 조직의 업무 환경과 정보 중요도에 따라 조정</div>
+	<div>○ (기록·탐지) 도구 호출·데이터 전송·설정 변경 기록 보관·모니터링</div>
+	<div>- 실행 기록은 AI 계정이 수정·삭제할 수 없는 곳에 별도 보관</div>
+	<div>- 대량 조회, 신규 외부 통신, 워크플로 추가 등 이상행위 경보</div>
+	<div>- 이상 확인 시 AI 실행·연동을 즉시 중지하는 수단 마련</div>
+	<div>○ (정기 점검) 권한·연동·확장기능 현황을 정기 재검토</div>
+	<div>- 장기 미사용 계정·연동 및 불필요한 권한은 즉시 회수</div>
+	<div>□ 일반 사용자 및 업무 담당자</div>
+	<div>○ (승인 도구) 조직이 승인한 AI 도구·확장기능만 사용</div>
+	<div>○ (입력 제한) 미승인 AI에 개인정보·내부자료 등 입력 금지</div>
+	<div>- 승인 도구라도 비밀번호·API 키 등 인증정보는 입력 금지</div>
+	<div>○ (권한 확인) 메일·클라우드 연동 시 필요한 권한만 허용</div>
+	<div>- 요청 권한을 확인하고, 사용하지 않는 연동은 즉시 해제</div>
+	<div>○ (결과 검증) AI 결과물은 사실 여부와 출처를 확인한 후 활용</div>
+	<div>○ (실행 승인) 전송·삭제·결제 등 중요 작업은 확인 후 승인</div>
+	<div>○ (이상 신고) 요청 외 작업 발견 시 즉시 중지, 보안담당자 신고</div>
+	<div>※ 외부 메일·문서 처리 중 AI가 요청하지 않은 작업(자료 전송, 링크 접속, 설정 변경 등)을 시도하면 프롬프트 인젝션(숨겨진 악성 지시) 의심</div>
+	<div>□ 침해 의심 시 대응 절차</div>
+	<div>○ (중지·격리) AI 실행·연동 즉시 중지, 피해 범위에 따라 격리</div>
+	<div>○ (신고) 보호나라(boho.or.kr) 침해사고 신고 또는 118 상담</div>
+	<div>※ 개인정보 유출 시 「개인정보 보호법」에 따른 신고·정보주체 통지 의무 확인</div>
+	<div>○ (증거 보존) 실행 기록, 설정 변경 이력, 접속·통신 기록 보존</div>
+	<div>※ 시스템 종료·초기화 시 메모리 등 휘발성 증거가 사라질 수 있어 신중히 결정</div>
+	<div>○ (인증정보 교체) API 키·토큰 재발급, 세션·연동 승인 철회</div>
+	<div>○ (점검·복구) 무단 추가된 워크플로·확장기능 제거 후 재개</div>
+	<div>○ (재발 방지) 원인 분석 결과를 반영해 권한·승인 기준 재조정</div>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>VMware 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72319</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72319</guid>
+			<category>보안공지</category>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o Broadcom社는 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o VMware Telco Cloud Platform, VMware Telco Cloud Infrastructure, VMware Cloud Foundation, VMware vCenter, VMware vSphere Foundation에서 발생하는 Authentication Bypass Using an Alternate Path or Channel 취약점(CVE-2026-123890) [1][2] <br/>
+		o SDDC Manager에서 발생하는 SQL Injection 취약점(CVE-2026-123891) [1][3] <br/>
+		o SDDC Manager에서 발생하는 OS Command Injection 취약점(CVE-2026-123892) [1][4]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>4.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.0.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.1.x</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Telco Cloud Platform</td>
+					<td>5.2</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Telco Cloud Infrastructure</td>
+					<td>3.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Cloud Foundation</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware vCenter</td>
+					<td>7.0</td>
+					<td>Broadcom 기술지원 문의</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware vCenter</td>
+					<td>8.0</td>
+					<td>8.0 U3m 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0200 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0200 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware Cloud Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.1.0200 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123890</td>
+					<td>VMware vSphere Foundation</td>
+					<td>9.1.x.x</td>
+					<td>9.1.1.0200 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123891</td>
+					<td>SDDC Manager</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123891</td>
+					<td>SDDC Manager</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0100 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123891</td>
+					<td>SDDC Manager</td>
+					<td>9.1.x.x</td>
+					<td>9.1.1.0200 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123892</td>
+					<td>SDDC Manager</td>
+					<td>5.x</td>
+					<td>5.2.5 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123892</td>
+					<td>SDDC Manager</td>
+					<td>9.0.x.x</td>
+					<td>9.0.2.0100 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-123892</td>
+					<td>SDDC Manager</td>
+					<td>9.1.x.x</td>
+					<td>9.1.1.0200 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/39495">https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/39495</a> <br/>
+		[2] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-123890">https://nvd.nist.gov/vuln/detail/CVE-2026-123890</a> <br/>
+		[3] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-123891">https://nvd.nist.gov/vuln/detail/CVE-2026-123891</a> <br/>
+		[4] <a href="https://nvd.nist.gov/vuln/detail/CVE-2026-123892">https://nvd.nist.gov/vuln/detail/CVE-2026-123892</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>Akira 랜섬웨어 분석 보고서</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000127&amp;searchWrd=&amp;menuNo=205021&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72320</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000127&amp;searchWrd=&amp;menuNo=205021&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72320</guid>
+			<category>보고서/가이드</category>
+			<pubDate>Fri, 20 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<p><strong>I. 개요</strong></p>
+<p><strong>II. 랜섬웨어 분석</strong></p>
+<p>  2.1. 실행 과정</p>
+<p>  2.2. 암호기능 상세 분석</p>
+<p>  2.3. 실행 결과</p>
+<p><strong>III. 대응 방안</strong></p>
+<p><strong>Ⅳ. 침해 지표(IoC)</strong></p>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
+			<title>PHP 제품 보안 업데이트 권고</title>
+			<link>https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72318</link>
+			<guid isPermaLink="true">https://www.boho.or.kr/kr/bbs/view.do?searchCnd=&amp;bbsId=B0000133&amp;searchWrd=&amp;menuNo=205020&amp;pageIndex=1&amp;categoryCode=&amp;nttId=72318</guid>
+			<category>보안공지</category>
+			<pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p>□ 개요 <br/>
+		o The PHP Group은 자사 제품에서 발생하는 취약점을 해결한 보안 업데이트 발표 [1][2][3][4] <br/>
+		o 영향을 받는 버전을 사용 중인 사용자는 해결 방안에 따라 최신 버전으로 업데이트 권고</p>
+	<p>□ 설명 <br/>
+		o PHP에서 발생하는 Improper Input Validation, Deserialization of Untrusted Data 취약점(CVE-2026-115560) [1][5] <br/>
+		o PHP에서 발생하는 Time-of-check Time-of-use (TOCTOU) Race Condition, Improper Synchronization 취약점(CVE-2026-126714) [1][6] <br/>
+		o PHP에서 발생하는 Use After Free, Incomplete Cleanup 취약점(CVE-2026-129182) [1][7] <br/>
+		o PHP에서 발생하는 HTTP Request Smuggling, Always-Incorrect Control Flow Implementation 취약점(CVE-2026-129289) [1][8] <br/>
+		o PHP에서 발생하는 Use After Free 취약점(CVE-2026-129474) [1][9] <br/>
+		o PHP에서 발생하는 Use After Free, Incomplete Cleanup 취약점(CVE-2026-129481) [1][10] <br/>
+		o PHP에서 발생하는 Use After Free, Incomplete Cleanup 취약점(CVE-2026-129496) [1][11] <br/>
+		o PHP에서 발생하는 Uncontrolled Resource Consumption, Inefficient Algorithmic Complexity 취약점(CVE-2026-127960) [1][12] <br/>
+		o PHP에서 발생하는 Cleartext Transmission of Sensitive Information 취약점(CVE-2026-128064) [1][13] <br/>
+		o PHP에서 발생하는 Improper Verification of Cryptographic Signature, Algorithm Downgrade 취약점(CVE-2026-128090) [1][14] <br/>
+		o PHP에서 발생하는 Use After Free 취약점(CVE-2026-129291) [1][15] <br/>
+		o PHP에서 발생하는 Cross-site Scripting 취약점(CVE-2026-129292) [1][16] <br/>
+		o PHP에서 발생하는 Integer Overflow or Wraparound, Unchecked Return Value 취약점(CVE-2026-129438) [1][17] <br/>
+		o PHP에서 발생하는 Double Free, Use After Free 취약점(CVE-2026-129501) [1][18] <br/>
+		o PHP에서 발생하는 Use After Free 취약점(CVE-2026-129506) [1][19] <br/>
+		o PHP에서 발생하는 Out-of-bounds Read, Out-of-bounds Write, Use of Out-of-range Pointer Offset 취약점(CVE-2026-129538) [1][20] <br/>
+		o PHP에서 발생하는 Out-of-bounds Read, Use of Uninitialized Resource 취약점(CVE-2026-15353) [1][21] <br/>
+		o PHP에서 발생하는 Integer Overflow or Wraparound 취약점(CVE-2026-48841) [1][22]</p>
+	<p>□ 영향을 받는 제품 및 해결 방안</p>
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>취약점</th>
+					<th>제품명</th>
+					<th>영향받는 버전</th>
+					<th>해결 버전</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>CVE-2026-115560</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-115560</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-115560</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-115560</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-126714</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-126714</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-126714</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-126714</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129182</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129289</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129289</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129289</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129289</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129474</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129481</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129481</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129481</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129496</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129496</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129496</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129496</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-127960</td>
+					<td>PHP 8.2</td>
+					<td>8.2.28 이상 8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-127960</td>
+					<td>PHP 8.3</td>
+					<td>8.3.18 이상 8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-127960</td>
+					<td>PHP 8.4</td>
+					<td>8.4.5 이상 8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-127960</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128064</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128064</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128064</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128064</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128090</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128090</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128090</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-128090</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129291</td>
+					<td>PHP 8.2</td>
+					<td>8.2.7 이상 8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129291</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129291</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129291</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129292</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129292</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129292</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129292</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129438</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129501</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129501</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129506</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129506</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129506</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129506</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129538</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129538</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129538</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-129538</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-15353</td>
+					<td>PHP 8.2</td>
+					<td>8.2.36 미만</td>
+					<td>8.2.36 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-15353</td>
+					<td>PHP 8.3</td>
+					<td>8.3.37 미만</td>
+					<td>8.3.37 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-15353</td>
+					<td>PHP 8.4</td>
+					<td>8.4.28 미만</td>
+					<td>8.4.28 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-15353</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+				<tr>
+					<td>CVE-2026-48841</td>
+					<td>PHP 8.5</td>
+					<td>8.5.13 미만</td>
+					<td>8.5.13 이상</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>※ PHP 8.1 이하 버전은 공식 보안 지원이 종료되어 지원 중인 버전으로 업그레이드 권고 [1] <br/>
+		※ PHP 7.4, 8.0, 8.1 버전은 벤더사별 해결 버전 및 임시 완화 조치가 상이할 수 있으므로, 해당 벤더사의 보안 권고를 확인하여 조치 권고 <br/>
+		※ PHP 8.2는 2026.12.31. 보안 지원 종료 예정이므로 PHP 8.3 이상으로 전환 권고 [4] <br/>
+		※ 하단의 참고 사이트를 확인하여 업데이트 수행 [1][2][3][4]</p>
+	<p>□ 참고사이트 <br/>
+		[1] <a href="https://www.php.net/archive/2026.php#2026-11-19-4">https://www.php.net/archive/2026.php#2026-11-19-4</a> <br/>
+		[2] <a href="https://www.php.net/archive/2026.php#2026-11-19-3">https://www.php.net/archive/2026.php#2026-11-19-3</a> <br/>
+		[3] <a href="https://www.php.net/archive/2026.php#2026-11-19-2">https://www.php.net/archive/2026.php#2026-11-19-2</a> <br/>
+		[4] <a href="https://www.php.net/archive/2026.php#2026-11-19-1">https://www.php.net/archive/2026.php#2026-11-19-1</a> <br/>
+		[5] <a href="https://github.com/php/php-src/security/advisories/GHSA-658j-r8rw-q6mx">https://github.com/php/php-src/security/advisories/GHSA-658j-r8rw-q6mx</a> <br/>
+		[6] <a href="https://github.com/php/php-src/security/advisories/GHSA-fm2m-fjf5-v3cp">https://github.com/php/php-src/security/advisories/GHSA-fm2m-fjf5-v3cp</a> <br/>
+		[7] <a href="https://github.com/php/php-src/security/advisories/GHSA-2fjv-p558-g82m">https://github.com/php/php-src/security/advisories/GHSA-2fjv-p558-g82m</a> <br/>
+		[8] <a href="https://github.com/php/php-src/security/advisories/GHSA-qc49-hpvq-g2w6">https://github.com/php/php-src/security/advisories/GHSA-qc49-hpvq-g2w6</a> <br/>
+		[9] <a href="https://github.com/php/php-src/security/advisories/GHSA-8mjj-2r7p-4hg2">https://github.com/php/php-src/security/advisories/GHSA-8mjj-2r7p-4hg2</a> <br/>
+		[10] <a href="https://github.com/php/php-src/security/advisories/GHSA-g3vh-838c-65v7">https://github.com/php/php-src/security/advisories/GHSA-g3vh-838c-65v7</a> <br/>
+		[11] <a href="https://github.com/php/php-src/security/advisories/GHSA-gr4f-wgx5-jpfv">https://github.com/php/php-src/security/advisories/GHSA-gr4f-wgx5-jpfv</a> <br/>
+		[12] <a href="https://github.com/php/php-src/security/advisories/GHSA-mmf9-xm3v-hg2x">https://github.com/php/php-src/security/advisories/GHSA-mmf9-xm3v-hg2x</a> <br/>
+		[13] <a href="https://github.com/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j">https://github.com/php/php-src/security/advisories/GHSA-f6gg-rchx-xw8j</a> <br/>
+		[14] <a href="https://github.com/php/php-src/security/advisories/GHSA-68fq-fh7h-f8gr">https://github.com/php/php-src/security/advisories/GHSA-68fq-fh7h-f8gr</a> <br/>
+		[15] <a href="https://github.com/php/php-src/security/advisories/GHSA-jm4m-qfqx-967m">https://github.com/php/php-src/security/advisories/GHSA-jm4m-qfqx-967m</a> <br/>
+		[16] <a href="https://github.com/php/php-src/security/advisories/GHSA-3mg3-cr28-46gc">https://github.com/php/php-src/security/advisories/GHSA-3mg3-cr28-46gc</a> <br/>
+		[17] <a href="https://github.com/php/php-src/security/advisories/GHSA-mg3p-mxj9-g2mm">https://github.com/php/php-src/security/advisories/GHSA-mg3p-mxj9-g2mm</a> <br/>
+		[18] <a href="https://github.com/php/php-src/security/advisories/GHSA-x8r7-mg3g-74hg">https://github.com/php/php-src/security/advisories/GHSA-x8r7-mg3g-74hg</a> <br/>
+		[19] <a href="https://github.com/php/php-src/security/advisories/GHSA-4646-p932-gw34">https://github.com/php/php-src/security/advisories/GHSA-4646-p932-gw34</a> <br/>
+		[20] <a href="https://github.com/php/php-src/security/advisories/GHSA-5j3f-64r7-f564">https://github.com/php/php-src/security/advisories/GHSA-5j3f-64r7-f564</a> <br/>
+		[21] <a href="https://github.com/php/php-src/security/advisories/GHSA-q23r-hr55-xmpg">https://github.com/php/php-src/security/advisories/GHSA-q23r-hr55-xmpg</a> <br/>
+		[22] <a href="https://github.com/uriparser/uriparser/blob/uriparser-1.0.3/ChangeLog">https://github.com/uriparser/uriparser/blob/uriparser-1.0.3/ChangeLog</a></p>
+	<p>□ 문의사항 <br/>
+		o 한국인터넷진흥원 사이버민원센터 : 국번없이 118</p>
+	<p>□ 작성 : 디지털위협대응본부 취약점관리센터</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+	</channel>
+</rss>
