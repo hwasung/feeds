@@ -4,8 +4,44 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Thu, 26 Nov 2026 14:31:28 +0900</lastBuildDate>
+		<lastBuildDate>Thu, 26 Nov 2026 15:30:56 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>개인정보위, AI 시대 개인정보 제도 혁신·데이터 이익공유제 논의</title>
+			<link>https://www.etnews.com/20261126000382</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000382</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 15:00:00 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 인공지능(AI) 시대에 맞춰 사전 동의 중심의 개인정보 보호체계를 개편하고 데이터 활용으로 창출한 이익을 국민에게 환원하는 방안을 모색한다. 개인정보위는 26일 서울 용산구 로얄파크컨벤션에서 '2026 개인정보 미래포럼' 제5차 전체회의를 개최했다. 최윤정 개인정보위 개인정보보호정책과장은 생성형 AI와 AI 에이전트 확산에 대응해 형식적인 사전 동의 중심의 현행 체계를 위험에 비례한 실질적 보호체계로 전환해야 한다고 설명했다...]]></description>
+		</item>
+		<item>
+			<title>美, 사이버보안 컨트롤타워 재편…CISA 인력 600명 이상 확충</title>
+			<link>https://www.etnews.com/20261126000369</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000369</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 14:30:21 +0900</pubDate>
+			<description><![CDATA[미국이 백악관 중심으로 범정부 사이버보안 대응체계를 재편하고 관련 인력을 대폭 확충한다. 정부기관과 민간기업에서 해킹 피해와 시스템 장애가 잇따르는 가운데 국가 핵심 인프라 보호를 위한 정책 조정과 현장 대응 역량을 강화한다. 미 백악관은 25일(현지시간) 연방정부 시스템 현대화와 사이버 방어 역량 강화, 국가 핵심 인프라 보호를 위한 범정부 차원의 대응 방안을 발표했다. 백악관은 사이버보안 정책·운영 조직을 국가안보회의(NSC)와 국토안보회의...]]></description>
+		</item>
+		<item>
+			<title>[뉴스줌인] 외부 일임하는 계정 권한이 사각지대…검증 절차 강화해야</title>
+			<link>https://www.etnews.com/20261126000365</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000365</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 14:28:56 +0900</pubDate>
+			<description><![CDATA[A사의 사용량 부풀리기 의혹은 서비스형소프트웨어(SaaS)의 서비스 도입·운영 과정의 관리 체계에 허점이 있음을 보여준다. 고객사가 플랫폼 초기 구축과 검증을 공급사에 맡기는 과정에서 관리자 권한까지 넘기고, 이후 실제 작업 내역과 데이터 사용량을 충분히 확인하지 않는 관행이 배경으로 지목된다. SaaS 도입 과정에서 고객사가 공급사 엔지니어에게 관리자 권한을 부여하는 경우가 적지 않다는게 업계 분석이다. 초기 설치와 환경 설정, 데이터 연동,...]]></description>
+		</item>
+		<item>
+			<title>[단독]글로벌 SW기업, 한국 고객사에 용량 부풀리기 의혹…경찰 조사 착수</title>
+			<link>https://www.etnews.com/20261126000356</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000356</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Thu, 26 Nov 2026 14:22:53 +0900</pubDate>
+			<description><![CDATA[서비스형 소프트웨어(SaaS)가 업계 전반으로 확산하는 가운데 글로벌 소프트웨어(SW)기업이 고객사의 데이터 사용량을 인위적으로 늘려 과금액을 키웠다는 의혹이 제기됐다. 고객사가 서비스 도입 초기 데이터 사용량과 트래픽 발생 내역을 세밀하게 확인하기 어렵다는 점을 악용한 것으로 파악된다. 26일 업계에 따르면 서울 강남경찰서가 최근 A사의 사용량 부풀리기 정황을 확보하고 사실 파악에 나선 것으로 파악됐다. 경찰은 A사가 플랫폼 도입 단계부터 정...]]></description>
+		</item>
 		<item>
 			<title>광운대 로봇게임단 로빛, 국제로봇콘테스트서 수상 5관왕</title>
 			<link>https://www.etnews.com/20261126000329</link>
@@ -59,42 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Thu, 26 Nov 2026 13:43:12 +0900</pubDate>
 			<description><![CDATA[정부가 국내 독자 인공지능(AI) 모델을 활용한 해킹방어대회를 개최한다. AI를 악용한 사이버 공격이 지능화하는 가운데 실전 대응 역량을 강화하고 AI·보안 기업 간 기술 협력을 촉진한다는 취지다. 과학기술정보통신부는 한국인터넷진흥원(KISA), 한국정보보호산업협회(KISIA)와 함께 내달 1~2일 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 '2026 AI 해킹방어대회(ACDC)'를 개최한다고 26일 밝혔다. 대회는 △AI를 활용한 사이...]]></description>
-		</item>
-		<item>
-			<title>수산아이앤티, 고용노동부 &apos;일·생활 균형 우수기업&apos; 선정</title>
-			<link>https://www.etnews.com/20261126000284</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000284</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 13:31:16 +0900</pubDate>
-			<description><![CDATA[수산아이앤티는 고용노동부가 주관하는 '2026 대한민국 일·생활 균형 우수기업'에 선정됐다고 26일 밝혔다. 일·생활 균형 우수기업은 근로자의 일과 생활의 균형을 지원하는 기업을 발굴하고 모범사례를 확산하기 위한 정부 사업이다. 유연근무 활용, 근로시간 단축, 휴가 사용 촉진, 일·육아 병행 지원, 근무문화 개선 등을 종합적으로 평가한다. 수산아이앤티는 임직원의 업무 효율과 삶의 질을 높이기 위해 다양한 근무·복지제도를 운영해 온 점을 인정받았...]]></description>
-		</item>
-		<item>
-			<title>에스원, 2027년 정기 임원인사…부사장 1명·상무 3명 승진</title>
-			<link>https://www.etnews.com/20261126000273</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000273</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 13:17:43 +0900</pubDate>
-			<description><![CDATA[에스원은 김송범 부사장을 비롯해 김광조·백정우·염대호 상무 등 총 4명을 승진시키는 2027년 정기 임원인사를 단행했다고 26일 밝혔다. 에스원은 각 사업 분야에서 우수한 성과를 거두고 전문성과 리더십을 갖춘 인재를 중심으로 승진 인사를 실시했다. 특히 신시장 개척과 신사업 발굴, 인공지능(AI)·로봇 등 첨단기술을 활용한 사업 혁신을 통해 회사의 미래 성장을 이끌 인재를 중용했다. 아울러 회사의 성장 전략을 주도적으로 추진할 차세대 리더를 발...]]></description>
-		</item>
-		<item>
-			<title>정부, 공공기관 개인정보 스크래핑 개선…내년부터 API 전환 추진</title>
-			<link>https://www.etnews.com/20261126000095</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000095</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 12:00:00 +0900</pubDate>
-			<description><![CDATA[정부가 기업이 공공기관 홈페이지에서 국민 개인정보를 무분별하게 수집하는 '스크래핑' 관행을 개선한다. 공공기관과 사업자 간 사전협의를 마친 스크래핑은 한시적으로 허용하되 내년부터 응용프로그램 프로그래밍 인터페이스(API) 등 안전한 정보 전송 방식으로 단계적으로 전환한다. 개인정보보호위원회는 26일 국무총리 주재 제18회 국가정책조정회의에서 관계부처와 함께 '본인정보의 안전한 전송을 위한 추진계획'을 발표했다. 스크래핑은 사업자가 이용자의 아이...]]></description>
-		</item>
-		<item>
-			<title>[미리보는 소프트웨이브 2026]〈5·끝〉AI·SW 강소기업, 특화 기술로 산업 혁신 지원</title>
-			<link>https://www.etnews.com/20261126000242</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261126000242</guid>
-			<author>박종진</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Thu, 26 Nov 2026 11:56:46 +0900</pubDate>
-			<description><![CDATA[국내 인공지능(AI)·소프트웨어(SW) 강소기업이 'AI x 소프트웨이브 2026'에서 기업 업무 혁신부터 정보기술(IT) 인프라 관리, 피지컬 AI 교육·연구까지 산업 특화 솔루션을 선보인다. 전자신문사가 12월 2일부터 4일까지 서울 코엑스 A홀에서 개최하는 '제11회 대한민국 소프트웨어대전, AI x 소프트웨이브 2026'에는 달파·모두싸인·소프트웍스·와탭랩스·이원정보기술·콕스웨이브·화인로보틱스 등 AI·SW 강소기업도 전시 부스를 열고...]]></description>
 		</item>
 	</channel>
 </rss>
