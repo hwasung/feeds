@@ -4,7 +4,7 @@
 		<title>방위사업청 공지사항</title>
 		<link>https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3031&amp;bbsSeq=443</link>
 		<description>방위사업청 공지사항</description>
-		<lastBuildDate>Thu, 26 Nov 2026 10:30:17 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 11:30:15 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
 			<title>서비스 일시 중단 안내(26. 11. 27.[금] 18:00 ~ 23:00)</title>
@@ -44,6 +44,20 @@
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
+			<title>2027년 실증시험 지원사업 후보과제 모집 공모</title>
+			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59482&amp;menuSeq=3031&amp;bbsSeq=443</link>
+			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59482&amp;menuSeq=3031&amp;bbsSeq=443</guid>
+			<author>관리자</author>
+			<category>일반공지</category>
+			<category>공지사항</category>
+			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div><div>[방위사업청 공고 제2026-142호]</div><br/><div><b>2027년 실증시험 지원사업 후보과제 모집 공모</b></div><br/><div>2027년 실증시험 지원사업 후보과제 모집 공모를 통해 국방 중소ㆍ벤처 기업들이 개발한 제품이나 기술의 실용화ㆍ사업화와 군 적용가능성을</div><div>빠르게 확인하여 군에 신속히 활용할 수 있도록 지원하고자 하오니, 관심 있는 국방 중소ㆍ벤처 기업들의 많은 관심과 참여를 기대합니다.</div><div>2026. 11. 10.</div><div>방위사업청장ㆍ국방기술진흥연구소장</div><br/><div>1. 사업개요</div><div>가. 사업목적</div><div>산·학·연 중심 신기술 및 우수기술의 신속한 소요 반영과 국내 중소기업 개발품의 성능 확인과 군 활용성 향상을 위해 실증시험 지원</div><div>나. 지원규모 : 실증시험 지원에 소요되는 연구비 전액</div><div>* 전액 정부지원이며, 과제선정 평가위원회를 통해 지원예산 규모를 확정</div><div>다. 사업대상 : 국내 全 중소ㆍ벤처기업에서 개발한 제품(기술)</div><br/><div>2. 신청기간 및 방법</div><div><div>가. 신청기간 : ‘26. 11. 30.(월) 15:00 한 ？ 11. 26.(목) 17시까지 권장</div><div>* 11. 26.(목) 접수한 과제부터 대상검토 기관으로 분류할 계획임.</div><div>나. 신청방법 : 전산접수</div><br/></div><div><div>3. 문 의 처</div><div>가. 담당부서 : 국방기술진흥연구소 방위산업혁신팀</div><div>나. 연락처</div><div>1) 메일 : knba74@krit.re.kr, pssdotcom@krit.re.kr, heejpark@krit.re.kr</div><div>2) 전화 : 042-259-9845~8 (대표번호 9845)</div><br/><div><u>※ 자세한 사항은 첨부문서를 참고하시기 바랍니다.</u></div><br/></div></div>
+<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
+<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59482&amp;fileNum=1">27년 실증시험 지원사업 후보과제 모집 공모문.hwpx (0.14 MB)</a></li>
+</ul></div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
+		<item>
 			<title>[다족보행로봇 사업] (예비)사업설명회 사전 신원조사 및 보안측정 안내(수정)</title>
 			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59481&amp;menuSeq=3031&amp;bbsSeq=443</link>
 			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59481&amp;menuSeq=3031&amp;bbsSeq=443</guid>
@@ -72,20 +86,6 @@
 		<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59481&amp;fileNum=4">(붙임4) 별지3 신원조사 전산신청 경로(국방부 홈페이지).pdf (0.19 MB)</a></li>
 	</ul>
 </div>]]></description>
-			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>2027년 실증시험 지원사업 후보과제 모집 공모</title>
-			<link>https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59482&amp;menuSeq=3031&amp;bbsSeq=443</link>
-			<guid isPermaLink="true">https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59482&amp;menuSeq=3031&amp;bbsSeq=443</guid>
-			<author>관리자</author>
-			<category>일반공지</category>
-			<category>공지사항</category>
-			<pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
-			<description><![CDATA[<div><div>[방위사업청 공고 제2026-142호]</div><br/><div><b>2027년 실증시험 지원사업 후보과제 모집 공모</b></div><br/><div>2027년 실증시험 지원사업 후보과제 모집 공모를 통해 국방 중소ㆍ벤처 기업들이 개발한 제품이나 기술의 실용화ㆍ사업화와 군 적용가능성을</div><div>빠르게 확인하여 군에 신속히 활용할 수 있도록 지원하고자 하오니, 관심 있는 국방 중소ㆍ벤처 기업들의 많은 관심과 참여를 기대합니다.</div><div>2026. 11. 10.</div><div>방위사업청장ㆍ국방기술진흥연구소장</div><br/><div>1. 사업개요</div><div>가. 사업목적</div><div>산·학·연 중심 신기술 및 우수기술의 신속한 소요 반영과 국내 중소기업 개발품의 성능 확인과 군 활용성 향상을 위해 실증시험 지원</div><div>나. 지원규모 : 실증시험 지원에 소요되는 연구비 전액</div><div>* 전액 정부지원이며, 과제선정 평가위원회를 통해 지원예산 규모를 확정</div><div>다. 사업대상 : 국내 全 중소ㆍ벤처기업에서 개발한 제품(기술)</div><br/><div>2. 신청기간 및 방법</div><div><div>가. 신청기간 : ‘26. 11. 30.(월) 15:00 한 ？ 11. 26.(목) 17시까지 권장</div><div>* 11. 26.(목) 접수한 과제부터 대상검토 기관으로 분류할 계획임.</div><div>나. 신청방법 : 전산접수</div><br/></div><div><div>3. 문 의 처</div><div>가. 담당부서 : 국방기술진흥연구소 방위산업혁신팀</div><div>나. 연락처</div><div>1) 메일 : knba74@krit.re.kr, pssdotcom@krit.re.kr, heejpark@krit.re.kr</div><div>2) 전화 : 042-259-9845~8 (대표번호 9845)</div><br/><div><u>※ 자세한 사항은 첨부문서를 참고하시기 바랍니다.</u></div><br/></div></div>
-<hr/><div class="feed-attachments"><strong>첨부파일</strong><ul>
-<li><a href="https://www.dapa.go.kr/jfile/board/readDownloadFile.do?fileType=WT_CMS_DOC&amp;fileTypeSeq=59482&amp;fileNum=1">27년 실증시험 지원사업 후보과제 모집 공모문.hwpx (0.14 MB)</a></li>
-</ul></div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
 		</item>
 		<item>
