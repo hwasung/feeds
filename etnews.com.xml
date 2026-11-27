@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 27 Nov 2026 18:32:44 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 19:30:40 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>유럽 최대 SW기업 SAP, 해킹 의심 사고…깃허브 개발망타고 공격</title>
+			<link>https://www.etnews.com/20261127000347</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261127000347</guid>
+			<author>최호</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 18:48:48 +0900</pubDate>
+			<description><![CDATA[유럽 최대 소프트웨어 기업 SAP가 사이버 공격으로 의심되는 보안 사고에 노출됐다. 해커들이 인공지능(AI) 에이전트를 활용해 직원의 인증 정보를 탈취하고 소스코드에 접근했을 가능성이 제기됐다. 27일 독일 현지 언론에 따르면 SAP는 최근 사내 개발 환경에서 비정상적인 활동을 포착하고 긴급 보안 대응에 착수했다. 독일 시사주간지 슈피겔에 따르면 SAP는 이번 사건을 내부적으로 '프로젝트 그래나이트(Project Granite)'라는 이름으로...]]></description>
+		</item>
 		<item>
 			<title>래블업, 로컬 AI 앱 &apos;AI:GO 2.0&apos; 출시…PC서 에이전트 실행</title>
 			<link>https://www.etnews.com/20261127000331</link>
@@ -85,15 +94,6 @@
 			<category>오피니언</category>
 			<pubDate>Fri, 27 Nov 2026 13:14:39 +0900</pubDate>
 			<description><![CDATA[연말 인사평가 철이다. 어느 팀장 책상에 팀원 두 사람의 실적 보고서가 올라왔다. 둘 다 목표 달성률 100%. 문장은 매끄럽고 그래프는 깔끔하다. 한참 들여다보던 팀장이 두 사람을 차례로 불러 묻는다. “이 숫자, 어떻게 만든 겁니까?” 학교도 다르지 않다. 서른 명이 낸 기말 보고서가 하나같이 훌륭하다. 교사는 보고서를 덮고 학생에게 묻는다. “이 대목은 왜 이렇게 썼니?” 결과물이 유려한 시대가 왔다. 생성형 AI 덕분에 보고서도 기획안도...]]></description>
-		</item>
-		<item>
-			<title>서정진 셀트리온 회장, 아주대 찾아 바이오 분야 산학협력 방안 논의</title>
-			<link>https://www.etnews.com/20261127000200</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000200</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 13:00:52 +0900</pubDate>
-			<description><![CDATA[서정진 셀트리온 회장이 아주대를 찾아 바이오 산학협력 방안을 논의하고 재학생 30여명과 만났다. 아주대학교는 서 회장이 지난 26일 캠퍼스를 방문해 최기주 총장 등 대학 관계자들과 의·약학 및 바이오 융합 분야 협력 방안을 논의했다고 27일 밝혔다. 이 자리에는 김선용 대우학원 이사장과 한상욱 아주대 의무부총장 겸 의료원장 등이 참석했다. 양측은 아주대와 아주대의료원의 관련 분야 교육·연구 현황을 공유하고 상호 협력 방향에 대해 의견을 나눴다....]]></description>
 		</item>
 	</channel>
 </rss>
