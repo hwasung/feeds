@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 27 Nov 2026 14:30:54 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 15:30:56 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>대학정보통신연구센터협의회, 제11대 회장에 최수미 세종대 교수 선출</title>
+			<link>https://www.etnews.com/20261127000278</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261127000278</guid>
+			<author>조호현</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 14:57:04 +0900</pubDate>
+			<description><![CDATA[대학정보통신연구센터협의회(ITRC)는 27일 열린 제20차 정기총회에서 최수미 세종대학교 컴퓨터공학과 교수를 제11대 회장으로 선출했다고 밝혔다. 신임 회장 임기는 2027년 1월 1일부터 2028년 12월 31일까지 2년이다. 최 신임 회장은 2002년부터 세종대 컴퓨터공학과 교수로 재직 중이며, 현재 초실감 XR 연구센터장을 맡고 있다. 최 회장은 “인공지능(AI) 대전환 시대를 맞아 국가 정보통신기술(ICT) 경쟁력을 이끌 핵심 인재 양성...]]></description>
+		</item>
 		<item>
 			<title>에이아이웍스 &apos;베트남 AI 원조&apos; 5년, 가공센터 자립 운영한다</title>
 			<link>https://www.etnews.com/20261127000217</link>
@@ -85,15 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 27 Nov 2026 09:33:35 +0900</pubDate>
 			<description><![CDATA[휴네시온은 산업제어시스템(ICS)의 공급망 보안 위협에 대응하기 위해 디지털트윈을 활용해 사이버 위협과 보안 조치가 실제 설비 운영에 미치는 영향을 사전에 검증해야 한다고 27일 밝혔다. 디지털트윈은 현실의 설비와 운영 환경을 가상공간에 구현해 다양한 상황을 모의실험할 수 있는 기술이다. 실제 설비를 중단하지 않고도 사이버 공격에 따른 피해와 보안 조치가 설비 운영에 미칠 영향을 예측할 수 있다. 휴네시온은 전날 전남 나주 한전KDN 본사에서...]]></description>
-		</item>
-		<item>
-			<title>스페이스뱅크, 사족보행로봇·무인지상차량 활용한 통합 원격 임무 교육</title>
-			<link>https://www.etnews.com/20261127000058</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000058</guid>
-			<author>김동성</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 09:30:37 +0900</pubDate>
-			<description><![CDATA[인공지능(AI)·디지털 전환 솔루션 기업 스페이스뱅크가 군 교육생을 대상으로 서로 다른 로봇에 음성과 문자로 임무를 부여하는 통합운용 교육을 진행했다. 스페이스뱅크(대표 이원희)는 성균관대학교 국방 인공지능 전환(AX) 교육센터에서 사족보행로봇과 무인지상차량(UGV)을 활용한 피지컬 AI 이론·실습 교육을 실시했다고 27일 밝혔다. 피지컬 AI는 인공지능이 로봇 등 물리적 장치를 통해 실제 환경에서 작업을 수행하는 기술이다. 이 교육은 무인체계...]]></description>
 		</item>
 	</channel>
 </rss>
