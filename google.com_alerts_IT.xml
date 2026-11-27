@@ -4,8 +4,16 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Fri, 27 Nov 2026 09:31:08 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 28 Nov 2026 08:31:07 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>과기정통부 주관 보안 대축제 &apos;2026 ACDC&apos; 내달 1~2일 열려 - 지디넷코리아</title>
+			<link>https://zdnet.co.kr/view/?no=20261127102715</link>
+			<guid isPermaLink="true">https://zdnet.co.kr/view/?no=20261127102715</guid>
+			<category>김승주 교수</category>
+			<pubDate>Fri, 27 Nov 2026 23:58:12 +0900</pubDate>
+			<description><![CDATA[... <b>김승주</b> 고려대학교 정보보호대학원 교수가 기조연설을 한다. 지능화하는 사이버위협 환경에서 <b>보안</b>의 기본 원칙과 대응 역량의 중요성을 강조한다. 이어&nbsp;...]]></description>
+		</item>
 		<item>
 			<title>[신간] 보안에 돈을 쓰고도 왜 뚫릴까…김홍선의 &apos;뚫려도 털리지 않는 회사&apos; - 데일리시큐</title>
 			<link>https://www.dailysecu.com/news/articleView.html?idxno=209783</link>
@@ -237,14 +245,6 @@
 			<category>김승주 교수</category>
 			<pubDate>Thu, 05 Nov 2026 02:55:09 +0900</pubDate>
 			<description><![CDATA[AIS 2026에서 <b>김승주</b> 고려대 교수 강연중. 700여 명의 <b>보안</b>담당자 참석. 인공지능(AI)이 사이버 공격과 방어 기술&nbsp;...]]></description>
-		</item>
-		<item>
-			<title>[따져보니] 더 심각한 보안 사고인데…이번에도 &apos;선택적 침묵&apos;? - TV조선뉴스</title>
-			<link>https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490270.html</link>
-			<guid isPermaLink="true">https://news.tvchosun.com/site/data/html_dir/2026/11/04/2026110490270.html</guid>
-			<category>김승주 교수</category>
-			<pubDate>Thu, 05 Nov 2026 02:16:51 +0900</pubDate>
-			<description><![CDATA[<b>김승주</b> / 고려대 정보<b>보안</b>대학원 교수 &quot;인재(人災) 그 이상도 이하도 아니에요. 그냥 올리지 말아야 되는데 <b>보안</b> 인식이 없으니까 올린 것이고, 국가정보원&nbsp;...]]></description>
 		</item>
 	</channel>
 </rss>
