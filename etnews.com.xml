@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 27 Nov 2026 19:30:40 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 28 Nov 2026 08:30:44 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략</title>
+			<link>https://www.etnews.com/20261127000355</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261127000355</guid>
+			<author>권상희</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 21:39:26 +0900</pubDate>
+			<description><![CDATA[포시에스가 30년간 축적한 전자문서 소프트웨어 기술에 인공지능(AI) 에이전트를 결합해 기업 지식 자산화 시장 공략에 나선다. 단순 문서 생성·관리에서 벗어나 기업 내부 데이터를 업무에 활용할 수 있는 지식으로 전환하는 등 사업 영역을 확대한다. 포시에스는 30일 서울 양재동 엘타워에서 열리는 '디지털문서 AX 콘퍼런스 2026'에서 기조강연을 통해 전자문서와 AI 에이전트를 결합한 통합 로드맵을 최초 공개한다고 27일 밝혔다. 전자신문과 한국...]]></description>
+		</item>
 		<item>
 			<title>유럽 최대 SW기업 SAP, 해킹 의심 사고…깃허브 개발망타고 공격</title>
 			<link>https://www.etnews.com/20261127000347</link>
@@ -86,14 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 27 Nov 2026 13:23:05 +0900</pubDate>
 			<description><![CDATA[에이아이웍스가 베트남에서 5년간 추진한 인공지능(AI) 공적개발원조(ODA) 사업의 정부 지원 종료를 앞두고 현지 법인을 통한 AI 데이터 가공센터 독자 운영을 본격화한다. 27일 업계에 따르면 에이아이웍스는 베트남 AI 데이터 가공센터는 사업 5년째인 올해 처음으로 외부 거래처를 확보하며 자체 수익 기반을 마련했다. 회사는 정부 지원이 끝나는 내년부터 현지 법인 중심으로 AI 데이터 가공센터를 운영할 계획이다. 에이아이웍스는 2022년 7월부...]]></description>
-		</item>
-		<item>
-			<title>[기고] 점(點)에서 선(線)으로</title>
-			<link>https://www.etnews.com/20261127000206</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000206</guid>
-			<category>오피니언</category>
-			<pubDate>Fri, 27 Nov 2026 13:14:39 +0900</pubDate>
-			<description><![CDATA[연말 인사평가 철이다. 어느 팀장 책상에 팀원 두 사람의 실적 보고서가 올라왔다. 둘 다 목표 달성률 100%. 문장은 매끄럽고 그래프는 깔끔하다. 한참 들여다보던 팀장이 두 사람을 차례로 불러 묻는다. “이 숫자, 어떻게 만든 겁니까?” 학교도 다르지 않다. 서른 명이 낸 기말 보고서가 하나같이 훌륭하다. 교사는 보고서를 덮고 학생에게 묻는다. “이 대목은 왜 이렇게 썼니?” 결과물이 유려한 시대가 왔다. 생성형 AI 덕분에 보고서도 기획안도...]]></description>
 		</item>
 	</channel>
 </rss>
