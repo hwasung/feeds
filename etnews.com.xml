@@ -4,8 +4,26 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 27 Nov 2026 15:30:56 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 16:30:42 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>SKY·KAIST 등 대학 스타트업, 日 바이어와 AI 등 비즈니스 타진</title>
+			<link>https://www.etnews.com/20261127000297</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261127000297</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 15:31:51 +0900</pubDate>
+			<description><![CDATA[일본 진출을 타진하는 국내 대학 내 유망 스타트업들이 도쿄 현지 바이어와 직접 만나 기술실증(PoC)과 판로 개척에 나섰다. 인공지능(AI) 등 기술 기반 현지 사업 추진 목이다. 강원대·고려대·동국대·서울대·연세대·KAIST 등 6개 대학은 26일 일본 도쿄 주일대한민국대사관에서 '2026 대학 스타트업 일본진출 비즈니스 매칭 세미나'를 공동 주최했다. 세미나는 11월 25일부터 28일까지 3박 4일간 진행되는 국내 대학 창업기업 12개사의...]]></description>
+		</item>
+		<item>
+			<title>700억 이상 공공SW 참여 문턱 낮춘다…반복 심의·사업 불확실성 감소 기대</title>
+			<link>https://www.etnews.com/20261127000290</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261127000290</guid>
+			<author>강성전</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 15:15:19 +0900</pubDate>
+			<description><![CDATA[700억원 이상 공공 소프트웨어(SW)사업에 대기업이 예외심의 없이 참여할 수 있는 길이 열릴 전망이다. 기업의 사업 준비 불확실성과 반복적인 예외심의에 따른 행정 부담을 줄일 것이라는 기대가 나온다. 27일 국회 과학기술정보방송통신위원회(과방위) 법안심사제2소위원회는 김장겸·안상훈·이정헌 의원과 이해민 전 의원이 각각 대표발의한 SW진흥법 개정안 4건을 병합 심사해 의결했다. 핵심은 상호출자제한기업집단 소속 기업의 공공SW사업 참여를 원칙적으...]]></description>
+		</item>
 		<item>
 			<title>대학정보통신연구센터협의회, 제11대 회장에 최수미 세종대 교수 선출</title>
 			<link>https://www.etnews.com/20261127000278</link>
@@ -76,24 +94,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 27 Nov 2026 09:48:09 +0900</pubDate>
 			<description><![CDATA[지큐티코리아는 중소벤처기업부 글로벌 팁스(TIPS) 과제에 선정돼 4년간 50억원의 연구개발(R&D) 자금을 확보했다고 26일 밝혔다. 지큐티코리아는 양자통신·양자센서 분야 반도체와 모듈, 장비를 개발하는 기업이다. 이번에 확보한 자금으로 기존 광통신망에서 데이터와 양자신호를 동시에 전송할 수 있는 광집적회로(PIC) 기반 양자키분배(QKD) 모듈을 개발한다. 별도 양자전용회선 구축 없이 양자암호통신을 구현해 회선료를 50% 이상 절감하는 것이...]]></description>
-		</item>
-		<item>
-			<title>수원정보과학고, 지역 기업과 함께 &apos;2026 스타진로마켓&apos; 개최</title>
-			<link>https://www.etnews.com/20261127000077</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000077</guid>
-			<author>추경애</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 09:41:52 +0900</pubDate>
-			<description><![CDATA[수원정보과학고등학교는 최근 교내 예지관에서 지역 중소기업과 함께 취업역량 강화 행사인 '2026학년도 스타진로마켓'을 열었다. 행사에는 1·2학년 재학생 51명이 참여했으며, 기업 인사담당자와 실무자 12명이 면접관을 맡아 실제 채용 면접과 같은 방식으로 모의면접을 가졌다. 스타진로마켓은 학생들이 졸업 전에 산업 현장의 기준을 직접 확인해 볼 수 있도록 학교가 해마다 여는 진로·취업 프로그램이다. 학교에서 배운 전공 실력이 실제 현장에서는 어떻...]]></description>
-		</item>
-		<item>
-			<title>휴네시온, 디지털트윈 활용 산업제어시스템 공급망 보안 전략 제시</title>
-			<link>https://www.etnews.com/20261127000062</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000062</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 09:33:35 +0900</pubDate>
-			<description><![CDATA[휴네시온은 산업제어시스템(ICS)의 공급망 보안 위협에 대응하기 위해 디지털트윈을 활용해 사이버 위협과 보안 조치가 실제 설비 운영에 미치는 영향을 사전에 검증해야 한다고 27일 밝혔다. 디지털트윈은 현실의 설비와 운영 환경을 가상공간에 구현해 다양한 상황을 모의실험할 수 있는 기술이다. 실제 설비를 중단하지 않고도 사이버 공격에 따른 피해와 보안 조치가 설비 운영에 미칠 영향을 예측할 수 있다. 휴네시온은 전날 전남 나주 한전KDN 본사에서...]]></description>
 		</item>
 	</channel>
 </rss>
