@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 27 Nov 2026 12:30:54 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 13:31:02 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>서정진 셀트리온 회장, 아주대 찾아 바이오 분야 산학협력 방안 논의</title>
+			<link>https://www.etnews.com/20261127000200</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261127000200</guid>
+			<author>김동성</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 13:00:52 +0900</pubDate>
+			<description><![CDATA[서정진 셀트리온 회장이 아주대를 찾아 바이오 산학협력 방안을 논의하고 재학생 30여명과 만났다. 아주대학교는 서 회장이 지난 26일 캠퍼스를 방문해 최기주 총장 등 대학 관계자들과 의·약학 및 바이오 융합 분야 협력 방안을 논의했다고 27일 밝혔다. 이 자리에는 김선용 대우학원 이사장과 한상욱 아주대 의무부총장 겸 의료원장 등이 참석했다. 양측은 아주대와 아주대의료원의 관련 분야 교육·연구 현황을 공유하고 상호 협력 방향에 대해 의견을 나눴다....]]></description>
+		</item>
 		<item>
 			<title>KISA, K보안 해외 진출 지원…동남아·중남미·중동 공략</title>
 			<link>https://www.etnews.com/20261127000033</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 27 Nov 2026 09:17:08 +0900</pubDate>
 			<description><![CDATA[아톤은 인공지능(AI) 기반 자동화 해킹에 대응해 이상 행위를 탐지하는 데 그치지 않고 사람과 AI 에이전트의 신원, 개별 금융거래 요청의 정당성을 검증하는 인증 중심의 금융보안 전략이 필요하다고 27일 밝혔다. 우길수 아톤 대표는 전날 '코리아 핀테크 위크 2026'를 통해 “공격이 자동화된 만큼 방어도 탐지에서 검증으로 옮겨가야 한다”며 “사람뿐 아니라 AI 에이전트와 개별 거래 요청까지 정당한지 증명할 수 있는 인증 체계가 필요하다”고 말...]]></description>
-		</item>
-		<item>
-			<title>어드밴텍, 로봇·피지컬 AI를 위한 통합 카메라 아키텍처 &apos;UniCAM&apos; 선보여</title>
-			<link>https://www.etnews.com/20261127000036</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000036</guid>
-			<author>이경민</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 09:10:30 +0900</pubDate>
-			<description><![CDATA[엣지 인공지능(AI) 리더 어드밴텍은 미국 종합 반도체 기업 아날로그 디바이스(ADI)의 'GMSL2; 기술을 기반으로 한 통합 카메라 아키텍처 어드밴텍 유니켐(UniCAM)을 공개했다고 27일 밝혔다. UniCAM은 로봇, 휴머노이드, 자율 시스템 및 피지컬 AI 애플리케이션의 멀티 카메라 개발을 간소화하기 위해 설계된 솔루션이다. 로봇과 휴머노이드가 실시간으로 주변 환경을 인식하기 위해서는 여러 카메라의 영상 데이터를 빠르게 전송하고 정밀하...]]></description>
 		</item>
 	</channel>
 </rss>
