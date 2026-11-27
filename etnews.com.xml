@@ -4,8 +4,17 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Fri, 27 Nov 2026 10:30:55 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 11:30:51 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>개인정보위, 유출사고 긴급 대응체계 가동…3개월 집중점검</title>
+			<link>https://www.etnews.com/20261126000534</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261126000534</guid>
+			<author>박진형</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Fri, 27 Nov 2026 11:00:00 +0900</pubDate>
+			<description><![CDATA[개인정보보호위원회가 인공지능(AI) 기반 사이버 공격 확산에 대응해 긴급 대응체계를 가동한다. 관계부처 간 위협정보 공유를 강화하고 공공기관과 민간기업의 개인정보 보호 실태를 집중점검한다. 개인정보위는 개인정보 유출사고 예방과 신속한 대응을 위해 긴급대응 및 점검지원 체계를 가동한다고 27일 밝혔다. 과학기술정보통신부, 금융위원회, 국가정보원 등 관계기관과 정보 공유 및 협력을 강화한다. 유출사고 유형과 원인 분석을 토대로 인터넷 노출 시스템...]]></description>
+		</item>
 		<item>
 			<title>지큐티코리아, 글로벌 팁스 선정…양자암호통신 기술 개발에 50억원 확보</title>
 			<link>https://www.etnews.com/20261127000084</link>
@@ -86,15 +95,6 @@
 			<category>AI·SW·보안</category>
 			<pubDate>Fri, 27 Nov 2026 09:02:56 +0900</pubDate>
 			<description><![CDATA[인공지능(AI) 인프라 전문기업 디에스앤지가 글로벌 기술기업과 함께 차세대 AI 데이터센터 구축을 위한 고밀도 컴퓨팅과 액체 냉각, 데이터 인프라 최적화 전략을 제시했다. 디에스앤지(대표 서정열)는 25일 서울 콘래드 호텔에서 슈퍼마이크로, 엔비디아, DDN 등 글로벌 파트너사가 참여한 가운데 '디에스앤지 이노베이션데이 2026(DS&G Innovation Day 2026)'을 개최했다고 밝혔다. 이번 행사는 AI 데이터센터의 대형화와 고밀도화...]]></description>
-		</item>
-		<item>
-			<title>[신간] 파이오링크 조영철 대표, 경영 전략서 &apos;사이버 레질리언스&apos; 공동 출간</title>
-			<link>https://www.etnews.com/20261127000026</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000026</guid>
-			<author>박진형</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 08:59:55 +0900</pubDate>
-			<description><![CDATA[파이오링크는 조영철 대표가 사이버회복력 포럼 구성원들과 공동 집필한 '사이버 레질리언스-기업과 기관의 미래 사이버 경영 전략'(소금나무)을 출간했다고 27일 밝혔다. 제17대 한국정보보호산업협회장을 지낸 조 대표와 손기욱 서울과학기술대 교수(사이버안보학회장), 강정민 고려대 세종캠퍼스 교수, 이화영 아레스사이버전략연구소 대표 등이 집필에 참여했다. 책은 사이버 공격을 예방하는 것을 넘어 공격을 받더라도 핵심 업무를 지속하고 신속하게 정상화할 수...]]></description>
 		</item>
 	</channel>
 </rss>
