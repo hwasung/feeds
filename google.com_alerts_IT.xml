@@ -4,8 +4,16 @@
 		<title>Google 알리미 - IT</title>
 		<link>https://www.google.com/alerts/</link>
 		<description>Google 알리미 - IT</description>
-		<lastBuildDate>Thu, 26 Nov 2026 17:31:15 +0900</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2026 09:31:08 +0900</lastBuildDate>
 		<ttl>60</ttl>
+		<item>
+			<title>[신간] 보안에 돈을 쓰고도 왜 뚫릴까…김홍선의 &apos;뚫려도 털리지 않는 회사&apos; - 데일리시큐</title>
+			<link>https://www.dailysecu.com/news/articleView.html?idxno=209783</link>
+			<guid isPermaLink="true">https://www.dailysecu.com/news/articleView.html?idxno=209783</guid>
+			<category>김승주 교수</category>
+			<pubDate>Fri, 27 Nov 2026 08:36:46 +0900</pubDate>
+			<description><![CDATA[<b>보안</b>기업 대표로 20년, 은행 CISO로 10년…공격을 막고 고객 정보를 지켜온 ... <b>김승주</b> 고려대 정보보호대학원 교수는 “<b>보안</b> 제품과 인증을 갖추고도 왜&nbsp;...]]></description>
+		</item>
 		<item>
 			<title>과기정통부, AI 해킹방어대회 개최…사이버위협 대응 역량 강화 - 전자신문</title>
 			<link>https://www.etnews.com/20261126000299</link>
@@ -237,14 +245,6 @@
 			<category>김승주 교수</category>
 			<pubDate>Thu, 05 Nov 2026 02:16:51 +0900</pubDate>
 			<description><![CDATA[<b>김승주</b> / 고려대 정보<b>보안</b>대학원 교수 &quot;인재(人災) 그 이상도 이하도 아니에요. 그냥 올리지 말아야 되는데 <b>보안</b> 인식이 없으니까 올린 것이고, 국가정보원&nbsp;...]]></description>
-		</item>
-		<item>
-			<title>사이버 침해사고 대응 전문가 &apos;부산 회동&apos;</title>
-			<link>https://www.busan.com/view/busan/view.php?code=2026110318195876089</link>
-			<guid isPermaLink="true">https://www.busan.com/view/busan/view.php?code=2026110318195876089</guid>
-			<category>김승주 교수</category>
-			<pubDate>Wed, 04 Nov 2026 07:11:59 +0900</pubDate>
-			<description><![CDATA[... <b>보안</b>&#39;을 주제로, 5일 심포지엄에서는 고려대학교 정보보호대학원 <b>김승주</b> 교수가 &#39;국가의 사이버 회복력&#39;을 주제로 연단에 오른다. 5일 심포지엄에서는 KISA&nbsp;...]]></description>
 		</item>
 	</channel>
 </rss>
