@@ -4,97 +4,93 @@
 		<title>전자신문</title>
 		<link>https://www.etnews.com/</link>
 		<description>전자신문</description>
-		<lastBuildDate>Sat, 28 Nov 2026 08:30:44 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 28 Nov 2026 20:31:09 +0900</lastBuildDate>
 		<ttl>60</ttl>
 		<item>
-			<title>포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략</title>
-			<link>https://www.etnews.com/20261127000355</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000355</guid>
-			<author>권상희</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 21:39:26 +0900</pubDate>
-			<description><![CDATA[포시에스가 30년간 축적한 전자문서 소프트웨어 기술에 인공지능(AI) 에이전트를 결합해 기업 지식 자산화 시장 공략에 나선다. 단순 문서 생성·관리에서 벗어나 기업 내부 데이터를 업무에 활용할 수 있는 지식으로 전환하는 등 사업 영역을 확대한다. 포시에스는 30일 서울 양재동 엘타워에서 열리는 '디지털문서 AX 콘퍼런스 2026'에서 기조강연을 통해 전자문서와 AI 에이전트를 결합한 통합 로드맵을 최초 공개한다고 27일 밝혔다. 전자신문과 한국...]]></description>
-		</item>
-		<item>
-			<title>유럽 최대 SW기업 SAP, 해킹 의심 사고…깃허브 개발망타고 공격</title>
-			<link>https://www.etnews.com/20261127000347</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000347</guid>
-			<author>최호</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 18:48:48 +0900</pubDate>
-			<description><![CDATA[유럽 최대 소프트웨어 기업 SAP가 사이버 공격으로 의심되는 보안 사고에 노출됐다. 해커들이 인공지능(AI) 에이전트를 활용해 직원의 인증 정보를 탈취하고 소스코드에 접근했을 가능성이 제기됐다. 27일 독일 현지 언론에 따르면 SAP는 최근 사내 개발 환경에서 비정상적인 활동을 포착하고 긴급 보안 대응에 착수했다. 독일 시사주간지 슈피겔에 따르면 SAP는 이번 사건을 내부적으로 '프로젝트 그래나이트(Project Granite)'라는 이름으로...]]></description>
-		</item>
-		<item>
-			<title>래블업, 로컬 AI 앱 &apos;AI:GO 2.0&apos; 출시…PC서 에이전트 실행</title>
-			<link>https://www.etnews.com/20261127000331</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000331</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 17:11:37 +0900</pubDate>
-			<description><![CDATA[래블업은 외부 클라우드 없이 개인용 컴퓨터에서 인공지능(AI) 모델과 에이전트를 실행할 수 있는 앱 '에이아이고(AI:GO)' 2.0 버전을 출시했다고 27일 밝혔다. 에이아이고는 언어·비전·음성 AI 모델을 실행하는 로컬 AI 앱이다. 외부 서버로 데이터를 전송하지 않고 PC에서 AI 모델을 실행해 클라우드 이용 비용과 데이터 유출 부담을 낮췄다. 대화창에서 텍스트 기반 대화, 이미지 생성, 음성 받아쓰기, 실시간 문서 번역 등을 지원한다....]]></description>
-		</item>
-		<item>
-			<title>피지컬 AI &apos;공존의 법제&apos; 모색…“로봇 진흥 규범도 진화해야”</title>
-			<link>https://www.etnews.com/20261127000329</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000329</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 17:11:08 +0900</pubDate>
-			<description><![CDATA[피지컬 인공지능(AI)과 지능형 로봇 기술을 산업의 새로운 성장 동력으로 활용하는 동시에 현실 세계에서 발생할 물리적 위험과 사회적 영향에 대응할 공존의 법제를 마련해야 한다는 제언이 나왔다. 선지원 한국인터넷윤리학회장(한양대 법학전문대학원 교수)은 27일 서울 중구 한진빌딩에서 열린 학술세미나에서 “피지컬 AI와 로봇이 우리 삶을 편리하게 하지만 윤리적 위험을 해소해야 사회적으로 수용되고 기술 활용도 확대될 수 있다”며 이같이 강조했다. 법무...]]></description>
-		</item>
-		<item>
-			<title>코난테크놀로지, 경남 제조AX기술센터 연다…방산·제조 AX 지원</title>
-			<link>https://www.etnews.com/20261127000327</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000327</guid>
-			<author>조벼리</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 17:09:13 +0900</pubDate>
-			<description><![CDATA[코난테크놀로지가 경남 창원을 거점으로 지역 방산·제조 기업의 인공지능(AI) 도입을 지원한다. 코난테크놀로지는 경남 창원 경남테크노파크에 '경남 제조AX기술센터'를 개소한다고 27일 밝혔다. 다음달 10일 창원컨벤션센터에서 개소를 기념해 '경남 제조AX 세미나'를 개최한다. 세미나에서 제조기업의 AI 도입 전략과 온톨로지 기반 제조 현장 지식 구축, 비전언어모델(VLM) 기반 도면 이해, AI 에이전트 업무환경 구축 등 현장 적용 기술을 소개한...]]></description>
-		</item>
-		<item>
-			<title>북일고, 개교 50주년 기념 송년음악회 개최…수익금 일부 장애인 자립 위해 기부</title>
-			<link>https://www.etnews.com/20261127000326</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000326</guid>
-			<author>강성전</author>
-			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 17:05:31 +0900</pubDate>
-			<description><![CDATA[북일고재경총동문회는 12월 11일 오후 7시 서울 강남구 광림아트센터 장천홀에서 '북일고 개교 50주년 기념 송년음악회'를 개최한다고 27일 밝혔다. 이번 음악회는 북일고재경총동문회가 주최하고 사단법인 국제재즈교류협회가 주관하며, 북일고 총동문회, 북일여고 총동문회가 후원한다. 북일고는 1976년 한화그룹 창업주 고(故) 현암 김종희 회장이 '교육보국(敎育報國)'의 뜻을 담아 충남 천안에 설립한 학교다. 2010년 자율형 사립고로 전환해 전국...]]></description>
-		</item>
-		<item>
-			<title>SKY·KAIST 등 대학 스타트업, 日 바이어와 AI 등 비즈니스 타진</title>
-			<link>https://www.etnews.com/20261127000297</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000297</guid>
+			<title>EBS, 사장 최종 후보 공개…내부 출신 수석 3파전</title>
+			<link>https://www.etnews.com/20261128000044</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000044</guid>
 			<author>박종진</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 15:31:51 +0900</pubDate>
-			<description><![CDATA[일본 진출을 타진하는 국내 대학 내 유망 스타트업들이 도쿄 현지 바이어와 직접 만나 기술실증(PoC)과 판로 개척에 나섰다. 인공지능(AI) 등 기술 기반 현지 사업 추진 목이다. 강원대·고려대·동국대·서울대·연세대·KAIST 등 6개 대학은 26일 일본 도쿄 주일대한민국대사관에서 '2026 대학 스타트업 일본진출 비즈니스 매칭 세미나'를 공동 주최했다. 세미나는 11월 25일부터 28일까지 3박 4일간 진행되는 국내 대학 창업기업 12개사의...]]></description>
+			<pubDate>Sat, 28 Nov 2026 19:44:05 +0900</pubDate>
+			<description><![CDATA[한국교육방송공사(EBS)가 차기 사장 후보 최종 3인을 28일 공개했다. 신삼수 EBS AI인재교육부 수석(전 수신료정상화추진단장), 정성욱 EBS 협력제작부 수석(전 콘텐츠기획센터장), 추덕담 EBS 협력제작부 수석(전 방송제작본부장) 등으로 모두 내부 인사다. 이들은 국민 150명 이상으로 구성된 EBS 사장후보국민추천위원회 심사와 면접을 거쳐 확정된 후보다. 사추위 사전 심사 대상은 김병진 KBSN 콘텐츠사업본부장, 류남이 EBS 콘텐츠사...]]></description>
 		</item>
 		<item>
-			<title>700억 이상 공공SW 참여 문턱 낮춘다…반복 심의·사업 불확실성 감소 기대</title>
-			<link>https://www.etnews.com/20261127000290</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000290</guid>
-			<author>강성전</author>
+			<title>메타 &apos;뮤즈&apos;, 영국 상륙에 식당 온라인 예약 차단…아마존도</title>
+			<link>https://www.etnews.com/20261128000042</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000042</guid>
+			<author>박종진</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 15:15:19 +0900</pubDate>
-			<description><![CDATA[700억원 이상 공공 소프트웨어(SW)사업에 대기업이 예외심의 없이 참여할 수 있는 길이 열릴 전망이다. 기업의 사업 준비 불확실성과 반복적인 예외심의에 따른 행정 부담을 줄일 것이라는 기대가 나온다. 27일 국회 과학기술정보방송통신위원회(과방위) 법안심사제2소위원회는 김장겸·안상훈·이정헌 의원과 이해민 전 의원이 각각 대표발의한 SW진흥법 개정안 4건을 병합 심사해 의결했다. 핵심은 상호출자제한기업집단 소속 기업의 공공SW사업 참여를 원칙적으...]]></description>
+			<pubDate>Sat, 28 Nov 2026 19:30:05 +0900</pubDate>
+			<description><![CDATA[메타가 개인용 인공지능(AI) 에이전트 '뮤즈' 서비스를 미국에 이어 영국으로 확대하며 현지 식당업계의 긴장감이 높아지고 있다. AI가 사람을 대신해 식당을 예약하는 과정에서 발생할 수 있는 부작용을 우려, 전화 예약으로 전환하는 식당 등 소상공인 사업자가 등장한 것으로 나타났다. AI 에이전트가 이용자 편의성을 높임과 동시에 기존 서비스 산업 운영 방식에 변화를 일으킬 것으로 전망된다. 28일(현지시간) 영국 가디언에 따르면 메타가 지난 23...]]></description>
 		</item>
 		<item>
-			<title>대학정보통신연구센터협의회, 제11대 회장에 최수미 세종대 교수 선출</title>
-			<link>https://www.etnews.com/20261127000278</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000278</guid>
-			<author>조호현</author>
+			<title>교원 빨간펜, 독서관리 과목 1.4만건 돌파…&apos;마이씽킹랩&apos; 효과</title>
+			<link>https://www.etnews.com/20261128000041</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000041</guid>
+			<author>박종진</author>
 			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 14:57:04 +0900</pubDate>
-			<description><![CDATA[대학정보통신연구센터협의회(ITRC)는 27일 열린 제20차 정기총회에서 최수미 세종대학교 컴퓨터공학과 교수를 제11대 회장으로 선출했다고 밝혔다. 신임 회장 임기는 2027년 1월 1일부터 2028년 12월 31일까지 2년이다. 최 신임 회장은 2002년부터 세종대 컴퓨터공학과 교수로 재직 중이며, 현재 초실감 XR 연구센터장을 맡고 있다. 최 회장은 “인공지능(AI) 대전환 시대를 맞아 국가 정보통신기술(ICT) 경쟁력을 이끌 핵심 인재 양성...]]></description>
+			<pubDate>Sat, 28 Nov 2026 18:28:17 +0900</pubDate>
+			<description><![CDATA[교원 빨간펜 독서관리 과목 수가 11월 넷째 주 기준 1만4000건을 돌파했다. 올해 3분기 기준 직전 분기 대비 47.6% 증가한 수치로 올해 9월 출시한 독서 시스템 '마이씽킹랩' 판매 호조가 성장에 기여했다. 관리 과목 수는 회원별 계약한 과목을 합산한 수치다. 교원 빨간펜은 50여종 전집 콘텐츠를 기반으로 다양한 독서 교육·관리 서비스를 선보이고 있다. 최근 인공지능(AI) 활용이 일상화되며 스스로 생각하고 판단하는 사고력 함양 수요를...]]></description>
 		</item>
 		<item>
-			<title>에이아이웍스 &apos;베트남 AI 원조&apos; 5년, 가공센터 자립 운영한다</title>
-			<link>https://www.etnews.com/20261127000217</link>
-			<guid isPermaLink="true">https://www.etnews.com/20261127000217</guid>
-			<author>조벼리</author>
+			<title>[취업걱정 없는 명품학교]〈526〉 동일공업고등학교</title>
+			<link>https://www.etnews.com/20261128000040</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000040</guid>
 			<category>AI·SW·보안</category>
-			<pubDate>Fri, 27 Nov 2026 13:23:05 +0900</pubDate>
-			<description><![CDATA[에이아이웍스가 베트남에서 5년간 추진한 인공지능(AI) 공적개발원조(ODA) 사업의 정부 지원 종료를 앞두고 현지 법인을 통한 AI 데이터 가공센터 독자 운영을 본격화한다. 27일 업계에 따르면 에이아이웍스는 베트남 AI 데이터 가공센터는 사업 5년째인 올해 처음으로 외부 거래처를 확보하며 자체 수익 기반을 마련했다. 회사는 정부 지원이 끝나는 내년부터 현지 법인 중심으로 AI 데이터 가공센터를 운영할 계획이다. 에이아이웍스는 2022년 7월부...]]></description>
+			<pubDate>Sat, 28 Nov 2026 18:27:22 +0900</pubDate>
+			<description><![CDATA[경기도 평택에 위치한 동일공업고등학교(교장 황현주)는 1977년 9월 설립된 동일학원의 오랜 역사와 전통을 바탕으로 시대 변화에 부응하는 직업교육을 선도해 온 명문 특성화고등학교다. '미래를 선도할 창의적인 민주시민 육성'이라는 교육목표 아래 학생들이 아름다운 교육환경 속에서 바른 인성을 함양하고, 스스로 적성과 소질을 발견해 미래의 꿈을 이뤄나갈 수 있도록 든든한 조력자 역할을 수행하고 있다. 학교는 기계·자동차·컴퓨터·전기전자·건설·디자인...]]></description>
+		</item>
+		<item>
+			<title>[취업걱정 없는 명품학교] 〈525〉 대전여자상업고등학교</title>
+			<link>https://www.etnews.com/20261128000039</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000039</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 28 Nov 2026 18:27:00 +0900</pubDate>
+			<description><![CDATA[대전여자상업고등학교(교장직무대리 양재만)는 1948년 4월 개교 이래 오랜 상업교육의 전통을 이어오며 금융·회계·경영 분야의 실무 인재를 양성해 온 명문 특성화고등학교다. '꿈·도전·성취'라는 교육 목표 아래 학생들이 자신의 적성과 진로를 깊이 탐색하고, 학교에서 익힌 지식과 기술을 실제 직업 세계와 긴밀히 연결할 수 있도록 체계적인 교육을 운영하고 있다. 특히 최근에는 기존 탄탄한 상업교육 인프라에 인공지능(AI)과 데이터 교육을 전격 접목하...]]></description>
+		</item>
+		<item>
+			<title>[취업걱정 없는 명품학교]〈524〉 공주정보고등학교</title>
+			<link>https://www.etnews.com/20261128000038</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000038</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 28 Nov 2026 18:26:35 +0900</pubDate>
+			<description><![CDATA[충청남도 공주시 소재 공주정보고등학교(교장 고순주)는 1979년 공주여자상업고등학교로 개교한 이래 지역 유일의 명문 상업계 특성화고로 굳건히 자리매김해 오고 있다. 올바른 인성과 실무 능력을 갖춘 유능한 인재를 양성해 국가와 사회에 이바지한다는 건학 이념을 바탕으로, 미래 사회 변화에 주도적으로 대응하기 위해 창의적 교육과정과 학과 재구조화를 지속적으로 추진하며 교역 역량 강화에 힘쓰고 있다. 학교는 현재 경영정보과, 소방안전과, 보건간호과의...]]></description>
+		</item>
+		<item>
+			<title>[취업걱정 없는 명품학교] 〈523〉 한양과학기술고등학교</title>
+			<link>https://www.etnews.com/20261128000037</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000037</guid>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 28 Nov 2026 18:26:17 +0900</pubDate>
+			<description><![CDATA[한양과학기술고등학교(교장 양국현)는 개교 80년의 직업교육 역사와 노하우를 바탕으로 미래 신산업 기술 인재를 양성하고 있는 서울 도심(중구 을지로)에 자리잡은 명문 사립 공업계 특성화고다. 1945년 9월 1일 김연준 박사가 한양공업중학교로 설립한 이래, 한양학원의 건학정신인 '사랑의 실천'을 토대로 근면·정직·겸손·봉사의 덕목을 갖추고 지역사회와 국가, 인류에 이바지하는 창의적 기술인을 길러내고 있다. 특히 2008년부터 19년째 중소기업 특...]]></description>
+		</item>
+		<item>
+			<title>아이스크림미디어·에듀, 초등 독서교육·순천 AI교육 지원</title>
+			<link>https://www.etnews.com/20261128000036</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000036</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 28 Nov 2026 18:20:24 +0900</pubDate>
+			<description><![CDATA[아이스크림미디어가 한국어린이출판연합과 업무협약을 체결하고 초등 독서교육 활성화를 위해 협력한다. 아이스크림에듀는 전남광주 순천교육지원청과 '맞춤형 AI·디지털 교육' 지원 업무협약을 맺었다. 아이스크림미디어 에듀테크 역량과 한국어린이출판연합 출판 전문성을 결합, 학교 현장에서 활용할 수 있는 독서교육 모델을 마련하고 학생들 다양한 독서활동을 지원하기 위해 추진됐다. 양측은 교과 수업과 연계한 독서교육 콘텐츠 및 프로그램 개발, 온·오프라인 독서...]]></description>
+		</item>
+		<item>
+			<title>에누마, 초등교사와 한글 문해력 향상 돕는 교수학습 자료 개발</title>
+			<link>https://www.etnews.com/20261128000035</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000035</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 28 Nov 2026 18:06:21 +0900</pubDate>
+			<description><![CDATA[에누마가 현직 초등교사와 '토도한글' 도서를 활용해 통합교과 시간 문해력 향상을 돕는 교수학습 지원 자료를 개발했다. 에누마는 2023년 학교용 서비스 '토도 클래스룸'을 선보인 뒤 한글·수학·영어로 구성된 '토도 시리즈'로 다양한 공교육 현장과 함께하고 있다. 특히 토도한글로 한글 학습부터 문해력 향상까지 이어질 수 있도록 유기적 커리큘럼을 설계했다. 토도한글 도서관에서는 200여권 책을 글자 수, 어휘 난이도, 이야기 구성에 따라 6단계로...]]></description>
+		</item>
+		<item>
+			<title>AI 데이터센터 메가프로젝트 시동…GS, 1.2GW 동해센터 첫삽</title>
+			<link>https://www.etnews.com/20261128000032</link>
+			<guid isPermaLink="true">https://www.etnews.com/20261128000032</guid>
+			<author>박종진</author>
+			<category>AI·SW·보안</category>
+			<pubDate>Sat, 28 Nov 2026 17:10:58 +0900</pubDate>
+			<description><![CDATA[GS가 강원도 동해시에 1.2기가와트(GW) 규모 인공지능(AI) 데이터센터 구축에 착수했다. 정부가 추진하는 메가프로젝트 가운데 GW급 AI 데이터센터가 착공한 첫 사례다. 과학기술정보통신부는 28일 강원도 동해시 북평제2일반산업단지에서 '동해 GS AI 데이터센터 착공식'을 개최됐다고 밝혔다. GS가 6월 '3대 메가프로젝트 국민보고회'에서 발표한 2.4GW 규모 동해 AI 데이터센터(AIDC) 구축계획 1단계 사업이다. 2028년부터 순차...]]></description>
 		</item>
 	</channel>
 </rss>
