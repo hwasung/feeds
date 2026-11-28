@@ -4,13 +4,74 @@
 		<title>SK AX Trends</title>
 		<link>https://www.skax.co.kr/insight/trends</link>
 		<description>SK AX Trends</description>
-		<lastBuildDate>Wed, 25 Nov 2026 18:37:56 +0900</lastBuildDate>
+		<lastBuildDate>Sat, 28 Nov 2026 18:34:29 +0900</lastBuildDate>
 		<ttl>240</ttl>
+		<item>
+			<title>2027년 SAP ECC 지원 종료, ERP 전환을 AX의 출발점으로 삼는 기업 전략</title>
+			<link>https://www.skax.co.kr/insight/trend/3938/</link>
+			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3938/</guid>
+			<pubDate>Fri, 27 Nov 2026 00:00:00 +0900</pubDate>
+			<description><![CDATA[<div>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_2027년-AX-전략-ERP-전환.png" alt=""/></p>
+	<table>
+		<tbody>
+			<tr>
+				<td>
+					<h3><strong>한눈에 보는 핵심 인사이트</strong></h3>
+					<p><em>SAP ECC의 메인스트림 유지보수가 2027년 말 종료되지만, 가트너에 따르면 2024년 말 기준 S/4HANA 전환에 나선 ECC 고객은 39%에 그칩니다. 연장 유지보수와 트랜지션 옵션이 있지만 추가 비용과 까다로운 조건이 따르고, 단계를 거칠수록 지원 범위는 줄어듭니다. 전환에는 프로세스 재설계와 변화관리까지 포함되어 준비 기간이 길기 때문에, 2027년은 전환 시점과 방식을 확정해야 하는 해입니다. 여기에 SAP가 AI 기능 제공을 전환 계획과 연계하면서, ERP 전환을 AI가 일할 수 있는 데이터·프로세스 기반을 다시 세우는 AX의 출발점으로 삼는 기업이 늘고 있습니다.</em></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<h2><strong>2027년 말 종료되는 SAP ECC 메인스트림 유지보수</strong></h2>
+	<p>SAP는 SAP ERP 6.0(ECC)을 포함한 SAP Business Suite 7 핵심 애플리케이션의 메인스트림 유지보수를 2027년 12월 31일까지 제공합니다. 대상은 EHP 6~8 버전이며, EHP 0~5는 2025년 말에 이미 종료됐습니다.</p>
+	<p>종료까지 1년 남짓 남았지만 전환 속도는 더딥니다. 가트너에 따르면 2024년 말 기준 약 3만 5,000개 ECC 고객 가운데 S/4HANA 라이선스를 확보해 전환에 나선 곳은 39%(약 1만 4,000개)입니다. 2026년 한 SAP 사용자 그룹 조사에서도 응답 기업의 54%가 여전히 ECC나 Business Suite를 쓰고 있었고, 2027년까지 전환하겠다는 ECC 사용 기업은 37%에 머물렀습니다.</p>
+	<h2><strong>비용과 조건이 따르는 연장 옵션</strong></h2>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/1.-ECC-연장-옵션-비용을-치르는-유예-기간-1.png" alt=""/></p>
+	<p>메인스트림 유지보수가 끝난다고 ECC가 바로 멈추지는 않습니다. 하지만 이후 선택지에는 모두 비용과 제약이 붙습니다.</p>
+	<p>– <strong>연장 유지보수(Extended Maintenance)</strong>: 2028년부터 2030년 말까지 제공되며, 기존 유지보수 기준 금액에 2%p 할증이 붙습니다.<br/>
+		– <strong>SAP ERP, Private Edition, Transition Option</strong>: 2030년 말까지 시스템을 SAP HANA 기반 SAP ERP, private edition으로 옮긴 대형 고객이 대상인 클라우드 구독 상품입니다. 2026년 10월 업데이트로, 추가 요건을 갖추면 2035년 말까지 구독할 수 있게 됐습니다. 시스템 규모 2TB 이상, Max Success Plan 동시 가입 등의 조건이 붙습니다.</p>
+	<p>연장 유지보수를 선택하지 않거나 연장 기간이 끝나면 고객별 유지보수(Customer-Specific Maintenance)로 넘어갑니다. 계약은 유지되지만 신규 보안 취약점 대응 같은 지원이 빠집니다. 연장 옵션은 전환을 대신하는 대안이 아니라, 비용을 치르고 확보하는 유예 기간에 가깝습니다.</p>
+	<h2><strong>기술보다 프로세스에서 커지는 전환의 난도</strong></h2>
+	<p>전환이 더딘 이유는 ECC가 오랫동안 기업 업무에 맞춰 수정돼 왔기 때문입니다. 가트너는 높은 커스터마이징 수준과 비용, 긴 일정을 주요 걸림돌로 꼽습니다. 비용은 약 200만 달러부터 복잡한 대기업 환경에서는 10억 달러에 이르고, 대부분 업무 프로세스 재설계와 변화관리를 함께 진행해야 합니다.</p>
+	<p>2026년 북미 SAP 사용자 그룹 조사에서 기존 시스템을 유지하며 전환하는 브라운필드 방식은 평균 약 15.8개월, 새로 구축하는 그린필드 방식은 약 20.2개월이 걸렸습니다. 현황 진단과 방식 결정에 드는 시간까지 고려하면, 2027년 안에 전환 계획을 확정해야 연장 비용과 운영 리스크를 줄일 수 있습니다.</p>
+	<h2><strong>AI 활용과 맞물리기 시작한 ERP 전환</strong></h2>
+	<p>최근에는 유지보수 종료뿐 아니라 AI 활용도 ERP 전환을 서두르는 주요 요인으로 떠오르고 있습니다. SAP 사용자 커뮤니티를 대상으로 한 2026년 조사에서 ERP 전략에 영향을 준 외부 요인 1위는 SAP의 AI 발표(43%)였고, 2027년 유지보수 종료(39%)가 그 뒤를 이었습니다. SAP는 2026년 5월, 클라우드 전환을 약속한 ECC·온프레미스 고객에게 Joule 어시스턴트와 에이전트 일부를 제공하겠다고 밝혔습니다. 전환 계획이 AI 기능 활용 범위와 직접 연결되기 시작한 것입니다.</p>
+	<p>AI 에이전트가 판단하고 실행하는 근거는 결국 ERP의 데이터와 프로세스입니다. 같은 고객·자재 데이터를 부서마다 다르게 정의하고 예외 로직이 곳곳에 흩어져 있으면, AI는 같은 질문에도 부서마다 다른 결과를 냅니다. 파일럿에서 효과를 본 AI가 전사로 확산되지 못하는 이유도 여기에 있습니다.</p>
+	<h2><strong>ERP 전환을 AX의 출발점으로 삼는 세 가지 방법</strong></h2>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/2.-ERP-전환을-AX의-출발점으로-삼는-세-가지-방법-1.png" alt=""/></p>
+	<p>ERP 전환을 AX와 함께 추진하는 기업들은 대체로 세 가지 방향을 따릅니다.</p>
+	<p>– AI를 적용할 업무부터 정하기: 재무 결산이나 수요 예측처럼 AI로 바꾸고 싶은 업무를 먼저 정하고, 그 업무에 필요한 데이터와 프로세스를 전환의 우선순위로 삼습니다.<br/>
+		– Clean Core와 데이터 표준 확보: 핵심 시스템은 표준 프로세스에 가깝게 유지하고 차별화 요구는 확장 플랫폼으로 분리합니다. 이와 함께 데이터 정의, 품질 기준, 접근 권한을 정비해 AI가 전사에서 일관되게 작동할 기반을 만듭니다.<br/>
+		– 전환 과정에도 AI 활용: SAP는 커스텀 코드 정리 같은 기술적 전환 작업을 돕는 AI 에이전트를 선보였습니다. 다만 가트너는 이 에이전트가 전환 비용을 줄인다는 점은 아직 검증되지 않았다고 평가했습니다. 효과를 단계별로 확인하며 적용하는 접근이 필요합니다.</p>
+	<h2><strong>AX 로드맵의 첫 단계가 되는 ERP 전환</strong></h2>
+	<p><img src="https://www.skax.co.kr/wp-content/uploads/3.-AX-로드맵의-첫-단계-ERP-전환-1.png" alt=""/></p>
+	<p>SK AX는 MI리포트 「AI-Native ERP: AI 시대의 S/4HANA 전환」을 통해 AI를 전사에 내재화하는 데 필요한 두 가지 기반을 제시했습니다. MI리포트는 SK AX의 컨설턴트와 전문위원이 산업·기술 이슈를 분석해 매월 발행하는 리포트입니다. 리포트가 제시한 두 기반은 단일 데이터 모델과 표준 프로세스를 갖춘 S/4HANA 아키텍처, 그리고 같은 데이터를 조직마다 같은 의미로 해석하게 하는 온톨로지입니다. S/4HANA가 형식적 표준을 제공한다면, 온톨로지는 AI 판단의 근거를 업무 언어로 설명할 수 있게 하는 의미적 표준입니다.</p>
+	<p>유지보수 종료 일정과 AI 확산은 결국 하나의 질문으로 모입니다. ERP를 언제, 어떤 방식으로 바꿀지 정하는 일이 곧 AI를 어떤 업무부터 들일지 정하는 일이 됐습니다. 연장 옵션으로 전환을 미루면 유지보수 비용이 늘고, 데이터와 프로세스를 정비하는 시점도 그만큼 늦어집니다. 반대로 ERP 전환을 AX의 출발점으로 삼은 기업은 전환 과정에서 AI가 활용할 데이터와 프로세스 기반도 함께 마련할 수 있습니다. 그래서 2027년 IT 계획에서는 ERP 전환을 별도의 시스템 프로젝트가 아니라 AX 로드맵의 첫 단계로 다뤄야 합니다.</p>
+	<h2><strong>[FAQ]</strong></h2>
+	<h3><strong>Q1. SAP ECC 지원은 언제 종료되나요?</strong></h3>
+	<p>SAP ERP 6.0(ECC) EHP 6~8의 메인스트림 유지보수는 2027년 12월 31일에 종료됩니다. 이후에는 2030년 말까지 2%p 할증이 붙는 연장 유지보수를 선택할 수 있고, 선택하지 않으면 지원 범위가 좁은 고객별 유지보수로 넘어갑니다. EHP 5 이하 버전은 2025년 말에 이미 종료됐습니다.</p>
+	<h3><strong>Q2. 연장 유지보수를 선택하면 전환을 미뤄도 되나요?</strong></h3>
+	<p>연장 옵션이 전환을 대신하지는 않습니다. 연장 유지보수는 2030년 말까지 할증 비용이 붙고, 그 뒤에는 지원 범위가 좁은 고객별 유지보수로 넘어갑니다. 최대 2035년까지 쓸 수 있는 트랜지션 옵션도 2030년 말까지 SAP ERP, Private Edition으로 옮긴 대형 고객만 이용할 수 있고 추가 비용이 따릅니다.</p>
+	<h3><strong>Q3. ERP 전환은 AI 도입과 어떤 관계가 있나요?</strong></h3>
+	<p>ERP 전환은 AI가 전사에서 일관되게 작동할 데이터·프로세스 기반을 만드는 과정입니다. 부서마다 데이터 정의와 예외 로직이 다르면 AI의 결과도 달라지기 때문에, 표준 프로세스와 Clean Core를 갖춘 ERP가 AI 확산의 전제가 됩니다. SAP도 클라우드 전환을 약속한 고객에게 AI 기능을 우선 제공하고 있습니다.</p>
+	<h3><strong>Q4. ERP 전환을 AX의 출발점으로 삼으려면 무엇부터 해야 하나요?</strong></h3>
+	<p>AI를 적용할 업무를 먼저 정하고, 그 업무에 필요한 데이터와 프로세스부터 표준화하는 것이 출발점입니다. 그다음 연장 옵션 비용과 브라운필드·그린필드 같은 전환 방식을 함께 비교해 일정을 확정합니다. 전환 작업에 AI 도구를 쓸 때는 효과를 단계별로 확인하며 적용 범위를 넓히는 것이 좋습니다.</p>
+<hr/>
+	<p><strong>AX 컨설팅부터 비즈니스 모델 발굴까지</strong><br/>
+		<strong>Global Top 10 AX Service Company｜SK AX</strong></p>
+	<h3><a href="https://www.skax.co.kr/support/contact?In_SupportType=contact&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.27"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_문의하기-6.png" alt=""/></a></h3>
+	<p><a href="https://www.skax.co.kr/insight/trend/3704?utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.27"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_더-알아보기-6.png" alt=""/></a></p>
+	<p><a href="https://www.skax.co.kr/support/contact?In_SupportType=newsletter&amp;utm_campaign=homepage_organic_content&amp;utm_source=homepage_trend&amp;utm_content=ai_2026.11.27"><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_CTA_뉴스레터-구독하기-6.png" alt=""/></a></p>
+	<p>#SAPECC #S4HANA #ERP전환 #유지보수종료 #연장유지보수 #AX #AI에이전트 #CleanCore #데이터표준 #온톨로지 #AXgenticWire, #SKAX</p>
+</div>]]></description>
+			<x-step-done>fetch_detail</x-step-done>
+		</item>
 		<item>
 			<title>AI 에이전트의 통제와 재사용을 위한 Agent·Workflow 역할 분리 설계</title>
 			<link>https://www.skax.co.kr/insight/trend/3936/</link>
 			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3936/</guid>
-			<pubDate>Wed, 25 Nov 2026 00:00:00 +0900</pubDate>
+			<pubDate>Wed, 25 Nov 2026 17:32:55 +0900</pubDate>
 			<description><![CDATA[<div>
 	<p><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_1200x800_AWS-AgentCore-Gateway–Step-Functions.png" alt=""/></p>
 	<table>
@@ -665,13 +726,6 @@
 <p>#가트너 #2027전략기술트렌드 #음성추론모델 #AI에이전트아이덴티티 #AI에이전트 #에이전트거버넌스 #AI컨텍스트플랫폼 #컨택센터 #소버린테크 #AXgenticWire</p>
 </div></div>]]></description>
 			<x-step-done>fetch_detail</x-step-done>
-		</item>
-		<item>
-			<title>에이전트 하네스가 가른 AI 성과 격차, 모델보다 중요한 기업의 운영 체계화</title>
-			<link>https://www.skax.co.kr/insight/trend/3910/</link>
-			<guid isPermaLink="true">https://www.skax.co.kr/insight/trend/3910/</guid>
-			<pubDate>Wed, 11 Nov 2026 10:27:17 +0900</pubDate>
-			<description><![CDATA[<figure><img src="https://www.skax.co.kr/wp-content/uploads/SK-AX_600x400_State-of-AI-Report-2026.png"/></figure>같은 모델로도 코딩 과제 성공률이 13%p나 벌어진 지금, 기업 AI의 성과를 가르는 것은 모델일까요, 아니면 에이전트가 일하는 환경을 성과와 통제의 관점에서 함께 운영하는 체계일까요?]]></description>
 		</item>
 	</channel>
 </rss>
